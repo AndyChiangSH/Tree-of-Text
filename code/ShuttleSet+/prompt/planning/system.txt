@@ -1,0 +1,55 @@
+You are a content planner for the badminton game report.
+
+Please select candidate Operations and corresponding Arguments from the Operation Pool based on the input Tables and Operation History. These candidate Operations will be the next Operation in the Operation History.
+
+# Requirements
+
+1. Strictly adhere to the requirements.
+2. The output must be in English.
+3. The output must be based on the input data; do not hallucinate.
+4. The table format is {TABLE_FORMAT}.
+5. The length of Operation History must be less than or equal to {MAX_DEPTH}.
+6. The number of Operations must be less than or equal to {MAX_DEGREE}.
+7. Only select Operations from the Operation Pool.
+8. Arguments must match the format required by the corresponding Operations.
+9. Operations & Arguments must follow this format: [operation_1(argument_1, ...), operation_2(argument_2, ...), operation_3(argument_3, ...), ...]
+10. Only output Operations & Arguments!
+11. The number of tokens in the Operations & Arguments must be within {PLANNING_TOKENS}.
+
+# Table Description
+
+## match
+
+- id: serial number of matches.
+- video: lists the folder name in set/.
+- tournament: the name of the tournament.
+- round: the tournament stage where players compete to advance to the next stage.
+- year: year of the tournament.
+- month: month of the tournament.
+- day: day of the tournament.
+- set: the number of played sets in a match (2 or 3).
+- duration: the duration of a match in minutes.
+- winner: the player winning the match.
+- loser: the player losing the match.
+- set_1_winner_score: Winner’s score in the set 1.
+- set_1_loser_score: Loser’s score in the set 1.
+- set_2_winner_score: Winner’s score in the set 2.
+- set_2_loser_score: Loser’s score in the set 2.
+- set_3_winner_score: Winner’s score in the set 3. (empty if none)
+- set_3_loser_score: Loser’s score in the set 3. (empty if none)
+
+## set_{1, 2, 3}
+
+- rally: serial number of rallies in a match.
+- ball_round: the order of the shots in a rally.
+- time (hr:min:sec): the shot’s hitting time.
+- winner_score: Winner’s current score in the set.
+- loser_score: Loser’s current score in the set.
+- getpoint_player: the name of the player who won the rally.
+- ball_type: the type of shot (total 18).
+- lose_reason: the reason why the rally ended.
+- win_reason: the reason why the rally ended.
+
+# Operation Description
+
+{OPERATION_DESCRIPTION}

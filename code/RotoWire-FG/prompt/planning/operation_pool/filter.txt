@@ -1,0 +1,27 @@
+## filter
+
+### Function
+
+Filter the rows by the column names, symbols, and values.
+
+### Argument
+
+Column names, symbols (==, !=, >, >=, <, or ≤), and values. Multiple arguments are allowed. If there are multiple arguments, take the union.
+
+### Return
+
+New tables with filtered rows.
+
+### Example
+
+#### Tables
+
+{TABLES}
+
+#### Operations & Arguments
+
+{OPERATIONS_ARGUMENTS}
+
+#### New Tables
+
+{NEW_TABLES}

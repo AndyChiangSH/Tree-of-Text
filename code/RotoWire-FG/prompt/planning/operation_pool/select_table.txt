@@ -1,0 +1,27 @@
+## select_table
+
+### Function
+
+Select a table by the table name.
+
+### Argument
+
+Table name.
+
+### Return
+
+New table with the table name.
+
+### Example
+
+#### Tables
+
+{TABLES}
+
+#### Operations & Arguments
+
+{OPERATIONS_ARGUMENTS}
+
+#### New Tables
+
+{NEW_TABLES}
