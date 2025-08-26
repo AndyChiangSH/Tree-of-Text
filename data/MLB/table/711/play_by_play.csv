@@ -1,0 +1,66 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Kyle Lohse,1,0,0,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Kyle Lohse,2,2,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Kyle Lohse,3,1,1,Jason Kipnis,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Justin Masterson,1,2,2,Rafael Furcal,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Justin Masterson,1,0,2,Carlos Beltran,['Carlos Beltran'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Justin Masterson,2,2,2,Yadier Molina,['N/A'],['Carlos Beltran'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Justin Masterson,3,0,3,Allen Craig,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Kyle Lohse,1,0,3,Carlos Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Kyle Lohse,2,0,3,Michael Brantley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Kyle Lohse,2,1,1,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,David Freese
+2,top,0,[],Kyle Lohse,2,4,0,Casey Kotchman,['Casey Kotchman'],['Johnny Damon'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Kyle Lohse,3,3,2,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Justin Masterson,1,1,0,Matt Adams,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Justin Masterson,2,2,1,David Freese,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Justin Masterson,2,0,2,Daniel Descalso,['N/A'],['Daniel Descalso'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Justin Masterson,3,1,3,Shane Robinson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Kyle Lohse,1,0,2,Justin Masterson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Kyle Lohse,2,2,1,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Kyle Lohse,3,3,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Justin Masterson,1,1,3,Kyle Lohse,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Justin Masterson,2,1,0,Rafael Furcal,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,[],Justin Masterson,2,1,0,Carlos Beltran,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+3,bottom,0,[],Justin Masterson,3,1,1,Yadier Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Kyle Lohse,1,1,1,Jason Kipnis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Kyle Lohse,1,4,1,Carlos Santana,['Carlos Santana'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Kyle Lohse,1,0,0,Michael Brantley,['Michael Brantley'],['Carlos Santana'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Kyle Lohse,2,3,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Kyle Lohse,3,1,2,Casey Kotchman,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Justin Masterson,1,2,0,Allen Craig,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Justin Masterson,2,2,2,Matt Adams,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Justin Masterson,3,1,1,David Freese,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Kyle Lohse,1,1,0,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Kyle Lohse,2,1,3,Justin Masterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Kyle Lohse,3,0,1,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Justin Masterson,1,1,3,Daniel Descalso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Justin Masterson,2,1,0,Shane Robinson,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Justin Masterson,2,0,1,Kyle Lohse,['Kyle Lohse'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Justin Masterson,3,2,3,Rafael Furcal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Kyle Lohse,1,0,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Kyle Lohse,2,2,3,Jason Kipnis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Kyle Lohse,3,3,2,Carlos Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Justin Masterson,1,0,0,Carlos Beltran,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Justin Masterson,1,0,1,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Justin Masterson,2,2,2,Allen Craig,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Justin Masterson,3,1,0,Matt Adams,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Kyle Lohse,0,0,0,Michael Brantley,['Michael Brantley'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Kyle Lohse,1,1,2,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Kyle Lohse,2,1,1,Casey Kotchman,['Casey Kotchman'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Kyle Lohse,3,0,2,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Masterson,1,0,3,Matt Adams,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Masterson,2,0,2,David Freese,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Masterson,3,1,1,Daniel Descalso,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Kyle Lohse,1,3,2,Shelley Duncan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Kyle Lohse,2,0,0,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Kyle Lohse,2,2,0,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Marc Rzepczynski,3,0,1,Jason Kipnis,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Accardo,0,0,1,Shane Robinson,['N/A'],['Shane Robinson'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Accardo,1,2,1,Adron Chambers,['N/A'],['N/A'],['Shane Robinson'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Shane Robinson'],Jeremy Accardo,2,0,0,Rafael Furcal,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,0,1,N/A,N/A
+8,bottom,0,[],Jeremy Accardo,2,0,2,Carlos Beltran,['N/A'],['Carlos Beltran'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Accardo,2,4,0,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Accardo,3,0,0,Allen Craig,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jason Motte,1,2,2,Jason Kipnis,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jason Motte,2,3,2,Carlos Santana,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jason Motte,3,1,2,Michael Brantley,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

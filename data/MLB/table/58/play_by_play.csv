@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],John Maine,1,1,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],John Maine,2,2,1,Jose Lopez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],John Maine,3,2,2,Raul Ibanez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Miguel Batista,0,4,2,Jose Reyes,['Jose Reyes'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],N/A,0,1,2,Luis Castillo,['N/A'],['Jose Reyes'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Miguel Batista,0,3,2,Luis Castillo,['N/A'],['N/A'],['Jose Reyes'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Jose Reyes'],Miguel Batista,1,3,2,Luis Castillo,['N/A'],['Jose Reyes'],['Jose Reyes'],Groundout,N/A,1,0,1,N/A,N/A
+1,bottom,1,[],Miguel Batista,1,0,1,David Wright,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,1,N/A,N/A
+1,bottom,0,[],Miguel Batista,1,4,1,Carlos Beltran,['Carlos Beltran'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Miguel Batista,1,4,0,Carlos Delgado,['Carlos Delgado'],['Carlos Beltran'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Miguel Batista,1,1,2,Fernando Tatis,['Fernando Tatis'],['Carlos Delgado'],['Carlos Beltran'],Single,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Miguel Batista,2,2,3,Marlon Anderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Miguel Batista,3,0,2,Brian Schneider,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],John Maine,1,2,1,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],John Maine,2,1,1,Jeremy Reed,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],John Maine,3,1,3,Richie Sexson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Miguel Batista,1,0,3,John Maine,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Miguel Batista,2,0,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Miguel Batista,2,3,1,Luis Castillo,['Luis Castillo'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+2,bottom,2,['Luis Castillo'],Miguel Batista,2,0,1,David Wright,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,0,2,N/A,N/A
+2,bottom,0,[],Miguel Batista,3,0,3,Carlos Beltran,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+3,top,0,[],John Maine,1,0,2,Jeff Clement,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+3,top,0,[],John Maine,1,4,2,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Walk,N/A,4,0,N/A,N/A,N/A
+3,top,0,[],John Maine,2,2,1,Miguel Batista,['N/A'],['Willie Bloomquist'],['N/A'],Sac Bunt,N/A,4,0,N/A,N/A,N/A
+3,top,0,[],John Maine,3,0,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,0,N/A,N/A,N/A
+3,bottom,0,[],Miguel Batista,0,1,2,Carlos Delgado,['Carlos Delgado'],['N/A'],['N/A'],Hit By Pitch,N/A,4,0,N/A,N/A,N/A
+3,bottom,0,[],Miguel Batista,0,0,0,Fernando Tatis,['Fernando Tatis'],['N/A'],['Carlos Delgado'],Field Error,N/A,4,0,N/A,N/A,Adrian Beltre
+3,bottom,1,['Carlos Delgado'],Miguel Batista,1,1,1,Marlon Anderson,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,5,0,1,N/A,N/A
+3,bottom,0,[],N/A,1,2,0,Brian Schneider,['N/A'],['Fernando Tatis'],['N/A'],Stolen Base 2B,N/A,5,0,N/A,N/A,N/A
+3,bottom,0,[],Miguel Batista,1,4,1,Brian Schneider,['Brian Schneider'],['Fernando Tatis'],['N/A'],Walk,N/A,5,0,N/A,N/A,N/A
+3,bottom,0,[],Miguel Batista,2,1,2,John Maine,['N/A'],['Brian Schneider'],['Fernando Tatis'],Groundout,N/A,5,0,N/A,N/A,N/A
+3,bottom,3,"['Fernando Tatis', 'Brian Schneider']",Miguel Batista,2,1,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Home Run,N/A,8,0,3,N/A,N/A
+3,bottom,0,[],Miguel Batista,2,4,1,Luis Castillo,['Luis Castillo'],['N/A'],['N/A'],Walk,N/A,8,0,N/A,N/A,N/A
+3,bottom,0,[],Roy Corcoran,2,4,1,David Wright,['David Wright'],['Luis Castillo'],['N/A'],Walk,N/A,8,0,N/A,N/A,N/A
+3,bottom,0,[],Roy Corcoran,3,0,0,Carlos Beltran,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,0,N/A,N/A,N/A
+4,top,0,[],John Maine,1,0,0,Jose Lopez,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,0,N/A,N/A,N/A
+4,top,0,[],John Maine,2,0,1,Raul Ibanez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,0,N/A,N/A,N/A
+4,top,0,[],John Maine,3,0,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,0,N/A,N/A,N/A
+4,bottom,0,[],Roy Corcoran,1,1,0,Carlos Delgado,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,0,N/A,N/A,N/A
+4,bottom,0,[],Roy Corcoran,2,0,3,Fernando Tatis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,0,N/A,N/A,N/A
+4,bottom,0,[],Roy Corcoran,3,2,2,Marlon Anderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,0,N/A,N/A,N/A
+5,top,0,[],John Maine,0,2,2,Jeremy Reed,['Jeremy Reed'],['N/A'],['N/A'],Single,N/A,8,0,N/A,N/A,N/A
+5,top,0,[],John Maine,0,3,2,Richie Sexson,['Richie Sexson'],['N/A'],['Jeremy Reed'],Single,N/A,8,0,N/A,N/A,N/A
+5,top,0,[],John Maine,1,2,3,Jeff Clement,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,0,N/A,N/A,N/A
+5,top,1,['Jeremy Reed'],John Maine,1,2,2,Willie Bloomquist,['Willie Bloomquist'],['Richie Sexson'],['N/A'],Single,N/A,8,1,1,N/A,N/A
+5,top,0,[],John Maine,1,0,1,Miguel Cairo,['Miguel Cairo'],['Willie Bloomquist'],['Richie Sexson'],Single,N/A,8,1,N/A,N/A,N/A
+5,top,1,['Richie Sexson'],John Maine,2,1,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,8,2,1,N/A,N/A
+5,top,0,[],John Maine,3,1,1,Jose Lopez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,2,N/A,N/A,N/A
+5,bottom,0,[],Ryan Rowland-Smith,1,0,2,Brian Schneider,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,2,N/A,N/A,N/A
+5,bottom,0,[],Ryan Rowland-Smith,2,0,3,John Maine,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+5,bottom,0,[],Ryan Rowland-Smith,3,2,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,2,N/A,N/A,N/A
+6,top,0,[],John Maine,1,2,0,Raul Ibanez,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,2,N/A,N/A,N/A
+6,top,0,[],John Maine,1,4,1,Adrian Beltre,['Adrian Beltre'],['N/A'],['N/A'],Walk,N/A,8,2,N/A,N/A,N/A
+6,top,0,[],John Maine,1,2,2,Jeremy Reed,['Jeremy Reed'],['Adrian Beltre'],['N/A'],Single,N/A,8,2,N/A,N/A,N/A
+6,top,0,[],John Maine,2,1,0,Richie Sexson,['Richie Sexson'],['N/A'],['Adrian Beltre'],Forceout,N/A,8,2,N/A,N/A,N/A
+6,top,0,[],John Maine,3,2,3,Jeff Clement,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+6,bottom,0,[],Ryan Rowland-Smith,1,0,0,Luis Castillo,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,2,N/A,N/A,N/A
+6,bottom,0,[],Ryan Rowland-Smith,2,0,1,David Wright,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,2,N/A,N/A,N/A
+6,bottom,0,[],Ryan Rowland-Smith,3,3,2,Carlos Beltran,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,2,N/A,N/A,N/A
+7,top,0,[],Aaron Heilman,1,1,2,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,2,N/A,N/A,N/A
+7,top,0,[],Aaron Heilman,2,0,2,Jamie Burke,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,2,N/A,N/A,N/A
+7,top,0,[],Aaron Heilman,2,4,1,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Walk,N/A,8,2,N/A,N/A,N/A
+7,top,0,[],Aaron Heilman,2,2,2,Jose Lopez,['Jose Lopez'],['Ichiro Suzuki'],['N/A'],Single,N/A,8,2,N/A,N/A,N/A
+7,top,0,[],Aaron Heilman,3,0,2,Raul Ibanez,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,2,N/A,N/A,N/A
+7,bottom,0,[],Arthur Rhodes,1,0,0,Carlos Delgado,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,2,N/A,N/A,N/A
+7,bottom,0,[],Arthur Rhodes,2,2,3,Fernando Tatis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+7,bottom,0,[],Arthur Rhodes,3,0,0,Marlon Anderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Joe Smith,1,1,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Joe Smith,2,1,1,Jeremy Reed,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Joe Smith,2,4,1,Richie Sexson,['Richie Sexson'],['N/A'],['N/A'],Walk,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Joe Smith,3,1,1,Jeff Clement,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,2,N/A,N/A,N/A
+8,bottom,0,[],Brandon Morrow,1,0,1,Brian Schneider,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,2,N/A,N/A,N/A
+8,bottom,0,[],Brandon Morrow,2,1,0,Endy Chavez,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,2,N/A,N/A,N/A
+8,bottom,0,[],Brandon Morrow,3,1,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,2,N/A,N/A,N/A
+9,top,0,[],Duaner Sanchez,1,0,3,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+9,top,0,[],Duaner Sanchez,2,0,0,Jose Vidro,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,2,N/A,N/A,N/A
+9,top,0,[],Duaner Sanchez,3,0,3,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A

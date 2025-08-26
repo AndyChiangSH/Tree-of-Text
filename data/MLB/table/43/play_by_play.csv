@@ -1,0 +1,97 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Sidney Ponson,1,1,2,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Sidney Ponson,1,0,1,Mike Sweeney,['Mike Sweeney'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Sidney Ponson,1,1,2,Jack Cust,['N/A'],['Jack Cust'],['Mike Sweeney'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Mike Sweeney'],Sidney Ponson,1,1,2,Frank Thomas,['Frank Thomas'],['N/A'],['Jack Cust'],Single,N/A,0,1,1,N/A,N/A
+1,top,3,"['Jack Cust', 'Frank Thomas']",Sidney Ponson,1,0,0,Emil Brown,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,3,N/A,N/A
+1,top,0,[],Sidney Ponson,2,1,2,Bobby Crosby,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+1,top,0,[],Sidney Ponson,2,2,2,Mark Ellis,['N/A'],['Mark Ellis'],['N/A'],Double,N/A,0,4,N/A,N/A,N/A
+1,top,0,[],Sidney Ponson,3,1,0,Jack Hannahan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+1,bottom,0,[],Rich Harden,1,1,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+1,bottom,0,[],Rich Harden,2,0,3,Michael Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+1,bottom,0,[],Rich Harden,2,1,2,Josh Hamilton,['N/A'],['Josh Hamilton'],['N/A'],Double,N/A,0,4,N/A,N/A,N/A
+1,bottom,1,['Josh Hamilton'],Rich Harden,2,1,2,Milton Bradley,['N/A'],['Milton Bradley'],['N/A'],Double,N/A,1,4,1,N/A,N/A
+1,bottom,0,[],Rich Harden,3,3,3,David Murphy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+2,top,0,[],Sidney Ponson,1,0,1,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+2,top,0,[],Sidney Ponson,2,0,1,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+2,top,0,[],Sidney Ponson,2,0,0,Mike Sweeney,['Mike Sweeney'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+2,top,0,[],Sidney Ponson,2,2,1,Jack Cust,['Jack Cust'],['Mike Sweeney'],['N/A'],Field Error,N/A,1,4,N/A,N/A,Ramon Vazquez
+2,top,0,[],Sidney Ponson,3,1,2,Frank Thomas,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+2,bottom,0,[],Rich Harden,1,0,3,Brandon Boggs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+2,bottom,0,[],Rich Harden,2,1,3,Frank Catalanotto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+2,bottom,0,[],Rich Harden,2,4,0,Jarrod Saltalamacchia,['Jarrod Saltalamacchia'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+2,bottom,0,[],Rich Harden,2,0,2,Ramon Vazquez,['Ramon Vazquez'],['Jarrod Saltalamacchia'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+2,bottom,1,['Jarrod Saltalamacchia'],Rich Harden,2,0,2,Ian Kinsler,['N/A'],['Ian Kinsler'],['Ramon Vazquez'],Single,N/A,2,4,1,N/A,N/A
+2,bottom,0,[],Rich Harden,3,2,0,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],Sidney Ponson,1,2,2,Emil Brown,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],Sidney Ponson,2,1,0,Bobby Crosby,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],Sidney Ponson,3,1,3,Mark Ellis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Rich Harden,1,1,2,Josh Hamilton,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Rich Harden,2,1,3,Milton Bradley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Rich Harden,2,0,2,David Murphy,['David Murphy'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Rich Harden,2,2,0,Brandon Boggs,['N/A'],['David Murphy'],['N/A'],Wild Pitch,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Rich Harden,2,4,1,Brandon Boggs,['Brandon Boggs'],['David Murphy'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Rich Harden,2,4,2,Frank Catalanotto,['Frank Catalanotto'],['Brandon Boggs'],['David Murphy'],Walk,N/A,2,4,N/A,N/A,N/A
+3,bottom,2,"['David Murphy', 'Brandon Boggs']",Rich Harden,3,1,0,Jarrod Saltalamacchia,['N/A'],['N/A'],['N/A'],Single,N/A,4,4,2,N/A,N/A
+4,top,0,[],Sidney Ponson,0,1,0,Jack Hannahan,['Jack Hannahan'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Sidney Ponson,1,0,0,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Sidney Ponson,1,4,2,Kurt Suzuki,['Kurt Suzuki'],['Jack Hannahan'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Sidney Ponson,2,1,0,Mike Sweeney,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Sidney Ponson,2,4,1,Jack Cust,['Jack Cust'],['Kurt Suzuki'],['Jack Hannahan'],Walk,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Sidney Ponson,3,0,0,Frank Thomas,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Rich Harden,1,0,2,Ramon Vazquez,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Rich Harden,1,2,2,Ian Kinsler,['N/A'],['Ian Kinsler'],['N/A'],Double,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Rich Harden,2,1,2,Michael Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+4,bottom,1,['Ian Kinsler'],Rich Harden,2,0,0,Josh Hamilton,['N/A'],['N/A'],['Josh Hamilton'],Triple,N/A,5,4,1,N/A,N/A
+4,bottom,0,[],Rich Harden,2,4,2,Milton Bradley,['Milton Bradley'],['N/A'],['N/A'],Walk,N/A,5,4,N/A,N/A,N/A
+4,bottom,0,[],Joey Devine,3,3,3,David Murphy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+5,top,0,[],Sidney Ponson,1,2,2,Emil Brown,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+5,top,0,[],Sidney Ponson,2,1,0,Bobby Crosby,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,4,N/A,N/A,N/A
+5,top,0,[],Sidney Ponson,3,2,1,Mark Ellis,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+5,bottom,0,[],Joey Devine,1,1,2,Brandon Boggs,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+5,bottom,0,[],Joey Devine,2,3,2,Frank Catalanotto,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+5,bottom,0,[],Joey Devine,3,1,3,Jarrod Saltalamacchia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+6,top,0,[],Sidney Ponson,0,4,0,Jack Hannahan,['Jack Hannahan'],['N/A'],['N/A'],Walk,N/A,5,4,N/A,N/A,N/A
+6,top,0,[],Sidney Ponson,0,3,2,Ryan Sweeney,['N/A'],['Jack Hannahan'],['N/A'],Wild Pitch,N/A,5,4,N/A,N/A,N/A
+6,top,0,[],Sidney Ponson,0,4,2,Ryan Sweeney,['Ryan Sweeney'],['Jack Hannahan'],['N/A'],Walk,N/A,5,4,N/A,N/A,N/A
+6,top,0,[],Sidney Ponson,1,0,1,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+6,top,0,[],Sidney Ponson,1,2,2,Mike Sweeney,['Mike Sweeney'],['Ryan Sweeney'],['Jack Hannahan'],Single,N/A,5,4,N/A,N/A,N/A
+6,top,1,['Jack Hannahan'],Sidney Ponson,1,4,1,Jack Cust,['Jack Cust'],['Mike Sweeney'],['Ryan Sweeney'],Walk,N/A,5,5,1,N/A,N/A
+6,top,1,['Ryan Sweeney'],Franklyn German,2,1,2,Frank Thomas,['N/A'],['N/A'],['Mike Sweeney'],Sac Fly,N/A,5,6,1,N/A,N/A
+6,top,0,[],Franklyn German,3,2,2,Emil Brown,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,6,N/A,N/A,N/A
+6,bottom,0,[],Joey Devine,1,2,1,Ramon Vazquez,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+6,bottom,0,[],Joey Devine,1,0,2,Ian Kinsler,['Ian Kinsler'],['N/A'],['N/A'],Single,N/A,5,6,N/A,N/A,N/A
+6,bottom,0,[],N/A,1,1,1,Michael Young,['N/A'],['Ian Kinsler'],['N/A'],Stolen Base 2B,Error,5,6,N/A,N/A,Mark Ellis
+6,bottom,1,['Ian Kinsler'],Santiago Casilla,1,2,1,Michael Young,['Michael Young'],['N/A'],['Ian Kinsler'],Single,N/A,6,6,1,N/A,N/A
+6,bottom,0,[],Santiago Casilla,2,0,1,Josh Hamilton,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,6,N/A,N/A,N/A
+6,bottom,0,[],Santiago Casilla,3,0,1,Milton Bradley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,6,N/A,N/A,N/A
+7,top,0,[],Franklyn German,0,3,1,Bobby Crosby,['N/A'],['Bobby Crosby'],['N/A'],Double,N/A,6,6,N/A,N/A,N/A
+7,top,0,[],Franklyn German,0,3,2,Mark Ellis,['Mark Ellis'],['N/A'],['Bobby Crosby'],Single,N/A,6,6,N/A,N/A,N/A
+7,top,0,[],N/A,0,2,1,Jack Hannahan,['N/A'],['Mark Ellis'],['N/A'],Stolen Base 2B,N/A,6,7,N/A,N/A,N/A
+7,top,0,[],Franklyn German,0,2,2,Jack Hannahan,['Jack Hannahan'],['Mark Ellis'],['Mark Ellis'],Single,N/A,6,7,N/A,N/A,N/A
+7,top,1,['Mark Ellis'],Jamey Wright,1,0,1,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,6,8,1,N/A,N/A
+7,top,0,[],Jamey Wright,3,2,1,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,8,N/A,N/A,N/A
+7,bottom,0,[],Santiago Casilla,1,3,3,David Murphy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,8,N/A,N/A,N/A
+7,bottom,0,[],Santiago Casilla,2,3,1,Brandon Boggs,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,8,N/A,N/A,N/A
+7,bottom,0,[],Santiago Casilla,2,0,1,Frank Catalanotto,['Frank Catalanotto'],['N/A'],['N/A'],Single,N/A,6,8,N/A,N/A,N/A
+7,bottom,0,[],Alan Embree,2,4,2,Jarrod Saltalamacchia,['Jarrod Saltalamacchia'],['Frank Catalanotto'],['N/A'],Walk,N/A,6,8,N/A,N/A,N/A
+7,bottom,0,[],Alan Embree,3,0,0,German Duran,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,8,N/A,N/A,N/A
+8,top,0,[],Jamey Wright,1,0,0,Mike Sweeney,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,8,N/A,N/A,N/A
+8,top,0,[],Jamey Wright,1,4,1,Jack Cust,['Jack Cust'],['N/A'],['N/A'],Walk,N/A,6,8,N/A,N/A,N/A
+8,top,0,[],Jamey Wright,2,3,0,Frank Thomas,['N/A'],['Rajai Davis'],['N/A'],Groundout,N/A,6,8,N/A,N/A,N/A
+8,top,1,['Rajai Davis'],Jamey Wright,2,1,1,Emil Brown,['Emil Brown'],['N/A'],['N/A'],Single,N/A,6,9,1,N/A,N/A
+8,top,0,[],N/A,2,1,0,Bobby Crosby,['N/A'],['Emil Brown'],['N/A'],Stolen Base 2B,N/A,6,9,N/A,N/A,N/A
+8,top,0,[],Jamey Wright,3,2,3,Bobby Crosby,['N/A'],['Emil Brown'],['N/A'],Strikeout,N/A,6,9,N/A,N/A,N/A
+8,bottom,0,[],Alan Embree,1,3,3,Ian Kinsler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,9,N/A,N/A,N/A
+8,bottom,0,[],Alan Embree,2,2,2,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,9,N/A,N/A,N/A
+8,bottom,0,[],Alan Embree,3,1,3,Josh Hamilton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,9,N/A,N/A,N/A
+9,top,0,[],Eddie Guardado,0,1,1,Mark Ellis,['N/A'],['Mark Ellis'],['N/A'],Double,N/A,6,9,N/A,N/A,N/A
+9,top,0,[],Eddie Guardado,0,4,2,Jack Hannahan,['Jack Hannahan'],['N/A'],['N/A'],Walk,N/A,6,9,N/A,N/A,N/A
+9,top,1,['Donnie Murphy'],N/A,0,2,0,Ryan Sweeney,['N/A'],['Jack Hannahan'],['Donnie Murphy'],Stolen Base 2B,Error,6,10,N/A,N/A,Jarrod Saltalamacchia
+9,top,0,[],Eddie Guardado,0,4,2,Ryan Sweeney,['Ryan Sweeney'],['Jack Hannahan'],['N/A'],Walk,N/A,6,10,N/A,N/A,N/A
+9,top,0,[],Eddie Guardado,2,0,2,Kurt Suzuki,['N/A'],['N/A'],['Jack Hannahan'],Grounded Into DP,N/A,6,10,N/A,N/A,N/A
+9,top,2,['Jack Hannahan'],Eddie Guardado,2,3,1,Daric Barton,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,12,2,N/A,N/A
+9,top,0,[],Eddie Guardado,3,2,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,12,N/A,N/A,N/A
+9,bottom,0,[],Huston Street,1,0,0,Milton Bradley,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,12,N/A,N/A,N/A
+9,bottom,0,[],Huston Street,2,0,3,David Murphy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,12,N/A,N/A,N/A
+9,bottom,0,[],Huston Street,3,2,3,Brandon Boggs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,12,N/A,N/A,N/A

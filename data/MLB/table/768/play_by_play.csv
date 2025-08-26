@@ -1,0 +1,82 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Samuel Deduno,0,4,0,Austin Jackson,['Austin Jackson'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Samuel Deduno,1,0,1,Andy Dirks,['Andy Dirks'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Samuel Deduno,2,2,3,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Samuel Deduno,2,4,0,Prince Fielder,['Prince Fielder'],['Andy Dirks'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Samuel Deduno,3,3,1,Alex Avila,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Anibal Sanchez,1,0,2,Ben Revere,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Anibal Sanchez,1,0,1,Darin Mastroianni,['Darin Mastroianni'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],N/A,1,2,1,Joe Mauer,['N/A'],['Darin Mastroianni'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Anibal Sanchez,2,2,1,Joe Mauer,['N/A'],['Darin Mastroianni'],['Darin Mastroianni'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Anibal Sanchez,3,1,1,Josh Willingham,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Samuel Deduno,1,1,1,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Samuel Deduno,2,0,3,Brennan Boesch,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Samuel Deduno,2,4,1,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Samuel Deduno,3,3,1,Omar Infante,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Anibal Sanchez,1,2,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Anibal Sanchez,1,1,2,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Anibal Sanchez,2,0,1,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Anibal Sanchez,2,3,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['Ryan Doumit'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Anibal Sanchez,3,0,0,Alexi Casilla,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Samuel Deduno,1,1,1,Austin Jackson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Samuel Deduno,2,0,1,Andy Dirks,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Samuel Deduno,3,1,1,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Anibal Sanchez,1,0,1,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Anibal Sanchez,2,3,2,Darin Mastroianni,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Anibal Sanchez,2,2,2,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Anibal Sanchez,2,3,2,Josh Willingham,['Josh Willingham'],['N/A'],['Joe Mauer'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,['Joe Mauer'],Anibal Sanchez,2,0,1,Justin Morneau,['Justin Morneau'],['Josh Willingham'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+3,bottom,0,[],Anibal Sanchez,3,1,3,Ryan Doumit,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Samuel Deduno,1,0,3,Prince Fielder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Samuel Deduno,2,2,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Samuel Deduno,3,0,0,Delmon Young,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Anibal Sanchez,1,0,0,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Anibal Sanchez,2,2,1,Jamey Carroll,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Anibal Sanchez,3,0,3,Alexi Casilla,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Samuel Deduno,0,4,1,Brennan Boesch,['Brennan Boesch'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+5,top,1,['Brennan Boesch'],Samuel Deduno,0,0,0,Jhonny Peralta,['N/A'],['Jhonny Peralta'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+5,top,0,[],Samuel Deduno,0,3,2,Omar Infante,['Omar Infante'],['N/A'],['Jhonny Peralta'],Single,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Samuel Deduno,1,2,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Samuel Deduno,3,0,0,Andy Dirks,['N/A'],['N/A'],['N/A'],Double Play,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Anibal Sanchez,0,0,1,Ben Revere,['Ben Revere'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,bottom,1,[],Anibal Sanchez,1,3,2,Darin Mastroianni,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,1,1,N/A,N/A
+5,bottom,0,[],Anibal Sanchez,1,4,0,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Anibal Sanchez,1,0,1,Josh Willingham,['Josh Willingham'],['Joe Mauer'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Anibal Sanchez,3,0,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Samuel Deduno,1,0,0,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Samuel Deduno,2,1,2,Prince Fielder,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Samuel Deduno,3,1,1,Alex Avila,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Anibal Sanchez,0,0,0,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Anibal Sanchez,0,2,1,Trevor Plouffe,['N/A'],['Ryan Doumit'],['N/A'],Wild Pitch,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Anibal Sanchez,1,2,3,Trevor Plouffe,['N/A'],['Ryan Doumit'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Anibal Sanchez,1,1,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['Ryan Doumit'],Single,N/A,2,1,N/A,N/A,N/A
+6,bottom,1,['Ryan Doumit'],Anibal Sanchez,1,2,2,Alexi Casilla,['N/A'],['Alexi Casilla'],['Jamey Carroll'],Double,N/A,3,1,1,N/A,N/A
+6,bottom,0,[],Phil Coke,2,1,2,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+6,bottom,2,"['Jamey Carroll', 'Alexi Casilla']",Phil Coke,3,1,1,Darin Mastroianni,['N/A'],['N/A'],['N/A'],Single,N/A,5,1,2,N/A,N/A
+7,top,0,[],Samuel Deduno,1,1,0,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Samuel Deduno,2,1,3,Brennan Boesch,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Samuel Deduno,2,4,2,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Samuel Deduno,3,0,0,Omar Infante,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Duane Below,0,2,1,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],N/A,0,3,2,Josh Willingham,['N/A'],['Joe Mauer'],['N/A'],Stolen Base 2B,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Duane Below,0,4,2,Josh Willingham,['Josh Willingham'],['Joe Mauer'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Duane Below,1,1,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,1,N/A,N/A,N/A
+7,bottom,3,"['Joe Mauer', 'Josh Willingham']",Duane Below,1,2,2,Ryan Doumit,['N/A'],['N/A'],['N/A'],Home Run,N/A,8,1,3,N/A,N/A
+7,bottom,0,[],Duane Below,2,0,0,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,1,N/A,N/A,N/A
+7,bottom,0,[],Duane Below,2,0,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,8,1,N/A,N/A,N/A
+7,bottom,0,[],Duane Below,3,0,3,Alexi Casilla,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],Samuel Deduno,0,1,0,Austin Jackson,['Austin Jackson'],['N/A'],['N/A'],Single,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],Samuel Deduno,0,2,2,Andy Dirks,['N/A'],['Andy Dirks'],['Austin Jackson'],Double,N/A,8,1,N/A,N/A,N/A
+8,top,1,['Austin Jackson'],Samuel Deduno,0,0,1,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Single,N/A,8,2,1,N/A,N/A
+8,top,0,[],Tyler Robertson,1,0,0,Prince Fielder,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Tyler Robertson,2,1,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+8,top,1,['Andy Dirks'],Tyler Robertson,2,2,1,Delmon Young,['Delmon Young'],['Miguel Cabrera'],['N/A'],Single,N/A,8,3,1,N/A,N/A
+8,top,0,[],Jeff Gray,3,1,1,Jeff Baker,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,3,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,0,1,0,Ben Revere,['Ben Revere'],['N/A'],['N/A'],Single,N/A,8,3,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,1,0,3,Darin Mastroianni,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,3,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,1,3,1,Joe Mauer,['Joe Mauer'],['N/A'],['Ben Revere'],Single,N/A,8,3,N/A,N/A,N/A
+8,bottom,1,['Ben Revere'],Joaquin Benoit,2,3,2,Josh Willingham,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,9,3,1,N/A,N/A
+8,bottom,0,[],Darin Downs,3,0,0,Justin Morneau,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,3,N/A,N/A,N/A
+9,top,0,[],Jeff Gray,1,1,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,3,N/A,N/A,N/A
+9,top,0,[],Jeff Gray,2,1,1,Omar Infante,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,3,N/A,N/A,N/A
+9,top,0,[],Jeff Gray,3,1,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,3,N/A,N/A,N/A

@@ -1,0 +1,87 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Scott Baker,1,0,0,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Scott Baker,2,1,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Scott Baker,3,1,3,Carlos Quentin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Danks,1,1,3,Denard Span,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Danks,1,0,2,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Danks,1,4,1,Joe Mauer,['Joe Mauer'],['Nick Punto'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Danks,2,1,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Danks,3,0,0,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,0,4,2,Jermaine Dye,['Jermaine Dye'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,2,['Jermaine Dye'],Scott Baker,0,3,2,Jim Thome,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+2,top,0,[],Scott Baker,1,0,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,1,4,1,Nick Swisher,['Nick Swisher'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,2,2,3,Josh Fields,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],N/A,2,2,1,Dewayne Wise,['N/A'],['Nick Swisher'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,3,2,3,Dewayne Wise,['N/A'],['Nick Swisher'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Danks,1,2,3,Jason Kubel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Danks,1,2,2,Brendan Harris,['N/A'],['Brendan Harris'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Danks,2,2,1,Adam Everett,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Danks,3,0,3,Carlos Gomez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,0,1,0,Orlando Cabrera,['Orlando Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,1,0,0,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,1,0,0,Carlos Quentin,['Carlos Quentin'],['Orlando Cabrera'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,2,2,3,Jermaine Dye,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,3,2,3,Jim Thome,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Danks,1,1,2,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Danks,2,2,1,Nick Punto,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Danks,2,0,0,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Danks,3,1,3,Justin Morneau,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,1,1,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,2,0,2,Nick Swisher,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,3,2,3,Josh Fields,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Danks,1,0,1,Delmon Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Danks,2,2,2,Jason Kubel,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Danks,2,3,2,Brendan Harris,['N/A'],['Brendan Harris'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Danks,3,3,1,Adam Everett,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Scott Baker,0,4,2,Dewayne Wise,['Dewayne Wise'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Scott Baker,0,0,1,Orlando Cabrera,['Orlando Cabrera'],['N/A'],['Dewayne Wise'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],N/A,0,1,1,N/A,['N/A'],['Orlando Cabrera'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,2,"['Dewayne Wise', 'Orlando Cabrera']",Scott Baker,1,1,2,A.J. Pierzynski,['N/A'],['Orlando Cabrera'],['N/A'],Single,N/A,0,4,2,N/A,N/A
+5,top,0,[],Scott Baker,2,0,1,Carlos Quentin,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Scott Baker,3,1,2,Jermaine Dye,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Danks,0,0,1,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Danks,1,1,1,Denard Span,['Denard Span'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Danks,2,0,1,Nick Punto,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Danks,2,0,0,Joe Mauer,['Joe Mauer'],['Denard Span'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,3,"['Denard Span', 'Joe Mauer']",John Danks,2,1,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,4,3,N/A,N/A
+5,bottom,0,[],John Danks,2,0,0,Delmon Young,['N/A'],['Delmon Young'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Danks,3,1,0,Jason Kubel,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Scott Baker,1,1,0,Jim Thome,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Scott Baker,2,0,3,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Scott Baker,3,1,3,Nick Swisher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Danks,1,2,2,Brendan Harris,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Danks,2,2,0,Adam Everett,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Danks,3,0,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Jesse Crain,1,2,3,Josh Fields,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Jesse Crain,1,0,2,Dewayne Wise,['Dewayne Wise'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],N/A,1,2,1,Orlando Cabrera,['N/A'],['Dewayne Wise'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Jesse Crain,2,2,1,Orlando Cabrera,['Orlando Cabrera'],['Dewayne Wise'],['N/A'],Fielders Choice Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Jesse Crain,3,0,0,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],John Danks,0,4,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Thornton,1,2,2,Nick Punto,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Thornton,1,2,1,Joe Mauer,['N/A'],['Denard Span'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,1,['Denard Span'],Matt Thornton,1,3,1,Joe Mauer,['Joe Mauer'],['Denard Span'],['N/A'],Single,N/A,4,4,1,N/A,N/A
+7,bottom,0,[],Matt Thornton,2,1,2,Justin Morneau,['Justin Morneau'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Octavio Dotel,2,2,0,Delmon Young,['Delmon Young'],['Justin Morneau'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,3,"['Justin Morneau', 'Delmon Young']",Octavio Dotel,2,2,2,Jason Kubel,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,4,3,N/A,N/A
+7,bottom,0,[],Octavio Dotel,2,4,2,Brendan Harris,['Brendan Harris'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Ehren Wassermann,3,1,2,Adam Everett,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Matt Guerrier,0,1,1,Carlos Quentin,['N/A'],['Carlos Quentin'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Matt Guerrier,0,3,2,Jermaine Dye,['N/A'],['N/A'],['Carlos Quentin'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,2,['Carlos Quentin'],Matt Guerrier,0,3,2,Jermaine Dye,['N/A'],['N/A'],['Carlos Quentin'],Home Run,N/A,7,6,2,N/A,N/A
+8,top,0,[],Matt Guerrier,1,1,1,Jim Thome,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Matt Guerrier,2,0,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Matt Guerrier,3,1,3,Nick Swisher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Ehren Wassermann,0,1,2,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Juan Uribe
+8,bottom,0,[],Boone Logan,0,1,0,Denard Span,['Denard Span'],['N/A'],['Carlos Gomez'],Sac Bunt,Error,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Carlos Gomez'],Boone Logan,0,3,2,Nick Punto,['N/A'],['Nick Punto'],['Denard Span'],Double,N/A,8,6,1,N/A,N/A
+8,bottom,1,['Denard Span'],Boone Logan,1,2,2,Joe Mauer,['N/A'],['N/A'],['Nick Punto'],Groundout,N/A,9,6,1,N/A,N/A
+8,bottom,0,[],Boone Logan,1,4,0,Justin Morneau,['Justin Morneau'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Nick Punto'],Boone Logan,1,2,2,Delmon Young,['Delmon Young'],['Justin Morneau'],['N/A'],Single,N/A,10,6,1,N/A,N/A
+8,bottom,0,[],Boone Logan,2,1,2,Jason Kubel,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Boone Logan,2,4,1,Brendan Harris,['Brendan Harris'],['Delmon Young'],['Justin Morneau'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Boone Logan,3,0,1,Adam Everett,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,1,1,3,Juan Uribe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,2,2,3,Dewayne Wise,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,3,0,0,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

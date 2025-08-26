@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Wily Peralta,0,1,2,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Wily Peralta,1,0,0,Cesar Izturis,['N/A'],['Shin-Soo Choo'],['N/A'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Wily Peralta,1,1,0,Joey Votto,['Joey Votto'],['N/A'],['Shin-Soo Choo'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Wily Peralta,3,3,1,Brandon Phillips,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Homer Bailey,1,0,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Homer Bailey,2,1,2,Logan Schafer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Homer Bailey,3,2,1,Jean Segura,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,0,1,1,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,0,1,2,Chris Heisey,['Chris Heisey'],['Jay Bruce'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,0,0,0,Jack Hannahan,['Jack Hannahan'],['Chris Heisey'],['Jay Bruce'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,2,"['Jay Bruce', 'Chris Heisey']",Wily Peralta,0,2,2,Ryan Hanigan,['Ryan Hanigan'],['Jack Hannahan'],['N/A'],Single,N/A,0,2,2,N/A,N/A
+2,top,0,[],Wily Peralta,1,0,0,Homer Bailey,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,1,4,2,Shin-Soo Choo,['Shin-Soo Choo'],['Ryan Hanigan'],['Jack Hannahan'],Walk,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,2,0,0,Cesar Izturis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+2,top,1,['Jack Hannahan'],N/A,2,1,0,Joey Votto,['N/A'],[],['Ryan Hanigan'],Passed Ball,N/A,0,3,N/A,N/A,Martin Maldonado
+2,top,0,[],Wily Peralta,2,4,0,Joey Votto,['Joey Votto'],['Shin-Soo Choo'],['Ryan Hanigan'],Intent Walk,N/A,0,3,N/A,N/A,N/A
+2,top,2,"['Ryan Hanigan', 'Shin-Soo Choo']",Wily Peralta,2,1,0,Brandon Phillips,['N/A'],['Brandon Phillips'],['Joey Votto'],Single,Error,0,5,2,N/A,Khris Davis
+2,top,0,[],Wily Peralta,3,3,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,5,N/A,N/A,N/A
+2,bottom,0,[],Homer Bailey,1,3,3,Juan Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+2,bottom,0,[],Homer Bailey,2,0,0,Khris Davis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+2,bottom,0,[],Homer Bailey,2,0,2,Scooter Gennett,['N/A'],['Scooter Gennett'],['N/A'],Double,N/A,0,5,N/A,N/A,N/A
+2,bottom,0,[],Homer Bailey,3,1,3,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+3,top,0,[],Wily Peralta,1,1,2,Chris Heisey,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+3,top,0,[],Wily Peralta,2,0,3,Jack Hannahan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+3,top,0,[],Wily Peralta,3,2,3,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+3,bottom,0,[],Homer Bailey,1,0,0,Martin Maldonado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+3,bottom,0,[],Homer Bailey,2,2,3,Wily Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+3,bottom,0,[],Homer Bailey,3,2,2,Norichika Aoki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+4,top,0,[],Wily Peralta,1,1,2,Homer Bailey,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+4,top,0,[],Wily Peralta,1,4,2,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Walk,N/A,0,5,N/A,N/A,N/A
+4,top,0,[],Wily Peralta,2,1,3,Cesar Izturis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+4,top,0,[],Wily Peralta,3,3,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Homer Bailey,1,2,3,Logan Schafer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Homer Bailey,2,3,2,Jean Segura,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Homer Bailey,3,1,3,Juan Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Wily Peralta,0,4,0,Brandon Phillips,['Brandon Phillips'],['N/A'],['N/A'],Walk,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Wily Peralta,0,3,2,Jay Bruce,['N/A'],['Brandon Phillips'],['N/A'],Wild Pitch,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Wily Peralta,1,3,2,Jay Bruce,['N/A'],['Brandon Phillips'],['Brandon Phillips'],Flyout,N/A,0,5,N/A,N/A,N/A
+5,top,1,['Brandon Phillips'],Wily Peralta,1,0,0,Chris Heisey,['Chris Heisey'],['N/A'],['N/A'],Single,N/A,0,6,1,N/A,N/A
+5,top,0,[],Tyler Thornburg,1,4,2,Jack Hannahan,['Jack Hannahan'],['Chris Heisey'],['N/A'],Walk,N/A,0,6,N/A,N/A,N/A
+5,top,1,['Chris Heisey'],Tyler Thornburg,1,2,2,Ryan Hanigan,['Ryan Hanigan'],['Jack Hannahan'],['N/A'],Single,N/A,0,7,1,N/A,N/A
+5,top,0,[],Tyler Thornburg,2,0,1,Homer Bailey,['N/A'],['Ryan Hanigan'],['Jack Hannahan'],Sac Bunt,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Tyler Thornburg,2,4,1,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+5,top,1,['Jack Hannahan'],Tyler Thornburg,2,4,1,Cesar Izturis,['Cesar Izturis'],['Shin-Soo Choo'],['Ryan Hanigan'],Walk,N/A,0,8,1,N/A,N/A
+5,top,1,['Ryan Hanigan'],Tyler Thornburg,2,4,1,Joey Votto,['Joey Votto'],['Cesar Izturis'],['Shin-Soo Choo'],Walk,N/A,0,9,1,N/A,N/A
+5,top,0,[],Tyler Thornburg,3,1,0,Brandon Phillips,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,9,N/A,N/A,N/A
+5,bottom,1,[],Homer Bailey,0,0,1,Khris Davis,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,9,1,N/A,N/A
+5,bottom,0,[],Homer Bailey,1,0,0,Scooter Gennett,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+5,bottom,0,[],Homer Bailey,2,1,2,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+5,bottom,0,[],Homer Bailey,3,0,1,Martin Maldonado,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+6,top,0,[],Tyler Thornburg,1,2,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+6,top,0,[],Tyler Thornburg,2,1,2,Chris Heisey,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,9,N/A,N/A,N/A
+6,top,0,[],Tyler Thornburg,2,4,2,Jack Hannahan,['Jack Hannahan'],['N/A'],['N/A'],Walk,N/A,1,9,N/A,N/A,N/A
+6,top,0,[],Tyler Thornburg,3,0,0,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,9,N/A,N/A,N/A
+6,bottom,0,[],Homer Bailey,1,2,3,Sean Halton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+6,bottom,0,[],Homer Bailey,2,1,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+6,bottom,0,[],Homer Bailey,3,2,2,Logan Schafer,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Burke Badenhop,1,1,1,Homer Bailey,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Burke Badenhop,1,1,1,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Single,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Burke Badenhop,3,2,0,Cesar Izturis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,9,N/A,N/A,N/A
+7,bottom,0,[],Homer Bailey,1,1,3,Jean Segura,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+7,bottom,0,[],Homer Bailey,2,2,3,Juan Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+7,bottom,0,[],Homer Bailey,2,1,2,Khris Davis,['Khris Davis'],['N/A'],['N/A'],Single,N/A,1,9,N/A,N/A,N/A
+7,bottom,0,[],Homer Bailey,2,4,2,Scooter Gennett,['Scooter Gennett'],['Khris Davis'],['N/A'],Walk,N/A,1,9,N/A,N/A,N/A
+7,bottom,0,[],Homer Bailey,3,0,0,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+8,top,0,[],Burke Badenhop,1,1,0,Todd Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+8,top,0,[],Burke Badenhop,2,1,1,Brandon Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+8,top,0,[],Burke Badenhop,3,3,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,9,N/A,N/A,N/A
+8,bottom,0,[],Homer Bailey,1,3,2,Martin Maldonado,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+8,bottom,0,[],Homer Bailey,2,3,2,Sean Halton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,9,N/A,N/A,N/A
+8,bottom,0,[],Homer Bailey,3,0,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+9,top,0,[],Michael Gonzalez,1,1,1,Chris Heisey,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+9,top,0,[],Michael Gonzalez,2,1,3,Jack Hannahan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+9,top,0,[],Michael Gonzalez,3,1,2,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,9,N/A,N/A,N/A
+9,bottom,0,[],Alfredo Simon,0,0,2,Logan Schafer,['Logan Schafer'],['N/A'],['N/A'],Single,N/A,1,9,N/A,N/A,N/A
+9,bottom,0,[],Alfredo Simon,2,0,1,Jeff Bianchi,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,9,N/A,N/A,N/A
+9,bottom,0,[],Alfredo Simon,3,0,3,Juan Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A

@@ -1,0 +1,117 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Manny Parra,1,2,2,Skip Schumaker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Manny Parra,2,2,1,Brian Barton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Manny Parra,3,3,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kyle Lohse,1,1,2,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kyle Lohse,2,1,1,Craig Counsell,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kyle Lohse,2,3,2,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kyle Lohse,2,0,0,Prince Fielder,['Prince Fielder'],['Ryan Braun'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kyle Lohse,3,1,2,Corey Hart,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Manny Parra,0,4,1,Ryan Ludwick,['Ryan Ludwick'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Manny Parra,1,1,0,Troy Glaus,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Manny Parra,2,2,0,Jason LaRue,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Manny Parra,2,2,1,Aaron Miles,['Aaron Miles'],['N/A'],['Ryan Ludwick'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Ryan Ludwick'],Manny Parra,2,0,2,Kyle Lohse,['Kyle Lohse'],['N/A'],['Aaron Miles'],Single,N/A,0,1,1,N/A,N/A
+2,top,0,[],Manny Parra,3,1,0,Cesar Izturis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Lohse,1,1,2,Bill Hall,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Lohse,2,3,1,Gabe Gross,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Lohse,3,3,2,Manny Parra,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Manny Parra,1,2,3,Skip Schumaker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Manny Parra,1,4,2,Brian Barton,['Brian Barton'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Manny Parra,1,2,2,Albert Pujols,['Albert Pujols'],['Brian Barton'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,1,['Brian Barton'],Manny Parra,1,1,1,Ryan Ludwick,['Ryan Ludwick'],['Albert Pujols'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+3,top,0,[],Manny Parra,2,2,2,Troy Glaus,['Troy Glaus'],['N/A'],['Ryan Ludwick'],Single,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Manny Parra,3,1,2,Jason LaRue,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Kyle Lohse,1,3,2,Jason Kendall,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Kyle Lohse,1,1,1,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Kyle Lohse,1,1,1,Craig Counsell,['Craig Counsell'],['Rickie Weeks Jr.'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,bottom,2,"['Rickie Weeks Jr.', 'Craig Counsell']",Kyle Lohse,1,1,0,Ryan Braun,['N/A'],['Ryan Braun'],['N/A'],Double,N/A,2,2,2,N/A,N/A
+3,bottom,0,[],Kyle Lohse,1,4,0,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+3,bottom,1,['Ryan Braun'],Kyle Lohse,2,0,0,Corey Hart,['N/A'],['Corey Hart'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+3,bottom,0,[],Kyle Lohse,3,0,1,Bill Hall,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Manny Parra,1,0,2,Aaron Miles,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Manny Parra,2,2,1,Kyle Lohse,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Manny Parra,2,3,2,Cesar Izturis,['Cesar Izturis'],['N/A'],['N/A'],Field Error,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Manny Parra,2,2,1,Skip Schumaker,['Skip Schumaker'],['Cesar Izturis'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Manny Parra,3,2,3,Brian Barton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Kyle Lohse,0,2,1,Gabe Gross,['N/A'],['Gabe Gross'],['N/A'],Double,N/A,3,2,N/A,N/A,N/A
+4,bottom,1,['Gabe Gross'],Kyle Lohse,0,2,2,Manny Parra,['N/A'],['Manny Parra'],['N/A'],Double,N/A,4,2,1,N/A,N/A
+4,bottom,0,[],Kyle Lohse,1,2,0,Jason Kendall,['N/A'],['N/A'],['Manny Parra'],Flyout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Kyle Lohse,1,4,2,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],N/A,1,2,1,Craig Counsell,['N/A'],['N/A'],['N/A'],Stolen Base 2B,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Kyle Lohse,2,2,3,Craig Counsell,['N/A'],['Rickie Weeks Jr.'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Kyle Lohse,3,0,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Manny Parra,0,3,1,Albert Pujols,['N/A'],['Albert Pujols'],['N/A'],Double,N/A,4,2,N/A,N/A,N/A
+5,top,1,['Albert Pujols'],Manny Parra,0,1,2,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Wild Pitch,N/A,4,3,N/A,N/A,N/A
+5,top,0,[],Manny Parra,1,1,2,Ryan Ludwick,['N/A'],['N/A'],['Albert Pujols'],Flyout,N/A,4,3,N/A,N/A,N/A
+5,top,0,[],Manny Parra,1,3,1,Troy Glaus,['Troy Glaus'],['N/A'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+5,top,0,[],Manny Parra,2,1,1,Jason LaRue,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,3,N/A,N/A,N/A
+5,top,0,[],Manny Parra,2,0,0,Aaron Miles,['Aaron Miles'],['Troy Glaus'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+5,top,0,[],Manny Parra,3,0,1,Chris Duncan,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,3,N/A,N/A,N/A
+5,bottom,0,[],Brad Thompson,0,1,2,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+5,bottom,0,[],Brad Thompson,2,0,0,Corey Hart,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,3,N/A,N/A,N/A
+5,bottom,0,[],Brad Thompson,3,1,2,Bill Hall,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+6,top,0,[],Mitch Stetter,1,0,1,Cesar Izturis,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+6,top,0,[],Mitch Stetter,1,4,1,Skip Schumaker,['Skip Schumaker'],['N/A'],['N/A'],Walk,N/A,4,3,N/A,N/A,N/A
+6,top,0,[],David Riske,2,1,0,Rick Ankiel,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+6,top,0,[],David Riske,3,2,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,3,N/A,N/A,N/A
+6,bottom,0,[],Brad Thompson,0,4,1,Gabe Gross,['Gabe Gross'],['N/A'],['N/A'],Walk,N/A,4,3,N/A,N/A,N/A
+6,bottom,0,[],Brad Thompson,0,1,1,Gabe Kapler,['Gabe Kapler'],['Gabe Gross'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+6,bottom,0,[],Brad Thompson,0,0,0,Jason Kendall,['Jason Kendall'],['Gabe Kapler'],['Gabe Gross'],Single,N/A,4,3,N/A,N/A,N/A
+6,bottom,3,"['Gabe Gross', 'Gabe Kapler', 'Jason Kendall']",Brad Thompson,0,0,1,Rickie Weeks Jr.,['N/A'],['N/A'],['Rickie Weeks Jr.'],Triple,N/A,7,3,3,N/A,N/A
+6,bottom,0,[],Randy Flores,1,0,3,Craig Counsell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+6,bottom,0,[],Randy Flores,1,4,0,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Intent Walk,N/A,7,3,N/A,N/A,N/A
+6,bottom,1,['Rickie Weeks Jr.'],Randy Flores,2,1,1,Prince Fielder,['N/A'],['Ryan Braun'],['N/A'],Sac Fly,N/A,8,3,1,N/A,N/A
+6,bottom,0,[],Randy Flores,3,0,0,David Riske,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,3,N/A,N/A,N/A
+7,top,0,[],David Riske,0,4,1,Ryan Ludwick,['Ryan Ludwick'],['N/A'],['N/A'],Walk,N/A,8,3,N/A,N/A,N/A
+7,top,0,[],David Riske,0,1,0,Troy Glaus,['N/A'],['Troy Glaus'],['Ryan Ludwick'],Double,N/A,8,3,N/A,N/A,N/A
+7,top,0,[],David Riske,0,4,2,Jason LaRue,['Jason LaRue'],['N/A'],['N/A'],Walk,N/A,8,3,N/A,N/A,N/A
+7,top,1,['Ryan Ludwick'],Brian Shouse,0,1,2,Aaron Miles,['Aaron Miles'],['Jason LaRue'],['Troy Glaus'],Single,N/A,8,4,1,N/A,N/A
+7,top,1,['Troy Glaus'],Brian Shouse,1,0,0,Adam Wainwright,['N/A'],['N/A'],['Jason LaRue'],Sac Fly,N/A,8,5,1,N/A,N/A
+7,top,1,['Jason LaRue'],Brian Shouse,1,0,1,Cesar Izturis,['Cesar Izturis'],['Aaron Miles'],['N/A'],Single,N/A,8,6,1,N/A,N/A
+7,top,0,[],Brian Shouse,2,2,3,Skip Schumaker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,6,N/A,N/A,N/A
+7,top,0,[],Brian Shouse,2,0,0,Rick Ankiel,['Rick Ankiel'],['Cesar Izturis'],['Aaron Miles'],Single,N/A,8,6,N/A,N/A,N/A
+7,top,1,['Aaron Miles'],Salomon Torres,2,4,0,Albert Pujols,['Albert Pujols'],['Rick Ankiel'],['Cesar Izturis'],Walk,N/A,8,7,1,N/A,N/A
+7,top,0,[],Salomon Torres,3,2,3,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,7,N/A,N/A,N/A
+7,bottom,0,[],Russ Springer,1,2,3,Bill Hall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,7,N/A,N/A,N/A
+7,bottom,0,[],Russ Springer,1,0,2,Gabe Gross,['N/A'],['Gabe Gross'],['N/A'],Double,N/A,8,7,N/A,N/A,N/A
+7,bottom,0,[],Russ Springer,2,0,0,Gabe Kapler,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,7,N/A,N/A,N/A
+7,bottom,0,[],Russ Springer,3,0,0,Jason Kendall,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,7,N/A,N/A,N/A
+8,top,0,[],Salomon Torres,1,3,2,Troy Glaus,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,7,N/A,N/A,N/A
+8,top,0,[],Salomon Torres,2,1,1,Jason LaRue,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,7,N/A,N/A,N/A
+8,top,0,[],Salomon Torres,2,0,0,Aaron Miles,['Aaron Miles'],['N/A'],['N/A'],Single,N/A,8,7,N/A,N/A,N/A
+8,top,0,[],Salomon Torres,3,0,1,Adam Kennedy,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,7,N/A,N/A,N/A
+8,bottom,0,[],Kyle McClellan,1,0,0,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,7,N/A,N/A,N/A
+8,bottom,0,[],Kyle McClellan,2,2,2,Craig Counsell,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,7,N/A,N/A,N/A
+8,bottom,0,[],Kyle McClellan,3,1,1,Ryan Braun,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,7,N/A,N/A,N/A
+9,top,0,[],Eric Gagne,0,3,2,Cesar Izturis,['Cesar Izturis'],['N/A'],['N/A'],Hit By Pitch,N/A,8,7,N/A,N/A,N/A
+9,top,0,[],Eric Gagne,0,1,1,Skip Schumaker,['Skip Schumaker'],['N/A'],['Cesar Izturis'],Single,N/A,8,7,N/A,N/A,N/A
+9,top,0,[],Eric Gagne,1,1,3,Rick Ankiel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,7,N/A,N/A,N/A
+9,top,1,['Cesar Izturis'],Eric Gagne,2,0,2,Albert Pujols,['Albert Pujols'],['N/A'],['N/A'],Forceout,N/A,8,8,1,N/A,N/A
+9,top,0,[],Eric Gagne,2,4,2,Ryan Ludwick,['Ryan Ludwick'],['Albert Pujols'],['N/A'],Walk,N/A,8,8,N/A,N/A,N/A
+9,top,0,[],Eric Gagne,3,0,3,Troy Glaus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+9,bottom,0,[],Kyle McClellan,0,2,1,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Single,N/A,8,8,N/A,N/A,N/A
+9,bottom,0,[],Kyle McClellan,1,1,1,Jeff Suppan,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,8,8,N/A,N/A,N/A
+9,bottom,0,[],Kyle McClellan,2,1,3,Bill Hall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+9,bottom,0,[],Kyle McClellan,3,2,0,Gabe Gross,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,8,N/A,N/A,N/A
+10,top,0,[],Guillermo Mota,1,0,0,Jason LaRue,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,8,N/A,N/A,N/A
+10,top,0,[],Guillermo Mota,1,4,2,Aaron Miles,['Aaron Miles'],['N/A'],['N/A'],Walk,N/A,8,8,N/A,N/A,N/A
+10,top,0,[],Guillermo Mota,2,1,1,Braden Looper,['N/A'],['Aaron Miles'],['N/A'],Sac Bunt,N/A,8,8,N/A,N/A,N/A
+10,top,0,[],Guillermo Mota,3,0,0,Yadier Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,8,N/A,N/A,N/A
+10,bottom,0,[],Ryan Franklin,1,1,0,Gabe Kapler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,8,N/A,N/A,N/A
+10,bottom,0,[],Ryan Franklin,2,1,3,Jason Kendall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+10,bottom,0,[],Ryan Franklin,3,1,2,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,8,N/A,N/A,N/A
+11,top,0,[],Guillermo Mota,0,2,1,Skip Schumaker,['Skip Schumaker'],['N/A'],['N/A'],Single,N/A,8,8,N/A,N/A,N/A
+11,top,0,[],Guillermo Mota,2,0,1,Rick Ankiel,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,8,8,N/A,N/A,N/A
+11,top,0,[],Guillermo Mota,3,3,3,Albert Pujols,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+11,bottom,0,[],Ryan Franklin,1,3,2,Craig Counsell,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,8,N/A,N/A,N/A
+11,bottom,0,[],Ryan Franklin,2,1,0,Ryan Braun,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,8,N/A,N/A,N/A
+11,bottom,0,[],Ryan Franklin,2,4,2,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Walk,N/A,8,8,N/A,N/A,N/A
+11,bottom,0,[],Ryan Franklin,3,2,1,J.J. Hardy,['N/A'],['N/A'],['N/A'],Forceout,N/A,8,8,N/A,N/A,N/A
+12,top,0,[],Seth McClung,1,2,3,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+12,top,0,[],Seth McClung,2,0,0,Troy Glaus,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,8,N/A,N/A,N/A
+12,top,0,[],Seth McClung,3,2,3,Jason LaRue,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+12,bottom,0,[],Jason Isringhausen,1,3,1,Bill Hall,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,8,N/A,N/A,N/A
+12,bottom,0,[],Jason Isringhausen,1,4,0,Gabe Gross,['Gabe Gross'],['N/A'],['N/A'],Walk,N/A,8,8,N/A,N/A,N/A
+12,bottom,0,[],N/A,1,1,1,Gabe Kapler,['N/A'],['Gabe Gross'],['N/A'],Stolen Base 2B,N/A,8,8,N/A,N/A,N/A
+12,bottom,1,['Gabe Gross'],Jason Isringhausen,1,1,2,Gabe Kapler,['Gabe Kapler'],['Gabe Gross'],['N/A'],Single,N/A,9,8,1,N/A,N/A

@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Bartolo Colon,1,3,2,Dustin Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bartolo Colon,2,3,2,Marcus Semien,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bartolo Colon,2,2,2,Jed Lowrie,['N/A'],['Jed Lowrie'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bartolo Colon,3,3,3,Khris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Daniel Mengden,0,4,2,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Daniel Mengden,2,0,1,Isiah Kiner-Falefa,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Daniel Mengden,2,1,1,Nomar Mazara,['N/A'],['Nomar Mazara'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,2,['Nomar Mazara'],Daniel Mengden,2,1,0,Jurickson Profar,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,2,N/A,N/A
+1,bottom,1,[],Daniel Mengden,2,1,2,Joey Gallo,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,0,1,N/A,N/A
+1,bottom,0,[],Daniel Mengden,3,0,2,Rougned Odor,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Bartolo Colon,1,1,0,Matt Olson,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Bartolo Colon,1,4,1,Matt Chapman,['Matt Chapman'],['N/A'],['N/A'],Walk,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Bartolo Colon,2,1,0,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Bartolo Colon,3,0,2,Mark Canha,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Daniel Mengden,0,4,2,Robinson Chirinos,['Robinson Chirinos'],['N/A'],['N/A'],Walk,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Daniel Mengden,1,1,1,Ronald Guzman,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Daniel Mengden,2,3,2,Delino DeShields,['N/A'],['Robinson Chirinos'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Daniel Mengden,3,2,3,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Bartolo Colon,1,3,2,Chad Pinder,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Bartolo Colon,1,0,0,Dustin Fowler,['Dustin Fowler'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Bartolo Colon,2,3,1,Marcus Semien,['N/A'],['Dustin Fowler'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Bartolo Colon,2,4,2,Jed Lowrie,['Jed Lowrie'],['N/A'],['N/A'],Walk,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Bartolo Colon,3,0,0,Khris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Daniel Mengden,1,0,1,Isiah Kiner-Falefa,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Daniel Mengden,2,3,2,Nomar Mazara,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,0,N/A,N/A,N/A
+3,bottom,1,[],Daniel Mengden,2,0,0,Jurickson Profar,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,0,1,N/A,N/A
+3,bottom,0,[],Daniel Mengden,3,3,3,Joey Gallo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Bartolo Colon,1,1,1,Matt Olson,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Bartolo Colon,2,1,2,Matt Chapman,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Bartolo Colon,2,2,1,Jonathan Lucroy,['N/A'],['Jonathan Lucroy'],['N/A'],Single,Error,4,0,N/A,N/A,Jurickson Profar
+4,top,0,[],Bartolo Colon,2,3,2,Mark Canha,['Mark Canha'],['N/A'],['Jonathan Lucroy'],Single,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Bartolo Colon,3,0,2,Chad Pinder,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Daniel Mengden,1,2,2,Rougned Odor,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Daniel Mengden,1,4,0,Robinson Chirinos,['Robinson Chirinos'],['N/A'],['N/A'],Walk,N/A,4,0,N/A,N/A,N/A
+4,bottom,2,['Robinson Chirinos'],Daniel Mengden,1,1,1,Ronald Guzman,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,0,2,N/A,N/A
+4,bottom,0,[],Daniel Mengden,2,1,2,Delino DeShields,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+4,bottom,0,[],Daniel Mengden,3,1,3,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,0,N/A,N/A,N/A
+5,top,0,[],Bartolo Colon,1,1,1,Dustin Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+5,top,0,[],Bartolo Colon,2,2,2,Marcus Semien,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+5,top,0,[],Bartolo Colon,2,1,2,Jed Lowrie,['N/A'],['Jed Lowrie'],['N/A'],Double,N/A,6,0,N/A,N/A,N/A
+5,top,2,['Jed Lowrie'],Bartolo Colon,2,1,0,Khris Davis,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,2,2,N/A,N/A
+5,top,0,[],Bartolo Colon,3,3,1,Matt Olson,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A
+5,bottom,0,[],Danny Coulombe,0,2,2,Isiah Kiner-Falefa,['Isiah Kiner-Falefa'],['N/A'],['N/A'],Single,N/A,6,2,N/A,N/A,N/A
+5,bottom,0,[],Danny Coulombe,2,3,2,Nomar Mazara,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,2,N/A,N/A,N/A
+5,bottom,0,[],Danny Coulombe,3,2,2,Jurickson Profar,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+6,top,0,[],Matt Bush,1,1,2,Matt Chapman,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+6,top,0,[],Matt Bush,2,3,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A
+6,top,0,[],Matt Bush,2,2,1,Mark Canha,['Mark Canha'],['N/A'],['N/A'],Single,N/A,6,2,N/A,N/A,N/A
+6,top,0,[],Matt Bush,3,1,1,Nick Martini,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+6,bottom,0,[],Liam Hendriks,1,2,2,Joey Gallo,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,2,N/A,N/A,N/A
+6,bottom,0,[],Liam Hendriks,2,0,0,Rougned Odor,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,2,N/A,N/A,N/A
+6,bottom,0,[],Liam Hendriks,3,1,3,Robinson Chirinos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+7,top,0,[],Jake Diekman,1,1,1,Dustin Fowler,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A
+7,top,0,[],Jake Diekman,2,3,2,Marcus Semien,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+7,top,0,[],Jake Diekman,3,0,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Liam Hendriks,1,0,0,Ronald Guzman,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Liam Hendriks,1,4,2,Delino DeShields,['Delino DeShields'],['N/A'],['N/A'],Walk,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Liam Hendriks,2,2,0,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],N/A,2,2,1,N/A,['N/A'],['Delino DeShields'],['N/A'],Stolen Base 2B,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Liam Hendriks,2,4,1,Isiah Kiner-Falefa,['Isiah Kiner-Falefa'],['Delino DeShields'],['Delino DeShields'],Walk,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],N/A,2,3,2,Nomar Mazara,['N/A'],[],['N/A'],Stolen Base 2B,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Liam Hendriks,2,4,2,Nomar Mazara,['Nomar Mazara'],['Isiah Kiner-Falefa'],['N/A'],Walk,N/A,6,2,N/A,N/A,N/A
+7,bottom,2,"['Delino DeShields', 'Isiah Kiner-Falefa']",Ryan Dull,2,1,1,Jurickson Profar,['Jurickson Profar'],['N/A'],['Nomar Mazara'],Single,N/A,8,2,2,N/A,N/A
+7,bottom,0,[],Ryan Dull,3,3,3,Joey Gallo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Jake Diekman,0,3,2,Khris Davis,['Khris Davis'],['N/A'],['N/A'],Single,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Jake Diekman,0,0,0,Matt Olson,['Matt Olson'],['Khris Davis'],['N/A'],Single,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Jose Leclerc,1,1,3,Matt Chapman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Jose Leclerc,2,2,3,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+8,top,0,[],Jose Leclerc,3,2,1,Mark Canha,['N/A'],['N/A'],['N/A'],Single,N/A,8,2,N/A,N/A,N/A
+8,bottom,0,[],Ryan Dull,1,2,2,Rougned Odor,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,2,N/A,N/A,N/A
+8,bottom,0,[],Ryan Dull,2,1,3,Robinson Chirinos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+8,bottom,0,[],Ryan Dull,3,1,3,Ronald Guzman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,2,N/A,N/A,N/A
+9,top,0,[],Tony Barnette,1,3,2,Nick Martini,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,2,N/A,N/A,N/A
+9,top,0,[],Tony Barnette,1,1,0,Dustin Fowler,['Dustin Fowler'],['N/A'],['N/A'],Single,N/A,8,2,N/A,N/A,N/A
+9,top,0,[],Tony Barnette,3,0,1,Marcus Semien,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,8,2,N/A,N/A,N/A

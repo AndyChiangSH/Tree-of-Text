@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jeff Hoffman,1,2,3,Adam Engel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jeff Hoffman,2,1,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jeff Hoffman,2,0,2,Jose Abreu,['N/A'],['N/A'],['Jose Abreu'],Triple,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jeff Hoffman,2,4,0,Todd Frazier,['Todd Frazier'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Jose Abreu', 'Todd Frazier']",Jeff Hoffman,2,1,0,Yolmer Sanchez,['N/A'],['N/A'],['Yolmer Sanchez'],Triple,N/A,0,2,2,N/A,N/A
+1,top,1,['Yolmer Sanchez'],Jeff Hoffman,2,2,1,Kevan Smith,['Kevan Smith'],['N/A'],['N/A'],Single,N/A,0,3,1,N/A,N/A
+1,top,0,[],Jeff Hoffman,3,2,0,Tim Anderson,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jose Quintana,0,2,2,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jose Quintana,1,2,1,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],N/A,1,1,0,Nolan Arenado,['N/A'],['Charlie Blackmon'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+1,bottom,2,['Charlie Blackmon'],Jose Quintana,1,2,2,Nolan Arenado,['N/A'],['Charlie Blackmon'],['N/A'],Home Run,N/A,2,3,2,N/A,N/A
+1,bottom,0,[],Jose Quintana,2,2,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+1,bottom,0,[],Jose Quintana,3,1,3,Gerardo Parra,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+2,top,0,[],Jeff Hoffman,1,0,1,Willy Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+2,top,0,[],Jeff Hoffman,2,1,3,Jose Quintana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+2,top,0,[],Jeff Hoffman,2,2,0,Adam Engel,['Adam Engel'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+2,top,0,[],Jeff Hoffman,3,3,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+2,bottom,0,[],Jose Quintana,0,0,0,Trevor Story,['N/A'],['Trevor Story'],['N/A'],Double,N/A,2,3,N/A,N/A,N/A
+2,bottom,0,[],Jose Quintana,1,1,3,Raimel Tapia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+2,bottom,0,[],Jose Quintana,2,1,3,Tony Wolters,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+2,bottom,0,[],Jose Quintana,3,0,3,Jeff Hoffman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+3,top,0,[],Jeff Hoffman,1,1,1,Jose Abreu,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+3,top,0,[],Jeff Hoffman,1,4,1,Todd Frazier,['Todd Frazier'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+3,top,0,[],Jeff Hoffman,2,0,0,Yolmer Sanchez,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+3,top,0,[],Jeff Hoffman,3,3,2,Kevan Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Jose Quintana,0,0,1,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Jose Quintana,1,1,1,DJ LeMahieu,['DJ LeMahieu'],['N/A'],['N/A'],Forceout,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Jose Quintana,2,2,3,Nolan Arenado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Jose Quintana,3,3,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Jeff Hoffman,0,1,0,Tim Anderson,['Tim Anderson'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Jeff Hoffman,1,3,2,Willy Garcia,['N/A'],['N/A'],['Willy Garcia'],Triple,N/A,2,3,N/A,N/A,N/A
+4,top,1,['Willy Garcia'],Jeff Hoffman,2,0,2,Jose Quintana,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,4,1,N/A,N/A
+4,top,0,[],Jeff Hoffman,3,0,0,Adam Engel,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Jose Quintana,1,3,1,Gerardo Parra,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Jose Quintana,2,0,3,Trevor Story,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Jose Quintana,3,3,3,Raimel Tapia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Jeff Hoffman,1,0,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Jeff Hoffman,2,0,0,Jose Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Jeff Hoffman,2,0,2,Todd Frazier,['Todd Frazier'],['N/A'],['N/A'],Hit By Pitch,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Jeff Hoffman,3,0,0,Yolmer Sanchez,['N/A'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Jose Quintana,1,3,2,Tony Wolters,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Jose Quintana,2,1,2,Jeff Hoffman,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Jose Quintana,3,1,3,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Jeff Hoffman,1,0,0,Kevan Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Jeff Hoffman,2,1,0,Tim Anderson,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Jeff Hoffman,3,1,0,Willy Garcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Jose Quintana,0,4,2,DJ LeMahieu,['DJ LeMahieu'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Jose Quintana,1,0,3,Nolan Arenado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Jose Quintana,1,4,1,Mark Reynolds,['Mark Reynolds'],['DJ LeMahieu'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,bottom,1,['DJ LeMahieu'],Jose Quintana,1,1,0,Gerardo Parra,['N/A'],['Gerardo Parra'],['Mark Reynolds'],Double,N/A,3,4,1,N/A,N/A
+6,bottom,0,[],Anthony Swarzak,2,1,3,Trevor Story,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Anthony Swarzak,2,4,0,Raimel Tapia,['Raimel Tapia'],['N/A'],['N/A'],Intent Walk,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Anthony Swarzak,3,1,0,Tony Wolters,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Jeff Hoffman,1,0,1,Alen Hanson,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Jeff Hoffman,2,2,2,Adam Engel,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Jeff Hoffman,3,3,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Anthony Swarzak,1,3,2,Alexi Amarista,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Anthony Swarzak,2,2,3,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Anthony Swarzak,2,1,1,DJ LeMahieu,['DJ LeMahieu'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Anthony Swarzak,3,0,0,Nolan Arenado,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Adam Ottavino,0,1,1,Jose Abreu,['Jose Abreu'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Adam Ottavino,1,1,2,Todd Frazier,['N/A'],['Jose Abreu'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Jake McGee,2,2,3,Yolmer Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Jake McGee,2,1,2,Kevan Smith,['N/A'],['N/A'],['Jose Abreu'],Wild Pitch,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Jake McGee,3,1,2,Kevan Smith,['N/A'],['N/A'],['Jose Abreu'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Tommy Kahnle,0,2,1,Mark Reynolds,['N/A'],['N/A'],['Mark Reynolds'],Triple,N/A,3,4,N/A,N/A,N/A
+8,bottom,1,['Mark Reynolds'],Tommy Kahnle,1,0,0,Gerardo Parra,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,4,1,N/A,N/A
+8,bottom,0,[],Tommy Kahnle,2,1,3,Trevor Story,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+8,bottom,0,[],Tommy Kahnle,2,0,1,Raimel Tapia,['Raimel Tapia'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+8,bottom,0,[],Tommy Kahnle,2,1,0,Tony Wolters,['N/A'],['Raimel Tapia'],['N/A'],Wild Pitch,N/A,4,4,N/A,N/A,N/A
+8,bottom,0,[],Tommy Kahnle,3,2,0,Tony Wolters,['N/A'],['Raimel Tapia'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+9,top,1,[],Greg Holland,0,1,2,Tim Anderson,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,5,1,N/A,N/A
+9,top,0,[],Greg Holland,1,1,0,Matt Davidson,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Greg Holland,1,4,1,Alen Hanson,['Alen Hanson'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Greg Holland,3,1,2,Adam Engel,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],David Robertson,1,1,2,Alexi Amarista,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],David Robertson,2,3,3,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],David Robertson,3,0,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A

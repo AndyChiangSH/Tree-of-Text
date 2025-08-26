@@ -1,0 +1,87 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jerad Eickhoff,1,2,2,Derek Dietrich,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jerad Eickhoff,2,0,0,Martin Prado,['N/A'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jerad Eickhoff,3,2,3,Christian Yelich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Adam Conley,1,2,1,Odubel Herrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Adam Conley,1,1,0,Cesar Hernandez,['Cesar Hernandez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Adam Conley,2,1,1,Maikel Franco,['N/A'],['Cesar Hernandez'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Adam Conley,3,1,2,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jerad Eickhoff,1,1,2,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jerad Eickhoff,2,2,1,Justin Bour,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],Jerad Eickhoff,2,2,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],Jerad Eickhoff,2,4,2,J.T. Realmuto,['J.T. Realmuto'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jerad Eickhoff,3,2,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Adam Conley,1,2,2,Tommy Joseph,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Adam Conley,2,1,1,Freddy Galvis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Adam Conley,2,2,2,Tyler Goeddel,['Tyler Goeddel'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Adam Conley,2,2,2,Jerad Eickhoff,['Jerad Eickhoff'],['Tyler Goeddel'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Adam Conley,3,0,0,Peter Bourjos,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Jerad Eickhoff,1,0,3,Adam Conley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Jerad Eickhoff,2,1,1,Derek Dietrich,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Jerad Eickhoff,2,0,2,Martin Prado,['Martin Prado'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Jerad Eickhoff,2,1,1,Christian Yelich,['N/A'],['Christian Yelich'],['Martin Prado'],Double,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Jerad Eickhoff,3,2,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Adam Conley,1,2,0,Odubel Herrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Adam Conley,2,2,2,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Adam Conley,3,0,3,Maikel Franco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Jerad Eickhoff,1,3,2,Justin Bour,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Jerad Eickhoff,2,2,2,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Jerad Eickhoff,3,1,2,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Adam Conley,0,4,0,Carlos Ruiz,['Carlos Ruiz'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Adam Conley,1,1,1,Tommy Joseph,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Adam Conley,1,1,2,Freddy Galvis,['Freddy Galvis'],['Carlos Ruiz'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,1,['Carlos Ruiz'],Adam Conley,1,2,0,Tyler Goeddel,['Tyler Goeddel'],['Freddy Galvis'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+4,bottom,0,[],Adam Conley,2,0,3,Jerad Eickhoff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Adam Conley,3,1,3,Peter Bourjos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Jerad Eickhoff,0,0,2,Adeiny Hechavarria,['N/A'],['Adeiny Hechavarria'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Jerad Eickhoff,0,0,1,Adam Conley,['Adam Conley'],['N/A'],['N/A'],Fielders Choice,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Jerad Eickhoff,0,4,1,Derek Dietrich,['Derek Dietrich'],['Adam Conley'],['Adeiny Hechavarria'],Walk,N/A,1,1,N/A,N/A,N/A
+5,top,1,['Adeiny Hechavarria'],Jerad Eickhoff,1,3,2,Martin Prado,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,2,1,N/A,N/A
+5,top,0,[],Jerad Eickhoff,3,1,0,Christian Yelich,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Adam Conley,0,1,1,Odubel Herrera,['Odubel Herrera'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Adam Conley,0,1,2,Cesar Hernandez,['N/A'],['Odubel Herrera'],['N/A'],Wild Pitch,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Adam Conley,1,1,3,Cesar Hernandez,['N/A'],['Odubel Herrera'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Adam Conley,2,0,3,Maikel Franco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Adam Conley,3,0,1,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Jerad Eickhoff,1,1,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+6,top,1,[],Jerad Eickhoff,1,1,1,Justin Bour,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+6,top,0,[],Jerad Eickhoff,2,0,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Jerad Eickhoff,3,1,0,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Adam Conley,0,0,1,Tommy Joseph,['Tommy Joseph'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Adam Conley,2,3,2,Freddy Galvis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Adam Conley,2,0,0,Tyler Goeddel,['N/A'],['Tyler Goeddel'],['N/A'],Double,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Adam Conley,3,1,2,Emmanuel Burriss,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Andrew Bailey,0,2,2,Adeiny Hechavarria,['N/A'],['Adeiny Hechavarria'],['N/A'],Double,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Andrew Bailey,0,2,1,Ichiro Suzuki,['N/A'],['N/A'],['Adeiny Hechavarria'],Wild Pitch,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Andrew Bailey,0,4,1,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['Adeiny Hechavarria'],Walk,N/A,1,3,N/A,N/A,N/A
+7,top,1,['Adeiny Hechavarria'],Andrew Bailey,1,0,1,Derek Dietrich,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,4,1,N/A,N/A
+7,top,0,[],Andrew Bailey,1,4,2,Martin Prado,['Martin Prado'],['Ichiro Suzuki'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+7,top,1,['Ichiro Suzuki'],Elvis Araujo,1,1,1,Christian Yelich,['N/A'],['Christian Yelich'],['Martin Prado'],Double,N/A,1,5,1,N/A,N/A
+7,top,0,[],Elvis Araujo,1,4,0,Giancarlo Stanton,['Giancarlo Stanton'],['N/A'],['N/A'],Intent Walk,N/A,1,5,N/A,N/A,N/A
+7,top,0,[],Elvis Araujo,2,2,3,Justin Bour,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+7,top,0,[],Elvis Araujo,3,1,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+7,bottom,0,[],Kyle Barraclough,1,1,3,Peter Bourjos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+7,bottom,0,[],Kyle Barraclough,1,3,2,Odubel Herrera,['Odubel Herrera'],['N/A'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+7,bottom,0,[],Kyle Barraclough,1,0,0,Cesar Hernandez,['Cesar Hernandez'],['Odubel Herrera'],['N/A'],Field Error,N/A,1,5,N/A,N/A,Derek Dietrich
+7,bottom,0,[],Kyle Barraclough,1,4,1,Maikel Franco,['Maikel Franco'],['Cesar Hernandez'],['Odubel Herrera'],Walk,N/A,1,5,N/A,N/A,N/A
+7,bottom,1,['Odubel Herrera'],Kyle Barraclough,2,1,0,Carlos Ruiz,['Carlos Ruiz'],['N/A'],['Cesar Hernandez'],Forceout,N/A,2,5,1,N/A,N/A
+7,bottom,0,[],Kyle Barraclough,3,0,3,Tommy Joseph,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Colton Murray,0,3,1,J.T. Realmuto,['N/A'],['J.T. Realmuto'],['N/A'],Double,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Colton Murray,0,0,1,Adeiny Hechavarria,['Adeiny Hechavarria'],['N/A'],['J.T. Realmuto'],Single,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Colton Murray,1,0,0,Miguel Rojas,['N/A'],['Adeiny Hechavarria'],['N/A'],Sac Bunt,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Colton Murray,1,4,0,Derek Dietrich,['Derek Dietrich'],['N/A'],['N/A'],Intent Walk,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Colton Murray,2,3,2,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Colton Murray,3,1,0,Christian Yelich,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],David Phelps,1,2,3,Freddy Galvis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],David Phelps,2,2,1,Tyler Goeddel,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],David Phelps,3,1,2,David Lough,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],David Hernandez,0,0,2,Giancarlo Stanton,['Giancarlo Stanton'],['N/A'],['N/A'],Catcher Interference,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],David Hernandez,1,0,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],David Hernandez,2,0,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],David Hernandez,2,4,2,J.T. Realmuto,['J.T. Realmuto'],['Giancarlo Stanton'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],David Hernandez,3,0,2,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+9,bottom,0,[],AJ Ramos,0,0,0,Andres Blanco,['Andres Blanco'],['N/A'],['N/A'],Hit By Pitch,N/A,2,5,N/A,N/A,N/A
+9,bottom,0,[],AJ Ramos,0,1,1,Odubel Herrera,['Odubel Herrera'],['Andres Blanco'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+9,bottom,0,[],AJ Ramos,1,0,0,Cesar Hernandez,['N/A'],['N/A'],['Andres Blanco'],Flyout,N/A,2,5,N/A,N/A,N/A
+9,bottom,1,['Andres Blanco'],AJ Ramos,2,0,0,Maikel Franco,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,5,1,N/A,N/A
+9,bottom,0,[],AJ Ramos,3,2,3,Carlos Ruiz,['N/A'],['Odubel Herrera'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A

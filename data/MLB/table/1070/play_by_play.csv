@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Hyun-Jin Ryu,1,1,3,Chris Denorfia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Hyun-Jin Ryu,2,0,1,Chase Headley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Hyun-Jin Ryu,3,3,3,Carlos Quentin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tyson Ross,1,2,3,Dee Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tyson Ross,1,0,0,Carl Crawford,['Carl Crawford'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],N/A,1,1,0,Yasiel Puig,['N/A'],['Carl Crawford'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tyson Ross,2,3,3,Yasiel Puig,['N/A'],['Carl Crawford'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tyson Ross,3,0,3,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Hyun-Jin Ryu,1,1,3,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Hyun-Jin Ryu,2,2,2,Rene Rivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Hyun-Jin Ryu,3,0,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Tyson Ross,0,0,0,Andre Ethier,['N/A'],['Andre Ethier'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Tyson Ross,0,0,0,Juan Uribe,['Juan Uribe'],['N/A'],['Andre Ethier'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Tyson Ross,1,2,3,A.J. Ellis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Tyson Ross,3,0,2,Miguel Rojas,['N/A'],['N/A'],['N/A'],Double Play,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Hyun-Jin Ryu,1,3,3,Brooks Conrad,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Hyun-Jin Ryu,2,0,3,Alexi Amarista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Hyun-Jin Ryu,3,1,1,Tyson Ross,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Tyson Ross,1,1,2,Hyun-Jin Ryu,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Tyson Ross,2,1,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Tyson Ross,3,0,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Hyun-Jin Ryu,1,2,2,Chris Denorfia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Hyun-Jin Ryu,2,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Hyun-Jin Ryu,2,0,0,Carlos Quentin,['Carlos Quentin'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Hyun-Jin Ryu,3,2,2,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Tyson Ross,1,1,3,Yasiel Puig,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Tyson Ross,2,3,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Tyson Ross,3,3,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Hyun-Jin Ryu,1,2,3,Rene Rivera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Hyun-Jin Ryu,2,1,0,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Hyun-Jin Ryu,3,2,3,Brooks Conrad,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Tyson Ross,1,2,1,Juan Uribe,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Tyson Ross,2,2,2,A.J. Ellis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Tyson Ross,3,3,2,Miguel Rojas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Hyun-Jin Ryu,0,1,1,Alexi Amarista,['Alexi Amarista'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Hyun-Jin Ryu,1,2,1,Tyson Ross,['Tyson Ross'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Hyun-Jin Ryu,2,3,3,Chris Denorfia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Hyun-Jin Ryu,3,3,2,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Tyson Ross,1,1,1,Hyun-Jin Ryu,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Tyson Ross,1,3,2,Dee Gordon,['Dee Gordon'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],N/A,1,2,0,Carl Crawford,['N/A'],['Dee Gordon'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Tyson Ross,1,4,1,Carl Crawford,['Carl Crawford'],['Dee Gordon'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+6,bottom,1,['Dee Gordon'],Tyson Ross,1,1,2,Yasiel Puig,['Yasiel Puig'],['N/A'],['Carl Crawford'],Single,N/A,1,0,1,N/A,N/A
+6,bottom,0,[],Tyson Ross,2,2,3,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Tyson Ross,3,0,1,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Brandon League,1,2,0,Carlos Quentin,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Brandon League,1,4,1,Yasmani Grandal,['Yasmani Grandal'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Brandon League,2,1,2,Jake Goebbert,['Jake Goebbert'],['N/A'],['N/A'],Forceout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Brandon League,2,1,1,Cameron Maybin,['Cameron Maybin'],['Jake Goebbert'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],J.P. Howell,3,2,1,Brooks Conrad,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Tyson Ross,0,1,2,Juan Uribe,['Juan Uribe'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Tyson Ross,1,0,0,A.J. Ellis,['N/A'],['Juan Uribe'],['N/A'],Sac Bunt,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Tyson Ross,1,1,2,Miguel Rojas,['Miguel Rojas'],['N/A'],['N/A'],Hit By Pitch,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Tyson Ross,2,1,3,Scott Van Slyke,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Tyson Ross,3,2,3,Dee Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],J.P. Howell,1,0,0,Alexi Amarista,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],J.P. Howell,2,0,1,Will Venable,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],J.P. Howell,2,0,0,Chris Denorfia,['Chris Denorfia'],['N/A'],['N/A'],Field Error,N/A,1,0,N/A,N/A,Adrian Gonzalez
+8,top,0,[],J.P. Howell,3,1,0,Chase Headley,['N/A'],['N/A'],['N/A'],Runner Out,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Blaine Boyer,1,3,2,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Blaine Boyer,1,1,2,Yasiel Puig,['N/A'],['Yasiel Puig'],['N/A'],Double,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Alex Torres,2,1,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Dale Thayer,3,1,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,1,0,0,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,1,4,2,Carlos Quentin,['Carlos Quentin'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,1,1,1,Yasmani Grandal,['Yasmani Grandal'],['N/A'],['Jace Peterson'],Single,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,2,2,3,Jake Goebbert,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,3,1,3,Seth Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A

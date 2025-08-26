@@ -1,0 +1,91 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Kyle Freeland,0,4,2,David Peralta,['David Peralta'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kyle Freeland,0,2,2,Chris Iannetta,['N/A'],['David Peralta'],['N/A'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kyle Freeland,0,4,2,Chris Iannetta,['Chris Iannetta'],['David Peralta'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,1,['David Peralta'],Kyle Freeland,0,0,0,A.J. Pollock,['A.J. Pollock'],['Chris Iannetta'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Kyle Freeland,1,3,1,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Kyle Freeland,3,1,0,J.D. Martinez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Taijuan Walker,1,1,3,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Taijuan Walker,1,1,2,DJ LeMahieu,['N/A'],['DJ LeMahieu'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Taijuan Walker,2,3,3,Nolan Arenado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Taijuan Walker,2,4,1,Mark Reynolds,['Mark Reynolds'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Taijuan Walker,2,4,2,Ian Desmond,['Ian Desmond'],['Mark Reynolds'],['DJ LeMahieu'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Taijuan Walker,3,1,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Kyle Freeland,0,0,1,Brandon Drury,['Brandon Drury'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Kyle Freeland,1,2,3,Jake Lamb,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Kyle Freeland,1,3,2,Adam Rosales,['N/A'],['Adam Rosales'],['Brandon Drury'],Double,N/A,0,1,N/A,N/A,N/A
+2,top,1,['Brandon Drury'],Kyle Freeland,1,1,2,Taijuan Walker,['Taijuan Walker'],['N/A'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+2,top,0,[],Kyle Freeland,3,1,1,David Peralta,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Taijuan Walker,1,2,3,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Taijuan Walker,2,2,3,Trevor Story,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Taijuan Walker,3,1,3,Kyle Freeland,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Kyle Freeland,1,0,1,Chris Iannetta,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Kyle Freeland,1,2,1,A.J. Pollock,['N/A'],['N/A'],['A.J. Pollock'],Triple,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Kyle Freeland,1,4,0,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,top,1,['A.J. Pollock'],Kyle Freeland,2,1,0,J.D. Martinez,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,3,1,N/A,N/A
+3,top,0,[],Kyle Freeland,3,2,3,Brandon Drury,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Taijuan Walker,0,1,1,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Taijuan Walker,1,1,3,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Taijuan Walker,1,2,3,Nolan Arenado,['Nolan Arenado'],['Charlie Blackmon'],['N/A'],Catcher Interference,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Taijuan Walker,2,0,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Taijuan Walker,3,1,2,Ian Desmond,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Kyle Freeland,1,2,3,Jake Lamb,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Kyle Freeland,2,0,0,Adam Rosales,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Kyle Freeland,3,0,3,Taijuan Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Taijuan Walker,0,1,0,Carlos Gonzalez,['N/A'],['Carlos Gonzalez'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Taijuan Walker,1,1,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Taijuan Walker,2,0,0,Trevor Story,['N/A'],['N/A'],['Carlos Gonzalez'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Taijuan Walker,2,4,2,Mike Tauchman,['Mike Tauchman'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Taijuan Walker,3,1,0,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Carlos Estevez,1,2,2,David Peralta,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Carlos Estevez,1,3,2,Chris Iannetta,['Chris Iannetta'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Carlos Estevez,2,1,3,A.J. Pollock,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Carlos Estevez,3,0,0,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Taijuan Walker,1,1,2,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Taijuan Walker,2,0,3,Nolan Arenado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Taijuan Walker,3,2,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Carlos Estevez,0,0,0,J.D. Martinez,['N/A'],['J.D. Martinez'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Carlos Estevez,1,0,1,Brandon Drury,['N/A'],['N/A'],['J.D. Martinez'],Groundout,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Carlos Estevez,1,4,0,Jake Lamb,['Jake Lamb'],['N/A'],['N/A'],Intent Walk,N/A,0,3,N/A,N/A,N/A
+6,top,1,['J.D. Martinez'],Carlos Estevez,1,0,0,Rey Fuentes,['Rey Fuentes'],['Jake Lamb'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+6,top,0,[],Carlos Estevez,2,1,2,Ketel Marte,['Ketel Marte'],['N/A'],['Jake Lamb'],Forceout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Zac Rosscup,3,0,3,David Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],David Hernandez,0,1,1,Ian Desmond,['Ian Desmond'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+6,bottom,1,['Ian Desmond'],David Hernandez,0,0,1,Carlos Gonzalez,['N/A'],['Carlos Gonzalez'],['N/A'],Double,N/A,1,4,1,N/A,N/A
+6,bottom,0,[],David Hernandez,1,0,0,Jonathan Lucroy,['N/A'],['N/A'],['Carlos Gonzalez'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,1,['Carlos Gonzalez'],David Hernandez,2,2,0,Trevor Story,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,4,1,N/A,N/A
+6,bottom,0,[],Jorge De La Rosa,2,4,2,Ryan McMahon,['Ryan McMahon'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Jorge De La Rosa,2,1,1,Charlie Blackmon,['Charlie Blackmon'],['Ryan McMahon'],['N/A'],Hit By Pitch,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],J.J. Hoover,3,1,1,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Adam Ottavino,1,0,0,Chris Iannetta,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Adam Ottavino,1,4,2,A.J. Pollock,['A.J. Pollock'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],N/A,1,2,1,Paul Goldschmidt,['N/A'],[],['N/A'],Stolen Base 2B,Error,2,4,N/A,N/A,Jonathan Lucroy
+7,top,0,[],Adam Ottavino,1,4,1,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['A.J. Pollock'],Intent Walk,N/A,2,4,N/A,N/A,N/A
+7,top,1,['A.J. Pollock'],N/A,1,2,1,N/A,['N/A'],['N/A'],['N/A'],Pickoff Error 1B,Error,2,5,N/A,N/A,Mark Reynolds
+7,top,0,[],Adam Ottavino,1,4,1,J.D. Martinez,['J.D. Martinez'],['Paul Goldschmidt'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Adam Ottavino,2,3,3,Brandon Drury,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,top,1,['Paul Goldschmidt'],Mike Dunn,2,3,2,Jake Lamb,['Jake Lamb'],['N/A'],['J.D. Martinez'],Single,N/A,2,6,1,N/A,N/A
+7,top,0,[],N/A,2,0,2,Daniel Descalso,['N/A'],['Jake Lamb'],['N/A'],Stolen Base 2B,N/A,2,6,N/A,N/A,N/A
+7,top,3,"['J.D. Martinez', 'Jake Lamb']",Mike Dunn,2,0,2,Daniel Descalso,['N/A'],['Jake Lamb'],['N/A'],Home Run,N/A,2,9,3,N/A,N/A
+7,top,0,[],Mike Dunn,3,2,2,Ketel Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,9,N/A,N/A,N/A
+7,bottom,0,[],Silvino Bracho,0,0,1,Nolan Arenado,['Nolan Arenado'],['N/A'],['N/A'],Single,N/A,2,9,N/A,N/A,N/A
+7,bottom,0,[],Silvino Bracho,0,4,1,Mark Reynolds,['Mark Reynolds'],['Nolan Arenado'],['N/A'],Walk,N/A,2,9,N/A,N/A,N/A
+7,bottom,0,[],Silvino Bracho,0,4,2,Ian Desmond,['Ian Desmond'],['Mark Reynolds'],['Nolan Arenado'],Walk,N/A,2,9,N/A,N/A,N/A
+7,bottom,1,['Nolan Arenado'],Andrew Chafin,1,1,1,Carlos Gonzalez,['N/A'],['Ian Desmond'],['Mark Reynolds'],Groundout,N/A,3,9,1,N/A,N/A
+7,bottom,0,[],Andrew Chafin,2,0,3,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,9,N/A,N/A,N/A
+7,bottom,2,"['Mark Reynolds', 'Ian Desmond']",Andrew Chafin,2,1,2,Trevor Story,['N/A'],['Trevor Story'],['N/A'],Double,N/A,5,9,2,N/A,N/A
+7,bottom,0,[],Andrew Chafin,3,1,2,Pat Valaika,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,9,N/A,N/A,N/A
+8,top,0,[],Scott Oberg,1,1,3,David Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,9,N/A,N/A,N/A
+8,top,0,[],Scott Oberg,2,1,1,Chris Iannetta,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,9,N/A,N/A,N/A
+8,top,0,[],Scott Oberg,3,0,0,A.J. Pollock,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,9,N/A,N/A,N/A
+8,bottom,0,[],Andrew Chafin,0,1,0,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['N/A'],Single,N/A,5,9,N/A,N/A,N/A
+8,bottom,0,[],Archie Bradley,2,0,0,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,9,N/A,N/A,N/A
+8,bottom,0,[],Archie Bradley,2,4,0,Nolan Arenado,['Nolan Arenado'],['N/A'],['N/A'],Walk,N/A,5,9,N/A,N/A,N/A
+8,bottom,0,[],Archie Bradley,3,0,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,9,N/A,N/A,N/A
+9,top,0,[],Scott Oberg,1,2,1,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,9,N/A,N/A,N/A
+9,top,0,[],Scott Oberg,2,1,3,J.D. Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,9,N/A,N/A,N/A
+9,top,0,[],Scott Oberg,3,0,1,Brandon Drury,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,9,N/A,N/A,N/A
+9,bottom,0,[],Fernando Rodney,1,2,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,9,N/A,N/A,N/A
+9,bottom,0,[],Fernando Rodney,1,4,1,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Walk,N/A,5,9,N/A,N/A,N/A
+9,bottom,0,[],Fernando Rodney,2,1,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,9,N/A,N/A,N/A
+9,bottom,0,[],Fernando Rodney,3,0,1,Trevor Story,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,9,N/A,N/A,N/A

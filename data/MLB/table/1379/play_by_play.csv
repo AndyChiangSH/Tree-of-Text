@@ -1,0 +1,89 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Williams Perez,1,1,3,Denard Span,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Williams Perez,2,1,2,Joe Panik,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Williams Perez,2,4,2,Matt Duffy,['Matt Duffy'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Williams Perez,3,0,2,Buster Posey,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Albert Suarez,1,0,1,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Albert Suarez,2,1,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Albert Suarez,3,3,3,Freddie Freeman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Williams Perez,1,3,2,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Williams Perez,1,3,2,Brandon Belt,['Brandon Belt'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Williams Perez,2,0,2,Hunter Pence,['Hunter Pence'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Williams Perez,3,3,2,Gregor Blanco,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Albert Suarez,1,2,3,Adonis Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Albert Suarez,2,2,3,Nick Markakis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Albert Suarez,3,3,2,Kelly Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Williams Perez,1,2,2,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Williams Perez,2,1,3,Albert Suarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Williams Perez,3,1,0,Denard Span,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Albert Suarez,1,1,0,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Albert Suarez,2,1,3,Williams Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Albert Suarez,3,3,2,Mallex Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Williams Perez,1,1,1,Joe Panik,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Williams Perez,1,2,1,Matt Duffy,['N/A'],['Matt Duffy'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Williams Perez,2,1,2,Buster Posey,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+4,top,2,['Matt Duffy'],Williams Perez,2,2,2,Brandon Belt,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+4,top,0,[],Williams Perez,3,2,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+4,bottom,0,[],Albert Suarez,0,3,1,Ender Inciarte,['N/A'],['N/A'],['Ender Inciarte'],Triple,N/A,0,2,N/A,N/A,N/A
+4,bottom,1,['Ender Inciarte'],Albert Suarez,1,2,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,1,N/A,N/A
+4,bottom,0,[],Albert Suarez,1,4,2,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Albert Suarez,3,0,1,Adonis Garcia,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Williams Perez,0,0,0,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Williams Perez,0,2,1,Kelby Tomlinson,['Kelby Tomlinson'],['Gregor Blanco'],['N/A'],Field Error,N/A,1,2,N/A,N/A,Kelly Johnson
+5,top,0,[],Williams Perez,1,0,0,Albert Suarez,['N/A'],['Kelby Tomlinson'],['Gregor Blanco'],Sac Bunt,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Williams Perez,1,4,0,Denard Span,['Denard Span'],['N/A'],['N/A'],Intent Walk,N/A,1,2,N/A,N/A,N/A
+5,top,1,['Gregor Blanco'],Williams Perez,2,0,0,Joe Panik,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,3,1,N/A,N/A
+5,top,0,[],Williams Perez,3,0,2,Matt Duffy,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Albert Suarez,1,1,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Albert Suarez,2,0,1,Kelly Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Albert Suarez,3,0,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Williams Perez,1,3,2,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Williams Perez,2,2,0,Brandon Belt,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Williams Perez,2,2,0,Jarrett Parker,['Jarrett Parker'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Ian Krol,2,0,2,Gregor Blanco,['Gregor Blanco'],['N/A'],['Jarrett Parker'],Single,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Ian Krol,2,4,2,Kelby Tomlinson,['Kelby Tomlinson'],['Gregor Blanco'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+6,top,1,['Jarrett Parker'],Ian Krol,2,1,1,Albert Suarez,['Albert Suarez'],['Kelby Tomlinson'],['Gregor Blanco'],Single,N/A,1,4,1,N/A,N/A
+6,top,0,[],Ian Krol,3,1,1,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Albert Suarez,0,1,1,Chase d'Arnaud,['N/A'],"[""Chase d'Arnaud""]",['N/A'],Double,N/A,1,4,N/A,N/A,N/A
+6,bottom,1,"[""Chase d'Arnaud""]",Albert Suarez,0,0,0,Mallex Smith,['N/A'],['N/A'],['Mallex Smith'],Triple,N/A,2,4,1,N/A,N/A
+6,bottom,0,[],Albert Suarez,0,4,2,Ender Inciarte,['Ender Inciarte'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,bottom,1,['Mallex Smith'],George Kontos,2,0,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],George Kontos,3,3,3,Freddie Freeman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Alexi Ogando,0,4,2,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Alexi Ogando,1,2,0,Matt Duffy,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Alexi Ogando,1,2,0,Buster Posey,['N/A'],['Joe Panik'],['N/A'],Wild Pitch,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Alexi Ogando,2,3,1,Buster Posey,['N/A'],['Joe Panik'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Hunter Cervenka,2,4,1,Brandon Belt,['Brandon Belt'],['N/A'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Hunter Cervenka,3,1,2,Jarrett Parker,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],George Kontos,1,1,0,Adonis Garcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Javier Lopez,2,1,0,Nick Markakis,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Javier Lopez,3,0,0,Kelly Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Hunter Cervenka,1,0,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Hunter Cervenka,2,3,2,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Hunter Cervenka,3,0,3,Javier Lopez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Hunter Strickland,1,2,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Hunter Strickland,1,1,1,Chase d'Arnaud,"[""Chase d'Arnaud""]",['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Josh Osich,1,0,1,Jeff Francoeur,['Jeff Francoeur'],"[""Chase d'Arnaud""]",['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Josh Osich,2,1,0,Ender Inciarte,['Ender Inciarte'],['Jeff Francoeur'],['N/A'],Forceout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Cory Gearrin,3,2,3,Daniel Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Bud Norris,1,1,0,Denard Span,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Bud Norris,2,0,2,Joe Panik,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Bud Norris,3,2,1,Matt Duffy,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Santiago Casilla,1,2,3,Freddie Freeman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Santiago Casilla,1,2,2,Adonis Garcia,['Adonis Garcia'],['N/A'],['N/A'],Hit By Pitch,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Santiago Casilla,1,0,0,Nick Markakis,['Nick Markakis'],['N/A'],['Adonis Garcia'],Single,N/A,3,4,N/A,N/A,N/A
+9,bottom,1,['Adonis Garcia'],Santiago Casilla,1,1,0,Kelly Johnson,['N/A'],['Nick Markakis'],['N/A'],Wild Pitch,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Santiago Casilla,1,4,0,Kelly Johnson,['Kelly Johnson'],['Nick Markakis'],['N/A'],Intent Walk,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Santiago Casilla,2,1,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Santiago Casilla,3,1,0,Chase d'Arnaud,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Arodys Vizcaino,1,1,0,Buster Posey,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Arodys Vizcaino,1,1,2,Brandon Belt,['Brandon Belt'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Arodys Vizcaino,2,2,3,Jarrett Parker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Arodys Vizcaino,3,1,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Derek Law,1,2,1,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Derek Law,2,1,2,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Derek Law,3,1,3,Julio Teheran,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Chris Withrow,1,0,0,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Chris Withrow,2,3,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Chris Withrow,3,3,3,Denard Span,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+11,bottom,1,[],Derek Law,0,0,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,4,1,N/A,N/A

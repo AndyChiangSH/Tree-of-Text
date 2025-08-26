@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,1,[],Jeff Samardzija,0,1,0,Gerardo Parra,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Jeff Samardzija,1,2,1,Didi Gregorius,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Jeff Samardzija,2,1,3,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Jeff Samardzija,2,1,1,Miguel Montero,['Miguel Montero'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Jeff Samardzija,3,2,1,Martin Prado,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ian Kennedy,0,2,2,David DeJesus,['N/A'],['David DeJesus'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ian Kennedy,0,0,0,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Hit By Pitch,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ian Kennedy,0,4,1,Anthony Rizzo,['Anthony Rizzo'],['Starlin Castro'],['David DeJesus'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,1,['David DeJesus'],Ian Kennedy,1,0,1,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,1,1,N/A,N/A
+1,bottom,1,['Starlin Castro'],Ian Kennedy,1,2,2,Nate Schierholtz,['N/A'],['Nate Schierholtz'],['Anthony Rizzo'],Double,N/A,2,1,1,N/A,N/A
+1,bottom,1,['Anthony Rizzo'],Ian Kennedy,2,0,0,Welington Castillo,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,1,N/A,N/A
+1,bottom,0,[],Ian Kennedy,3,0,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Jeff Samardzija,1,1,3,Jason Kubel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Jeff Samardzija,1,2,2,A.J. Pollock,['A.J. Pollock'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Jeff Samardzija,1,1,2,Willie Bloomquist,['Willie Bloomquist'],['A.J. Pollock'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Jeff Samardzija,2,1,1,Ian Kennedy,['N/A'],['Willie Bloomquist'],['A.J. Pollock'],Sac Bunt,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Jeff Samardzija,2,4,2,Gerardo Parra,['Gerardo Parra'],['N/A'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Jeff Samardzija,3,1,3,Didi Gregorius,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Ian Kennedy,1,2,3,Darwin Barney,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Ian Kennedy,2,0,3,Jeff Samardzija,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Ian Kennedy,3,2,0,David DeJesus,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],Jeff Samardzija,1,0,3,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],Jeff Samardzija,2,1,3,Miguel Montero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],Jeff Samardzija,3,1,3,Martin Prado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+3,bottom,0,[],Ian Kennedy,1,0,1,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+3,bottom,0,[],Ian Kennedy,2,1,2,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+3,bottom,0,[],Ian Kennedy,3,2,2,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+4,top,0,[],Jeff Samardzija,1,1,3,Jason Kubel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+4,top,0,[],Jeff Samardzija,2,0,3,A.J. Pollock,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+4,top,0,[],Jeff Samardzija,3,1,1,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+4,bottom,0,[],Ian Kennedy,1,0,3,Nate Schierholtz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+4,bottom,0,[],Ian Kennedy,2,0,0,Welington Castillo,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+4,bottom,0,[],Ian Kennedy,3,2,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Jeff Samardzija,0,0,2,Ian Kennedy,['Ian Kennedy'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Jeff Samardzija,1,1,1,Gerardo Parra,['Gerardo Parra'],['N/A'],['N/A'],Forceout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Jeff Samardzija,1,0,2,Didi Gregorius,['N/A'],['Didi Gregorius'],['Gerardo Parra'],Double,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Jeff Samardzija,2,1,3,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Jeff Samardzija,2,4,0,Miguel Montero,['Miguel Montero'],['N/A'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Jeff Samardzija,3,1,3,Martin Prado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Ian Kennedy,1,0,0,Darwin Barney,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Ian Kennedy,2,0,0,Jeff Samardzija,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Ian Kennedy,3,3,1,David DeJesus,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Jeff Samardzija,1,1,1,Jason Kubel,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Jeff Samardzija,2,0,1,A.J. Pollock,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Jeff Samardzija,2,0,0,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Jeff Samardzija,3,2,3,Ian Kennedy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Ian Kennedy,1,0,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Ian Kennedy,2,0,0,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Ian Kennedy,3,3,3,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Jeff Samardzija,0,4,1,Gerardo Parra,['Gerardo Parra'],['N/A'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Jeff Samardzija,1,0,1,Didi Gregorius,['Didi Gregorius'],['N/A'],['N/A'],Forceout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Jeff Samardzija,1,4,1,Paul Goldschmidt,['Paul Goldschmidt'],['Didi Gregorius'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],James Russell,2,1,1,Miguel Montero,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],James Russell,2,4,2,Martin Prado,['Martin Prado'],['Paul Goldschmidt'],['Didi Gregorius'],Walk,N/A,3,1,N/A,N/A,N/A
+7,top,3,"['Didi Gregorius', 'Paul Goldschmidt', 'Martin Prado']",James Russell,2,1,2,Jason Kubel,['N/A'],['Jason Kubel'],['N/A'],Double,N/A,3,4,3,N/A,N/A
+7,top,0,[],Carlos Villanueva,3,0,1,A.J. Pollock,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+7,bottom,1,[],Ian Kennedy,0,0,2,Nate Schierholtz,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,1,N/A,N/A
+7,bottom,0,[],Ian Kennedy,1,2,3,Welington Castillo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+7,bottom,0,[],Ian Kennedy,2,0,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+7,bottom,0,[],Ian Kennedy,3,1,0,Darwin Barney,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+8,top,0,[],Carlos Marmol,0,4,2,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+8,top,0,[],Carlos Marmol,1,2,1,Eric Hinske,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+8,top,0,[],Carlos Marmol,1,1,0,Gerardo Parra,['N/A'],['Gerardo Parra'],['Willie Bloomquist'],Double,N/A,4,4,N/A,N/A,N/A
+8,top,0,[],Carlos Marmol,1,4,2,Didi Gregorius,['Didi Gregorius'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+8,top,4,"['Willie Bloomquist', 'Gerardo Parra', 'Didi Gregorius']",Carlos Marmol,1,1,1,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,8,4,N/A,N/A
+8,top,0,[],Carlos Marmol,1,4,2,Miguel Montero,['Miguel Montero'],['N/A'],['N/A'],Walk,N/A,4,8,N/A,N/A,N/A
+8,top,0,[],Blake Parker,2,0,1,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,8,N/A,N/A,N/A
+8,top,0,[],Blake Parker,2,2,2,Jason Kubel,['Jason Kubel'],['Miguel Montero'],['N/A'],Single,N/A,4,8,N/A,N/A,N/A
+8,top,0,[],Blake Parker,3,2,2,A.J. Pollock,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,8,N/A,N/A,N/A
+8,bottom,0,[],David Hernandez,1,3,2,Julio Borbon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,8,N/A,N/A,N/A
+8,bottom,0,[],David Hernandez,2,1,3,David DeJesus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,8,N/A,N/A,N/A
+8,bottom,0,[],David Hernandez,3,1,1,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,8,N/A,N/A,N/A
+9,top,0,[],Zach Putnam,0,3,2,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Single,N/A,4,8,N/A,N/A,N/A
+9,top,1,['Willie Bloomquist'],Zach Putnam,0,2,2,Cliff Pennington,['N/A'],['N/A'],['Cliff Pennington'],Double,N/A,4,9,1,N/A,N/A
+9,top,1,['Cliff Pennington'],Zach Putnam,1,0,2,Gerardo Parra,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,10,1,N/A,N/A
+9,top,0,[],Zach Putnam,1,2,0,Didi Gregorius,['Didi Gregorius'],['N/A'],['N/A'],Single,N/A,4,10,N/A,N/A,N/A
+9,top,0,[],Zach Putnam,1,3,2,Paul Goldschmidt,['Paul Goldschmidt'],['Didi Gregorius'],['N/A'],Single,N/A,4,10,N/A,N/A,N/A
+9,top,0,[],Zach Putnam,1,1,0,Miguel Montero,['Miguel Montero'],['Paul Goldschmidt'],['Didi Gregorius'],Single,N/A,4,10,N/A,N/A,N/A
+9,top,1,['Didi Gregorius'],Zach Putnam,1,0,1,Martin Prado,['Martin Prado'],['Miguel Montero'],['Paul Goldschmidt'],Single,N/A,4,11,1,N/A,N/A
+9,top,1,['Paul Goldschmidt'],Zach Putnam,2,1,1,Jason Kubel,['Jason Kubel'],['N/A'],['Miguel Montero'],Forceout,N/A,4,12,1,N/A,N/A
+9,top,0,[],Zach Putnam,3,0,3,A.J. Pollock,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,12,N/A,N/A,N/A
+9,bottom,0,[],Matt Reynolds,1,2,2,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,12,N/A,N/A,N/A
+9,bottom,0,[],Matt Reynolds,2,2,3,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,12,N/A,N/A,N/A
+9,bottom,0,[],Matt Reynolds,3,1,2,Nate Schierholtz,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,12,N/A,N/A,N/A

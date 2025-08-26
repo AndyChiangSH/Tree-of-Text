@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Madison Bumgarner,1,1,1,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Madison Bumgarner,2,0,0,Dexter Fowler,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Madison Bumgarner,3,0,1,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,1,1,1,Andres Torres,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,1,1,0,Freddy Sanchez,['N/A'],['Freddy Sanchez'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,2,0,0,Aubrey Huff,['N/A'],['N/A'],['Freddy Sanchez'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,2,4,1,Pat Burrell,['Pat Burrell'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],N/A,2,0,2,Jose Guillen,['N/A'],['N/A'],['N/A'],Balk,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,3,0,2,Jose Guillen,['N/A'],['Pat Burrell'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Madison Bumgarner,0,4,1,Melvin Mora,['Melvin Mora'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Madison Bumgarner,1,0,0,Jason Giambi,['N/A'],['Melvin Mora'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Madison Bumgarner,1,4,1,Ryan Spilborghs,['Ryan Spilborghs'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Madison Bumgarner,1,2,1,Miguel Olivo,['Miguel Olivo'],['Ryan Spilborghs'],['Melvin Mora'],Single,N/A,1,0,N/A,N/A,N/A
+2,top,1,['Melvin Mora'],Madison Bumgarner,2,1,1,Clint Barmes,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,1,1,N/A,N/A
+2,top,0,[],Madison Bumgarner,3,0,3,Esmil Rogers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Esmil Rogers,1,0,0,Buster Posey,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Esmil Rogers,1,4,1,Pablo Sandoval,['Pablo Sandoval'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Esmil Rogers,3,0,0,Juan Uribe,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Madison Bumgarner,1,3,2,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Madison Bumgarner,2,1,0,Dexter Fowler,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Madison Bumgarner,2,1,1,Carlos Gonzalez,['N/A'],['Carlos Gonzalez'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Madison Bumgarner,3,2,2,Melvin Mora,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Esmil Rogers,1,0,3,Madison Bumgarner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Esmil Rogers,2,0,1,Andres Torres,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Esmil Rogers,3,1,1,Freddy Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Madison Bumgarner,0,2,1,Jason Giambi,['N/A'],['Jason Giambi'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Madison Bumgarner,1,1,0,Ryan Spilborghs,['Ryan Spilborghs'],['N/A'],['N/A'],Fielders Choice Out,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Madison Bumgarner,1,2,1,Miguel Olivo,['Miguel Olivo'],['Ryan Spilborghs'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Madison Bumgarner,3,1,2,Clint Barmes,['N/A'],['N/A'],['N/A'],Double Play,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Esmil Rogers,1,2,0,Aubrey Huff,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Esmil Rogers,2,1,3,Pat Burrell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Esmil Rogers,3,0,0,Jose Guillen,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Madison Bumgarner,1,0,3,Esmil Rogers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Madison Bumgarner,2,0,0,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Madison Bumgarner,3,1,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Esmil Rogers,1,2,1,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Esmil Rogers,2,0,1,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Esmil Rogers,2,1,0,Juan Uribe,['Juan Uribe'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,bottom,1,['Juan Uribe'],Esmil Rogers,2,0,0,Madison Bumgarner,['N/A'],['Madison Bumgarner'],['N/A'],Double,N/A,2,1,1,N/A,N/A
+5,bottom,0,[],Esmil Rogers,3,3,3,Andres Torres,['N/A'],['N/A'],['Madison Bumgarner'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Madison Bumgarner,0,4,1,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Madison Bumgarner,1,2,2,Melvin Mora,['Melvin Mora'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Madison Bumgarner,1,1,1,Jason Giambi,['Jason Giambi'],['Melvin Mora'],['N/A'],Hit By Pitch,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Madison Bumgarner,2,0,2,Ryan Spilborghs,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Madison Bumgarner,3,3,1,Miguel Olivo,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Esmil Rogers,1,2,0,Freddy Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Esmil Rogers,2,0,1,Aubrey Huff,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Esmil Rogers,3,3,2,Pat Burrell,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Ramon Ramirez,1,1,2,Clint Barmes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Ramon Ramirez,2,0,1,Esmil Rogers,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Ramon Ramirez,3,1,1,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,0,3,1,Jose Guillen,['Jose Guillen'],['N/A'],['N/A'],Hit By Pitch,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,0,3,1,Buster Posey,['Buster Posey'],['N/A'],['Nate Schierholtz'],Single,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Matt Reynolds,1,0,3,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Matt Belisle,2,2,3,Juan Uribe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Matt Belisle,3,0,0,Travis Ishikawa,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Jeremy Affeldt,1,1,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Jeremy Affeldt,2,0,1,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,top,1,[],Jeremy Affeldt,2,1,1,Melvin Mora,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,1,N/A,N/A
+8,top,0,[],Jeremy Affeldt,3,1,3,Jason Giambi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+8,bottom,1,[],Matt Belisle,0,3,2,Andres Torres,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,1,N/A,N/A
+8,bottom,0,[],Matt Belisle,0,0,0,Freddy Sanchez,['N/A'],['Freddy Sanchez'],['N/A'],Single,Error,3,2,N/A,N/A,Matt Belisle
+8,bottom,0,[],Joe Beimel,1,0,3,Aubrey Huff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Joe Beimel,1,4,0,Pat Burrell,['Pat Burrell'],['N/A'],['N/A'],Intent Walk,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Joe Beimel,1,4,0,Cody Ross,['Cody Ross'],['Pat Burrell'],['Freddy Sanchez'],Walk,N/A,3,2,N/A,N/A,N/A
+8,bottom,2,"['Freddy Sanchez', 'Pat Burrell']",Joe Beimel,1,1,0,Buster Posey,['N/A'],['Buster Posey'],['Cody Ross'],Double,N/A,5,2,2,N/A,N/A
+8,bottom,0,[],Franklin Morales,2,1,1,Pablo Sandoval,['Pablo Sandoval'],['N/A'],['N/A'],Fielders Choice Out,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Franklin Morales,2,1,0,Juan Uribe,['N/A'],['Pablo Sandoval'],['Buster Posey'],Wild Pitch,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Franklin Morales,2,4,0,Juan Uribe,['Juan Uribe'],['Pablo Sandoval'],['Buster Posey'],Intent Walk,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Franklin Morales,3,1,3,Aaron Rowand,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+9,top,0,[],Brian Wilson,1,0,1,Ryan Spilborghs,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,2,N/A,N/A,N/A
+9,top,0,[],Brian Wilson,2,0,1,Miguel Olivo,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+9,top,0,[],Brian Wilson,3,1,3,Clint Barmes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A

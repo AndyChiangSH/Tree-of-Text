@@ -1,0 +1,62 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Konerko,,0,,DH,0,,0,0,3,Paul Konerko,,,.000,,.191,,,2,Paul,,,,,0,,,0,.577,,600,,0,,,0,,1,,2,,,1,1,1,0,3,White Sox,0,.348,0,.229
+,Downs,,,,,,,,,,Scott Downs,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Dunn,,0,,1B,0,,0,0,4,Adam Dunn,,1,1.000,,.228,,,1,Adam,,,,,7,,,0,.812,,400,,0,,,0,,1,,1,,,0,0,2,0,0,White Sox,0,.437,0,.375
+,Belisario,,,,,,,,,,Ronald Belisario,,,,,,,,,Ronald,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Danks,,,,,,,,,,John Danks,,,,,,,,,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Lindstrom,,,,,,,,,,Matt Lindstrom,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Flowers,,0,,C,0,,0,0,3,Tyler Flowers,,,1.000,,.287,,,0,Tyler,,,,,9,,,0,.740,,800,,0,,,0,,0,,1,,,1,1,2,0,1,White Sox,0,.395,0,.345
+,Carroll,,,,,,,,,,Scott Carroll,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Noesi,,,,,,,,,,Hector Noesi,,,,,,,,,Hector,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,De Aza,,0,,LF,0,,0,0,0,Alejandro De Aza,,,.000,,.173,,,0,Alejandro,,,,,0,,,0,.525,,301,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.279,0,.246
+,Guerra,,,,,,,,,,Javy Guerra,,,,,,,,,Javy,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Paulino,,,,,,,,,,Felipe Paulino,,,,,,,,,Felipe,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Putnam,,,,,,,,,,Zach Putnam,,,,,,,,,Zach,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Ramirez,,0,,SS,0,,0,1,1,Alexei Ramirez,,,1.000,,.327,,,0,Alexei,,,,,1,,,1,.841,,500,,0,,,2,,0,,0,,,0,1,1,0,0,White Sox,0,.477,0,.364
+,Viciedo,,0,,LF,0,,0,0,4,Dayan Viciedo,,3,.000,,.277,,,1,Dayan,,,,,0,,,0,.773,,300,,0,,,0,,0,,0,,,0,1,1,0,0,White Sox,0,.441,0,.332
+,Beckham,,0,,2B,3,,0,0,4,Gordon Beckham,,,1.000,,.279,,,0,Gordon,,,,,3,,,0,.732,,200,,0,,,1,,0,,1,,,0,0,0,0,0,White Sox,0,.414,0,.318
+,Quintana,,,,,,,,,,Jose Quintana,,,,,,,,,Jose,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Sierra,,0,,RF,1,,0,0,3,Moises Sierra,,2,1.000,,.173,,,0,Moises,,,,,3,,,0,.431,,900,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.222,0,.209
+,Petricka,,,,,,,,,,Jake Petricka,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Rienzo,,,,,,,,,,Andre Rienzo,,,,,,,,,Andre,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Jones,,,,,,,,,,Nate Jones,,,,,,,,,Nate,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+0,Sale,2,0,0,P,0,28,0,0,0,Chris Sale,5,,1.000,0,.000,1,72,0,Chris,0,9,,1,0,9,,0,.000,0,,,0,88,true,2,1.59,0,27,0,1,100,0,0,0,0,0,White Sox,0,.000,0,.000
+,Garcia,,,,,,,,,,Avisail Garcia,,,,,,,,,Avisail,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Gillaspie,,,,,,,,,,Conor Gillaspie,,,,,,,,,Conor,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Nieto,,,,,,,,,,Adrian Nieto,,,,,,,,,Adrian,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Semien,,0,,3B,1,,0,0,3,Marcus Semien,,1,1.000,,.218,,,1,Marcus,,,,,0,,,0,.614,,700,,0,,,2,,0,,0,,,0,0,1,0,0,White Sox,0,.327,0,.287
+,Webb,,,,,,,,,,Daniel Webb,,,,,,,,,Daniel,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Garcia,,,,,,,,,,Leury Garcia,,,,,,,,,Leury,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Abreu,,,,,,,,,,Jose Abreu,,,,,,,,,Jose,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Eaton,,0,,CF,2,,1,0,4,Adam Eaton,,1,1.000,,.259,,,0,Adam,,,,,4,,,0,.647,,100,,0,,,0,,0,,1,,,0,0,0,0,0,White Sox,0,.329,0,.318
+,Benoit,,,,,,,,,,Joaquin Benoit,,,,,,,,,Joaquin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Rivera,,0,,C,1,,0,0,3,Rene Rivera,,1,1.000,,.233,,,0,Rene,,,,,8,,,0,.725,,800,,0,,,1,,0,,0,,,0,0,1,0,0,Padres,0,.452,0,.273
+,Stauffer,,,,,,,,,,Tim Stauffer,,,,,,,,,Tim,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Street,,,,,,,,,,Huston Street,,,,,,,,,Huston,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Quentin,,0,,DH,1,,0,0,3,Carlos Quentin,,1,.000,,.313,,,0,Carlos,,,,,0,,,0,.967,,300,,0,,,0,,0,,0,,,0,0,1,0,0,Padres,0,.531,0,.436
+,Johnson,,,,,,,,,,Josh Johnson,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+6,Stults,5,0,1,P,0,25,0,0,0,Eric Stults,2,,1.000,0,.071,4,60,0,Eric,0,6,,2,1,6,,0,.214,0,,true,0,51,,1,5.03,0,18,0,4,96,0,0,0,0,0,Padres,0,.143,0,.071
+2,Thayer,0,0,0,P,0,3,0,0,0,Dale Thayer,2,,.000,0,.000,0,9,0,Dale,0,1,,0,0,1,,0,.000,6,,,0,54,,0,2.13,0,3,0,0,12,0,0,0,0,0,Padres,0,.000,0,.000
+,Headley,,0,,3B,0,,0,0,3,Chase Headley,,1,1.000,,.201,,,0,Chase,,,,,0,,,0,.632,,400,,0,,,1,,0,,1,,,1,1,1,0,1,Padres,0,.345,0,.287
+,Smith,,,,,,,,,,Seth Smith,,,,,,,,,Seth,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Kennedy,,,,,,,,,,Ian Kennedy,,,,,,,,,Ian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Denorfia,,0,,RF,2,,0,0,3,Chris Denorfia,,1,1.000,,.272,,,0,Chris,,,,,2,,,0,.690,,200,,0,,,0,,0,,0,,,0,0,0,0,0,Padres,0,.377,0,.313
+,Torres,,,,,,,,,,Alex Torres,,,,,,,,,Alex,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Maybin,,,,,,,,,,Cameron Maybin,,,,,,,,,Cameron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Luebke,,,,,,,,,,Cory Luebke,,,,,,,,,Cory,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Venable,,0,,CF,1,,0,0,2,Will Venable,,,1.000,,.211,,,0,Will,,,,,4,,,0,.572,,900,,0,,,0,,0,,0,,,0,0,1,0,0,Padres,0,.289,0,.283
+,Patton,,,,,,,,,,Troy Patton,,,,,,,,,Troy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Cabrera,,0,,SS,1,,0,0,4,Everth Cabrera,,1,1.000,,.247,,,0,Everth,,,,,0,,,0,.617,,100,,0,,,4,,0,,0,,,0,0,2,0,0,Padres,0,.342,0,.275
+,Ross,,,,,,,,,,Tyson Ross,,,,,,,,,Tyson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Alonso,,0,,1B,1,,0,0,3,Yonder Alonso,,,1.000,,.211,,,0,Yonder,,,,,7,,,0,.595,,700,,0,,,0,,0,,0,,,0,0,2,0,0,Padres,0,.341,0,.254
+,Cashner,,,,,,,,,,Andrew Cashner,,,,,,,,,Andrew,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Amarista,,0,,LF,0,,0,0,0,Alexi Amarista,,,.000,,.198,,,0,Alexi,,,,,0,,,0,.552,,501,,0,,,0,,0,,0,,,0,0,0,0,0,Padres,0,.281,0,.271
+,Grandal,,0,,PH,1,,0,0,1,Yasmani Grandal,,,.000,,.188,,,0,Yasmani,,,,,0,,,0,.651,,901,,0,,,0,,0,,0,,,0,0,0,0,0,Padres,0,.375,0,.276
+,Medica,,0,,LF,1,,0,0,3,Tommy Medica,,,.000,,.286,,,0,Tommy,,,,,0,,,0,.898,,500,,0,,,0,,0,,1,,,0,0,1,0,0,Padres,0,.571,0,.327
+1,Quackenbush,1,0,0,P,0,3,0,0,0,Kevin Quackenbush,1,,.000,0,.000,0,12,0,Kevin,0,1,,0,0,1,,0,.000,0,,,0,52,,0,4.22,0,3,0,0,20,0,0,0,0,0,Padres,0,.000,0,.000
+,Kelly,,,,,,,,,,Casey Kelly,,,,,,,,,Casey,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Roach,,,,,,,,,,Donn Roach,,,,,,,,,Donn,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Vincent,,,,,,,,,,Nick Vincent,,,,,,,,,Nick,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Wieland,,,,,,,,,,Joe Wieland,,,,,,,,,Joe,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Erlin,,,,,,,,,,Robbie Erlin,,,,,,,,,Robbie,,,,,,,,,,,,,,,,,,,,,,,,,,,,Padres,,,,
+,Gyorko,,0,,2B,2,,0,0,3,Jedd Gyorko,,2,1.000,,.167,,,1,Jedd,,,,,2,,,0,.489,,600,,0,,,1,,0,,0,,,0,0,0,0,0,Padres,0,.278,0,.211

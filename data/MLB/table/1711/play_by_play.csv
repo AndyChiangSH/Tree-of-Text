@@ -1,0 +1,80 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Trevor Richards,0,0,0,Trea Turner,['Trea Turner'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,0,1,1,Bryce Harper,['N/A'],['Trea Turner'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Trevor Richards,1,2,3,Bryce Harper,['N/A'],['Trea Turner'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,1,1,0,Ryan Zimmerman,['N/A'],['N/A'],['Trea Turner'],Stolen Base 3B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Trevor Richards,2,1,3,Ryan Zimmerman,['N/A'],['N/A'],['Trea Turner'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Trevor Richards,3,2,0,Juan Soto,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,1,0,2,Miguel Rojas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,1,4,2,Brian Anderson,['Brian Anderson'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,2,2,0,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,3,1,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Trevor Richards,0,4,2,Daniel Murphy,['Daniel Murphy'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Trevor Richards,1,3,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Trevor Richards,3,1,0,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,1,3,2,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,1,0,1,Yadiel Rivera,['Yadiel Rivera'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,2,3,3,JT Riddle,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,3,3,2,Bryan Holaday,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Trevor Richards,1,1,1,Matt Wieters,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Trevor Richards,2,1,3,Gio Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Trevor Richards,3,1,1,Trea Turner,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,1,0,3,Trevor Richards,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,2,0,1,Miguel Rojas,['N/A'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,3,1,1,Brian Anderson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Trevor Richards,1,3,0,Bryce Harper,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Trevor Richards,2,2,2,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Trevor Richards,2,2,2,Juan Soto,['Juan Soto'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Trevor Richards,3,2,3,Daniel Murphy,['N/A'],['Juan Soto'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,0,4,0,J.T. Realmuto,['J.T. Realmuto'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,0,4,2,Starlin Castro,['Starlin Castro'],['J.T. Realmuto'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,0,4,1,Cameron Maybin,['Cameron Maybin'],['Starlin Castro'],['J.T. Realmuto'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,1,['J.T. Realmuto'],Gio Gonzalez,1,2,1,Yadiel Rivera,['N/A'],['N/A'],['Starlin Castro'],Sac Fly,N/A,1,0,1,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,2,0,1,JT Riddle,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,3,1,0,Bryan Holaday,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Trevor Richards,1,1,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Trevor Richards,2,1,3,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Trevor Richards,3,3,3,Matt Wieters,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,1,0,3,Trevor Richards,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,2,1,0,Miguel Rojas,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,3,3,2,Brian Anderson,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Trevor Richards,1,2,2,Gio Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Trevor Richards,1,0,0,Trea Turner,['Trea Turner'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Trevor Richards,1,4,2,Bryce Harper,['Bryce Harper'],['Trea Turner'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Trevor Richards,3,1,0,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,1,0,0,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,1,2,2,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,2,3,2,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Forceout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,3,1,2,Yadiel Rivera,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Adam Conley,1,1,1,Juan Soto,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Adam Conley,2,0,0,Daniel Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Adam Conley,2,4,2,Mark Reynolds,['Mark Reynolds'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Brad Ziegler,3,0,0,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Gio Gonzalez,1,2,2,JT Riddle,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Gio Gonzalez,2,2,0,Bryan Holaday,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Gio Gonzalez,3,1,2,Magneuris Sierra,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Drew Steckenrider,1,3,2,Adam Eaton,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Drew Steckenrider,2,2,2,Matt Adams,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Drew Steckenrider,3,3,2,Trea Turner,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Brandon Kintzler,0,0,0,Miguel Rojas,['Miguel Rojas'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Brandon Kintzler,2,0,2,Brian Anderson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Brandon Kintzler,2,0,1,J.T. Realmuto,['J.T. Realmuto'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Brandon Kintzler,2,4,1,Starlin Castro,['Starlin Castro'],['J.T. Realmuto'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Brandon Kintzler,3,1,1,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kyle Barraclough,0,1,1,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Hit By Pitch,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kyle Barraclough,0,3,1,Ryan Zimmerman,['Ryan Zimmerman'],['Bryce Harper'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kyle Barraclough,1,1,2,Juan Soto,['Juan Soto'],['N/A'],['Bryce Harper'],Forceout,N/A,1,0,N/A,N/A,N/A
+9,top,1,['Bryce Harper'],Kyle Barraclough,1,2,1,Daniel Murphy,['Daniel Murphy'],['N/A'],['Juan Soto'],Single,N/A,1,1,1,N/A,N/A
+9,top,0,[],Kyle Barraclough,2,2,2,Mark Reynolds,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],N/A,2,2,2,N/A,['N/A'],['Daniel Murphy'],['N/A'],Stolen Base 2B,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Kyle Barraclough,3,2,2,Michael A. Taylor,['N/A'],['Daniel Murphy'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Ryan Madson,1,0,1,Derek Dietrich,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Ryan Madson,2,1,3,JT Riddle,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Ryan Madson,3,1,1,Bryan Holaday,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Brett Graves,1,0,3,Wilmer Difo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Brett Graves,2,2,1,Spencer Kieboom,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Brett Graves,3,2,1,Trea Turner,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Kelvin Herrera,0,0,0,Magneuris Sierra,['Magneuris Sierra'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Kelvin Herrera,0,1,0,Miguel Rojas,['Miguel Rojas'],['Magneuris Sierra'],['N/A'],Field Error,N/A,1,1,N/A,N/A,Spencer Kieboom
+10,bottom,0,[],Kelvin Herrera,0,2,0,Brian Anderson,['Brian Anderson'],['Miguel Rojas'],['Magneuris Sierra'],Single,N/A,1,1,N/A,N/A,N/A
+10,bottom,1,['Magneuris Sierra'],Kelvin Herrera,0,2,1,J.T. Realmuto,['J.T. Realmuto'],['Brian Anderson'],['Miguel Rojas'],Single,N/A,2,1,1,N/A,N/A

@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Bruce Chen,1,2,3,Dustin Ackley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bruce Chen,2,0,3,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bruce Chen,3,3,3,Casper Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Millwood,1,2,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Millwood,2,0,1,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Millwood,3,1,3,Eric Hosmer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Bruce Chen,1,2,2,Jesus Montero,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Bruce Chen,2,1,0,Justin Smoak,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],Bruce Chen,2,1,0,Kyle Seager,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],Bruce Chen,3,1,3,Miguel Olivo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kevin Millwood,0,2,1,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kevin Millwood,0,2,2,Lorenzo Cain,['Lorenzo Cain'],['Billy Butler'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,1,['Billy Butler'],Kevin Millwood,0,0,0,Mike Moustakas,['N/A'],['Mike Moustakas'],['Lorenzo Cain'],Double,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],Kevin Millwood,1,1,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+2,bottom,1,['Lorenzo Cain'],Kevin Millwood,2,0,1,Brayan Pena,['N/A'],['N/A'],['Mike Moustakas'],Groundout,N/A,2,1,1,N/A,N/A
+2,bottom,1,['Mike Moustakas'],Kevin Millwood,2,0,0,Chris Getz,['Chris Getz'],['N/A'],['N/A'],Single,N/A,3,1,1,N/A,N/A
+2,bottom,0,[],Kevin Millwood,2,0,0,Alex Gordon,['Alex Gordon'],['N/A'],['Chris Getz'],Single,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Kevin Millwood,3,1,3,Alcides Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],Bruce Chen,1,2,2,Michael Saunders,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],Bruce Chen,2,0,0,Brendan Ryan,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],Bruce Chen,3,3,2,Dustin Ackley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+3,bottom,0,[],Kevin Millwood,1,1,1,Eric Hosmer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+3,bottom,0,[],Kevin Millwood,1,0,0,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+3,bottom,0,[],Kevin Millwood,2,0,0,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+3,bottom,0,[],Kevin Millwood,2,1,0,Mike Moustakas,['N/A'],['Billy Butler'],['N/A'],Wild Pitch,N/A,3,1,N/A,N/A,N/A
+3,bottom,0,[],Kevin Millwood,3,2,2,Mike Moustakas,['N/A'],['Billy Butler'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+4,top,0,[],Bruce Chen,0,3,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+4,top,2,['Ichiro Suzuki'],Bruce Chen,0,0,0,Casper Wells,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,2,N/A,N/A
+4,top,0,[],Bruce Chen,1,0,0,Jesus Montero,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+4,top,0,[],Bruce Chen,2,0,1,Justin Smoak,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+4,top,0,[],Bruce Chen,3,2,2,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+4,bottom,0,[],Kevin Millwood,1,2,2,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,3,N/A,N/A,N/A
+4,bottom,0,[],Kevin Millwood,1,3,2,Brayan Pena,['Brayan Pena'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+4,bottom,0,[],Kevin Millwood,1,0,1,Chris Getz,['N/A'],['Chris Getz'],['Brayan Pena'],Double,N/A,3,3,N/A,N/A,N/A
+4,bottom,2,"['Brayan Pena', 'Chris Getz']",Kevin Millwood,1,0,0,Alex Gordon,['N/A'],['Alex Gordon'],['N/A'],Double,N/A,5,3,2,N/A,N/A
+4,bottom,0,[],Kevin Millwood,2,1,1,Alcides Escobar,['N/A'],['N/A'],['Alex Gordon'],Flyout,N/A,5,3,N/A,N/A,N/A
+4,bottom,0,[],Kevin Millwood,3,1,0,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,3,N/A,N/A,N/A
+5,top,0,[],Bruce Chen,1,0,0,Miguel Olivo,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,3,N/A,N/A,N/A
+5,top,0,[],Bruce Chen,1,3,1,Michael Saunders,['Michael Saunders'],['N/A'],['N/A'],Single,N/A,5,3,N/A,N/A,N/A
+5,top,0,[],Bruce Chen,1,0,1,Brendan Ryan,['Brendan Ryan'],['Michael Saunders'],['N/A'],Single,N/A,5,3,N/A,N/A,N/A
+5,top,0,[],Bruce Chen,2,2,3,Dustin Ackley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,3,N/A,N/A,N/A
+5,top,0,[],Bruce Chen,3,2,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,3,N/A,N/A,N/A
+5,bottom,0,[],Kevin Millwood,0,4,1,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Walk,N/A,5,3,N/A,N/A,N/A
+5,bottom,2,['Billy Butler'],Kevin Millwood,0,1,2,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,3,2,N/A,N/A
+5,bottom,0,[],Kevin Millwood,1,0,2,Mike Moustakas,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,3,N/A,N/A,N/A
+5,bottom,0,[],Kevin Millwood,2,1,2,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+5,bottom,0,[],Kevin Millwood,3,1,0,Brayan Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+6,top,0,[],Bruce Chen,0,1,2,Casper Wells,['Casper Wells'],['N/A'],['N/A'],Single,N/A,7,3,N/A,N/A,N/A
+6,top,0,[],Bruce Chen,0,1,2,Jesus Montero,['Jesus Montero'],['Casper Wells'],['N/A'],Single,N/A,7,3,N/A,N/A,N/A
+6,top,0,[],Bruce Chen,1,3,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+6,top,0,[],Jose Mijares,2,2,2,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+6,top,1,['Casper Wells'],Jose Mijares,2,0,2,Miguel Olivo,['Miguel Olivo'],['Jesus Montero'],['N/A'],Single,N/A,7,4,1,N/A,N/A
+6,top,0,[],Jose Mijares,2,4,2,Michael Saunders,['Michael Saunders'],['Miguel Olivo'],['Jesus Montero'],Walk,N/A,7,4,N/A,N/A,N/A
+6,top,0,[],Jose Mijares,3,1,1,Brendan Ryan,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,4,N/A,N/A,N/A
+6,bottom,0,[],Steve Delabar,0,4,1,Chris Getz,['Chris Getz'],['N/A'],['N/A'],Walk,N/A,7,4,N/A,N/A,N/A
+6,bottom,0,[],Steve Delabar,0,1,1,Alex Gordon,['N/A'],['Chris Getz'],['N/A'],Wild Pitch,N/A,7,4,N/A,N/A,N/A
+6,bottom,0,[],Steve Delabar,1,2,1,Alex Gordon,['N/A'],['Chris Getz'],['Chris Getz'],Groundout,N/A,7,4,N/A,N/A,N/A
+6,bottom,0,[],Steve Delabar,2,1,0,Alcides Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,4,N/A,N/A,N/A
+6,bottom,0,[],Steve Delabar,3,2,0,Eric Hosmer,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,4,N/A,N/A,N/A
+7,top,0,[],Jose Mijares,1,0,0,Dustin Ackley,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+7,top,0,[],Jose Mijares,1,0,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,7,4,N/A,N/A,N/A
+7,top,0,[],Aaron Crow,1,0,0,Casper Wells,['N/A'],['Casper Wells'],['Ichiro Suzuki'],Single,Error,7,4,N/A,N/A,Lorenzo Cain
+7,top,2,"['Ichiro Suzuki', 'Casper Wells']",Aaron Crow,1,2,0,Jesus Montero,['Jesus Montero'],['N/A'],['N/A'],Single,N/A,7,6,2,N/A,N/A
+7,top,0,[],Aaron Crow,2,3,3,Justin Smoak,['N/A'],['Jesus Montero'],['N/A'],Strikeout,N/A,7,6,N/A,N/A,N/A
+7,top,1,['Jesus Montero'],Aaron Crow,2,1,2,Kyle Seager,['N/A'],['Kyle Seager'],['N/A'],Double,N/A,7,7,1,N/A,N/A
+7,top,0,[],Aaron Crow,3,0,1,John Jaso,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,7,N/A,N/A,N/A
+7,bottom,0,[],Steve Delabar,0,4,1,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Walk,N/A,7,7,N/A,N/A,N/A
+7,bottom,0,[],Steve Delabar,2,0,1,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,7,7,N/A,N/A,N/A
+7,bottom,0,[],Oliver Perez,2,1,0,Mike Moustakas,['Mike Moustakas'],['N/A'],['N/A'],Single,N/A,7,7,N/A,N/A,N/A
+7,bottom,0,[],Oliver Perez,3,2,1,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,7,N/A,N/A,N/A
+8,top,0,[],Kelvin Herrera,1,0,3,Michael Saunders,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,7,N/A,N/A,N/A
+8,top,0,[],Kelvin Herrera,1,1,1,Brendan Ryan,['N/A'],['N/A'],['Brendan Ryan'],Triple,N/A,7,7,N/A,N/A,N/A
+8,top,0,[],Kelvin Herrera,2,0,2,Dustin Ackley,['Dustin Ackley'],['N/A'],['N/A'],Fielders Choice Out,N/A,7,7,N/A,N/A,N/A
+8,top,0,[],Kelvin Herrera,2,0,0,Ichiro Suzuki,['Ichiro Suzuki'],['Dustin Ackley'],['N/A'],Single,N/A,7,7,N/A,N/A,N/A
+8,top,0,[],Kelvin Herrera,3,0,3,Casper Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,7,N/A,N/A,N/A
+8,bottom,0,[],Oliver Perez,1,0,2,Brayan Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,7,N/A,N/A,N/A
+8,bottom,0,[],Oliver Perez,2,2,1,Chris Getz,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,7,N/A,N/A,N/A
+8,bottom,0,[],Oliver Perez,2,0,2,Alex Gordon,['N/A'],['Alex Gordon'],['N/A'],Double,N/A,7,7,N/A,N/A,N/A
+8,bottom,0,[],Josh Kinney,2,0,2,Alcides Escobar,['Alcides Escobar'],['N/A'],['Alex Gordon'],Single,N/A,7,7,N/A,N/A,N/A
+8,bottom,0,[],Josh Kinney,3,0,0,Eric Hosmer,['N/A'],['N/A'],['N/A'],Forceout,N/A,7,7,N/A,N/A,N/A
+9,top,0,[],Greg Holland,1,2,2,Jesus Montero,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,7,N/A,N/A,N/A
+9,top,0,[],Greg Holland,2,0,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,7,N/A,N/A,N/A
+9,top,0,[],Greg Holland,3,1,0,Kyle Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,7,N/A,N/A,N/A
+9,bottom,1,[],Josh Kinney,0,1,1,Billy Butler,['N/A'],['N/A'],['N/A'],Home Run,N/A,8,7,1,N/A,N/A

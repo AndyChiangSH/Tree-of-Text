@@ -1,0 +1,82 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Ervin Santana,0,0,1,Matt den Dekker,['N/A'],['Matt den Dekker'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Ervin Santana,1,1,2,Wilmer Flores,['N/A'],['N/A'],['Matt den Dekker'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Matt den Dekker'],Ervin Santana,2,0,0,Daniel Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,1,N/A,N/A
+1,top,0,[],Ervin Santana,3,1,3,Lucas Duda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jacob deGrom,1,1,3,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jacob deGrom,2,0,3,Phil Gosselin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jacob deGrom,3,1,3,Freddie Freeman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Ervin Santana,0,3,1,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Ervin Santana,1,1,3,Kirk Nieuwenhuis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Ervin Santana,1,3,1,Anthony Recker,['Anthony Recker'],['N/A'],['Curtis Granderson'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,1,['Curtis Granderson'],Ervin Santana,2,0,1,Ruben Tejada,['N/A'],['Anthony Recker'],['N/A'],Sac Fly,N/A,0,2,1,N/A,N/A
+2,top,0,[],Ervin Santana,3,1,3,Jacob deGrom,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Jacob deGrom,1,3,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Jacob deGrom,2,3,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Jacob deGrom,3,2,3,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Ervin Santana,1,1,0,Matt den Dekker,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Ervin Santana,2,2,1,Wilmer Flores,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Ervin Santana,3,0,1,Daniel Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Jacob deGrom,1,2,0,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Jacob deGrom,2,1,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Jacob deGrom,3,2,3,Ervin Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Ervin Santana,1,2,1,Lucas Duda,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Ervin Santana,1,4,1,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Ervin Santana,1,0,0,Kirk Nieuwenhuis,['N/A'],['Kirk Nieuwenhuis'],['Curtis Granderson'],Double,N/A,0,2,N/A,N/A,N/A
+4,top,1,['Curtis Granderson'],N/A,1,2,0,Anthony Recker,['N/A'],['N/A'],['Kirk Nieuwenhuis'],Passed Ball,N/A,0,3,N/A,N/A,Christian Bethancourt
+4,top,1,['Kirk Nieuwenhuis'],Ervin Santana,2,2,1,Anthony Recker,['N/A'],['N/A'],['Kirk Nieuwenhuis'],Sac Fly,N/A,0,4,1,N/A,N/A
+4,top,1,[],Ervin Santana,2,0,0,Ruben Tejada,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,5,1,N/A,N/A
+4,top,0,[],Ervin Santana,3,0,1,Jacob deGrom,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Jacob deGrom,1,2,1,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Jacob deGrom,2,0,3,Phil Gosselin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Jacob deGrom,3,0,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Ervin Santana,0,4,2,Matt den Dekker,['Matt den Dekker'],['N/A'],['N/A'],Walk,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Ervin Santana,1,2,1,Wilmer Flores,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Ervin Santana,2,2,0,Daniel Murphy,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Ervin Santana,2,2,2,Lucas Duda,['Lucas Duda'],['N/A'],['Matt den Dekker'],Single,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Ervin Santana,3,2,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Jacob deGrom,0,1,0,Justin Upton,['N/A'],['Justin Upton'],['N/A'],Single,Error,0,5,N/A,N/A,Matt den Dekker
+5,bottom,0,[],Jacob deGrom,0,0,0,Chris Johnson,['Chris Johnson'],['N/A'],['Justin Upton'],Single,N/A,0,5,N/A,N/A,N/A
+5,bottom,1,['Justin Upton'],Jacob deGrom,0,2,2,Andrelton Simmons,['Andrelton Simmons'],['Chris Johnson'],['N/A'],Field Error,N/A,1,5,1,N/A,Ruben Tejada
+5,bottom,0,[],Jacob deGrom,1,0,2,Christian Bethancourt,['N/A'],['Andrelton Simmons'],['Chris Johnson'],Groundout,N/A,1,5,N/A,N/A,N/A
+5,bottom,0,[],Jacob deGrom,1,4,1,Melvin Upton,['Melvin Upton'],['N/A'],['N/A'],Walk,N/A,1,5,N/A,N/A,N/A
+5,bottom,0,[],Jacob deGrom,2,1,3,Joey Terdoslavich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+5,bottom,1,['Chris Johnson'],Jacob deGrom,2,4,0,Emilio Bonifacio,['Emilio Bonifacio'],['Melvin Upton'],['Andrelton Simmons'],Walk,N/A,2,5,1,N/A,N/A
+5,bottom,0,[],Jacob deGrom,3,0,3,Phil Gosselin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Juan Jaime,1,1,3,Kirk Nieuwenhuis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Juan Jaime,1,4,2,Anthony Recker,['Anthony Recker'],['N/A'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Juan Jaime,1,1,1,Ruben Tejada,['Ruben Tejada'],['N/A'],['Anthony Recker'],Single,N/A,2,5,N/A,N/A,N/A
+6,top,1,['Anthony Recker'],Juan Jaime,1,0,1,Jacob deGrom,['Jacob deGrom'],['Ruben Tejada'],['N/A'],Sac Bunt,Error,2,6,1,N/A,Christian Bethancourt
+6,top,0,[],Luis Avilan,2,3,3,Matt den Dekker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+6,top,0,[],Luis Avilan,3,0,0,Wilmer Flores,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Jacob deGrom,0,4,2,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Jacob deGrom,1,0,1,Justin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Jacob deGrom,1,2,2,Chris Johnson,['Chris Johnson'],['Freddie Freeman'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Jacob deGrom,3,2,1,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Luis Avilan,1,2,2,Daniel Murphy,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Luis Avilan,1,1,1,Lucas Duda,['N/A'],['Lucas Duda'],['N/A'],Double,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Luis Avilan,1,4,2,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Luis Avilan,3,0,1,Kirk Nieuwenhuis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Buddy Carlyle,1,0,3,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Buddy Carlyle,2,1,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Buddy Carlyle,2,3,2,Ramiro Pena,['N/A'],['Ramiro Pena'],['N/A'],Double,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Buddy Carlyle,3,2,2,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Gus Schlosser,0,3,2,Anthony Recker,['Anthony Recker'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Gus Schlosser,1,0,0,Ruben Tejada,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Gus Schlosser,1,0,1,Bobby Abreu,['Bobby Abreu'],['Anthony Recker'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Gus Schlosser,2,0,0,Matt den Dekker,['Matt den Dekker'],['N/A'],['Anthony Recker'],Forceout,N/A,2,6,N/A,N/A,N/A
+8,top,1,['Anthony Recker'],N/A,2,1,0,Wilmer Flores,['N/A'],[],['N/A'],Pickoff Error 1B,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Gus Schlosser,3,2,2,Wilmer Flores,['N/A'],['Matt den Dekker'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Daisuke Matsuzaka,1,1,3,Phil Gosselin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Daisuke Matsuzaka,2,1,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Daisuke Matsuzaka,3,3,1,Justin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Gus Schlosser,1,1,0,Daniel Murphy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Gus Schlosser,1,3,1,Lucas Duda,['Lucas Duda'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Gus Schlosser,1,2,0,Curtis Granderson,['Curtis Granderson'],['Lucas Duda'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+9,top,1,['Lucas Duda'],Gus Schlosser,1,1,0,Kirk Nieuwenhuis,['N/A'],['Kirk Nieuwenhuis'],['Curtis Granderson'],Double,N/A,2,8,1,N/A,N/A
+9,top,2,"['Curtis Granderson', 'Kirk Nieuwenhuis']",Gus Schlosser,1,1,1,Anthony Recker,['N/A'],['Anthony Recker'],['N/A'],Double,N/A,2,10,2,N/A,N/A
+9,top,0,[],Gus Schlosser,2,0,0,Ruben Tejada,['N/A'],['N/A'],['Anthony Recker'],Groundout,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Gus Schlosser,3,2,2,Juan Centeno,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,10,N/A,N/A,N/A
+9,bottom,0,[],Erik Goeddel,1,1,0,Chris Johnson,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,10,N/A,N/A,N/A
+9,bottom,0,[],Erik Goeddel,2,0,0,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,10,N/A,N/A,N/A
+9,bottom,0,[],Erik Goeddel,3,1,0,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,10,N/A,N/A,N/A

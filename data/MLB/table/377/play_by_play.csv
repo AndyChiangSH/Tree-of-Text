@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Charlie Haeger,0,1,2,Seth Smith,['Seth Smith'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Charlie Haeger,0,4,1,Dexter Fowler,['Dexter Fowler'],['Seth Smith'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Charlie Haeger,0,4,1,Todd Helton,['Todd Helton'],['Dexter Fowler'],['Seth Smith'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Seth Smith'],Charlie Haeger,0,4,0,Troy Tulowitzki,['Troy Tulowitzki'],['Todd Helton'],['Dexter Fowler'],Walk,N/A,0,1,1,N/A,N/A
+1,top,3,"['Dexter Fowler', 'Todd Helton', 'Troy Tulowitzki']",Charlie Haeger,0,1,2,Carlos Gonzalez,['N/A'],['N/A'],['Carlos Gonzalez'],Triple,N/A,0,4,3,N/A,N/A
+1,top,2,['Carlos Gonzalez'],Ramon Ortiz,0,1,1,Ian Stewart,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,6,2,N/A,N/A
+1,top,0,[],Ramon Ortiz,0,0,2,Clint Barmes,['Clint Barmes'],['N/A'],['N/A'],Field Error,N/A,0,6,N/A,N/A,Matt Kemp
+1,top,0,[],Ramon Ortiz,1,2,2,Paul Phillips,['N/A'],['Clint Barmes'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+1,top,0,[],Ramon Ortiz,2,0,0,Jhoulys Chacin,['N/A'],['N/A'],['Clint Barmes'],Groundout,N/A,0,6,N/A,N/A,N/A
+1,top,0,[],Ramon Ortiz,3,1,2,Seth Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+1,bottom,0,[],Jhoulys Chacin,1,0,1,Russell Martin,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+1,bottom,0,[],Jhoulys Chacin,2,1,0,Matt Kemp,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+1,bottom,0,[],Jhoulys Chacin,2,3,2,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+1,bottom,0,[],Jhoulys Chacin,3,1,2,Manny Ramirez,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Ramon Ortiz,1,1,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Ramon Ortiz,1,2,2,Todd Helton,['Todd Helton'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Ramon Ortiz,1,2,2,Troy Tulowitzki,['Troy Tulowitzki'],['Todd Helton'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Ramon Ortiz,2,1,2,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,6,N/A,N/A,N/A
+2,top,1,['Todd Helton'],Ramon Ortiz,2,1,0,Ian Stewart,['Ian Stewart'],['Troy Tulowitzki'],['N/A'],Single,N/A,0,7,1,N/A,N/A
+2,top,0,[],Ramon Ortiz,3,0,0,Clint Barmes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,7,N/A,N/A,N/A
+2,bottom,0,[],Jhoulys Chacin,0,4,0,James Loney,['James Loney'],['N/A'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+2,bottom,0,[],Jhoulys Chacin,1,0,3,Casey Blake,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+2,bottom,0,[],Jhoulys Chacin,2,2,3,Blake DeWitt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+2,bottom,0,[],Jhoulys Chacin,3,0,3,Jamey Carroll,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+3,top,0,[],Ramon Ortiz,0,0,0,Paul Phillips,['N/A'],['Paul Phillips'],['N/A'],Single,Error,0,7,N/A,N/A,Jamey Carroll
+3,top,0,[],Ramon Ortiz,1,0,0,Jhoulys Chacin,['N/A'],['N/A'],['Paul Phillips'],Sac Bunt,N/A,0,7,N/A,N/A,N/A
+3,top,0,[],Ramon Ortiz,2,1,2,Seth Smith,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,7,N/A,N/A,N/A
+3,top,0,[],Ramon Ortiz,3,3,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Jhoulys Chacin,1,0,1,Ramon Ortiz,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Jhoulys Chacin,1,0,0,Russell Martin,['Russell Martin'],['N/A'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Jhoulys Chacin,2,2,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Jhoulys Chacin,2,1,2,Andre Ethier,['Andre Ethier'],['N/A'],['Russell Martin'],Single,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Jhoulys Chacin,3,0,1,Manny Ramirez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Ramon Ortiz,1,1,3,Todd Helton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Ramon Ortiz,1,4,0,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Ramon Ortiz,2,1,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Ramon Ortiz,2,4,0,Ian Stewart,['Ian Stewart'],['Troy Tulowitzki'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Ramon Ortiz,3,1,0,Clint Barmes,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+4,bottom,0,[],Jhoulys Chacin,1,2,2,James Loney,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+4,bottom,0,[],Jhoulys Chacin,2,2,2,Casey Blake,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+4,bottom,0,[],Jhoulys Chacin,3,1,1,Blake DeWitt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Ramon Ortiz,1,1,3,Paul Phillips,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Ramon Ortiz,2,0,1,Jhoulys Chacin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Ramon Ortiz,2,1,1,Seth Smith,['Seth Smith'],['N/A'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Ramon Ortiz,3,1,1,Dexter Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Jhoulys Chacin,1,2,3,Jamey Carroll,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Jhoulys Chacin,1,4,0,Ronnie Belliard,['Ronnie Belliard'],['N/A'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Jhoulys Chacin,2,1,0,Russell Martin,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Jhoulys Chacin,3,2,1,Matt Kemp,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Carlos Monasterios,1,2,0,Todd Helton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Carlos Monasterios,1,0,0,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Carlos Monasterios,2,2,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Carlos Monasterios,2,1,1,Ian Stewart,['Ian Stewart'],['N/A'],['Troy Tulowitzki'],Single,N/A,0,7,N/A,N/A,N/A
+6,top,1,['Troy Tulowitzki'],Carlos Monasterios,2,2,1,Clint Barmes,['Clint Barmes'],['Ian Stewart'],['N/A'],Single,N/A,0,8,1,N/A,N/A
+6,top,0,[],Carlos Monasterios,3,2,0,Paul Phillips,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,8,N/A,N/A,N/A
+6,bottom,0,[],Jhoulys Chacin,0,0,0,Andre Ethier,['N/A'],['Andre Ethier'],['N/A'],Double,N/A,0,8,N/A,N/A,N/A
+6,bottom,0,[],Jhoulys Chacin,1,3,2,Manny Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,8,N/A,N/A,N/A
+6,bottom,0,[],Jhoulys Chacin,2,3,1,James Loney,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,8,N/A,N/A,N/A
+6,bottom,0,[],Jhoulys Chacin,2,0,1,Casey Blake,['Casey Blake'],['N/A'],['N/A'],Hit By Pitch,N/A,0,8,N/A,N/A,N/A
+6,bottom,0,[],Jhoulys Chacin,3,0,0,Blake DeWitt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,8,N/A,N/A,N/A
+7,top,0,[],Carlos Monasterios,1,1,3,Jhoulys Chacin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,8,N/A,N/A,N/A
+7,top,0,[],Carlos Monasterios,2,1,2,Seth Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,8,N/A,N/A,N/A
+7,top,0,[],Carlos Monasterios,3,2,1,Dexter Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,8,N/A,N/A,N/A
+7,bottom,0,[],Jhoulys Chacin,1,1,1,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,8,N/A,N/A,N/A
+7,bottom,0,[],Jhoulys Chacin,2,2,3,Garret Anderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,8,N/A,N/A,N/A
+7,bottom,0,[],Jhoulys Chacin,3,1,1,Russell Martin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,8,N/A,N/A,N/A
+8,top,0,[],George Sherrill,1,1,3,Todd Helton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,8,N/A,N/A,N/A
+8,top,0,[],George Sherrill,2,2,3,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,8,N/A,N/A,N/A
+8,top,0,[],George Sherrill,3,0,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,8,N/A,N/A,N/A
+8,bottom,0,[],Jhoulys Chacin,0,2,2,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Single,N/A,0,8,N/A,N/A,N/A
+8,bottom,0,[],Jhoulys Chacin,1,0,3,A.J. Ellis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,8,N/A,N/A,N/A
+8,bottom,0,[],Jhoulys Chacin,1,3,2,Manny Ramirez,['Manny Ramirez'],['N/A'],['Matt Kemp'],Single,N/A,0,8,N/A,N/A,N/A
+8,bottom,0,[],Randy Flores,3,2,2,James Loney,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,8,N/A,N/A,N/A
+9,top,0,[],Jeff Weaver,1,1,1,Ian Stewart,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,8,N/A,N/A,N/A
+9,top,0,[],Jeff Weaver,2,1,3,Clint Barmes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,8,N/A,N/A,N/A
+9,top,0,[],Jeff Weaver,3,3,3,Paul Phillips,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,8,N/A,N/A,N/A
+9,bottom,0,[],Joe Beimel,1,0,0,Nick Green,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,8,N/A,N/A,N/A
+9,bottom,0,[],Joe Beimel,2,2,2,Blake DeWitt,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,8,N/A,N/A,N/A
+9,bottom,0,[],Joe Beimel,2,1,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,0,8,N/A,N/A,N/A
+9,bottom,0,[],Joe Beimel,3,0,1,Garret Anderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,8,N/A,N/A,N/A

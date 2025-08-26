@@ -1,0 +1,79 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Oliver,,,,,,,,,,Darren Oliver,,,,,,,,,Darren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Vizquel,,,,,,,,,,Omar Vizquel,,,,,,,,,Omar,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Torrealba,,,,,,,,,,Yorvit Torrealba,,,,,,,,,Yorvit,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lyon,,,,,,,,,,Brandon Lyon,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Mathis,,0,,C,2,,0,0,3,Jeff Mathis,,1,1.000,,.207,,,3,Jeff,,,,,9,,,0,.633,,800,,0,,,1,,0,,0,,,0,0,0,0,0,Blue Jays,0,.391,0,.242
+,Encarnacion,,0,,1B,1,,0,0,3,Edwin Encarnacion,,1,.900,,.286,,,0,Edwin,,,,,8,,,1,.953,,300,,1,,,1,,0,,0,,,0,0,1,0,0,Blue Jays,0,.570,0,.383
+,Frasor,,,,,,,,,,Jason Frasor,,,,,,,,,Jason,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Johnson,,0,,2B,2,,0,0,3,Kelly Johnson,,,1.000,,.226,,,0,Kelly,,,,,3,,,0,.679,,600,,0,,,2,,0,,1,,,0,0,0,0,0,Blue Jays,0,.365,0,.314
+,McGowan,,,,,,,,,,Dustin McGowan,,,,,,,,,Dustin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Bautista,,,,,,,,,,Jose Bautista,,,,,,,,,Jose,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Davis,,0,,LF,1,,0,0,3,Rajai Davis,,,1.000,,.241,,,0,Rajai,,,,,1,,,1,.673,,100,,0,,,0,,0,,0,,,0,0,2,0,0,Blue Jays,0,.369,0,.304
+,Santos,,,,,,,,,,Sergio Santos,,,,,,,,,Sergio,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Laffey,,,,,,,,,,Aaron Laffey,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Janssen,,,,,,,,,,Casey Janssen,,,,,,,,,Casey,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Coello,,,,,,,,,,Robert Coello,,,,,,,,,Robert,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Litsch,,,,,,,,,,Jesse Litsch,,,,,,,,,Jesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+4,Cecil,3,0,2,P,0,12,0,0,0,Brett Cecil,2,,.000,0,.000,1,22,0,Brett,0,0,,0,0,2,,0,.000,0,,,0,44,,0,5.68,0,6,0,1,37,0,0,0,0,0,Blue Jays,0,.000,0,.000
+1,Delabar,0,0,1,P,0,4,0,0,0,Steve Delabar,3,,.000,2,.000,0,14,0,Steve,0,0,,0,0,1,,0,.000,7,,,0,52,,0,3.67,0,3,0,0,21,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Arencibia,,,,,,,,,,J.P. Arencibia,,,,,,,,,J.P.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lind,,0,,DH,3,,0,0,4,Adam Lind,,,.000,,.235,,,0,Adam,,,,,0,,,0,.693,,400,,0,,,0,,0,,1,,,0,0,0,0,0,Blue Jays,0,.391,0,.302
+2,Lincoln,0,0,2,P,0,4,0,0,0,Brad Lincoln,4,,1.000,1,.200,0,6,0,Brad,1,0,,0,0,1,,0,.400,8,,,0,51,,1,3.16,0,3,0,0,17,0,0,0,0,0,Blue Jays,0,.200,0,.200
+,Morrow,,,,,,,,,,Brandon Morrow,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,McCoy,,,,,,,,,,Mike McCoy,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Villanueva,,,,,,,,,,Carlos Villanueva,,,,,,,,,Carlos,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+11,Happ,7,0,2,P,0,25,0,0,0,J.A. Happ,10,,1.000,0,.094,3,57,0,J.A.,0,9,,0,1,5,,0,.265,1,,true,0,48,,1,4.79,0,15,0,3,95,0,0,0,0,0,Blue Jays,0,.094,0,.171
+,Rasmus,,0,,CF,1,,0,0,4,Colby Rasmus,,2,1.000,,.229,,,2,Colby,,,,,2,,,0,.712,,200,,0,,,0,,0,,0,,,0,0,1,0,0,Blue Jays,0,.418,0,.294
+,Romero,,,,,,,,,,Ricky Romero,,,,,,,,,Ricky,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Perez,,,,,,,,,,Luis Perez,,,,,,,,,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Drabek,,,,,,,,,,Kyle Drabek,,,,,,,,,Kyle,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Cooper,,,,,,,,,,David Cooper,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Escobar,,0,,SS,1,,0,0,4,Yunel Escobar,,3,1.000,,.251,,,2,Yunel,,,,,1,,,0,.641,,500,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.343,0,.298
+,Sierra,,0,,RF,2,,0,0,3,Moises Sierra,,,1.000,,.250,,,3,Moises,,,,,2,,,0,.650,,700,,0,,,0,,0,,0,,,0,0,1,0,0,Blue Jays,0,.375,0,.275
+,Alvarez,,,,,,,,,,Henderson Alvarez,,,,,,,,,Henderson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lawrie,,,,,,,,,,Brett Lawrie,,,,,,,,,Brett,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Jenkins,,,,,,,,,,Chad Jenkins,,,,,,,,,Chad,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Hutchison,,,,,,,,,,Drew Hutchison,,,,,,,,,Drew,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Loup,,,,,,,,,,Aaron Loup,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Hechavarria,,0,,3B,1,,0,0,3,Adeiny Hechavarria,,,1.000,,.219,,,0,Adeiny,,,,,0,,,0,.552,,900,,0,,,3,,0,,1,,,0,0,1,0,0,Blue Jays,0,.313,0,.239
+,Thome,,,,,,,,,,Jim Thome,,,,,,,,,Jim,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Wolf,,,,,,,,,,Randy Wolf,,,,,,,,,Randy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Ford,,0,,DH,1,,0,0,3,Lew Ford,,1,.000,,.174,,,1,Lew,,,,,0,,,2,.610,,800,,0,,,0,,0,,0,,,0,0,1,0,0,Orioles,0,.370,0,.240
+,Johnson,,,,,,,,,,Nick Johnson,,,,,,,,,Nick,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Gregg,,,,,,,,,,Kevin Gregg,,,,,,,,,Kevin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Betemit,,,,,,,,,,Wilson Betemit,,,,,,,,,Wilson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Roberts,,,,,,,,,,Brian Roberts,,,,,,,,,Brian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+4,Ayala,0,0,0,P,0,2,0,0,0,Luis Ayala,4,,.000,2,.000,0,4,0,Luis,1,1,,0,0,0,2/3,0,.000,11,,,0,53,,0,2.64,0,2,0,0,8,0,0,0,0,0,Orioles,0,.000,0,.000
+,Hardy,,0,,SS,2,,0,0,5,J.J. Hardy,,2,1.000,,.231,,,4,J.J.,,,,,0,,,0,.660,,200,,0,,,2,,1,,2,,,0,0,0,0,2,Orioles,0,.384,0,.276
+,Jones,,0,,CF,0,,0,0,5,Adam Jones,,2,1.000,,.284,,,3,Adam,,,,,8,,,0,.829,,300,,0,,,0,,0,,2,,,0,0,1,0,0,Orioles,1,.498,0,.331
+11,Saunders,3,0,2,P,0,24,0,0,0,Joe Saunders,7,,1.000,0,.086,0,56,0,Joe,0,2,,0,0,6,1/3,0,.240,0,,,0,67,true,1,4.26,0,19,0,0,94,0,0,0,0,0,Orioles,0,.086,0,.154
+,Hammel,,,,,,,,,,Jason Hammel,,,,,,,,,Jason,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,McLouth,,1,,LF,0,,0,1,3,Nate McLouth,,1,1.000,,.212,,,1,Nate,,,,,3,,,0,.610,,700,,0,,,0,,1,,2,,,0,1,1,0,1,Orioles,0,.318,0,.292
+,Andino,,1,,2B,1,,0,0,3,Robert Andino,,1,1.000,,.222,,,3,Robert,,,,,2,,,1,.601,,900,,0,,,2,,0,,1,,,0,1,1,0,0,Orioles,0,.306,0,.295
+,Quintanilla,,,,,,,,,,Omar Quintanilla,,,,,,,,,Omar,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Wieters,,0,,C,1,,0,0,3,Matt Wieters,,,1.000,,.240,,,2,Matt,,,,,6,,,2,.736,,400,,0,,,0,,0,,1,,,0,0,1,0,0,Orioles,0,.416,0,.320
+,Reynolds,,0,,1B,1,,0,0,4,Mark Reynolds,,,1.000,,.226,,,7,Mark,,,,,6,,,1,.776,,500,,0,,,0,,0,,0,,,0,0,3,0,0,Orioles,0,.429,0,.347
+,Davis,,,,,,,,,,Chris Davis,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Matusz,,,,,,,,,,Brian Matusz,,,,,,,,,Brian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Phillips,,,,,,,,,,Zach Phillips,,,,,,,,,Zach,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Markakis,,0,,RF,1,,0,1,3,Nick Markakis,,1,.000,,.300,,,2,Nick,,,,,0,,,1,.845,,100,,0,,,0,,1,,1,,,0,1,0,0,1,Orioles,0,.478,0,.367
+,Gonzalez,,,,,,,,,,Miguel Gonzalez,,,,,,,,,Miguel,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Pomeranz,,,,,,,,,,Stu Pomeranz,,,,,,,,,Stu,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Exposito,,,,,,,,,,Luis Exposito,,,,,,,,,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Teagarden,,,,,,,,,,Taylor Teagarden,,,,,,,,,Taylor,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Reimold,,,,,,,,,,Nolan Reimold,,,,,,,,,Nolan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Patton,,,,,,,,,,Troy Patton,,,,,,,,,Troy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+1,Johnson,0,0,0,P,0,3,0,0,0,Jim Johnson,1,,.000,3,.000,0,7,0,Jim,41,1,,0,0,1,,0,.000,0,,,0,54,,0,2.88,0,3,0,0,11,0,0,0,0,0,Orioles,0,.000,0,.000
+2,Strop,0,0,0,P,0,3,0,0,0,Pedro Strop,5,,.000,5,.000,0,8,0,Pedro,3,2,,0,0,1,,0,.000,23,,,0,55,,0,1.83,0,3,0,0,10,0,0,0,0,0,Orioles,0,.000,0,.000
+,Flaherty,,,,,,,,,,Ryan Flaherty,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Tolleson,,,,,,,,,,Steve Tolleson,,,,,,,,,Steve,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Hunter,,,,,,,,,,Tommy Hunter,,,,,,,,,Tommy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Johnson,,,,,,,,,,Steve Johnson,,,,,,,,,Steve,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Wada,,,,,,,,,,Tsuyoshi Wada,,,,,,,,,Tsuyoshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Tillman,,,,,,,,,,Chris Tillman,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Britton,,,,,,,,,,Zach Britton,,,,,,,,,Zach,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,O'Day,,,,,,,,,,Darren O'Day,,,,,,,,,Darren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Avery,,,,,,,,,,Xavier Avery,,,,,,,,,Xavier,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Machado,,0,,3B,1,,0,0,5,Manny Machado,,2,1.000,,.265,,,4,Manny,,,,,2,,,0,.761,,600,,0,,,1,,0,,1,,,0,1,1,1,0,Orioles,0,.482,0,.279
+,Chen,,,,,,,,,,Wei-Yin Chen,,,,,,,,,Wei-Yin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,

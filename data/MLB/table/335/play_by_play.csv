@@ -1,0 +1,86 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Bronson Arroyo,1,3,2,Everth Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bronson Arroyo,2,1,1,Jerry Hairston,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bronson Arroyo,3,1,2,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Correia,1,3,3,Chris Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Correia,2,3,2,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Correia,2,4,1,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Correia,3,2,3,Brandon Phillips,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Bronson Arroyo,0,1,1,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Bronson Arroyo,0,2,2,Will Venable,['N/A'],['Will Venable'],['Chase Headley'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,2,"['Chase Headley', 'Will Venable']",Bronson Arroyo,0,0,1,Matt Stairs,['N/A'],['Matt Stairs'],['N/A'],Double,N/A,0,2,2,N/A,N/A
+2,top,0,[],Bronson Arroyo,1,1,0,Nick Hundley,['N/A'],['N/A'],['Matt Stairs'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,2,['Matt Stairs'],Bronson Arroyo,1,3,1,Tony Gwynn Jr.,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,2,N/A,N/A
+2,top,0,[],Bronson Arroyo,2,0,0,Kevin Correia,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+2,top,0,[],Bronson Arroyo,3,3,2,Everth Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Kevin Correia,1,2,2,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Kevin Correia,2,2,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Kevin Correia,3,1,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Bronson Arroyo,0,3,2,Jerry Hairston,['Jerry Hairston'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Bronson Arroyo,1,1,2,Adrian Gonzalez,['N/A'],['Jerry Hairston'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Bronson Arroyo,2,1,0,Chase Headley,['N/A'],['N/A'],['Jerry Hairston'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Bronson Arroyo,2,4,1,Will Venable,['Will Venable'],['N/A'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],N/A,2,0,1,Matt Stairs,['N/A'],['Will Venable'],['N/A'],Stolen Base 2B,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Bronson Arroyo,3,3,2,Matt Stairs,['N/A'],['Will Venable'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Kevin Correia,1,2,1,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Kevin Correia,2,3,2,Bronson Arroyo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Kevin Correia,3,0,3,Chris Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Bronson Arroyo,0,0,0,Nick Hundley,['Nick Hundley'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Bronson Arroyo,0,2,0,Tony Gwynn Jr.,['Tony Gwynn Jr.'],['Nick Hundley'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Bronson Arroyo,0,4,2,Kevin Correia,['Kevin Correia'],['Tony Gwynn Jr.'],['Nick Hundley'],Walk,N/A,0,4,N/A,N/A,N/A
+4,top,1,['Nick Hundley'],Bronson Arroyo,0,3,2,Everth Cabrera,['Everth Cabrera'],['Kevin Correia'],['N/A'],Single,N/A,0,6,2,N/A,N/A
+4,top,0,[],Micah Owings,0,0,2,Jerry Hairston,['Jerry Hairston'],['Everth Cabrera'],['Kevin Correia'],Single,N/A,0,6,N/A,N/A,N/A
+4,top,4,"['Kevin Correia', 'Everth Cabrera', 'Jerry Hairston']",Micah Owings,0,0,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,10,4,N/A,N/A
+4,top,0,[],Micah Owings,1,0,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,10,N/A,N/A,N/A
+4,top,0,[],Micah Owings,2,0,1,Will Venable,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+4,top,0,[],Micah Owings,3,1,3,Matt Stairs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,10,N/A,N/A,N/A
+4,bottom,0,[],Kevin Correia,1,1,2,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,10,N/A,N/A,N/A
+4,bottom,0,[],Kevin Correia,1,4,2,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Walk,N/A,0,10,N/A,N/A,N/A
+4,bottom,0,[],Kevin Correia,3,0,0,Brandon Phillips,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,10,N/A,N/A,N/A
+5,top,0,[],Micah Owings,1,2,3,Nick Hundley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,10,N/A,N/A,N/A
+5,top,0,[],Micah Owings,1,0,0,Tony Gwynn Jr.,['Tony Gwynn Jr.'],['N/A'],['N/A'],Hit By Pitch,N/A,0,10,N/A,N/A,N/A
+5,top,0,[],Micah Owings,2,0,1,Kevin Correia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,10,N/A,N/A,N/A
+5,top,0,[],Micah Owings,2,0,1,Everth Cabrera,['Everth Cabrera'],['Tony Gwynn Jr.'],['N/A'],Single,N/A,0,10,N/A,N/A,N/A
+5,top,0,[],Micah Owings,3,2,2,Jerry Hairston,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,10,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,1,1,0,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,2,0,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,10,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,3,0,0,Drew Stubbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+6,top,0,[],Micah Owings,0,0,0,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Single,N/A,0,10,N/A,N/A,N/A
+6,top,0,[],Micah Owings,1,2,2,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,10,N/A,N/A,N/A
+6,top,0,[],Micah Owings,2,0,1,Will Venable,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,10,N/A,N/A,N/A
+6,top,0,[],Micah Owings,3,1,1,Matt Stairs,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,10,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,0,3,2,Ryan Hanigan,['N/A'],['Ryan Hanigan'],['N/A'],Double,N/A,0,10,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,1,1,0,Micah Owings,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,10,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,1,3,2,Chris Dickerson,['Chris Dickerson'],['N/A'],['Ryan Hanigan'],Single,N/A,0,10,N/A,N/A,N/A
+6,bottom,1,['Ryan Hanigan'],Kevin Correia,2,2,0,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,10,1,N/A,N/A
+6,bottom,0,[],Kevin Correia,2,4,2,Joey Votto,['Joey Votto'],['Chris Dickerson'],['N/A'],Walk,N/A,1,10,N/A,N/A,N/A
+6,bottom,1,['Chris Dickerson'],Kevin Correia,2,2,0,Brandon Phillips,['Brandon Phillips'],['Joey Votto'],['N/A'],Single,N/A,2,10,1,N/A,N/A
+6,bottom,0,[],Tim Stauffer,3,2,1,Miguel Cairo,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,10,N/A,N/A,N/A
+7,top,0,[],Micah Owings,1,0,3,Nick Hundley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+7,top,0,[],Micah Owings,2,2,2,Tony Gwynn Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,10,N/A,N/A,N/A
+7,top,0,[],Micah Owings,3,1,3,Tim Stauffer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+7,bottom,0,[],Tim Stauffer,1,0,0,Jay Bruce,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,10,N/A,N/A,N/A
+7,bottom,0,[],Tim Stauffer,2,1,1,Drew Stubbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,10,N/A,N/A,N/A
+7,bottom,0,[],Tim Stauffer,2,1,1,Ryan Hanigan,['Ryan Hanigan'],['N/A'],['N/A'],Hit By Pitch,N/A,2,10,N/A,N/A,N/A
+7,bottom,0,[],Tim Stauffer,2,2,1,Laynce Nix,['Laynce Nix'],['Ryan Hanigan'],['N/A'],Single,N/A,2,10,N/A,N/A,N/A
+7,bottom,0,[],Tim Stauffer,3,3,3,Chris Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+8,top,0,[],Nick Masset,1,1,0,Everth Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,10,N/A,N/A,N/A
+8,top,0,[],Nick Masset,2,3,1,Jerry Hairston,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,10,N/A,N/A,N/A
+8,top,0,[],Nick Masset,2,1,1,Scott Hairston,['Scott Hairston'],['N/A'],['N/A'],Single,N/A,2,10,N/A,N/A,N/A
+8,top,0,[],Nick Masset,3,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+8,bottom,0,[],Tim Stauffer,0,1,1,Paul Janish,['Paul Janish'],['N/A'],['N/A'],Single,N/A,2,10,N/A,N/A,N/A
+8,bottom,0,[],Tim Stauffer,1,2,3,Joey Votto,['N/A'],['Paul Janish'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+8,bottom,0,[],Tim Stauffer,2,0,0,Brandon Phillips,['N/A'],['N/A'],['Paul Janish'],Groundout,N/A,2,10,N/A,N/A,N/A
+8,bottom,0,[],Tim Stauffer,3,3,3,Miguel Cairo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Carlos Fisher,0,2,0,Will Venable,['Will Venable'],['N/A'],['N/A'],Single,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Carlos Fisher,1,1,3,Kyle Blanks,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Carlos Fisher,1,0,1,Nick Hundley,['Nick Hundley'],['Will Venable'],['N/A'],Single,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Carlos Fisher,2,2,0,Tony Gwynn Jr.,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Carlos Fisher,3,1,3,Oscar Salazar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+9,bottom,0,[],Sean Gallagher,0,4,1,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Walk,N/A,2,10,N/A,N/A,N/A
+9,bottom,0,[],Sean Gallagher,0,1,1,Drew Stubbs,['Drew Stubbs'],['Jay Bruce'],['N/A'],Hit By Pitch,N/A,2,10,N/A,N/A,N/A
+9,bottom,1,['Jay Bruce'],Sean Gallagher,0,1,2,Ryan Hanigan,['Ryan Hanigan'],['Drew Stubbs'],['N/A'],Single,N/A,3,10,1,N/A,N/A
+9,bottom,0,[],Sean Gallagher,1,3,3,Jonny Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+9,bottom,0,[],Sean Gallagher,2,1,3,Chris Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+9,bottom,1,['Drew Stubbs'],Sean Gallagher,2,2,1,Paul Janish,['N/A'],['Paul Janish'],['Ryan Hanigan'],Double,N/A,4,10,1,N/A,N/A
+9,bottom,0,[],Joe Thatcher,3,1,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,10,N/A,N/A,N/A

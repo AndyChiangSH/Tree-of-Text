@@ -1,0 +1,70 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Andy Pettitte,1,0,2,Brian Roberts,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,1,[],Andy Pettitte,1,0,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Andy Pettitte,2,2,2,Adam Jones,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Andy Pettitte,3,0,1,Aubrey Huff,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],David Hernandez,1,1,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],David Hernandez,1,2,0,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],David Hernandez,1,3,2,Mark Teixeira,['Mark Teixeira'],['N/A'],['Johnny Damon'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],David Hernandez,2,2,3,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],David Hernandez,2,4,1,Hideki Matsui,['Hideki Matsui'],['Mark Teixeira'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],David Hernandez,3,3,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Andy Pettitte,1,2,2,Melvin Mora,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Andy Pettitte,2,0,1,Luke Scott,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Andy Pettitte,3,1,0,Nolan Reimold,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,1,[],David Hernandez,0,2,0,Eric Hinske,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],David Hernandez,1,0,0,Melky Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],David Hernandez,2,2,2,Jose Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],David Hernandez,2,4,2,Derek Jeter,['Derek Jeter'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],David Hernandez,3,2,3,Johnny Damon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Andy Pettitte,0,4,2,Matt Wieters,['Matt Wieters'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Andy Pettitte,0,1,2,Cesar Izturis,['N/A'],['Matt Wieters'],['N/A'],Wild Pitch,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Andy Pettitte,1,1,3,Cesar Izturis,['N/A'],['Matt Wieters'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Andy Pettitte,2,3,3,Brian Roberts,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Andy Pettitte,3,0,0,Nick Markakis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],David Hernandez,1,1,2,Mark Teixeira,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],David Hernandez,2,0,0,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],David Hernandez,3,2,3,Hideki Matsui,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Andy Pettitte,1,1,3,Adam Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Andy Pettitte,2,3,1,Aubrey Huff,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Andy Pettitte,3,1,0,Melvin Mora,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],David Hernandez,1,0,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],David Hernandez,2,1,3,Eric Hinske,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],David Hernandez,3,2,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Andy Pettitte,1,1,3,Luke Scott,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Andy Pettitte,1,4,2,Nolan Reimold,['Nolan Reimold'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Andy Pettitte,1,3,1,Matt Wieters,['Matt Wieters'],['N/A'],['Nolan Reimold'],Single,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Andy Pettitte,2,0,3,Cesar Izturis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Andy Pettitte,3,0,1,Brian Roberts,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],David Hernandez,1,3,2,Jose Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],David Hernandez,2,1,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],David Hernandez,2,4,2,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],David Hernandez,3,0,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Andy Pettitte,1,1,3,Nick Markakis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Andy Pettitte,1,0,0,Adam Jones,['Adam Jones'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Andy Pettitte,3,0,0,Aubrey Huff,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],David Hernandez,1,1,0,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],David Hernandez,2,1,1,Hideki Matsui,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],David Hernandez,3,1,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Andy Pettitte,0,0,1,Melvin Mora,['Melvin Mora'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Andy Pettitte,1,2,3,Luke Scott,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Andy Pettitte,3,2,1,Nolan Reimold,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Mark Hendrickson,1,0,2,Eric Hinske,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Mark Hendrickson,2,3,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Mark Hendrickson,3,0,0,Jose Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Andy Pettitte,1,2,3,Matt Wieters,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Andy Pettitte,1,0,0,Cesar Izturis,['Cesar Izturis'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Andy Pettitte,1,0,2,Brian Roberts,['N/A'],['Brian Roberts'],['Cesar Izturis'],Double,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Phil Coke,2,0,0,Nick Markakis,['Nick Markakis'],['N/A'],['Brian Roberts'],Fielders Choice Out,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Phil Coke,3,1,0,Adam Jones,['N/A'],['N/A'],['N/A'],Runner Out,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Jim Johnson,1,1,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Jim Johnson,2,1,3,Johnny Damon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Jim Johnson,3,2,0,Mark Teixeira,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Phil Coke,0,0,0,Adam Jones,['Adam Jones'],['N/A'],['N/A'],Hit By Pitch,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Phil Coke,1,1,1,Aubrey Huff,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],N/A,1,0,1,Melvin Mora,['N/A'],['Adam Jones'],['N/A'],Stolen Base 2B,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Alfredo Aceves,2,0,1,Melvin Mora,['N/A'],['Adam Jones'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Alfredo Aceves,2,4,0,Luke Scott,['Luke Scott'],['N/A'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Alfredo Aceves,3,2,2,Nolan Reimold,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,1,0,1,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,bottom,1,[],Jim Johnson,1,2,2,Hideki Matsui,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,1,1,N/A,N/A

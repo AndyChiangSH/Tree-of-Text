@@ -1,0 +1,87 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Masahiro Tanaka,0,0,0,Kevin Pillar,['N/A'],['Kevin Pillar'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Masahiro Tanaka,1,2,0,Jose Bautista,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Masahiro Tanaka,2,2,3,Russell Martin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Masahiro Tanaka,3,0,1,Kendrys Morales,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mat Latos,0,0,1,Brett Gardner,['N/A'],['Brett Gardner'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mat Latos,0,1,0,Chase Headley,['Chase Headley'],['N/A'],['Brett Gardner'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Brett Gardner'],Mat Latos,0,3,2,Matt Holliday,['N/A'],['Matt Holliday'],['Chase Headley'],Double,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Mat Latos,1,1,1,Starlin Castro,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Mat Latos,3,2,0,Didi Gregorius,['N/A'],['N/A'],['N/A'],Double Play,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Masahiro Tanaka,1,1,2,Kendrys Morales,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Masahiro Tanaka,2,1,0,Justin Smoak,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Masahiro Tanaka,2,1,2,Steve Pearce,['Steve Pearce'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Masahiro Tanaka,3,3,2,Ryan Goins,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,0,4,2,Aaron Judge,['Aaron Judge'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,bottom,2,['Aaron Judge'],Mat Latos,0,1,2,Aaron Hicks,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,0,2,N/A,N/A
+2,bottom,0,[],Mat Latos,0,3,2,Chris Carter,['Chris Carter'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,1,2,3,Austin Romine,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+2,bottom,2,['Chris Carter'],Mat Latos,1,0,1,Brett Gardner,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,0,2,N/A,N/A
+2,bottom,0,[],Mat Latos,2,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,2,0,2,Matt Holliday,['N/A'],['Matt Holliday'],['N/A'],Double,N/A,5,0,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,3,0,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+3,top,0,[],Masahiro Tanaka,1,1,1,Devon Travis,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,0,N/A,N/A,N/A
+3,top,0,[],Masahiro Tanaka,2,2,2,Chris Coghlan,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+3,top,0,[],Masahiro Tanaka,3,0,1,Kevin Pillar,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+3,bottom,0,[],Mat Latos,1,1,3,Didi Gregorius,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+3,bottom,1,[],Mat Latos,1,0,0,Aaron Judge,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,0,1,N/A,N/A
+3,bottom,0,[],Mat Latos,2,0,0,Aaron Hicks,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,0,N/A,N/A,N/A
+3,bottom,0,[],Mat Latos,3,2,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,0,N/A,N/A,N/A
+4,top,0,[],Masahiro Tanaka,1,1,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,0,N/A,N/A,N/A
+4,top,0,[],Masahiro Tanaka,2,1,0,Russell Martin,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+4,top,0,[],Masahiro Tanaka,3,1,0,Kendrys Morales,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,1,0,1,Austin Romine,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+4,bottom,1,[],Mat Latos,1,1,2,Brett Gardner,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,0,1,N/A,N/A
+4,bottom,0,[],Mat Latos,2,3,2,Chase Headley,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,0,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,2,1,1,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Single,N/A,7,0,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,3,3,2,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,0,N/A,N/A,N/A
+5,top,0,[],Masahiro Tanaka,1,0,1,Justin Smoak,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,0,N/A,N/A,N/A
+5,top,1,[],Masahiro Tanaka,1,2,1,Steve Pearce,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,1,1,N/A,N/A
+5,top,0,[],Masahiro Tanaka,2,1,3,Ryan Goins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+5,top,0,[],Masahiro Tanaka,2,2,2,Devon Travis,['N/A'],['Devon Travis'],['N/A'],Double,N/A,7,1,N/A,N/A,N/A
+5,top,1,['Devon Travis'],Masahiro Tanaka,2,0,0,Chris Coghlan,['Chris Coghlan'],['N/A'],['N/A'],Single,N/A,7,2,1,N/A,N/A
+5,top,0,[],Masahiro Tanaka,3,0,0,Kevin Pillar,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,2,N/A,N/A,N/A
+5,bottom,0,[],Dominic Leone,1,0,2,Didi Gregorius,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,2,N/A,N/A,N/A
+5,bottom,0,[],Dominic Leone,2,2,3,Aaron Judge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+5,bottom,0,[],Dominic Leone,3,0,3,Aaron Hicks,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+6,top,0,[],Masahiro Tanaka,0,1,1,Jose Bautista,['N/A'],['Jose Bautista'],['N/A'],Double,N/A,7,2,N/A,N/A,N/A
+6,top,0,[],Masahiro Tanaka,1,1,3,Russell Martin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+6,top,0,[],Masahiro Tanaka,2,1,2,Kendrys Morales,['N/A'],['N/A'],['Jose Bautista'],Groundout,N/A,7,2,N/A,N/A,N/A
+6,top,0,[],Masahiro Tanaka,3,3,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+6,bottom,0,[],Dominic Leone,0,4,2,Chris Carter,['Chris Carter'],['N/A'],['N/A'],Walk,N/A,7,2,N/A,N/A,N/A
+6,bottom,0,[],Dominic Leone,0,0,1,Austin Romine,['Austin Romine'],['Chris Carter'],['N/A'],Single,N/A,7,2,N/A,N/A,N/A
+6,bottom,0,[],Dominic Leone,1,2,3,Brett Gardner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+6,bottom,0,[],Dominic Leone,1,1,1,Chase Headley,['N/A'],['Austin Romine'],['Chris Carter'],Wild Pitch,N/A,7,2,N/A,N/A,N/A
+6,bottom,1,['Chris Carter'],Dominic Leone,1,3,2,Chase Headley,['Chase Headley'],['Austin Romine'],"['Chris Carter', 'Austin Romine']",Single,N/A,8,2,1,N/A,N/A
+6,bottom,0,[],Dominic Leone,3,1,0,Matt Holliday,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,8,2,N/A,N/A,N/A
+7,top,1,[],Masahiro Tanaka,0,0,0,Steve Pearce,['N/A'],['N/A'],['N/A'],Home Run,N/A,8,3,1,N/A,N/A
+7,top,0,[],Masahiro Tanaka,1,1,1,Ryan Goins,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,3,N/A,N/A,N/A
+7,top,0,[],Masahiro Tanaka,1,1,1,Devon Travis,['Devon Travis'],['N/A'],['N/A'],Single,N/A,8,3,N/A,N/A,N/A
+7,top,0,[],Tyler Clippard,2,2,2,Chris Coghlan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,3,N/A,N/A,N/A
+7,top,0,[],Tyler Clippard,2,0,1,Kevin Pillar,['Kevin Pillar'],['Devon Travis'],['N/A'],Single,N/A,8,3,N/A,N/A,N/A
+7,top,0,[],Tyler Clippard,2,4,2,Jose Bautista,['Jose Bautista'],['Kevin Pillar'],['Devon Travis'],Walk,N/A,8,3,N/A,N/A,N/A
+7,top,0,[],N/A,2,0,0,Russell Martin,['N/A'],['N/A'],['N/A'],Balk,N/A,8,4,N/A,N/A,N/A
+7,top,0,[],Dellin Betances,2,4,1,Russell Martin,['Russell Martin'],['Jose Bautista'],['Kevin Pillar'],Walk,N/A,8,4,N/A,N/A,N/A
+7,top,0,[],Dellin Betances,3,0,3,Kendrys Morales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,4,N/A,N/A,N/A
+7,bottom,0,[],Jason Grilli,0,0,0,Starlin Castro,['N/A'],['Starlin Castro'],['N/A'],Double,N/A,8,4,N/A,N/A,N/A
+7,bottom,0,[],Jason Grilli,0,4,2,Didi Gregorius,['Didi Gregorius'],['N/A'],['N/A'],Walk,N/A,8,4,N/A,N/A,N/A
+7,bottom,3,"['Starlin Castro', 'Didi Gregorius']",Jason Grilli,0,3,2,Aaron Judge,['N/A'],['N/A'],['N/A'],Home Run,N/A,11,4,3,N/A,N/A
+7,bottom,0,[],Aaron Loup,0,1,2,Aaron Hicks,['Aaron Hicks'],['N/A'],['N/A'],Single,N/A,11,4,N/A,N/A,N/A
+7,bottom,0,[],Aaron Loup,1,0,1,Chris Carter,['N/A'],['N/A'],['N/A'],Flyout,N/A,11,4,N/A,N/A,N/A
+7,bottom,0,[],Aaron Loup,1,1,2,Kyle Higashioka,['Kyle Higashioka'],['Aaron Hicks'],['N/A'],Field Error,N/A,11,4,N/A,N/A,Steve Pearce
+7,bottom,0,[],Aaron Loup,2,2,0,Brett Gardner,['Brett Gardner'],['Kyle Higashioka'],['N/A'],Forceout,N/A,11,4,N/A,N/A,N/A
+7,bottom,0,[],Aaron Loup,3,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,4,N/A,N/A,N/A
+8,top,0,[],Tommy Layne,0,0,0,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Single,N/A,11,4,N/A,N/A,N/A
+8,top,0,[],Tommy Layne,0,2,2,Steve Pearce,['N/A'],['Steve Pearce'],['Justin Smoak'],Double,N/A,11,4,N/A,N/A,N/A
+8,top,1,['Justin Smoak'],Tommy Layne,1,0,1,Ryan Goins,['N/A'],['N/A'],['Steve Pearce'],Groundout,N/A,11,5,1,N/A,N/A
+8,top,0,[],Tommy Layne,2,3,3,Devon Travis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,5,N/A,N/A,N/A
+8,top,0,[],Tommy Layne,3,1,1,Darwin Barney,['N/A'],['N/A'],['N/A'],Lineout,N/A,11,5,N/A,N/A,N/A
+8,bottom,0,[],Aaron Loup,1,2,2,Rob Refsnyder,['N/A'],['N/A'],['N/A'],Flyout,N/A,11,5,N/A,N/A,N/A
+8,bottom,0,[],Aaron Loup,1,2,0,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Single,N/A,11,5,N/A,N/A,N/A
+8,bottom,0,[],Aaron Loup,2,0,3,Didi Gregorius,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,5,N/A,N/A,N/A
+8,bottom,0,[],Aaron Loup,2,4,0,Aaron Judge,['Aaron Judge'],['Starlin Castro'],['N/A'],Walk,N/A,11,5,N/A,N/A,N/A
+8,bottom,0,[],Aaron Loup,3,1,1,Aaron Hicks,['N/A'],['N/A'],['N/A'],Pop Out,N/A,11,5,N/A,N/A,N/A
+9,top,0,[],Jonathan Holder,1,0,1,Kevin Pillar,['N/A'],['N/A'],['N/A'],Flyout,N/A,11,5,N/A,N/A,N/A
+9,top,0,[],Jonathan Holder,2,3,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,5,N/A,N/A,N/A
+9,top,0,[],Jonathan Holder,2,1,2,Luke Maile,['Luke Maile'],['N/A'],['N/A'],Field Error,N/A,11,5,N/A,N/A,Chase Headley
+9,top,0,[],Jonathan Holder,3,2,1,Kendrys Morales,['N/A'],['N/A'],['N/A'],Lineout,N/A,11,5,N/A,N/A,N/A

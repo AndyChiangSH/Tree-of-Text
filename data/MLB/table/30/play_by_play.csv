@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Edinson Volquez,0,4,2,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,0,2,2,Jamey Carroll,['Jamey Carroll'],['Grady Sizemore'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,1,2,3,David Dellucci,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,3,1,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,0,1,2,Ryan Freel,['Ryan Freel'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,0,4,2,Paul Janish,['Paul Janish'],['Ryan Freel'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,1,2,3,Ken Griffey,['N/A'],['Paul Janish'],['Ryan Freel'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Ryan Freel'],Cliff Lee,2,3,0,Brandon Phillips,['N/A'],['N/A'],['Paul Janish'],Groundout,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Cliff Lee,3,1,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,0,2,1,Ben Francisco,['N/A'],['Ben Francisco'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,1,1,2,Michael Aubrey,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,2,0,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,2,4,1,Casey Blake,['Casey Blake'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,3,1,0,Cliff Lee,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,0,0,1,Adam Dunn,['Adam Dunn'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,1,0,0,David Ross,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,3,2,2,Javier Valentin,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,1,1,1,Grady Sizemore,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,2,2,3,Jamey Carroll,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,2,1,2,David Dellucci,['David Dellucci'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,3,2,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,1,1,3,Edinson Volquez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,2,0,1,Ryan Freel,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,2,3,2,Paul Janish,['Paul Janish'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,3,2,2,Ken Griffey,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,0,0,0,Ben Francisco,['Ben Francisco'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,2,1,1,Michael Aubrey,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,2,4,0,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],N/A,2,1,2,Casey Blake,['N/A'],['Asdrubal Cabrera'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,['Asdrubal Cabrera'],Edinson Volquez,2,2,2,Casey Blake,['Casey Blake'],['Asdrubal Cabrera'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+4,top,0,[],Edinson Volquez,3,0,3,Cliff Lee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,1,0,1,Brandon Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,2,1,1,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,[],Cliff Lee,2,3,2,Adam Dunn,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,1,1,N/A,N/A
+4,bottom,0,[],Cliff Lee,3,0,0,David Ross,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,1,1,0,Grady Sizemore,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,1,4,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,2,1,3,David Dellucci,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,3,2,3,Victor Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,1,0,0,Javier Valentin,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,2,0,2,Edinson Volquez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,2,0,1,Ryan Freel,['Ryan Freel'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,2,2,2,Paul Janish,['Paul Janish'],['N/A'],['Ryan Freel'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,['Ryan Freel'],Cliff Lee,2,0,1,Ken Griffey,['Ken Griffey'],['N/A'],['Paul Janish'],Single,N/A,3,1,1,N/A,N/A
+5,bottom,1,['Paul Janish'],Cliff Lee,2,0,1,Brandon Phillips,['Brandon Phillips'],['Ken Griffey'],['N/A'],Single,N/A,4,1,1,N/A,N/A
+5,bottom,0,[],Cliff Lee,3,1,2,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Edinson Volquez,1,0,2,Ben Francisco,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,[],Edinson Volquez,1,3,2,Michael Aubrey,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,2,1,N/A,N/A
+6,top,0,[],Edinson Volquez,2,0,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Edinson Volquez,3,2,2,Casey Blake,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,1,1,2,Adam Dunn,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,2,0,1,David Ross,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,2,0,2,Javier Valentin,['N/A'],['Javier Valentin'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,2,['Javier Valentin'],Cliff Lee,2,0,1,Joey Votto,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,2,2,N/A,N/A
+6,bottom,0,[],Jensen Lewis,3,0,0,Ryan Freel,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Jeremy Affeldt,0,1,0,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Jeremy Affeldt,0,1,0,Grady Sizemore,['N/A'],['Grady Sizemore'],['Jhonny Peralta'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Jhonny Peralta'],Jeremy Affeldt,0,0,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['Grady Sizemore'],Single,N/A,6,3,1,N/A,N/A
+7,top,0,[],Jared Burton,1,0,3,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Grady Sizemore'],Jared Burton,1,0,2,Victor Martinez,['Victor Martinez'],['Jamey Carroll'],['N/A'],Single,N/A,6,4,1,N/A,N/A
+7,top,0,[],Jared Burton,2,2,0,Ben Francisco,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Jared Burton,3,0,0,Michael Aubrey,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jensen Lewis,0,3,2,Paul Janish,['Paul Janish'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jensen Lewis,1,0,3,Ken Griffey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jensen Lewis,2,3,0,Brandon Phillips,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jensen Lewis,3,0,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jared Burton,1,0,2,Ryan Garko,['N/A'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jared Burton,2,2,2,Casey Blake,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jared Burton,3,1,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Rafael Perez,0,4,2,Adam Dunn,['Adam Dunn'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Rafael Perez,1,2,1,David Ross,['N/A'],['Adam Dunn'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Rafael Perez,2,0,0,Jerry Hairston,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Rafael Perez,2,4,2,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jorge Julio,3,2,1,Ryan Freel,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,1,1,0,Grady Sizemore,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,3,3,Jamey Carroll,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,4,0,Travis Hafner,['Travis Hafner'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,3,3,3,Victor Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

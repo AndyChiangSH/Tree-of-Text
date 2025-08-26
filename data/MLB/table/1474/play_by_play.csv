@@ -1,0 +1,88 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jameson Taillon,1,0,1,Jacoby Ellsbury,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jameson Taillon,2,0,1,Aaron Hicks,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jameson Taillon,3,2,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Michael Pineda,1,1,2,Adam Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Michael Pineda,2,1,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,[],Michael Pineda,2,1,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Michael Pineda,3,0,2,Gregory Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jameson Taillon,0,4,2,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jameson Taillon,2,2,2,Aaron Judge,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jameson Taillon,3,3,2,Greg Bird,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Michael Pineda,1,2,3,David Freese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Michael Pineda,2,2,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Michael Pineda,3,1,1,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Jameson Taillon,1,3,1,Austin Romine,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Jameson Taillon,2,0,0,Ronald Torreyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Jameson Taillon,3,1,3,Michael Pineda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Michael Pineda,1,1,1,Jordy Mercer,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Michael Pineda,2,0,3,Jameson Taillon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Michael Pineda,2,4,1,Adam Frazier,['Adam Frazier'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Michael Pineda,2,2,0,Josh Bell,['Josh Bell'],['Adam Frazier'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Michael Pineda,3,2,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jameson Taillon,1,3,2,Jacoby Ellsbury,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jameson Taillon,1,4,0,Aaron Hicks,['Aaron Hicks'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jameson Taillon,2,2,3,Chase Headley,['N/A'],['Aaron Hicks'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jameson Taillon,3,0,1,Starlin Castro,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Michael Pineda,1,2,1,Gregory Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,bottom,1,[],Michael Pineda,1,1,0,David Freese,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,1,N/A,N/A
+4,bottom,0,[],Michael Pineda,2,0,2,John Jaso,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Michael Pineda,3,0,0,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jameson Taillon,1,1,2,Aaron Judge,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jameson Taillon,2,0,0,Greg Bird,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jameson Taillon,2,2,2,Austin Romine,['Austin Romine'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jameson Taillon,2,0,2,Ronald Torreyes,['Ronald Torreyes'],['Austin Romine'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jameson Taillon,3,0,3,Michael Pineda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Michael Pineda,1,2,1,Jordy Mercer,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Michael Pineda,1,0,0,Jameson Taillon,['Jameson Taillon'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Michael Pineda,1,0,0,Adam Frazier,['Adam Frazier'],['Jameson Taillon'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Michael Pineda,1,4,1,Josh Bell,['Josh Bell'],['Adam Frazier'],['Jameson Taillon'],Walk,N/A,2,0,N/A,N/A,N/A
+5,bottom,1,['Jameson Taillon'],Michael Pineda,2,0,1,Andrew McCutchen,['N/A'],['N/A'],['Adam Frazier'],Sac Fly,N/A,3,0,1,N/A,N/A
+5,bottom,0,[],Michael Pineda,3,0,3,Gregory Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+6,top,0,[],Jameson Taillon,0,0,0,Jacoby Ellsbury,['Jacoby Ellsbury'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+6,top,0,[],Jameson Taillon,0,4,1,Aaron Hicks,['Aaron Hicks'],['Jacoby Ellsbury'],['N/A'],Walk,N/A,3,0,N/A,N/A,N/A
+6,top,0,[],Jameson Taillon,1,1,2,Chase Headley,['N/A'],['Aaron Hicks'],['Jacoby Ellsbury'],Groundout,N/A,3,0,N/A,N/A,N/A
+6,top,3,"['Jacoby Ellsbury', 'Aaron Hicks']",Jameson Taillon,1,0,0,Starlin Castro,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,3,N/A,N/A
+6,top,0,[],Jameson Taillon,1,1,2,Aaron Judge,['N/A'],['Aaron Judge'],['N/A'],Double,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Juan Nicasio,1,1,2,Greg Bird,['Greg Bird'],['N/A'],['N/A'],Hit By Pitch,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Juan Nicasio,1,1,1,Austin Romine,['Austin Romine'],['Greg Bird'],['Aaron Judge'],Single,N/A,3,3,N/A,N/A,N/A
+6,top,2,"['Aaron Judge', 'Greg Bird']",Juan Nicasio,1,0,0,Ronald Torreyes,['N/A'],['Ronald Torreyes'],['Austin Romine'],Double,N/A,3,5,2,N/A,N/A
+6,top,0,[],Juan Nicasio,2,1,1,Matt Holliday,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+6,top,0,[],Wade LeBlanc,3,0,1,Jacoby Ellsbury,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Jonathan Holder,1,0,3,David Freese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Jonathan Holder,2,2,0,John Jaso,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Jonathan Holder,2,3,2,Francisco Cervelli,['N/A'],['Francisco Cervelli'],['N/A'],Double,N/A,3,5,N/A,N/A,N/A
+6,bottom,1,['Francisco Cervelli'],Jonathan Holder,2,3,1,Jordy Mercer,['Jordy Mercer'],['N/A'],['N/A'],Single,N/A,4,5,1,N/A,N/A
+6,bottom,0,[],Tyler Clippard,2,1,2,Jose Osuna,['Jose Osuna'],['Jordy Mercer'],['N/A'],Hit By Pitch,N/A,4,5,N/A,N/A,N/A
+6,bottom,1,['Jordy Mercer'],Tyler Clippard,2,0,2,Adam Frazier,['Adam Frazier'],['Jose Osuna'],['N/A'],Single,N/A,5,5,1,N/A,N/A
+6,bottom,0,[],Tyler Clippard,3,3,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+7,top,0,[],Felipe Vazquez,1,1,1,Aaron Hicks,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,5,N/A,N/A,N/A
+7,top,0,[],Felipe Vazquez,2,1,1,Chase Headley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,5,N/A,N/A,N/A
+7,top,0,[],Felipe Vazquez,3,1,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+7,bottom,0,[],Tyler Clippard,0,4,1,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Walk,N/A,5,5,N/A,N/A,N/A
+7,bottom,0,[],N/A,0,1,0,Gregory Polanco,['N/A'],['Andrew McCutchen'],['N/A'],Stolen Base 2B,N/A,5,5,N/A,N/A,N/A
+7,bottom,0,[],Tyler Clippard,1,1,1,Gregory Polanco,['N/A'],['Andrew McCutchen'],['Andrew McCutchen'],Groundout,N/A,5,5,N/A,N/A,N/A
+7,bottom,0,[],Dellin Betances,2,3,1,David Freese,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,5,N/A,N/A,N/A
+7,bottom,0,[],Dellin Betances,3,1,1,John Jaso,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,5,N/A,N/A,N/A
+8,top,0,[],Felipe Vazquez,1,0,1,Aaron Judge,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,5,N/A,N/A,N/A
+8,top,0,[],Felipe Vazquez,2,0,0,Greg Bird,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,5,N/A,N/A,N/A
+8,top,0,[],Felipe Vazquez,2,0,0,Austin Romine,['Austin Romine'],['N/A'],['N/A'],Field Error,N/A,5,5,N/A,N/A,Adam Frazier
+8,top,0,[],Felipe Vazquez,2,0,0,Ronald Torreyes,['Ronald Torreyes'],['Austin Romine'],['N/A'],Single,N/A,5,5,N/A,N/A,N/A
+8,top,3,"['Austin Romine', 'Ronald Torreyes']",Felipe Vazquez,2,0,0,Chris Carter,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,8,3,N/A,N/A
+8,top,0,[],Felipe Vazquez,2,3,2,Jacoby Ellsbury,['N/A'],['N/A'],['Jacoby Ellsbury'],Field Error,N/A,5,8,N/A,N/A,Andrew McCutchen
+8,top,1,['Jacoby Ellsbury'],Antonio Bastardo,2,2,2,Aaron Hicks,['N/A'],['N/A'],['N/A'],Wild Pitch,N/A,5,9,N/A,N/A,N/A
+8,top,0,[],Antonio Bastardo,2,2,2,Aaron Hicks,['N/A'],['Aaron Hicks'],['N/A'],Double,N/A,5,9,N/A,N/A,N/A
+8,top,1,['Aaron Hicks'],Antonio Bastardo,2,3,1,Chase Headley,['N/A'],['Chase Headley'],['N/A'],Double,N/A,5,10,1,N/A,N/A
+8,top,0,[],Antonio Bastardo,3,2,0,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,10,N/A,N/A,N/A
+8,bottom,0,[],Bryan Mitchell,1,1,2,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,10,N/A,N/A,N/A
+8,bottom,0,[],Bryan Mitchell,2,1,0,Jordy Mercer,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,10,N/A,N/A,N/A
+8,bottom,0,[],Bryan Mitchell,3,0,3,Jose Osuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,10,N/A,N/A,N/A
+9,top,1,[],Antonio Bastardo,0,2,2,Aaron Judge,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,11,1,N/A,N/A
+9,top,0,[],Antonio Bastardo,1,2,3,Greg Bird,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,11,N/A,N/A,N/A
+9,top,0,[],Antonio Bastardo,2,3,2,Austin Romine,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,11,N/A,N/A,N/A
+9,top,0,[],Antonio Bastardo,2,0,0,Ronald Torreyes,['Ronald Torreyes'],['N/A'],['N/A'],Single,N/A,5,11,N/A,N/A,N/A
+9,top,0,[],Antonio Bastardo,3,3,2,Pete Kozma,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,11,N/A,N/A,N/A
+9,bottom,0,[],Aroldis Chapman,1,0,2,Adam Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,11,N/A,N/A,N/A
+9,bottom,0,[],Aroldis Chapman,2,0,3,Josh Harrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,11,N/A,N/A,N/A
+9,bottom,0,[],Aroldis Chapman,2,4,1,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Walk,N/A,5,11,N/A,N/A,N/A
+9,bottom,0,[],Aroldis Chapman,3,0,0,Gregory Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,11,N/A,N/A,N/A

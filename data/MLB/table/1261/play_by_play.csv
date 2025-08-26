@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Tom Koehler,1,1,2,Freddy Galvis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tom Koehler,1,3,1,Aaron Altherr,['N/A'],['Aaron Altherr'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tom Koehler,1,4,1,Odubel Herrera,['Odubel Herrera'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Aaron Altherr'],N/A,1,3,2,Darin Ruf,['N/A'],['Odubel Herrera'],['Aaron Altherr'],Stolen Base 2B,Error,0,1,N/A,N/A,N/A
+1,top,0,[],Tom Koehler,2,3,3,Darin Ruf,['N/A'],['N/A'],['Odubel Herrera'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Tom Koehler,3,0,0,Brian Bogusevic,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Aaron Harang,1,0,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Aaron Harang,1,3,2,Donovan Solano,['Donovan Solano'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Aaron Harang,2,1,0,Christian Yelich,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Aaron Harang,3,1,3,Justin Bour,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tom Koehler,0,4,2,Andres Blanco,['Andres Blanco'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tom Koehler,1,0,3,Erik Kratz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tom Koehler,1,2,0,Cody Asche,['Cody Asche'],['Andres Blanco'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tom Koehler,2,0,0,Aaron Harang,['N/A'],['Cody Asche'],['Andres Blanco'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+2,top,2,"['Andres Blanco', 'Cody Asche']",Tom Koehler,2,0,2,Freddy Galvis,['Freddy Galvis'],['N/A'],['N/A'],Single,N/A,0,3,2,N/A,N/A
+2,top,0,[],Tom Koehler,3,3,3,Aaron Altherr,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Aaron Harang,0,2,0,Marcell Ozuna,['Marcell Ozuna'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Aaron Harang,2,1,2,Derek Dietrich,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Aaron Harang,2,2,2,J.T. Realmuto,['J.T. Realmuto'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Aaron Harang,3,0,1,Miguel Rojas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Tom Koehler,1,1,2,Odubel Herrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Tom Koehler,2,1,2,Darin Ruf,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Tom Koehler,2,1,0,Brian Bogusevic,['Brian Bogusevic'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],N/A,2,2,0,Andres Blanco,['N/A'],['Brian Bogusevic'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Tom Koehler,2,4,0,Andres Blanco,['Andres Blanco'],['Brian Bogusevic'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Tom Koehler,3,3,1,Erik Kratz,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Aaron Harang,1,0,3,Tom Koehler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Aaron Harang,1,4,0,Dee Gordon,['Dee Gordon'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Aaron Harang,1,1,2,Donovan Solano,['Donovan Solano'],['N/A'],['Dee Gordon'],Single,Error,0,3,N/A,N/A,Cody Asche
+3,bottom,0,[],Aaron Harang,1,4,2,Christian Yelich,['Christian Yelich'],['Donovan Solano'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Aaron Harang,3,0,1,Justin Bour,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+4,top,1,[],Tom Koehler,0,2,1,Cody Asche,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,1,N/A,N/A
+4,top,0,[],Tom Koehler,1,0,1,Aaron Harang,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Tom Koehler,1,0,0,Freddy Galvis,['Freddy Galvis'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Tom Koehler,2,2,3,Aaron Altherr,['N/A'],['Freddy Galvis'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Tom Koehler,3,1,3,Odubel Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Aaron Harang,1,0,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Aaron Harang,1,1,2,Derek Dietrich,['Derek Dietrich'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Aaron Harang,3,2,2,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Tom Koehler,1,2,2,Darin Ruf,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Tom Koehler,2,1,0,Brian Bogusevic,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Tom Koehler,2,1,1,Andres Blanco,['Andres Blanco'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Tom Koehler,3,0,0,Erik Kratz,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Aaron Harang,1,2,1,Miguel Rojas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Aaron Harang,2,0,0,Tomas Telis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Aaron Harang,3,0,1,Dee Gordon,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Chris Narveson,1,0,3,Cody Asche,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Chris Narveson,2,0,2,Aaron Harang,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Chris Narveson,2,1,2,Freddy Galvis,['Freddy Galvis'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Chris Narveson,2,4,1,Aaron Altherr,['Aaron Altherr'],['Freddy Galvis'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Chris Narveson,3,1,3,Odubel Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Aaron Harang,1,2,2,Donovan Solano,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Aaron Harang,2,1,3,Christian Yelich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Aaron Harang,3,3,2,Justin Bour,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+7,top,1,[],Chris Narveson,0,0,1,Darin Ruf,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,5,1,N/A,N/A
+7,top,0,[],Chris Narveson,1,1,3,Brian Bogusevic,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+7,top,0,[],Chris Narveson,2,1,3,Andres Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+7,top,0,[],Chris Narveson,3,1,0,Erik Kratz,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+7,bottom,0,[],Aaron Harang,1,1,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+7,bottom,0,[],Aaron Harang,1,3,2,Derek Dietrich,['N/A'],['N/A'],['Derek Dietrich'],Triple,N/A,0,5,N/A,N/A,N/A
+7,bottom,0,[],Aaron Harang,2,1,0,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+7,bottom,2,['Derek Dietrich'],Aaron Harang,2,0,1,Miguel Rojas,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,5,2,N/A,N/A
+7,bottom,0,[],Aaron Harang,3,1,1,Casey McGehee,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+8,top,1,[],Raudel Lazo,0,2,2,Cody Asche,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,6,1,N/A,N/A
+8,top,0,[],Raudel Lazo,1,2,3,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Raudel Lazo,2,2,1,Freddy Galvis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Raudel Lazo,2,4,2,Aaron Altherr,['Aaron Altherr'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Raudel Lazo,2,2,2,Odubel Herrera,['Odubel Herrera'],['N/A'],['Aaron Altherr'],Single,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Andre Rienzo,3,1,1,Darin Ruf,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Dalier Hinojosa,1,1,1,Dee Gordon,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Dalier Hinojosa,1,0,1,Donovan Solano,['Donovan Solano'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Dalier Hinojosa,3,0,0,Christian Yelich,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Andre Rienzo,1,2,3,Brian Bogusevic,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Andre Rienzo,2,3,2,Andres Blanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Andre Rienzo,3,3,2,Erik Kratz,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Ken Giles,1,1,1,Justin Bour,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Ken Giles,2,2,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Ken Giles,3,0,0,Derek Dietrich,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A

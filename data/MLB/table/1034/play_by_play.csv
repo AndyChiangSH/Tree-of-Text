@@ -1,0 +1,73 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],J.A. Happ,1,0,1,Adam Eaton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],J.A. Happ,2,3,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],J.A. Happ,3,2,3,Jose Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Scott Carroll,0,0,1,Jose Reyes,['Jose Reyes'],['N/A'],['N/A'],Field Error,N/A,0,0,N/A,N/A,Gordon Beckham
+1,bottom,0,[],Scott Carroll,0,1,2,Melky Cabrera,['Melky Cabrera'],['Jose Reyes'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,2,"['Jose Reyes', 'Melky Cabrera']",Scott Carroll,0,1,1,Adam Lind,['N/A'],['Adam Lind'],['N/A'],Double,Error,2,0,1,1,Moises Sierra
+1,bottom,0,[],Scott Carroll,1,2,3,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Scott Carroll,2,0,1,Dioner Navarro,['N/A'],['N/A'],['Adam Lind'],Groundout,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Scott Carroll,3,1,1,Colby Rasmus,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],J.A. Happ,1,1,3,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],J.A. Happ,2,2,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],J.A. Happ,3,2,1,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Scott Carroll,0,4,1,Juan Francisco,['Juan Francisco'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Scott Carroll,1,1,3,Munenori Kawasaki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Scott Carroll,2,0,0,Anthony Gose,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+2,bottom,1,['Juan Francisco'],Scott Carroll,2,0,1,Jose Reyes,['N/A'],['N/A'],['Jose Reyes'],Triple,N/A,3,0,1,N/A,N/A
+2,bottom,0,[],Scott Carroll,3,1,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],J.A. Happ,1,0,0,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],J.A. Happ,1,2,2,Moises Sierra,['Moises Sierra'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],J.A. Happ,1,4,0,Adrian Nieto,['Adrian Nieto'],['Moises Sierra'],['N/A'],Walk,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],J.A. Happ,3,2,1,Leury Garcia,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Scott Carroll,0,2,1,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Scott Carroll,1,1,1,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['N/A'],Forceout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Scott Carroll,2,2,3,Dioner Navarro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Scott Carroll,3,1,1,Colby Rasmus,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],J.A. Happ,0,0,1,Gordon Beckham,['N/A'],['Gordon Beckham'],['N/A'],Double,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],J.A. Happ,1,2,1,Jose Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],J.A. Happ,2,2,2,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],J.A. Happ,3,2,3,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Scott Carroll,1,1,3,Juan Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Scott Carroll,2,2,2,Munenori Kawasaki,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Scott Carroll,2,1,1,Anthony Gose,['Anthony Gose'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Scott Carroll,2,0,0,Jose Reyes,['Jose Reyes'],['Anthony Gose'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Scott Carroll,2,4,2,Melky Cabrera,['Melky Cabrera'],['Jose Reyes'],['Anthony Gose'],Walk,N/A,3,0,N/A,N/A,N/A
+4,bottom,2,"['Anthony Gose', 'Jose Reyes']",Scott Carroll,2,3,1,Adam Lind,['Adam Lind'],['N/A'],['Melky Cabrera'],Single,N/A,5,0,2,N/A,N/A
+4,bottom,0,[],Scott Carroll,3,1,2,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],J.A. Happ,0,1,1,Conor Gillaspie,['N/A'],['Conor Gillaspie'],['N/A'],Field Error,N/A,5,0,N/A,N/A,Munenori Kawasaki
+5,top,0,[],J.A. Happ,1,1,2,Paul Konerko,['N/A'],['N/A'],['Conor Gillaspie'],Lineout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],J.A. Happ,2,2,3,Moises Sierra,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],J.A. Happ,3,1,2,Adrian Nieto,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+5,bottom,0,[],Scott Carroll,1,0,1,Dioner Navarro,['N/A'],['N/A'],['N/A'],Field Error,Error,5,0,N/A,N/A,Leury Garcia
+5,bottom,0,[],Scott Carroll,2,1,1,Colby Rasmus,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+5,bottom,0,[],Scott Carroll,3,1,2,Juan Francisco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],J.A. Happ,1,1,0,Leury Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],J.A. Happ,2,2,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],J.A. Happ,2,1,0,Jose Abreu,['Jose Abreu'],['N/A'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],J.A. Happ,3,1,3,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Eric Surkamp,1,2,1,Munenori Kawasaki,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Eric Surkamp,2,1,1,Anthony Gose,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Eric Surkamp,3,1,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],J.A. Happ,1,0,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],J.A. Happ,2,2,3,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],J.A. Happ,3,2,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Eric Surkamp,0,4,2,Melky Cabrera,['Melky Cabrera'],['N/A'],['N/A'],Walk,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Eric Surkamp,1,2,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+7,bottom,1,['Melky Cabrera'],Andre Rienzo,1,3,2,Edwin Encarnacion,['N/A'],['Edwin Encarnacion'],['N/A'],Double,N/A,6,0,1,N/A,N/A
+7,bottom,0,[],Andre Rienzo,2,0,3,Dioner Navarro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,0,N/A,N/A,N/A
+7,bottom,0,[],Andre Rienzo,3,0,0,Colby Rasmus,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+8,top,0,[],J.A. Happ,0,0,1,Moises Sierra,['N/A'],['Moises Sierra'],['N/A'],Double,N/A,6,0,N/A,N/A,N/A
+8,top,0,[],J.A. Happ,1,1,3,Adrian Nieto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,0,N/A,N/A,N/A
+8,top,0,[],J.A. Happ,2,2,2,Leury Garcia,['N/A'],['N/A'],['Moises Sierra'],Groundout,N/A,6,0,N/A,N/A,N/A
+8,top,0,[],J.A. Happ,2,4,2,Gordon Beckham,['Gordon Beckham'],['N/A'],['N/A'],Walk,N/A,6,0,N/A,N/A,N/A
+8,top,0,[],Dustin McGowan,3,0,1,Jose Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,0,N/A,N/A,N/A
+8,bottom,0,[],Andre Rienzo,1,3,2,Steve Tolleson,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+8,bottom,0,[],Andre Rienzo,1,1,0,Munenori Kawasaki,['Munenori Kawasaki'],['N/A'],['N/A'],Single,N/A,6,0,N/A,N/A,N/A
+8,bottom,0,[],Andre Rienzo,1,4,2,Anthony Gose,['Anthony Gose'],['Munenori Kawasaki'],['N/A'],Walk,N/A,6,0,N/A,N/A,N/A
+8,bottom,0,[],Andre Rienzo,1,0,1,Jose Reyes,['Jose Reyes'],['Anthony Gose'],['Munenori Kawasaki'],Single,N/A,6,0,N/A,N/A,N/A
+8,bottom,1,['Munenori Kawasaki'],Andre Rienzo,2,3,2,Melky Cabrera,['N/A'],['Jose Reyes'],['Anthony Gose'],Groundout,N/A,7,0,1,N/A,N/A
+8,bottom,0,[],Andre Rienzo,3,3,2,Adam Lind,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,0,N/A,N/A,N/A
+9,top,0,[],Chad Jenkins,1,1,3,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,0,N/A,N/A,N/A
+9,top,0,[],Chad Jenkins,2,1,3,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,0,N/A,N/A,N/A
+9,top,0,[],Chad Jenkins,3,1,1,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,0,N/A,N/A,N/A

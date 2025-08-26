@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Javier Vazquez,1,0,1,Rafael Furcal,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Javier Vazquez,2,1,2,Ryan Theriot,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Javier Vazquez,3,1,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jaime Garcia,1,1,1,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jaime Garcia,2,0,1,Alfredo Amezaga,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jaime Garcia,3,1,1,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,1,1,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,2,1,1,Lance Berkman,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,2,4,2,Jon Jay,['Jon Jay'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,3,0,0,Tony Cruz,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jaime Garcia,1,2,3,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jaime Garcia,1,3,2,Logan Morrison,['N/A'],['Logan Morrison'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jaime Garcia,2,0,0,Mike Cameron,['N/A'],['N/A'],['Logan Morrison'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jaime Garcia,2,4,0,Greg Dobbs,['Greg Dobbs'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jaime Garcia,3,2,3,Brett Hayes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,1,1,1,Daniel Descalso,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,2,1,3,Jaime Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,3,1,1,Rafael Furcal,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jaime Garcia,0,1,1,Javier Vazquez,['N/A'],['Javier Vazquez'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jaime Garcia,1,2,1,Emilio Bonifacio,['N/A'],['N/A'],['Javier Vazquez'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,['Javier Vazquez'],Jaime Garcia,1,0,2,Alfredo Amezaga,['Alfredo Amezaga'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+3,bottom,0,[],Jaime Garcia,1,1,0,Giancarlo Stanton,['N/A'],['Alfredo Amezaga'],['N/A'],Wild Pitch,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Jaime Garcia,1,4,2,Giancarlo Stanton,['Giancarlo Stanton'],['Alfredo Amezaga'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Jaime Garcia,3,1,2,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,1,3,2,Ryan Theriot,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+4,top,1,[],Javier Vazquez,1,0,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+4,top,0,[],Javier Vazquez,2,2,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,3,3,2,Lance Berkman,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jaime Garcia,1,1,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jaime Garcia,2,2,3,Mike Cameron,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jaime Garcia,2,3,2,Greg Dobbs,['Greg Dobbs'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jaime Garcia,3,3,2,Brett Hayes,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Javier Vazquez,1,3,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Javier Vazquez,2,1,3,Tony Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Javier Vazquez,3,1,1,Daniel Descalso,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Jaime Garcia,0,2,1,Javier Vazquez,['Javier Vazquez'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Jaime Garcia,0,3,1,Emilio Bonifacio,['Emilio Bonifacio'],['Javier Vazquez'],['Javier Vazquez'],Single,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Jaime Garcia,1,2,1,Alfredo Amezaga,['Alfredo Amezaga'],['Emilio Bonifacio'],['N/A'],Fielders Choice Out,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Jaime Garcia,1,4,1,Giancarlo Stanton,['Giancarlo Stanton'],['Alfredo Amezaga'],['Emilio Bonifacio'],Walk,N/A,1,1,N/A,N/A,N/A
+5,bottom,1,['Emilio Bonifacio'],Jaime Garcia,2,2,2,Gaby Sanchez,['N/A'],['Giancarlo Stanton'],['Alfredo Amezaga'],Groundout,N/A,2,1,1,N/A,N/A
+5,bottom,0,[],Jaime Garcia,3,1,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,0,0,1,Corey Patterson,['N/A'],['Corey Patterson'],['N/A'],Field Error,N/A,2,1,N/A,N/A,Logan Morrison
+6,top,0,[],Javier Vazquez,1,0,0,Rafael Furcal,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,2,1,1,Ryan Theriot,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,2,4,0,Albert Pujols,['Albert Pujols'],['N/A'],['N/A'],Intent Walk,N/A,2,1,N/A,N/A,N/A
+6,top,1,['Corey Patterson'],Javier Vazquez,2,0,0,Matt Holliday,['N/A'],['Matt Holliday'],['Albert Pujols'],Single,Error,2,2,1,N/A,Giancarlo Stanton
+6,top,0,[],Javier Vazquez,2,4,0,Lance Berkman,['Lance Berkman'],['N/A'],['N/A'],Intent Walk,N/A,2,2,N/A,N/A,N/A
+6,top,2,"['Albert Pujols', 'Matt Holliday']",Javier Vazquez,2,2,1,Jon Jay,['Jon Jay'],['Lance Berkman'],['N/A'],Single,N/A,2,4,2,N/A,N/A
+6,top,0,[],Javier Vazquez,3,0,3,Tony Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Mitchell Boggs,1,1,0,Mike Cameron,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Mitchell Boggs,2,3,2,Greg Dobbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Mitchell Boggs,2,2,2,Brett Hayes,['N/A'],['Brett Hayes'],['N/A'],Double,N/A,2,4,N/A,N/A,N/A
+6,bottom,2,['Brett Hayes'],Mitchell Boggs,2,3,2,Bryan Petersen,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,2,N/A,N/A
+6,bottom,0,[],Mitchell Boggs,3,2,2,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+7,top,0,[],Mike Dunn,1,0,0,Daniel Descalso,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,4,4,N/A,N/A,N/A
+7,top,0,[],Mike Dunn,1,1,1,Corey Patterson,['Corey Patterson'],['N/A'],['N/A'],Field Error,N/A,4,4,N/A,N/A,Emilio Bonifacio
+7,top,0,[],Mike Dunn,1,0,0,Rafael Furcal,['Rafael Furcal'],['N/A'],['Corey Patterson'],Single,N/A,4,4,N/A,N/A,N/A
+7,top,1,['Corey Patterson'],Burke Badenhop,1,0,0,Ryan Theriot,['Ryan Theriot'],['Rafael Furcal'],['N/A'],Single,N/A,4,5,1,N/A,N/A
+7,top,0,[],Burke Badenhop,1,2,2,Albert Pujols,['N/A'],['Ryan Theriot'],['Rafael Furcal'],Wild Pitch,N/A,4,5,N/A,N/A,N/A
+7,top,0,[],Burke Badenhop,2,2,3,Albert Pujols,['N/A'],['Ryan Theriot'],['Rafael Furcal'],Strikeout,N/A,4,5,N/A,N/A,N/A
+7,top,2,"['Rafael Furcal', 'Ryan Theriot']",Burke Badenhop,2,1,0,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Single,N/A,4,7,2,N/A,N/A
+7,top,0,[],Burke Badenhop,2,4,1,Lance Berkman,['Lance Berkman'],['Matt Holliday'],['N/A'],Walk,N/A,4,7,N/A,N/A,N/A
+7,top,0,[],Burke Badenhop,2,4,0,Skip Schumaker,['Skip Schumaker'],['Lance Berkman'],['Matt Holliday'],Walk,N/A,4,7,N/A,N/A,N/A
+7,top,0,[],Burke Badenhop,3,0,1,Tony Cruz,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,7,N/A,N/A,N/A
+7,bottom,0,[],Kyle McClellan,1,3,2,Alfredo Amezaga,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,7,N/A,N/A,N/A
+7,bottom,0,[],Kyle McClellan,1,4,1,Giancarlo Stanton,['Giancarlo Stanton'],['N/A'],['N/A'],Walk,N/A,4,7,N/A,N/A,N/A
+7,bottom,0,[],Kyle McClellan,2,0,3,Gaby Sanchez,['N/A'],['Giancarlo Stanton'],['N/A'],Strikeout,N/A,4,7,N/A,N/A,N/A
+7,bottom,0,[],Kyle McClellan,3,3,2,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,7,N/A,N/A,N/A
+8,top,0,[],Randy Choate,1,2,3,Daniel Descalso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,7,N/A,N/A,N/A
+8,top,0,[],Randy Choate,2,0,3,Corey Patterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,7,N/A,N/A,N/A
+8,top,0,[],Randy Choate,3,0,0,Rafael Furcal,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,7,N/A,N/A,N/A
+8,bottom,0,[],Kyle McClellan,1,0,3,Mike Cameron,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,7,N/A,N/A,N/A
+8,bottom,0,[],Kyle McClellan,2,2,0,Greg Dobbs,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,7,N/A,N/A,N/A
+8,bottom,0,[],Kyle McClellan,3,2,2,Brett Hayes,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,7,N/A,N/A,N/A
+9,top,0,[],Steve Cishek,1,1,3,Ryan Theriot,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,7,N/A,N/A,N/A
+9,top,0,[],Steve Cishek,1,1,2,Albert Pujols,['Albert Pujols'],['N/A'],['N/A'],Single,N/A,4,7,N/A,N/A,N/A
+9,top,0,[],Steve Cishek,1,3,1,Matt Holliday,['N/A'],['Albert Pujols'],['N/A'],Wild Pitch,N/A,4,7,N/A,N/A,N/A
+9,top,0,[],Steve Cishek,1,4,2,Matt Holliday,['Matt Holliday'],['Albert Pujols'],['N/A'],Walk,N/A,4,7,N/A,N/A,N/A
+9,top,1,['Albert Pujols'],Steve Cishek,1,2,2,Lance Berkman,['Lance Berkman'],['N/A'],['Matt Holliday'],Single,N/A,4,8,1,N/A,N/A
+9,top,0,[],Steve Cishek,3,0,0,Kyle McClellan,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,8,N/A,N/A,N/A
+9,bottom,0,[],Fernando Salas,1,2,3,Dewayne Wise,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,8,N/A,N/A,N/A
+9,bottom,0,[],Fernando Salas,2,1,3,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,8,N/A,N/A,N/A
+9,bottom,0,[],Fernando Salas,2,3,2,Alfredo Amezaga,['Alfredo Amezaga'],['N/A'],['N/A'],Single,N/A,4,8,N/A,N/A,N/A
+9,bottom,0,[],Fernando Salas,3,1,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,8,N/A,N/A,N/A

@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,1,[],Alex Wood,0,2,0,Curtis Granderson,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Alex Wood,1,1,2,Ruben Tejada,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Alex Wood,1,2,1,Daniel Murphy,['Daniel Murphy'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Alex Wood,2,1,3,Eric Campbell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Alex Wood,3,1,0,Lucas Duda,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Zack Wheeler,1,3,2,Melvin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Zack Wheeler,2,3,2,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Zack Wheeler,2,4,1,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Zack Wheeler,3,3,2,Justin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Alex Wood,0,2,2,Chris Young,['Chris Young'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Alex Wood,1,1,2,Juan Lagares,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,top,1,['Chris Young'],Alex Wood,1,0,0,Travis d'Arnaud,['N/A'],"[""Travis d'Arnaud""]",['N/A'],Double,N/A,0,2,1,N/A,N/A
+2,top,0,[],Alex Wood,2,0,3,Zack Wheeler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Alex Wood,3,1,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Zack Wheeler,1,0,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Zack Wheeler,2,2,0,Chris Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Zack Wheeler,2,4,2,Tommy La Stella,['Tommy La Stella'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Zack Wheeler,2,0,0,Christian Bethancourt,['Christian Bethancourt'],['Tommy La Stella'],['N/A'],Hit By Pitch,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Zack Wheeler,3,0,2,Alex Wood,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Alex Wood,0,2,2,Ruben Tejada,['Ruben Tejada'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Alex Wood,1,1,0,Daniel Murphy,['Daniel Murphy'],['N/A'],['N/A'],Forceout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Alex Wood,1,3,2,Eric Campbell,['Eric Campbell'],['Daniel Murphy'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Alex Wood,1,4,2,Lucas Duda,['Lucas Duda'],['Eric Campbell'],['Daniel Murphy'],Walk,N/A,0,2,N/A,N/A,N/A
+3,top,1,['Daniel Murphy'],Alex Wood,2,2,2,Chris Young,['N/A'],['N/A'],['Eric Campbell'],Sac Fly,N/A,0,3,1,N/A,N/A
+3,top,0,[],Alex Wood,3,0,0,Juan Lagares,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Zack Wheeler,0,4,2,Melvin Upton,['Melvin Upton'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Zack Wheeler,2,1,2,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Zack Wheeler,2,4,2,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Zack Wheeler,3,3,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Alex Wood,1,1,0,Travis d'Arnaud,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Alex Wood,2,2,3,Zack Wheeler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Alex Wood,3,2,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Zack Wheeler,0,0,1,Jason Heyward,['N/A'],['Jason Heyward'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Zack Wheeler,1,2,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Zack Wheeler,1,4,2,Tommy La Stella,['Tommy La Stella'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Zack Wheeler,2,0,0,Christian Bethancourt,['N/A'],['N/A'],['Jason Heyward'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Zack Wheeler,3,0,3,Alex Wood,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Alex Wood,1,0,0,Ruben Tejada,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Alex Wood,2,0,3,Daniel Murphy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Alex Wood,3,3,3,Eric Campbell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Zack Wheeler,0,0,1,Melvin Upton,['Melvin Upton'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Zack Wheeler,0,1,1,Andrelton Simmons,['Andrelton Simmons'],['N/A'],['Melvin Upton'],Single,N/A,0,3,N/A,N/A,N/A
+5,bottom,1,['Melvin Upton'],Zack Wheeler,1,1,1,Freddie Freeman,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,3,1,N/A,N/A
+5,bottom,0,[],Zack Wheeler,3,0,0,Justin Upton,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Alex Wood,1,1,3,Lucas Duda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Alex Wood,2,0,1,Chris Young,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Alex Wood,3,3,3,Juan Lagares,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Zack Wheeler,1,0,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Zack Wheeler,2,0,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Zack Wheeler,3,2,3,Tommy La Stella,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Luis Avilan,1,3,2,Travis d'Arnaud,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Luis Avilan,2,0,3,Zack Wheeler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Luis Avilan,2,1,0,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Luis Avilan,3,0,1,Ruben Tejada,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,3,N/A,N/A,N/A
+7,bottom,0,[],Zack Wheeler,0,1,1,Christian Bethancourt,['Christian Bethancourt'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+7,bottom,0,[],Zack Wheeler,1,3,2,Jordan Schafer,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+7,bottom,0,[],Vic Black,1,0,0,Melvin Upton,['Melvin Upton'],['Christian Bethancourt'],['N/A'],Field Error,N/A,1,3,N/A,N/A,Ruben Tejada
+7,bottom,0,[],Vic Black,2,1,0,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+7,bottom,0,[],Josh Edgin,3,1,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+8,top,0,[],Anthony Varvaro,0,0,0,Daniel Murphy,['Daniel Murphy'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+8,top,0,[],Anthony Varvaro,1,2,3,Eric Campbell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+8,top,0,[],Anthony Varvaro,3,2,2,Lucas Duda,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,3,N/A,N/A,N/A
+8,bottom,0,[],Jeurys Familia,0,1,1,Justin Upton,['Justin Upton'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+8,bottom,0,[],Jeurys Familia,0,1,0,Jason Heyward,['Jason Heyward'],['Justin Upton'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+8,bottom,0,[],Jeurys Familia,0,0,1,Chris Johnson,['Chris Johnson'],['Jason Heyward'],['Justin Upton'],Field Error,N/A,1,3,N/A,N/A,Jeurys Familia
+8,bottom,2,"['Justin Upton', 'Jason Heyward']",Jeurys Familia,0,0,1,Tommy La Stella,['Tommy La Stella'],['Chris Johnson'],['N/A'],Single,Error,3,3,1,1,Juan Lagares
+8,bottom,0,[],Jeurys Familia,1,3,2,Christian Bethancourt,['Christian Bethancourt'],['N/A'],['Chris Johnson'],Forceout,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Jeurys Familia,1,4,2,Ryan Doumit,['Ryan Doumit'],['Christian Bethancourt'],['N/A'],Walk,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Jeurys Familia,2,1,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+8,bottom,1,['Chris Johnson'],Jeurys Familia,2,1,0,Andrelton Simmons,['Andrelton Simmons'],['Ryan Doumit'],['Christian Bethancourt'],Field Error,N/A,4,3,N/A,1,Eric Campbell
+8,bottom,1,['Christian Bethancourt'],Dana Eveland,2,4,1,Freddie Freeman,['Freddie Freeman'],['Andrelton Simmons'],['Ryan Doumit'],Walk,N/A,5,3,1,N/A,N/A
+8,bottom,0,[],Dana Eveland,3,1,2,Justin Upton,['N/A'],['N/A'],['N/A'],Forceout,N/A,5,3,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,1,0,1,Chris Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,3,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,2,3,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,3,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,3,2,3,Travis d'Arnaud,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,3,N/A,N/A,N/A

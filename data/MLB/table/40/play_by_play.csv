@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],James Shields,1,3,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],James Shields,2,2,2,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],James Shields,3,0,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mike Mussina,1,2,2,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mike Mussina,2,1,0,Carl Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mike Mussina,3,2,0,Melvin Upton,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],James Shields,1,0,0,Jason Giambi,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],James Shields,2,0,3,Hideki Matsui,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],James Shields,2,0,2,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],James Shields,2,0,0,Melky Cabrera,['N/A'],['Melky Cabrera'],['Robinson Cano'],Field Error,N/A,0,0,N/A,N/A,Carlos Pena
+2,top,0,[],James Shields,3,3,2,Morgan Ensberg,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Mike Mussina,0,0,0,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Mike Mussina,2,3,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Mike Mussina,2,0,1,Cliff Floyd,['Cliff Floyd'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Mike Mussina,3,1,1,Dioner Navarro,['N/A'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],James Shields,1,2,0,Jose Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],James Shields,2,0,1,Johnny Damon,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],James Shields,3,1,3,Bobby Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Mike Mussina,1,2,3,Gabe Gross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Mike Mussina,2,3,2,Jason Bartlett,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Mike Mussina,3,2,2,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],James Shields,1,1,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],James Shields,2,1,3,Jason Giambi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],James Shields,2,2,1,Hideki Matsui,['N/A'],['Hideki Matsui'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+4,top,1,['Hideki Matsui'],James Shields,2,2,2,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+4,top,0,[],James Shields,3,0,0,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Mike Mussina,1,1,0,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Mike Mussina,2,2,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Mike Mussina,2,3,2,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Mike Mussina,3,0,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],James Shields,0,0,0,Morgan Ensberg,['Morgan Ensberg'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],James Shields,1,0,0,Jose Molina,['N/A'],['Morgan Ensberg'],['N/A'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],James Shields,2,1,3,Johnny Damon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,1,['Morgan Ensberg'],James Shields,2,1,1,Bobby Abreu,['N/A'],['Bobby Abreu'],['N/A'],Double,N/A,0,2,1,N/A,N/A
+5,top,0,[],James Shields,3,0,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Mike Mussina,1,1,0,Cliff Floyd,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Mike Mussina,2,0,2,Dioner Navarro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Mike Mussina,2,1,1,Gabe Gross,['N/A'],['Gabe Gross'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Mike Mussina,3,2,1,Jason Bartlett,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],James Shields,1,0,1,Jason Giambi,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],James Shields,2,0,0,Hideki Matsui,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],James Shields,2,0,0,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],James Shields,3,1,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],Mike Mussina,1,2,3,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],Mike Mussina,2,1,1,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],Mike Mussina,3,0,0,Melvin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],James Shields,0,4,2,Morgan Ensberg,['Morgan Ensberg'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],James Shields,1,2,1,Jose Molina,['N/A'],['Morgan Ensberg'],['N/A'],Sac Bunt,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],James Shields,2,3,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],James Shields,3,2,2,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],Mike Mussina,1,2,3,Carlos Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],Mike Mussina,1,4,2,Evan Longoria,['Evan Longoria'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],Ross Ohlendorf,1,1,0,Cliff Floyd,['Cliff Floyd'],['Evan Longoria'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+7,bottom,1,['Evan Longoria'],Ross Ohlendorf,1,1,1,Dioner Navarro,['Dioner Navarro'],['Cliff Floyd'],['N/A'],Single,N/A,1,2,1,N/A,N/A
+7,bottom,0,[],Ross Ohlendorf,3,1,0,Gabe Gross,['N/A'],['N/A'],['N/A'],Double Play,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],James Shields,1,0,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],James Shields,1,4,0,Jason Giambi,['Jason Giambi'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Trever Miller,3,1,2,Hideki Matsui,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+8,bottom,0,[],Joba Chamberlain,1,0,3,Jason Bartlett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+8,bottom,0,[],Joba Chamberlain,1,4,2,Akinori Iwamura,['Akinori Iwamura'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+8,bottom,0,[],Joba Chamberlain,2,1,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+8,bottom,0,[],Joba Chamberlain,3,2,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+9,top,0,[],Trever Miller,0,1,2,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+9,top,0,[],Trever Miller,2,3,3,Melky Cabrera,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,1,2,N/A,N/A,N/A
+9,top,0,[],Al Reyes,3,3,2,Morgan Ensberg,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Mariano Rivera,1,0,1,Carlos Pena,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Mariano Rivera,2,0,3,Evan Longoria,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Mariano Rivera,3,1,2,Cliff Floyd,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A

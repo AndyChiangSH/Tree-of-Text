@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Felix Hernandez,0,0,0,Yunel Escobar,['N/A'],['Yunel Escobar'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Felix Hernandez,0,4,0,Kole Calhoun,['Kole Calhoun'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,3,"['Yunel Escobar', 'Kole Calhoun']",Felix Hernandez,0,1,1,Mike Trout,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,3,N/A,N/A
+1,top,0,[],Felix Hernandez,1,1,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Felix Hernandez,2,1,0,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Felix Hernandez,3,2,1,Ji-Man Choi,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,0,1,1,Norichika Aoki,['Norichika Aoki'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],N/A,0,2,1,Seth Smith,['N/A'],['Norichika Aoki'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,0,3,2,Seth Smith,['Seth Smith'],['Norichika Aoki'],['Norichika Aoki'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,1,['Norichika Aoki'],Tim Lincecum,0,2,0,Robinson Cano,['Robinson Cano'],['Seth Smith'],['N/A'],Single,N/A,1,3,1,N/A,N/A
+1,bottom,0,[],Tim Lincecum,0,2,2,Nelson Cruz,['Nelson Cruz'],['Robinson Cano'],['Seth Smith'],Single,N/A,1,3,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,1,0,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+1,bottom,1,['Seth Smith'],Tim Lincecum,1,2,2,Adam Lind,['Adam Lind'],['Nelson Cruz'],['Robinson Cano'],Single,N/A,2,3,1,N/A,N/A
+1,bottom,1,['Robinson Cano'],Tim Lincecum,2,1,2,Leonys Martin,['N/A'],['Adam Lind'],['Nelson Cruz'],Sac Fly,Error,3,3,1,N/A,Kole Calhoun
+1,bottom,3,"['Nelson Cruz', 'Adam Lind']",Tim Lincecum,2,3,2,Mike Zunino,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,3,3,N/A,N/A
+1,bottom,0,[],Tim Lincecum,2,0,0,Shawn O'Malley,"[""Shawn O'Malley""]",['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,3,1,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,3,N/A,N/A,N/A
+2,top,0,[],Felix Hernandez,1,1,2,Jefry Marte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,3,N/A,N/A,N/A
+2,top,0,[],Felix Hernandez,2,0,1,Jett Bandy,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+2,top,0,[],Felix Hernandez,3,2,0,Cliff Pennington,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,0,4,1,Seth Smith,['Seth Smith'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,2,0,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,3,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,3,1,0,Nelson Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+3,top,0,[],Felix Hernandez,1,1,2,Yunel Escobar,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,3,N/A,N/A,N/A
+3,top,0,[],Felix Hernandez,2,1,0,Kole Calhoun,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,3,N/A,N/A,N/A
+3,top,0,[],Felix Hernandez,3,2,3,Mike Trout,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,1,1,2,Kyle Seager,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,1,1,2,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,2,1,2,Leonys Martin,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,3,2,2,Mike Zunino,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Felix Hernandez,0,4,2,Albert Pujols,['Albert Pujols'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Felix Hernandez,1,2,3,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Felix Hernandez,2,1,3,Ji-Man Choi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Felix Hernandez,3,1,3,Jefry Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,0,4,1,Shawn O'Malley,"[""Shawn O'Malley""]",['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,0,1,0,Norichika Aoki,['N/A'],[],['N/A'],Wild Pitch,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,1,3,3,Norichika Aoki,['N/A'],"[""Shawn O'Malley""]",['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,1,1,2,Seth Smith,['Seth Smith'],['N/A'],"[""Shawn O'Malley""]",Single,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jose Alvarez,2,0,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jose Alvarez,3,2,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+5,top,1,[],Felix Hernandez,0,0,1,Jett Bandy,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,4,1,N/A,N/A
+5,top,0,[],Felix Hernandez,1,0,1,Cliff Pennington,['N/A'],['N/A'],['N/A'],Field Error,N/A,6,4,N/A,N/A,Adam Lind
+5,top,0,[],Felix Hernandez,2,0,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+5,top,0,[],Felix Hernandez,3,3,2,Kole Calhoun,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+5,bottom,0,[],Jose Alvarez,1,0,0,Kyle Seager,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,4,N/A,N/A,N/A
+5,bottom,0,[],Jose Alvarez,2,2,2,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+5,bottom,0,[],Jose Alvarez,2,1,1,Leonys Martin,['Leonys Martin'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+5,bottom,0,[],Jose Alvarez,2,1,2,Mike Zunino,['Mike Zunino'],['Leonys Martin'],['N/A'],Hit By Pitch,N/A,6,4,N/A,N/A,N/A
+5,bottom,0,[],Jose Alvarez,3,0,1,Shawn O'Malley,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+6,top,0,[],Felix Hernandez,1,2,3,Mike Trout,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+6,top,0,[],Felix Hernandez,2,1,0,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+6,top,0,[],Felix Hernandez,3,0,0,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Jose Alvarez,0,0,1,Norichika Aoki,['Norichika Aoki'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Jose Alvarez,1,1,2,Seth Smith,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Deolis Guerra,2,0,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Deolis Guerra,3,2,2,Nelson Cruz,['N/A'],['N/A'],['N/A'],Forceout,N/A,6,4,N/A,N/A,N/A
+7,top,0,[],Felix Hernandez,0,4,1,Ji-Man Choi,['Ji-Man Choi'],['N/A'],['N/A'],Walk,N/A,6,4,N/A,N/A,N/A
+7,top,0,[],Felix Hernandez,1,0,3,Jefry Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+7,top,0,[],Felix Hernandez,3,1,1,Jett Bandy,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,4,N/A,N/A,N/A
+7,bottom,0,[],Deolis Guerra,1,1,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+7,bottom,0,[],Deolis Guerra,1,2,0,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+7,bottom,0,[],Deolis Guerra,1,0,1,Leonys Martin,['Leonys Martin'],['N/A'],['Adam Lind'],Single,N/A,6,4,N/A,N/A,N/A
+7,bottom,0,[],Deolis Guerra,2,0,0,Mike Zunino,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,4,N/A,N/A,N/A
+7,bottom,0,[],Deolis Guerra,3,1,1,Shawn O'Malley,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+8,top,0,[],Felix Hernandez,1,1,0,Cliff Pennington,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,4,N/A,N/A,N/A
+8,top,0,[],Felix Hernandez,2,0,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+8,top,0,[],Felix Hernandez,3,3,2,Kole Calhoun,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Fernando Salas,0,0,0,Norichika Aoki,['Norichika Aoki'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],N/A,0,2,0,Guillermo Heredia,['N/A'],['Norichika Aoki'],['N/A'],Stolen Base 2B,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Fernando Salas,0,4,1,Guillermo Heredia,['Guillermo Heredia'],['Norichika Aoki'],['N/A'],Walk,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Fernando Salas,1,1,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Fernando Salas,2,2,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Fernando Salas,3,1,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Edwin Diaz,1,1,3,Mike Trout,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Edwin Diaz,2,0,3,Albert Pujols,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Edwin Diaz,3,3,3,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A

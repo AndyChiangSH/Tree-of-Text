@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jose Berrios,1,0,0,Jesse Winker,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jose Berrios,1,1,1,Jose Peraza,['Jose Peraza'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jose Berrios,1,4,0,Joey Votto,['Joey Votto'],['Jose Peraza'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jose Berrios,2,1,2,Scooter Gennett,['Scooter Gennett'],['N/A'],['Jose Peraza'],Forceout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Jose Peraza'],Jose Berrios,2,0,0,Eugenio Suarez,['N/A'],['Eugenio Suarez'],['Scooter Gennett'],Double,N/A,0,1,1,N/A,N/A
+1,top,0,[],Jose Berrios,3,0,0,Scott Schebler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Tyler Mahle,1,1,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Tyler Mahle,2,3,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Tyler Mahle,3,1,0,Eddie Rosario,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jose Berrios,1,3,2,Adam Duvall,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jose Berrios,1,4,2,Tucker Barnhart,['Tucker Barnhart'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jose Berrios,2,2,2,Alex Blandino,['Alex Blandino'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+2,top,1,['Alex Blandino'],Jose Berrios,2,2,2,Jesse Winker,['N/A'],['Jesse Winker'],['N/A'],Double,N/A,0,2,1,N/A,N/A
+2,top,0,[],Jose Berrios,3,2,1,Jose Peraza,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Tyler Mahle,0,1,1,Eduardo Escobar,['N/A'],['Eduardo Escobar'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Tyler Mahle,1,2,1,Max Kepler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Tyler Mahle,2,1,3,Robbie Grossman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Tyler Mahle,2,4,1,Logan Morrison,['Logan Morrison'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Tyler Mahle,3,0,3,Ehire Adrianza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jose Berrios,0,0,0,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jose Berrios,0,1,0,Scooter Gennett,['N/A'],['Scooter Gennett'],['Joey Votto'],Double,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jose Berrios,0,4,1,Eugenio Suarez,['Eugenio Suarez'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,top,1,['Joey Votto'],Jose Berrios,1,0,1,Scott Schebler,['Scott Schebler'],['N/A'],['Scooter Gennett'],Forceout,N/A,0,3,1,N/A,N/A
+3,top,1,['Scooter Gennett'],Jose Berrios,2,2,2,Adam Duvall,['Adam Duvall'],['N/A'],['N/A'],Forceout,N/A,0,4,1,N/A,N/A
+3,top,0,[],N/A,2,1,1,Tucker Barnhart,['N/A'],['Adam Duvall'],['N/A'],Stolen Base 2B,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Jose Berrios,3,2,1,Tucker Barnhart,['N/A'],['Adam Duvall'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Tyler Mahle,1,1,3,Jason Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Tyler Mahle,2,2,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Tyler Mahle,3,2,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Taylor Rogers,0,2,2,Alex Blandino,['Alex Blandino'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Taylor Rogers,0,0,1,Jesse Winker,['Jesse Winker'],['N/A'],['Alex Blandino'],Single,N/A,0,4,N/A,N/A,N/A
+4,top,1,['Alex Blandino'],Taylor Rogers,0,1,1,Jose Peraza,['Jose Peraza'],['Jesse Winker'],['N/A'],Single,N/A,0,5,1,N/A,N/A
+4,top,0,[],Taylor Rogers,1,2,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+4,top,0,[],Taylor Rogers,2,3,2,Scooter Gennett,['Scooter Gennett'],['N/A'],['Jesse Winker'],Forceout,N/A,0,5,N/A,N/A,N/A
+4,top,1,['Jesse Winker'],Matt Magill,2,1,2,Eugenio Suarez,['Eugenio Suarez'],['Scooter Gennett'],['N/A'],Single,N/A,0,6,1,N/A,N/A
+4,top,1,['Scooter Gennett'],Matt Magill,2,2,1,Scott Schebler,['Scott Schebler'],['N/A'],['Eugenio Suarez'],Single,N/A,0,7,1,N/A,N/A
+4,top,0,[],Matt Magill,3,0,3,Adam Duvall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+4,bottom,0,[],Tyler Mahle,1,0,0,Eddie Rosario,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,7,N/A,N/A,N/A
+4,bottom,0,[],Tyler Mahle,1,0,1,Eduardo Escobar,['Eduardo Escobar'],['N/A'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+4,bottom,0,[],Tyler Mahle,3,1,0,Max Kepler,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Matt Magill,1,3,1,Tucker Barnhart,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Matt Magill,2,0,0,Alex Blandino,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Matt Magill,3,2,1,Jesse Winker,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Tyler Mahle,1,0,2,Robbie Grossman,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Tyler Mahle,2,1,2,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Tyler Mahle,3,2,3,Ehire Adrianza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Matt Magill,0,1,1,Jose Peraza,['Jose Peraza'],['N/A'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Matt Magill,0,4,2,Joey Votto,['Joey Votto'],['Jose Peraza'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Matt Magill,1,0,3,Scooter Gennett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Matt Magill,2,0,1,Eugenio Suarez,['Eugenio Suarez'],['N/A'],['Jose Peraza'],Forceout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Matt Magill,3,0,1,Scott Schebler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Tyler Mahle,0,2,2,Jason Castro,['N/A'],['Jason Castro'],['N/A'],Double,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Tyler Mahle,1,2,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,bottom,1,['Jason Castro'],Tyler Mahle,1,0,2,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,1,7,1,N/A,N/A
+6,bottom,0,[],Tyler Mahle,2,1,1,Eddie Rosario,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+6,bottom,0,[],Tyler Mahle,3,0,1,Eduardo Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+7,top,1,[],Tyler Duffey,0,1,2,Adam Duvall,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,8,1,N/A,N/A
+7,top,0,[],Tyler Duffey,0,1,0,Tucker Barnhart,['Tucker Barnhart'],['N/A'],['N/A'],Single,N/A,1,8,N/A,N/A,N/A
+7,top,0,[],Tyler Duffey,1,2,2,Alex Blandino,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,8,N/A,N/A,N/A
+7,top,0,[],Tyler Duffey,2,1,3,Jesse Winker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+7,top,0,[],Tyler Duffey,3,0,0,Jose Peraza,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,8,N/A,N/A,N/A
+7,bottom,0,[],Tyler Mahle,1,2,1,Max Kepler,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,8,N/A,N/A,N/A
+7,bottom,0,[],Tyler Mahle,1,4,2,Robbie Grossman,['Robbie Grossman'],['N/A'],['N/A'],Walk,N/A,1,8,N/A,N/A,N/A
+7,bottom,0,[],Amir Garrett,2,1,2,Logan Morrison,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,8,N/A,N/A,N/A
+7,bottom,0,[],Amir Garrett,2,2,2,Ehire Adrianza,['N/A'],['Ehire Adrianza'],['Robbie Grossman'],Double,N/A,1,8,N/A,N/A,N/A
+7,bottom,0,[],Amir Garrett,3,3,3,Jason Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+8,top,0,[],Tyler Duffey,1,2,2,Joey Votto,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,8,N/A,N/A,N/A
+8,top,0,[],Tyler Duffey,1,1,1,Scooter Gennett,['Scooter Gennett'],['N/A'],['N/A'],Single,N/A,1,8,N/A,N/A,N/A
+8,top,0,[],Tyler Duffey,2,1,0,Eugenio Suarez,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,8,N/A,N/A,N/A
+8,top,0,[],Tyler Duffey,3,1,1,Scott Schebler,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,8,N/A,N/A,N/A
+8,bottom,0,[],Amir Garrett,0,2,2,Brian Dozier,['Brian Dozier'],['N/A'],['N/A'],Single,N/A,1,8,N/A,N/A,N/A
+8,bottom,0,[],Amir Garrett,0,4,1,Joe Mauer,['Joe Mauer'],['Brian Dozier'],['N/A'],Walk,N/A,1,8,N/A,N/A,N/A
+8,bottom,0,[],Wandy Peralta,1,1,3,Eddie Rosario,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+8,bottom,0,[],Wandy Peralta,2,1,0,Eduardo Escobar,['Eduardo Escobar'],['N/A'],['Brian Dozier'],Forceout,N/A,1,8,N/A,N/A,N/A
+8,bottom,0,[],Wandy Peralta,3,0,0,Max Kepler,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,8,N/A,N/A,N/A
+9,top,0,[],Tyler Duffey,1,0,3,Adam Duvall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+9,top,0,[],Tyler Duffey,2,2,3,Tucker Barnhart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+9,top,0,[],Tyler Duffey,3,2,2,Alex Blandino,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,8,N/A,N/A,N/A
+9,bottom,0,[],David Hernandez,1,2,1,Robbie Grossman,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,8,N/A,N/A,N/A
+9,bottom,0,[],David Hernandez,1,0,0,Logan Morrison,['N/A'],['Logan Morrison'],['N/A'],Double,N/A,1,8,N/A,N/A,N/A
+9,bottom,0,[],David Hernandez,2,3,2,Ehire Adrianza,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,8,N/A,N/A,N/A
+9,bottom,1,['Logan Morrison'],David Hernandez,2,1,1,Jason Castro,['N/A'],['Jason Castro'],['N/A'],Double,N/A,2,8,1,N/A,N/A
+9,bottom,0,[],David Hernandez,3,0,0,Brian Dozier,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,8,N/A,N/A,N/A

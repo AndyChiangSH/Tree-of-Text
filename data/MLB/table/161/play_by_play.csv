@@ -1,0 +1,86 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Edwin Jackson,1,0,1,Johnny Damon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edwin Jackson,2,1,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edwin Jackson,2,1,1,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],N/A,2,1,2,Alex Rodriguez,['N/A'],['Bobby Abreu'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edwin Jackson,3,1,3,Alex Rodriguez,['N/A'],['Bobby Abreu'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Carl Pavano,1,2,3,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Carl Pavano,1,1,2,B.J. Upton,['N/A'],['B.J. Upton'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Carl Pavano,2,1,0,Carlos Pena,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['B.J. Upton'],Carl Pavano,2,1,1,Cliff Floyd,['N/A'],['Cliff Floyd'],['N/A'],Double,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Carl Pavano,3,2,1,Willy Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edwin Jackson,1,1,0,Jason Giambi,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edwin Jackson,1,4,2,Xavier Nady,['Xavier Nady'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edwin Jackson,2,1,0,Hideki Matsui,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,['Xavier Nady'],Edwin Jackson,2,1,0,Robinson Cano,['N/A'],['Robinson Cano'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+2,top,1,['Robinson Cano'],Edwin Jackson,2,0,1,Ivan Rodriguez,['N/A'],['Ivan Rodriguez'],['N/A'],Double,N/A,1,2,1,N/A,N/A
+2,top,0,[],Edwin Jackson,3,1,0,Johnny Damon,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Carl Pavano,1,1,0,Eric Hinske,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Carl Pavano,2,0,1,Dioner Navarro,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Carl Pavano,2,3,2,Gabe Gross,['Gabe Gross'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],N/A,2,2,2,Jason Bartlett,['N/A'],['Gabe Gross'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Carl Pavano,3,2,2,Jason Bartlett,['N/A'],['Gabe Gross'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edwin Jackson,1,2,1,Derek Jeter,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edwin Jackson,1,1,1,Bobby Abreu,['N/A'],['Bobby Abreu'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Bobby Abreu'],Edwin Jackson,1,1,1,Alex Rodriguez,['N/A'],['Alex Rodriguez'],['N/A'],Double,N/A,1,3,1,N/A,N/A
+3,top,1,['Alex Rodriguez'],Edwin Jackson,1,3,2,Jason Giambi,['N/A'],['Jason Giambi'],['N/A'],Double,N/A,1,4,1,N/A,N/A
+3,top,0,[],Edwin Jackson,2,1,2,Xavier Nady,['N/A'],['N/A'],['Jason Giambi'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Jason Giambi'],Edwin Jackson,2,0,0,Hideki Matsui,['Hideki Matsui'],['N/A'],['N/A'],Single,N/A,1,5,1,N/A,N/A
+3,top,0,[],Edwin Jackson,2,0,0,Robinson Cano,['Robinson Cano'],['Hideki Matsui'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edwin Jackson,3,2,2,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Carl Pavano,1,2,1,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Carl Pavano,2,1,0,B.J. Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Carl Pavano,2,4,1,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Carl Pavano,3,0,0,Cliff Floyd,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edwin Jackson,0,0,1,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],N/A,0,1,0,Derek Jeter,['N/A'],['Johnny Damon'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edwin Jackson,0,3,2,Derek Jeter,['Derek Jeter'],['Johnny Damon'],['Johnny Damon'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edwin Jackson,1,0,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,['Johnny Damon'],Chad Bradford,1,0,0,Alex Rodriguez,['Alex Rodriguez'],['Derek Jeter'],['N/A'],Single,N/A,1,6,1,N/A,N/A
+4,top,0,[],Chad Bradford,2,1,2,Jason Giambi,['Jason Giambi'],['N/A'],['Derek Jeter'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Chad Bradford,3,1,0,Xavier Nady,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Carl Pavano,1,3,1,Willy Aybar,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Carl Pavano,2,1,1,Eric Hinske,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Carl Pavano,2,1,2,Dioner Navarro,['N/A'],['Dioner Navarro'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,2,['Dioner Navarro'],Carl Pavano,2,2,2,Gabe Gross,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,6,2,N/A,N/A
+4,bottom,0,[],Carl Pavano,2,0,1,Jason Bartlett,['Jason Bartlett'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Carl Pavano,3,0,1,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],J.P. Howell,1,1,3,Hideki Matsui,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],J.P. Howell,2,2,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],J.P. Howell,3,3,3,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Carl Pavano,0,0,0,B.J. Upton,['B.J. Upton'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],N/A,0,2,0,Carlos Pena,['N/A'],[],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Carl Pavano,0,4,2,Carlos Pena,['Carlos Pena'],['B.J. Upton'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Edwar Ramirez,0,0,0,Cliff Floyd,['Cliff Floyd'],['Carlos Pena'],['B.J. Upton'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Edwar Ramirez,2,3,2,Willy Aybar,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Edwar Ramirez,3,0,2,Eric Hinske,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],J.P. Howell,1,3,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],J.P. Howell,2,2,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],J.P. Howell,3,1,3,Bobby Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Phil Coke,1,2,1,Dioner Navarro,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Phil Coke,2,2,2,Gabe Gross,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Phil Coke,3,1,0,Jason Bartlett,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Grant Balfour,0,4,1,Alex Rodriguez,['Alex Rodriguez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Grant Balfour,2,3,3,Jason Giambi,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Grant Balfour,3,0,3,Xavier Nady,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Phil Coke,1,1,2,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Phil Coke,2,3,2,B.J. Upton,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Phil Coke,3,0,0,Carlos Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Grant Balfour,1,1,0,Hideki Matsui,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Grant Balfour,2,2,3,Robinson Cano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Grant Balfour,3,0,2,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Brian Bruney,1,2,3,Ben Zobrist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Brian Bruney,2,1,0,Willy Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Brian Bruney,3,1,2,Eric Hinske,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Troy Percival,1,2,1,Johnny Damon,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Troy Percival,2,1,1,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Troy Percival,2,4,2,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],N/A,2,1,2,Alex Rodriguez,['N/A'],['Bobby Abreu'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,2,['Bobby Abreu'],Troy Percival,2,2,2,Alex Rodriguez,['N/A'],['Bobby Abreu'],['N/A'],Home Run,N/A,3,8,2,N/A,N/A
+9,top,0,[],Juan Salas,2,4,1,Jason Giambi,['Jason Giambi'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Juan Salas,3,2,0,Xavier Nady,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Jose Veras,1,1,0,Dioner Navarro,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Jose Veras,1,4,0,Gabe Gross,['Gabe Gross'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Jose Veras,2,0,3,Jason Bartlett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,1,['Gabe Gross'],Jose Veras,2,3,2,Akinori Iwamura,['N/A'],"['Gabe Gross', 'Akinori Iwamura']",['N/A'],Double,N/A,4,8,1,N/A,N/A
+9,bottom,0,[],Jose Veras,3,1,1,B.J. Upton,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A

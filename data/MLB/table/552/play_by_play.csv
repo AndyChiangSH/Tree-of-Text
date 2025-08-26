@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Joel Pineiro,1,0,1,Roger Bernadina,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Joel Pineiro,1,1,2,Jayson Werth,['N/A'],['Jayson Werth'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Joel Pineiro,1,1,1,Ryan Zimmerman,['N/A'],['N/A'],['Jayson Werth'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Jayson Werth'],Joel Pineiro,1,2,2,Ryan Zimmerman,['Ryan Zimmerman'],['N/A'],['Jayson Werth'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Joel Pineiro,1,0,1,Laynce Nix,['Laynce Nix'],['N/A'],['Ryan Zimmerman'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Joel Pineiro,3,1,1,Michael Morse,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jason Marquis,1,0,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jason Marquis,1,4,2,Torii Hunter,['Torii Hunter'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jason Marquis,2,3,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jason Marquis,2,3,1,Vernon Wells,['Vernon Wells'],['Torii Hunter'],['N/A'],Field Error,N/A,0,1,N/A,N/A,Danny Espinosa
+1,bottom,0,[],Jason Marquis,3,2,3,Howie Kendrick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Joel Pineiro,1,2,1,Danny Espinosa,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Joel Pineiro,1,4,2,Wilson Ramos,['Wilson Ramos'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Joel Pineiro,1,1,2,Matt Stairs,['Matt Stairs'],['Wilson Ramos'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Joel Pineiro,3,0,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jason Marquis,1,0,2,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jason Marquis,2,1,1,Mark Trumbo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jason Marquis,2,4,1,Hank Conger,['Hank Conger'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jason Marquis,2,0,0,Peter Bourjos,['Peter Bourjos'],['N/A'],['Hank Conger'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jason Marquis,3,1,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Joel Pineiro,1,0,0,Roger Bernadina,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Joel Pineiro,1,1,1,Jayson Werth,['Jayson Werth'],['N/A'],['N/A'],Field Error,N/A,0,1,N/A,N/A,Alberto Callaspo
+3,top,0,[],Joel Pineiro,2,0,2,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Joel Pineiro,2,0,1,Laynce Nix,['Laynce Nix'],['Jayson Werth'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Joel Pineiro,3,2,3,Michael Morse,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jason Marquis,1,0,3,Torii Hunter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jason Marquis,1,2,2,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jason Marquis,1,2,0,Vernon Wells,['N/A'],['Vernon Wells'],['Bobby Abreu'],Double,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jason Marquis,1,4,2,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jason Marquis,3,0,0,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Joel Pineiro,1,3,3,Danny Espinosa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Joel Pineiro,2,0,0,Wilson Ramos,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Joel Pineiro,3,0,0,Matt Stairs,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jason Marquis,0,1,0,Mark Trumbo,['Mark Trumbo'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jason Marquis,1,0,0,Hank Conger,['N/A'],['Mark Trumbo'],['N/A'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jason Marquis,2,3,3,Peter Bourjos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,1,['Mark Trumbo'],Jason Marquis,2,0,0,Erick Aybar,['N/A'],['Erick Aybar'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+4,bottom,0,[],Jason Marquis,3,1,0,Torii Hunter,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Joel Pineiro,1,1,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Joel Pineiro,2,2,2,Roger Bernadina,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Joel Pineiro,3,1,1,Jayson Werth,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Jason Marquis,1,0,3,Bobby Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Jason Marquis,1,1,0,Vernon Wells,['Vernon Wells'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Jason Marquis,1,1,0,Howie Kendrick,['Howie Kendrick'],['Vernon Wells'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Jason Marquis,1,4,2,Alberto Callaspo,['Alberto Callaspo'],['Howie Kendrick'],['Vernon Wells'],Walk,N/A,1,1,N/A,N/A,N/A
+5,bottom,2,"['Vernon Wells', 'Howie Kendrick']",Jason Marquis,1,3,0,Mark Trumbo,['Mark Trumbo'],['Alberto Callaspo'],['N/A'],Field Error,N/A,3,1,1,1,Ian Desmond
+5,bottom,0,[],Jason Marquis,2,0,3,Hank Conger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Jason Marquis,3,0,0,Peter Bourjos,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Joel Pineiro,1,1,1,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+6,top,1,[],Joel Pineiro,1,0,1,Laynce Nix,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,1,N/A,N/A
+6,top,0,[],Joel Pineiro,1,0,0,Michael Morse,['Michael Morse'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Joel Pineiro,2,2,2,Danny Espinosa,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Joel Pineiro,2,2,2,Wilson Ramos,['Wilson Ramos'],['Michael Morse'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+6,top,1,['Michael Morse'],Hisanori Takahashi,2,2,1,Matt Stairs,['Matt Stairs'],['Wilson Ramos'],['N/A'],Single,N/A,3,3,1,N/A,N/A
+6,top,0,[],Hisanori Takahashi,2,4,2,Ian Desmond,['Ian Desmond'],['Matt Stairs'],['Wilson Ramos'],Walk,N/A,3,3,N/A,N/A,N/A
+6,top,2,"['Wilson Ramos', 'Matt Stairs']",Hisanori Takahashi,2,3,2,Roger Bernadina,['Roger Bernadina'],['N/A'],['Ian Desmond'],Field Error,N/A,3,5,N/A,2,Mark Trumbo
+6,top,0,[],Hisanori Takahashi,3,3,3,Jayson Werth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+6,bottom,1,[],Jason Marquis,0,3,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,5,1,N/A,N/A
+6,bottom,0,[],Collin Balester,0,0,2,Torii Hunter,['Torii Hunter'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+6,bottom,0,[],Collin Balester,1,2,3,Bobby Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+6,bottom,2,['Torii Hunter'],Collin Balester,1,2,0,Vernon Wells,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,5,2,N/A,N/A
+6,bottom,0,[],Collin Balester,1,3,2,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Field Error,N/A,6,5,N/A,N/A,Ryan Zimmerman
+6,bottom,0,[],Collin Balester,1,1,0,Alberto Callaspo,['N/A'],['Howie Kendrick'],['N/A'],Wild Pitch,N/A,6,5,N/A,N/A,N/A
+6,bottom,0,[],Collin Balester,1,4,1,Alberto Callaspo,['Alberto Callaspo'],['Howie Kendrick'],['Howie Kendrick'],Walk,N/A,6,5,N/A,N/A,N/A
+6,bottom,0,[],Todd Coffey,2,1,3,Mark Trumbo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+6,bottom,0,[],N/A,2,2,1,Hank Conger,['N/A'],['Alberto Callaspo'],['N/A'],Stolen Base 2B,N/A,6,5,N/A,N/A,N/A
+6,bottom,0,[],Todd Coffey,3,2,2,Hank Conger,['N/A'],['Alberto Callaspo'],['N/A'],Flyout,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Rich Thompson,0,4,0,Ryan Zimmerman,['Ryan Zimmerman'],['N/A'],['N/A'],Walk,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Rich Thompson,0,1,2,Laynce Nix,['Laynce Nix'],['Ryan Zimmerman'],['N/A'],Single,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Rich Thompson,1,0,1,Michael Morse,['N/A'],['N/A'],['Ryan Zimmerman'],Flyout,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Bobby Cassevah,1,3,1,Danny Espinosa,['N/A'],['Jerry Hairston'],['N/A'],Wild Pitch,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Bobby Cassevah,1,4,1,Danny Espinosa,['Danny Espinosa'],['Jerry Hairston'],['N/A'],Intent Walk,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Bobby Cassevah,3,1,0,Wilson Ramos,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Todd Coffey,1,0,1,Peter Bourjos,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Todd Coffey,2,1,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Todd Coffey,3,1,0,Torii Hunter,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+8,top,0,[],Bobby Cassevah,1,3,3,Matt Stairs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+8,top,0,[],Bobby Cassevah,2,1,2,Ian Desmond,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,5,N/A,N/A,N/A
+8,top,0,[],Bobby Cassevah,3,1,3,Roger Bernadina,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+8,bottom,0,[],Todd Coffey,1,3,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+8,bottom,0,[],Todd Coffey,1,1,0,Vernon Wells,['Vernon Wells'],['N/A'],['N/A'],Single,N/A,6,5,N/A,N/A,N/A
+8,bottom,0,[],Todd Coffey,1,0,0,Howie Kendrick,['Howie Kendrick'],['N/A'],['Vernon Wells'],Single,N/A,6,5,N/A,N/A,N/A
+8,bottom,1,['Vernon Wells'],Todd Coffey,1,0,1,Alberto Callaspo,['Alberto Callaspo'],['Howie Kendrick'],['N/A'],Single,N/A,7,5,1,N/A,N/A
+8,bottom,2,"['Howie Kendrick', 'Alberto Callaspo']",Ryan Mattheus,1,3,2,Mark Trumbo,['N/A'],['Mark Trumbo'],['N/A'],Double,N/A,9,5,2,N/A,N/A
+8,bottom,2,['Mark Trumbo'],Ryan Mattheus,1,2,0,Hank Conger,['N/A'],['N/A'],['N/A'],Home Run,N/A,11,5,2,N/A,N/A
+8,bottom,0,[],Ryan Mattheus,1,3,2,Peter Bourjos,['Peter Bourjos'],['N/A'],['N/A'],Field Error,N/A,11,5,N/A,N/A,Ian Desmond
+8,bottom,0,[],Ryan Mattheus,2,1,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Flyout,N/A,11,5,N/A,N/A,N/A
+8,bottom,0,[],Ryan Mattheus,3,0,0,Torii Hunter,['N/A'],['N/A'],['N/A'],Groundout,N/A,11,5,N/A,N/A,N/A
+9,top,0,[],Michael Kohn,1,0,1,Jayson Werth,['N/A'],['N/A'],['N/A'],Flyout,N/A,11,5,N/A,N/A,N/A
+9,top,0,[],Michael Kohn,2,2,3,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,5,N/A,N/A,N/A
+9,top,0,[],Michael Kohn,2,4,1,Jerry Hairston,['Jerry Hairston'],['N/A'],['N/A'],Walk,N/A,11,5,N/A,N/A,N/A
+9,top,0,[],Michael Kohn,2,1,1,Michael Morse,['Michael Morse'],['Jerry Hairston'],['N/A'],Single,N/A,11,5,N/A,N/A,N/A
+9,top,0,[],Michael Kohn,3,0,1,Danny Espinosa,['N/A'],['N/A'],['N/A'],Flyout,N/A,11,5,N/A,N/A,N/A

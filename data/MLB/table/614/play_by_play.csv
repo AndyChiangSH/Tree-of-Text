@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Dan Haren,1,0,1,J.J. Hardy,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Dan Haren,2,1,3,Nick Markakis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Dan Haren,3,1,1,Adam Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jo-Jo Reyes,0,2,1,Peter Bourjos,['N/A'],['Peter Bourjos'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jo-Jo Reyes,0,1,0,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['Peter Bourjos'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Peter Bourjos'],Jo-Jo Reyes,0,2,2,Howie Kendrick,['Howie Kendrick'],['N/A'],['Alberto Callaspo'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,3,"['Alberto Callaspo', 'Howie Kendrick']",Jo-Jo Reyes,0,0,0,Torii Hunter,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,0,3,N/A,N/A
+1,bottom,0,[],Jo-Jo Reyes,1,1,3,Mark Trumbo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jo-Jo Reyes,1,1,1,Vernon Wells,['Vernon Wells'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jo-Jo Reyes,2,2,2,Erick Aybar,['Erick Aybar'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jo-Jo Reyes,3,1,2,Mike Trout,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dan Haren,0,0,0,Vladimir Guerrero,['N/A'],['Vladimir Guerrero'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dan Haren,0,1,1,Matt Wieters,['Matt Wieters'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dan Haren,1,0,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dan Haren,1,3,2,Robert Andino,['Robert Andino'],['Matt Wieters'],['Vladimir Guerrero'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dan Haren,2,3,3,Nolan Reimold,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dan Haren,3,0,0,Josh Bell,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jo-Jo Reyes,1,0,0,Bobby Wilson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,[],Jo-Jo Reyes,1,0,1,Peter Bourjos,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,0,1,N/A,N/A
+2,bottom,0,[],Jo-Jo Reyes,2,0,3,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jo-Jo Reyes,3,1,1,Howie Kendrick,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Dan Haren,1,2,1,J.J. Hardy,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Dan Haren,2,2,3,Nick Markakis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Dan Haren,2,0,1,Adam Jones,['Adam Jones'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Dan Haren,2,1,1,Vladimir Guerrero,['Vladimir Guerrero'],['Adam Jones'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Adam Jones'],Dan Haren,2,0,1,Matt Wieters,['Matt Wieters'],['Vladimir Guerrero'],['N/A'],Single,N/A,5,1,1,N/A,N/A
+3,top,0,[],Dan Haren,3,0,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jo-Jo Reyes,0,4,1,Torii Hunter,['Torii Hunter'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jo-Jo Reyes,1,2,2,Mark Trumbo,['N/A'],['Torii Hunter'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jo-Jo Reyes,2,1,3,Vernon Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jo-Jo Reyes,3,1,3,Erick Aybar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Dan Haren,1,1,3,Robert Andino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Dan Haren,2,2,1,Nolan Reimold,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Dan Haren,3,1,0,Josh Bell,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jo-Jo Reyes,1,0,3,Mike Trout,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jo-Jo Reyes,1,1,1,Bobby Wilson,['Bobby Wilson'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jo-Jo Reyes,2,1,3,Peter Bourjos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jo-Jo Reyes,3,0,1,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Dan Haren,0,0,1,J.J. Hardy,['N/A'],['J.J. Hardy'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Dan Haren,0,3,2,Nick Markakis,['Nick Markakis'],['N/A'],['J.J. Hardy'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['J.J. Hardy'],Dan Haren,1,0,1,Adam Jones,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,5,2,1,N/A,N/A
+5,top,0,[],Dan Haren,2,1,1,Vladimir Guerrero,['N/A'],['Nick Markakis'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Dan Haren,3,0,3,Matt Wieters,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jo-Jo Reyes,0,4,2,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jo-Jo Reyes,1,0,1,Torii Hunter,['Torii Hunter'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jo-Jo Reyes,2,3,2,Mark Trumbo,['N/A'],['Torii Hunter'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jo-Jo Reyes,2,4,1,Vernon Wells,['Vernon Wells'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jo-Jo Reyes,3,0,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Dan Haren,1,2,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Dan Haren,2,0,1,Robert Andino,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Dan Haren,3,3,2,Nolan Reimold,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Brad Bergesen,1,0,1,Mike Trout,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Brad Bergesen,2,0,0,Bobby Wilson,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Brad Bergesen,3,2,3,Peter Bourjos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Dan Haren,0,3,2,Josh Bell,['Josh Bell'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Dan Haren,0,1,1,J.J. Hardy,['J.J. Hardy'],['Josh Bell'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Dan Haren,1,0,0,Nick Markakis,['N/A'],['N/A'],['Josh Bell'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Josh Bell'],Dan Haren,2,0,0,Adam Jones,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,5,3,1,N/A,N/A
+7,top,0,[],Dan Haren,3,1,3,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Willie Eyre,0,0,2,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],N/A,0,1,2,Howie Kendrick,['N/A'],['Alberto Callaspo'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Willie Eyre,1,2,3,Howie Kendrick,['N/A'],['Alberto Callaspo'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,2,['Alberto Callaspo'],Willie Eyre,1,1,1,Torii Hunter,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,3,2,N/A,N/A
+7,bottom,0,[],Willie Eyre,2,1,2,Mark Trumbo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Willie Eyre,3,0,1,Vernon Wells,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Scott Downs,0,2,2,Matt Wieters,['Matt Wieters'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Scott Downs,1,0,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Scott Downs,1,1,0,Robert Andino,['Robert Andino'],['Matt Wieters'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Scott Downs,1,0,0,Nolan Reimold,['Nolan Reimold'],['Robert Andino'],['Matt Wieters'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Scott Downs,2,3,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Scott Downs,3,2,1,J.J. Hardy,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Kevin Gregg,1,1,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,[],Kevin Gregg,1,2,2,Mike Trout,['N/A'],['N/A'],['N/A'],Home Run,N/A,8,3,1,N/A,N/A
+8,bottom,0,[],Kevin Gregg,2,1,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Kevin Gregg,2,1,1,Peter Bourjos,['Peter Bourjos'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,3,2,Alberto Callaspo,['N/A'],['Peter Bourjos'],['N/A'],Stolen Base 2B,Error,N/A,N/A,N/A,N/A,Matt Wieters
+8,bottom,0,[],Kevin Gregg,3,3,3,Alberto Callaspo,['N/A'],['N/A'],['Peter Bourjos'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Fernando Rodney,0,4,0,Nick Markakis,['Nick Markakis'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Fernando Rodney,1,2,3,Adam Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Fernando Rodney,3,1,2,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A

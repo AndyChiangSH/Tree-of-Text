@@ -1,0 +1,92 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Scott Olsen,0,1,0,Rafael Furcal,['Rafael Furcal'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Scott Olsen,1,2,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Scott Olsen,2,2,0,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Scott Olsen,3,1,2,Jeff Kent,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chad Billingsley,1,3,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chad Billingsley,2,0,0,Dan Uggla,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chad Billingsley,2,4,1,Jeremy Hermida,['Jeremy Hermida'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chad Billingsley,3,1,0,Jorge Cantu,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],Scott Olsen,0,3,2,Russell Martin,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],Scott Olsen,1,3,2,James Loney,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Scott Olsen,2,3,2,Andruw Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Scott Olsen,3,1,1,Blake DeWitt,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chad Billingsley,0,1,1,Luis Gonzalez,['Luis Gonzalez'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],N/A,0,0,1,Mike Rabelo,['N/A'],['Luis Gonzalez'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chad Billingsley,1,2,3,Mike Rabelo,['N/A'],['Luis Gonzalez'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chad Billingsley,2,1,0,Wes Helms,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chad Billingsley,2,0,0,Alfredo Amezaga,['Alfredo Amezaga'],['N/A'],['N/A'],Hit By Pitch,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chad Billingsley,2,3,2,Scott Olsen,['N/A'],['Alfredo Amezaga'],['Luis Gonzalez'],Wild Pitch,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chad Billingsley,3,3,3,Scott Olsen,['N/A'],['Alfredo Amezaga'],['Luis Gonzalez'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Scott Olsen,0,4,1,Chad Billingsley,['Chad Billingsley'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Scott Olsen,0,2,1,Rafael Furcal,['Rafael Furcal'],['Chad Billingsley'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Scott Olsen,1,0,1,Andre Ethier,['N/A'],['Rafael Furcal'],['Chad Billingsley'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+3,top,2,"['Chad Billingsley', 'Rafael Furcal']",Scott Olsen,1,0,2,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Single,N/A,0,3,2,N/A,N/A
+3,top,0,[],N/A,1,1,1,Jeff Kent,['N/A'],['Matt Kemp'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Scott Olsen,2,2,2,Jeff Kent,['N/A'],['Matt Kemp'],['Matt Kemp'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Scott Olsen,2,4,0,Russell Martin,['Russell Martin'],['N/A'],['N/A'],Intent Walk,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Scott Olsen,3,1,2,James Loney,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Chad Billingsley,1,3,2,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Chad Billingsley,2,1,3,Dan Uggla,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Chad Billingsley,3,0,3,Jeremy Hermida,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Scott Olsen,1,1,0,Andruw Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Scott Olsen,2,2,2,Blake DeWitt,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Scott Olsen,3,2,3,Chad Billingsley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Billingsley,1,1,2,Jorge Cantu,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Billingsley,2,0,0,Luis Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Billingsley,3,1,0,Mike Rabelo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Scott Olsen,1,2,3,Rafael Furcal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Scott Olsen,2,2,1,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Scott Olsen,2,1,2,Matt Kemp,['N/A'],['Matt Kemp'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+5,top,1,['Matt Kemp'],Scott Olsen,2,2,0,Jeff Kent,['Jeff Kent'],['N/A'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+5,top,0,[],Scott Olsen,2,3,2,Russell Martin,['Russell Martin'],['N/A'],['Jeff Kent'],Single,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Scott Olsen,3,1,0,James Loney,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Billingsley,0,2,2,Wes Helms,['Wes Helms'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Billingsley,1,2,2,Alfredo Amezaga,['Alfredo Amezaga'],['N/A'],['N/A'],Forceout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Billingsley,1,1,0,Scott Olsen,['N/A'],['Alfredo Amezaga'],['N/A'],Wild Pitch,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Billingsley,1,4,1,Scott Olsen,['Scott Olsen'],['Alfredo Amezaga'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Billingsley,1,4,2,Hanley Ramirez,['Hanley Ramirez'],['Scott Olsen'],['Alfredo Amezaga'],Walk,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Billingsley,2,0,0,Dan Uggla,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+5,bottom,1,['Alfredo Amezaga'],Chad Billingsley,2,1,2,Jeremy Hermida,['Jeremy Hermida'],['Hanley Ramirez'],['Scott Olsen'],Single,N/A,1,4,1,N/A,N/A
+5,bottom,0,[],Chad Billingsley,3,2,3,Jorge Cantu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Logan Kensing,1,1,2,Andruw Jones,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Logan Kensing,2,2,0,Blake DeWitt,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Logan Kensing,3,0,0,Chad Billingsley,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Chad Billingsley,1,0,1,Luis Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Chad Billingsley,2,0,3,Mike Rabelo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Chad Billingsley,3,1,3,Wes Helms,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Logan Kensing,0,0,1,Rafael Furcal,['N/A'],['Rafael Furcal'],['N/A'],Double,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Logan Kensing,1,0,0,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Logan Kensing,1,4,1,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Logan Kensing,2,0,0,Jeff Kent,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],N/A,2,2,0,Russell Martin,['N/A'],['Matt Kemp'],['Rafael Furcal'],Stolen Base 2B,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Logan Kensing,2,4,0,Russell Martin,['Russell Martin'],['Matt Kemp'],['Rafael Furcal'],Intent Walk,N/A,1,4,N/A,N/A,N/A
+7,top,3,"['Rafael Furcal', 'Matt Kemp', 'Russell Martin']",Taylor Tankersley,2,1,2,James Loney,['N/A'],['N/A'],['James Loney'],Triple,N/A,1,7,3,N/A,N/A
+7,top,0,[],Taylor Tankersley,2,4,1,Andruw Jones,['Andruw Jones'],['N/A'],['N/A'],Walk,N/A,1,7,N/A,N/A,N/A
+7,top,1,['James Loney'],Taylor Tankersley,2,0,0,Blake DeWitt,['Blake DeWitt'],['Andruw Jones'],['N/A'],Single,N/A,1,8,1,N/A,N/A
+7,top,0,[],Taylor Tankersley,3,0,3,Chad Billingsley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+7,bottom,0,[],Chad Billingsley,1,1,1,Alfredo Amezaga,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,8,N/A,N/A,N/A
+7,bottom,0,[],Chad Billingsley,1,4,2,Cody Ross,['Cody Ross'],['N/A'],['N/A'],Walk,N/A,1,8,N/A,N/A,N/A
+7,bottom,0,[],Chad Billingsley,3,0,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,8,N/A,N/A,N/A
+8,top,0,[],Matt Lindstrom,0,1,0,Rafael Furcal,['Rafael Furcal'],['N/A'],['N/A'],Single,N/A,1,8,N/A,N/A,N/A
+8,top,0,[],Matt Lindstrom,0,0,0,Andre Ethier,['Andre Ethier'],['Rafael Furcal'],['N/A'],Single,N/A,1,8,N/A,N/A,N/A
+8,top,1,['Rafael Furcal'],Matt Lindstrom,1,2,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Single,N/A,1,10,1,N/A,N/A
+8,top,0,[],Justin Miller,1,2,2,Chin-lung Hu,['N/A'],['Chin-lung Hu'],['N/A'],Field Error,N/A,1,10,N/A,N/A,Dan Uggla
+8,top,0,[],Justin Miller,1,4,2,Russell Martin,['Russell Martin'],['N/A'],['N/A'],Walk,N/A,1,10,N/A,N/A,N/A
+8,top,0,[],Justin Miller,2,0,0,James Loney,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,10,N/A,N/A,N/A
+8,top,0,[],Justin Miller,2,4,1,Andruw Jones,['Andruw Jones'],['Russell Martin'],['Chin-lung Hu'],Walk,N/A,1,10,N/A,N/A,N/A
+8,top,3,"['Chin-lung Hu', 'Russell Martin', 'Andruw Jones']",Justin Miller,2,2,2,Blake DeWitt,['N/A'],['N/A'],['Blake DeWitt'],Triple,N/A,1,13,3,N/A,N/A
+8,top,0,[],Justin Miller,3,2,1,Gary Bennett,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,13,N/A,N/A,N/A
+8,bottom,0,[],Hung-Chih Kuo,1,2,3,Dan Uggla,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,13,N/A,N/A,N/A
+8,bottom,0,[],Hung-Chih Kuo,1,0,0,Jeremy Hermida,['N/A'],['N/A'],['Jeremy Hermida'],Triple,N/A,1,13,N/A,N/A,N/A
+8,bottom,0,[],Hung-Chih Kuo,2,3,2,Jorge Cantu,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,13,N/A,N/A,N/A
+8,bottom,0,[],Hung-Chih Kuo,3,1,3,Luis Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,13,N/A,N/A,N/A
+9,top,0,[],Renyel Pinto,0,3,2,Rafael Furcal,['Rafael Furcal'],['N/A'],['N/A'],Single,N/A,1,13,N/A,N/A,N/A
+9,top,0,[],Renyel Pinto,0,4,1,Delwyn Young,['Delwyn Young'],['Rafael Furcal'],['N/A'],Walk,N/A,1,13,N/A,N/A,N/A
+9,top,0,[],Renyel Pinto,2,2,0,Matt Kemp,['N/A'],['N/A'],['N/A'],Double Play,N/A,1,13,N/A,N/A,N/A
+9,top,0,[],Renyel Pinto,3,1,2,Chin-lung Hu,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,13,N/A,N/A,N/A
+9,bottom,0,[],Hung-Chih Kuo,0,0,1,Mike Rabelo,['Mike Rabelo'],['N/A'],['N/A'],Single,N/A,1,13,N/A,N/A,N/A
+9,bottom,0,[],Hung-Chih Kuo,0,4,0,Wes Helms,['Wes Helms'],['Mike Rabelo'],['N/A'],Walk,N/A,1,13,N/A,N/A,N/A
+9,bottom,0,[],Hung-Chih Kuo,1,1,3,Alfredo Amezaga,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,13,N/A,N/A,N/A
+9,bottom,0,[],Hung-Chih Kuo,2,3,3,Robert Andino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,13,N/A,N/A,N/A
+9,bottom,0,[],Hung-Chih Kuo,3,1,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,13,N/A,N/A,N/A

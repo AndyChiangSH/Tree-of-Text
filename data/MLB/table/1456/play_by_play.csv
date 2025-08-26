@@ -1,0 +1,95 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Hector Santiago,0,2,2,Rajai Davis,['N/A'],['Rajai Davis'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Hector Santiago,0,1,1,Jason Kipnis,['Jason Kipnis'],['N/A'],['Rajai Davis'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Rajai Davis'],Hector Santiago,1,0,0,Francisco Lindor,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,1,1,N/A,N/A
+1,top,0,[],Hector Santiago,1,4,0,Mike Napoli,['Mike Napoli'],['Jason Kipnis'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Hector Santiago,1,1,1,Carlos Santana,['Carlos Santana'],['Mike Napoli'],['Jason Kipnis'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Hector Santiago,2,0,1,Jose Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Hector Santiago,3,0,0,Brandon Guyer,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Mike Clevinger,1,0,1,Brian Dozier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Mike Clevinger,2,3,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Mike Clevinger,2,4,1,Jorge Polanco,['Jorge Polanco'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Mike Clevinger,3,1,1,Max Kepler,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,0,4,1,Coco Crisp,['Coco Crisp'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,0,4,2,Roberto Perez,['Roberto Perez'],['Coco Crisp'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,2,1,0,Rajai Davis,['N/A'],['N/A'],['Coco Crisp'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,2,4,2,Jason Kipnis,['Jason Kipnis'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,3,1,0,Francisco Lindor,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+2,bottom,1,[],Mike Clevinger,0,0,1,Miguel Sano,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],Mike Clevinger,0,2,1,Eddie Rosario,['Eddie Rosario'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Mike Clevinger,1,2,2,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Mike Clevinger,2,0,0,James Beresford,['James Beresford'],['N/A'],['N/A'],Forceout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Mike Clevinger,2,4,1,Byron Buxton,['Byron Buxton'],['James Beresford'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Mike Clevinger,3,2,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,1,1,1,Mike Napoli,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,2,3,2,Carlos Santana,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,2,1,2,Jose Ramirez,['N/A'],['Jose Ramirez'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,3,0,1,Brandon Guyer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Mike Clevinger,1,2,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Mike Clevinger,2,0,3,Jorge Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Mike Clevinger,3,1,3,Max Kepler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Hector Santiago,1,2,1,Coco Crisp,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Hector Santiago,2,1,1,Roberto Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Hector Santiago,3,0,3,Rajai Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Mike Clevinger,1,1,3,Miguel Sano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Mike Clevinger,2,2,3,Eddie Rosario,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Mike Clevinger,3,1,1,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Hector Santiago,1,0,0,Jason Kipnis,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Hector Santiago,2,1,2,Francisco Lindor,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Hector Santiago,3,1,0,Mike Napoli,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Perci Garner,1,1,1,James Beresford,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Perci Garner,2,3,3,Byron Buxton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Perci Garner,3,3,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Hector Santiago,1,1,1,Carlos Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Hector Santiago,2,0,0,Jose Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Hector Santiago,2,1,1,Brandon Guyer,['Brandon Guyer'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Hector Santiago,3,3,1,Coco Crisp,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Perci Garner,1,0,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Perci Garner,1,2,1,Jorge Polanco,['Jorge Polanco'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Perci Garner,1,0,0,Max Kepler,['Max Kepler'],['Jorge Polanco'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Jeff Manship,1,4,1,Miguel Sano,['Miguel Sano'],['Max Kepler'],['Jorge Polanco'],Walk,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Jeff Manship,2,2,2,Eddie Rosario,['Eddie Rosario'],['Miguel Sano'],['Max Kepler'],Forceout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Jeff Manship,3,1,0,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Hector Santiago,1,0,2,Roberto Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Hector Santiago,2,0,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Hector Santiago,3,2,3,Jason Kipnis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Shawn Armstrong,0,1,2,James Beresford,['James Beresford'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Shawn Armstrong,1,0,1,Byron Buxton,['N/A'],['James Beresford'],['N/A'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Shawn Armstrong,1,4,0,Brian Dozier,['Brian Dozier'],['N/A'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Kyle Crockett,2,2,3,Joe Mauer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Zach McAllister,3,1,0,Jorge Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Ryan Pressly,1,0,0,Francisco Lindor,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Ryan Pressly,2,1,3,Mike Napoli,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Ryan Pressly,3,0,0,Carlos Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Zach McAllister,1,2,2,Max Kepler,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Zach McAllister,2,0,3,Miguel Sano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Zach McAllister,3,0,0,Eddie Rosario,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Brandon Kintzler,1,2,1,Jose Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Brandon Kintzler,1,1,1,Lonnie Chisenhall,['Lonnie Chisenhall'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Brandon Kintzler,2,0,1,Coco Crisp,['N/A'],['Lonnie Chisenhall'],['N/A'],Bunt Groundout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Brandon Kintzler,2,4,0,Tyler Naquin,['Tyler Naquin'],['N/A'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Brandon Kintzler,3,1,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Bryan Shaw,0,4,0,Kurt Suzuki,['Kurt Suzuki'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Bryan Shaw,1,1,1,James Beresford,['N/A'],['Logan Schafer'],['N/A'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Bryan Shaw,2,0,1,Byron Buxton,['N/A'],['N/A'],['Logan Schafer'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Bryan Shaw,3,0,1,Brian Dozier,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Buddy Boshers,1,1,3,Jason Kipnis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Buddy Boshers,2,0,1,Francisco Lindor,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Alex Wimmers,2,1,1,Mike Napoli,['Mike Napoli'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Alex Wimmers,3,0,1,Carlos Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Andrew Miller,1,2,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Andrew Miller,2,1,2,Jorge Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Andrew Miller,3,1,1,Max Kepler,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Alex Wimmers,1,2,1,Jose Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Ryan O'Rourke,2,1,2,Abraham Almonte,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Ryan O'Rourke,3,0,0,Coco Crisp,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Dan Otero,1,1,1,Miguel Sano,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Dan Otero,2,3,0,Eddie Rosario,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Dan Otero,3,1,1,John Ryan Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+12,top,0,[],JT Chargois,1,1,3,Chris Gimenez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+12,top,0,[],JT Chargois,2,1,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+12,top,0,[],JT Chargois,3,1,1,Jason Kipnis,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+12,bottom,0,[],Joe Colon,1,1,0,James Beresford,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+12,bottom,0,[],Joe Colon,2,0,1,Byron Buxton,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+12,bottom,0,[],Joe Colon,2,2,1,Brian Dozier,['Brian Dozier'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+12,bottom,1,['Brian Dozier'],Joe Colon,2,3,2,Joe Mauer,['Joe Mauer'],['Brian Dozier'],['N/A'],Single,N/A,2,1,1,N/A,N/A

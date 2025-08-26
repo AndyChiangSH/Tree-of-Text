@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Hector Noesi,1,0,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Hector Noesi,2,2,3,Omar Infante,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Hector Noesi,2,1,2,Eric Hosmer,['Eric Hosmer'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Hector Noesi,2,1,2,Billy Butler,['Billy Butler'],['Eric Hosmer'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Hector Noesi,3,2,3,Alex Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Danny Duffy,1,0,3,Adam Eaton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Danny Duffy,2,0,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Danny Duffy,2,4,1,Jose Abreu,['Jose Abreu'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Danny Duffy,3,0,0,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Hector Noesi,1,2,2,Salvador Perez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Hector Noesi,2,2,3,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Hector Noesi,2,3,2,Mike Moustakas,['Mike Moustakas'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Hector Noesi,3,0,1,Alcides Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Danny Duffy,1,1,3,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Danny Duffy,1,0,0,Paul Konerko,['Paul Konerko'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Danny Duffy,1,1,0,Moises Sierra,['Moises Sierra'],['Paul Konerko'],['N/A'],Field Error,N/A,0,0,N/A,N/A,Mike Moustakas
+2,bottom,0,[],Danny Duffy,2,1,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Danny Duffy,3,1,3,Leury Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Hector Noesi,1,1,0,Norichika Aoki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Hector Noesi,2,3,2,Omar Infante,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Hector Noesi,3,2,3,Eric Hosmer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Danny Duffy,1,1,2,Adam Eaton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Danny Duffy,2,2,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Danny Duffy,3,1,3,Jose Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Hector Noesi,0,4,0,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Hector Noesi,0,0,2,Alex Gordon,['Alex Gordon'],['Billy Butler'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Hector Noesi,0,1,2,Salvador Perez,['Salvador Perez'],['Alex Gordon'],['Billy Butler'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,2,"['Billy Butler', 'Alex Gordon']",Hector Noesi,0,0,1,Lorenzo Cain,['Lorenzo Cain'],['N/A'],['Salvador Perez'],Field Error,N/A,0,2,1,1,Leury Garcia
+4,top,1,['Salvador Perez'],Hector Noesi,0,2,1,Mike Moustakas,['Mike Moustakas'],['Lorenzo Cain'],['N/A'],Single,N/A,0,3,1,N/A,N/A
+4,top,0,[],Hector Noesi,0,2,1,Alcides Escobar,['Alcides Escobar'],['Mike Moustakas'],['Lorenzo Cain'],Single,N/A,0,3,N/A,N/A,N/A
+4,top,1,['Lorenzo Cain'],Hector Noesi,2,0,1,Norichika Aoki,['N/A'],['N/A'],['Mike Moustakas'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+4,top,1,['Mike Moustakas'],Hector Noesi,2,2,1,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,0,5,1,N/A,N/A
+4,top,0,[],Javy Guerra,3,0,2,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Danny Duffy,1,3,1,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Danny Duffy,2,2,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Danny Duffy,2,0,0,Paul Konerko,['Paul Konerko'],['N/A'],['N/A'],Single,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Danny Duffy,2,0,0,Moises Sierra,['N/A'],['Moises Sierra'],['Paul Konerko'],Double,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Danny Duffy,3,0,1,Tyler Flowers,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Javy Guerra,1,0,2,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Javy Guerra,2,1,0,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Javy Guerra,2,2,2,Salvador Perez,['N/A'],['Salvador Perez'],['N/A'],Double,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Javy Guerra,3,1,1,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Danny Duffy,1,3,2,Leury Garcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Danny Duffy,2,3,2,Adam Eaton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Danny Duffy,3,2,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+6,top,0,[],Javy Guerra,1,0,2,Mike Moustakas,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,5,N/A,N/A,N/A
+6,top,0,[],Javy Guerra,1,2,1,Alcides Escobar,['N/A'],['Alcides Escobar'],['N/A'],Double,N/A,0,5,N/A,N/A,N/A
+6,top,0,[],Javy Guerra,2,0,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+6,top,0,[],Javy Guerra,3,0,1,Omar Infante,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+6,bottom,0,[],Danny Duffy,1,1,2,Jose Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+6,bottom,0,[],Danny Duffy,2,3,1,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+6,bottom,0,[],Danny Duffy,2,0,1,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Single,N/A,0,5,N/A,N/A,N/A
+6,bottom,0,[],Danny Duffy,3,2,3,Paul Konerko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+7,top,0,[],Scott Downs,1,1,3,Eric Hosmer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+7,top,0,[],Scott Downs,2,1,3,Billy Butler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+7,top,0,[],Scott Downs,3,1,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+7,bottom,0,[],Danny Duffy,1,0,0,Moises Sierra,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+7,bottom,0,[],Danny Duffy,2,0,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+7,bottom,0,[],Danny Duffy,3,1,0,Leury Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+8,top,0,[],Scott Downs,1,2,3,Salvador Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+8,top,0,[],Scott Downs,2,1,2,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+8,top,1,[],Scott Downs,2,3,1,Mike Moustakas,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,6,1,N/A,N/A
+8,top,0,[],Scott Downs,3,0,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+8,bottom,0,[],Danny Duffy,0,1,0,Adam Eaton,['Adam Eaton'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+8,bottom,0,[],Aaron Crow,0,3,2,Gordon Beckham,['N/A'],['Adam Eaton'],['N/A'],Wild Pitch,N/A,0,6,N/A,N/A,N/A
+8,bottom,0,[],Aaron Crow,0,4,2,Gordon Beckham,['Gordon Beckham'],['Adam Eaton'],['N/A'],Walk,N/A,0,6,N/A,N/A,N/A
+8,bottom,0,[],Aaron Crow,1,0,3,Jose Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+8,bottom,0,[],Aaron Crow,2,1,0,Dayan Viciedo,['Dayan Viciedo'],['N/A'],['Gordon Beckham'],Single,N/A,0,6,N/A,N/A,N/A
+8,bottom,0,[],Aaron Crow,3,1,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,6,N/A,N/A,N/A
+9,top,0,[],Daniel Webb,1,0,0,Norichika Aoki,['N/A'],['N/A'],['N/A'],Double,N/A,0,6,N/A,N/A,N/A
+9,top,0,[],Daniel Webb,1,3,1,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+9,top,1,['Omar Infante'],Daniel Webb,1,1,2,Eric Hosmer,['N/A'],['Eric Hosmer'],['N/A'],Double,N/A,0,7,1,N/A,N/A
+9,top,2,['Eric Hosmer'],Daniel Webb,1,2,1,Billy Butler,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,9,2,N/A,N/A
+9,top,0,[],Daniel Webb,1,2,1,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Single,N/A,0,9,N/A,N/A,N/A
+9,top,0,[],Daniel Webb,2,3,0,Salvador Perez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,9,N/A,N/A,N/A
+9,top,0,[],Daniel Webb,3,0,3,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+9,bottom,1,[],Michael Mariot,0,0,0,Paul Konerko,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,9,1,N/A,N/A
+9,bottom,0,[],Michael Mariot,1,1,0,Moises Sierra,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,9,N/A,N/A,N/A
+9,bottom,0,[],Michael Mariot,2,0,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+9,bottom,0,[],Michael Mariot,3,0,0,Leury Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A

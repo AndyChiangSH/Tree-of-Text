@@ -1,0 +1,57 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Jones,,0,,LF,1,,0,0,2,Andruw Jones,,2,1.000,,.227,,,1,Andruw,,,,,2,,,2,.846,,500,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.500,0,.346
+,Konerko,,0,,1B,0,,0,0,4,Paul Konerko,,1,1.000,,.276,,,1,Paul,,,,,7,,,0,.990,,400,,0,,,0,,0,,3,,,2,2,0,0,4,White Sox,0,.606,0,.384
+,Kotsay,,0,,PH,0,,0,0,1,Mark Kotsay,,2,.000,,.196,,,1,Mark,,,,,0,,,0,.643,,901,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.357,0,.286
+,Vizquel,,0,,3B,2,,0,0,4,Omar Vizquel,,2,.000,,.241,,,1,Omar,,,,,0,,,0,.590,,200,,0,,,0,,1,,1,,,0,1,0,0,1,White Sox,0,.293,0,.297
+,Castro,,,,,,,,,,Ramon Castro,,,,,,,,,Ramon,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Garcia,,,,,,,,,,Freddy Garcia,,,,,,,,,Freddy,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Pierzynski,,0,,C,1,,0,0,4,A.J. Pierzynski,,2,1.000,,.217,,,3,A.J.,,,,,6,,,0,.588,,600,,0,,,0,,1,,1,,,0,0,0,0,0,White Sox,0,.329,0,.259
+0,Linebrink,0,0,0,P,0,4,0,0,0,Scott Linebrink,1,,.000,1,.000,0,13,0,Scott,0,3,,0,0,1,,0,.000,1,,,0,56,,0,4.22,0,3,0,0,18,0,0,0,0,0,White Sox,0,.000,0,.000
+,Buehrle,,,,,,,,,,Mark Buehrle,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Pierre,,0,,DH,0,,0,0,3,Juan Pierre,,2,.000,,.243,,,0,Juan,,,,,0,,,1,.582,,100,,0,,,0,,0,,1,,,0,1,0,0,0,White Sox,1,.272,0,.310
+,Putz,,,,,,,,,,J.J. Putz,,,,,,,,,J.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Thornton,,,,,,,,,,Matt Thornton,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+1,Jenks,1,0,0,P,0,4,0,0,0,Bobby Jenks,1,,.000,1,.000,0,9,0,Bobby,7,1,,0,0,1,,0,.000,0,,,0,52,,0,6.00,0,3,0,0,16,0,0,0,0,0,White Sox,0,.000,0,.000
+,Peavy,,,,,,,,,,Jake Peavy,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Rios,,0,,CF,2,,0,0,4,Alex Rios,,,1.000,,.319,,,0,Alex,,,,,4,,,0,.960,,300,,0,,,0,,1,,2,,,0,1,0,0,0,White Sox,0,.588,0,.372
+6,Floyd,8,0,3,P,0,19,0,0,0,Gavin Floyd,2,,.000,0,.000,6,35,0,Gavin,0,1,,1,0,2,2/3,0,.000,0,,true,0,16,,0,6.64,0,8,0,6,64,0,0,0,0,0,White Sox,0,.000,0,.000
+1,Williams,2,0,0,P,0,8,0,0,0,Randy Williams,0,,.000,1,.000,1,27,0,Randy,0,1,,0,0,2,,0,.000,1,,,0,49,,0,5.66,0,6,0,1,32,0,0,0,0,0,White Sox,0,.000,0,.000
+1,Pena,1,0,2,P,0,11,0,0,0,Ramon Pena,1,,.000,0,.000,2,26,0,Ramon,0,1,,0,0,2,1/3,0,.000,1,,,0,46,,0,4.34,0,7,0,2,47,0,0,0,0,0,White Sox,0,.000,0,.000
+,Danks,,,,,,,,,,John Danks,,,,,,,,,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Teahen,,,,,,,,,,Mark Teahen,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Nix,,,,,,,,,,Jayson Nix,,,,,,,,,Jayson,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Quentin,,0,,RF,1,,0,0,3,Carlos Quentin,,2,1.000,,.208,,,3,Carlos,,,,,7,,,1,.706,,700,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.390,0,.316
+,Santos,,,,,,,,,,Sergio Santos,,,,,,,,,Sergio,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Lillibridge,,,,,,,,,,Brent Lillibridge,,,,,,,,,Brent,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Ramirez,,0,,SS,0,,0,0,4,Alexei Ramirez,,1,1.000,,.247,,,2,Alexei,,,,,0,,,0,.651,,800,,0,,,4,,0,,0,,,0,0,3,0,0,White Sox,0,.371,0,.280
+,Beckham,,0,,2B,1,,0,0,3,Gordon Beckham,,1,1.000,,.200,,,1,Gordon,,,,,1,,,0,.527,,900,,0,,,1,,0,,0,,,0,0,1,0,0,White Sox,0,.241,0,.286
+,Guerrero,,,,,,,,,,Vladimir Guerrero,,,,,,,,,Vladimir,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Oliver,,,,,,,,,,Darren Oliver,,,,,,,,,Darren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Treanor,,0,,C,2,,0,0,4,Matt Treanor,,,1.000,,.221,,,1,Matt,,,,,4,,,0,.640,,700,,0,,,0,,1,,2,,,1,1,1,0,4,Rangers,0,.337,1,.303
+,Young,,0,,DH,1,,0,0,5,Michael Young,,1,.000,,.325,,,1,Michael,,,,,0,,,0,.861,,200,,0,,,0,,2,,3,,,0,2,0,0,3,Rangers,0,.481,0,.380
+,Hamilton,,0,,LF,0,,0,0,5,Josh Hamilton,,,1.000,,.297,,,0,Josh,,,,,2,,,0,.857,,400,,0,,,0,,0,,3,,,0,2,2,0,2,Rangers,0,.510,0,.347
+,Lewis,,,,,,,,,,Colby Lewis,,,,,,,,,Colby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Francisco,,,,,,,,,,Frank Francisco,,,,,,,,,Frank,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Harden,,,,,,,,,,Rich Harden,,,,,,,,,Rich,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Nippert,,,,,,,,,,Dustin Nippert,,,,,,,,,Dustin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Blanco,,0,,3B,2,,0,1,3,Andres Blanco,,1,1.000,,.195,,,1,Andres,,,,,0,,,1,.478,,800,,0,,,4,,0,,0,,,0,1,0,0,0,Rangers,0,.195,0,.283
+,Arias,,,,,,,,,,Joaquin Arias,,,,,,,,,Joaquin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Kinsler,,0,,2B,4,,0,0,5,Ian Kinsler,,1,1.000,,.274,,,4,Ian,,,,,2,,,0,.753,,300,,0,,,6,,0,,0,,,0,0,0,0,0,Rangers,0,.372,0,.381
+,Cruz,,,,,,,,,,Nelson Cruz,,,,,,,,,Nelson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Madrigal,,,,,,,,,,Warner Madrigal,,,,,,,,,Warner,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+5,Feldman,8,0,3,P,0,33,0,0,0,Scott Feldman,3,,.000,0,.000,5,71,0,Scott,0,3,,2,0,8,,0,.000,0,,,0,46,true,0,5.82,0,24,0,5,114,0,0,0,0,0,Rangers,0,.000,0,.000
+,Ray,,,,,,,,,,Chris Ray,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Ramirez,,,,,,,,,,Max Ramirez,,,,,,,,,Max,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Wilson,,,,,,,,,,C.J. Wilson,,,,,,,,,C.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Poveda,,,,,,,,,,Omar Poveda,,,,,,,,,Omar,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Harrison,,,,,,,,,,Matt Harrison,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Hurley,,,,,,,,,,Eric Hurley,,,,,,,,,Eric,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Murphy,,0,,RF,1,,0,0,5,David Murphy,,,1.000,,.271,,,1,David,,,,,2,,,0,.691,,500,,0,,,0,,0,,2,,,0,1,2,0,0,Rangers,0,.398,0,.293
+,Andrus,,0,,SS,2,,0,0,4,Elvis Andrus,,1,1.000,,.307,,,1,Elvis,,,,,5,,,2,.748,,100,,0,,,4,,1,,1,,,0,1,0,0,0,Rangers,0,.349,0,.399
+0,Strop,0,0,1,P,0,3,0,0,0,Pedro Strop,0,,.000,0,.000,0,8,0,Pedro,0,1,,0,0,1,,0,.000,0,,,0,53,,0,0.00,0,3,0,0,14,0,0,0,0,0,Rangers,0,.000,0,.000
+,Borbon,,0,,CF,1,,0,0,5,Julio Borbon,,2,1.000,,.233,,,5,Julio,,,,,2,,,0,.515,,900,,0,,,0,,0,,1,,,0,0,1,0,0,Rangers,0,.267,0,.248
+,Smoak,,0,,1B,2,,0,0,3,Justin Smoak,,,1.000,,.185,,,4,Justin,,,,,10,,,2,.650,,600,,0,,,0,,0,,0,,,0,1,1,0,0,Rangers,0,.345,0,.305
+,Feliz,,,,,,,,,,Neftali Feliz,,,,,,,,,Neftali,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Gentry,,,,,,,,,,Craig Gentry,,,,,,,,,Craig,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Holland,,,,,,,,,,Derek Holland,,,,,,,,,Derek,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,O'Day,,,,,,,,,,Darren O'Day,,,,,,,,,Darren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,

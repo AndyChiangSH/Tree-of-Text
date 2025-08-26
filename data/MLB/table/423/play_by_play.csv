@@ -1,0 +1,80 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Tim Wakefield,1,2,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Wakefield,1,1,2,Michael Young,['Michael Young'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Wakefield,1,0,2,Ian Kinsler,['Ian Kinsler'],['N/A'],['Michael Young'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Michael Young'],Tim Wakefield,1,0,0,Vladimir Guerrero,['Vladimir Guerrero'],['N/A'],['Ian Kinsler'],Single,N/A,0,1,1,N/A,N/A
+1,top,1,['Ian Kinsler'],Tim Wakefield,1,1,1,Josh Hamilton,['N/A'],['Josh Hamilton'],['Vladimir Guerrero'],Double,N/A,0,2,1,N/A,N/A
+1,top,2,"['Vladimir Guerrero', 'Josh Hamilton']",Tim Wakefield,1,0,0,Nelson Cruz,['Nelson Cruz'],['N/A'],['N/A'],Single,N/A,0,4,2,N/A,N/A
+1,top,2,['Nelson Cruz'],Tim Wakefield,1,1,0,Bengie Molina,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,6,2,N/A,N/A
+1,top,0,[],Tim Wakefield,2,0,0,Chris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+1,top,0,[],Tim Wakefield,3,0,3,Julio Borbon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+1,bottom,0,[],Tommy Hunter,1,2,1,Marco Scutaro,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+1,bottom,0,[],Tommy Hunter,2,0,1,Eric Patterson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+1,bottom,0,[],Tommy Hunter,3,3,1,David Ortiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Tim Wakefield,1,1,1,Elvis Andrus,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Tim Wakefield,2,0,0,Michael Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Tim Wakefield,3,0,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+2,bottom,0,[],Tommy Hunter,1,1,1,Kevin Youkilis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+2,bottom,0,[],Tommy Hunter,2,1,0,J.D. Drew,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+2,bottom,0,[],Tommy Hunter,2,4,2,Daniel Nava,['Daniel Nava'],['N/A'],['N/A'],Walk,N/A,0,6,N/A,N/A,N/A
+2,bottom,0,[],Tommy Hunter,2,0,1,Mike Cameron,['Mike Cameron'],['Daniel Nava'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+2,bottom,0,[],Tommy Hunter,3,2,0,Bill Hall,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,6,N/A,N/A,N/A
+3,top,0,[],Tim Wakefield,0,0,0,Vladimir Guerrero,['Vladimir Guerrero'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+3,top,0,[],Tim Wakefield,0,0,0,Josh Hamilton,['Josh Hamilton'],['N/A'],['Vladimir Guerrero'],Field Error,N/A,0,6,N/A,N/A,Bill Hall
+3,top,1,['Vladimir Guerrero'],Tim Wakefield,0,0,0,Nelson Cruz,['N/A'],['Nelson Cruz'],['Josh Hamilton'],Double,N/A,0,7,1,N/A,N/A
+3,top,0,[],Robert Manuel,1,3,2,Bengie Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+3,top,0,[],Robert Manuel,2,3,1,Chris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+3,top,0,[],Robert Manuel,3,3,3,Julio Borbon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Tommy Hunter,0,4,1,Kevin Cash,['Kevin Cash'],['N/A'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Tommy Hunter,1,0,2,Marco Scutaro,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Tommy Hunter,2,2,2,Eric Patterson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+3,bottom,0,[],Tommy Hunter,3,2,3,David Ortiz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Robert Manuel,0,4,1,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Robert Manuel,1,1,2,Michael Young,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Robert Manuel,2,1,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+4,top,0,[],Robert Manuel,3,2,2,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+4,bottom,0,[],Tommy Hunter,1,1,1,Kevin Youkilis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+4,bottom,1,[],Tommy Hunter,1,3,2,J.D. Drew,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,7,1,N/A,N/A
+4,bottom,0,[],Tommy Hunter,1,0,2,Daniel Nava,['Daniel Nava'],['N/A'],['N/A'],Single,N/A,1,7,N/A,N/A,N/A
+4,bottom,0,[],Tommy Hunter,1,0,1,Mike Cameron,['Mike Cameron'],['Daniel Nava'],['N/A'],Hit By Pitch,N/A,1,7,N/A,N/A,N/A
+4,bottom,0,[],Tommy Hunter,2,3,1,Bill Hall,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+4,bottom,0,[],Tommy Hunter,3,0,0,Kevin Cash,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+5,top,0,[],Robert Manuel,0,2,2,Josh Hamilton,['N/A'],['Josh Hamilton'],['N/A'],Fan interference,N/A,1,7,N/A,N/A,N/A
+5,top,0,[],Robert Manuel,0,3,2,Nelson Cruz,['Nelson Cruz'],['N/A'],['Josh Hamilton'],Single,N/A,1,7,N/A,N/A,N/A
+5,top,0,[],Robert Manuel,2,3,2,Bengie Molina,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,7,N/A,N/A,N/A
+5,top,0,[],Dustin Richardson,2,4,2,Chris Davis,['Chris Davis'],['N/A'],['N/A'],Walk,N/A,1,7,N/A,N/A,N/A
+5,top,0,[],Dustin Richardson,3,3,2,Julio Borbon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,7,N/A,N/A,N/A
+5,bottom,0,[],Tommy Hunter,1,2,2,Marco Scutaro,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+5,bottom,0,[],Tommy Hunter,2,2,2,Eric Patterson,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+5,bottom,0,[],Tommy Hunter,3,0,2,David Ortiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,7,N/A,N/A,N/A
+6,top,0,[],Dustin Richardson,0,4,1,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Walk,N/A,1,7,N/A,N/A,N/A
+6,top,0,[],Dustin Richardson,0,4,1,Michael Young,['Michael Young'],['Elvis Andrus'],['N/A'],Walk,N/A,1,7,N/A,N/A,N/A
+6,top,0,[],Scott Atchison,2,0,2,Ian Kinsler,['N/A'],['Michael Young'],['N/A'],Grounded Into DP,N/A,1,7,N/A,N/A,N/A
+6,top,0,[],Scott Atchison,3,3,1,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,7,N/A,N/A,N/A
+6,bottom,0,[],Tommy Hunter,1,2,2,Kevin Youkilis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+6,bottom,0,[],Tommy Hunter,1,1,2,J.D. Drew,['J.D. Drew'],['N/A'],['N/A'],Single,N/A,1,7,N/A,N/A,N/A
+6,bottom,0,[],Tommy Hunter,2,0,2,Daniel Nava,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+6,bottom,0,[],Tommy Hunter,3,1,2,Mike Cameron,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+7,top,0,[],Scott Atchison,0,1,2,Josh Hamilton,['N/A'],['Josh Hamilton'],['N/A'],Double,N/A,1,7,N/A,N/A,N/A
+7,top,0,[],Scott Atchison,1,1,1,Nelson Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+7,top,0,[],Scott Atchison,2,2,1,Bengie Molina,['N/A'],['N/A'],['David Murphy'],Groundout,N/A,1,7,N/A,N/A,N/A
+7,top,0,[],Scott Atchison,3,2,3,Chris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,7,N/A,N/A,N/A
+7,bottom,1,[],Tommy Hunter,0,0,0,Bill Hall,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,7,1,N/A,N/A
+7,bottom,0,[],Tommy Hunter,1,2,0,Kevin Cash,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Tommy Hunter,2,2,0,Marco Scutaro,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Darren Oliver,3,2,3,Eric Patterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Scott Atchison,1,0,0,Julio Borbon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Scott Atchison,2,2,2,Elvis Andrus,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Scott Atchison,3,1,0,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,1,2,3,David Ortiz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,2,0,1,Kevin Youkilis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,3,3,2,J.D. Drew,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Ramon Ramirez,1,2,2,Ian Kinsler,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Ramon Ramirez,1,1,1,Vladimir Guerrero,['Vladimir Guerrero'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Ramon Ramirez,2,2,0,David Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Ramon Ramirez,3,0,0,Nelson Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Alexi Ogando,0,4,2,Daniel Nava,['Daniel Nava'],['N/A'],['N/A'],Walk,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Alexi Ogando,1,1,3,Mike Cameron,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Alexi Ogando,1,0,1,Bill Hall,['Bill Hall'],['Daniel Nava'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Alexi Ogando,2,3,3,Ryan Shealy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Alexi Ogando,3,3,3,Marco Scutaro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A

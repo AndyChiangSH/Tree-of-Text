@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jaime Barria,0,0,0,Alex Bregman,['N/A'],['Alex Bregman'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Alex Bregman'],Jaime Barria,0,3,2,Jose Altuve,['Jose Altuve'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Jaime Barria,1,3,2,Carlos Correa,['N/A'],['Jose Altuve'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Jaime Barria,2,3,2,Tyler White,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+1,top,1,['Jose Altuve'],Jaime Barria,2,1,2,Marwin Gonzalez,['N/A'],['Marwin Gonzalez'],['N/A'],Double,N/A,0,2,1,N/A,N/A
+1,top,1,['Marwin Gonzalez'],Jaime Barria,2,2,0,Yuli Gurriel,['N/A'],['Yuli Gurriel'],['N/A'],Double,N/A,0,3,1,N/A,N/A
+1,top,0,[],Jaime Barria,3,2,3,Josh Reddick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Justin Verlander,1,3,2,Kole Calhoun,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Justin Verlander,2,0,1,David Fletcher,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Justin Verlander,3,0,1,Mike Trout,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Jaime Barria,1,1,0,Martin Maldonado,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Jaime Barria,2,0,1,Tony Kemp,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Jaime Barria,3,2,2,Alex Bregman,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Justin Verlander,0,0,2,Shohei Ohtani,['N/A'],['Shohei Ohtani'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Justin Verlander,1,0,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Justin Verlander,2,4,2,Andrelton Simmons,['Andrelton Simmons'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Justin Verlander,3,1,1,Francisco Arcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Jaime Barria,0,4,2,Jose Altuve,['Jose Altuve'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Jaime Barria,1,0,1,Carlos Correa,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Jaime Barria,2,2,2,Tyler White,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Jaime Barria,2,4,1,Marwin Gonzalez,['Marwin Gonzalez'],['Jose Altuve'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,top,1,['Jose Altuve'],Jaime Barria,3,3,1,Yuli Gurriel,['N/A'],['N/A'],['N/A'],Double,N/A,0,4,1,N/A,N/A
+3,bottom,0,[],Justin Verlander,0,4,2,Taylor Ward,['Taylor Ward'],['N/A'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Justin Verlander,1,1,3,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Justin Verlander,2,1,3,Kole Calhoun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Justin Verlander,3,3,2,David Fletcher,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Jose Alvarez,1,0,1,Josh Reddick,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Jose Alvarez,2,2,3,Martin Maldonado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Jose Alvarez,3,0,1,Tony Kemp,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Justin Verlander,0,0,0,Mike Trout,['Mike Trout'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,bottom,2,['Mike Trout'],Justin Verlander,0,0,0,Shohei Ohtani,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,2,N/A,N/A
+4,bottom,0,[],Justin Verlander,1,0,0,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Justin Verlander,2,0,2,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Justin Verlander,2,0,2,Francisco Arcia,['Francisco Arcia'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Justin Verlander,3,2,3,Taylor Ward,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Jim Johnson,0,4,1,Alex Bregman,['Alex Bregman'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Jim Johnson,0,0,0,Jose Altuve,['Jose Altuve'],['Alex Bregman'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Jim Johnson,2,2,2,Carlos Correa,['N/A'],['N/A'],['Alex Bregman'],Grounded Into DP,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Jim Johnson,3,3,2,Tyler White,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Justin Verlander,1,1,3,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Justin Verlander,2,1,3,Kole Calhoun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Justin Verlander,3,1,1,David Fletcher,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Ty Buttrey,1,0,3,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Ty Buttrey,2,1,1,Yuli Gurriel,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Ty Buttrey,2,1,0,Josh Reddick,['N/A'],['N/A'],['Josh Reddick'],Single,Error,2,4,N/A,N/A,Kole Calhoun
+6,top,0,[],Ty Buttrey,2,4,2,Martin Maldonado,['Martin Maldonado'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Ty Buttrey,3,0,3,Tony Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Justin Verlander,0,2,2,Mike Trout,['Mike Trout'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Justin Verlander,1,0,3,Shohei Ohtani,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Justin Verlander,2,2,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,bottom,1,['Mike Trout'],Justin Verlander,2,2,1,Andrelton Simmons,['N/A'],['N/A'],['Andrelton Simmons'],Triple,N/A,3,4,1,N/A,N/A
+6,bottom,0,[],Justin Verlander,3,0,2,Francisco Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Justin Anderson,1,3,2,Alex Bregman,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Justin Anderson,1,0,2,Jose Altuve,['Jose Altuve'],['N/A'],['N/A'],Hit By Pitch,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Justin Anderson,1,1,2,Carlos Correa,['N/A'],['Jose Altuve'],['N/A'],Wild Pitch,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Justin Anderson,2,3,2,Carlos Correa,['N/A'],['Jose Altuve'],['Jose Altuve'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Justin Anderson,3,0,0,Tyler White,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Ryan Pressly,1,1,1,Taylor Ward,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Ryan Pressly,2,1,3,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Ryan Pressly,3,3,2,Kole Calhoun,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,top,1,[],Williams Jerez,0,1,2,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,1,N/A,N/A
+8,top,0,[],Williams Jerez,1,0,2,Yuli Gurriel,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Williams Jerez,1,0,2,Josh Reddick,['Josh Reddick'],['N/A'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Williams Jerez,2,0,0,Martin Maldonado,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Williams Jerez,2,1,0,Tony Kemp,['Tony Kemp'],['Josh Reddick'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+8,top,1,['Josh Reddick'],Williams Jerez,2,2,1,Alex Bregman,['N/A'],['Alex Bregman'],['Tony Kemp'],Double,N/A,3,6,1,N/A,N/A
+8,top,2,"['Tony Kemp', 'Alex Bregman']",Williams Jerez,2,1,1,Jose Altuve,['N/A'],['Jose Altuve'],['N/A'],Field Error,N/A,3,8,N/A,2,Taylor Ward
+8,top,0,[],Williams Jerez,3,0,0,Carlos Correa,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,8,N/A,N/A,N/A
+8,bottom,0,[],Roberto Osuna,1,1,2,David Fletcher,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,8,N/A,N/A,N/A
+8,bottom,0,[],Roberto Osuna,2,0,1,Mike Trout,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,8,N/A,N/A,N/A
+8,bottom,0,[],Roberto Osuna,2,0,0,Shohei Ohtani,['Shohei Ohtani'],['N/A'],['N/A'],Hit By Pitch,N/A,3,8,N/A,N/A,N/A
+8,bottom,0,[],Roberto Osuna,3,2,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Deck McGuire,1,2,1,Tyler White,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Deck McGuire,2,1,2,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Deck McGuire,2,1,1,Yuli Gurriel,['Yuli Gurriel'],['N/A'],['N/A'],Hit By Pitch,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Blake Parker,2,0,2,Josh Reddick,['Josh Reddick'],['Yuli Gurriel'],['N/A'],Single,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Blake Parker,3,0,1,Martin Maldonado,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Joe Smith,1,0,3,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Joe Smith,2,3,2,Francisco Arcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Joe Smith,3,2,3,Taylor Ward,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,8,N/A,N/A,N/A

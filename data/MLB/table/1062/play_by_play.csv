@@ -1,0 +1,80 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Alfredo Simon,1,0,1,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Alfredo Simon,1,0,2,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Alfredo Simon,1,0,1,Jayson Werth,['Jayson Werth'],['Anthony Rendon'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Alfredo Simon,2,2,3,Adam LaRoche,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Alfredo Simon,3,3,2,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tanner Roark,1,1,2,Billy Hamilton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tanner Roark,2,1,0,Skip Schumaker,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tanner Roark,3,2,1,Todd Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Alfredo Simon,1,0,1,Bryce Harper,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Alfredo Simon,1,2,2,Wilson Ramos,['Wilson Ramos'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Alfredo Simon,2,0,3,Zach Walters,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Alfredo Simon,3,3,2,Tanner Roark,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Tanner Roark,1,2,3,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Tanner Roark,2,2,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Tanner Roark,3,2,2,Devin Mesoraco,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Alfredo Simon,0,1,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Alfredo Simon,1,1,1,Anthony Rendon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Alfredo Simon,2,3,2,Jayson Werth,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],N/A,2,2,1,Adam LaRoche,['N/A'],['Denard Span'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Alfredo Simon,2,4,2,Adam LaRoche,['Adam LaRoche'],['Denard Span'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Alfredo Simon,3,0,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Tanner Roark,1,1,0,Brayan Pena,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Tanner Roark,2,3,1,Zack Cozart,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Tanner Roark,3,2,2,Alfredo Simon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Alfredo Simon,0,0,0,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Alfredo Simon,0,2,2,Wilson Ramos,['Wilson Ramos'],['Bryce Harper'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,1,['Bryce Harper'],Alfredo Simon,0,2,2,Zach Walters,['N/A'],['Zach Walters'],['Wilson Ramos'],Double,N/A,0,1,1,N/A,N/A
+4,top,0,[],Alfredo Simon,1,0,3,Tanner Roark,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,1,['Wilson Ramos'],Alfredo Simon,2,0,0,Denard Span,['N/A'],['N/A'],['Zach Walters'],Single,N/A,0,2,1,N/A,N/A
+4,top,1,['Zach Walters'],Alfredo Simon,2,0,0,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Single,N/A,0,3,1,N/A,N/A
+4,top,0,[],Alfredo Simon,3,1,1,Jayson Werth,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Tanner Roark,0,3,2,Billy Hamilton,['Billy Hamilton'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Tanner Roark,1,2,2,Skip Schumaker,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],N/A,1,0,1,Todd Frazier,['N/A'],['Billy Hamilton'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Tanner Roark,2,0,2,Todd Frazier,['N/A'],['Billy Hamilton'],['Billy Hamilton'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,1,['Billy Hamilton'],Tanner Roark,2,0,0,Ryan Ludwick,['Ryan Ludwick'],['N/A'],['N/A'],Single,N/A,1,3,1,N/A,N/A
+4,bottom,0,[],Tanner Roark,3,1,0,Jay Bruce,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Alfredo Simon,0,0,1,Adam LaRoche,['N/A'],['Adam LaRoche'],['N/A'],Double,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Alfredo Simon,1,1,0,Ian Desmond,['N/A'],['N/A'],['Adam LaRoche'],Groundout,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Alfredo Simon,1,4,2,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],J.J. Hoover,2,1,2,Wilson Ramos,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],J.J. Hoover,3,1,3,Zach Walters,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Tanner Roark,1,1,3,Devin Mesoraco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Tanner Roark,2,1,2,Brayan Pena,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Tanner Roark,3,1,3,Zack Cozart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],J.J. Hoover,1,0,3,Tanner Roark,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],J.J. Hoover,1,0,1,Denard Span,['Denard Span'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],J.J. Hoover,1,4,1,Anthony Rendon,['Anthony Rendon'],['Denard Span'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],J.J. Hoover,2,3,2,Jayson Werth,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+6,top,1,['Denard Span'],J.J. Hoover,2,0,0,Adam LaRoche,['Adam LaRoche'],['Anthony Rendon'],['N/A'],Single,N/A,1,4,1,N/A,N/A
+6,top,0,[],J.J. Hoover,3,0,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Tanner Roark,1,1,0,Kristopher Negron,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Tanner Roark,2,0,1,Billy Hamilton,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Tanner Roark,2,4,2,Skip Schumaker,['Skip Schumaker'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Tanner Roark,3,2,3,Todd Frazier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Sam LeCure,1,2,3,Bryce Harper,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Sam LeCure,2,3,3,Wilson Ramos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Sam LeCure,3,1,1,Zach Walters,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Tanner Roark,1,2,3,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Tanner Roark,2,1,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Tanner Roark,2,1,0,Devin Mesoraco,['Devin Mesoraco'],['N/A'],['N/A'],Hit By Pitch,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Tanner Roark,2,0,0,Brayan Pena,['Brayan Pena'],['Devin Mesoraco'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Tanner Roark,3,0,0,Zack Cozart,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,4,N/A,N/A,N/A
+8,top,0,[],Curtis Partch,1,1,2,Scott Hairston,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,4,N/A,N/A,N/A
+8,top,0,[],Curtis Partch,1,0,1,Denard Span,['Denard Span'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+8,top,0,[],Curtis Partch,2,0,1,Anthony Rendon,['N/A'],['Anthony Rendon'],['N/A'],Forceout,Error,1,4,N/A,N/A,Skip Schumaker
+8,top,0,[],Curtis Partch,2,4,0,Jayson Werth,['Jayson Werth'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+8,top,0,[],Curtis Partch,3,3,2,Adam LaRoche,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+8,bottom,0,[],Tyler Clippard,1,1,3,Chris Heisey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+8,bottom,0,[],Tyler Clippard,2,0,0,Billy Hamilton,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,1,4,N/A,N/A,N/A
+8,bottom,0,[],Tyler Clippard,3,1,0,Skip Schumaker,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+9,top,0,[],Carlos Contreras,1,1,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+9,top,0,[],Carlos Contreras,2,2,3,Bryce Harper,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+9,top,0,[],Carlos Contreras,3,2,2,Wilson Ramos,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Rafael Soriano,1,1,3,Todd Frazier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Rafael Soriano,1,4,2,Ryan Ludwick,['Ryan Ludwick'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Rafael Soriano,2,3,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Rafael Soriano,2,1,2,Devin Mesoraco,['N/A'],['Devin Mesoraco'],['Ryan Ludwick'],Double,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Rafael Soriano,3,1,0,Brayan Pena,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,4,N/A,N/A,N/A

@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Clayton Kershaw,1,2,1,A.J. Pollock,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Clayton Kershaw,2,0,1,Chris Owings,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Clayton Kershaw,3,1,2,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Zack Greinke,1,2,3,Andrew Toles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Zack Greinke,1,4,1,Corey Seager,['Corey Seager'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Zack Greinke,2,0,0,Justin Turner,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Zack Greinke,3,2,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Clayton Kershaw,1,2,2,Yasmany Tomas,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Clayton Kershaw,2,2,2,Brandon Drury,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Clayton Kershaw,3,0,1,Daniel Descalso,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,1,2,3,Logan Forsythe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,1,2,2,Yasmani Grandal,['Yasmani Grandal'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,1,2,2,Joc Pederson,['N/A'],['Joc Pederson'],['Yasmani Grandal'],Double,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,1,4,2,Yasiel Puig,['Yasiel Puig'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,3,1,2,Clayton Kershaw,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Clayton Kershaw,1,0,3,Nick Ahmed,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Clayton Kershaw,2,1,0,Jeff Mathis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Clayton Kershaw,3,2,3,Zack Greinke,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,1,1,3,Andrew Toles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,1,2,2,Corey Seager,['Corey Seager'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,1,0,2,Justin Turner,['Justin Turner'],['Corey Seager'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,['Corey Seager'],Zack Greinke,1,2,0,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['Justin Turner'],Single,N/A,1,0,1,N/A,N/A
+3,bottom,1,['Justin Turner'],Zack Greinke,1,2,1,Logan Forsythe,['Logan Forsythe'],['N/A'],['Adrian Gonzalez'],Single,N/A,2,0,1,N/A,N/A
+3,bottom,0,[],Zack Greinke,2,1,3,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,3,0,2,Joc Pederson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,1,0,1,A.J. Pollock,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,1,0,1,Chris Owings,['Chris Owings'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,1,4,2,Paul Goldschmidt,['Paul Goldschmidt'],['Chris Owings'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,1,1,2,Yasmany Tomas,['N/A'],['Paul Goldschmidt'],['Chris Owings'],Wild Pitch,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,2,1,3,Yasmany Tomas,['N/A'],['Paul Goldschmidt'],['Chris Owings'],Strikeout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,3,1,1,Brandon Drury,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Zack Greinke,1,0,0,Yasiel Puig,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Zack Greinke,2,2,2,Clayton Kershaw,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Zack Greinke,2,2,0,Andrew Toles,['Andrew Toles'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Zack Greinke,2,4,1,Corey Seager,['Corey Seager'],['Andrew Toles'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+4,bottom,2,"['Andrew Toles', 'Corey Seager']",Zack Greinke,2,1,1,Justin Turner,['N/A'],['Justin Turner'],['N/A'],Double,N/A,4,0,2,N/A,N/A
+4,bottom,0,[],Zack Greinke,3,0,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+5,top,0,[],Clayton Kershaw,1,1,3,Daniel Descalso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+5,top,0,[],Clayton Kershaw,2,1,3,Nick Ahmed,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+5,top,0,[],Clayton Kershaw,3,1,2,Jeff Mathis,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+5,bottom,0,[],Zack Greinke,0,1,2,Logan Forsythe,['Logan Forsythe'],['N/A'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+5,bottom,0,[],Zack Greinke,0,0,0,Yasmani Grandal,['Yasmani Grandal'],['Logan Forsythe'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+5,bottom,0,[],Zack Greinke,1,3,2,Joc Pederson,['Joc Pederson'],['N/A'],['Logan Forsythe'],Forceout,N/A,4,0,N/A,N/A,N/A
+5,bottom,1,['Logan Forsythe'],Zack Greinke,2,3,2,Yasiel Puig,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,5,0,1,N/A,N/A
+5,bottom,0,[],Zack Greinke,3,0,1,Clayton Kershaw,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Clayton Kershaw,1,2,1,Chris Herrmann,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Clayton Kershaw,2,1,1,A.J. Pollock,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Clayton Kershaw,3,0,3,Chris Owings,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Tom Wilhelmsen,1,1,0,Andrew Toles,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Tom Wilhelmsen,2,1,2,Corey Seager,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Tom Wilhelmsen,3,0,1,Justin Turner,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Clayton Kershaw,1,1,1,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Clayton Kershaw,2,1,0,Yasmany Tomas,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Clayton Kershaw,3,1,3,Brandon Drury,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Randall Delgado,1,3,2,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Randall Delgado,2,2,0,Logan Forsythe,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Randall Delgado,2,4,0,Yasmani Grandal,['Yasmani Grandal'],['N/A'],['N/A'],Walk,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Randall Delgado,3,0,2,Joc Pederson,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+8,top,0,[],Clayton Kershaw,1,0,1,Daniel Descalso,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+8,top,0,[],Clayton Kershaw,1,0,2,Nick Ahmed,['Nick Ahmed'],['N/A'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+8,top,0,[],Clayton Kershaw,3,0,0,Jeff Mathis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,0,N/A,N/A,N/A
+8,bottom,0,[],Randall Delgado,0,3,2,Yasiel Puig,['Yasiel Puig'],['N/A'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+8,bottom,0,[],Randall Delgado,1,0,0,Clayton Kershaw,['N/A'],['Yasiel Puig'],['N/A'],Sac Bunt,N/A,5,0,N/A,N/A,N/A
+8,bottom,2,['Yasiel Puig'],Randall Delgado,1,3,2,Andrew Toles,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,0,2,N/A,N/A
+8,bottom,0,[],Randall Delgado,1,1,1,Corey Seager,['Corey Seager'],['N/A'],['N/A'],Single,N/A,7,0,N/A,N/A,N/A
+8,bottom,0,[],Randall Delgado,2,3,1,Justin Turner,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,0,N/A,N/A,N/A
+8,bottom,0,[],Andrew Chafin,3,1,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,0,N/A,N/A,N/A
+9,top,0,[],Clayton Kershaw,0,2,2,Chris Iannetta,['Chris Iannetta'],['N/A'],['N/A'],Single,N/A,7,0,N/A,N/A,N/A
+9,top,0,[],Clayton Kershaw,1,0,3,A.J. Pollock,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,0,N/A,N/A,N/A
+9,top,1,['Chris Iannetta'],Clayton Kershaw,1,1,2,Chris Owings,['N/A'],['Chris Owings'],['N/A'],Double,N/A,7,1,1,N/A,N/A
+9,top,0,[],Pedro Baez,1,4,2,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Walk,N/A,7,1,N/A,N/A,N/A
+9,top,0,[],Pedro Baez,2,0,3,Yasmany Tomas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+9,top,0,[],Pedro Baez,3,0,2,Brandon Drury,['N/A'],['N/A'],['N/A'],Forceout,N/A,7,1,N/A,N/A,N/A

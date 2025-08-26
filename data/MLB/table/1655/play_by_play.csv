@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Daniel Gossett,0,2,0,Zack Cozart,['Zack Cozart'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Daniel Gossett,2,2,1,Mike Trout,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Daniel Gossett,3,1,1,Justin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Shohei Ohtani,1,1,3,Marcus Semien,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Shohei Ohtani,2,3,2,Jed Lowrie,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Shohei Ohtani,3,0,3,Matt Olson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Daniel Gossett,1,1,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Daniel Gossett,2,1,2,Kole Calhoun,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Daniel Gossett,2,2,2,Andrelton Simmons,['Andrelton Simmons'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Andrelton Simmons'],Daniel Gossett,2,2,1,Luis Valbuena,['N/A'],['Luis Valbuena'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+2,top,1,['Luis Valbuena'],Daniel Gossett,2,0,0,Jefry Marte,['N/A'],['Jefry Marte'],['N/A'],Double,N/A,0,2,1,N/A,N/A
+2,top,0,[],Daniel Gossett,3,0,0,Martin Maldonado,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Shohei Ohtani,1,0,3,Khris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Shohei Ohtani,1,1,0,Matt Joyce,['Matt Joyce'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Shohei Ohtani,1,1,2,Stephen Piscotty,['Stephen Piscotty'],['Matt Joyce'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,bottom,3,"['Matt Joyce', 'Stephen Piscotty']",Shohei Ohtani,1,0,1,Matt Chapman,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,3,N/A,N/A
+2,bottom,0,[],Shohei Ohtani,2,2,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+2,bottom,0,[],Shohei Ohtani,3,0,2,Boog Powell,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Daniel Gossett,0,3,1,Zack Cozart,['Zack Cozart'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Daniel Gossett,1,2,2,Mike Trout,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Daniel Gossett,1,4,0,Justin Upton,['Justin Upton'],['Zack Cozart'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Daniel Gossett,3,1,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Double Play,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Shohei Ohtani,1,3,2,Marcus Semien,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Shohei Ohtani,2,0,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Shohei Ohtani,3,1,3,Matt Olson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Daniel Gossett,1,0,1,Kole Calhoun,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Daniel Gossett,2,1,1,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Daniel Gossett,3,3,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Shohei Ohtani,1,3,2,Khris Davis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Shohei Ohtani,1,4,1,Matt Joyce,['Matt Joyce'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Shohei Ohtani,2,2,2,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Shohei Ohtani,3,3,3,Matt Chapman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Daniel Gossett,0,3,1,Jefry Marte,['N/A'],['Jefry Marte'],['N/A'],Double,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Daniel Gossett,0,4,1,Martin Maldonado,['Martin Maldonado'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Yusmeiro Petit,1,0,0,Zack Cozart,['N/A'],['N/A'],['Jefry Marte'],Lineout,N/A,3,2,N/A,N/A,N/A
+5,top,1,['Jefry Marte'],Yusmeiro Petit,1,1,0,Mike Trout,['N/A'],['Mike Trout'],['Martin Maldonado'],Double,N/A,3,3,1,N/A,N/A
+5,top,1,['Martin Maldonado'],Yusmeiro Petit,2,3,1,Justin Upton,['N/A'],['N/A'],['Mike Trout'],Sac Fly,N/A,3,4,1,N/A,N/A
+5,top,0,[],Yusmeiro Petit,3,2,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+5,bottom,0,[],Shohei Ohtani,1,1,0,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+5,bottom,0,[],Shohei Ohtani,2,0,2,Boog Powell,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+5,bottom,0,[],Shohei Ohtani,3,2,3,Marcus Semien,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+6,top,0,[],Ryan Buchter,1,2,1,Kole Calhoun,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+6,top,0,[],Ryan Buchter,1,2,2,Andrelton Simmons,['Andrelton Simmons'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+6,top,0,[],Ryan Buchter,2,3,2,Luis Valbuena,['Luis Valbuena'],['N/A'],['N/A'],Forceout,N/A,3,4,N/A,N/A,N/A
+6,top,0,[],Ryan Buchter,2,1,2,Jefry Marte,['Jefry Marte'],['Luis Valbuena'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+6,top,0,[],Ryan Buchter,3,2,3,Martin Maldonado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Shohei Ohtani,1,1,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Shohei Ohtani,2,1,1,Matt Olson,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Shohei Ohtani,3,0,2,Khris Davis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Chris Hatcher,1,3,1,Zack Cozart,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Chris Hatcher,1,0,0,Mike Trout,['Mike Trout'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Chris Hatcher,1,1,0,Justin Upton,['Justin Upton'],['Mike Trout'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Chris Hatcher,2,2,0,Albert Pujols,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+7,top,1,['Mike Trout'],Chris Hatcher,2,2,1,Kole Calhoun,['N/A'],['Kole Calhoun'],['Justin Upton'],Single,Error,3,5,1,N/A,Boog Powell
+7,top,2,"['Justin Upton', 'Kole Calhoun']",Chris Hatcher,2,1,0,Andrelton Simmons,['Andrelton Simmons'],['N/A'],['N/A'],Single,N/A,3,7,2,N/A,N/A
+7,top,0,[],Danny Coulombe,3,3,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+7,bottom,0,[],Cam Bedrosian,1,2,0,Matt Joyce,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+7,bottom,0,[],Cam Bedrosian,1,4,2,Stephen Piscotty,['Stephen Piscotty'],['N/A'],['N/A'],Walk,N/A,3,7,N/A,N/A,N/A
+7,bottom,0,[],Cam Bedrosian,3,3,2,Matt Chapman,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,7,N/A,N/A,N/A
+8,top,0,[],Santiago Casilla,1,0,0,Jefry Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+8,top,0,[],Santiago Casilla,2,1,1,Martin Maldonado,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+8,top,0,[],Santiago Casilla,3,0,0,Zack Cozart,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Blake Wood,1,0,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Blake Wood,2,3,3,Boog Powell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Blake Wood,2,4,1,Marcus Semien,['Marcus Semien'],['N/A'],['N/A'],Walk,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Blake Wood,3,0,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+9,top,0,[],Santiago Casilla,1,0,1,Mike Trout,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+9,top,0,[],Santiago Casilla,2,0,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+9,top,0,[],Santiago Casilla,3,0,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,7,N/A,N/A,N/A
+9,bottom,0,[],Blake Parker,0,4,2,Matt Olson,['Matt Olson'],['N/A'],['N/A'],Walk,N/A,3,7,N/A,N/A,N/A
+9,bottom,0,[],Blake Parker,1,0,3,Khris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+9,bottom,0,[],Blake Parker,1,2,1,Matt Joyce,['Matt Joyce'],['Matt Olson'],['N/A'],Single,N/A,3,7,N/A,N/A,N/A
+9,bottom,1,['Matt Olson'],Blake Parker,1,2,2,Stephen Piscotty,['Stephen Piscotty'],['N/A'],['Matt Joyce'],Single,N/A,4,7,1,N/A,N/A
+9,bottom,0,[],Keynan Middleton,1,2,0,Matt Chapman,['N/A'],['Stephen Piscotty'],['N/A'],Wild Pitch,N/A,4,7,N/A,N/A,N/A
+9,bottom,0,[],Keynan Middleton,1,4,1,Matt Chapman,['Matt Chapman'],['Stephen Piscotty'],['N/A'],Walk,N/A,4,7,N/A,N/A,N/A
+9,bottom,0,[],Keynan Middleton,2,1,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,7,N/A,N/A,N/A
+9,bottom,0,[],Keynan Middleton,3,0,2,Boog Powell,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,7,N/A,N/A,N/A

@@ -1,0 +1,88 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Chad Bettis,0,1,0,Dee Gordon,['N/A'],['N/A'],['Dee Gordon'],Triple,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Dee Gordon'],Chad Bettis,0,2,1,Martin Prado,['Martin Prado'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Chad Bettis,0,1,1,Christian Yelich,['Christian Yelich'],['N/A'],['Martin Prado'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,1,['Martin Prado'],Chad Bettis,1,2,0,Giancarlo Stanton,['N/A'],['Giancarlo Stanton'],['N/A'],Forceout,Error,0,2,1,N/A,Daniel Descalso
+1,top,0,[],Chad Bettis,2,1,2,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Chad Bettis,3,3,2,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,1,[],Andrew Cashner,0,2,2,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,1,N/A,N/A
+1,bottom,0,[],Andrew Cashner,1,2,2,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+1,bottom,0,[],Andrew Cashner,1,3,1,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+1,bottom,0,[],Andrew Cashner,3,2,2,Nolan Arenado,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Chad Bettis,0,0,1,Chris Johnson,['N/A'],['Chris Johnson'],['N/A'],Double,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Chad Bettis,1,0,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Chad Bettis,1,4,2,Andrew Cashner,['Andrew Cashner'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Chad Bettis,2,1,2,Dee Gordon,['Dee Gordon'],['N/A'],['Chris Johnson'],Forceout,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Chad Bettis,3,1,1,Martin Prado,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Andrew Cashner,0,0,0,David Dahl,['N/A'],['N/A'],['David Dahl'],Triple,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Andrew Cashner,1,1,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+2,bottom,1,['David Dahl'],Andrew Cashner,2,0,1,Daniel Descalso,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,1,N/A,N/A
+2,bottom,0,[],Andrew Cashner,3,0,0,Nick Hundley,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Chad Bettis,0,3,2,Christian Yelich,['Christian Yelich'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Chad Bettis,1,3,0,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Chad Bettis,2,1,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Chad Bettis,3,1,0,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Andrew Cashner,1,3,3,Chad Bettis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Andrew Cashner,2,0,1,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Andrew Cashner,3,0,3,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Chad Bettis,1,3,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Chad Bettis,1,3,2,Adeiny Hechavarria,['Adeiny Hechavarria'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Chad Bettis,2,0,2,Andrew Cashner,['N/A'],['Adeiny Hechavarria'],['N/A'],Sac Bunt,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Chad Bettis,3,2,3,Dee Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Andrew Cashner,1,0,2,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Andrew Cashner,2,0,3,Nolan Arenado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Andrew Cashner,3,0,3,David Dahl,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Chad Bettis,1,1,1,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Chad Bettis,2,2,2,Christian Yelich,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,1,[],Chad Bettis,2,0,0,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,3,1,N/A,N/A
+5,top,0,[],Chad Bettis,2,4,2,Marcell Ozuna,['Marcell Ozuna'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Chad Bettis,3,2,0,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Andrew Cashner,1,0,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Andrew Cashner,1,0,2,Daniel Descalso,['Daniel Descalso'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Andrew Cashner,3,3,1,Nick Hundley,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Chad Bettis,1,1,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Chad Bettis,2,0,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Chad Bettis,3,1,0,Andrew Cashner,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+6,bottom,0,[],Andrew Cashner,0,1,0,Cristhian Adames,['Cristhian Adames'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+6,bottom,1,['Cristhian Adames'],Andrew Cashner,0,1,2,Charlie Blackmon,['N/A'],['N/A'],['Charlie Blackmon'],Triple,N/A,3,3,1,N/A,N/A
+6,bottom,1,['Charlie Blackmon'],Andrew Cashner,0,2,0,DJ LeMahieu,['DJ LeMahieu'],['N/A'],['N/A'],Single,N/A,4,3,1,N/A,N/A
+6,bottom,1,['DJ LeMahieu'],Andrew Cashner,0,3,1,Carlos Gonzalez,['N/A'],['Carlos Gonzalez'],['N/A'],Double,N/A,5,3,1,N/A,N/A
+6,bottom,0,[],Andrew Cashner,0,4,1,Nolan Arenado,['Nolan Arenado'],['N/A'],['N/A'],Walk,N/A,5,3,N/A,N/A,N/A
+6,bottom,1,['Carlos Gonzalez'],Mike Dunn,0,3,1,David Dahl,['David Dahl'],['Nolan Arenado'],['N/A'],Single,N/A,6,3,1,N/A,N/A
+6,bottom,0,[],Mike Dunn,1,1,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+6,bottom,0,[],Mike Dunn,2,1,3,Daniel Descalso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+6,bottom,1,['Nolan Arenado'],Mike Dunn,2,2,2,Nick Hundley,['Nick Hundley'],['N/A'],['David Dahl'],Single,N/A,7,3,1,N/A,N/A
+6,bottom,0,[],Mike Dunn,2,4,2,Cristhian Adames,['Cristhian Adames'],['Nick Hundley'],['N/A'],Walk,N/A,7,3,N/A,N/A,N/A
+6,bottom,2,"['David Dahl', 'Nick Hundley']",Mike Dunn,2,0,1,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['Cristhian Adames'],Single,N/A,9,3,2,N/A,N/A
+6,bottom,0,[],Nefi Ogando,2,4,1,DJ LeMahieu,['DJ LeMahieu'],['Charlie Blackmon'],['N/A'],Walk,N/A,9,3,N/A,N/A,N/A
+6,bottom,0,[],Nefi Ogando,3,0,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,3,N/A,N/A,N/A
+7,top,0,[],Jake McGee,1,1,2,Dee Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,3,N/A,N/A,N/A
+7,top,0,[],Jake McGee,2,1,2,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,3,N/A,N/A,N/A
+7,top,0,[],Jake McGee,3,2,3,Christian Yelich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,3,N/A,N/A,N/A
+7,bottom,0,[],Nefi Ogando,1,0,2,Nolan Arenado,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,3,N/A,N/A,N/A
+7,bottom,0,[],Nefi Ogando,1,1,0,David Dahl,['David Dahl'],['N/A'],['N/A'],Single,N/A,9,3,N/A,N/A,N/A
+7,bottom,0,[],Nefi Ogando,1,1,0,Mark Reynolds,['Mark Reynolds'],['David Dahl'],['N/A'],Single,N/A,9,3,N/A,N/A,N/A
+7,bottom,2,"['David Dahl', 'Mark Reynolds']",Nefi Ogando,1,2,0,Daniel Descalso,['N/A'],['Daniel Descalso'],['N/A'],Double,N/A,11,3,2,N/A,N/A
+7,bottom,0,[],Nefi Ogando,2,2,3,Nick Hundley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,3,N/A,N/A,N/A
+7,bottom,1,['Daniel Descalso'],Nefi Ogando,2,1,2,Ryan Raburn,['Ryan Raburn'],['N/A'],['N/A'],Single,N/A,12,3,1,N/A,N/A
+7,bottom,0,[],Nefi Ogando,2,0,1,Charlie Blackmon,['Charlie Blackmon'],['Ryan Raburn'],['N/A'],Single,N/A,12,3,N/A,N/A,N/A
+7,bottom,0,[],Nefi Ogando,2,4,1,DJ LeMahieu,['DJ LeMahieu'],['Charlie Blackmon'],['Ryan Raburn'],Walk,N/A,12,3,N/A,N/A,N/A
+7,bottom,0,[],Nefi Ogando,3,3,2,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,12,3,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,0,2,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,12,3,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,1,2,1,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Lineout,N/A,12,3,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,1,3,2,J.T. Realmuto,['N/A'],['J.T. Realmuto'],['Ichiro Suzuki'],Double,N/A,12,3,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,2,1,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,12,3,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,2,4,0,Miguel Rojas,['Miguel Rojas'],['N/A'],['N/A'],Walk,N/A,12,3,N/A,N/A,N/A
+8,top,1,['Ichiro Suzuki'],Jordan Lyles,2,2,2,Derek Dietrich,['Derek Dietrich'],['Miguel Rojas'],['J.T. Realmuto'],Hit By Pitch,N/A,12,4,1,N/A,N/A
+8,top,1,['J.T. Realmuto'],Scott Oberg,2,4,1,Dee Gordon,['Dee Gordon'],['Derek Dietrich'],['Miguel Rojas'],Walk,N/A,12,5,1,N/A,N/A
+8,top,0,[],Scott Oberg,3,0,1,Martin Prado,['N/A'],['N/A'],['N/A'],Forceout,N/A,12,5,N/A,N/A,N/A
+8,bottom,0,[],Dustin McGowan,1,2,3,Nolan Arenado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,12,5,N/A,N/A,N/A
+8,bottom,0,[],Dustin McGowan,1,0,3,David Dahl,['David Dahl'],['N/A'],['N/A'],Strikeout,N/A,12,5,N/A,N/A,N/A
+8,bottom,0,[],Dustin McGowan,1,0,0,Mark Reynolds,['Mark Reynolds'],['David Dahl'],['N/A'],Single,N/A,12,5,N/A,N/A,N/A
+8,bottom,0,[],Dustin McGowan,2,3,1,Daniel Descalso,['Daniel Descalso'],['N/A'],['David Dahl'],Forceout,N/A,12,5,N/A,N/A,N/A
+8,bottom,0,[],Dustin McGowan,3,1,3,Nick Hundley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,12,5,N/A,N/A,N/A
+9,top,0,[],Scott Oberg,0,4,1,Christian Yelich,['Christian Yelich'],['N/A'],['N/A'],Walk,N/A,12,5,N/A,N/A,N/A
+9,top,0,[],Scott Oberg,1,1,0,Ichiro Suzuki,['N/A'],['Christian Yelich'],['N/A'],Groundout,N/A,12,5,N/A,N/A,N/A
+9,top,0,[],Scott Oberg,2,0,1,Marcell Ozuna,['N/A'],['N/A'],['Christian Yelich'],Groundout,N/A,12,5,N/A,N/A,N/A
+9,top,1,['Christian Yelich'],Scott Oberg,2,0,0,J.T. Realmuto,['N/A'],['J.T. Realmuto'],['N/A'],Double,N/A,12,6,1,N/A,N/A
+9,top,0,[],Scott Oberg,3,2,0,Chris Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,12,6,N/A,N/A,N/A

@@ -1,0 +1,73 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jeremy Hefner,1,2,2,A.J. Pollock,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jeremy Hefner,2,0,1,Aaron Hill,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jeremy Hefner,3,0,3,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Patrick Corbin,1,0,1,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Patrick Corbin,2,1,0,Juan Lagares,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Patrick Corbin,3,1,0,David Wright,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jeremy Hefner,1,3,2,Miguel Montero,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jeremy Hefner,2,0,3,Cody Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jeremy Hefner,2,2,0,Jason Kubel,['Jason Kubel'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jeremy Hefner,2,1,0,Martin Prado,['N/A'],['Martin Prado'],['Jason Kubel'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jeremy Hefner,2,4,0,Didi Gregorius,['Didi Gregorius'],['N/A'],['N/A'],Intent Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jeremy Hefner,3,2,3,Patrick Corbin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Patrick Corbin,1,1,3,Marlon Byrd,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Patrick Corbin,2,3,2,Josh Satin,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Patrick Corbin,2,2,1,Andrew Brown,['Andrew Brown'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Patrick Corbin,3,0,1,Anthony Recker,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jeremy Hefner,1,0,0,A.J. Pollock,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jeremy Hefner,2,1,2,Aaron Hill,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jeremy Hefner,3,0,1,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Patrick Corbin,1,2,0,Omar Quintanilla,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Patrick Corbin,2,0,3,Jeremy Hefner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Patrick Corbin,3,2,2,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Jeremy Hefner,1,0,1,Miguel Montero,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Jeremy Hefner,2,2,3,Cody Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Jeremy Hefner,2,4,2,Jason Kubel,['Jason Kubel'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Jeremy Hefner,3,3,1,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Patrick Corbin,1,0,1,Juan Lagares,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Patrick Corbin,2,1,1,David Wright,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Patrick Corbin,3,0,0,Marlon Byrd,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Jeremy Hefner,1,1,2,Didi Gregorius,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Jeremy Hefner,2,0,0,Patrick Corbin,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Jeremy Hefner,3,2,3,A.J. Pollock,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Patrick Corbin,1,2,3,Josh Satin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Patrick Corbin,2,2,1,Andrew Brown,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,bottom,1,[],Patrick Corbin,2,2,1,Anthony Recker,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+5,bottom,0,[],Patrick Corbin,3,0,0,Omar Quintanilla,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jeremy Hefner,1,1,2,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jeremy Hefner,2,0,0,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jeremy Hefner,2,2,1,Miguel Montero,['N/A'],['Miguel Montero'],['N/A'],Double,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jeremy Hefner,3,1,1,Cody Ross,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Patrick Corbin,1,1,3,Jeremy Hefner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Patrick Corbin,2,1,1,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Patrick Corbin,3,2,1,Juan Lagares,['N/A'],['N/A'],['N/A'],Double,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Jeremy Hefner,1,2,2,Jason Kubel,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+7,top,1,[],Jeremy Hefner,1,0,1,Martin Prado,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+7,top,0,[],Jeremy Hefner,2,1,1,Didi Gregorius,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Jeremy Hefner,3,0,3,Patrick Corbin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Patrick Corbin,0,3,2,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Patrick Corbin,0,0,0,Marlon Byrd,['N/A'],['Marlon Byrd'],['David Wright'],Double,N/A,1,1,N/A,N/A,N/A
+7,bottom,1,['David Wright'],Patrick Corbin,0,1,0,Josh Satin,['N/A'],['Josh Satin'],['Marlon Byrd'],Double,N/A,2,1,1,N/A,N/A
+7,bottom,0,[],Patrick Corbin,0,4,2,Andrew Brown,['Andrew Brown'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+7,bottom,1,['Marlon Byrd'],Brad Ziegler,0,2,0,Anthony Recker,['Anthony Recker'],['Andrew Brown'],['Josh Satin'],Single,N/A,3,1,1,N/A,N/A
+7,bottom,2,"['Josh Satin', 'Andrew Brown']",Brad Ziegler,0,2,1,Omar Quintanilla,['Omar Quintanilla'],['N/A'],['Anthony Recker'],Single,N/A,5,1,2,N/A,N/A
+7,bottom,0,[],Brad Ziegler,1,2,1,Daniel Murphy,['Daniel Murphy'],['Omar Quintanilla'],['N/A'],Fielders Choice Out,N/A,5,1,N/A,N/A,N/A
+7,bottom,2,"['Omar Quintanilla', 'Daniel Murphy']",Brad Ziegler,1,0,0,Eric Young Jr.,['N/A'],['Eric Young Jr.'],['N/A'],Double,N/A,7,1,2,N/A,N/A
+7,bottom,1,['Eric Young Jr.'],Will Harris,1,0,1,Juan Lagares,['Juan Lagares'],['N/A'],['N/A'],Single,N/A,8,1,1,N/A,N/A
+7,bottom,0,[],Will Harris,2,3,2,David Wright,['David Wright'],['N/A'],['N/A'],Forceout,N/A,8,1,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,3,0,2,Marlon Byrd,['N/A'],['N/A'],['N/A'],Forceout,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],LaTroy Hawkins,1,0,1,A.J. Pollock,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],LaTroy Hawkins,2,0,1,Aaron Hill,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],LaTroy Hawkins,2,1,1,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Single,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],LaTroy Hawkins,3,3,2,Miguel Montero,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,1,N/A,N/A,N/A
+8,bottom,0,[],Chaz Roe,0,4,2,Josh Satin,['Josh Satin'],['N/A'],['N/A'],Walk,N/A,8,1,N/A,N/A,N/A
+8,bottom,0,[],Chaz Roe,0,1,1,Kirk Nieuwenhuis,['Kirk Nieuwenhuis'],['Josh Satin'],['N/A'],Single,N/A,8,1,N/A,N/A,N/A
+8,bottom,0,[],Chaz Roe,2,1,1,Anthony Recker,['N/A'],['N/A'],['Josh Satin'],Grounded Into DP,N/A,8,1,N/A,N/A,N/A
+8,bottom,1,['Josh Satin'],Chaz Roe,2,0,1,Omar Quintanilla,['Omar Quintanilla'],['N/A'],['N/A'],Single,N/A,9,1,1,N/A,N/A
+8,bottom,0,[],Chaz Roe,3,1,0,Daniel Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Brandon Lyon,1,0,0,Cody Ross,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Brandon Lyon,1,4,2,Jason Kubel,['Jason Kubel'],['N/A'],['N/A'],Walk,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Brandon Lyon,1,0,0,Martin Prado,['Martin Prado'],['Jason Kubel'],['N/A'],Single,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Brandon Lyon,2,0,3,Didi Gregorius,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Brandon Lyon,3,0,0,Eric Chavez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,9,1,N/A,N/A,N/A

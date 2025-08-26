@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Scott Baker,0,2,2,Derek Jeter,['Derek Jeter'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Scott Baker,1,1,3,Johnny Damon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Scott Baker,1,0,1,Mark Teixeira,['Mark Teixeira'],['N/A'],['Derek Jeter'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Scott Baker,2,0,1,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Derek Jeter'],Scott Baker,2,2,1,Hideki Matsui,['Hideki Matsui'],['Mark Teixeira'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Scott Baker,3,1,3,Nick Swisher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,1,3,2,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,2,2,3,Brendan Harris,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,3,2,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,0,1,2,Robinson Cano,['N/A'],['Robinson Cano'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,0,0,2,Brett Gardner,['Brett Gardner'],['N/A'],['Robinson Cano'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,['Robinson Cano'],Scott Baker,1,2,1,Francisco Cervelli,['N/A'],['Brett Gardner'],['N/A'],Sac Fly,N/A,0,2,1,N/A,N/A
+2,top,0,[],Scott Baker,2,2,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,2,0,1,Johnny Damon,['Johnny Damon'],['N/A'],['Brett Gardner'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,['Brett Gardner'],Scott Baker,2,1,2,Mark Teixeira,['Mark Teixeira'],['N/A'],['Johnny Damon'],Single,N/A,0,3,1,N/A,N/A
+2,top,0,[],Scott Baker,3,1,3,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],CC Sabathia,1,1,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,[],CC Sabathia,1,2,0,Michael Cuddyer,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+2,bottom,0,[],CC Sabathia,2,0,2,Joe Crede,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],CC Sabathia,3,1,3,Delmon Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,1,2,1,Hideki Matsui,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,1,0,0,Nick Swisher,['Nick Swisher'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,2,3,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,3,1,3,Brett Gardner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,1,0,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,1,4,0,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,2,1,1,Denard Span,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,3,0,0,Brendan Harris,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,0,1,1,Francisco Cervelli,['Francisco Cervelli'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,0,4,0,Derek Jeter,['Derek Jeter'],['Francisco Cervelli'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,0,4,0,Johnny Damon,['Johnny Damon'],['Derek Jeter'],['Francisco Cervelli'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Duensing,1,1,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,['Francisco Cervelli'],Brian Duensing,2,0,0,Alex Rodriguez,['N/A'],['N/A'],['Derek Jeter'],Sac Fly,N/A,1,4,1,N/A,N/A
+4,top,0,[],Brian Duensing,2,4,2,Hideki Matsui,['Hideki Matsui'],['Johnny Damon'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,['Derek Jeter'],Brian Duensing,2,4,1,Nick Swisher,['Nick Swisher'],['Hideki Matsui'],['Johnny Damon'],Walk,N/A,1,5,1,N/A,N/A
+4,top,0,[],Brian Duensing,3,2,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,1,2,3,Joe Mauer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,2,1,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,3,0,0,Michael Cuddyer,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Duensing,1,2,1,Brett Gardner,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Duensing,2,0,0,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Duensing,3,2,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,1,1,1,Joe Crede,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,1,2,2,Delmon Young,['Delmon Young'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,2,2,2,Carlos Gomez,['N/A'],['Delmon Young'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,3,1,2,Nick Punto,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Duensing,1,0,3,Johnny Damon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Duensing,1,1,2,Mark Teixeira,['Mark Teixeira'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Duensing,1,4,1,Alex Rodriguez,['Alex Rodriguez'],['Mark Teixeira'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Duensing,2,0,1,Hideki Matsui,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Duensing,2,4,0,Nick Swisher,['Nick Swisher'],['Alex Rodriguez'],['Mark Teixeira'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,2,"['Mark Teixeira', 'Alex Rodriguez']",Brian Duensing,2,1,0,Robinson Cano,['Robinson Cano'],['N/A'],['Nick Swisher'],Single,N/A,1,7,2,N/A,N/A
+6,top,2,"['Nick Swisher', 'Robinson Cano']",R.A. Dickey,2,1,1,Brett Gardner,['N/A'],['N/A'],['Brett Gardner'],Triple,N/A,1,9,2,N/A,N/A
+6,top,1,['Brett Gardner'],R.A. Dickey,2,1,2,Francisco Cervelli,['N/A'],['Francisco Cervelli'],['N/A'],Double,N/A,1,10,1,N/A,N/A
+6,top,0,[],R.A. Dickey,3,2,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,0,0,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,1,3,2,Brendan Harris,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,2,0,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,3,0,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],R.A. Dickey,1,2,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],R.A. Dickey,2,2,2,Mark Teixeira,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],R.A. Dickey,2,0,2,Alex Rodriguez,['Alex Rodriguez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],N/A,2,2,1,Hideki Matsui,['N/A'],['Alex Rodriguez'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],R.A. Dickey,2,4,1,Hideki Matsui,['Hideki Matsui'],['Alex Rodriguez'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],R.A. Dickey,3,2,3,Nick Swisher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],CC Sabathia,1,1,0,Michael Cuddyer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],CC Sabathia,2,2,2,Joe Crede,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],CC Sabathia,3,1,2,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],R.A. Dickey,1,3,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],R.A. Dickey,1,0,0,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],R.A. Dickey,2,1,0,Francisco Cervelli,['N/A'],['Brett Gardner'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],R.A. Dickey,3,0,0,Cody Ransom,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Brett Tomko,1,1,1,Carlos Gomez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Brett Tomko,1,4,1,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Brett Tomko,2,1,1,Denard Span,['N/A'],['Nick Punto'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Nick Punto'],Brett Tomko,2,1,2,Brendan Harris,['Brendan Harris'],['N/A'],['N/A'],Single,N/A,2,10,1,N/A,N/A
+8,bottom,0,[],Brett Tomko,3,0,1,Jose Morales,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],R.A. Dickey,1,0,0,Melky Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],R.A. Dickey,1,3,1,Mark Teixeira,['Mark Teixeira'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],R.A. Dickey,3,2,0,Eric Hinske,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brett Tomko,1,2,0,Matt Tolbert,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brett Tomko,2,2,1,Michael Cuddyer,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brett Tomko,3,0,2,Joe Crede,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A

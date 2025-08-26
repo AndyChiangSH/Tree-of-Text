@@ -1,0 +1,89 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Doug Fister,0,0,1,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Doug Fister,1,0,1,Daric Barton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Doug Fister,1,0,1,Mark Ellis,['Mark Ellis'],['N/A'],['Rajai Davis'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Doug Fister,3,1,0,Jack Cust,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,0,1,0,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,2,1,2,Chone Figgins,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,3,2,1,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Doug Fister,1,3,2,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Doug Fister,1,0,1,Kevin Kouzmanoff,['Kevin Kouzmanoff'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Doug Fister,3,2,1,Jeremy Hermida,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,0,0,1,Justin Smoak,['N/A'],['Justin Smoak'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,1,0,3,Adam Moore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,2,2,3,Matt Mangini,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,3,1,0,Greg Halman,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Doug Fister,0,0,0,Chris Carter,['Chris Carter'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Doug Fister,1,1,1,Cliff Pennington,['N/A'],['Chris Carter'],['N/A'],Lineout,Error,0,0,N/A,N/A,Josh Wilson
+3,top,0,[],Doug Fister,2,0,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Doug Fister,3,2,1,Daric Barton,['N/A'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,1,2,1,Michael Saunders,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,1,0,1,Josh Wilson,['Josh Wilson'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,2,2,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,2,4,2,Chone Figgins,['Chone Figgins'],['Ichiro Suzuki'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,3,1,3,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Doug Fister,1,1,0,Mark Ellis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Doug Fister,1,0,1,Jack Cust,['Jack Cust'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Doug Fister,2,1,2,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Doug Fister,3,0,0,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,0,4,0,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,0,4,1,Adam Moore,['Adam Moore'],['Justin Smoak'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,1,0,0,Matt Mangini,['N/A'],['Adam Moore'],['Justin Smoak'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,2,0,3,Greg Halman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,2,4,2,Michael Saunders,['Michael Saunders'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,3,0,2,Josh Wilson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Doug Fister,0,1,2,Jeremy Hermida,['Jeremy Hermida'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Doug Fister,1,3,1,Chris Carter,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Doug Fister,2,0,0,Cliff Pennington,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Doug Fister,2,0,0,Rajai Davis,['Rajai Davis'],['Jeremy Hermida'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Doug Fister,2,2,2,Daric Barton,['Daric Barton'],['Rajai Davis'],['Jeremy Hermida'],Single,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],N/A,2,2,2,Mark Ellis,['N/A'],['N/A'],['N/A'],Balk,N/A,0,1,N/A,N/A,N/A
+5,top,1,['Rajai Davis'],Doug Fister,2,3,2,Mark Ellis,['Mark Ellis'],['Daric Barton'],"['Rajai Davis', 'Daric Barton']",Single,N/A,0,2,1,N/A,N/A
+5,top,0,[],N/A,2,0,2,Jack Cust,['N/A'],['Mark Ellis'],['N/A'],Stolen Base 2B,N/A,0,2,N/A,N/A,N/A
+5,top,2,"['Daric Barton', 'Mark Ellis']",Doug Fister,2,1,2,Jack Cust,['Jack Cust'],['Mark Ellis'],['N/A'],Single,N/A,0,4,2,N/A,N/A
+5,top,0,[],Doug Fister,3,1,0,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,1,1,0,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,2,3,3,Chone Figgins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,3,0,1,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Doug Fister,0,0,0,Kevin Kouzmanoff,['Kevin Kouzmanoff'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Doug Fister,1,2,2,Jeremy Hermida,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+6,top,2,['Kevin Kouzmanoff'],Doug Fister,1,1,0,Chris Carter,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,6,2,N/A,N/A
+6,top,0,[],Brian Sweeney,1,4,2,Cliff Pennington,['Cliff Pennington'],['N/A'],['N/A'],Walk,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Brian Sweeney,1,1,2,Rajai Davis,['Rajai Davis'],['N/A'],['Cliff Pennington'],Single,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Brian Sweeney,2,0,0,Daric Barton,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,6,N/A,N/A,N/A
+6,top,1,['Cliff Pennington'],N/A,2,1,0,Mark Ellis,['N/A'],['Rajai Davis'],['Rajai Davis'],Stolen Base 2B,Error,0,7,N/A,N/A,Adam Moore
+6,top,0,[],Brian Sweeney,3,3,2,Mark Ellis,['N/A'],['N/A'],['Rajai Davis'],Groundout,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,0,4,1,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,1,1,3,Adam Moore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,1,0,2,Matt Mangini,['Matt Mangini'],['Justin Smoak'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,2,1,3,Greg Halman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,3,1,3,Michael Saunders,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+7,top,0,[],Brian Sweeney,1,1,1,Jack Cust,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+7,top,0,[],Brian Sweeney,2,0,0,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+7,top,0,[],Brian Sweeney,3,1,0,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+7,bottom,0,[],Gio Gonzalez,1,3,2,Josh Wilson,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,7,N/A,N/A,N/A
+7,bottom,0,[],Gio Gonzalez,1,0,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Field Error,N/A,0,7,N/A,N/A,Cliff Pennington
+7,bottom,0,[],Gio Gonzalez,2,0,1,Chone Figgins,['N/A'],['Ichiro Suzuki'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+7,bottom,0,[],Gio Gonzalez,3,3,1,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,7,N/A,N/A,N/A
+8,top,0,[],Anthony Varvaro,1,1,0,Jeremy Hermida,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,7,N/A,N/A,N/A
+8,top,0,[],Anthony Varvaro,2,0,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+8,top,1,[],Anthony Varvaro,2,3,2,Cliff Pennington,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,8,1,N/A,N/A
+8,top,0,[],Anthony Varvaro,2,1,1,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Single,N/A,0,8,N/A,N/A,N/A
+8,top,0,[],Anthony Varvaro,2,4,1,Daric Barton,['Daric Barton'],['Rajai Davis'],['N/A'],Walk,N/A,0,8,N/A,N/A,N/A
+8,top,0,[],Anthony Varvaro,2,1,1,Mark Ellis,['N/A'],['N/A'],['Rajai Davis'],Wild Pitch,N/A,0,8,N/A,N/A,N/A
+8,top,0,[],Anthony Varvaro,3,1,1,Mark Ellis,['N/A'],['N/A'],['Rajai Davis'],Flyout,N/A,0,8,N/A,N/A,N/A
+8,bottom,0,[],Vin Mazzaro,0,0,0,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Single,N/A,0,8,N/A,N/A,N/A
+8,bottom,0,[],Vin Mazzaro,0,1,1,Adam Moore,['N/A'],['Justin Smoak'],['N/A'],Wild Pitch,N/A,0,8,N/A,N/A,N/A
+8,bottom,0,[],Vin Mazzaro,0,4,1,Adam Moore,['Adam Moore'],['Justin Smoak'],['N/A'],Walk,N/A,0,8,N/A,N/A,N/A
+8,bottom,0,[],Vin Mazzaro,1,0,0,Matt Mangini,['Matt Mangini'],['N/A'],['Justin Smoak'],Forceout,N/A,0,8,N/A,N/A,N/A
+8,bottom,1,['Justin Smoak'],Vin Mazzaro,2,2,2,Greg Halman,['Greg Halman'],['N/A'],['N/A'],Forceout,N/A,1,8,1,N/A,N/A
+8,bottom,0,[],Vin Mazzaro,3,1,1,Michael Saunders,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,8,N/A,N/A,N/A
+9,top,0,[],Anthony Varvaro,0,4,2,Jack Cust,['Jack Cust'],['N/A'],['N/A'],Walk,N/A,1,8,N/A,N/A,N/A
+9,top,0,[],Anthony Varvaro,1,1,0,Kurt Suzuki,['Kurt Suzuki'],['N/A'],['N/A'],Forceout,N/A,1,8,N/A,N/A,N/A
+9,top,0,[],Anthony Varvaro,2,0,3,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+9,top,0,[],Anthony Varvaro,3,0,1,Jeremy Hermida,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,8,N/A,N/A,N/A
+9,bottom,0,[],Vin Mazzaro,1,1,2,Josh Wilson,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,8,N/A,N/A,N/A
+9,bottom,0,[],Vin Mazzaro,1,1,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,1,8,N/A,N/A,N/A
+9,bottom,0,[],Vin Mazzaro,2,1,0,Chone Figgins,['Chone Figgins'],['N/A'],['N/A'],Forceout,N/A,1,8,N/A,N/A,N/A
+9,bottom,0,[],Vin Mazzaro,2,2,2,Franklin Gutierrez,['N/A'],['Chone Figgins'],['N/A'],Wild Pitch,N/A,1,8,N/A,N/A,N/A
+9,bottom,0,[],Vin Mazzaro,3,2,2,Franklin Gutierrez,['N/A'],['Chone Figgins'],['N/A'],Flyout,N/A,1,8,N/A,N/A,N/A

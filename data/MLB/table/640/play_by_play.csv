@@ -1,0 +1,96 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Stephen Strasburg,1,3,2,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Stephen Strasburg,2,1,0,Omar Infante,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Stephen Strasburg,3,0,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Volstad,1,0,0,Ian Desmond,['N/A'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Volstad,2,2,1,Roger Bernadina,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Volstad,3,0,2,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Stephen Strasburg,0,1,1,Logan Morrison,['Logan Morrison'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Stephen Strasburg,1,1,0,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Stephen Strasburg,2,1,1,Bryan Petersen,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Stephen Strasburg,2,0,2,John Buck,['John Buck'],['Logan Morrison'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Stephen Strasburg,3,3,1,Matt Dominguez,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Volstad,1,0,1,Michael Morse,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Volstad,1,1,2,Jayson Werth,['Jayson Werth'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Volstad,1,0,0,Danny Espinosa,['Danny Espinosa'],['Jayson Werth'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Volstad,2,0,1,Chris Marrero,['N/A'],['Danny Espinosa'],['Jayson Werth'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Volstad,2,4,0,Wilson Ramos,['Wilson Ramos'],['N/A'],['N/A'],Intent Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Volstad,3,0,3,Stephen Strasburg,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Stephen Strasburg,0,0,1,Chris Volstad,['N/A'],['Chris Volstad'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Stephen Strasburg,1,0,0,Emilio Bonifacio,['N/A'],['N/A'],['Chris Volstad'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+3,top,1,['Chris Volstad'],Stephen Strasburg,2,0,1,Omar Infante,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,1,1,N/A,N/A
+3,top,0,[],Stephen Strasburg,3,0,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Volstad,0,4,1,Ian Desmond,['Ian Desmond'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Volstad,1,0,2,Roger Bernadina,['Roger Bernadina'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Volstad,3,0,0,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Stephen Strasburg,1,1,2,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Stephen Strasburg,2,0,0,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Stephen Strasburg,3,1,3,Bryan Petersen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Volstad,0,1,0,Michael Morse,['Michael Morse'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Volstad,1,3,2,Jayson Werth,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Volstad,2,2,3,Danny Espinosa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Volstad,3,2,1,Chris Marrero,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Stephen Strasburg,0,0,0,John Buck,['John Buck'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Stephen Strasburg,2,0,0,Matt Dominguez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Stephen Strasburg,3,1,1,Chris Volstad,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,bottom,1,[],Chris Volstad,0,0,0,Wilson Ramos,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+5,bottom,0,[],Chris Volstad,1,0,0,Stephen Strasburg,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Chris Volstad,2,0,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Chris Volstad,3,2,2,Roger Bernadina,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Stephen Strasburg,1,2,1,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Stephen Strasburg,2,1,1,Omar Infante,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Stephen Strasburg,3,0,0,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Volstad,1,2,2,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Volstad,1,0,0,Michael Morse,['N/A'],['Michael Morse'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Volstad,2,1,3,Jayson Werth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Volstad,3,0,1,Danny Espinosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Henry Alberto Rodriguez,1,2,0,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Henry Alberto Rodriguez,2,0,1,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Henry Alberto Rodriguez,3,2,2,Bryan Petersen,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Chris Volstad,1,0,1,Chris Marrero,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Chris Volstad,2,1,0,Wilson Ramos,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Chris Volstad,3,2,2,Laynce Nix,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Todd Coffey,1,3,1,John Buck,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Todd Coffey,2,1,0,Greg Dobbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Todd Coffey,2,0,1,John Baker,['John Baker'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Todd Coffey,3,2,0,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Edward Mujica,1,1,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Edward Mujica,2,0,1,Roger Bernadina,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Edward Mujica,3,0,1,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Drew Storen,1,3,2,Omar Infante,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Drew Storen,2,2,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Drew Storen,3,2,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Edward Mujica,1,1,3,Michael Morse,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Edward Mujica,2,1,0,Jayson Werth,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Edward Mujica,3,1,2,Danny Espinosa,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Sean Burnett,0,0,2,Gaby Sanchez,['Gaby Sanchez'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Sean Burnett,1,0,1,Bryan Petersen,['N/A'],['Gaby Sanchez'],['N/A'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Sean Burnett,2,0,0,John Buck,['N/A'],['N/A'],['Gaby Sanchez'],Groundout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Sean Burnett,3,2,2,Greg Dobbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Steve Cishek,1,1,3,Chris Marrero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Steve Cishek,2,0,1,Wilson Ramos,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Steve Cishek,3,1,1,Rick Ankiel,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Collin Balester,1,1,1,Donnie Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Collin Balester,1,3,2,Emilio Bonifacio,['Emilio Bonifacio'],['N/A'],['N/A'],Field Error,N/A,1,1,N/A,N/A,Danny Espinosa
+11,top,0,[],Collin Balester,2,1,0,Omar Infante,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Collin Balester,3,0,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Steve Cishek,0,1,0,Ian Desmond,['N/A'],['Ian Desmond'],['N/A'],Field Error,N/A,1,1,N/A,N/A,Steve Cishek
+11,bottom,0,[],Steve Cishek,1,0,0,Roger Bernadina,['N/A'],['N/A'],['Ian Desmond'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Steve Cishek,1,4,0,Ryan Zimmerman,['Ryan Zimmerman'],['N/A'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Steve Cishek,3,0,0,Michael Morse,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+12,top,0,[],Collin Balester,1,1,3,Jose Lopez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+12,top,0,[],Collin Balester,2,0,3,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+12,top,0,[],Collin Balester,3,3,2,Bryan Petersen,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+12,bottom,0,[],Clay Hensley,1,2,3,Jayson Werth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+12,bottom,0,[],Clay Hensley,2,2,3,Danny Espinosa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+12,bottom,0,[],Clay Hensley,3,2,3,Chris Marrero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+13,top,0,[],Collin Balester,0,1,0,John Buck,['John Buck'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+13,top,0,[],Collin Balester,1,1,3,Greg Dobbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+13,top,2,['Brett Hayes'],Collin Balester,1,1,1,Donnie Murphy,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,2,N/A,N/A
+13,top,0,[],Collin Balester,2,3,3,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+13,top,0,[],Collin Balester,2,0,0,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+13,top,1,['Omar Infante'],Collin Balester,2,2,0,Giancarlo Stanton,['N/A'],['Giancarlo Stanton'],['N/A'],Double,N/A,1,4,1,N/A,N/A
+13,top,0,[],Collin Balester,3,1,2,Vinny Rottino,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+13,bottom,0,[],Juan Carlos Oviedo,1,1,1,Wilson Ramos,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,4,N/A,N/A,N/A
+13,bottom,0,[],Juan Carlos Oviedo,2,1,1,Alex Cora,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+13,bottom,0,[],Juan Carlos Oviedo,3,1,2,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A

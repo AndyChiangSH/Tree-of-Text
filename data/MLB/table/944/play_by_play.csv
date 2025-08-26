@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Brad Hand,1,1,2,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brad Hand,2,0,1,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brad Hand,2,2,1,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brad Hand,3,1,0,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Cole Hamels,0,1,2,Donovan Solano,['Donovan Solano'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Cole Hamels,1,0,1,Ed Lucas,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Cole Hamels,2,0,1,Christian Yelich,['N/A'],['Donovan Solano'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Cole Hamels,3,2,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Hand,0,1,0,Domonic Brown,['Domonic Brown'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Hand,1,0,3,Darin Ruf,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Hand,1,4,0,Kevin Frandsen,['Kevin Frandsen'],['Domonic Brown'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Hand,2,1,0,Freddy Galvis,['Freddy Galvis'],['N/A'],['Domonic Brown'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Hand,3,0,0,Cole Hamels,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Cole Hamels,0,4,2,Justin Ruggiano,['Justin Ruggiano'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Cole Hamels,0,3,2,Placido Polanco,['Placido Polanco'],['Justin Ruggiano'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,2,"['Justin Ruggiano', 'Placido Polanco']",Cole Hamels,0,0,2,Adeiny Hechavarria,['N/A'],['N/A'],['Adeiny Hechavarria'],Triple,N/A,2,0,2,N/A,N/A
+2,bottom,0,[],Cole Hamels,1,0,2,Koyie Hill,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Cole Hamels,2,1,3,Brad Hand,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Cole Hamels,3,2,3,Donovan Solano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Brad Hand,1,0,2,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Brad Hand,2,2,0,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Brad Hand,3,2,0,Chase Utley,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Cole Hamels,0,0,0,Ed Lucas,['N/A'],['Ed Lucas'],['N/A'],Double,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Cole Hamels,0,4,1,Christian Yelich,['Christian Yelich'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Cole Hamels,1,0,0,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Cole Hamels,2,1,3,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Cole Hamels,3,2,0,Placido Polanco,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Brad Hand,1,3,2,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Brad Hand,2,0,1,Domonic Brown,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Brad Hand,3,1,0,Darin Ruf,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Cole Hamels,1,3,2,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Cole Hamels,2,0,0,Koyie Hill,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Cole Hamels,3,2,3,Brad Hand,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Brad Hand,1,3,2,Kevin Frandsen,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Brad Hand,1,1,1,Freddy Galvis,['Freddy Galvis'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Brad Hand,2,1,3,Cole Hamels,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Brad Hand,3,1,1,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Cole Hamels,1,2,1,Donovan Solano,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Cole Hamels,2,1,2,Ed Lucas,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Cole Hamels,3,2,3,Christian Yelich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+6,top,0,[],Brad Hand,1,2,2,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+6,top,0,[],Brad Hand,1,0,0,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+6,top,0,[],Brad Hand,3,1,1,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,0,N/A,N/A,N/A
+6,bottom,0,[],Cole Hamels,1,1,1,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+6,bottom,0,[],Cole Hamels,2,0,2,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+6,bottom,0,[],Cole Hamels,2,2,2,Placido Polanco,['N/A'],['Placido Polanco'],['N/A'],Double,N/A,2,0,N/A,N/A,N/A
+6,bottom,0,[],Cole Hamels,3,0,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+7,top,0,[],Brad Hand,1,2,3,Domonic Brown,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+7,top,0,[],Brad Hand,1,0,0,Darin Ruf,['N/A'],['Darin Ruf'],['N/A'],Double,N/A,2,0,N/A,N/A,N/A
+7,top,0,[],Brad Hand,1,2,2,Kevin Frandsen,['Kevin Frandsen'],['N/A'],['Darin Ruf'],Single,N/A,2,0,N/A,N/A,N/A
+7,top,1,['Darin Ruf'],Brad Hand,1,1,1,Freddy Galvis,['Freddy Galvis'],['Kevin Frandsen'],['N/A'],Single,N/A,2,1,1,N/A,N/A
+7,top,0,[],A.J. Ramos,2,0,3,Cody Asche,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,top,1,['Kevin Frandsen'],A.J. Ramos,2,2,0,Cesar Hernandez,['N/A'],['Cesar Hernandez'],['Freddy Galvis'],Single,N/A,2,2,1,N/A,N/A
+7,top,0,[],A.J. Ramos,3,2,1,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Cesar Jimenez,0,4,2,Koyie Hill,['Koyie Hill'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Cesar Jimenez,1,0,1,Juan Pierre,['Juan Pierre'],['N/A'],['N/A'],Forceout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Cesar Jimenez,1,4,2,Donovan Solano,['Donovan Solano'],['Juan Pierre'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Cesar Jimenez,2,2,2,Ed Lucas,['Ed Lucas'],['N/A'],['Juan Pierre'],Forceout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Cesar Jimenez,3,0,1,Christian Yelich,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Mike Dunn,1,0,1,Chase Utley,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Mike Dunn,2,0,1,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Mike Dunn,2,1,0,Domonic Brown,['Domonic Brown'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Chad Qualls,2,4,1,Darin Ruf,['Darin Ruf'],['Domonic Brown'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Chad Qualls,3,0,1,Kevin Frandsen,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Ethan Martin,1,1,0,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Ethan Martin,1,4,1,Justin Ruggiano,['Justin Ruggiano'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Ethan Martin,1,0,2,Placido Polanco,['Placido Polanco'],['N/A'],['Justin Ruggiano'],Single,N/A,2,2,N/A,N/A,N/A
+8,bottom,1,['Justin Ruggiano'],Ethan Martin,1,2,0,Adeiny Hechavarria,['N/A'],['Adeiny Hechavarria'],['Placido Polanco'],Fielders Choice,Error,3,2,1,N/A,Jimmy Rollins
+8,bottom,0,[],Ethan Martin,2,2,3,Koyie Hill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Ethan Martin,2,4,0,Greg Dobbs,['Greg Dobbs'],['N/A'],['N/A'],Intent Walk,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Ethan Martin,3,1,3,Donovan Solano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+9,top,0,[],Steve Cishek,0,0,0,Freddy Galvis,['Freddy Galvis'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+9,top,0,[],Steve Cishek,1,2,3,Roger Bernadina,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+9,top,0,[],Steve Cishek,2,2,0,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+9,top,0,[],Steve Cishek,3,2,3,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A

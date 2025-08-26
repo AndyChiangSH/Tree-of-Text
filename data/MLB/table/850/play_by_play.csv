@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jake Peavy,1,0,3,Juan Pierre,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jake Peavy,2,0,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jake Peavy,3,1,1,Derek Dietrich,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,1,2,3,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,2,1,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,3,2,3,Alex Rios,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jake Peavy,0,2,2,Marcell Ozuna,['Marcell Ozuna'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jake Peavy,0,1,0,Chris Coghlan,['Chris Coghlan'],['Marcell Ozuna'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jake Peavy,2,1,2,Justin Ruggiano,['N/A'],['N/A'],['Marcell Ozuna'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jake Peavy,3,1,3,Greg Dobbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,1,2,3,Adam Dunn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,1,3,2,Paul Konerko,['Paul Konerko'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,2,1,1,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,2,1,0,Conor Gillaspie,['Conor Gillaspie'],['Paul Konerko'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,2,0,1,Jeff Keppinger,['Jeff Keppinger'],['Conor Gillaspie'],['Paul Konerko'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,3,1,0,Hector Gimenez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jake Peavy,1,1,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jake Peavy,2,2,2,Rob Brantly,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jake Peavy,3,0,2,Juan Pierre,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ricky Nolasco,0,0,1,Alejandro De Aza,['Alejandro De Aza'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,['Alejandro De Aza'],Ricky Nolasco,0,1,1,Alexei Ramirez,['N/A'],['Alexei Ramirez'],['N/A'],Double,N/A,1,0,1,N/A,N/A
+3,bottom,0,[],Ricky Nolasco,1,1,0,Alex Rios,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Ricky Nolasco,2,1,3,Adam Dunn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Ricky Nolasco,3,1,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jake Peavy,1,1,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jake Peavy,2,1,1,Derek Dietrich,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jake Peavy,3,1,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Ricky Nolasco,1,2,2,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Ricky Nolasco,1,2,2,Conor Gillaspie,['Conor Gillaspie'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Ricky Nolasco,2,0,3,Jeff Keppinger,['N/A'],['Conor Gillaspie'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Ricky Nolasco,3,1,1,Hector Gimenez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Jake Peavy,0,3,2,Chris Coghlan,['Chris Coghlan'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Jake Peavy,1,0,1,Justin Ruggiano,['Justin Ruggiano'],['N/A'],['N/A'],Forceout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Jake Peavy,2,0,2,Greg Dobbs,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Jake Peavy,3,0,2,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Ricky Nolasco,1,0,0,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Ricky Nolasco,2,0,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Ricky Nolasco,3,1,2,Alex Rios,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jake Peavy,1,0,0,Rob Brantly,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jake Peavy,1,2,1,Juan Pierre,['Juan Pierre'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jake Peavy,3,2,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Ricky Nolasco,1,1,1,Adam Dunn,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Ricky Nolasco,2,2,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Ricky Nolasco,3,0,0,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Jake Peavy,1,0,3,Derek Dietrich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Jake Peavy,2,0,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Jake Peavy,3,2,2,Chris Coghlan,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Ricky Nolasco,1,2,2,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Ricky Nolasco,1,3,2,Jeff Keppinger,['Jeff Keppinger'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+7,bottom,0,[],Ricky Nolasco,3,1,3,Hector Gimenez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Jake Peavy,1,3,1,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Jake Peavy,1,2,2,Greg Dobbs,['N/A'],['Greg Dobbs'],['N/A'],Double,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Jake Peavy,1,4,2,Adeiny Hechavarria,['Adeiny Hechavarria'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Jake Peavy,2,0,0,Rob Brantly,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Jake Peavy,3,0,1,Juan Pierre,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Ricky Nolasco,1,2,2,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Ricky Nolasco,1,1,2,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Ricky Nolasco,2,2,0,Alex Rios,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Mike Dunn,2,3,0,Adam Dunn,['N/A'],['Alexei Ramirez'],['N/A'],Wild Pitch,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Mike Dunn,2,4,1,Adam Dunn,['Adam Dunn'],['Alexei Ramirez'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Ryan Webb,3,3,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Jake Peavy,1,0,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+9,top,1,[],Jake Peavy,1,1,2,Derek Dietrich,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+9,top,0,[],Jake Peavy,2,1,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Jake Peavy,2,4,0,Chris Coghlan,['Chris Coghlan'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Jake Peavy,3,2,0,Justin Ruggiano,['N/A'],['Chris Coghlan'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Ryan Webb,0,1,1,Dewayne Wise,['N/A'],['Dewayne Wise'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+9,bottom,1,['Dewayne Wise'],Ryan Webb,0,0,0,Conor Gillaspie,['Conor Gillaspie'],['N/A'],['N/A'],Single,N/A,2,1,1,N/A,N/A

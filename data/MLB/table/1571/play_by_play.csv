@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jimmy Nelson,1,1,3,Seth Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jimmy Nelson,2,1,1,Manny Machado,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jimmy Nelson,3,2,3,Jonathan Schoop,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,1,2,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,1,4,2,Eric Thames,['Eric Thames'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,2,0,1,Domingo Santana,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,3,0,0,Travis Shaw,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jimmy Nelson,0,1,1,Adam Jones,['N/A'],['Adam Jones'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jimmy Nelson,1,1,0,Mark Trumbo,['Mark Trumbo'],['N/A'],['N/A'],Fielders Choice Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jimmy Nelson,3,0,0,Trey Mancini,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,0,4,1,Hernan Perez,['Hernan Perez'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,2,['Hernan Perez'],Ubaldo Jimenez,0,1,2,Stephen Vogt,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,2,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,0,0,0,Keon Broxton,['Keon Broxton'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],N/A,0,1,0,Orlando Arcia,['N/A'],['Keon Broxton'],['N/A'],Stolen Base 2B,N/A,2,0,N/A,N/A,N/A
+2,bottom,1,['Keon Broxton'],Ubaldo Jimenez,1,2,0,Orlando Arcia,['N/A'],['Keon Broxton'],['N/A'],Single,N/A,3,0,1,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,2,1,3,Jimmy Nelson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,3,0,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Jimmy Nelson,1,1,3,Caleb Joseph,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Jimmy Nelson,2,0,3,Paul Janish,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Jimmy Nelson,3,0,0,Ubaldo Jimenez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,1,0,0,Eric Thames,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,1,4,0,Domingo Santana,['Domingo Santana'],['N/A'],['N/A'],Walk,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,1,1,2,Travis Shaw,['Travis Shaw'],['Domingo Santana'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,2,1,1,Hernan Perez,['Hernan Perez'],['N/A'],['Domingo Santana'],Forceout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,3,1,2,Stephen Vogt,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Jimmy Nelson,1,1,3,Seth Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Jimmy Nelson,2,1,2,Manny Machado,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Jimmy Nelson,3,1,3,Jonathan Schoop,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,1,2,3,Keon Broxton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,2,1,0,Orlando Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,3,2,3,Jimmy Nelson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Jimmy Nelson,1,2,2,Adam Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Jimmy Nelson,1,0,2,Mark Trumbo,['Mark Trumbo'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Jimmy Nelson,1,0,1,Trey Mancini,['Trey Mancini'],['Mark Trumbo'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Jimmy Nelson,3,0,1,Caleb Joseph,['N/A'],['N/A'],['N/A'],Double Play,N/A,3,0,N/A,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,1,1,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+5,bottom,1,[],Ubaldo Jimenez,1,1,0,Eric Thames,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,0,1,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,2,0,3,Domingo Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+5,bottom,1,[],Ubaldo Jimenez,2,3,1,Travis Shaw,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,0,1,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,3,0,1,Hernan Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Jimmy Nelson,1,1,0,Paul Janish,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Jimmy Nelson,2,1,0,Hyun Soo Kim,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Jimmy Nelson,3,2,0,Seth Smith,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Tyler Wilson,1,0,3,Stephen Vogt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Tyler Wilson,2,2,3,Keon Broxton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Tyler Wilson,3,2,1,Orlando Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Jimmy Nelson,0,0,0,Manny Machado,['Manny Machado'],['N/A'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Jimmy Nelson,0,2,0,Jonathan Schoop,['Jonathan Schoop'],['Manny Machado'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Jimmy Nelson,1,1,1,Adam Jones,['N/A'],['Adam Jones'],['Jonathan Schoop'],Forceout,Error,5,0,N/A,N/A,Eric Thames
+7,top,1,['Jonathan Schoop'],Jimmy Nelson,1,3,2,Joey Rickard,['Joey Rickard'],['N/A'],['Adam Jones'],Single,N/A,5,1,1,N/A,N/A
+7,top,0,[],Jimmy Nelson,2,1,3,Trey Mancini,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],N/A,2,1,1,Caleb Joseph,['N/A'],['Joey Rickard'],['N/A'],Stolen Base 2B,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Jimmy Nelson,3,2,3,Caleb Joseph,['N/A'],['Joey Rickard'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Tyler Wilson,0,0,0,Eric Sogard,['Eric Sogard'],['N/A'],['N/A'],Single,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Tyler Wilson,1,2,2,Jonathan Villar,['Jonathan Villar'],['N/A'],['N/A'],Forceout,N/A,5,1,N/A,N/A,N/A
+7,bottom,1,[],Tyler Wilson,2,3,1,Eric Thames,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,1,1,N/A,N/A
+7,bottom,0,[],Tyler Wilson,3,2,3,Domingo Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+8,top,0,[],Jacob Barnes,1,2,2,Paul Janish,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+8,top,0,[],Jacob Barnes,2,3,3,Hyun Soo Kim,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+8,top,0,[],Jacob Barnes,3,1,2,Craig Gentry,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+8,bottom,0,[],Miguel Castro,1,3,2,Travis Shaw,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+8,bottom,0,[],Miguel Castro,2,1,3,Hernan Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+8,bottom,0,[],Miguel Castro,3,0,0,Stephen Vogt,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+9,top,0,[],Carlos Torres,1,0,0,Manny Machado,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+9,top,1,[],Carlos Torres,1,3,1,Jonathan Schoop,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,2,1,N/A,N/A
+9,top,0,[],Carlos Torres,1,1,1,Adam Jones,['Adam Jones'],['N/A'],['N/A'],Single,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Carlos Torres,2,0,3,Joey Rickard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Carlos Torres,3,1,0,Trey Mancini,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A

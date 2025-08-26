@@ -1,0 +1,80 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Nelson Figueroa,0,0,1,Stephen Drew,['N/A'],['Stephen Drew'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Stephen Drew'],Nelson Figueroa,0,1,0,Gerardo Parra,['Gerardo Parra'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Nelson Figueroa,2,1,2,Justin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,top,1,[],Nelson Figueroa,2,0,0,Mark Reynolds,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,1,N/A,N/A
+1,top,1,[],Nelson Figueroa,2,2,2,Miguel Montero,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,1,N/A,N/A
+1,top,0,[],Nelson Figueroa,2,0,2,Ryan Roberts,['Ryan Roberts'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Nelson Figueroa,2,4,2,Josh Whitesell,['Josh Whitesell'],['Ryan Roberts'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Nelson Figueroa,3,1,2,Chris Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Dan Haren,0,1,2,Angel Pagan,['Angel Pagan'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],N/A,0,1,1,Luis Castillo,['N/A'],['Angel Pagan'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Dan Haren,1,3,2,Luis Castillo,['N/A'],['Angel Pagan'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Dan Haren,2,0,0,David Wright,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Dan Haren,3,1,1,Gary Sheffield,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Nelson Figueroa,1,1,0,Dan Haren,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Nelson Figueroa,2,3,2,Stephen Drew,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Nelson Figueroa,2,1,2,Gerardo Parra,['N/A'],['Gerardo Parra'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+2,top,1,['Gerardo Parra'],Nelson Figueroa,2,2,0,Justin Upton,['N/A'],['Justin Upton'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+2,top,2,['Justin Upton'],Nelson Figueroa,2,2,2,Mark Reynolds,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,6,2,N/A,N/A
+2,top,0,[],Nelson Figueroa,2,1,0,Miguel Montero,['Miguel Montero'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Nelson Figueroa,2,1,1,Ryan Roberts,['Ryan Roberts'],['Miguel Montero'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Tim Redding,2,4,1,Josh Whitesell,['Josh Whitesell'],['Ryan Roberts'],['Miguel Montero'],Walk,N/A,0,6,N/A,N/A,N/A
+2,top,0,[],Tim Redding,3,1,3,Chris Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+2,bottom,0,[],Dan Haren,1,1,2,Daniel Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+2,bottom,0,[],Dan Haren,2,0,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+2,bottom,0,[],Dan Haren,3,0,1,Alex Cora,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,6,N/A,N/A,N/A
+3,top,0,[],Tim Redding,1,1,1,Dan Haren,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+3,top,0,[],Tim Redding,1,2,2,Stephen Drew,['Stephen Drew'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+3,top,0,[],Tim Redding,1,1,0,Gerardo Parra,['N/A'],['Gerardo Parra'],['Stephen Drew'],Double,N/A,0,6,N/A,N/A,N/A
+3,top,0,[],Tim Redding,2,2,1,Justin Upton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,6,N/A,N/A,N/A
+3,top,0,[],Tim Redding,3,0,0,Mark Reynolds,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,6,N/A,N/A,N/A
+3,bottom,0,[],Dan Haren,0,1,0,Omir Santos,['N/A'],['Omir Santos'],['N/A'],Double,N/A,0,6,N/A,N/A,N/A
+3,bottom,0,[],Dan Haren,1,0,3,Tim Redding,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+3,bottom,1,['Omir Santos'],Dan Haren,1,3,1,Angel Pagan,['N/A'],['N/A'],['Angel Pagan'],Triple,N/A,1,6,1,N/A,N/A
+3,bottom,0,[],Dan Haren,2,0,3,Luis Castillo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+3,bottom,0,[],Dan Haren,3,2,0,David Wright,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+4,top,0,[],Tim Redding,1,1,1,Miguel Montero,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A
+4,top,0,[],Tim Redding,2,0,0,Ryan Roberts,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,6,N/A,N/A,N/A
+4,top,0,[],Tim Redding,3,1,3,Josh Whitesell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+4,bottom,0,[],Dan Haren,1,0,1,Gary Sheffield,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A
+4,bottom,0,[],Dan Haren,2,0,0,Daniel Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+4,bottom,0,[],Dan Haren,3,0,3,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+5,top,0,[],Tim Redding,1,2,0,Chris Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A
+5,top,0,[],Tim Redding,2,1,0,Dan Haren,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+5,top,0,[],Tim Redding,3,2,2,Stephen Drew,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A
+5,bottom,0,[],Dan Haren,0,0,2,Alex Cora,['Alex Cora'],['N/A'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+5,bottom,0,[],Dan Haren,0,0,1,Omir Santos,['Omir Santos'],['Alex Cora'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+5,bottom,0,[],Dan Haren,1,2,2,Jeremy Reed,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,6,N/A,N/A,N/A
+5,bottom,0,[],Dan Haren,1,4,2,Angel Pagan,['Angel Pagan'],['Omir Santos'],['Alex Cora'],Walk,N/A,1,6,N/A,N/A,N/A
+5,bottom,2,"['Alex Cora', 'Omir Santos']",Dan Haren,1,2,2,Luis Castillo,['Luis Castillo'],['Angel Pagan'],['N/A'],Single,N/A,3,6,2,N/A,N/A
+5,bottom,1,['Angel Pagan'],Dan Haren,1,0,1,David Wright,['David Wright'],['Luis Castillo'],['N/A'],Single,N/A,4,6,1,N/A,N/A
+5,bottom,0,[],Dan Haren,3,2,2,Gary Sheffield,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Bobby Parnell,0,4,1,Gerardo Parra,['Gerardo Parra'],['N/A'],['N/A'],Walk,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Bobby Parnell,1,1,2,Justin Upton,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Bobby Parnell,2,2,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Bobby Parnell,3,0,2,Miguel Montero,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,6,N/A,N/A,N/A
+6,bottom,1,[],Dan Haren,0,2,1,Daniel Murphy,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,6,1,N/A,N/A
+6,bottom,0,[],Dan Haren,1,0,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,6,N/A,N/A,N/A
+6,bottom,0,[],Dan Haren,2,2,2,Alex Cora,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,6,N/A,N/A,N/A
+6,bottom,0,[],Dan Haren,3,0,1,Omir Santos,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+7,top,0,[],Bobby Parnell,0,1,1,Ryan Roberts,['N/A'],['Ryan Roberts'],['N/A'],Double,N/A,5,6,N/A,N/A,N/A
+7,top,0,[],Bobby Parnell,1,1,2,Josh Whitesell,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+7,top,0,[],Bobby Parnell,2,3,1,Chris Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,6,N/A,N/A,N/A
+7,top,0,[],Bobby Parnell,3,1,1,Dan Haren,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+7,bottom,0,[],Dan Haren,1,0,1,Cory Sullivan,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+7,bottom,0,[],Dan Haren,2,1,1,Angel Pagan,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+7,bottom,0,[],Dan Haren,3,1,1,Luis Castillo,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+8,top,0,[],Pedro Feliciano,1,0,0,Stephen Drew,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+8,top,0,[],Pedro Feliciano,2,1,1,Gerardo Parra,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+8,top,0,[],Brian Stokes,3,0,2,Justin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+8,bottom,0,[],Jon Rauch,1,1,0,David Wright,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,6,N/A,N/A,N/A
+8,bottom,0,[],Jon Rauch,1,0,1,Gary Sheffield,['N/A'],['Gary Sheffield'],['N/A'],Double,N/A,5,6,N/A,N/A,N/A
+8,bottom,0,[],Jon Rauch,2,0,2,Daniel Murphy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,6,N/A,N/A,N/A
+8,bottom,0,[],Jon Rauch,3,0,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+9,top,0,[],Brian Stokes,1,1,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,6,N/A,N/A,N/A
+9,top,0,[],Brian Stokes,2,0,2,Miguel Montero,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,6,N/A,N/A,N/A
+9,top,0,[],Brian Stokes,3,0,0,Ryan Roberts,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+9,bottom,0,[],Chad Qualls,1,1,2,Alex Cora,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+9,bottom,0,[],Chad Qualls,2,0,3,Omir Santos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,6,N/A,N/A,N/A
+9,bottom,0,[],Chad Qualls,3,1,0,Fernando Tatis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,6,N/A,N/A,N/A

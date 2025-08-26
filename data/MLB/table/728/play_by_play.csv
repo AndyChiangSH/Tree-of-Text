@@ -1,0 +1,96 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Wandy Rodriguez,1,0,2,Zack Cozart,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Wandy Rodriguez,1,3,1,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Wandy Rodriguez,1,1,0,Brandon Phillips,['Brandon Phillips'],['Drew Stubbs'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Wandy Rodriguez,2,2,0,Ryan Ludwick,['N/A'],['N/A'],['Drew Stubbs'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Drew Stubbs'],Wandy Rodriguez,2,3,2,Todd Frazier,['Todd Frazier'],['Brandon Phillips'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Wandy Rodriguez,3,1,0,Scott Rolen,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Mat Latos,1,1,1,Jose Altuve,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Mat Latos,2,0,2,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Mat Latos,3,1,2,Scott Moore,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Wandy Rodriguez,1,1,2,Chris Heisey,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Wandy Rodriguez,1,4,2,Ryan Hanigan,['Ryan Hanigan'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Wandy Rodriguez,2,0,3,Mat Latos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Wandy Rodriguez,3,0,0,Zack Cozart,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,0,2,2,Chris Johnson,['Chris Johnson'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,1,1,0,Justin Maxwell,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,1,3,2,Ben Francisco,['Ben Francisco'],['Chris Johnson'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,2,2,2,Jordan Schafer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,2,0,1,Chris Snyder,['Chris Snyder'],['Ben Francisco'],['Chris Johnson'],Hit By Pitch,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Mat Latos,3,1,2,Wandy Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Wandy Rodriguez,0,1,2,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Wandy Rodriguez,1,1,3,Brandon Phillips,['N/A'],['Drew Stubbs'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,1,['Drew Stubbs'],Wandy Rodriguez,1,0,0,Ryan Ludwick,['N/A'],['Ryan Ludwick'],['N/A'],Double,N/A,0,2,1,N/A,N/A
+3,top,0,[],Wandy Rodriguez,2,1,3,Todd Frazier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Wandy Rodriguez,2,4,1,Scott Rolen,['Scott Rolen'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,top,1,['Ryan Ludwick'],Wandy Rodriguez,2,0,0,Chris Heisey,['Chris Heisey'],['N/A'],['Scott Rolen'],Single,N/A,0,3,1,N/A,N/A
+3,top,0,[],Wandy Rodriguez,2,4,0,Ryan Hanigan,['Ryan Hanigan'],['Chris Heisey'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Wandy Rodriguez,3,1,3,Mat Latos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Mat Latos,1,0,0,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Mat Latos,2,1,3,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Mat Latos,3,2,3,Scott Moore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Wandy Rodriguez,1,3,3,Zack Cozart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Wandy Rodriguez,2,2,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Wandy Rodriguez,2,1,1,Brandon Phillips,['Brandon Phillips'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Wandy Rodriguez,3,0,0,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,0,0,2,Chris Johnson,['Chris Johnson'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,1,1,1,Justin Maxwell,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,1,2,0,Ben Francisco,['Ben Francisco'],['Chris Johnson'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,2,1,1,Jordan Schafer,['N/A'],['Ben Francisco'],['Chris Johnson'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,2,4,0,Chris Snyder,['Chris Snyder'],['N/A'],['N/A'],Intent Walk,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Mat Latos,3,1,1,Wandy Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Wandy Rodriguez,0,0,1,Todd Frazier,['Todd Frazier'],['N/A'],['N/A'],Field Error,N/A,0,3,N/A,N/A,Jose Altuve
+5,top,0,[],Wandy Rodriguez,1,1,0,Scott Rolen,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Wandy Rodriguez,2,1,1,Chris Heisey,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Wandy Rodriguez,3,1,1,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Mat Latos,0,1,1,Jose Altuve,['Jose Altuve'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Mat Latos,0,0,1,Marwin Gonzalez,['N/A'],['Marwin Gonzalez'],['Jose Altuve'],Double,N/A,0,3,N/A,N/A,N/A
+5,bottom,1,['Jose Altuve'],Mat Latos,1,2,2,Scott Moore,['N/A'],['N/A'],['Marwin Gonzalez'],Groundout,N/A,1,3,1,N/A,N/A
+5,bottom,1,['Marwin Gonzalez'],Mat Latos,1,2,1,Chris Johnson,['N/A'],['Chris Johnson'],['N/A'],Double,N/A,2,3,1,N/A,N/A
+5,bottom,0,[],Mat Latos,1,2,1,Justin Maxwell,['Justin Maxwell'],['N/A'],['Chris Johnson'],Single,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Mat Latos,2,1,3,Ben Francisco,['N/A'],['Justin Maxwell'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Mat Latos,2,4,0,Jordan Schafer,['Jordan Schafer'],['N/A'],['N/A'],Intent Walk,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Mat Latos,3,1,0,Chris Snyder,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Wandy Rodriguez,0,0,2,Miguel Cairo,['Miguel Cairo'],['N/A'],['N/A'],Field Error,N/A,2,3,N/A,N/A,Chris Johnson
+6,top,0,[],Wandy Rodriguez,1,0,0,Zack Cozart,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Wandy Rodriguez,2,2,2,Drew Stubbs,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Wandy Rodriguez,3,0,0,Brandon Phillips,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+6,bottom,0,[],Jose Arredondo,1,2,0,Brian Bixler,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+6,bottom,0,[],Jose Arredondo,2,3,1,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+6,bottom,0,[],Jose Arredondo,2,4,1,Marwin Gonzalez,['Marwin Gonzalez'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+6,bottom,0,[],Jose Arredondo,3,2,0,Scott Moore,['N/A'],['N/A'],['N/A'],Runner Out,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Wilton Lopez,1,0,1,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Wilton Lopez,1,0,0,Todd Frazier,['Todd Frazier'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+7,top,1,['Todd Frazier'],Wilton Lopez,1,1,0,Scott Rolen,['N/A'],['Scott Rolen'],['N/A'],Double,N/A,2,4,1,N/A,N/A
+7,top,0,[],Wilton Lopez,1,2,2,Chris Heisey,['N/A'],['Chris Heisey'],['Scott Rolen'],Single,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Wilton Lopez,2,0,1,Ryan Hanigan,['Ryan Hanigan'],['N/A'],['Chris Heisey'],Fielders Choice Out,N/A,2,4,N/A,N/A,N/A
+7,top,1,['Chris Heisey'],Wesley Wright,2,2,2,Jay Bruce,['Jay Bruce'],['N/A'],['Ryan Hanigan'],Single,N/A,2,5,1,N/A,N/A
+7,top,0,[],Enerio Del Rosario,3,1,1,Zack Cozart,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Bill Bray,1,3,2,Scott Moore,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Bill Bray,1,3,2,Chris Johnson,['Chris Johnson'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Sam LeCure,2,2,3,Justin Maxwell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Sam LeCure,3,0,1,Ben Francisco,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Enerio Del Rosario,1,0,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Enerio Del Rosario,1,2,2,Brandon Phillips,['N/A'],['Brandon Phillips'],['N/A'],Double,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],N/A,1,1,0,Ryan Ludwick,['N/A'],['N/A'],['Brandon Phillips'],Stolen Base 3B,N/A,2,5,N/A,N/A,N/A
+8,top,1,['Brandon Phillips'],Enerio Del Rosario,1,2,1,Ryan Ludwick,['Ryan Ludwick'],['N/A'],['Brandon Phillips'],Single,N/A,2,6,1,N/A,N/A
+8,top,1,['Ryan Ludwick'],Enerio Del Rosario,1,2,2,Todd Frazier,['N/A'],['Todd Frazier'],['N/A'],Double,N/A,2,7,1,N/A,N/A
+8,top,0,[],Enerio Del Rosario,2,3,3,Scott Rolen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Enerio Del Rosario,2,2,1,Sam LeCure,['Sam LeCure'],['N/A'],['N/A'],Hit By Pitch,N/A,2,7,N/A,N/A,N/A
+8,top,1,['Todd Frazier'],Fernando Abad,2,0,1,Ryan Hanigan,['Ryan Hanigan'],['Sam LeCure'],['N/A'],Single,N/A,2,8,1,N/A,N/A
+8,top,0,[],Fernando Abad,3,0,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,8,N/A,N/A,N/A
+8,bottom,0,[],Sam LeCure,1,2,3,Jordan Schafer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,8,N/A,N/A,N/A
+8,bottom,0,[],Sam LeCure,1,3,2,Chris Snyder,['Chris Snyder'],['N/A'],['N/A'],Single,N/A,2,8,N/A,N/A,N/A
+8,bottom,0,[],Sam LeCure,1,4,1,Brian Bogusevic,['Brian Bogusevic'],['Chris Snyder'],['N/A'],Walk,N/A,2,8,N/A,N/A,N/A
+8,bottom,0,[],Sam LeCure,1,4,2,Jose Altuve,['Jose Altuve'],['Brian Bogusevic'],['Chris Snyder'],Walk,N/A,2,8,N/A,N/A,N/A
+8,bottom,1,['Chris Snyder'],Sean Marshall,2,1,0,Marwin Gonzalez,['Marwin Gonzalez'],['Jose Altuve'],['N/A'],Forceout,N/A,3,8,1,N/A,N/A
+8,bottom,0,[],Sean Marshall,3,3,2,Matt Downs,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Fernando Abad,0,2,2,Zack Cozart,['Zack Cozart'],['N/A'],['N/A'],Single,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Fernando Abad,1,1,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Fernando Abad,2,2,0,Brandon Phillips,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Rhiner Cruz,2,1,1,Ryan Ludwick,['N/A'],['Ryan Ludwick'],['Zack Cozart'],Double,N/A,3,8,N/A,N/A,N/A
+9,top,0,[],Rhiner Cruz,3,0,1,Todd Frazier,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Sean Marshall,1,1,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Sean Marshall,2,2,1,Justin Maxwell,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Sean Marshall,2,1,1,J.D. Martinez,['J.D. Martinez'],['N/A'],['N/A'],Single,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Sean Marshall,3,2,3,Jordan Schafer,['N/A'],['J.D. Martinez'],['N/A'],Strikeout,N/A,3,8,N/A,N/A,N/A

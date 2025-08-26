@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Chad Gaudin,1,1,3,Jason Bartlett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Chad Gaudin,1,0,0,Carl Crawford,['N/A'],['N/A'],['Carl Crawford'],Triple,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Chad Gaudin,2,0,0,Evan Longoria,['N/A'],['Evan Longoria'],['N/A'],Fielders Choice Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Chad Gaudin,3,1,3,Ben Zobrist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],David Price,1,1,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],David Price,2,0,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],David Price,3,3,2,Mark Teixeira,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Chad Gaudin,1,2,3,Pat Burrell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Chad Gaudin,2,0,0,Chris Richard,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Chad Gaudin,3,0,1,Gregg Zaun,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],David Price,1,1,0,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,[],David Price,1,2,0,Nick Swisher,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+2,bottom,0,[],David Price,2,0,3,Jorge Posada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],David Price,3,2,3,Robinson Cano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Chad Gaudin,1,1,2,Gabe Gross,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Chad Gaudin,1,0,0,Akinori Iwamura,['Akinori Iwamura'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Chad Gaudin,2,2,3,Jason Bartlett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Chad Gaudin,3,1,0,Carl Crawford,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],David Price,1,2,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],David Price,2,1,2,Jerry Hairston,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],David Price,3,2,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Chad Gaudin,1,2,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Chad Gaudin,1,4,1,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Chad Gaudin,3,3,3,Pat Burrell,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],David Price,1,0,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],David Price,2,1,0,Mark Teixeira,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],David Price,3,3,2,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Chad Gaudin,0,2,0,Chris Richard,['Chris Richard'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Chad Gaudin,1,0,3,Gregg Zaun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Chad Gaudin,3,0,2,Gabe Gross,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],David Price,0,4,2,Nick Swisher,['Nick Swisher'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],David Price,0,2,2,Jorge Posada,['N/A'],['Nick Swisher'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],David Price,1,2,3,Jorge Posada,['N/A'],['Nick Swisher'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],David Price,2,0,1,Robinson Cano,['N/A'],['N/A'],['Nick Swisher'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],David Price,3,3,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Chad Gaudin,1,0,2,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Chad Gaudin,2,0,2,Jason Bartlett,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Chad Gaudin,2,0,1,Carl Crawford,['Carl Crawford'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Chad Gaudin,3,0,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],David Price,1,2,1,Jerry Hairston,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],David Price,2,0,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],David Price,2,4,1,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],David Price,2,1,0,Mark Teixeira,['Mark Teixeira'],['Johnny Damon'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['Johnny Damon'],David Price,2,2,2,Alex Rodriguez,['Alex Rodriguez'],['N/A'],['Mark Teixeira'],Single,N/A,2,0,1,N/A,N/A
+6,bottom,0,[],David Price,3,0,1,Nick Swisher,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,[],Chad Gaudin,0,0,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,1,1,N/A,N/A
+7,top,0,[],Chad Gaudin,0,2,0,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Chad Gaudin,0,4,0,Pat Burrell,['Pat Burrell'],['Ben Zobrist'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Damaso Marte,1,1,0,Gabe Kapler,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brian Bruney,2,0,1,Dioner Navarro,['Dioner Navarro'],['Pat Burrell'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Phil Coke,2,4,2,Willy Aybar,['Willy Aybar'],['Dioner Navarro'],['Pat Burrell'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Phil Coke,3,0,1,Akinori Iwamura,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Lance Cormier,1,3,3,Jorge Posada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Lance Cormier,1,1,2,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Lance Cormier,2,0,0,Melky Cabrera,['Melky Cabrera'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Randy Choate,3,0,3,Hideki Matsui,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,1,[],Phil Hughes,0,0,0,Jason Bartlett,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,1,N/A,N/A
+8,top,0,[],Phil Hughes,0,2,2,Carl Crawford,['Carl Crawford'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Phil Hughes,1,2,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Phil Hughes,3,0,1,Ben Zobrist,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Randy Choate,1,3,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Randy Choate,2,0,1,Johnny Damon,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Randy Choate,3,3,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mariano Rivera,1,1,2,Pat Burrell,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mariano Rivera,2,2,2,Gabe Kapler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mariano Rivera,3,0,3,Dioner Navarro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Dan Wheeler,1,1,2,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,1,[],Dan Wheeler,1,1,0,Nick Swisher,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,1,N/A,N/A

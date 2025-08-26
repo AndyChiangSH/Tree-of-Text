@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Johnny Cueto,1,3,2,Mike Cameron,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Johnny Cueto,2,3,3,Craig Counsell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Johnny Cueto,3,0,1,Ryan Braun,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,0,2,2,Jerry Hairston,['Jerry Hairston'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,0,1,1,Jeff Keppinger,['Jeff Keppinger'],['Jerry Hairston'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Jerry Hairston'],CC Sabathia,0,0,0,Joey Votto,['Joey Votto'],['Jeff Keppinger'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],CC Sabathia,1,0,3,Andy Phillips,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,2,0,0,Jay Bruce,['N/A'],['Joey Votto'],['Jeff Keppinger'],Groundout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,3,3,2,Jolbert Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Johnny Cueto,1,1,0,Prince Fielder,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Johnny Cueto,2,3,2,J.J. Hardy,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Johnny Cueto,3,0,0,Corey Hart,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],CC Sabathia,1,1,1,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],CC Sabathia,2,0,3,Paul Janish,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],CC Sabathia,3,1,1,Johnny Cueto,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,0,1,0,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,1,1,2,Jason Kendall,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,1,0,0,CC Sabathia,['CC Sabathia'],['N/A'],['Rickie Weeks Jr.'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,2,1,0,Mike Cameron,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,2,1,1,Craig Counsell,['N/A'],['CC Sabathia'],['N/A'],Wild Pitch,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,3,1,1,Craig Counsell,['N/A'],['CC Sabathia'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,1,1,0,Jerry Hairston,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,2,2,2,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,3,3,1,Joey Votto,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Johnny Cueto,0,2,2,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+4,top,1,['Ryan Braun'],Johnny Cueto,0,1,0,Prince Fielder,['N/A'],['Prince Fielder'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+4,top,0,[],Johnny Cueto,1,2,1,J.J. Hardy,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Johnny Cueto,2,2,2,Corey Hart,['N/A'],['Corey Hart'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,1,['Corey Hart'],Johnny Cueto,2,0,2,Rickie Weeks Jr.,['N/A'],['N/A'],['Rickie Weeks Jr.'],Triple,N/A,1,2,1,N/A,N/A
+4,top,0,[],Johnny Cueto,3,1,2,Jason Kendall,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,1,1,0,Andy Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,1,1,1,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Hit By Pitch,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,2,1,2,Jolbert Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,3,0,2,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Johnny Cueto,1,3,3,CC Sabathia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Johnny Cueto,2,3,3,Mike Cameron,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Johnny Cueto,2,2,2,Craig Counsell,['Craig Counsell'],['N/A'],['N/A'],Hit By Pitch,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Johnny Cueto,3,1,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,1,3,2,Paul Janish,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,1,0,0,Johnny Cueto,['Johnny Cueto'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,2,1,0,Jerry Hairston,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,3,1,2,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Johnny Cueto,1,2,2,Prince Fielder,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Johnny Cueto,2,3,2,J.J. Hardy,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Johnny Cueto,3,2,3,Corey Hart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,0,3,1,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,0,4,2,Andy Phillips,['Andy Phillips'],['Joey Votto'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,0,0,1,Corey Patterson,['Corey Patterson'],['Andy Phillips'],['Joey Votto'],Sac Bunt,Error,1,2,N/A,N/A,Prince Fielder
+6,bottom,0,[],CC Sabathia,1,0,0,Jolbert Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,2,1,3,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+6,bottom,2,"['Joey Votto', 'Andy Phillips']",CC Sabathia,2,2,0,Micah Owings,['Micah Owings'],['N/A'],['Corey Patterson'],Single,N/A,3,2,2,N/A,N/A
+6,bottom,1,['Corey Patterson'],CC Sabathia,2,2,2,Adam Rosales,['Adam Rosales'],['N/A'],['Micah Owings'],Single,N/A,4,2,1,N/A,N/A
+6,bottom,0,[],Todd Coffey,3,3,3,Jerry Hairston,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Jared Burton,0,4,2,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Jared Burton,1,1,2,Jason Kendall,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Jared Burton,1,1,0,Brad Nelson,['N/A'],['Brad Nelson'],['Rickie Weeks Jr.'],Double,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Jared Burton,2,2,1,Mike Cameron,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Bill Bray,3,3,1,Bill Hall,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Eric Gagne,0,1,0,Jeff Keppinger,['Jeff Keppinger'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Eric Gagne,1,1,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Eric Gagne,3,1,2,Andy Phillips,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],David Weathers,1,2,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],David Weathers,2,0,0,Prince Fielder,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],David Weathers,2,2,2,J.J. Hardy,['N/A'],['N/A'],['J.J. Hardy'],Triple,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],David Weathers,3,2,2,Corey Hart,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Mitch Stetter,1,1,2,Corey Patterson,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Mark DiFelice,2,1,3,Jolbert Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Mark DiFelice,2,3,2,Ryan Hanigan,['Ryan Hanigan'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Mark DiFelice,3,2,2,Danny Richar,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+9,top,1,[],Francisco Cordero,0,1,0,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,3,1,N/A,N/A
+9,top,0,[],Francisco Cordero,0,1,2,Jason Kendall,['Jason Kendall'],['N/A'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,1,2,2,Tony Gwynn Jr.,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,2,3,Mike Cameron,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,1,1,Mike Lamb,['Mike Lamb'],['Jason Kendall'],['N/A'],Field Error,N/A,4,3,N/A,N/A,Jeff Keppinger
+9,top,0,[],Francisco Cordero,2,4,2,Ryan Braun,['Ryan Braun'],['Mike Lamb'],['Jason Kendall'],Walk,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,3,1,3,Prince Fielder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A

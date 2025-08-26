@@ -1,0 +1,99 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Francisco Liriano,0,4,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Francisco Liriano,1,1,0,Hernan Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Francisco Liriano,1,3,1,Ryan Braun,['N/A'],['Jean Segura'],['N/A'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Francisco Liriano,1,4,1,Ryan Braun,['Ryan Braun'],['Jean Segura'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Francisco Liriano,2,0,3,Khris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,2,2,2,Jason Rogers,['N/A'],['Ryan Braun'],['Jean Segura'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Jean Segura', 'Ryan Braun']",Francisco Liriano,2,2,2,Jason Rogers,['Jason Rogers'],['Ryan Braun'],['Jean Segura'],Single,Error,0,2,1,1,Francisco Liriano
+1,top,0,[],Francisco Liriano,3,1,3,Domingo Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Taylor Jungmann,1,2,2,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Taylor Jungmann,2,3,2,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Taylor Jungmann,3,1,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Francisco Liriano,0,0,0,Elian Herrera,['Elian Herrera'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Francisco Liriano,0,3,1,Martin Maldonado,['Martin Maldonado'],['Elian Herrera'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Francisco Liriano,1,0,0,Taylor Jungmann,['N/A'],['Martin Maldonado'],['Elian Herrera'],Sac Bunt,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Francisco Liriano,2,0,0,Jean Segura,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Francisco Liriano,3,0,3,Hernan Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Taylor Jungmann,1,0,3,Jung Ho Kang,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,1,[],Taylor Jungmann,1,3,1,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,1,N/A,N/A
+2,bottom,0,[],Taylor Jungmann,2,1,0,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Taylor Jungmann,3,2,3,Travis Snider,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Francisco Liriano,0,2,2,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+3,top,2,['Ryan Braun'],Francisco Liriano,0,1,1,Khris Davis,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,4,2,N/A,N/A
+3,top,0,[],Francisco Liriano,0,2,2,Jason Rogers,['Jason Rogers'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+3,top,0,[],Francisco Liriano,1,2,3,Domingo Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+3,top,1,['Jason Rogers'],Francisco Liriano,1,1,0,Elian Herrera,['N/A'],['Elian Herrera'],['N/A'],Double,N/A,1,5,1,N/A,N/A
+3,top,0,[],Joe Blanton,2,1,3,Martin Maldonado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+3,top,0,[],Joe Blanton,3,1,3,Taylor Jungmann,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+3,bottom,0,[],Taylor Jungmann,1,2,2,Jordy Mercer,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+3,bottom,0,[],Taylor Jungmann,2,0,3,Joe Blanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+3,bottom,0,[],Taylor Jungmann,2,0,0,Josh Harrison,['N/A'],['Josh Harrison'],['N/A'],Double,N/A,1,5,N/A,N/A,N/A
+3,bottom,0,[],Taylor Jungmann,3,3,2,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+4,top,0,[],Joe Blanton,0,2,0,Jean Segura,['N/A'],['Jean Segura'],['N/A'],Double,N/A,1,5,N/A,N/A,N/A
+4,top,1,['Jean Segura'],Joe Blanton,0,0,0,Hernan Perez,['Hernan Perez'],['N/A'],['N/A'],Single,N/A,1,6,1,N/A,N/A
+4,top,0,[],Joe Blanton,1,2,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+4,top,0,[],Joe Blanton,3,0,0,Khris Davis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,6,N/A,N/A,N/A
+4,bottom,0,[],Taylor Jungmann,1,0,0,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A
+4,bottom,0,[],Taylor Jungmann,1,1,1,Jung Ho Kang,['Jung Ho Kang'],['N/A'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+4,bottom,0,[],Taylor Jungmann,1,4,2,Pedro Alvarez,['Pedro Alvarez'],['Jung Ho Kang'],['N/A'],Walk,N/A,1,6,N/A,N/A,N/A
+4,bottom,0,[],Taylor Jungmann,1,4,0,Francisco Cervelli,['Francisco Cervelli'],['Pedro Alvarez'],['Jung Ho Kang'],Walk,N/A,1,6,N/A,N/A,N/A
+4,bottom,2,"['Jung Ho Kang', 'Pedro Alvarez']",Taylor Jungmann,1,2,1,Travis Snider,['N/A'],['Travis Snider'],['Francisco Cervelli'],Double,N/A,3,6,2,N/A,N/A
+4,bottom,1,['Francisco Cervelli'],Taylor Jungmann,2,1,2,Jordy Mercer,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,6,1,N/A,N/A
+4,bottom,0,[],Taylor Jungmann,3,0,2,Jaff Decker,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,6,N/A,N/A,N/A
+5,top,0,[],Arquimedes Caminero,1,1,3,Jason Rogers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+5,top,0,[],Arquimedes Caminero,2,1,0,Domingo Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,6,N/A,N/A,N/A
+5,top,0,[],Arquimedes Caminero,3,2,3,Elian Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+5,bottom,0,[],Taylor Jungmann,1,0,1,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,6,N/A,N/A,N/A
+5,bottom,0,[],Taylor Jungmann,2,2,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+5,bottom,0,[],Taylor Jungmann,3,1,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Arquimedes Caminero,1,1,2,Martin Maldonado,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Arquimedes Caminero,2,0,0,Taylor Jungmann,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Arquimedes Caminero,2,2,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Single,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],N/A,2,1,0,Hernan Perez,['N/A'],['Jean Segura'],['N/A'],Stolen Base 2B,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Arquimedes Caminero,3,2,0,Hernan Perez,['N/A'],['Jean Segura'],['N/A'],Groundout,N/A,4,6,N/A,N/A,N/A
+6,bottom,0,[],Taylor Jungmann,1,1,3,Jung Ho Kang,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+6,bottom,0,[],Taylor Jungmann,1,4,2,Pedro Alvarez,['Pedro Alvarez'],['N/A'],['N/A'],Walk,N/A,4,6,N/A,N/A,N/A
+6,bottom,0,[],Taylor Jungmann,1,1,0,Francisco Cervelli,['Francisco Cervelli'],['Pedro Alvarez'],['N/A'],Field Error,N/A,4,6,N/A,N/A,Taylor Jungmann
+6,bottom,0,[],Taylor Jungmann,2,1,0,Travis Snider,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,6,N/A,N/A,N/A
+6,bottom,0,[],Taylor Jungmann,3,0,0,Jordy Mercer,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,6,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,1,2,3,Ryan Braun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,2,3,2,Khris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,6,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,2,0,0,Jason Rogers,['Jason Rogers'],['N/A'],['N/A'],Single,N/A,4,6,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,2,3,1,Domingo Santana,['N/A'],['Jason Rogers'],['N/A'],Wild Pitch,N/A,4,6,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,2,4,1,Domingo Santana,['Domingo Santana'],['Jason Rogers'],['N/A'],Walk,N/A,4,6,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,3,2,3,Elian Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Jeffress,1,1,3,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Jeffress,1,0,0,Josh Harrison,['Josh Harrison'],['N/A'],['N/A'],Field Error,N/A,4,6,N/A,N/A,Elian Herrera
+7,bottom,0,[],Jeremy Jeffress,1,0,0,Neil Walker,['Neil Walker'],['N/A'],['Josh Harrison'],Single,N/A,4,6,N/A,N/A,N/A
+7,bottom,1,['Josh Harrison'],Jeremy Jeffress,1,0,2,Andrew McCutchen,['Andrew McCutchen'],['Neil Walker'],['N/A'],Single,N/A,5,6,1,N/A,N/A
+7,bottom,1,['Neil Walker'],Jeremy Jeffress,1,2,0,Jung Ho Kang,['Jung Ho Kang'],['Andrew McCutchen'],['N/A'],Single,N/A,6,6,1,N/A,N/A
+7,bottom,0,[],Jeremy Jeffress,3,1,2,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Tony Watson,1,2,3,Martin Maldonado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Tony Watson,2,1,1,Logan Schafer,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Tony Watson,3,0,0,Jean Segura,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Jeffress,1,3,1,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Jeffress,2,1,1,Michael Morse,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Jeffress,3,3,3,Jordy Mercer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,1,0,0,Scooter Gennett,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,2,3,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,3,0,0,Khris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Will Smith,1,0,3,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Will Smith,2,3,1,Josh Harrison,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Will Smith,3,1,2,Neil Walker,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,0,2,2,Jason Rogers,['Jason Rogers'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,2,2,2,Shane Peterson,['N/A'],['N/A'],['N/A'],Double Play,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,3,1,3,Elian Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+10,bottom,0,[],Will Smith,0,2,1,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+10,bottom,0,[],Will Smith,1,0,3,Jung Ho Kang,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+10,bottom,0,[],Will Smith,2,2,2,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+10,bottom,0,[],Will Smith,3,3,1,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+11,top,0,[],Jared Hughes,0,0,0,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+11,top,0,[],Jared Hughes,1,2,2,Logan Schafer,['N/A'],['Adam Lind'],['N/A'],Sac Bunt,N/A,6,6,N/A,N/A,N/A
+11,top,0,[],Jared Hughes,1,1,1,Jean Segura,['Jean Segura'],['N/A'],['Adam Lind'],Single,N/A,6,6,N/A,N/A,N/A
+11,top,0,[],Jared Hughes,3,0,0,Scooter Gennett,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,6,N/A,N/A,N/A
+11,bottom,0,[],Tyler Thornburg,0,1,2,Travis Ishikawa,['N/A'],['Travis Ishikawa'],['N/A'],Single,Error,6,6,N/A,N/A,Shane Peterson
+11,bottom,0,[],Tyler Thornburg,1,0,0,Jordy Mercer,['N/A'],['N/A'],['Pedro Florimon'],Groundout,N/A,6,6,N/A,N/A,N/A
+11,bottom,0,[],Tyler Thornburg,1,0,0,Sean Rodriguez,['Sean Rodriguez'],['N/A'],['N/A'],Hit By Pitch,N/A,6,6,N/A,N/A,N/A
+11,bottom,0,[],Tyler Thornburg,1,1,1,Josh Harrison,['N/A'],['Sean Rodriguez'],['N/A'],Wild Pitch,N/A,6,6,N/A,N/A,N/A
+11,bottom,1,['Pedro Florimon'],Tyler Thornburg,1,1,1,Josh Harrison,['Josh Harrison'],['Sean Rodriguez'],['Sean Rodriguez'],Single,N/A,7,6,1,N/A,N/A

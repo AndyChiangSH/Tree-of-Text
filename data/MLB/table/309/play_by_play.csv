@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Ian Snell,1,1,2,Scott Podsednik,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Ian Snell,2,0,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Ian Snell,3,1,1,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Freddy Garcia,1,1,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Freddy Garcia,2,2,2,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Freddy Garcia,3,1,2,Jose Lopez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Ian Snell,1,3,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Ian Snell,2,1,0,Mark Kotsay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Ian Snell,2,4,2,Jermaine Dye,['Jermaine Dye'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Ian Snell,3,0,0,Carlos Quentin,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,[],Freddy Garcia,0,3,2,Ken Griffey,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+2,bottom,0,[],Freddy Garcia,1,1,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Freddy Garcia,2,0,0,Bill Hall,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Freddy Garcia,2,0,2,Kenji Johjima,['N/A'],['Kenji Johjima'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Kenji Johjima'],Freddy Garcia,2,1,1,Mike Carp,['N/A'],['Mike Carp'],['N/A'],Single,Error,2,0,1,N/A,N/A
+2,bottom,0,[],Freddy Garcia,3,1,0,Jack Wilson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Ian Snell,1,1,3,Chris Getz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Ian Snell,2,0,3,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Ian Snell,2,1,2,Scott Podsednik,['Scott Podsednik'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Ian Snell,3,1,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Freddy Garcia,0,4,0,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Freddy Garcia,0,1,2,Franklin Gutierrez,['Franklin Gutierrez'],['Ichiro Suzuki'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],N/A,0,3,1,Jose Lopez,['N/A'],['Franklin Gutierrez'],['Ichiro Suzuki'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Ichiro Suzuki'],Freddy Garcia,1,3,2,Jose Lopez,['N/A'],['Franklin Gutierrez'],['Ichiro Suzuki'],Groundout,N/A,3,0,1,N/A,N/A
+3,bottom,0,[],Freddy Garcia,2,1,2,Ken Griffey,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Freddy Garcia,3,1,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Ian Snell,0,0,0,A.J. Pierzynski,['A.J. Pierzynski'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Ian Snell,0,4,1,Paul Konerko,['Paul Konerko'],['A.J. Pierzynski'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Ian Snell,0,1,1,Mark Kotsay,['N/A'],['Paul Konerko'],[],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,2,"['A.J. Pierzynski', 'Paul Konerko']",Ian Snell,0,1,1,Mark Kotsay,['N/A'],"['Paul Konerko', 'Mark Kotsay']",['A.J. Pierzynski'],Double,N/A,3,2,2,N/A,N/A
+4,top,0,[],Ian Snell,1,2,1,Jermaine Dye,['N/A'],['N/A'],['Mark Kotsay'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Ian Snell,2,1,2,Carlos Quentin,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Ian Snell,3,0,0,Chris Getz,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Freddy Garcia,1,1,1,Bill Hall,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Freddy Garcia,2,2,2,Kenji Johjima,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Freddy Garcia,2,1,1,Mike Carp,['N/A'],['N/A'],['Mike Carp'],Triple,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Freddy Garcia,3,2,1,Jack Wilson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Ian Snell,0,2,2,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Ian Snell,1,0,0,Scott Podsednik,['N/A'],['Alexei Ramirez'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Ian Snell,2,1,0,Gordon Beckham,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Ian Snell,3,2,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Freddy Garcia,1,0,0,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Freddy Garcia,2,2,2,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Freddy Garcia,3,0,0,Jose Lopez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ian Snell,0,2,0,Paul Konerko,['N/A'],['Paul Konerko'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ian Snell,1,2,0,Mark Kotsay,['N/A'],['N/A'],['Paul Konerko'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ian Snell,2,0,3,Jermaine Dye,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ian Snell,3,1,2,Carlos Quentin,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Freddy Garcia,1,3,3,Ken Griffey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Freddy Garcia,1,1,2,Adrian Beltre,['Adrian Beltre'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Freddy Garcia,2,2,1,Bill Hall,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Freddy Garcia,2,0,0,Kenji Johjima,['Kenji Johjima'],['Adrian Beltre'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Freddy Garcia,3,2,2,Mike Carp,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Shawn Kelley,0,0,1,Chris Getz,['Chris Getz'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Shawn Kelley,0,1,2,Alexei Ramirez,['Alexei Ramirez'],['Chris Getz'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Shawn Kelley,1,1,3,Scott Podsednik,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Mark Lowe,2,2,0,Gordon Beckham,['N/A'],['Alexei Ramirez'],['Chris Getz'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,2,"['Chris Getz', 'Alexei Ramirez']",Mark Lowe,2,3,2,A.J. Pierzynski,['N/A'],['A.J. Pierzynski'],['N/A'],Single,N/A,3,4,2,N/A,N/A
+7,top,1,['A.J. Pierzynski'],Mark Lowe,2,2,0,Paul Konerko,['N/A'],['Paul Konerko'],['N/A'],Double,N/A,3,5,1,N/A,N/A
+7,top,0,[],Mark Lowe,3,2,1,Mark Kotsay,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Octavio Dotel,0,0,0,Jack Wilson,['Jack Wilson'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Octavio Dotel,0,1,1,Ichiro Suzuki,['Ichiro Suzuki'],['Josh Wilson'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Octavio Dotel,1,0,1,Franklin Gutierrez,['N/A'],['Ichiro Suzuki'],['Josh Wilson'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Octavio Dotel,2,0,2,Jose Lopez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Thornton,3,0,3,Ken Griffey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Randy Messenger,1,0,0,Jermaine Dye,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Randy Messenger,2,1,3,Carlos Quentin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Randy Messenger,2,1,1,Chris Getz,['Chris Getz'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Randy Messenger,2,0,1,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['Chris Getz'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,1,['Chris Getz'],N/A,2,2,1,Scott Podsednik,['N/A'],['Alexei Ramirez'],['N/A'],Passed Ball,N/A,3,6,N/A,N/A,Kenji Johjima
+8,top,0,[],Garrett Olson,2,2,1,Scott Podsednik,['N/A'],"['Alexei Ramirez', 'Scott Podsednik']",['Alexei Ramirez'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Garrett Olson,3,0,0,Gordon Beckham,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Matt Thornton,1,1,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Matt Thornton,2,1,3,Bill Hall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Matt Thornton,3,2,0,Kenji Johjima,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Miguel Batista,1,2,1,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Miguel Batista,2,1,2,Dewayne Wise,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Miguel Batista,3,2,0,Mark Kotsay,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Bobby Jenks,1,1,2,Mike Carp,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Bobby Jenks,2,0,3,Josh Wilson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Bobby Jenks,2,1,1,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Bobby Jenks,2,4,2,Franklin Gutierrez,['Franklin Gutierrez'],['Ichiro Suzuki'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Bobby Jenks,3,3,3,Jose Lopez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

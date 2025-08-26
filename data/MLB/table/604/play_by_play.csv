@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Carlos Villanueva,0,4,1,Jimmy Rollins,['Jimmy Rollins'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,0,1,0,Placido Polanco,['N/A'],['Jimmy Rollins'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Carlos Villanueva,0,4,1,Placido Polanco,['Placido Polanco'],['Jimmy Rollins'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Carlos Villanueva,1,0,3,Chase Utley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Jimmy Rollins'],Carlos Villanueva,1,3,2,Ryan Howard,['Ryan Howard'],['Placido Polanco'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Carlos Villanueva,2,0,0,Shane Victorino,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Carlos Villanueva,3,3,0,Raul Ibanez,['N/A'],['Ryan Howard'],['Placido Polanco'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,1,0,2,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,1,0,0,Eric Thames,['Eric Thames'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,2,3,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,2,4,1,Adam Lind,['Adam Lind'],['Eric Thames'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,3,2,3,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Carlos Villanueva,1,3,3,Domonic Brown,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Carlos Villanueva,2,0,1,Ross Gload,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Carlos Villanueva,3,2,1,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Roy Halladay,1,0,1,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Roy Halladay,2,0,0,Corey Patterson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Roy Halladay,3,2,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Carlos Villanueva,1,0,1,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Carlos Villanueva,2,2,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Carlos Villanueva,3,2,1,Chase Utley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Roy Halladay,1,0,1,John McDonald,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Roy Halladay,2,1,1,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Roy Halladay,3,0,1,Eric Thames,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Carlos Villanueva,1,0,1,Ryan Howard,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Carlos Villanueva,2,2,2,Shane Victorino,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Carlos Villanueva,3,0,0,Raul Ibanez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,1,[],Roy Halladay,0,3,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+4,bottom,0,[],Roy Halladay,0,0,0,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Roy Halladay,2,0,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Roy Halladay,3,2,2,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Carlos Villanueva,1,2,2,Domonic Brown,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Carlos Villanueva,1,1,0,Ross Gload,['Ross Gload'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Carlos Villanueva,1,2,2,Carlos Ruiz,['Carlos Ruiz'],['N/A'],['Ross Gload'],Single,N/A,1,1,N/A,N/A,N/A
+5,top,1,['Ross Gload'],Carlos Villanueva,1,2,1,Jimmy Rollins,['N/A'],['Jimmy Rollins'],['Carlos Ruiz'],Double,N/A,1,2,1,N/A,N/A
+5,top,0,[],Carlos Villanueva,2,0,0,Placido Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Carlos Villanueva,2,4,0,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Intent Walk,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Carlos Villanueva,3,1,3,Ryan Howard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Roy Halladay,0,1,0,Corey Patterson,['N/A'],['N/A'],['Corey Patterson'],Single,Error,1,2,N/A,N/A,Chase Utley
+5,bottom,0,[],Roy Halladay,1,0,3,Rajai Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,bottom,1,['Corey Patterson'],Roy Halladay,1,0,0,John McDonald,['John McDonald'],['N/A'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+5,bottom,0,[],Roy Halladay,2,0,1,Aaron Hill,['N/A'],['John McDonald'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,1,['John McDonald'],Roy Halladay,2,2,2,Eric Thames,['Eric Thames'],['N/A'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+5,bottom,0,[],Roy Halladay,3,0,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Carlos Villanueva,0,4,2,Shane Victorino,['Shane Victorino'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Carlos Villanueva,1,1,0,Raul Ibanez,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Carlos Villanueva,2,1,1,Domonic Brown,['Domonic Brown'],['N/A'],['N/A'],Forceout,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Carlos Villanueva,3,1,0,Ross Gload,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Roy Halladay,1,0,1,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Roy Halladay,2,0,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Roy Halladay,3,0,3,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Carlos Villanueva,0,0,1,Carlos Ruiz,['N/A'],['Carlos Ruiz'],['N/A'],Double,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Carlos Villanueva,1,2,1,Jimmy Rollins,['N/A'],['N/A'],['Carlos Ruiz'],Flyout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Carlos Villanueva,2,3,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+7,top,2,['Carlos Ruiz'],Luis Perez,2,2,2,Chase Utley,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,4,2,N/A,N/A
+7,top,0,[],Luis Perez,3,1,0,Ryan Howard,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Roy Halladay,1,1,3,Corey Patterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Roy Halladay,2,2,3,Rajai Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Roy Halladay,2,0,0,John McDonald,['John McDonald'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Roy Halladay,3,1,3,Aaron Hill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Luis Perez,0,1,1,Shane Victorino,['Shane Victorino'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Luis Perez,1,0,0,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Forceout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Luis Perez,1,1,1,Domonic Brown,['Domonic Brown'],['Raul Ibanez'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Luis Perez,2,0,3,Ross Gload,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Octavio Dotel,3,0,2,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Roy Halladay,1,1,2,Eric Thames,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Roy Halladay,2,3,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Roy Halladay,3,2,1,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Jon Rauch,0,2,2,Jimmy Rollins,['Jimmy Rollins'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Jon Rauch,1,1,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Jon Rauch,2,0,0,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Forceout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Jon Rauch,2,4,2,Ryan Howard,['Ryan Howard'],['Chase Utley'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+9,top,1,['Chase Utley'],Jon Rauch,2,0,0,Shane Victorino,['Shane Victorino'],['Ryan Howard'],['N/A'],Single,N/A,3,5,1,N/A,N/A
+9,top,0,[],Shawn Camp,3,3,2,Raul Ibanez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+9,bottom,0,[],Roy Halladay,0,1,1,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+9,bottom,0,[],Roy Halladay,1,2,3,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+9,bottom,0,[],Roy Halladay,3,1,0,Corey Patterson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,5,N/A,N/A,N/A

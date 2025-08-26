@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Johnny Cueto,1,1,1,Jason Bourgeois,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Johnny Cueto,1,1,1,Jeff Keppinger,['N/A'],['Jeff Keppinger'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Johnny Cueto,2,3,3,Hunter Pence,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Jeff Keppinger'],Johnny Cueto,2,1,0,Carlos Lee,['N/A'],['Carlos Lee'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+1,top,0,[],Johnny Cueto,3,1,1,Chris Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nelson Figueroa,1,0,2,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nelson Figueroa,2,1,2,Chris Valaika,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nelson Figueroa,3,1,3,Yonder Alonso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Johnny Cueto,1,0,0,Brett Wallace,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Johnny Cueto,1,2,2,Angel Sanchez,['Angel Sanchez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Johnny Cueto,3,0,1,Jason Castro,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nelson Figueroa,1,2,1,Juan Francisco,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nelson Figueroa,1,0,1,Chris Heisey,['Chris Heisey'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],N/A,1,2,2,Laynce Nix,['N/A'],['Chris Heisey'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nelson Figueroa,2,2,3,Laynce Nix,['N/A'],['Chris Heisey'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nelson Figueroa,2,4,1,Paul Janish,['Paul Janish'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nelson Figueroa,3,1,2,Corky Miller,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,1,0,1,Nelson Figueroa,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,2,1,0,Jason Bourgeois,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Johnny Cueto,3,0,1,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Nelson Figueroa,1,2,3,Johnny Cueto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Nelson Figueroa,1,4,0,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Nelson Figueroa,2,0,0,Chris Valaika,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Nelson Figueroa,2,1,0,Yonder Alonso,['N/A'],['Willie Bloomquist'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Nelson Figueroa,3,3,1,Yonder Alonso,['N/A'],['Willie Bloomquist'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Johnny Cueto,1,2,1,Hunter Pence,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Johnny Cueto,1,2,1,Carlos Lee,['Carlos Lee'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Johnny Cueto,3,1,1,Chris Johnson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nelson Figueroa,1,0,1,Juan Francisco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nelson Figueroa,1,0,1,Chris Heisey,['Chris Heisey'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nelson Figueroa,1,1,0,Laynce Nix,['Laynce Nix'],['N/A'],['Chris Heisey'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nelson Figueroa,2,2,0,Paul Janish,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nelson Figueroa,3,0,0,Corky Miller,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Johnny Cueto,1,3,3,Brett Wallace,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Johnny Cueto,1,3,2,Angel Sanchez,['Angel Sanchez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Johnny Cueto,2,1,0,Jason Castro,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Johnny Cueto,3,1,2,Nelson Figueroa,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Nelson Figueroa,1,0,2,Johnny Cueto,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Nelson Figueroa,1,0,2,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Nelson Figueroa,2,0,3,Chris Valaika,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Nelson Figueroa,3,0,0,Yonder Alonso,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Johnny Cueto,1,1,3,Nelson Figueroa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Johnny Cueto,1,2,1,Jason Bourgeois,['Jason Bourgeois'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Johnny Cueto,2,2,2,Jeff Keppinger,['N/A'],['Jason Bourgeois'],['Jason Bourgeois'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Johnny Cueto,3,2,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Nelson Figueroa,0,2,1,Juan Francisco,['Juan Francisco'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Nelson Figueroa,1,0,3,Chris Heisey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Nelson Figueroa,2,4,0,Laynce Nix,['Laynce Nix'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Nelson Figueroa,2,2,2,Paul Janish,['N/A'],['Laynce Nix'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Nelson Figueroa,3,3,2,Paul Janish,['N/A'],['Laynce Nix'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Johnny Cueto,0,0,0,Carlos Lee,['Carlos Lee'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Johnny Cueto,0,0,1,Chris Johnson,['Chris Johnson'],['N/A'],['Carlos Lee'],Single,Error,N/A,N/A,N/A,N/A,Yonder Alonso
+7,top,1,['Carlos Lee'],Johnny Cueto,1,2,2,Brett Wallace,['Brett Wallace'],['N/A'],['N/A'],Forceout,N/A,0,2,1,N/A,N/A
+7,top,0,[],Johnny Cueto,2,2,3,Angel Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Johnny Cueto,3,2,2,Jason Castro,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Nelson Figueroa,1,1,2,Corky Miller,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Nelson Figueroa,2,2,2,Miguel Cairo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Nelson Figueroa,2,0,0,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Wilton Lopez,3,1,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jordan Smith,1,3,2,Anderson Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jordan Smith,2,1,2,Jason Bourgeois,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jordan Smith,3,0,0,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Fernando Abad,1,3,2,Brandon Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Fernando Abad,2,0,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Fernando Abad,3,1,2,Chris Heisey,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Sam LeCure,1,2,3,Hunter Pence,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Sam LeCure,2,0,0,Carlos Lee,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Sam LeCure,3,3,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,0,3,2,Laynce Nix,['Laynce Nix'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],N/A,0,1,0,Orlando Cabrera,['N/A'],['Drew Stubbs'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,1,3,1,Orlando Cabrera,['N/A'],['Drew Stubbs'],['Drew Stubbs'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,2,1,2,Ramon Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,3,0,0,Joey Votto,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

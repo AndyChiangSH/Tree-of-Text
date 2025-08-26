@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],John Gant,1,2,1,Rajai Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],John Gant,2,1,3,Jason Kipnis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],John Gant,2,0,2,Francisco Lindor,['N/A'],['Francisco Lindor'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Francisco Lindor'],John Gant,3,1,1,Mike Napoli,['N/A'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,bottom,0,[],Trevor Bauer,1,2,3,Jace Peterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Trevor Bauer,1,4,1,Ender Inciarte,['Ender Inciarte'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Trevor Bauer,2,0,3,Freddie Freeman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Trevor Bauer,3,0,0,Nick Markakis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],John Gant,1,2,2,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],John Gant,2,2,2,Jose Ramirez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],John Gant,3,0,3,Tyler Naquin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Trevor Bauer,1,1,1,Adonis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Trevor Bauer,2,2,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Trevor Bauer,2,4,2,Brandon Snyder,['Brandon Snyder'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Trevor Bauer,2,4,2,Erick Aybar,['Erick Aybar'],['Brandon Snyder'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Trevor Bauer,3,0,0,John Gant,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],John Gant,0,1,0,Chris Gimenez,['Chris Gimenez'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tyrell Jenkins,1,3,3,Trevor Bauer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tyrell Jenkins,2,0,2,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tyrell Jenkins,3,0,0,Jason Kipnis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Trevor Bauer,0,1,0,Jace Peterson,['Jace Peterson'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Trevor Bauer,1,2,2,Ender Inciarte,['Ender Inciarte'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Trevor Bauer,1,0,0,Freddie Freeman,['Freddie Freeman'],['N/A'],['Ender Inciarte'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,1,['Ender Inciarte'],Trevor Bauer,2,0,0,Nick Markakis,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,1,1,N/A,N/A
+3,bottom,0,[],Trevor Bauer,2,2,2,Adonis Garcia,['N/A'],['Freddie Freeman'],['N/A'],Wild Pitch,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Trevor Bauer,3,2,2,Adonis Garcia,['N/A'],['Freddie Freeman'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Tyrell Jenkins,0,3,1,Francisco Lindor,['Francisco Lindor'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Tyrell Jenkins,0,3,2,Mike Napoli,['Mike Napoli'],['Francisco Lindor'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,3,"['Francisco Lindor', 'Mike Napoli']",Tyrell Jenkins,0,1,0,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,4,3,N/A,N/A
+4,top,0,[],Tyrell Jenkins,1,0,0,Jose Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+4,top,0,[],Tyrell Jenkins,2,1,0,Tyler Naquin,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+4,top,0,[],Tyrell Jenkins,3,1,3,Chris Gimenez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+4,bottom,1,[],Trevor Bauer,0,3,2,Tyler Flowers,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,1,N/A,N/A
+4,bottom,0,[],Trevor Bauer,1,1,1,Brandon Snyder,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Trevor Bauer,2,2,1,Erick Aybar,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Trevor Bauer,3,2,2,Tyrell Jenkins,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Tyrell Jenkins,1,1,3,Trevor Bauer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Tyrell Jenkins,2,0,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Tyrell Jenkins,3,0,1,Jason Kipnis,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Trevor Bauer,0,1,1,Jace Peterson,['Jace Peterson'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Trevor Bauer,2,2,3,Ender Inciarte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Trevor Bauer,2,2,1,Freddie Freeman,['N/A'],['Freddie Freeman'],['N/A'],Double,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Trevor Bauer,3,2,2,Nick Markakis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Tyrell Jenkins,0,4,2,Francisco Lindor,['Francisco Lindor'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Tyrell Jenkins,2,2,2,Mike Napoli,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Tyrell Jenkins,2,1,0,Lonnie Chisenhall,['Lonnie Chisenhall'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Tyrell Jenkins,3,2,0,Jose Ramirez,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Trevor Bauer,1,0,0,Adonis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Trevor Bauer,2,1,1,Tyler Flowers,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Trevor Bauer,3,3,3,Brandon Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Tyrell Jenkins,0,0,0,Tyler Naquin,['N/A'],['Tyler Naquin'],['N/A'],Double,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Tyrell Jenkins,0,0,0,Chris Gimenez,['Chris Gimenez'],['N/A'],['Tyler Naquin'],Single,N/A,2,4,N/A,N/A,N/A
+7,top,1,['Tyler Naquin'],Mauricio Cabrera,0,1,0,Carlos Santana,['Carlos Santana'],['Chris Gimenez'],['N/A'],Single,N/A,2,5,1,N/A,N/A
+7,top,0,[],Mauricio Cabrera,0,0,1,Rajai Davis,['Rajai Davis'],['Carlos Santana'],['Chris Gimenez'],Sac Bunt,Error,2,5,N/A,N/A,Jace Peterson
+7,top,0,[],Mauricio Cabrera,1,0,0,Jason Kipnis,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Mauricio Cabrera,3,1,0,Francisco Lindor,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Jeff Manship,1,3,3,Erick Aybar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Jeff Manship,2,1,2,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Tom Gorzelanny,2,4,2,Jace Peterson,['Jace Peterson'],['N/A'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Tom Gorzelanny,3,0,3,Ender Inciarte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Ian Krol,0,0,2,Mike Napoli,['Mike Napoli'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Ian Krol,0,1,2,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Wild Pitch,Error,2,5,N/A,N/A,Tyler Flowers
+8,top,0,[],Ian Krol,1,2,2,Lonnie Chisenhall,['N/A'],['N/A'],['Mike Napoli'],Groundout,N/A,2,5,N/A,N/A,N/A
+8,top,1,['Mike Napoli'],Ian Krol,1,3,2,Jose Ramirez,['Jose Ramirez'],['N/A'],['N/A'],Single,N/A,2,6,1,N/A,N/A
+8,top,1,['Jose Ramirez'],Ian Krol,1,1,0,Tyler Naquin,['N/A'],['Tyler Naquin'],['N/A'],Double,N/A,2,7,1,N/A,N/A
+8,top,0,[],Ian Krol,2,2,2,Chris Gimenez,['N/A'],['N/A'],['Tyler Naquin'],Groundout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Ian Krol,3,1,1,Juan Uribe,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Tommy Hunter,1,0,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Tommy Hunter,2,1,2,Nick Markakis,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Tommy Hunter,2,0,2,Adonis Garcia,['Adonis Garcia'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Tommy Hunter,3,2,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Matt Marksberry,1,2,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+9,top,1,[],Matt Marksberry,1,0,1,Jason Kipnis,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,8,1,N/A,N/A
+9,top,0,[],Matt Marksberry,2,1,2,Francisco Lindor,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,8,N/A,N/A,N/A
+9,top,0,[],Matt Marksberry,3,2,3,Mike Napoli,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,8,N/A,N/A,N/A
+9,bottom,0,[],Joba Chamberlain,1,3,3,Brandon Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,8,N/A,N/A,N/A
+9,bottom,0,[],Joba Chamberlain,1,1,2,Erick Aybar,['Erick Aybar'],['N/A'],['N/A'],Single,N/A,2,8,N/A,N/A,N/A
+9,bottom,1,['Erick Aybar'],Joba Chamberlain,1,3,2,A.J. Pierzynski,['N/A'],"['Erick Aybar', 'A.J. Pierzynski']",['N/A'],Double,N/A,3,8,1,N/A,N/A
+9,bottom,0,[],Joba Chamberlain,2,0,1,Jace Peterson,['N/A'],['N/A'],['A.J. Pierzynski'],Lineout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Joba Chamberlain,3,0,0,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,8,N/A,N/A,N/A

@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Brian Bannister,1,0,1,Carlos Gomez,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Brian Bannister,1,3,2,Brendan Harris,['N/A'],['Brendan Harris'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Jose Guillen
+1,top,0,[],Brian Bannister,2,2,0,Jason Kubel,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Brendan Harris'],Brian Bannister,2,0,1,Justin Morneau,['Justin Morneau'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Brian Bannister,3,1,3,Delmon Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,0,1,1,Joey Gathright,['Joey Gathright'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,1,1,0,Esteban German,['N/A'],['Joey Gathright'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,2,3,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Joey Gathright'],Francisco Liriano,2,0,0,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+1,bottom,0,[],Francisco Liriano,3,0,3,Jose Guillen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Brian Bannister,1,3,3,Mike Lamb,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Brian Bannister,2,0,2,Mike Redmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Brian Bannister,3,0,1,Denard Span,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,0,4,1,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Alex Gordon'],Francisco Liriano,0,0,1,Miguel Olivo,['N/A'],['Miguel Olivo'],['N/A'],Double,N/A,2,1,1,N/A,N/A
+2,bottom,0,[],Francisco Liriano,1,1,0,John Buck,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,2,0,1,Tony Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,3,1,0,Joey Gathright,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,1,1,2,Adam Everett,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,2,1,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,3,0,1,Brendan Harris,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,1,2,2,Esteban German,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,2,1,0,Mark Teahen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,2,4,2,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,3,1,2,Jose Guillen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Bannister,0,3,1,Jason Kubel,['Jason Kubel'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Bannister,1,2,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Bannister,3,1,1,Delmon Young,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Francisco Liriano,0,1,1,Alex Gordon,['N/A'],['Alex Gordon'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Francisco Liriano,1,2,3,Miguel Olivo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],N/A,1,1,0,John Buck,['N/A'],['N/A'],['Alex Gordon'],Stolen Base 3B,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Francisco Liriano,1,4,2,John Buck,['John Buck'],['N/A'],['Alex Gordon'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,['Alex Gordon'],Francisco Liriano,2,2,0,Tony Pena,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,1,1,N/A,N/A
+4,bottom,0,[],Francisco Liriano,2,0,0,Joey Gathright,['Joey Gathright'],['John Buck'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,['John Buck'],Francisco Liriano,2,2,2,Esteban German,['Esteban German'],['Joey Gathright'],['N/A'],Single,N/A,4,1,1,N/A,N/A
+4,bottom,0,[],Francisco Liriano,3,0,2,Mark Teahen,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Bannister,1,1,1,Mike Lamb,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Bannister,2,2,0,Mike Redmond,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Bannister,3,1,2,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Francisco Liriano,0,4,1,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Francisco Liriano,1,1,3,Jose Guillen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Francisco Liriano,2,0,0,Alex Gordon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Francisco Liriano,2,4,1,Miguel Olivo,['Miguel Olivo'],['Billy Butler'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Brian Bass,3,0,0,John Buck,['N/A'],['N/A'],['N/A'],Fielders Choice Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,0,1,2,Adam Everett,['Adam Everett'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,1,1,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,1,0,0,Brendan Harris,['Brendan Harris'],['Adam Everett'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,2,0,1,Jason Kubel,['N/A'],['Brendan Harris'],['Adam Everett'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,3,0,0,Justin Morneau,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Brian Bass,1,0,2,Tony Pena,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Brian Bass,2,0,0,Joey Gathright,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Brian Bass,3,2,1,Esteban German,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brian Bannister,1,0,1,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brian Bannister,1,4,2,Mike Lamb,['Mike Lamb'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brian Bannister,3,2,2,Mike Redmond,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Brian Bass,1,0,0,Mark Teahen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Brian Bass,1,4,0,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Brian Bass,3,1,1,Jose Guillen,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Brian Bannister,1,2,2,Denard Span,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Brian Bannister,2,1,3,Matt Tolbert,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Brian Bannister,3,1,2,Carlos Gomez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,[],Juan Rincon,0,2,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,1,1,N/A,N/A
+8,bottom,0,[],Juan Rincon,1,0,1,Miguel Olivo,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Juan Rincon,2,0,0,John Buck,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Juan Rincon,3,0,0,Tony Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Brian Bannister,1,1,1,Brendan Harris,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Brian Bannister,2,3,2,Jason Kubel,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Brian Bannister,3,1,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

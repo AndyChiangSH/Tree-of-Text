@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],John Lackey,1,2,2,Grady Sizemore,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],John Lackey,2,2,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],John Lackey,2,0,1,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,2,0,2,Victor Martinez,['N/A'],[],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],John Lackey,2,0,2,Victor Martinez,['Victor Martinez'],['Shin-Soo Choo'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],John Lackey,3,2,3,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Laffey,0,1,3,Chone Figgins,['Chone Figgins'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Laffey,1,1,2,Maicer Izturis,['Maicer Izturis'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Laffey,1,3,2,Bobby Abreu,['Bobby Abreu'],['Maicer Izturis'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Laffey,2,3,0,Juan Rivera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Maicer Izturis'],Aaron Laffey,2,1,2,Kendrys Morales,['Kendrys Morales'],['Bobby Abreu'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,1,['Bobby Abreu'],Aaron Laffey,2,3,2,Howie Kendrick,['Howie Kendrick'],['N/A'],['Kendrys Morales'],Single,N/A,2,0,1,N/A,N/A
+1,bottom,0,[],Aaron Laffey,2,4,0,Gary Matthews,['Gary Matthews'],['Howie Kendrick'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Laffey,3,1,2,Jeff Mathis,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],John Lackey,1,0,1,Travis Hafner,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],John Lackey,2,0,2,Chris Gimenez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],John Lackey,3,1,1,Luis Valbuena,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Aaron Laffey,1,2,1,Reggie Willits,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Aaron Laffey,2,0,3,Chone Figgins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Aaron Laffey,3,2,2,Maicer Izturis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],John Lackey,1,1,3,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],John Lackey,2,2,3,Grady Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],John Lackey,3,2,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Aaron Laffey,1,1,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Aaron Laffey,2,2,2,Juan Rivera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Aaron Laffey,3,0,2,Kendrys Morales,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],John Lackey,0,1,1,Shin-Soo Choo,['N/A'],['Shin-Soo Choo'],['N/A'],Double,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],John Lackey,1,2,0,Victor Martinez,['N/A'],['N/A'],['Shin-Soo Choo'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,top,1,['Shin-Soo Choo'],John Lackey,2,1,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,1,1,N/A,N/A
+4,top,0,[],John Lackey,3,1,3,Travis Hafner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Aaron Laffey,1,1,1,Howie Kendrick,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Aaron Laffey,2,0,2,Gary Matthews,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Aaron Laffey,2,4,2,Jeff Mathis,['Jeff Mathis'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Aaron Laffey,3,0,1,Reggie Willits,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],John Lackey,1,0,3,Chris Gimenez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],John Lackey,2,0,1,Luis Valbuena,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],John Lackey,2,0,0,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],John Lackey,3,1,0,Grady Sizemore,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Aaron Laffey,0,0,1,Chone Figgins,['Chone Figgins'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Aaron Laffey,0,0,1,Maicer Izturis,['Maicer Izturis'],['Chone Figgins'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,1,['Chone Figgins'],Aaron Laffey,0,1,1,Bobby Abreu,['N/A'],['Bobby Abreu'],['Maicer Izturis'],Single,Error,3,1,1,N/A,Shin-Soo Choo
+5,bottom,1,['Maicer Izturis'],Aaron Laffey,0,1,0,Juan Rivera,['Juan Rivera'],['N/A'],['Bobby Abreu'],Field Error,N/A,4,1,N/A,1,Luis Valbuena
+5,bottom,1,['Bobby Abreu'],Aaron Laffey,0,0,1,Kendrys Morales,['N/A'],['Kendrys Morales'],['Juan Rivera'],Double,N/A,5,1,1,N/A,N/A
+5,bottom,2,"['Juan Rivera', 'Kendrys Morales']",Chris Perez,0,2,1,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Single,N/A,7,1,2,N/A,N/A
+5,bottom,0,[],Chris Perez,1,0,3,Gary Matthews,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+5,bottom,0,[],Chris Perez,3,0,1,Jeff Mathis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,7,1,N/A,N/A,N/A
+6,top,0,[],John Lackey,1,0,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,1,N/A,N/A,N/A
+6,top,0,[],John Lackey,1,4,2,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Walk,N/A,7,1,N/A,N/A,N/A
+6,top,0,[],John Lackey,1,2,1,Victor Martinez,['Victor Martinez'],['Shin-Soo Choo'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+6,top,0,[],John Lackey,2,1,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,1,N/A,N/A,N/A
+6,top,0,[],John Lackey,3,1,3,Travis Hafner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Perez,1,1,3,Reggie Willits,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Perez,1,4,1,Chone Figgins,['Chone Figgins'],['N/A'],['N/A'],Walk,N/A,7,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Perez,3,3,1,Maicer Izturis,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,1,N/A,N/A,N/A
+7,top,0,[],John Lackey,0,4,2,Chris Gimenez,['Chris Gimenez'],['N/A'],['N/A'],Walk,N/A,7,1,N/A,N/A,N/A
+7,top,0,[],John Lackey,2,1,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,7,1,N/A,N/A,N/A
+7,top,0,[],John Lackey,2,4,1,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Walk,N/A,7,1,N/A,N/A,N/A
+7,top,0,[],John Lackey,2,4,2,Grady Sizemore,['Grady Sizemore'],['Kelly Shoppach'],['N/A'],Walk,N/A,7,1,N/A,N/A,N/A
+7,top,0,[],John Lackey,3,2,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+7,bottom,0,[],Tony Sipp,1,2,0,Bobby Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,1,N/A,N/A,N/A
+7,bottom,0,[],Tony Sipp,1,3,2,Juan Rivera,['Juan Rivera'],['N/A'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+7,bottom,0,[],Tony Sipp,2,1,3,Kendrys Morales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+7,bottom,2,['Juan Rivera'],Tony Sipp,2,0,0,Howie Kendrick,['N/A'],['N/A'],['N/A'],Home Run,N/A,9,1,2,N/A,N/A
+7,bottom,0,[],Tony Sipp,3,2,3,Gary Matthews,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,1,N/A,N/A,N/A
+8,top,0,[],Darren Oliver,1,0,3,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,1,N/A,N/A,N/A
+8,top,0,[],Darren Oliver,2,1,3,Victor Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,1,N/A,N/A,N/A
+8,top,0,[],Darren Oliver,3,2,1,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,1,N/A,N/A,N/A
+8,bottom,0,[],Tomo Ohka,1,0,3,Jeff Mathis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,1,N/A,N/A,N/A
+8,bottom,0,[],Tomo Ohka,2,1,2,Reggie Willits,['N/A'],['N/A'],['N/A'],Pop Out,N/A,9,1,N/A,N/A,N/A
+8,bottom,0,[],Tomo Ohka,3,1,3,Brandon Wood,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Bobby Mosebach,0,4,0,Travis Hafner,['Travis Hafner'],['N/A'],['N/A'],Walk,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Bobby Mosebach,1,2,3,Chris Gimenez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Bobby Mosebach,1,4,2,Luis Valbuena,['Luis Valbuena'],['Travis Hafner'],['N/A'],Walk,N/A,9,1,N/A,N/A,N/A
+9,top,0,[],Bobby Mosebach,1,2,2,Kelly Shoppach,['N/A'],['Luis Valbuena'],['Travis Hafner'],Wild Pitch,N/A,9,1,N/A,N/A,N/A
+9,top,2,"['Travis Hafner', 'Luis Valbuena']",Bobby Mosebach,1,3,2,Kelly Shoppach,['N/A'],"['Luis Valbuena', 'Kelly Shoppach']",['Travis Hafner'],Double,N/A,9,3,2,N/A,N/A
+9,top,0,[],Shane Loux,2,2,1,Grady Sizemore,['N/A'],['N/A'],['Kelly Shoppach'],Groundout,N/A,9,3,N/A,N/A,N/A
+9,top,0,[],Shane Loux,3,1,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,3,N/A,N/A,N/A

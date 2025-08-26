@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Randy Wolf,0,0,2,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Randy Wolf,1,0,1,Martin Prado,['N/A'],['Gregor Blanco'],['N/A'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Randy Wolf,1,4,2,Chipper Jones,['Chipper Jones'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Gregor Blanco', 'Chipper Jones']",Randy Wolf,1,2,2,Mark Teixeira,['N/A'],['Mark Teixeira'],['N/A'],Double,N/A,0,2,2,N/A,N/A
+1,top,0,[],Randy Wolf,2,1,2,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+1,top,1,['Mark Teixeira'],Randy Wolf,2,3,1,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Single,N/A,0,3,1,N/A,N/A
+1,top,0,[],Randy Wolf,3,0,1,Mark Kotsay,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jorge Campillo,0,0,1,Scott Hairston,['Scott Hairston'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jorge Campillo,0,3,2,Luis Antonio Rodriguez,['Luis Antonio Rodriguez'],['Scott Hairston'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jorge Campillo,1,1,3,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+1,bottom,1,['Scott Hairston'],Jorge Campillo,1,0,0,Kevin Kouzmanoff,['Kevin Kouzmanoff'],['Luis Antonio Rodriguez'],['N/A'],Single,N/A,1,3,1,N/A,N/A
+1,bottom,0,[],Jorge Campillo,3,1,1,Chase Headley,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,3,N/A,N/A,N/A
+2,top,0,[],Randy Wolf,1,3,1,Brent Lillibridge,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+2,top,0,[],Randy Wolf,2,2,2,Jorge Campillo,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+2,top,0,[],Randy Wolf,3,3,2,Gregor Blanco,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+2,bottom,0,[],Jorge Campillo,1,1,1,Jody Gerut,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+2,bottom,0,[],Jorge Campillo,2,0,2,Khalil Greene,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+2,bottom,0,[],Jorge Campillo,3,0,0,Nick Hundley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+3,top,0,[],Randy Wolf,0,1,1,Martin Prado,['Martin Prado'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+3,top,0,[],Randy Wolf,1,0,0,Chipper Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+3,top,0,[],Randy Wolf,2,3,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+3,top,0,[],Randy Wolf,3,0,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Jorge Campillo,1,1,0,Randy Wolf,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Jorge Campillo,2,2,3,Scott Hairston,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Jorge Campillo,3,2,2,Luis Antonio Rodriguez,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Randy Wolf,0,4,0,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Randy Wolf,2,1,2,Mark Kotsay,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Randy Wolf,3,0,1,Brent Lillibridge,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Jorge Campillo,1,1,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Jorge Campillo,1,2,2,Kevin Kouzmanoff,['Kevin Kouzmanoff'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Jorge Campillo,2,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Jorge Campillo,2,4,1,Jody Gerut,['Jody Gerut'],['Kevin Kouzmanoff'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Jorge Campillo,3,2,0,Khalil Greene,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Randy Wolf,0,1,0,Jorge Campillo,['Jorge Campillo'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Randy Wolf,1,1,0,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Forceout,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Randy Wolf,2,2,3,Martin Prado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Randy Wolf,2,4,2,Chipper Jones,['Chipper Jones'],['Gregor Blanco'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Randy Wolf,3,1,0,Mark Teixeira,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Jorge Campillo,1,3,2,Nick Hundley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Jorge Campillo,2,1,3,Randy Wolf,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Jorge Campillo,3,2,2,Scott Hairston,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Randy Wolf,0,1,1,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Randy Wolf,0,2,2,Brian McCann,['Brian McCann'],['Jeff Francoeur'],['N/A'],Hit By Pitch,N/A,1,3,N/A,N/A,N/A
+6,top,1,['Jeff Francoeur'],Randy Wolf,0,0,0,Mark Kotsay,['N/A'],['Mark Kotsay'],['Brian McCann'],Single,N/A,1,4,1,N/A,N/A
+6,top,1,['Brian McCann'],Cla Meredith,0,2,0,Brent Lillibridge,['Brent Lillibridge'],['N/A'],['Mark Kotsay'],Single,N/A,1,5,1,N/A,N/A
+6,top,0,[],Cla Meredith,1,0,3,Jorge Campillo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+6,top,1,['Mark Kotsay'],Cla Meredith,1,0,0,Gregor Blanco,['Gregor Blanco'],['N/A'],['Brent Lillibridge'],Single,N/A,1,6,1,N/A,N/A
+6,top,1,['Brent Lillibridge'],Cla Meredith,1,0,0,Martin Prado,['Martin Prado'],['N/A'],['Gregor Blanco'],Single,N/A,1,7,1,N/A,N/A
+6,top,1,['Gregor Blanco'],Bryan Corey,2,3,2,Chipper Jones,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,8,1,N/A,N/A
+6,top,0,[],Bryan Corey,3,1,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,8,N/A,N/A,N/A
+6,bottom,0,[],Jorge Campillo,1,0,1,Luis Antonio Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,8,N/A,N/A,N/A
+6,bottom,0,[],Jorge Campillo,2,0,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,8,N/A,N/A,N/A
+6,bottom,1,[],Jorge Campillo,2,0,1,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,8,1,N/A,N/A
+6,bottom,0,[],Jorge Campillo,2,4,1,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Walk,N/A,2,8,N/A,N/A,N/A
+6,bottom,0,[],Jorge Campillo,3,0,0,Jody Gerut,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,8,N/A,N/A,N/A
+7,top,0,[],Josh Banks,1,1,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,8,N/A,N/A,N/A
+7,top,1,[],Josh Banks,1,1,0,Brian McCann,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,9,1,N/A,N/A
+7,top,0,[],Josh Banks,2,2,0,Mark Kotsay,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,9,N/A,N/A,N/A
+7,top,0,[],Josh Banks,2,0,0,Brent Lillibridge,['Brent Lillibridge'],['N/A'],['N/A'],Single,N/A,2,9,N/A,N/A,N/A
+7,top,0,[],Josh Banks,3,2,2,Ruben Gotay,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,9,N/A,N/A,N/A
+7,bottom,0,[],Blaine Boyer,1,2,2,Khalil Greene,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,9,N/A,N/A,N/A
+7,bottom,0,[],Blaine Boyer,1,1,2,Nick Hundley,['Nick Hundley'],['N/A'],['N/A'],Single,N/A,2,9,N/A,N/A,N/A
+7,bottom,0,[],Blaine Boyer,2,1,0,Tony Clark,['N/A'],['Nick Hundley'],['N/A'],Groundout,N/A,2,9,N/A,N/A,N/A
+7,bottom,0,[],Blaine Boyer,3,0,3,Scott Hairston,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,9,N/A,N/A,N/A
+8,top,0,[],Cha Seung Baek,1,1,0,Gregor Blanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,9,N/A,N/A,N/A
+8,top,0,[],Cha Seung Baek,2,1,0,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,9,N/A,N/A,N/A
+8,top,0,[],Cha Seung Baek,3,0,1,Chipper Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Tim Hudson,1,1,1,Luis Antonio Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Tim Hudson,2,3,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Tim Hudson,3,1,1,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,9,N/A,N/A,N/A
+9,top,0,[],Cha Seung Baek,0,2,2,Mark Teixeira,['N/A'],['Mark Teixeira'],['N/A'],Fan interference,N/A,2,9,N/A,N/A,N/A
+9,top,0,[],Cha Seung Baek,1,0,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,9,N/A,N/A,N/A
+9,top,1,['Mark Teixeira'],Cha Seung Baek,1,2,2,Brian McCann,['N/A'],['Brian McCann'],['N/A'],Double,N/A,2,10,1,N/A,N/A
+9,top,0,[],Cha Seung Baek,1,0,0,Mark Kotsay,['Mark Kotsay'],['N/A'],['Brian McCann'],Single,N/A,2,10,N/A,N/A,N/A
+9,top,1,['Brian McCann'],Cha Seung Baek,1,0,1,Brent Lillibridge,['N/A'],['Brent Lillibridge'],['Mark Kotsay'],Double,N/A,2,11,1,N/A,N/A
+9,top,1,['Mark Kotsay'],Joe Thatcher,1,1,0,Kelly Johnson,['Kelly Johnson'],['N/A'],['Brent Lillibridge'],Single,N/A,2,12,1,N/A,N/A
+9,top,0,[],Joe Thatcher,2,0,1,Gregor Blanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,12,N/A,N/A,N/A
+9,top,0,[],Joe Thatcher,3,0,0,Martin Prado,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,12,N/A,N/A,N/A
+9,bottom,1,[],Michael Gonzalez,0,3,1,Chase Headley,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,12,1,N/A,N/A
+9,bottom,0,[],Michael Gonzalez,0,1,1,Jody Gerut,['N/A'],['N/A'],['Jody Gerut'],Triple,N/A,3,12,N/A,N/A,N/A
+9,bottom,0,[],Michael Gonzalez,1,2,2,Khalil Greene,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,12,N/A,N/A,N/A
+9,bottom,0,[],Michael Gonzalez,2,0,3,Nick Hundley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,12,N/A,N/A,N/A
+9,bottom,0,[],Michael Gonzalez,3,2,3,Chip Ambres,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,12,N/A,N/A,N/A

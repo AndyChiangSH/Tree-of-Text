@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jesse Chavez,1,3,2,Jean Segura,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jesse Chavez,2,2,2,Ben Gamel,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jesse Chavez,3,2,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],James Paxton,1,0,1,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],James Paxton,2,0,2,Kole Calhoun,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],James Paxton,3,1,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jesse Chavez,1,3,2,Mitch Haniger,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jesse Chavez,2,2,2,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jesse Chavez,3,3,3,Danny Valencia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],James Paxton,1,1,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],James Paxton,2,1,2,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],James Paxton,3,0,2,Martin Maldonado,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jesse Chavez,0,4,2,Guillermo Heredia,['Guillermo Heredia'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jesse Chavez,1,1,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jesse Chavez,1,1,0,Boog Powell,['Boog Powell'],['N/A'],['Guillermo Heredia'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,1,['Guillermo Heredia'],Jesse Chavez,1,2,2,Jean Segura,['Jean Segura'],['Boog Powell'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+3,top,0,[],Jesse Chavez,2,1,1,Ben Gamel,['N/A'],['Jean Segura'],['Boog Powell'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Jesse Chavez,2,4,0,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Intent Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Jesse Chavez,3,2,2,Mitch Haniger,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],James Paxton,1,1,0,Luis Valbuena,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],James Paxton,2,1,1,Danny Espinosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],James Paxton,3,1,2,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Jesse Chavez,1,2,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Jesse Chavez,2,3,1,Danny Valencia,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Jesse Chavez,3,0,0,Guillermo Heredia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],James Paxton,1,0,0,Cameron Maybin,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],James Paxton,2,3,3,Kole Calhoun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],James Paxton,3,1,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Jesse Chavez,1,3,2,Mike Zunino,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Jesse Chavez,1,1,1,Boog Powell,['Boog Powell'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,top,1,['Boog Powell'],Jesse Chavez,1,3,2,Jean Segura,['N/A'],['Jean Segura'],['N/A'],Double,N/A,0,2,1,N/A,N/A
+5,top,0,[],Jesse Chavez,3,0,0,Ben Gamel,['N/A'],['N/A'],['N/A'],Double Play,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],James Paxton,1,2,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],James Paxton,2,3,2,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],James Paxton,3,1,3,Martin Maldonado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],Blake Parker,1,0,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],Blake Parker,2,0,3,Mitch Haniger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],Blake Parker,3,0,0,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],James Paxton,1,3,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],James Paxton,1,2,0,Danny Espinosa,['Danny Espinosa'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],James Paxton,2,1,0,Ben Revere,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],James Paxton,3,1,2,Cameron Maybin,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],Bud Norris,1,2,2,Danny Valencia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],Bud Norris,1,4,0,Guillermo Heredia,['Guillermo Heredia'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],Bud Norris,2,1,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],Bud Norris,3,2,3,Boog Powell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],James Paxton,1,0,1,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],James Paxton,1,4,1,Kole Calhoun,['Kole Calhoun'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],James Paxton,1,4,0,Albert Pujols,['Albert Pujols'],['Kole Calhoun'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+7,bottom,1,['Kole Calhoun'],James Paxton,1,1,1,Yunel Escobar,['Yunel Escobar'],['N/A'],['Albert Pujols'],Single,N/A,1,2,1,N/A,N/A
+7,bottom,0,[],Steve Cishek,3,0,0,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Keynan Middleton,0,0,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Keynan Middleton,0,4,2,Ben Gamel,['Ben Gamel'],['Jean Segura'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+8,top,3,"['Jean Segura', 'Ben Gamel']",Keynan Middleton,0,1,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,5,3,N/A,N/A
+8,top,0,[],Keynan Middleton,1,1,2,Mitch Haniger,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+8,top,0,[],Keynan Middleton,2,1,0,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+8,top,0,[],Keynan Middleton,3,0,3,Danny Valencia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Nick Vincent,0,1,2,Martin Maldonado,['Martin Maldonado'],['N/A'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Nick Vincent,0,3,2,Luis Valbuena,['Luis Valbuena'],['N/A'],['Eric Young Jr.'],Single,N/A,1,5,N/A,N/A,N/A
+8,bottom,1,['Eric Young Jr.'],Nick Vincent,0,0,1,Nick Franklin,['Nick Franklin'],['Luis Valbuena'],['N/A'],Single,N/A,2,5,1,N/A,N/A
+8,bottom,0,[],Nick Vincent,0,1,1,Ben Revere,['Ben Revere'],['Nick Franklin'],['Luis Valbuena'],Single,N/A,2,5,N/A,N/A,N/A
+8,bottom,1,['Luis Valbuena'],Nick Vincent,1,1,2,Cameron Maybin,['N/A'],['N/A'],['Nick Franklin'],Sac Fly,N/A,3,5,1,N/A,N/A
+8,bottom,0,[],N/A,1,2,2,Kole Calhoun,['N/A'],['Ben Revere'],['N/A'],Stolen Base 2B,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],Marc Rzepczynski,2,2,2,Kole Calhoun,['N/A'],['Ben Revere'],['N/A'],Pop Out,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],Edwin Diaz,3,1,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+9,top,0,[],Huston Street,0,4,2,Guillermo Heredia,['Guillermo Heredia'],['N/A'],['N/A'],Walk,N/A,3,5,N/A,N/A,N/A
+9,top,0,[],Huston Street,1,2,1,Mike Zunino,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,5,N/A,N/A,N/A
+9,top,0,[],Huston Street,2,2,0,Boog Powell,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,5,N/A,N/A,N/A
+9,top,0,[],Huston Street,2,2,2,Jean Segura,['Jean Segura'],['N/A'],['Jarrod Dyson'],Single,N/A,3,5,N/A,N/A,N/A
+9,top,0,[],Huston Street,3,0,0,Ben Gamel,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+9,bottom,0,[],Edwin Diaz,1,2,2,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+9,bottom,0,[],Edwin Diaz,2,1,3,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+9,bottom,0,[],Edwin Diaz,3,2,3,Cliff Pennington,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A

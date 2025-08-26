@@ -1,0 +1,86 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Javier Vazquez,1,1,0,Curtis Granderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Javier Vazquez,2,0,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Javier Vazquez,2,4,1,Carlos Guillen,['Carlos Guillen'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Javier Vazquez,3,1,1,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Zach Miner,1,2,2,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Zach Miner,2,0,1,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Zach Miner,3,2,1,Carlos Quentin,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,0,1,1,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,1,2,2,Matt Joyce,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,2,1,2,Marcus Thames,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,2,0,0,Brandon Inge,['Brandon Inge'],['Miguel Cabrera'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,2,4,2,Ramon Santiago,['Ramon Santiago'],['Brandon Inge'],['Miguel Cabrera'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,3,2,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Zach Miner,1,2,1,Jim Thome,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Zach Miner,2,3,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Zach Miner,3,2,3,Ken Griffey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,1,3,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,1,0,0,Carlos Guillen,['N/A'],['Carlos Guillen'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,2,1,2,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,2,['Carlos Guillen'],Javier Vazquez,2,0,0,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+3,top,0,[],Javier Vazquez,3,1,2,Matt Joyce,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Zach Miner,1,0,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Zach Miner,2,1,0,Nick Swisher,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Zach Miner,2,2,1,Juan Uribe,['Juan Uribe'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Zach Miner,3,2,1,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,1,2,3,Marcus Thames,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,2,1,3,Brandon Inge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,3,0,3,Ramon Santiago,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Zach Miner,1,1,0,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Zach Miner,1,1,0,Carlos Quentin,['Carlos Quentin'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Zach Miner,1,1,1,Jim Thome,['Jim Thome'],['Carlos Quentin'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Zach Miner,1,0,2,Paul Konerko,['Paul Konerko'],['Jim Thome'],['Carlos Quentin'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Zach Miner,2,2,3,Ken Griffey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Zach Miner,3,2,3,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Javier Vazquez,1,0,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Javier Vazquez,1,1,2,Placido Polanco,['N/A'],['Placido Polanco'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['Placido Polanco'],Javier Vazquez,1,0,0,Carlos Guillen,['N/A'],['N/A'],['Carlos Guillen'],Triple,N/A,0,3,1,N/A,N/A
+5,top,0,[],Javier Vazquez,2,1,1,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['Carlos Guillen'],Javier Vazquez,2,0,0,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+5,top,0,[],Javier Vazquez,3,0,3,Matt Joyce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Zach Miner,0,0,0,Nick Swisher,['N/A'],['Nick Swisher'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,['Nick Swisher'],Zach Miner,0,3,2,Juan Uribe,['N/A'],['Juan Uribe'],['N/A'],Double,N/A,1,4,1,N/A,N/A
+5,bottom,0,[],Zach Miner,1,2,0,Orlando Cabrera,['N/A'],['N/A'],['Juan Uribe'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Zach Miner,2,1,0,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Zach Miner,3,1,0,Carlos Quentin,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,1,0,0,Marcus Thames,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,2,0,0,Brandon Inge,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,3,1,3,Ramon Santiago,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Zach Miner,1,2,0,Jim Thome,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Zach Miner,1,3,2,Paul Konerko,['Paul Konerko'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Zach Miner,1,1,2,Ken Griffey,['N/A'],['Paul Konerko'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Zach Miner,2,1,2,Ken Griffey,['N/A'],['Paul Konerko'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['Paul Konerko'],Zach Miner,2,1,2,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Single,Error,2,4,N/A,1,Ramon Santiago
+6,bottom,0,[],Zach Miner,3,2,1,Nick Swisher,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,[],Javier Vazquez,0,0,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,5,1,N/A,N/A
+7,top,0,[],Javier Vazquez,1,1,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Javier Vazquez,1,4,2,Carlos Guillen,['Carlos Guillen'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Javier Vazquez,2,1,0,Magglio Ordonez,['N/A'],['Carlos Guillen'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Javier Vazquez,2,4,0,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Javier Vazquez,3,3,3,Matt Joyce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Joel Zumaya,0,4,2,Nick Swisher,['Nick Swisher'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Joel Zumaya,2,0,0,Juan Uribe,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Joel Zumaya,3,2,1,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Adam Russell,1,2,2,Ryan Raburn,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Adam Russell,2,0,0,Brandon Inge,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Adam Russell,3,2,3,Ramon Santiago,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Bobby Seay,1,0,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,[],Bobby Seay,1,1,1,Carlos Quentin,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,1,N/A,N/A
+8,bottom,0,[],Bobby Seay,1,4,0,Jim Thome,['Jim Thome'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Bobby Seay,2,0,0,Paul Konerko,['N/A'],['N/A'],['Paul Konerko'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Bobby Seay,2,1,1,Ken Griffey,['Ken Griffey'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,1,2,Alexei Ramirez,['N/A'],['Brian Anderson'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Fernando Rodney,3,2,2,Alexei Ramirez,['N/A'],['Brian Anderson'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Adam Russell,0,2,0,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Adam Russell,1,0,1,Placido Polanco,['N/A'],['Curtis Granderson'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Adam Russell,1,4,0,Carlos Guillen,['Carlos Guillen'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,2,"['Curtis Granderson', 'Carlos Guillen']",Ehren Wassermann,1,0,2,Magglio Ordonez,['N/A'],['N/A'],['Magglio Ordonez'],Triple,N/A,3,7,2,N/A,N/A
+9,top,0,[],Ehren Wassermann,1,4,2,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,1,['Magglio Ordonez'],Ehren Wassermann,1,0,0,Matt Joyce,['N/A'],['Matt Joyce'],['Miguel Cabrera'],Double,N/A,3,8,1,N/A,N/A
+9,top,0,[],Ehren Wassermann,2,0,1,Ryan Raburn,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Ehren Wassermann,3,0,3,Brandon Inge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Fernando Rodney,0,3,2,Nick Swisher,['N/A'],['Nick Swisher'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Fernando Rodney,1,0,3,Dewayne Wise,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Fernando Rodney,2,2,1,Orlando Cabrera,['N/A'],['N/A'],['Nick Swisher'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Fernando Rodney,3,0,3,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Cole Hamels,1,0,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Cole Hamels,1,4,2,Ryan Church,['Ryan Church'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Ryan Church'],Cole Hamels,1,2,2,David Wright,['N/A'],"['Ryan Church', 'David Wright']",['N/A'],Double,N/A,0,1,1,N/A,N/A
+1,top,0,[],Cole Hamels,3,1,1,Carlos Beltran,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Johan Santana,1,3,3,So Taguchi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Johan Santana,2,2,2,Jayson Werth,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Johan Santana,3,2,3,Chase Utley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Cole Hamels,1,0,3,Carlos Delgado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Cole Hamels,2,1,0,Angel Pagan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Cole Hamels,2,1,1,Brian Schneider,['Brian Schneider'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Cole Hamels,3,1,2,Luis Castillo,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Johan Santana,1,2,3,Ryan Howard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Johan Santana,1,1,1,Pat Burrell,['Pat Burrell'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Johan Santana,2,2,1,Pedro Feliz,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Johan Santana,3,1,3,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Cole Hamels,1,2,3,Johan Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Cole Hamels,1,4,0,Jose Reyes,['Jose Reyes'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Cole Hamels,2,0,0,Ryan Church,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],N/A,2,2,1,David Wright,['N/A'],['Jose Reyes'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Jose Reyes'],Cole Hamels,2,2,1,David Wright,['N/A'],['Jose Reyes'],['David Wright'],Triple,N/A,0,2,1,N/A,N/A
+3,top,0,[],Cole Hamels,3,1,0,Carlos Beltran,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Johan Santana,1,1,0,Eric Bruntlett,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Johan Santana,2,1,3,Cole Hamels,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Johan Santana,3,1,3,So Taguchi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Cole Hamels,1,0,2,Carlos Delgado,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Cole Hamels,2,3,1,Angel Pagan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Cole Hamels,2,0,1,Brian Schneider,['Brian Schneider'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Cole Hamels,3,1,1,Luis Castillo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Johan Santana,1,1,3,Jayson Werth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Johan Santana,1,0,1,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Carlos Delgado
+4,bottom,0,[],Johan Santana,2,2,3,Ryan Howard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Johan Santana,3,2,0,Pat Burrell,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Cole Hamels,1,0,3,Johan Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Cole Hamels,2,0,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Cole Hamels,3,2,3,Ryan Church,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Johan Santana,1,0,0,Pedro Feliz,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Johan Santana,2,1,2,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Johan Santana,3,2,2,Eric Bruntlett,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Cole Hamels,0,2,1,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Cole Hamels,1,0,0,Carlos Beltran,['Carlos Beltran'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Cole Hamels,2,1,2,Carlos Delgado,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Cole Hamels,2,1,1,Angel Pagan,['Angel Pagan'],['Carlos Beltran'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Cole Hamels,3,0,0,Brian Schneider,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Johan Santana,1,1,3,Cole Hamels,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Johan Santana,2,1,0,So Taguchi,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Johan Santana,3,0,2,Jayson Werth,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Cole Hamels,1,1,1,Luis Castillo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Cole Hamels,2,0,0,Johan Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Cole Hamels,3,1,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,1,[],Johan Santana,0,0,1,Chase Utley,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,1,N/A,N/A
+7,bottom,0,[],Johan Santana,1,1,1,Ryan Howard,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Johan Santana,2,2,3,Pat Burrell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Johan Santana,3,2,2,Pedro Feliz,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Cole Hamels,0,1,2,Ryan Church,['Ryan Church'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Cole Hamels,0,0,0,David Wright,['N/A'],['David Wright'],['Ryan Church'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Cole Hamels,0,4,0,Carlos Beltran,['Carlos Beltran'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,1,['Ryan Church'],J.C. Romero,1,0,0,Carlos Delgado,['N/A'],['Carlos Beltran'],['David Wright'],Groundout,N/A,1,3,1,N/A,N/A
+8,top,1,['David Wright'],J.C. Romero,1,1,1,Angel Pagan,['N/A'],['Angel Pagan'],['Carlos Beltran'],Double,N/A,1,4,1,N/A,N/A
+8,top,1,['Carlos Beltran'],J.C. Romero,1,1,2,Brian Schneider,['Brian Schneider'],['N/A'],['Angel Pagan'],Single,N/A,1,5,1,N/A,N/A
+8,top,0,[],J.C. Romero,2,2,2,Luis Castillo,['N/A'],['Brian Schneider'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],J.C. Romero,3,1,3,Johan Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Johan Santana,0,2,1,Carlos Ruiz,['Carlos Ruiz'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Johan Santana,0,2,2,Eric Bruntlett,['Eric Bruntlett'],['Carlos Ruiz'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,3,"['Carlos Ruiz', 'Eric Bruntlett']",Aaron Heilman,0,0,1,Greg Dobbs,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,5,3,N/A,N/A
+8,bottom,0,[],Aaron Heilman,1,1,1,Geoff Jenkins,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Aaron Heilman,2,2,1,Jayson Werth,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Pedro Feliciano,3,2,3,Chase Utley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Brad Lidge,1,2,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Brad Lidge,1,0,1,Ryan Church,['Ryan Church'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Brad Lidge,1,4,2,David Wright,['David Wright'],['Ryan Church'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Brad Lidge,1,0,0,Carlos Beltran,['Carlos Beltran'],['David Wright'],['Ryan Church'],Field Error,N/A,N/A,N/A,N/A,N/A,Ryan Howard
+9,top,1,['Ryan Church'],Brad Lidge,2,0,0,Carlos Delgado,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,6,1,N/A,N/A
+9,top,0,[],Brad Lidge,2,0,2,Angel Pagan,['N/A'],['Carlos Beltran'],['David Wright'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Brad Lidge,3,1,2,Angel Pagan,['N/A'],['Carlos Beltran'],['David Wright'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Billy Wagner,1,1,0,Ryan Howard,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Billy Wagner,2,3,2,Pat Burrell,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Billy Wagner,3,2,2,Pedro Feliz,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

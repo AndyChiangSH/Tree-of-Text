@@ -1,0 +1,93 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],John Danks,1,0,2,Michael Bourn,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,1,[],John Danks,1,0,1,Nick Swisher,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],John Danks,1,2,0,Jason Kipnis,['Jason Kipnis'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],John Danks,1,4,2,Carlos Santana,['Carlos Santana'],['Jason Kipnis'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,top,3,"['Jason Kipnis', 'Carlos Santana']",John Danks,1,1,2,Ryan Raburn,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,3,N/A,N/A
+1,top,0,[],John Danks,2,0,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+1,top,0,[],John Danks,2,1,2,Yan Gomes,['N/A'],['Yan Gomes'],['N/A'],Double,N/A,0,4,N/A,N/A,N/A
+1,top,0,[],John Danks,3,1,3,Mike Aviles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+1,bottom,0,[],Corey Kluber,0,4,1,Alejandro De Aza,['Alejandro De Aza'],['N/A'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+1,bottom,0,[],Corey Kluber,2,1,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+1,bottom,0,[],Corey Kluber,3,1,3,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+2,top,0,[],John Danks,0,1,0,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+2,top,0,[],John Danks,2,1,2,Michael Bourn,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+2,top,0,[],John Danks,2,3,2,Nick Swisher,['Nick Swisher'],['N/A'],['N/A'],Field Error,N/A,0,4,N/A,N/A,Marcus Semien
+2,top,1,['Nick Swisher'],John Danks,2,3,2,Jason Kipnis,['N/A'],['Jason Kipnis'],['N/A'],Double,N/A,0,5,1,N/A,N/A
+2,top,0,[],N/A,2,2,0,Carlos Santana,['N/A'],['N/A'],['Jason Kipnis'],Stolen Base 3B,N/A,0,5,N/A,N/A,N/A
+2,top,0,[],John Danks,3,2,2,Carlos Santana,['N/A'],['N/A'],['Jason Kipnis'],Pop Out,N/A,0,5,N/A,N/A,N/A
+2,bottom,0,[],Corey Kluber,1,2,2,Adam Dunn,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+2,bottom,1,[],Corey Kluber,1,3,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,5,1,N/A,N/A
+2,bottom,0,[],Corey Kluber,1,0,0,Avisail Garcia,['Avisail Garcia'],['N/A'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+2,bottom,0,[],Corey Kluber,2,1,0,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+2,bottom,0,[],Corey Kluber,3,1,2,Josh Phegley,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+3,top,0,[],John Danks,0,4,2,Ryan Raburn,['Ryan Raburn'],['N/A'],['N/A'],Walk,N/A,1,5,N/A,N/A,N/A
+3,top,0,[],John Danks,1,1,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+3,top,0,[],John Danks,1,1,1,Yan Gomes,['N/A'],['Yan Gomes'],['Ryan Raburn'],Double,N/A,1,5,N/A,N/A,N/A
+3,top,1,['Ryan Raburn'],John Danks,2,1,2,Mike Aviles,['N/A'],['N/A'],['Yan Gomes'],Sac Fly,N/A,1,6,1,N/A,N/A
+3,top,0,[],John Danks,3,1,1,Drew Stubbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A
+3,bottom,0,[],Corey Kluber,0,0,0,Marcus Semien,['N/A'],['Marcus Semien'],['N/A'],Double,N/A,1,6,N/A,N/A,N/A
+3,bottom,1,['Marcus Semien'],Corey Kluber,0,3,1,Alejandro De Aza,['Alejandro De Aza'],['N/A'],['N/A'],Single,N/A,2,6,1,N/A,N/A
+3,bottom,0,[],Corey Kluber,1,2,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,6,N/A,N/A,N/A
+3,bottom,0,[],Corey Kluber,2,0,2,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Forceout,N/A,2,6,N/A,N/A,N/A
+3,bottom,0,[],Corey Kluber,2,3,2,Adam Dunn,['Adam Dunn'],['N/A'],['Alexei Ramirez'],Single,N/A,2,6,N/A,N/A,N/A
+3,bottom,0,[],Corey Kluber,3,3,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+4,top,0,[],John Danks,0,2,2,Michael Bourn,['N/A'],['N/A'],['Michael Bourn'],Triple,N/A,2,6,N/A,N/A,N/A
+4,top,0,[],John Danks,1,2,0,Nick Swisher,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+4,top,1,['Michael Bourn'],John Danks,2,1,1,Jason Kipnis,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,7,1,N/A,N/A
+4,top,0,[],John Danks,2,4,2,Carlos Santana,['Carlos Santana'],['N/A'],['N/A'],Walk,N/A,2,7,N/A,N/A,N/A
+4,top,0,[],John Danks,3,1,0,Ryan Raburn,['N/A'],['N/A'],['N/A'],Double,N/A,2,7,N/A,N/A,N/A
+4,bottom,0,[],Corey Kluber,0,1,0,Avisail Garcia,['Avisail Garcia'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+4,bottom,0,[],Corey Kluber,1,0,3,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+4,bottom,0,[],Corey Kluber,2,1,1,Josh Phegley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,7,N/A,N/A,N/A
+4,bottom,0,[],Corey Kluber,3,0,1,Marcus Semien,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,7,N/A,N/A,N/A
+5,top,1,[],Charlie Leesman,0,1,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,8,1,N/A,N/A
+5,top,0,[],Charlie Leesman,0,4,1,Yan Gomes,['Yan Gomes'],['N/A'],['N/A'],Walk,N/A,2,8,N/A,N/A,N/A
+5,top,0,[],Charlie Leesman,0,4,1,Mike Aviles,['Mike Aviles'],['Yan Gomes'],['N/A'],Walk,N/A,2,8,N/A,N/A,N/A
+5,top,0,[],Charlie Leesman,0,4,2,Drew Stubbs,['Drew Stubbs'],['Mike Aviles'],['Yan Gomes'],Walk,N/A,2,8,N/A,N/A,N/A
+5,top,1,['Yan Gomes'],Charlie Leesman,0,3,2,Michael Bourn,['Michael Bourn'],['Drew Stubbs'],['Mike Aviles'],Single,N/A,2,9,1,N/A,N/A
+5,top,2,"['Mike Aviles', 'Drew Stubbs']",Charlie Leesman,0,1,0,Nick Swisher,['Nick Swisher'],['Michael Bourn'],['N/A'],Single,N/A,2,11,2,N/A,N/A
+5,top,0,[],Charlie Leesman,0,4,0,Jason Kipnis,['Jason Kipnis'],['Nick Swisher'],['Michael Bourn'],Walk,N/A,2,11,N/A,N/A,N/A
+5,top,1,['Michael Bourn'],Dylan Axelrod,0,2,2,Carlos Santana,['Carlos Santana'],['Jason Kipnis'],['Nick Swisher'],Single,N/A,2,12,1,N/A,N/A
+5,top,2,"['Nick Swisher', 'Jason Kipnis']",Dylan Axelrod,0,1,2,Ryan Raburn,['Ryan Raburn'],['Carlos Santana'],['N/A'],Single,N/A,2,14,2,N/A,N/A
+5,top,0,[],Dylan Axelrod,1,3,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,14,N/A,N/A,N/A
+5,top,0,[],Dylan Axelrod,3,2,2,Yan Gomes,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,14,N/A,N/A,N/A
+5,bottom,0,[],Corey Kluber,1,2,2,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+5,bottom,0,[],Corey Kluber,2,0,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+5,bottom,0,[],Corey Kluber,3,2,2,Leury Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+6,top,0,[],Dylan Axelrod,1,1,1,Mike Aviles,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,14,N/A,N/A,N/A
+6,top,0,[],Dylan Axelrod,1,0,0,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Single,N/A,2,14,N/A,N/A,N/A
+6,top,0,[],Dylan Axelrod,2,1,0,Jose Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,14,N/A,N/A,N/A
+6,top,0,[],Dylan Axelrod,3,3,2,Nick Swisher,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+6,bottom,0,[],Josh Tomlin,0,1,2,Jeff Keppinger,['Jeff Keppinger'],['N/A'],['N/A'],Catcher Interference,N/A,2,14,N/A,N/A,N/A
+6,bottom,0,[],Josh Tomlin,1,0,2,Conor Gillaspie,['Conor Gillaspie'],['N/A'],['N/A'],Forceout,N/A,2,14,N/A,N/A,N/A
+6,bottom,0,[],Josh Tomlin,2,0,2,Avisail Garcia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,14,N/A,N/A,N/A
+6,bottom,0,[],Josh Tomlin,3,1,1,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+7,top,0,[],Dylan Axelrod,0,0,0,Lonnie Chisenhall,['N/A'],['Lonnie Chisenhall'],['N/A'],Field Error,N/A,2,14,N/A,N/A,Conor Gillaspie
+7,top,0,[],Dylan Axelrod,1,1,0,Carlos Santana,['N/A'],['N/A'],['Lonnie Chisenhall'],Flyout,N/A,2,14,N/A,N/A,N/A
+7,top,0,[],Dylan Axelrod,2,0,0,Matt Carson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+7,top,0,[],Dylan Axelrod,3,0,1,Jason Kubel,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+7,bottom,0,[],Josh Tomlin,0,2,2,Miguel Gonzalez,['Miguel Gonzalez'],['N/A'],['N/A'],Single,N/A,2,14,N/A,N/A,N/A
+7,bottom,0,[],Josh Tomlin,0,1,2,Marcus Semien,['Marcus Semien'],['Miguel Gonzalez'],['N/A'],Single,N/A,2,14,N/A,N/A,N/A
+7,bottom,0,[],Josh Tomlin,1,3,2,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,14,N/A,N/A,N/A
+7,bottom,0,[],Josh Tomlin,2,1,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,14,N/A,N/A,N/A
+7,bottom,0,[],Josh Tomlin,3,0,0,Leury Garcia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,14,N/A,N/A,N/A
+8,top,0,[],Dylan Axelrod,1,2,2,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+8,top,0,[],Dylan Axelrod,2,3,2,Mike Aviles,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,14,N/A,N/A,N/A
+8,top,0,[],Dylan Axelrod,2,2,1,Drew Stubbs,['N/A'],['Drew Stubbs'],['N/A'],Double,N/A,2,14,N/A,N/A,N/A
+8,top,0,[],Dylan Axelrod,3,1,2,Jose Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,14,N/A,N/A,N/A
+8,bottom,0,[],Vinnie Pestano,0,4,2,Jeff Keppinger,['Jeff Keppinger'],['N/A'],['N/A'],Walk,N/A,2,14,N/A,N/A,N/A
+8,bottom,0,[],Vinnie Pestano,0,0,0,Conor Gillaspie,['Conor Gillaspie'],['Jeff Keppinger'],['N/A'],Single,N/A,2,14,N/A,N/A,N/A
+8,bottom,0,[],Vinnie Pestano,1,3,3,Avisail Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,14,N/A,N/A,N/A
+8,bottom,1,['Jeff Keppinger'],Vinnie Pestano,2,1,0,Dayan Viciedo,['N/A'],['Conor Gillaspie'],"['Jeff Keppinger', 'Conor Gillaspie']",Sac Fly,N/A,3,14,1,N/A,N/A
+8,bottom,0,[],Vinnie Pestano,3,2,3,Miguel Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,14,N/A,N/A,N/A
+9,top,0,[],Dylan Axelrod,0,1,0,Nick Swisher,['N/A'],['Nick Swisher'],['N/A'],Field Error,N/A,3,14,N/A,N/A,Dayan Viciedo
+9,top,0,[],Dylan Axelrod,1,0,2,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,14,N/A,N/A,N/A
+9,top,0,[],Dylan Axelrod,2,1,3,Carlos Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,14,N/A,N/A,N/A
+9,top,0,[],Dylan Axelrod,2,4,2,Matt Carson,['Matt Carson'],['N/A'],['N/A'],Walk,N/A,3,14,N/A,N/A,N/A
+9,top,0,[],Dylan Axelrod,2,4,2,Jason Kubel,['Jason Kubel'],['Matt Carson'],['Nick Swisher'],Walk,N/A,3,14,N/A,N/A,N/A
+9,top,0,[],Dylan Axelrod,3,1,3,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,14,N/A,N/A,N/A
+9,bottom,0,[],Preston Guilmet,0,4,2,Marcus Semien,['Marcus Semien'],['N/A'],['N/A'],Walk,N/A,3,14,N/A,N/A,N/A
+9,bottom,0,[],Preston Guilmet,1,0,0,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,14,N/A,N/A,N/A
+9,bottom,0,[],Preston Guilmet,2,1,0,Gordon Beckham,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,14,N/A,N/A,N/A
+9,bottom,0,[],Preston Guilmet,3,2,0,Jordan Danks,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,14,N/A,N/A,N/A

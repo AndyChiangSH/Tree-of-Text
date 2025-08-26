@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Guillermo Moscoso,1,3,2,Andres Torres,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Guillermo Moscoso,2,2,2,Emmanuel Burriss,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Guillermo Moscoso,3,1,1,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jonathan Sanchez,1,2,1,Jemile Weeks,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jonathan Sanchez,2,3,2,Cliff Pennington,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jonathan Sanchez,3,2,2,Coco Crisp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Guillermo Moscoso,0,2,2,Aubrey Huff,['Aubrey Huff'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Guillermo Moscoso,1,0,1,Cody Ross,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Guillermo Moscoso,2,0,2,Nate Schierholtz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Guillermo Moscoso,2,1,0,Aaron Rowand,['Aaron Rowand'],['Aubrey Huff'],['N/A'],Field Error,N/A,0,0,N/A,N/A,Cliff Pennington
+2,top,0,[],Guillermo Moscoso,2,4,2,Brandon Crawford,['Brandon Crawford'],['Aaron Rowand'],['Aubrey Huff'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Guillermo Moscoso,3,1,1,Chris Stewart,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,0,2,1,Hideki Matsui,['Hideki Matsui'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,1,1,0,Conor Jackson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,2,2,1,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,2,4,0,Scott Sizemore,['Scott Sizemore'],['Hideki Matsui'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,3,2,3,Adam Rosales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Guillermo Moscoso,1,1,2,Andres Torres,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Guillermo Moscoso,2,0,0,Emmanuel Burriss,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Guillermo Moscoso,3,2,1,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jonathan Sanchez,1,1,0,Daric Barton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jonathan Sanchez,2,1,3,Jemile Weeks,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jonathan Sanchez,3,0,2,Cliff Pennington,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Guillermo Moscoso,1,1,2,Aubrey Huff,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Guillermo Moscoso,1,4,1,Cody Ross,['Cody Ross'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Guillermo Moscoso,1,2,1,Nate Schierholtz,['Nate Schierholtz'],['Cody Ross'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Guillermo Moscoso,2,1,1,Aaron Rowand,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Guillermo Moscoso,3,2,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,0,3,2,Coco Crisp,['N/A'],['Coco Crisp'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,1,3,1,Hideki Matsui,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,1,3,2,Conor Jackson,['N/A'],['N/A'],['Coco Crisp'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,1,4,2,Conor Jackson,['Conor Jackson'],['N/A'],['Coco Crisp'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,3,3,3,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Guillermo Moscoso,0,0,1,Chris Stewart,['Chris Stewart'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Guillermo Moscoso,0,4,2,Andres Torres,['Andres Torres'],['Chris Stewart'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+5,top,1,['Chris Stewart'],Guillermo Moscoso,0,0,0,Emmanuel Burriss,['N/A'],['Emmanuel Burriss'],['Andres Torres'],Field Error,N/A,0,1,N/A,1,Guillermo Moscoso
+5,top,0,[],Guillermo Moscoso,1,1,3,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,1,['Andres Torres'],Guillermo Moscoso,2,2,1,Aubrey Huff,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,2,1,N/A,N/A
+5,top,0,[],Brad Ziegler,3,2,3,Cody Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Jonathan Sanchez,0,0,0,Scott Sizemore,['Scott Sizemore'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Jonathan Sanchez,1,0,1,Adam Rosales,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+5,bottom,1,['Scott Sizemore'],Jonathan Sanchez,1,0,1,Daric Barton,['N/A'],['Daric Barton'],['N/A'],Double,N/A,1,2,1,N/A,N/A
+5,bottom,0,[],Jonathan Sanchez,2,1,1,Jemile Weeks,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+5,bottom,1,['Daric Barton'],Jonathan Sanchez,2,0,0,Cliff Pennington,['N/A'],['Cliff Pennington'],['N/A'],Double,N/A,2,2,1,N/A,N/A
+5,bottom,0,[],Jonathan Sanchez,2,2,2,Coco Crisp,['N/A'],['N/A'],['Cliff Pennington'],Wild Pitch,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Jonathan Sanchez,2,4,2,Coco Crisp,['Coco Crisp'],['N/A'],['Cliff Pennington'],Walk,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],N/A,2,2,2,Hideki Matsui,['N/A'],['Coco Crisp'],['N/A'],Stolen Base 2B,N/A,2,2,N/A,N/A,N/A
+5,bottom,2,"['Cliff Pennington', 'Coco Crisp']",Jonathan Sanchez,2,2,2,Hideki Matsui,['N/A'],"['Coco Crisp', 'Hideki Matsui']",['N/A'],Single,N/A,4,2,2,N/A,N/A
+5,bottom,0,[],Ramon Ramirez,3,2,1,Conor Jackson,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Joey Devine,0,1,2,Nate Schierholtz,['N/A'],['Nate Schierholtz'],['N/A'],Double,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Joey Devine,1,1,0,Aaron Rowand,['Aaron Rowand'],['N/A'],['N/A'],Fielders Choice Out,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Joey Devine,1,0,0,Brandon Crawford,['Brandon Crawford'],['N/A'],['Aaron Rowand'],Single,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Joey Devine,2,2,3,Pat Burrell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Joey Devine,3,1,3,Andres Torres,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Ramon Ramirez,1,1,3,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Ramon Ramirez,2,2,2,Scott Sizemore,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Ramon Ramirez,2,4,0,Ryan Sweeney,['Ryan Sweeney'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Ramon Ramirez,3,3,3,Daric Barton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Brian Fuentes,0,4,1,Emmanuel Burriss,['Emmanuel Burriss'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Brian Fuentes,1,1,3,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Brian Fuentes,2,1,3,Aubrey Huff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Brian Fuentes,3,2,3,Cody Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Ramon Ramirez,1,2,1,Jemile Weeks,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Ramon Ramirez,2,2,3,Cliff Pennington,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Ramon Ramirez,3,0,3,Coco Crisp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Grant Balfour,1,2,2,Nate Schierholtz,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Grant Balfour,1,1,2,Aaron Rowand,['Aaron Rowand'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Grant Balfour,2,0,2,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Forceout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Grant Balfour,3,3,3,Eli Whiteside,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Sergio Romo,1,0,0,Hideki Matsui,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Sergio Romo,1,1,1,Conor Jackson,['Conor Jackson'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Sergio Romo,2,1,0,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Sergio Romo,3,0,3,Scott Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Andrew Bailey,1,0,0,Andres Torres,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Andrew Bailey,1,2,2,Emmanuel Burriss,['Emmanuel Burriss'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Andrew Bailey,3,3,2,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A

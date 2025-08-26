@@ -1,0 +1,68 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Brock Stewart,1,2,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brock Stewart,1,4,2,Kris Bryant,['Kris Bryant'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brock Stewart,2,1,2,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brock Stewart,3,2,3,Ben Zobrist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jon Lester,0,4,1,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jon Lester,1,0,3,Corey Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jon Lester,2,2,3,Justin Turner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jon Lester,3,3,3,Adrian Gonzalez,['N/A'],['N/A'],['Howie Kendrick'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brock Stewart,1,0,0,Addison Russell,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brock Stewart,1,1,2,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brock Stewart,2,0,3,Javier Baez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brock Stewart,3,0,3,David Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jon Lester,1,0,3,Enrique Hernandez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jon Lester,2,0,0,Rob Segedin,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jon Lester,3,2,1,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brock Stewart,1,1,3,Jon Lester,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brock Stewart,2,2,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brock Stewart,3,0,3,Kris Bryant,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jon Lester,1,2,3,Charlie Culberson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jon Lester,1,1,1,Brock Stewart,['Brock Stewart'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jon Lester,3,1,2,Howie Kendrick,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Brock Stewart,1,0,3,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Brock Stewart,2,1,2,Ben Zobrist,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Brock Stewart,3,1,1,Addison Russell,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jon Lester,0,4,2,Corey Seager,['Corey Seager'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jon Lester,1,2,2,Justin Turner,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jon Lester,1,1,2,Adrian Gonzalez,['Adrian Gonzalez'],['Corey Seager'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jon Lester,3,0,1,Enrique Hernandez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Brock Stewart,0,2,2,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Brock Stewart,1,0,2,Javier Baez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Brock Stewart,1,4,2,David Ross,['David Ross'],['Jason Heyward'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Brock Stewart,2,1,2,Jon Lester,['N/A'],['David Ross'],['Jason Heyward'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Brock Stewart,3,1,1,Dexter Fowler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Jon Lester,0,2,1,Rob Segedin,['Rob Segedin'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Jon Lester,1,3,2,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Jon Lester,2,1,2,Charlie Culberson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Jon Lester,3,1,0,Josh Reddick,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Jesse Chavez,0,1,1,Kris Bryant,['N/A'],['Kris Bryant'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Jesse Chavez,1,0,1,Anthony Rizzo,['N/A'],['N/A'],['Kris Bryant'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Jesse Chavez,1,4,1,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Jesse Chavez,2,2,2,Addison Russell,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Grant Dayton,3,1,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Jon Lester,1,2,2,Howie Kendrick,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Jon Lester,2,2,1,Corey Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Jon Lester,3,3,3,Justin Turner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Grant Dayton,1,0,1,Javier Baez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Grant Dayton,2,1,3,David Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Grant Dayton,2,4,2,Jorge Soler,['Jorge Soler'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Grant Dayton,3,1,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Justin Grimm,0,1,1,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Justin Grimm,1,3,3,Joc Pederson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Justin Grimm,2,2,3,Rob Segedin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Justin Grimm,3,2,3,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+8,top,0,[],Joe Blanton,0,0,1,Kris Bryant,['Kris Bryant'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+8,top,0,[],Joe Blanton,1,1,0,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+8,top,0,[],Joe Blanton,2,0,0,Ben Zobrist,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+8,top,0,[],Joe Blanton,3,0,0,Addison Russell,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+8,bottom,0,[],Trevor Cahill,1,3,3,Chase Utley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+8,bottom,0,[],Trevor Cahill,1,1,0,Andrew Toles,['Andrew Toles'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+8,bottom,0,[],Trevor Cahill,1,1,2,Howie Kendrick,['N/A'],['Howie Kendrick'],['Andrew Toles'],Field Error,N/A,0,0,N/A,N/A,Trevor Cahill
+8,bottom,0,[],Trevor Cahill,1,4,0,Corey Seager,['Corey Seager'],['N/A'],['N/A'],Intent Walk,N/A,0,0,N/A,N/A,N/A
+8,bottom,0,[],Carl Edwards,2,1,3,Justin Turner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+8,bottom,1,['Andrew Toles'],Carl Edwards,2,1,2,Adrian Gonzalez,['Adrian Gonzalez'],['Corey Seager'],['Howie Kendrick'],Fielders Choice,N/A,1,0,1,N/A,N/A
+8,bottom,0,[],Carl Edwards,3,2,3,Joc Pederson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,1,2,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,2,0,2,Javier Baez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,3,0,3,David Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A

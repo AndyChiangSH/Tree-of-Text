@@ -1,0 +1,82 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Clayton Kershaw,0,2,2,Andres Torres,['Andres Torres'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Clayton Kershaw,1,1,3,Freddy Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Clayton Kershaw,3,2,2,Buster Posey,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,0,4,0,Rafael Furcal,['Rafael Furcal'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],N/A,0,2,1,Xavier Paul,['N/A'],['Rafael Furcal'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Rafael Furcal'],Tim Lincecum,0,3,1,Xavier Paul,['N/A'],"['Rafael Furcal', 'Xavier Paul']",['N/A'],Double,N/A,1,0,1,N/A,N/A
+1,bottom,2,['Xavier Paul'],Tim Lincecum,0,1,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,0,2,N/A,N/A
+1,bottom,0,[],Tim Lincecum,1,2,1,James Loney,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,2,1,0,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,3,1,0,Blake DeWitt,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Clayton Kershaw,1,1,3,Pat Burrell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Clayton Kershaw,1,4,2,Pablo Sandoval,['Pablo Sandoval'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Clayton Kershaw,1,3,1,Juan Uribe,['N/A'],['Juan Uribe'],['Pablo Sandoval'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,['Pablo Sandoval'],Clayton Kershaw,2,2,2,Edgar Renteria,['N/A'],['N/A'],['Juan Uribe'],Groundout,N/A,3,1,1,N/A,N/A
+2,top,0,[],Clayton Kershaw,2,4,0,Aaron Rowand,['Aaron Rowand'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Clayton Kershaw,3,0,3,Tim Lincecum,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,0,3,2,Casey Blake,['Casey Blake'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,1,1,3,Russell Martin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,2,0,1,Clayton Kershaw,['N/A'],['Casey Blake'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,3,1,1,Rafael Furcal,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Clayton Kershaw,1,1,3,Andres Torres,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Clayton Kershaw,2,0,0,Freddy Sanchez,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Clayton Kershaw,3,2,1,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,0,0,1,Xavier Paul,['Xavier Paul'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,0,4,0,Andre Ethier,['Andre Ethier'],['Xavier Paul'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,1,0,2,James Loney,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,2,2,1,Matt Kemp,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Xavier Paul'],Tim Lincecum,2,2,2,Blake DeWitt,['Blake DeWitt'],['N/A'],['Andre Ethier'],Single,N/A,4,1,1,N/A,N/A
+3,bottom,1,['Andre Ethier'],Tim Lincecum,2,0,1,Casey Blake,['N/A'],['Casey Blake'],['Blake DeWitt'],Double,N/A,5,1,1,N/A,N/A
+3,bottom,0,[],Tim Lincecum,2,4,0,Russell Martin,['Russell Martin'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,3,0,1,Clayton Kershaw,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,1,0,2,Pat Burrell,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,2,0,0,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Clayton Kershaw,3,3,1,Juan Uribe,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,1,3,3,Rafael Furcal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,2,0,2,Xavier Paul,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,3,0,0,Andre Ethier,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Clayton Kershaw,1,1,1,Edgar Renteria,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Clayton Kershaw,2,0,3,Aaron Rowand,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Clayton Kershaw,3,0,3,Tim Lincecum,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Tim Lincecum,1,1,0,James Loney,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Tim Lincecum,1,2,0,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Tim Lincecum,2,1,0,Blake DeWitt,['Blake DeWitt'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Denny Bautista,3,1,1,Casey Blake,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Clayton Kershaw,1,1,2,Andres Torres,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Clayton Kershaw,1,1,1,Freddy Sanchez,['Freddy Sanchez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Clayton Kershaw,1,3,2,Buster Posey,['Buster Posey'],['N/A'],['Freddy Sanchez'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Freddy Sanchez'],Clayton Kershaw,1,3,1,Pat Burrell,['N/A'],['Pat Burrell'],['Buster Posey'],Sac Fly,Error,5,2,1,N/A,Xavier Paul
+6,top,2,"['Buster Posey', 'Pat Burrell']",Clayton Kershaw,1,1,2,Pablo Sandoval,['N/A'],['Pablo Sandoval'],['N/A'],Double,N/A,5,4,2,N/A,N/A
+6,top,0,[],Clayton Kershaw,2,0,1,Juan Uribe,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Clayton Kershaw,3,3,2,Edgar Renteria,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Denny Bautista,1,3,1,Russell Martin,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Denny Bautista,2,3,3,Clayton Kershaw,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Denny Bautista,3,3,3,Rafael Furcal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Clayton Kershaw,0,0,0,Aaron Rowand,['Aaron Rowand'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Hung-Chih Kuo,1,0,1,Eugenio Velez,['N/A'],['Aaron Rowand'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Hung-Chih Kuo,2,0,1,Andres Torres,['N/A'],['N/A'],['Aaron Rowand'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Hung-Chih Kuo,3,1,1,Freddy Sanchez,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Santiago Casilla,0,3,1,Xavier Paul,['N/A'],['Xavier Paul'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Santiago Casilla,1,0,0,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Santiago Casilla,1,4,0,James Loney,['James Loney'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Santiago Casilla,3,3,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,1,3,3,Buster Posey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,2,1,1,Pat Burrell,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,3,1,2,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Santiago Casilla,1,0,3,Blake DeWitt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Santiago Casilla,2,1,1,Casey Blake,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Santiago Casilla,3,2,0,Russell Martin,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jonathan Broxton,0,1,2,Juan Uribe,['Juan Uribe'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jonathan Broxton,0,4,2,Edgar Renteria,"['Nate Schierholtz', 'Edgar Renteria']",['Nate Schierholtz'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jonathan Broxton,1,0,0,Aaron Rowand,['N/A'],['Edgar Renteria'],['Nate Schierholtz'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jonathan Broxton,1,4,0,Aubrey Huff,['Aubrey Huff'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,2,"['Nate Schierholtz', 'Edgar Renteria']",George Sherrill,1,0,1,Andres Torres,['N/A'],['Andres Torres'],['Aubrey Huff'],Double,N/A,5,6,2,N/A,N/A
+9,top,0,[],Travis Schlichting,2,0,0,Freddy Sanchez,['Freddy Sanchez'],['N/A'],['N/A'],Fielders Choice Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,1,['Andres Torres'],Travis Schlichting,2,0,0,Buster Posey,['Buster Posey'],['N/A'],['Freddy Sanchez'],Single,N/A,5,7,1,N/A,N/A
+9,top,0,[],Travis Schlichting,2,4,1,Pat Burrell,['Pat Burrell'],['Buster Posey'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Travis Schlichting,3,0,0,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Jeremy Affeldt,1,2,2,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Jeremy Affeldt,1,2,1,Rafael Furcal,['N/A'],['Rafael Furcal'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Jeremy Affeldt,2,1,3,Ronnie Belliard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Jeremy Affeldt,3,3,3,Andre Ethier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

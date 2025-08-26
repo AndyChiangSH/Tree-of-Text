@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Shaun Marcum,0,0,2,Shane Victorino,['Shane Victorino'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Shaun Marcum,1,0,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Shaun Marcum,1,3,2,Hunter Pence,['Hunter Pence'],['N/A'],['Shane Victorino'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,3,"['Shane Victorino', 'Hunter Pence']",Shaun Marcum,1,2,0,Ryan Howard,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,3,N/A,N/A
+1,top,0,[],Shaun Marcum,1,0,2,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Shaun Marcum,2,0,0,Pete Orr,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Shaun Marcum,2,3,2,Carlos Ruiz,['Carlos Ruiz'],['Raul Ibanez'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Shaun Marcum,3,0,0,Wilson Valdez,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,1,2,2,Corey Hart,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,2,0,1,Nyjer Morgan,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,2,2,2,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Roy Halladay,3,2,0,Prince Fielder,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Shaun Marcum,1,1,3,Roy Halladay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Shaun Marcum,2,1,2,Shane Victorino,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Shaun Marcum,3,1,0,Placido Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Roy Halladay,1,2,3,Casey McGehee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Roy Halladay,2,1,1,Taylor Green,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Roy Halladay,3,0,3,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Shaun Marcum,1,0,0,Hunter Pence,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Shaun Marcum,1,4,2,Ryan Howard,['Ryan Howard'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Shaun Marcum,2,2,3,Raul Ibanez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Shaun Marcum,2,1,0,Pete Orr,['Pete Orr'],['Ryan Howard'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Shaun Marcum,2,4,2,Carlos Ruiz,['Carlos Ruiz'],['Pete Orr'],['Ryan Howard'],Walk,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Shaun Marcum,3,0,1,Wilson Valdez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Roy Halladay,0,4,1,Jonathan Lucroy,['Jonathan Lucroy'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Roy Halladay,1,0,1,Shaun Marcum,['N/A'],['Jonathan Lucroy'],['N/A'],Sac Bunt,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Roy Halladay,2,2,3,Corey Hart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Roy Halladay,3,0,0,Nyjer Morgan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Shaun Marcum,1,0,0,Roy Halladay,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Shaun Marcum,2,3,2,Shane Victorino,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Shaun Marcum,3,0,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Roy Halladay,0,0,0,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Roy Halladay,1,0,1,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Roy Halladay,1,4,1,Casey McGehee,['Casey McGehee'],['Prince Fielder'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Roy Halladay,1,2,2,Taylor Green,['Taylor Green'],['Casey McGehee'],['Prince Fielder'],Single,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Roy Halladay,3,0,0,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Shaun Marcum,1,2,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Shaun Marcum,2,1,2,Ryan Howard,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Shaun Marcum,3,0,0,Raul Ibanez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Roy Halladay,1,1,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Roy Halladay,2,1,3,Shaun Marcum,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Roy Halladay,3,2,1,Corey Hart,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Shaun Marcum,0,2,2,Pete Orr,['Pete Orr'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Shaun Marcum,0,4,2,Carlos Ruiz,['Carlos Ruiz'],['Pete Orr'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Shaun Marcum,2,0,0,Wilson Valdez,['N/A'],['N/A'],['Pete Orr'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Shaun Marcum,3,0,0,Roy Halladay,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Roy Halladay,1,2,1,Nyjer Morgan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Roy Halladay,2,2,3,Ryan Braun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Roy Halladay,3,0,3,Prince Fielder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Shaun Marcum,1,2,2,Shane Victorino,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Shaun Marcum,1,1,2,Placido Polanco,['N/A'],['Placido Polanco'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Shaun Marcum,2,0,0,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Shaun Marcum,2,4,0,Ryan Howard,['Ryan Howard'],['N/A'],['N/A'],Intent Walk,N/A,0,3,N/A,N/A,N/A
+7,top,1,['Placido Polanco'],Shaun Marcum,2,2,1,Raul Ibanez,['Raul Ibanez'],['Ryan Howard'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+7,top,0,[],Takashi Saito,2,0,1,Pete Orr,['Pete Orr'],['Raul Ibanez'],['Ryan Howard'],Single,N/A,0,4,N/A,N/A,N/A
+7,top,1,['Ryan Howard'],Takashi Saito,2,2,1,Carlos Ruiz,['Carlos Ruiz'],['Pete Orr'],['Raul Ibanez'],Single,N/A,0,5,1,N/A,N/A
+7,top,0,[],Takashi Saito,3,3,3,Wilson Valdez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+7,bottom,0,[],Roy Halladay,0,0,1,Casey McGehee,['N/A'],['Casey McGehee'],['N/A'],Double,N/A,0,5,N/A,N/A,N/A
+7,bottom,0,[],Roy Halladay,1,0,1,Taylor Green,['N/A'],['N/A'],['Casey McGehee'],Groundout,N/A,0,5,N/A,N/A,N/A
+7,bottom,1,['Casey McGehee'],Roy Halladay,2,1,1,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,5,1,N/A,N/A
+7,bottom,0,[],Roy Halladay,3,3,3,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+8,top,0,[],Francisco Rodriguez,1,2,0,Roy Halladay,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+8,top,0,[],Francisco Rodriguez,2,0,1,Shane Victorino,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+8,top,0,[],Francisco Rodriguez,3,2,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Roy Halladay,1,2,3,Mark Kotsay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Roy Halladay,1,4,2,Corey Hart,['Corey Hart'],['N/A'],['N/A'],Walk,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Roy Halladay,2,2,2,Nyjer Morgan,['Nyjer Morgan'],['N/A'],['N/A'],Forceout,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Roy Halladay,3,2,3,Ryan Braun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+9,top,0,[],Kameron Loe,1,1,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,5,N/A,N/A,N/A
+9,top,0,[],Kameron Loe,2,0,3,Ryan Howard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+9,top,0,[],Kameron Loe,3,2,2,Raul Ibanez,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,5,N/A,N/A,N/A
+9,bottom,0,[],Antonio Bastardo,0,0,2,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+9,bottom,0,[],Antonio Bastardo,0,4,1,Casey McGehee,['Casey McGehee'],['Prince Fielder'],['N/A'],Walk,N/A,1,5,N/A,N/A,N/A
+9,bottom,0,[],Ryan Madson,1,2,2,Jerry Hairston,['N/A'],['Casey McGehee'],['Prince Fielder'],Groundout,N/A,1,5,N/A,N/A,N/A
+9,bottom,1,['Prince Fielder'],Ryan Madson,1,1,0,Yuniesky Betancourt,['Yuniesky Betancourt'],['N/A'],['Casey McGehee'],Single,N/A,2,5,1,N/A,N/A
+9,bottom,1,['Casey McGehee'],Ryan Madson,2,2,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,5,1,N/A,N/A
+9,bottom,0,[],Ryan Madson,3,0,0,George Kottaras,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A

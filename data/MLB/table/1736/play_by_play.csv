@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Danny Duffy,1,3,1,Matt Carpenter,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Danny Duffy,2,1,1,Yadier Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Danny Duffy,3,3,3,Jose Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jack Flaherty,0,4,2,Whit Merrifield,['Whit Merrifield'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jack Flaherty,2,1,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Double Play,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jack Flaherty,2,4,2,Salvador Perez,['Salvador Perez'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jack Flaherty,3,0,3,Lucas Duda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Danny Duffy,0,0,0,Marcell Ozuna,['Marcell Ozuna'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Danny Duffy,1,1,0,Paul DeJong,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Danny Duffy,2,0,0,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Danny Duffy,2,4,2,Harrison Bader,['Harrison Bader'],['Marcell Ozuna'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Danny Duffy,3,0,2,Kolten Wong,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jack Flaherty,1,0,0,Rosell Herrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jack Flaherty,2,0,3,Brett Phillips,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jack Flaherty,3,1,2,Ryan O'Hearn,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,1,0,0,Adolis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,2,3,2,Matt Carpenter,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,2,3,2,Yadier Molina,['N/A'],['Yadier Molina'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,2,2,2,Jose Martinez,['N/A'],['N/A'],['Yadier Molina'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+3,top,1,['Yadier Molina'],Danny Duffy,2,2,2,Jose Martinez,['Jose Martinez'],['N/A'],['Yadier Molina'],Single,N/A,0,1,1,N/A,N/A
+3,top,1,['Jose Martinez'],Danny Duffy,2,2,2,Marcell Ozuna,['N/A'],['N/A'],['Marcell Ozuna'],Triple,N/A,0,2,1,N/A,N/A
+3,top,1,['Marcell Ozuna'],Danny Duffy,2,2,2,Paul DeJong,['N/A'],['Paul DeJong'],['N/A'],Double,N/A,0,3,1,N/A,N/A
+3,top,1,['Paul DeJong'],Danny Duffy,2,0,2,Jedd Gyorko,['Jedd Gyorko'],['N/A'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+3,top,0,[],Danny Duffy,3,1,0,Harrison Bader,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Jack Flaherty,0,0,2,Alcides Escobar,['Alcides Escobar'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Jack Flaherty,1,2,3,Adalberto Mondesi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Jack Flaherty,3,1,1,Whit Merrifield,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Danny Duffy,1,0,0,Kolten Wong,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Danny Duffy,2,2,0,Adolis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Danny Duffy,3,3,3,Matt Carpenter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Jack Flaherty,0,4,2,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Jack Flaherty,1,2,3,Salvador Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Jack Flaherty,2,2,1,Lucas Duda,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Jack Flaherty,3,2,1,Rosell Herrera,['N/A'],['Alex Gordon'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Danny Duffy,1,0,2,Yadier Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Danny Duffy,2,1,2,Jose Martinez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Danny Duffy,3,0,1,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Jack Flaherty,1,2,3,Brett Phillips,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Jack Flaherty,1,0,1,Ryan O'Hearn,"[""Ryan O'Hearn""]",['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+5,bottom,2,"[""Ryan O'Hearn""]",Jack Flaherty,1,0,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,2,N/A,N/A
+5,bottom,0,[],Jack Flaherty,2,3,1,Adalberto Mondesi,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Jack Flaherty,3,1,3,Whit Merrifield,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Danny Duffy,1,1,2,Paul DeJong,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Danny Duffy,1,2,0,Jedd Gyorko,['Jedd Gyorko'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,top,2,['Jedd Gyorko'],Danny Duffy,1,3,2,Harrison Bader,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,6,2,N/A,N/A
+6,top,0,[],Kevin McCarthy,2,0,1,Kolten Wong,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+6,top,0,[],Kevin McCarthy,3,3,3,Adolis Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Jack Flaherty,1,0,0,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Jack Flaherty,2,0,1,Salvador Perez,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Jack Flaherty,3,1,3,Lucas Duda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Brian Flynn,0,4,2,Matt Carpenter,['Matt Carpenter'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Brian Flynn,1,2,1,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Forceout,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Brian Flynn,1,4,2,Jose Martinez,['Jose Martinez'],['Yadier Molina'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Brian Flynn,3,0,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Jack Flaherty,1,3,3,Rosell Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Jack Flaherty,2,0,2,Brett Phillips,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Jack Flaherty,3,2,3,Ryan O'Hearn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Brian Flynn,1,0,3,Paul DeJong,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Brian Flynn,2,0,0,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Brian Flynn,2,1,0,Harrison Bader,['Harrison Bader'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Brian Flynn,3,2,2,Kolten Wong,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Dakota Hudson,0,4,1,Alcides Escobar,['Alcides Escobar'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Dakota Hudson,0,0,0,Adalberto Mondesi,['Adalberto Mondesi'],['Alcides Escobar'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Dakota Hudson,2,0,2,Whit Merrifield,['N/A'],['N/A'],['Alcides Escobar'],Grounded Into DP,N/A,2,6,N/A,N/A,N/A
+8,bottom,1,['Alcides Escobar'],Dakota Hudson,2,4,2,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Walk,N/A,3,6,N/A,N/A,N/A
+8,bottom,0,[],Jordan Hicks,3,0,3,Salvador Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+9,top,0,[],Brian Flynn,1,3,2,Adolis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,6,N/A,N/A,N/A
+9,top,0,[],Brian Flynn,2,2,2,Matt Carpenter,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,6,N/A,N/A,N/A
+9,top,0,[],Brian Flynn,2,0,2,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Single,N/A,3,6,N/A,N/A,N/A
+9,top,2,['Yadier Molina'],Brian Flynn,2,0,0,Jose Martinez,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,8,2,N/A,N/A
+9,top,0,[],Brian Flynn,3,1,2,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Jordan Hicks,0,1,2,Lucas Duda,['Lucas Duda'],['N/A'],['N/A'],Single,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Jordan Hicks,1,1,0,Rosell Herrera,['N/A'],['Lucas Duda'],['N/A'],Groundout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Jordan Hicks,2,2,2,Brett Phillips,['N/A'],['N/A'],['Lucas Duda'],Groundout,N/A,3,8,N/A,N/A,N/A
+9,bottom,0,[],Jordan Hicks,3,1,1,Ryan O'Hearn,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,8,N/A,N/A,N/A

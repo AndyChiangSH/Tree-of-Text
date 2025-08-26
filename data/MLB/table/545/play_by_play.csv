@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Kevin Correia,0,0,1,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kevin Correia,2,0,1,Aaron Miles,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kevin Correia,3,3,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,1,0,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,2,2,3,Jose Tabata,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,3,2,0,Matt Diaz,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Kevin Correia,1,0,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Kevin Correia,2,0,1,Juan Uribe,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Kevin Correia,3,2,1,James Loney,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,1,0,2,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,2,2,2,Steve Pearce,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,2,4,1,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,3,1,2,Brandon Wood,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Kevin Correia,1,0,0,Rod Barajas,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Kevin Correia,2,1,1,Jerry Sands,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Kevin Correia,3,2,2,Ted Lilly,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,1,0,3,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,2,0,3,Kevin Correia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,2,1,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,3,2,2,Jose Tabata,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Kevin Correia,0,3,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Kevin Correia,0,2,2,Aaron Miles,['Aaron Miles'],['Jamey Carroll'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Kevin Correia,2,2,0,Andre Ethier,['N/A'],['N/A'],['Jamey Carroll'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Kevin Correia,3,1,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,1,0,2,Matt Diaz,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,2,0,1,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,2,0,2,Steve Pearce,['Steve Pearce'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,3,1,2,Ryan Doumit,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Kevin Correia,1,2,0,Juan Uribe,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Kevin Correia,2,2,2,James Loney,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Kevin Correia,3,1,2,Rod Barajas,['N/A'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Ted Lilly,1,1,2,Brandon Wood,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Ted Lilly,2,1,3,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Ted Lilly,3,2,2,Kevin Correia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Kevin Correia,1,0,2,Jerry Sands,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Kevin Correia,2,2,2,Ted Lilly,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Kevin Correia,2,2,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Kevin Correia,2,0,0,Aaron Miles,['Aaron Miles'],['Jamey Carroll'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+6,top,1,['Jamey Carroll'],Kevin Correia,2,0,1,Andre Ethier,['Andre Ethier'],['N/A'],['Aaron Miles'],Single,N/A,0,1,1,N/A,N/A
+6,top,3,"['Aaron Miles', 'Andre Ethier']",Kevin Correia,2,0,0,Matt Kemp,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,3,N/A,N/A
+6,top,0,[],Kevin Correia,3,1,0,Juan Uribe,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+6,bottom,1,[],Ted Lilly,0,1,0,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,4,1,N/A,N/A
+6,bottom,0,[],Ted Lilly,0,1,2,Jose Tabata,['N/A'],['Jose Tabata'],['N/A'],Double,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Ted Lilly,1,2,1,Matt Diaz,['N/A'],['N/A'],['Jose Tabata'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,1,['Jose Tabata'],Ted Lilly,2,1,2,Neil Walker,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,4,1,N/A,N/A
+6,bottom,0,[],Ted Lilly,3,2,2,Steve Pearce,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Kevin Correia,1,2,2,James Loney,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Kevin Correia,1,2,0,Rod Barajas,['N/A'],['Rod Barajas'],['N/A'],Double,N/A,2,4,N/A,N/A,N/A
+7,top,1,['Rod Barajas'],Kevin Correia,1,0,0,Jerry Sands,['N/A'],['Jerry Sands'],['N/A'],Single,Error,2,5,N/A,1,Steve Pearce
+7,top,0,[],Daniel Moskos,2,2,2,Jay Gibbons,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Daniel Moskos,2,4,0,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Daniel Moskos,3,0,0,Aaron Miles,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Blake Hawksworth,0,1,1,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Blake Hawksworth,1,2,2,Brandon Wood,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Blake Hawksworth,2,2,0,Pedro Alvarez,['Pedro Alvarez'],['N/A'],['N/A'],Forceout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,3,1,3,Xavier Paul,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Michael Crotta,0,1,2,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Michael Crotta,0,1,0,Matt Kemp,['Matt Kemp'],['Andre Ethier'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+8,top,1,['Andre Ethier'],Michael Crotta,0,0,0,Juan Uribe,['Juan Uribe'],['Matt Kemp'],['N/A'],Single,N/A,2,6,1,N/A,N/A
+8,top,0,[],Michael Crotta,0,3,2,James Loney,['N/A'],['Juan Uribe'],['Matt Kemp'],Wild Pitch,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Michael Crotta,0,4,2,James Loney,['James Loney'],['Juan Uribe'],['Matt Kemp'],Walk,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Chris Resop,1,0,3,Rod Barajas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+8,top,1,['Matt Kemp'],Chris Resop,1,4,2,Jerry Sands,['Jerry Sands'],['James Loney'],['Juan Uribe'],Walk,N/A,2,7,1,N/A,N/A
+8,top,1,['Juan Uribe'],Chris Resop,1,4,1,Matt Guerrier,['Matt Guerrier'],['Jerry Sands'],['James Loney'],Walk,N/A,2,8,1,N/A,N/A
+8,top,0,[],Chris Resop,2,1,3,Jamey Carroll,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,8,N/A,N/A,N/A
+8,top,2,"['James Loney', 'Jerry Sands']",Chris Resop,2,1,0,Aaron Miles,['Aaron Miles'],['Matt Guerrier'],['N/A'],Single,N/A,2,10,2,N/A,N/A
+8,top,0,[],Chris Resop,3,0,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,10,N/A,N/A,N/A
+8,bottom,1,[],Lance Cormier,0,3,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,10,1,N/A,N/A
+8,bottom,0,[],Lance Cormier,1,2,3,Jose Tabata,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+8,bottom,0,[],Lance Cormier,1,2,2,Matt Diaz,['N/A'],['Matt Diaz'],['N/A'],Double,N/A,3,10,N/A,N/A,N/A
+8,bottom,0,[],Lance Cormier,2,1,2,Neil Walker,['N/A'],['N/A'],['Matt Diaz'],Groundout,N/A,3,10,N/A,N/A,N/A
+8,bottom,0,[],Lance Cormier,3,1,2,Steve Pearce,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+9,top,0,[],Chris Resop,0,1,2,Tony Gwynn Jr.,['N/A'],['Tony Gwynn Jr.'],['N/A'],Field Error,N/A,3,10,N/A,N/A,Chris Resop
+9,top,0,[],Chris Resop,1,0,3,Russell Mitchell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+9,top,0,[],Chris Resop,1,0,2,James Loney,['James Loney'],['N/A'],['Tony Gwynn Jr.'],Single,N/A,3,10,N/A,N/A,N/A
+9,top,0,[],Chris Resop,2,1,1,Rod Barajas,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+9,top,0,[],Chris Resop,3,0,3,Jerry Sands,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+9,bottom,0,[],Lance Cormier,1,1,1,Ryan Doumit,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+9,bottom,0,[],Lance Cormier,2,1,2,Brandon Wood,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+9,bottom,0,[],Lance Cormier,3,1,1,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A

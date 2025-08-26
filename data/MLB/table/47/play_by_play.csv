@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Brian Bannister,0,2,2,Gary Matthews,['Gary Matthews'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Brian Bannister,2,1,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Brian Bannister,2,1,1,Vladimir Guerrero,['N/A'],['N/A'],['Vladimir Guerrero'],Triple,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Brian Bannister,3,1,1,Casey Kotchman,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nick Adenhart,1,2,3,Joey Gathright,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nick Adenhart,2,1,2,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nick Adenhart,3,2,3,David DeJesus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Brian Bannister,1,2,3,Torii Hunter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Brian Bannister,2,2,1,Garret Anderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Brian Bannister,3,1,1,Brandon Wood,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nick Adenhart,1,0,0,Billy Butler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nick Adenhart,2,0,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nick Adenhart,2,4,1,Mark Teahen,['Mark Teahen'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Mark Teahen'],Nick Adenhart,2,1,1,Miguel Olivo,['N/A'],['Miguel Olivo'],['N/A'],Double,N/A,1,0,1,N/A,N/A
+2,bottom,1,['Miguel Olivo'],Nick Adenhart,2,0,0,Ross Gload,['N/A'],['Ross Gload'],['N/A'],Double,N/A,2,0,1,N/A,N/A
+2,bottom,0,[],Nick Adenhart,2,4,2,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nick Adenhart,3,1,1,Joey Gathright,['N/A'],['Alberto Callaspo'],['Ross Gload'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,0,0,1,Sean Rodriguez,['Sean Rodriguez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,1,1,0,Jeff Mathis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,2,0,2,Gary Matthews,['Gary Matthews'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,2,1,0,Erick Aybar,['Erick Aybar'],['N/A'],['Gary Matthews'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,2,2,2,Vladimir Guerrero,['N/A'],['Erick Aybar'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Brian Bannister,3,2,2,Vladimir Guerrero,['N/A'],['Erick Aybar'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Nick Adenhart,1,0,0,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Nick Adenhart,2,0,3,David DeJesus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Nick Adenhart,2,2,1,Billy Butler,['N/A'],['Billy Butler'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Billy Butler'],Nick Adenhart,2,0,2,Alex Gordon,['N/A'],['Alex Gordon'],['N/A'],Double,N/A,3,0,1,N/A,N/A
+3,bottom,0,[],Nick Adenhart,3,1,0,Mark Teahen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Bannister,0,2,1,Casey Kotchman,['Casey Kotchman'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Bannister,0,0,0,Torii Hunter,['N/A'],['Torii Hunter'],['Casey Kotchman'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,3,"['Casey Kotchman', 'Torii Hunter']",Brian Bannister,0,0,0,Garret Anderson,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,3,N/A,N/A
+4,top,0,[],Brian Bannister,1,3,2,Brandon Wood,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Bannister,1,0,1,Sean Rodriguez,['Sean Rodriguez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Bannister,2,1,0,Jeff Mathis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Brian Bannister,3,0,3,Gary Matthews,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nick Adenhart,0,3,1,Miguel Olivo,['Miguel Olivo'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nick Adenhart,1,0,2,Ross Gload,['N/A'],['Miguel Olivo'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nick Adenhart,2,4,2,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nick Adenhart,2,2,1,Joey Gathright,['Joey Gathright'],['Alberto Callaspo'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Nick Adenhart,3,2,0,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Bannister,1,2,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Bannister,1,4,0,Vladimir Guerrero,['Vladimir Guerrero'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Bannister,1,1,0,Casey Kotchman,['Casey Kotchman'],['Vladimir Guerrero'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Brian Bannister,2,0,0,Torii Hunter,['N/A'],['N/A'],['Vladimir Guerrero'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['Vladimir Guerrero'],Brian Bannister,2,0,1,Garret Anderson,['N/A'],['Garret Anderson'],['Casey Kotchman'],Single,Error,3,4,1,N/A,Mark Teahen
+5,top,0,[],Brian Bannister,3,3,2,Brandon Wood,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Nick Adenhart,1,1,0,David DeJesus,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Nick Adenhart,1,4,0,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Nick Adenhart,1,4,1,Alex Gordon,['Alex Gordon'],['Billy Butler'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Darren Oliver,2,1,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Darren Oliver,3,0,3,Miguel Olivo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,1,2,3,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,2,3,1,Jeff Mathis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,2,4,1,Gary Matthews,['Gary Matthews'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brian Bannister,3,0,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Darren Oliver,1,1,2,Ross Gload,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Darren Oliver,2,0,0,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Darren Oliver,3,1,0,Joey Gathright,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brian Bannister,0,0,1,Vladimir Guerrero,['N/A'],['Vladimir Guerrero'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brian Bannister,1,0,0,Casey Kotchman,['N/A'],['N/A'],['Vladimir Guerrero'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brian Bannister,2,0,0,Torii Hunter,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Vladimir Guerrero'],Brian Bannister,2,0,0,Garret Anderson,['Garret Anderson'],['N/A'],['N/A'],Single,N/A,3,5,1,N/A,N/A
+7,top,0,[],Brian Bannister,2,0,0,Brandon Wood,['Brandon Wood'],['Garret Anderson'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ron Mahay,3,2,2,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Speier,1,0,2,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Speier,1,0,0,David DeJesus,['David DeJesus'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Speier,1,4,0,Billy Butler,['Billy Butler'],['David DeJesus'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Speier,1,1,2,Alex Gordon,['Alex Gordon'],['Billy Butler'],['David DeJesus'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Speier,2,2,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Speier,3,1,1,Miguel Olivo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ron Mahay,1,2,0,Jeff Mathis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ron Mahay,2,0,3,Gary Matthews,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ron Mahay,2,0,0,Erick Aybar,['N/A'],['Erick Aybar'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ron Mahay,3,2,2,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Scot Shields,1,1,0,Ross Gload,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Scot Shields,2,1,1,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Scot Shields,3,0,0,Joey Gathright,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jimmy Gobble,1,1,0,Casey Kotchman,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jimmy Gobble,1,2,2,Torii Hunter,['Torii Hunter'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jimmy Gobble,2,0,3,Garret Anderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jimmy Gobble,3,1,3,Brandon Wood,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,1,1,2,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,2,1,1,David DeJesus,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,3,3,2,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

@@ -1,0 +1,86 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Barry Zito,1,3,3,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,1,[],Barry Zito,1,2,2,Ed Lucas,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Barry Zito,2,3,2,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Barry Zito,3,2,1,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jacob Turner,0,0,1,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jacob Turner,0,0,1,Marco Scutaro,['Marco Scutaro'],['Gregor Blanco'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jacob Turner,2,2,1,Buster Posey,['N/A'],['N/A'],['N/A'],Double Play,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jacob Turner,3,1,1,Hunter Pence,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Barry Zito,1,3,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Barry Zito,1,1,0,Adeiny Hechavarria,['Adeiny Hechavarria'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Barry Zito,2,3,2,Placido Polanco,['N/A'],['Placido Polanco'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Barry Zito,2,4,0,Jeff Mathis,['Jeff Mathis'],['N/A'],['N/A'],Intent Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Barry Zito,3,0,3,Jacob Turner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jacob Turner,1,1,3,Brandon Belt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jacob Turner,2,1,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jacob Turner,2,4,2,Juan  Perez,['Juan  Perez'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jacob Turner,3,0,0,Nick Noonan,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Barry Zito,1,3,2,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Barry Zito,1,4,1,Ed Lucas,['Ed Lucas'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Barry Zito,3,0,2,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jacob Turner,0,3,2,Nick Noonan,['Nick Noonan'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jacob Turner,1,0,1,Barry Zito,['N/A'],['Nick Noonan'],['N/A'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jacob Turner,1,0,0,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Field Error,N/A,0,1,N/A,N/A,Jacob Turner
+3,bottom,0,[],Jacob Turner,3,1,0,Marco Scutaro,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Barry Zito,1,2,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Barry Zito,2,0,0,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Barry Zito,3,1,2,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jacob Turner,1,2,2,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jacob Turner,2,0,1,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jacob Turner,2,2,1,Brandon Belt,['N/A'],['Brandon Belt'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jacob Turner,3,1,0,Brandon Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Barry Zito,1,0,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Barry Zito,2,3,3,Jeff Mathis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Barry Zito,2,1,0,Jacob Turner,['Jacob Turner'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Barry Zito,3,0,0,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jacob Turner,0,0,0,Juan  Perez,['N/A'],['Juan  Perez'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jacob Turner,1,0,0,Nick Noonan,['N/A'],['N/A'],['Juan  Perez'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jacob Turner,2,0,0,Barry Zito,['Barry Zito'],['N/A'],['N/A'],Fielders Choice Out,N/A,0,1,N/A,N/A,N/A
+5,bottom,1,['Barry Zito'],Jacob Turner,2,1,2,Gregor Blanco,['N/A'],['Gregor Blanco'],['N/A'],Fan interference,N/A,1,1,1,N/A,N/A
+5,bottom,0,[],Jacob Turner,3,2,0,Marco Scutaro,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Barry Zito,0,1,1,Ed Lucas,['Ed Lucas'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Barry Zito,1,3,2,Giancarlo Stanton,['Giancarlo Stanton'],['N/A'],['N/A'],Forceout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Barry Zito,3,0,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Jacob Turner,1,0,1,Buster Posey,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Jacob Turner,2,2,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Jacob Turner,3,3,1,Brandon Belt,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Barry Zito,1,2,1,Logan Morrison,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Barry Zito,2,2,2,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Barry Zito,2,2,1,Placido Polanco,['Placido Polanco'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Barry Zito,3,1,0,Jeff Mathis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Jacob Turner,1,0,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Jacob Turner,2,1,0,Juan  Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Jacob Turner,3,1,1,Nick Noonan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Jeremy Affeldt,1,1,1,Juan Pierre,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Jeremy Affeldt,2,2,0,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Jeremy Affeldt,2,1,1,Ed Lucas,['Ed Lucas'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Sergio Romo,3,1,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Chad Qualls,1,0,0,Tony Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Chad Qualls,2,1,1,Gregor Blanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Chad Qualls,3,2,3,Marco Scutaro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Sergio Romo,1,2,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Sergio Romo,2,1,0,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Sergio Romo,3,0,2,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Chad Qualls,1,0,3,Buster Posey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Chad Qualls,2,1,0,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,bottom,0,[],Dan Jennings,3,3,3,Brandon Belt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Sergio Romo,0,0,1,Placido Polanco,['Placido Polanco'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Sergio Romo,1,1,3,Jeff Mathis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Javier Lopez,1,0,0,Greg Dobbs,['Greg Dobbs'],['Placido Polanco'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Sandy Rosario,2,3,3,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+10,top,0,[],Sandy Rosario,3,3,3,Ed Lucas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Mike Dunn,1,0,0,Brandon Crawford,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Mike Dunn,2,2,3,Juan  Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Mike Dunn,2,1,1,Joaquin Arias,['Joaquin Arias'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+10,bottom,0,[],Mike Dunn,3,0,2,Tony Abreu,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Sandy Rosario,1,2,1,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Sandy Rosario,1,0,0,Marcell Ozuna,['N/A'],['Marcell Ozuna'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Sandy Rosario,1,4,0,Logan Morrison,['Logan Morrison'],['N/A'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Sandy Rosario,2,2,3,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+11,top,0,[],Sandy Rosario,3,0,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Mike Dunn,0,0,2,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Ryan Webb,1,1,0,Marco Scutaro,['N/A'],['Gregor Blanco'],['N/A'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Ryan Webb,1,1,1,Buster Posey,['Buster Posey'],['N/A'],['Gregor Blanco'],Single,N/A,1,1,N/A,N/A,N/A
+11,bottom,0,[],Ryan Webb,1,4,0,Hunter Pence,['Hunter Pence'],['Buster Posey'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+11,bottom,1,['Gregor Blanco'],Ryan Webb,1,0,1,Hector Sanchez,['Hector Sanchez'],['Hunter Pence'],['Buster Posey'],Single,N/A,2,1,1,N/A,N/A

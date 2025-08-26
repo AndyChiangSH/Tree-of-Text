@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Kip Wells,0,4,0,Michael Bourn,['Michael Bourn'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],N/A,0,1,1,Kazuo Matsui,['N/A'],['Michael Bourn'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Michael Bourn'],Kip Wells,0,3,2,Kazuo Matsui,['Kazuo Matsui'],['Michael Bourn'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],N/A,0,0,2,Hunter Pence,['N/A'],['Kazuo Matsui'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Kip Wells,1,0,2,Hunter Pence,['N/A'],['Kazuo Matsui'],['Kazuo Matsui'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Kip Wells,2,1,1,Carlos Lee,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Kazuo Matsui'],Kip Wells,2,2,1,Miguel Tejada,['Miguel Tejada'],['N/A'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+1,top,0,[],N/A,2,0,1,Geoff Blum,['N/A'],['Miguel Tejada'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Miguel Tejada'],Kip Wells,2,0,1,Geoff Blum,['Geoff Blum'],['Miguel Tejada'],['N/A'],Single,N/A,0,3,1,N/A,N/A
+1,top,0,[],Kip Wells,3,3,2,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,[],Roy Oswalt,0,0,0,Drew Stubbs,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+1,bottom,0,[],Roy Oswalt,0,1,0,Paul Janish,['N/A'],['Paul Janish'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Roy Oswalt,1,2,2,Joey Votto,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Roy Oswalt,1,1,2,Brandon Phillips,['Brandon Phillips'],['N/A'],['Paul Janish'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Paul Janish'],Roy Oswalt,2,1,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,3,1,N/A,N/A
+1,bottom,0,[],Roy Oswalt,3,3,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Kip Wells,1,3,3,Chris Coste,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Kip Wells,2,0,1,Roy Oswalt,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Kip Wells,3,1,2,Michael Bourn,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Roy Oswalt,1,1,1,Laynce Nix,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Roy Oswalt,2,0,2,Corky Miller,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Roy Oswalt,3,1,3,Kip Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,[],Kip Wells,0,0,1,Kazuo Matsui,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,1,N/A,N/A
+3,top,0,[],Kip Wells,1,3,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Kip Wells,2,0,0,Carlos Lee,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Kip Wells,3,0,1,Miguel Tejada,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Roy Oswalt,1,1,1,Drew Stubbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Roy Oswalt,2,0,1,Paul Janish,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Roy Oswalt,2,1,0,Joey Votto,['N/A'],['Joey Votto'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Roy Oswalt,3,0,0,Brandon Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Kip Wells,1,1,0,Geoff Blum,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Kip Wells,2,0,1,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Kip Wells,3,1,1,Chris Coste,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Roy Oswalt,1,0,2,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Roy Oswalt,2,1,0,Jay Bruce,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Roy Oswalt,3,2,2,Laynce Nix,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Kip Wells,1,1,2,Roy Oswalt,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Kip Wells,2,2,2,Michael Bourn,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Kip Wells,3,1,2,Kazuo Matsui,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Roy Oswalt,1,2,2,Corky Miller,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Roy Oswalt,2,1,3,Kip Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Roy Oswalt,3,0,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Kip Wells,1,1,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Kip Wells,2,1,0,Carlos Lee,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Kip Wells,3,0,0,Miguel Tejada,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Roy Oswalt,0,1,0,Paul Janish,['N/A'],['Paul Janish'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Roy Oswalt,0,0,1,Joey Votto,['N/A'],['Joey Votto'],['Paul Janish'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['Paul Janish'],Doug Brocail,1,0,1,Brandon Phillips,['N/A'],['N/A'],['Joey Votto'],Groundout,N/A,3,4,1,N/A,N/A
+6,bottom,1,['Joey Votto'],Doug Brocail,1,3,1,Scott Rolen,['N/A'],['Scott Rolen'],['N/A'],Double,N/A,4,4,1,N/A,N/A
+6,bottom,0,[],Doug Brocail,2,1,2,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Doug Brocail,3,0,1,Laynce Nix,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Kip Wells,1,1,1,Geoff Blum,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Kip Wells,1,2,2,Jeff Keppinger,['Jeff Keppinger'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Kip Wells,2,1,2,Chris Coste,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Kip Wells,2,4,1,Jason Michaels,['Jason Michaels'],['Jeff Keppinger'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Daniel Herrera,3,1,3,Michael Bourn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Sammy Gervacio,0,0,0,Corky Miller,['Corky Miller'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Sammy Gervacio,1,2,0,Drew Sutton,['Bronson Arroyo'],['Bronson Arroyo'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Sammy Gervacio,2,1,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,1,['Bronson Arroyo'],Sammy Gervacio,2,1,1,Paul Janish,['N/A'],['Paul Janish'],['N/A'],Double,N/A,5,4,1,N/A,N/A
+7,bottom,0,[],Sammy Gervacio,2,4,0,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Sammy Gervacio,3,0,3,Brandon Phillips,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Nick Masset,1,0,3,Kazuo Matsui,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Nick Masset,2,2,3,Hunter Pence,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Nick Masset,2,2,1,Carlos Lee,['Carlos Lee'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Nick Masset,3,0,3,Miguel Tejada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],LaTroy Hawkins,1,0,0,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],LaTroy Hawkins,2,1,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],LaTroy Hawkins,3,0,1,Laynce Nix,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,1,1,0,Geoff Blum,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,1,1,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,0,0,Chris Coste,['Chris Coste'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,3,0,1,Aaron Boone,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A

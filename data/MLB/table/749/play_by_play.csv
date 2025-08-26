@@ -1,0 +1,66 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Liam Hendriks,1,0,0,Dustin Ackley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Liam Hendriks,1,1,2,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,1,3,0,Kyle Seager,['N/A'],['Franklin Gutierrez'],['N/A'],Stolen Base 2B,Error,0,0,N/A,N/A,Joe Mauer
+1,top,0,[],Liam Hendriks,1,4,2,Kyle Seager,['Kyle Seager'],['N/A'],['Franklin Gutierrez'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Liam Hendriks,3,0,0,Jesus Montero,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,1,0,1,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,2,2,2,Ben Revere,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,3,1,0,Joe Mauer,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Liam Hendriks,1,0,0,John Jaso,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Liam Hendriks,2,2,2,Justin Smoak,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Liam Hendriks,3,2,3,Eric Thames,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,0,4,2,Josh Willingham,['Josh Willingham'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,2,1,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,3,0,3,Ryan Doumit,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Liam Hendriks,1,0,1,Trayvon Robinson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Liam Hendriks,2,2,0,Brendan Ryan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Liam Hendriks,3,0,2,Dustin Ackley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,1,0,0,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,2,1,2,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,3,3,3,Pedro Florimon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Liam Hendriks,1,1,3,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Liam Hendriks,2,2,2,Kyle Seager,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Liam Hendriks,3,1,2,Jesus Montero,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,1,1,0,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,2,0,3,Ben Revere,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,2,1,1,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,2,2,1,Josh Willingham,['Josh Willingham'],['Joe Mauer'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,3,1,3,Justin Morneau,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Liam Hendriks,0,0,0,John Jaso,['John Jaso'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Liam Hendriks,1,2,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Liam Hendriks,2,1,3,Eric Thames,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Liam Hendriks,2,4,0,Trayvon Robinson,['Trayvon Robinson'],['John Jaso'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Liam Hendriks,3,0,0,Brendan Ryan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,1,2,2,Ryan Doumit,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,1,0,1,Trevor Plouffe,['Trevor Plouffe'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,2,0,0,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,2,0,1,Pedro Florimon,['Pedro Florimon'],['N/A'],['Jamey Carroll'],Single,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,3,0,3,Denard Span,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Liam Hendriks,1,1,0,Dustin Ackley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Liam Hendriks,1,0,1,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Liam Hendriks,3,0,0,Kyle Seager,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,1,2,0,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,2,3,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,3,0,2,Josh Willingham,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Liam Hendriks,1,0,0,Jesus Montero,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Liam Hendriks,2,1,0,John Jaso,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Liam Hendriks,3,3,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,0,0,0,Justin Morneau,['N/A'],['N/A'],['Justin Morneau'],Triple,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,1,0,0,Ryan Doumit,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,2,1,1,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,3,0,0,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+8,top,1,[],Liam Hendriks,0,1,0,Eric Thames,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+8,top,0,[],Liam Hendriks,1,0,0,Trayvon Robinson,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Liam Hendriks,2,3,1,Brendan Ryan,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Liam Hendriks,3,0,1,Dustin Ackley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,1,3,2,Pedro Florimon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,2,1,1,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,3,0,1,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],Liam Hendriks,0,4,0,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],Liam Hendriks,1,2,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],N/A,1,0,1,Jesus Montero,['N/A'],['Franklin Gutierrez'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],Liam Hendriks,3,0,2,Jesus Montero,['N/A'],['Franklin Gutierrez'],['N/A'],Double Play,N/A,0,1,N/A,N/A,N/A
+9,bottom,0,[],Felix Hernandez,1,0,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+9,bottom,0,[],Felix Hernandez,1,1,2,Josh Willingham,['Josh Willingham'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+9,bottom,0,[],Felix Hernandez,3,0,0,Justin Morneau,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A

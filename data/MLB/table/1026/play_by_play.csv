@@ -1,0 +1,97 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Brad Peacock,1,0,1,Michael Saunders,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brad Peacock,2,0,3,Brad Miller,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brad Peacock,3,2,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,0,0,0,Jose Altuve,['N/A'],['Jose Altuve'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,1,0,2,Dexter Fowler,['N/A'],['N/A'],['Jose Altuve'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,2,3,3,Jason Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,3,1,3,George Springer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Peacock,1,2,2,Corey Hart,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Peacock,2,3,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Peacock,2,4,0,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brad Peacock,3,3,3,Dustin Ackley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,0,4,2,Marc Krauss,['Marc Krauss'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,1,2,3,Jesus Guzman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,2,2,0,Alex Presley,['N/A'],['Marc Krauss'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,2,4,1,Matt Dominguez,['Matt Dominguez'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,3,0,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brad Peacock,1,2,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brad Peacock,1,4,1,Abraham Almonte,['Abraham Almonte'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brad Peacock,3,0,0,Michael Saunders,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,0,1,1,Jose Altuve,['Jose Altuve'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,0,1,2,Dexter Fowler,['Dexter Fowler'],['Jose Altuve'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,['Jose Altuve'],Felix Hernandez,0,0,1,Jason Castro,['Jason Castro'],['Dexter Fowler'],['N/A'],Field Error,N/A,1,0,N/A,1,Abraham Almonte
+3,bottom,0,[],Felix Hernandez,1,0,3,George Springer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,bottom,1,['Dexter Fowler'],Felix Hernandez,1,0,0,Marc Krauss,['Marc Krauss'],['Jason Castro'],['N/A'],Single,N/A,2,0,1,N/A,N/A
+3,bottom,0,[],Felix Hernandez,2,1,3,Jesus Guzman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,3,0,0,Alex Presley,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Brad Peacock,0,0,2,Brad Miller,['Brad Miller'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Brad Peacock,1,0,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Brad Peacock,3,0,0,Corey Hart,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,1,0,0,Matt Dominguez,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,1,4,2,Jonathan Villar,['Jonathan Villar'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],N/A,1,1,1,Jose Altuve,['N/A'],['Jonathan Villar'],['N/A'],Stolen Base 2B,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,2,1,1,Jose Altuve,['N/A'],['Jonathan Villar'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,3,0,0,Dexter Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Brad Peacock,0,2,1,Kyle Seager,['Kyle Seager'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Brad Peacock,1,0,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],N/A,1,1,2,Dustin Ackley,['N/A'],['Kyle Seager'],['N/A'],Stolen Base 2B,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Brad Peacock,2,2,2,Dustin Ackley,['N/A'],['Kyle Seager'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+5,top,2,['Kyle Seager'],Brad Peacock,2,2,2,Mike Zunino,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,2,N/A,N/A
+5,top,0,[],Brad Peacock,3,0,1,Abraham Almonte,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,0,0,1,Jason Castro,['Jason Castro'],['N/A'],['N/A'],Hit By Pitch,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,1,1,1,George Springer,['N/A'],['Jason Castro'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,1,['Jason Castro'],Felix Hernandez,2,3,2,Marc Krauss,['N/A'],['N/A'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+5,bottom,0,[],Felix Hernandez,3,3,2,Jesus Guzman,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Brad Peacock,0,0,0,Michael Saunders,['Michael Saunders'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Brad Peacock,1,1,0,Brad Miller,['N/A'],['Michael Saunders'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Brad Peacock,1,4,0,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Brad Peacock,1,0,2,Corey Hart,['Corey Hart'],['Robinson Cano'],['Michael Saunders'],Single,N/A,3,2,N/A,N/A,N/A
+6,top,2,"['Michael Saunders', 'Robinson Cano']",Brad Peacock,1,3,1,Kyle Seager,['N/A'],['Kyle Seager'],['Corey Hart'],Double,N/A,3,4,2,N/A,N/A
+6,top,0,[],Brad Peacock,2,0,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+6,top,0,[],Brad Peacock,3,1,1,Dustin Ackley,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Tom Wilhelmsen,1,1,1,Alex Presley,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Tom Wilhelmsen,2,0,1,Matt Dominguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Tom Wilhelmsen,2,2,0,Jonathan Villar,['N/A'],['Jonathan Villar'],['N/A'],Single,Error,3,4,N/A,N/A,Abraham Almonte
+6,bottom,0,[],N/A,2,2,1,Jose Altuve,['N/A'],['N/A'],['Jonathan Villar'],Stolen Base 3B,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Tom Wilhelmsen,2,4,2,Jose Altuve,['Jose Altuve'],['N/A'],['Jonathan Villar'],Walk,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],N/A,2,1,0,Dexter Fowler,['N/A'],['Jose Altuve'],['N/A'],Stolen Base 2B,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Tom Wilhelmsen,3,2,3,Dexter Fowler,['N/A'],['Jose Altuve'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Jose Cisnero,1,2,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Jose Cisnero,2,0,0,Abraham Almonte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Jose Cisnero,2,4,2,Michael Saunders,['Michael Saunders'],['N/A'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Jose Cisnero,2,0,2,Brad Miller,['Brad Miller'],['N/A'],['Michael Saunders'],Single,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Tony Sipp,3,0,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Joe Beimel,1,0,3,Jason Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Dominic Leone,2,1,3,George Springer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Dominic Leone,3,2,3,Marc Krauss,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Tony Sipp,1,2,3,Corey Hart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Tony Sipp,2,3,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Tony Sipp,3,1,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Yoervis Medina,1,0,3,Jesus Guzman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Yoervis Medina,1,4,1,Alex Presley,['Alex Presley'],['N/A'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Yoervis Medina,1,0,0,Matt Dominguez,['Matt Dominguez'],['N/A'],['Alex Presley'],Single,N/A,3,4,N/A,N/A,N/A
+8,bottom,1,['Alex Presley'],Yoervis Medina,2,2,2,Jonathan Villar,['N/A'],['Marwin Gonzalez'],['N/A'],Groundout,N/A,4,4,1,N/A,N/A
+8,bottom,0,[],Yoervis Medina,3,1,1,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Tony Sipp,1,0,0,Dustin Ackley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Chad Qualls,1,0,2,Mike Zunino,['Mike Zunino'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Chad Qualls,2,0,3,Abraham Almonte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Chad Qualls,3,2,2,Michael Saunders,['N/A'],['N/A'],['N/A'],Runner Out,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Danny Farquhar,1,2,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Danny Farquhar,1,2,2,Jason Castro,['Jason Castro'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Danny Farquhar,2,2,3,George Springer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Danny Farquhar,2,4,2,Marc Krauss,['Marc Krauss'],['Jason Castro'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Danny Farquhar,3,0,0,Jesus Guzman,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Anthony Bass,1,1,2,Michael Saunders,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Anthony Bass,2,0,1,Brad Miller,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Anthony Bass,3,2,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Danny Farquhar,1,2,1,Alex Presley,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Danny Farquhar,2,0,3,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Danny Farquhar,3,0,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Anthony Bass,1,0,0,Corey Hart,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Anthony Bass,2,1,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Anthony Bass,3,3,2,Justin Smoak,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],Charlie Furbush,0,2,2,Jose Altuve,['Jose Altuve'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],Charlie Furbush,0,1,0,Dexter Fowler,['Dexter Fowler'],['Jose Altuve'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],Charlie Furbush,0,1,1,Carlos Corporan,['Carlos Corporan'],['Dexter Fowler'],['Jose Altuve'],Sac Bunt,N/A,4,4,N/A,N/A,N/A
+11,bottom,1,['Jose Altuve'],Charlie Furbush,0,1,0,George Springer,['George Springer'],['Carlos Corporan'],['Dexter Fowler'],Single,N/A,5,4,1,N/A,N/A

@@ -1,0 +1,70 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Danny Duffy,1,1,2,Delino DeShields,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Danny Duffy,2,0,0,Jurickson Profar,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Danny Duffy,3,0,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Yu Darvish,0,0,2,Alcides Escobar,['Alcides Escobar'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Yu Darvish,1,3,3,Cheslor Cuthbert,['N/A'],['N/A'],['Alcides Escobar'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Alcides Escobar'],Yu Darvish,2,0,0,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Yu Darvish,3,1,2,Kendrys Morales,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Danny Duffy,1,2,1,Adrian Beltre,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Danny Duffy,2,1,3,Rougned Odor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Danny Duffy,3,3,2,Ryan Rua,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Yu Darvish,1,3,3,Salvador Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Yu Darvish,1,4,0,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],N/A,1,1,2,Paulo Orlando,['N/A'],['Alex Gordon'],['N/A'],Stolen Base 2B,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Yu Darvish,1,1,2,Paulo Orlando,['Paulo Orlando'],['Alex Gordon'],['Alex Gordon'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,1,['Alex Gordon'],Yu Darvish,1,0,0,Whit Merrifield,['Whit Merrifield'],['Paulo Orlando'],['N/A'],Single,N/A,2,0,1,N/A,N/A
+2,bottom,0,[],Yu Darvish,2,1,3,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Yu Darvish,3,0,1,Alcides Escobar,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,0,4,1,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,1,1,2,Nomar Mazara,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,2,0,0,Bobby Wilson,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,2,3,2,Delino DeShields,['Delino DeShields'],['N/A'],['Elvis Andrus'],Single,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,2,1,2,Jurickson Profar,['Jurickson Profar'],['Delino DeShields'],['N/A'],Hit By Pitch,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Danny Duffy,3,0,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,1,[],Yu Darvish,0,3,1,Cheslor Cuthbert,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,0,1,N/A,N/A
+3,bottom,0,[],Yu Darvish,1,0,3,Eric Hosmer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Yu Darvish,2,2,0,Kendrys Morales,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Yu Darvish,3,1,3,Salvador Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Danny Duffy,1,1,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,0,N/A,N/A,N/A
+4,top,1,[],Danny Duffy,1,0,0,Rougned Odor,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,1,1,N/A,N/A
+4,top,0,[],Danny Duffy,2,0,2,Ryan Rua,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+4,top,0,[],Danny Duffy,3,1,0,Elvis Andrus,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+4,bottom,0,[],Yu Darvish,0,1,0,Alex Gordon,['N/A'],['N/A'],['Alex Gordon'],Triple,N/A,3,1,N/A,N/A,N/A
+4,bottom,0,[],Yu Darvish,1,3,3,Paulo Orlando,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+4,bottom,0,[],Yu Darvish,2,1,3,Whit Merrifield,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+4,bottom,0,[],Yu Darvish,3,1,3,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Danny Duffy,0,1,1,Nomar Mazara,['Nomar Mazara'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Danny Duffy,2,0,2,Bobby Wilson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Danny Duffy,3,2,1,Delino DeShields,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Yu Darvish,0,1,1,Alcides Escobar,['Alcides Escobar'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Yu Darvish,1,0,0,Cheslor Cuthbert,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Yu Darvish,2,1,3,Eric Hosmer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],N/A,2,0,1,Kendrys Morales,['N/A'],['Alcides Escobar'],['N/A'],Stolen Base 2B,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Yu Darvish,3,3,3,Kendrys Morales,['N/A'],['Alcides Escobar'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Danny Duffy,1,3,2,Jurickson Profar,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Danny Duffy,2,2,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Danny Duffy,3,1,1,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Yu Darvish,1,0,0,Salvador Perez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Yu Darvish,2,0,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Yu Darvish,2,1,0,Paulo Orlando,['Paulo Orlando'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Yu Darvish,3,1,3,Whit Merrifield,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Danny Duffy,1,1,0,Rougned Odor,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Danny Duffy,1,4,1,Ryan Rua,['Ryan Rua'],['N/A'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Danny Duffy,2,2,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Danny Duffy,2,1,1,Nomar Mazara,['Nomar Mazara'],['N/A'],['Ryan Rua'],Single,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Luke Hochevar,3,3,2,Mitch Moreland,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,1,N/A,N/A,N/A
+7,bottom,0,[],Keone Kela,1,2,2,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+7,bottom,0,[],Keone Kela,1,4,2,Alcides Escobar,['Alcides Escobar'],['N/A'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+7,bottom,0,[],Keone Kela,3,0,2,Cheslor Cuthbert,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,1,N/A,N/A,N/A
+8,top,0,[],Kelvin Herrera,1,2,1,Delino DeShields,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+8,top,0,[],Kelvin Herrera,2,2,2,Jurickson Profar,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,1,N/A,N/A,N/A
+8,top,0,[],Kelvin Herrera,3,3,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+8,bottom,0,[],Jake Diekman,1,0,1,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+8,bottom,0,[],Jake Diekman,2,2,3,Kendrys Morales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+8,bottom,0,[],Jake Diekman,2,1,1,Salvador Perez,['N/A'],['N/A'],['Salvador Perez'],Single,Error,3,1,N/A,N/A,Ian Desmond
+8,bottom,0,[],Jake Diekman,3,2,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Wade Davis,1,0,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Wade Davis,2,1,0,Rougned Odor,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Wade Davis,2,2,2,Ryan Rua,['Ryan Rua'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Wade Davis,3,0,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A

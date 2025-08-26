@@ -1,0 +1,68 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Josh Collmenter,1,1,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Josh Collmenter,2,3,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Josh Collmenter,2,1,2,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Buster Posey'],Josh Collmenter,2,0,0,Pablo Sandoval,['N/A'],['N/A'],['Pablo Sandoval'],Triple,N/A,0,1,1,N/A,N/A
+1,top,0,[],Josh Collmenter,2,4,2,Michael Morse,['Michael Morse'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Josh Collmenter,3,1,1,Brandon Crawford,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,1,3,1,Gerardo Parra,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,2,1,1,Chris Owings,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,2,1,2,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],N/A,2,3,2,Miguel Montero,['N/A'],['Paul Goldschmidt'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Tim Lincecum,3,3,3,Miguel Montero,['N/A'],['Paul Goldschmidt'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Josh Collmenter,1,1,2,Hector Sanchez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Josh Collmenter,2,1,1,Ehire Adrianza,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Josh Collmenter,3,0,1,Tim Lincecum,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,0,2,2,Aaron Hill,['Aaron Hill'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,2,0,2,Martin Prado,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Tim Lincecum,3,2,1,David Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Josh Collmenter,1,2,1,Gregor Blanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Josh Collmenter,2,2,3,Hunter Pence,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Josh Collmenter,2,2,2,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Josh Collmenter,2,4,2,Pablo Sandoval,['Pablo Sandoval'],['Buster Posey'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Josh Collmenter,3,2,2,Michael Morse,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,1,3,2,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,2,0,0,Josh Collmenter,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Tim Lincecum,3,3,2,Gerardo Parra,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Josh Collmenter,1,1,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Josh Collmenter,2,0,0,Hector Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Josh Collmenter,2,2,0,Ehire Adrianza,['N/A'],['Ehire Adrianza'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Josh Collmenter,3,1,3,Tim Lincecum,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,1,0,0,Chris Owings,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,1,4,2,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Tim Lincecum,2,0,1,Miguel Montero,['N/A'],['Paul Goldschmidt'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,1,['Paul Goldschmidt'],Tim Lincecum,2,0,2,Aaron Hill,['Aaron Hill'],['N/A'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+4,bottom,1,['Aaron Hill'],Tim Lincecum,2,3,1,Martin Prado,['N/A'],['Martin Prado'],['N/A'],Double,N/A,2,1,1,N/A,N/A
+4,bottom,0,[],Tim Lincecum,3,1,0,David Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Josh Collmenter,0,4,0,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Josh Collmenter,1,3,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],N/A,1,2,0,Buster Posey,['N/A'],['Gregor Blanco'],['N/A'],Stolen Base 2B,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Josh Collmenter,1,4,0,Buster Posey,['Buster Posey'],['Gregor Blanco'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Josh Collmenter,2,1,3,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Josh Collmenter,3,2,2,Michael Morse,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Tim Lincecum,0,1,1,Ender Inciarte,['Ender Inciarte'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Tim Lincecum,1,1,2,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Tim Lincecum,2,0,2,Gerardo Parra,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,bottom,1,['Ender Inciarte'],Tim Lincecum,3,3,1,Chris Owings,['N/A'],['N/A'],['N/A'],Triple,N/A,3,1,1,N/A,N/A
+6,top,0,[],Oliver Perez,1,1,0,Brandon Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Oliver Perez,1,1,2,Hector Sanchez,['Hector Sanchez'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Oliver Perez,3,2,2,Ehire Adrianza,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Tim Lincecum,0,3,2,Paul Goldschmidt,['N/A'],['Paul Goldschmidt'],['N/A'],Double,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],Tim Lincecum,1,2,2,Miguel Montero,['N/A'],['N/A'],['Paul Goldschmidt'],Groundout,N/A,3,1,N/A,N/A,N/A
+6,bottom,1,['Paul Goldschmidt'],Tim Lincecum,2,0,0,Aaron Hill,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,1,1,N/A,N/A
+6,bottom,0,[],Tim Lincecum,3,1,1,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],Evan Marshall,1,3,2,Joaquin Arias,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],Evan Marshall,2,0,1,Gregor Blanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],Evan Marshall,3,2,1,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Javier Lopez,1,2,1,David Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Javier Lopez,2,0,1,Ender Inciarte,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Javier Lopez,3,2,1,Cody Ross,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+8,top,0,[],Brad Ziegler,1,1,2,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+8,top,0,[],Brad Ziegler,2,0,0,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+8,top,0,[],Brad Ziegler,3,1,0,Michael Morse,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+8,bottom,0,[],Javier Lopez,1,0,0,Gerardo Parra,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+8,bottom,0,[],Juan Gutierrez,2,1,1,Chris Owings,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+8,bottom,0,[],Juan Gutierrez,3,1,3,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+9,top,0,[],Addison Reed,1,1,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+9,top,0,[],Addison Reed,2,2,3,Hector Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+9,top,0,[],Addison Reed,3,3,3,Ehire Adrianza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A

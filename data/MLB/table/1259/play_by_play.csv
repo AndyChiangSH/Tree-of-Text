@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Carlos Martinez,0,0,1,Scooter Gennett,['N/A'],['Scooter Gennett'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Carlos Martinez,1,2,1,Logan Schafer,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tyler Lyons,2,0,2,Adam Lind,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tyler Lyons,3,0,2,Khris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ariel Pena,0,1,2,Matt Carpenter,['N/A'],['Matt Carpenter'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ariel Pena,1,0,3,Tommy Pham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ariel Pena,2,3,3,Matt Holliday,['N/A'],['N/A'],['Matt Carpenter'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ariel Pena,3,1,0,Jason Heyward,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tyler Lyons,1,1,3,Shane Peterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tyler Lyons,2,2,3,Jean Segura,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tyler Lyons,3,0,3,Luis Sardinas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ariel Pena,0,0,1,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ariel Pena,1,1,2,Stephen Piscotty,['Stephen Piscotty'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ariel Pena,3,2,0,Greg Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Tyler Lyons,1,2,3,Nevin Ashley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Tyler Lyons,2,0,3,Ariel Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Tyler Lyons,3,1,1,Scooter Gennett,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ariel Pena,0,3,2,Tony Cruz,['N/A'],['Tony Cruz'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ariel Pena,1,1,1,Tyler Lyons,['N/A'],['N/A'],['Tony Cruz'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,['Tony Cruz'],Ariel Pena,1,1,1,Matt Carpenter,['Matt Carpenter'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+3,bottom,0,[],Ariel Pena,2,2,3,Tommy Pham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Ariel Pena,3,0,0,Matt Holliday,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Tyler Lyons,0,0,0,Logan Schafer,['N/A'],['Logan Schafer'],['N/A'],Double,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Tyler Lyons,1,3,1,Adam Lind,['N/A'],['N/A'],['Logan Schafer'],Lineout,N/A,1,0,N/A,N/A,N/A
+4,top,1,['Logan Schafer'],Tyler Lyons,1,2,2,Khris Davis,['N/A'],['N/A'],['N/A'],Wild Pitch,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Tyler Lyons,1,2,2,Khris Davis,['Khris Davis'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],N/A,1,2,1,Shane Peterson,['N/A'],['Khris Davis'],['N/A'],Stolen Base 2B,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Tyler Lyons,3,2,1,Shane Peterson,['N/A'],['Khris Davis'],['N/A'],Double Play,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Ariel Pena,0,4,0,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Ariel Pena,0,1,0,Jhonny Peralta,['N/A'],['Jason Heyward'],['N/A'],Wild Pitch,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Ariel Pena,0,2,0,Jhonny Peralta,['Jhonny Peralta'],['Jason Heyward'],['Jason Heyward'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,1,['Jason Heyward'],Ariel Pena,0,1,1,Stephen Piscotty,['Stephen Piscotty'],['Jhonny Peralta'],['N/A'],Single,N/A,2,1,1,N/A,N/A
+4,bottom,0,[],Ariel Pena,1,1,1,Greg Garcia,['N/A'],['Stephen Piscotty'],['Jhonny Peralta'],Sac Bunt,N/A,2,1,N/A,N/A,N/A
+4,bottom,1,['Jhonny Peralta'],Ariel Pena,2,1,0,Tony Cruz,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,1,1,N/A,N/A
+4,bottom,0,[],Ariel Pena,3,3,3,Matt Adams,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Carlos Villanueva,0,4,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Carlos Villanueva,2,0,0,Luis Sardinas,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Carlos Villanueva,3,1,1,Nevin Ashley,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Ariel Pena,1,1,0,Matt Carpenter,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Ariel Pena,2,2,3,Tommy Pham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Ariel Pena,3,0,1,Matt Holliday,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Carlos Villanueva,1,2,3,Jason Rogers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Carlos Villanueva,2,0,2,Scooter Gennett,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Carlos Villanueva,2,0,0,Logan Schafer,['N/A'],['Logan Schafer'],['N/A'],Double,N/A,3,1,N/A,N/A,N/A
+6,top,1,['Logan Schafer'],Randy Choate,2,0,0,Jonathan Lucroy,['Jonathan Lucroy'],['N/A'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+6,top,0,[],Seth Maness,3,1,3,Khris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Corey Knebel,1,1,2,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Corey Knebel,1,1,0,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Corey Knebel,2,2,3,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Corey Knebel,3,0,3,Greg Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Jonathan Broxton,1,1,2,Shane Peterson,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Jonathan Broxton,1,2,1,Jean Segura,['N/A'],['Jean Segura'],['N/A'],Double,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Jonathan Broxton,2,0,3,Luis Sardinas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,1,['Jean Segura'],Jonathan Broxton,2,2,1,Domingo Santana,['Domingo Santana'],['N/A'],['N/A'],Field Error,N/A,3,3,N/A,1,Greg Garcia
+7,top,0,[],Jonathan Broxton,3,2,1,Ryan Braun,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Jeffress,1,0,3,Tony Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Jeffress,1,1,2,Brandon Moss,['Brandon Moss'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Jeffress,2,0,3,Matt Carpenter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Jeffress,3,1,3,Tommy Pham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+8,top,0,[],Kevin Siegrist,1,0,0,Hernan Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+8,top,0,[],Kevin Siegrist,2,2,0,Logan Schafer,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+8,top,0,[],Kevin Siegrist,3,1,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Jeffress,0,4,2,Mark Reynolds,['Mark Reynolds'],['N/A'],['N/A'],Walk,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Will Smith,0,0,0,Jason Heyward,['Jason Heyward'],['Peter Bourjos'],['N/A'],Field Error,N/A,3,3,N/A,N/A,Luis Sardinas
+8,bottom,0,[],Will Smith,2,3,3,Jhonny Peralta,['N/A'],['Jason Heyward'],['N/A'],Strikeout - DP,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Will Smith,3,3,2,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,3,N/A,N/A,N/A
+9,top,1,[],Trevor Rosenthal,0,1,1,Khris Davis,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,4,1,N/A,N/A
+9,top,0,[],Trevor Rosenthal,0,3,2,Shane Peterson,['Shane Peterson'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Trevor Rosenthal,1,1,3,Jean Segura,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Trevor Rosenthal,1,1,1,Luis Sardinas,['N/A'],['Shane Peterson'],['N/A'],Wild Pitch,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Trevor Rosenthal,1,1,1,Luis Sardinas,['Luis Sardinas'],['Shane Peterson'],['Shane Peterson'],Single,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Trevor Rosenthal,3,1,1,Martin Maldonado,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,0,1,0,Greg Garcia,['Greg Garcia'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,1,0,2,Jon Jay,['N/A'],['Greg Garcia'],['N/A'],Sac Bunt,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,2,2,3,Randal Grichuk,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,3,1,3,Matt Carpenter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A

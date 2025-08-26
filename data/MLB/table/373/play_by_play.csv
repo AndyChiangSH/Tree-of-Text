@@ -1,0 +1,95 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Gavin Floyd,1,2,3,Fred Lewis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Gavin Floyd,2,3,3,Aaron Hill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Gavin Floyd,3,1,1,Adam Lind,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ricky Romero,1,2,2,Juan Pierre,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ricky Romero,2,2,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ricky Romero,2,3,2,Andruw Jones,['Andruw Jones'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],N/A,2,0,1,Paul Konerko,['N/A'],['Andruw Jones'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ricky Romero,3,1,3,Paul Konerko,['N/A'],['Andruw Jones'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Gavin Floyd,0,0,0,Vernon Wells,['N/A'],['Vernon Wells'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Gavin Floyd,1,2,3,Randy Ruiz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Gavin Floyd,2,1,2,Alex Gonzalez,['N/A'],['N/A'],['Vernon Wells'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,['Vernon Wells'],Gavin Floyd,2,2,1,Jose Bautista,['N/A'],['Jose Bautista'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+2,top,0,[],Gavin Floyd,3,3,1,Travis Snider,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Romero,0,0,2,Alex Rios,['Alex Rios'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Romero,0,0,1,Carlos Quentin,['Carlos Quentin'],['Alex Rios'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Romero,1,1,3,Alexei Ramirez,['N/A'],['Carlos Quentin'],['Alex Rios'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Romero,1,4,0,Ramon Castro,['Ramon Castro'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Alex Rios'],Ricky Romero,1,0,0,Jayson Nix,['Jayson Nix'],['Ramon Castro'],['Carlos Quentin'],Single,N/A,1,1,1,N/A,N/A
+2,bottom,1,['Carlos Quentin'],Ricky Romero,1,0,0,Juan Pierre,['Juan Pierre'],['Jayson Nix'],['Ramon Castro'],Single,N/A,2,1,1,N/A,N/A
+2,bottom,1,['Ramon Castro'],Ricky Romero,2,0,1,Gordon Beckham,['N/A'],['Juan Pierre'],['Jayson Nix'],Groundout,N/A,3,1,1,N/A,N/A
+2,bottom,0,[],Ricky Romero,3,1,1,Andruw Jones,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Gavin Floyd,0,0,1,Jose Molina,['Jose Molina'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Gavin Floyd,1,2,1,Fred Lewis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Gavin Floyd,1,2,2,Aaron Hill,['N/A'],['Aaron Hill'],['Jose Molina'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,2,"['Jose Molina', 'Aaron Hill']",Gavin Floyd,1,1,2,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,3,3,2,N/A,N/A
+3,top,2,['Adam Lind'],Gavin Floyd,1,0,0,Vernon Wells,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,2,N/A,N/A
+3,top,0,[],Gavin Floyd,2,0,1,Randy Ruiz,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Gavin Floyd,3,1,3,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ricky Romero,0,4,1,Paul Konerko,['Paul Konerko'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ricky Romero,0,1,1,Alex Rios,['Alex Rios'],['Paul Konerko'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ricky Romero,0,2,1,Carlos Quentin,['N/A'],['Alex Rios'],['Paul Konerko'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ricky Romero,0,4,1,Carlos Quentin,['Carlos Quentin'],['Alex Rios'],['Paul Konerko'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Paul Konerko'],Ricky Romero,2,3,2,Alexei Ramirez,['N/A'],['N/A'],['Alex Rios'],Grounded Into DP,N/A,4,5,N/A,N/A,N/A
+3,bottom,0,[],Ricky Romero,3,2,3,Ramon Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Gavin Floyd,1,0,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Gavin Floyd,2,3,3,Travis Snider,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Gavin Floyd,3,2,3,Jose Molina,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Romero,0,4,2,Jayson Nix,['Jayson Nix'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Romero,1,1,0,Juan Pierre,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Romero,1,1,0,Gordon Beckham,['N/A'],['Jayson Nix'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Romero,2,1,3,Gordon Beckham,['N/A'],['Jayson Nix'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Romero,3,0,2,Andruw Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Gavin Floyd,1,3,2,Fred Lewis,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Gavin Floyd,1,0,0,Aaron Hill,['Aaron Hill'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Gavin Floyd,1,4,2,Adam Lind,['Adam Lind'],['Aaron Hill'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Gavin Floyd,3,0,1,Vernon Wells,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Romero,1,1,3,Paul Konerko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Romero,1,0,1,Alex Rios,['N/A'],['Alex Rios'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Romero,2,1,1,Carlos Quentin,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Romero,3,1,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Gavin Floyd,1,1,0,Randy Ruiz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Gavin Floyd,2,0,2,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Gavin Floyd,3,3,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ricky Romero,1,2,3,Ramon Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ricky Romero,1,4,2,Jayson Nix,['Jayson Nix'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ricky Romero,1,0,0,Juan Pierre,['Juan Pierre'],['Jayson Nix'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Shawn Camp,2,2,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Shawn Camp,3,3,3,Andruw Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Gavin Floyd,1,0,1,Travis Snider,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Gavin Floyd,1,4,1,Jose Molina,['Jose Molina'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Matt Thornton,2,1,3,Fred Lewis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],N/A,2,0,1,Aaron Hill,['N/A'],['Mike McCoy'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Matt Thornton,2,4,2,Aaron Hill,['Aaron Hill'],['Mike McCoy'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Matt Thornton,3,0,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Shawn Camp,1,1,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,1,[],Shawn Camp,1,3,1,Alex Rios,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,5,1,N/A,N/A
+7,bottom,0,[],Shawn Camp,1,0,1,Carlos Quentin,['N/A'],['Carlos Quentin'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Shawn Camp,1,4,0,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Scott Downs,2,0,1,A.J. Pierzynski,['N/A'],['Alexei Ramirez'],['Carlos Quentin'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Scott Downs,2,4,1,Jayson Nix,['Jayson Nix'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,1,['Carlos Quentin'],Scott Downs,2,1,0,Juan Pierre,['Juan Pierre'],['Jayson Nix'],['Alexei Ramirez'],Hit By Pitch,N/A,6,5,1,N/A,N/A
+7,bottom,0,[],Scott Downs,3,3,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ramon Pena,0,0,2,Vernon Wells,['Vernon Wells'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ramon Pena,1,0,3,Randy Ruiz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ramon Pena,2,0,1,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ramon Pena,3,0,0,Jose Bautista,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,3,3,Andruw Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,2,1,3,Paul Konerko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,2,4,1,Alex Rios,['Alex Rios'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Alex Rios'],Jason Frasor,2,3,2,Carlos Quentin,['N/A'],['Carlos Quentin'],['N/A'],Double,N/A,7,5,1,N/A,N/A
+8,bottom,0,[],Jason Frasor,3,0,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Bobby Jenks,0,0,0,Travis Snider,['N/A'],['Travis Snider'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Bobby Jenks,0,1,2,John Buck,['John Buck'],['N/A'],['Travis Snider'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,3,"['Travis Snider', 'John Buck']",Bobby Jenks,0,3,1,Fred Lewis,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,8,3,N/A,N/A
+9,top,0,[],Bobby Jenks,0,3,2,Aaron Hill,['Aaron Hill'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Scott Linebrink,0,0,1,Adam Lind,['Adam Lind'],['Aaron Hill'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Alexei Ramirez
+9,top,0,[],Scott Linebrink,1,0,2,Vernon Wells,['Vernon Wells'],['N/A'],['Aaron Hill'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Scott Linebrink,2,0,1,Lyle Overbay,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,1,['Aaron Hill'],Scott Linebrink,2,1,0,Alex Gonzalez,['Alex Gonzalez'],['Vernon Wells'],['N/A'],Single,N/A,7,9,1,N/A,N/A
+9,top,0,[],Scott Linebrink,2,4,2,Jose Bautista,['Jose Bautista'],['Alex Gonzalez'],['Vernon Wells'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Scott Linebrink,3,1,3,Travis Snider,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Kevin Gregg,1,2,3,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Kevin Gregg,2,2,2,Mark Kotsay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Kevin Gregg,3,2,2,Juan Pierre,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A

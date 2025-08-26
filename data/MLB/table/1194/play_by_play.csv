@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Nathan Eovaldi,1,1,1,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Nathan Eovaldi,2,2,2,Anthony Rendon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Nathan Eovaldi,3,0,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,1,2,1,Brett Gardner,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,2,1,1,Chase Headley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,3,2,3,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Nathan Eovaldi,1,0,0,Bryce Harper,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Nathan Eovaldi,2,1,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Nathan Eovaldi,3,1,1,Clint Robinson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,1,0,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,2,1,2,Brian McCann,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,2,4,1,Carlos Beltran,['Carlos Beltran'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,3,3,3,Chris Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Nathan Eovaldi,1,1,1,Tyler Moore,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Nathan Eovaldi,2,0,1,Jose Lobaton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Nathan Eovaldi,2,1,1,Danny Espinosa,['N/A'],['Danny Espinosa'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+3,top,1,['Danny Espinosa'],Nathan Eovaldi,2,1,1,Denard Span,['N/A'],['Denard Span'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+3,top,0,[],Nathan Eovaldi,3,0,1,Anthony Rendon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,1,0,3,Jose Pirela,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,1,2,1,Brendan Ryan,['Brendan Ryan'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,2,1,2,Brett Gardner,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,3,1,2,Chase Headley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Nathan Eovaldi,1,1,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Nathan Eovaldi,1,4,2,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Nathan Eovaldi,2,1,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Nathan Eovaldi,3,1,1,Clint Robinson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,1,1,3,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,1,4,0,Mark Teixeira,['Mark Teixeira'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,2,3,2,Brian McCann,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,3,1,0,Carlos Beltran,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Nathan Eovaldi,1,0,3,Tyler Moore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Nathan Eovaldi,2,2,3,Jose Lobaton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,1,[],Nathan Eovaldi,2,0,0,Danny Espinosa,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,1,N/A,N/A
+5,top,0,[],Nathan Eovaldi,2,1,0,Denard Span,['Denard Span'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+5,top,0,[],Nathan Eovaldi,2,3,2,Anthony Rendon,['Anthony Rendon'],['N/A'],['Denard Span'],Single,N/A,0,2,N/A,N/A,N/A
+5,top,0,[],Nathan Eovaldi,3,1,2,Yunel Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,1,0,0,Chris Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,1,4,2,Jose Pirela,['Jose Pirela'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,1,0,2,Brendan Ryan,['Brendan Ryan'],['Jose Pirela'],['N/A'],Hit By Pitch,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,2,0,1,Brett Gardner,['Brett Gardner'],['N/A'],['Jose Pirela'],Forceout,N/A,0,2,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,3,2,1,Chase Headley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],Nathan Eovaldi,0,0,2,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],Nathan Eovaldi,1,0,0,Ian Desmond,['N/A'],['Bryce Harper'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],Nathan Eovaldi,2,1,2,Clint Robinson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+6,top,0,[],Nathan Eovaldi,3,1,1,Tyler Moore,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,1,2,1,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,1,0,0,Mark Teixeira,['Mark Teixeira'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,2,2,3,Brian McCann,['N/A'],['Mark Teixeira'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+6,bottom,0,[],Gio Gonzalez,3,1,2,Carlos Beltran,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],Nathan Eovaldi,1,1,0,Jose Lobaton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],Nathan Eovaldi,1,2,0,Danny Espinosa,['Danny Espinosa'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],Nathan Eovaldi,2,1,0,Denard Span,['Denard Span'],['N/A'],['N/A'],Forceout,N/A,0,2,N/A,N/A,N/A
+7,top,0,[],Nathan Eovaldi,3,1,2,Anthony Rendon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],Gio Gonzalez,0,2,0,Chris Young,['Chris Young'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],Gio Gonzalez,1,1,1,Jose Pirela,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+7,bottom,1,['Chris Young'],Gio Gonzalez,1,1,2,Brendan Ryan,['N/A'],['N/A'],['Brendan Ryan'],Triple,N/A,1,2,1,N/A,N/A
+7,bottom,1,['Brendan Ryan'],Felipe Vazquez,1,3,1,Brett Gardner,['N/A'],['Brett Gardner'],['N/A'],Double,N/A,2,2,1,N/A,N/A
+7,bottom,0,[],Felipe Vazquez,2,2,2,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+7,bottom,1,['Brett Gardner'],Aaron Barrett,2,0,1,Alex Rodriguez,['N/A'],['Alex Rodriguez'],['N/A'],Double,N/A,3,2,1,N/A,N/A
+7,bottom,0,[],Aaron Barrett,2,1,2,Mark Teixeira,['Mark Teixeira'],['N/A'],['N/A'],Hit By Pitch,N/A,3,2,N/A,N/A,N/A
+7,bottom,1,['Alex Rodriguez'],Aaron Barrett,2,0,1,Brian McCann,['Brian McCann'],['Mark Teixeira'],['N/A'],Single,N/A,4,2,1,N/A,N/A
+7,bottom,0,[],Aaron Barrett,3,0,0,Carlos Beltran,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Nathan Eovaldi,0,2,1,Yunel Escobar,['Yunel Escobar'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Jacob Lindgren,1,1,0,Bryce Harper,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Jacob Lindgren,2,1,2,Ian Desmond,['Ian Desmond'],['N/A'],['N/A'],Forceout,N/A,4,2,N/A,N/A,N/A
+8,top,2,['Ian Desmond'],Jacob Lindgren,2,1,2,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,2,N/A,N/A
+8,top,0,[],Jacob Lindgren,3,1,3,Tyler Moore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+8,bottom,0,[],Casey Janssen,1,1,0,Chris Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+8,bottom,0,[],Casey Janssen,2,2,2,Stephen Drew,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,4,N/A,N/A,N/A
+8,bottom,0,[],Casey Janssen,3,0,0,Brendan Ryan,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Justin Wilson,0,4,2,Jose Lobaton,['Jose Lobaton'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Justin Wilson,1,1,2,Danny Espinosa,['Danny Espinosa'],['N/A'],['N/A'],Forceout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Justin Wilson,2,0,0,Denard Span,['Denard Span'],['N/A'],['N/A'],Forceout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],N/A,2,2,1,Anthony Rendon,['N/A'],['Denard Span'],['N/A'],Stolen Base 2B,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Justin Wilson,2,4,1,Anthony Rendon,['Anthony Rendon'],['Denard Span'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Justin Wilson,3,0,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Blake Treinen,1,3,2,Brett Gardner,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Blake Treinen,2,1,0,Chase Headley,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Blake Treinen,3,2,3,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Chris Capuano,1,3,2,Bryce Harper,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Chris Capuano,2,0,0,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Chris Capuano,3,3,2,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Blake Treinen,0,1,0,Mark Teixeira,['Mark Teixeira'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Blake Treinen,1,1,3,Brian McCann,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Blake Treinen,3,3,3,Carlos Beltran,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Chris Capuano,0,1,2,Tyler Moore,['Tyler Moore'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Chris Capuano,1,1,0,Jose Lobaton,['N/A'],['Tyler Moore'],['N/A'],Sac Bunt,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Chris Capuano,2,0,1,Danny Espinosa,['N/A'],['N/A'],['Tyler Moore'],Groundout,N/A,4,4,N/A,N/A,N/A
+11,top,1,['Tyler Moore'],Chris Capuano,2,1,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Single,N/A,4,5,1,N/A,N/A
+11,top,0,[],Chris Capuano,3,0,3,Anthony Rendon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+11,bottom,0,[],Drew Storen,1,1,3,Chris Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+11,bottom,0,[],Drew Storen,2,0,0,Stephen Drew,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+11,bottom,0,[],Drew Storen,3,1,3,Garrett Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A

@@ -1,0 +1,64 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Felix Hernandez,1,0,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Felix Hernandez,2,2,3,Joe Panik,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Felix Hernandez,3,1,0,Angel Pagan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Madison Bumgarner,1,3,2,Austin Jackson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Madison Bumgarner,2,3,3,Robinson Cano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Madison Bumgarner,3,0,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Felix Hernandez,0,0,0,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Felix Hernandez,1,2,3,Brandon Belt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Felix Hernandez,2,1,2,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Felix Hernandez,2,0,2,Matt Duffy,['Matt Duffy'],['Brandon Crawford'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Felix Hernandez,3,2,1,Casey McGehee,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Madison Bumgarner,1,0,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Madison Bumgarner,2,2,2,Mark Trumbo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Madison Bumgarner,3,1,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Felix Hernandez,1,1,0,Justin Maxwell,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Felix Hernandez,2,2,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Felix Hernandez,2,2,0,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Felix Hernandez,3,0,1,Angel Pagan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Madison Bumgarner,1,1,0,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Madison Bumgarner,2,0,3,Brad Miller,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Madison Bumgarner,3,2,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Felix Hernandez,1,0,3,Buster Posey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Felix Hernandez,2,0,0,Brandon Belt,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Felix Hernandez,3,2,1,Brandon Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Madison Bumgarner,1,0,1,Austin Jackson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Madison Bumgarner,2,3,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Madison Bumgarner,3,1,0,Nelson Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Felix Hernandez,0,2,2,Matt Duffy,['Matt Duffy'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Felix Hernandez,1,0,3,Casey McGehee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Felix Hernandez,2,0,3,Justin Maxwell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Felix Hernandez,3,1,0,Norichika Aoki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Madison Bumgarner,1,0,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Madison Bumgarner,1,0,2,Mark Trumbo,['N/A'],['Mark Trumbo'],['N/A'],Single,Error,0,0,N/A,N/A,Brandon Crawford
+5,bottom,0,[],Madison Bumgarner,2,2,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Madison Bumgarner,3,0,0,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Felix Hernandez,1,1,1,Joe Panik,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Felix Hernandez,2,1,1,Angel Pagan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Felix Hernandez,3,1,2,Buster Posey,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Madison Bumgarner,1,1,0,Brad Miller,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Madison Bumgarner,1,3,2,Mike Zunino,['Mike Zunino'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+6,bottom,1,['Mike Zunino'],Madison Bumgarner,1,2,1,Austin Jackson,['N/A'],['N/A'],['Austin Jackson'],Triple,N/A,1,0,1,N/A,N/A
+6,bottom,1,['Austin Jackson'],Madison Bumgarner,1,0,1,Robinson Cano,['N/A'],['Robinson Cano'],['N/A'],Double,N/A,2,0,1,N/A,N/A
+6,bottom,0,[],Madison Bumgarner,1,4,0,Nelson Cruz,['Nelson Cruz'],['N/A'],['N/A'],Intent Walk,N/A,2,0,N/A,N/A,N/A
+6,bottom,0,[],Madison Bumgarner,2,1,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+6,bottom,0,[],Madison Bumgarner,3,1,0,Mark Trumbo,['N/A'],['N/A'],['N/A'],Runner Out,N/A,2,0,N/A,N/A,N/A
+7,top,0,[],Felix Hernandez,1,3,2,Brandon Belt,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+7,top,0,[],Felix Hernandez,1,1,1,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Field Error,N/A,2,0,N/A,N/A,Robinson Cano
+7,top,0,[],Felix Hernandez,2,0,0,Matt Duffy,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+7,top,0,[],Felix Hernandez,2,4,2,Casey McGehee,['Casey McGehee'],['Brandon Crawford'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+7,top,0,[],Felix Hernandez,3,0,0,Justin Maxwell,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+7,bottom,0,[],Madison Bumgarner,1,1,1,Mark Trumbo,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+7,bottom,0,[],Madison Bumgarner,2,2,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+7,bottom,0,[],Madison Bumgarner,3,0,3,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+8,top,0,[],Felix Hernandez,1,1,0,Norichika Aoki,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+8,top,0,[],Felix Hernandez,1,4,2,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+8,top,0,[],Felix Hernandez,2,0,1,Angel Pagan,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+8,top,0,[],Felix Hernandez,3,2,2,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+8,bottom,0,[],Madison Bumgarner,1,0,1,Brad Miller,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+8,bottom,0,[],Madison Bumgarner,2,1,2,Mike Zunino,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+8,bottom,0,[],Madison Bumgarner,3,3,2,Austin Jackson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+9,top,0,[],Charlie Furbush,1,0,2,Brandon Belt,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+9,top,0,[],Charlie Furbush,2,3,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+9,top,0,[],Carson Smith,3,2,3,Matt Duffy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A

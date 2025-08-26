@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Luke Hochevar,0,4,0,Scott Podsednik,['Scott Podsednik'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Luke Hochevar,0,0,2,Alexei Ramirez,['Alexei Ramirez'],['Scott Podsednik'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Luke Hochevar,1,0,1,Jermaine Dye,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Luke Hochevar,3,3,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gavin Floyd,1,2,1,David DeJesus,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gavin Floyd,2,0,2,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gavin Floyd,3,1,3,Billy Butler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Luke Hochevar,1,2,2,Ramon Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Luke Hochevar,1,1,0,Chris Getz,['Chris Getz'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Luke Hochevar,2,0,1,Gordon Beckham,['N/A'],['N/A'],['Chris Getz'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Chris Getz'],Luke Hochevar,2,0,1,Dewayne Wise,['Dewayne Wise'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+2,top,0,[],Luke Hochevar,2,2,1,Brian Anderson,['Brian Anderson'],['Dewayne Wise'],['N/A'],Hit By Pitch,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Luke Hochevar,3,2,2,Scott Podsednik,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Gavin Floyd,1,2,1,Jose Guillen,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Gavin Floyd,1,4,2,Mark Teahen,['Mark Teahen'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Gavin Floyd,2,3,3,Mike Jacobs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Gavin Floyd,3,2,3,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Luke Hochevar,0,1,0,Alexei Ramirez,['N/A'],['Alexei Ramirez'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+3,top,2,['Alexei Ramirez'],Luke Hochevar,0,2,0,Jermaine Dye,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,2,N/A,N/A
+3,top,0,[],Luke Hochevar,1,2,0,Paul Konerko,['N/A'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Luke Hochevar,1,4,0,Ramon Castro,['Ramon Castro'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Luke Hochevar,2,1,3,Chris Getz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Luke Hochevar,3,0,0,Gordon Beckham,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Gavin Floyd,0,4,0,Miguel Olivo,['Miguel Olivo'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Gavin Floyd,1,0,1,Mitch Maier,['Mitch Maier'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Gavin Floyd,2,2,1,David DeJesus,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],N/A,2,3,2,Willie Bloomquist,['N/A'],['Mitch Maier'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Gavin Floyd,3,3,2,Willie Bloomquist,['N/A'],['Mitch Maier'],['N/A'],Fielders Choice Out,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Luke Hochevar,1,0,1,Dewayne Wise,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Luke Hochevar,2,1,3,Brian Anderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Luke Hochevar,3,0,0,Scott Podsednik,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Gavin Floyd,1,3,1,Billy Butler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Gavin Floyd,2,2,1,Jose Guillen,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Gavin Floyd,3,3,2,Mark Teahen,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Luke Hochevar,1,1,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Luke Hochevar,2,2,1,Jermaine Dye,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Luke Hochevar,2,1,2,Paul Konerko,['Paul Konerko'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Luke Hochevar,3,1,0,Ramon Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Gavin Floyd,0,1,0,Mike Jacobs,['Mike Jacobs'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+5,bottom,1,['Mike Jacobs'],Gavin Floyd,0,1,2,Alberto Callaspo,['N/A'],['N/A'],['Alberto Callaspo'],Triple,N/A,1,3,1,N/A,N/A
+5,bottom,0,[],Gavin Floyd,1,0,0,Miguel Olivo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+5,bottom,1,['Alberto Callaspo'],Gavin Floyd,2,1,1,Mitch Maier,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,3,1,N/A,N/A
+5,bottom,0,[],Gavin Floyd,3,0,3,David DeJesus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Luke Hochevar,1,0,1,Chris Getz,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+6,top,1,[],Luke Hochevar,1,1,0,Gordon Beckham,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,1,N/A,N/A
+6,top,0,[],Luke Hochevar,2,1,3,Dewayne Wise,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Luke Hochevar,2,2,2,Brian Anderson,['N/A'],['Brian Anderson'],['N/A'],Double,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Luke Hochevar,3,2,2,Scott Podsednik,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Gavin Floyd,0,1,0,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],N/A,0,3,1,Billy Butler,['N/A'],['Willie Bloomquist'],['N/A'],Stolen Base 2B,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Gavin Floyd,0,4,2,Billy Butler,['Billy Butler'],['Willie Bloomquist'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Gavin Floyd,1,0,1,Jose Guillen,['Jose Guillen'],['N/A'],['Willie Bloomquist'],Forceout,N/A,2,4,N/A,N/A,N/A
+6,bottom,1,['Willie Bloomquist'],Gavin Floyd,1,3,2,Mark Teahen,['Mark Teahen'],['Jose Guillen'],['N/A'],Single,N/A,3,4,1,N/A,N/A
+6,bottom,0,[],Matt Thornton,2,2,0,Brayan Pena,['N/A'],['Mark Teahen'],['Jose Guillen'],Groundout,N/A,3,4,N/A,N/A,N/A
+6,bottom,2,"['Jose Guillen', 'Mark Teahen']",Matt Thornton,2,3,2,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Single,N/A,5,4,2,N/A,N/A
+6,bottom,0,[],Matt Thornton,3,0,0,Miguel Olivo,['N/A'],['N/A'],['N/A'],Forceout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Juan Cruz,1,1,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Juan Cruz,2,3,3,Jermaine Dye,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Juan Cruz,3,3,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Matt Thornton,1,1,2,Mitch Maier,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Matt Thornton,1,1,1,David DeJesus,['David DeJesus'],['N/A'],['N/A'],Single,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Octavio Dotel,2,0,3,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Octavio Dotel,3,3,1,Billy Butler,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,4,N/A,N/A,N/A
+8,top,0,[],John Bale,1,2,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,4,N/A,N/A,N/A
+8,top,0,[],John Bale,2,1,1,Jayson Nix,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,4,N/A,N/A,N/A
+8,top,0,[],John Bale,3,3,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+8,bottom,0,[],Octavio Dotel,1,1,2,Jose Guillen,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+8,bottom,0,[],Octavio Dotel,2,0,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+8,bottom,1,[],Octavio Dotel,2,1,0,Brayan Pena,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,4,1,N/A,N/A
+8,bottom,0,[],Octavio Dotel,2,4,1,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Walk,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Octavio Dotel,3,1,3,Miguel Olivo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Joakim Soria,1,1,3,Dewayne Wise,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Joakim Soria,2,1,0,Jim Thome,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Joakim Soria,3,1,3,Scott Podsednik,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A

@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Max Scherzer,1,1,0,Ender Inciarte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Max Scherzer,2,0,0,Adonis Garcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Max Scherzer,3,0,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ryan Weber,0,0,2,Trea Turner,['N/A'],['Trea Turner'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ryan Weber,1,0,1,Ben Revere,['N/A'],['N/A'],['Trea Turner'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ryan Weber,1,1,1,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ryan Weber,3,2,1,Clint Robinson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,1,2,1,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,1,2,1,Nick Markakis,['Nick Markakis'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,1,4,1,Anthony Recker,['Anthony Recker'],['Nick Markakis'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Nick Markakis'],Max Scherzer,1,1,1,Jace Peterson,['N/A'],['Jace Peterson'],['Anthony Recker'],Double,N/A,0,1,1,N/A,N/A
+2,top,0,[],Max Scherzer,2,2,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,3,1,0,Ryan Weber,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ryan Weber,1,1,0,Chris Heisey,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ryan Weber,2,2,3,Brian Goodwin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ryan Weber,3,3,3,Danny Espinosa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,1,1,2,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,2,0,3,Adonis Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,2,0,0,Freddie Freeman,['N/A'],['Freddie Freeman'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,3,0,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Ryan Weber,0,1,2,Jose Lobaton,['Jose Lobaton'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Ryan Weber,1,2,0,Max Scherzer,['N/A'],['Jose Lobaton'],['N/A'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+3,bottom,2,['Jose Lobaton'],Ryan Weber,1,1,2,Trea Turner,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,1,2,N/A,N/A
+3,bottom,0,[],Ryan Weber,1,1,0,Ben Revere,['N/A'],['Ben Revere'],['N/A'],Double,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Ryan Weber,1,4,2,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Ryan Weber,2,0,0,Clint Robinson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+3,bottom,3,"['Ben Revere', 'Anthony Rendon']",Ryan Weber,2,1,2,Chris Heisey,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,1,3,N/A,N/A
+3,bottom,0,[],Ryan Weber,3,3,1,Brian Goodwin,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,1,0,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,1,4,2,Anthony Recker,['Anthony Recker'],['N/A'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,1,0,0,Jace Peterson,['Jace Peterson'],['N/A'],['Anthony Recker'],Field Error,N/A,5,1,N/A,N/A,Clint Robinson
+4,top,0,[],Max Scherzer,2,0,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,3,0,3,Brandon Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+4,bottom,0,[],Jed Bradley,0,4,0,Danny Espinosa,['Danny Espinosa'],['N/A'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+4,bottom,0,[],Jed Bradley,0,4,0,Jose Lobaton,['Jose Lobaton'],['Danny Espinosa'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+4,bottom,0,[],Jed Bradley,1,1,3,Max Scherzer,['N/A'],['N/A'],['Danny Espinosa'],Strikeout,N/A,5,1,N/A,N/A,N/A
+4,bottom,1,['Danny Espinosa'],Jed Bradley,1,2,2,Trea Turner,['Trea Turner'],['Jose Lobaton'],['N/A'],Single,N/A,6,1,1,N/A,N/A
+4,bottom,0,[],Jed Bradley,3,1,1,Ben Revere,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,1,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,0,1,1,Ender Inciarte,['Ender Inciarte'],['N/A'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,1,0,1,Adonis Garcia,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,1,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,2,2,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,3,2,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Jed Bradley,1,0,1,Anthony Rendon,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Jed Bradley,1,4,1,Clint Robinson,['Clint Robinson'],['N/A'],['N/A'],Walk,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Jed Bradley,2,3,3,Chris Heisey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Jed Bradley,2,1,2,Brian Goodwin,['N/A'],['Brian Goodwin'],['Clint Robinson'],Double,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Jed Bradley,3,3,2,Danny Espinosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,0,2,2,Nick Markakis,['N/A'],['Nick Markakis'],['N/A'],Double,N/A,6,1,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,0,2,2,Anthony Recker,['Anthony Recker'],['N/A'],['Nick Markakis'],Single,N/A,6,1,N/A,N/A,N/A
+6,top,1,['Nick Markakis'],Max Scherzer,1,0,2,Jace Peterson,['Jace Peterson'],['N/A'],['N/A'],Forceout,N/A,6,2,1,N/A,N/A
+6,top,0,[],Max Scherzer,2,1,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,2,0,2,A.J. Pierzynski,['A.J. Pierzynski'],['N/A'],['Jace Peterson'],Single,N/A,6,2,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,3,2,2,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+6,bottom,0,[],Brandon Cunniff,0,2,2,Jose Lobaton,['Jose Lobaton'],['N/A'],['N/A'],Single,N/A,6,2,N/A,N/A,N/A
+6,bottom,0,[],Brandon Cunniff,1,0,2,Max Scherzer,['N/A'],['Jose Lobaton'],['N/A'],Sac Bunt,N/A,6,2,N/A,N/A,N/A
+6,bottom,0,[],Brandon Cunniff,2,2,2,Trea Turner,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,2,N/A,N/A,N/A
+6,bottom,0,[],Brandon Cunniff,3,1,2,Ben Revere,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,2,N/A,N/A,N/A
+7,top,0,[],Max Scherzer,1,0,1,Adonis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+7,top,0,[],Max Scherzer,2,0,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+7,top,0,[],Max Scherzer,2,0,0,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Field Error,N/A,6,2,N/A,N/A,Anthony Rendon
+7,top,0,[],Max Scherzer,3,0,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Brandon Cunniff,1,1,0,Anthony Rendon,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Brandon Cunniff,2,1,3,Clint Robinson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Brandon Cunniff,3,1,2,Chris Heisey,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,2,N/A,N/A,N/A
+8,top,0,[],Koda Glover,1,0,0,Anthony Recker,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A
+8,top,0,[],Koda Glover,1,4,2,Jace Peterson,['Jace Peterson'],['N/A'],['N/A'],Walk,N/A,6,2,N/A,N/A,N/A
+8,top,0,[],Koda Glover,2,2,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A
+8,top,0,[],Koda Glover,3,2,3,Chase d'Arnaud,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+8,bottom,0,[],Chaz Roe,1,0,3,Brian Goodwin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+8,bottom,0,[],Chaz Roe,2,0,0,Danny Espinosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+8,bottom,0,[],Chaz Roe,3,1,3,Jose Lobaton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,0,1,0,Ender Inciarte,['Ender Inciarte'],['N/A'],['N/A'],Single,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,0,0,0,Adonis Garcia,['Adonis Garcia'],['Ender Inciarte'],['N/A'],Single,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,0,2,2,Freddie Freeman,['N/A'],['Adonis Garcia'],['Ender Inciarte'],Wild Pitch,N/A,6,2,N/A,N/A,N/A
+9,top,1,['Ender Inciarte'],Mark Melancon,0,2,2,Freddie Freeman,['Freddie Freeman'],['Adonis Garcia'],"['Ender Inciarte', 'Adonis Garcia']",Single,N/A,6,3,1,N/A,N/A
+9,top,1,['Adonis Garcia'],Mark Melancon,2,2,0,Matt Kemp,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,2,1,0,Nick Markakis,['Nick Markakis'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,3,1,2,Anthony Recker,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A

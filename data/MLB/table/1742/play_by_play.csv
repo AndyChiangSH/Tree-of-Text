@@ -1,0 +1,88 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jefry Rodriguez,0,4,0,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jefry Rodriguez,0,4,2,Christian Yelich,['Christian Yelich'],['Curtis Granderson'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jefry Rodriguez,1,1,3,Travis Shaw,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jefry Rodriguez,1,0,0,Eric Thames,['Eric Thames'],['Christian Yelich'],['Curtis Granderson'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Curtis Granderson', 'Christian Yelich']",Jefry Rodriguez,1,0,2,Mike Moustakas,['Mike Moustakas'],['Eric Thames'],['N/A'],Single,N/A,0,2,2,N/A,N/A
+1,top,0,[],Jefry Rodriguez,2,1,1,Manny Pina,['Manny Pina'],['N/A'],['Eric Thames'],Forceout,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Jefry Rodriguez,3,1,0,Keon Broxton,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Junior Guerra,1,2,2,Adam Eaton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Junior Guerra,2,2,3,Trea Turner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Junior Guerra,2,0,0,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Junior Guerra,3,1,3,Anthony Rendon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Jefry Rodriguez,1,0,1,Orlando Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Jefry Rodriguez,1,1,1,Junior Guerra,['N/A'],['Junior Guerra'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Jefry Rodriguez,3,2,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Double Play,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Junior Guerra,1,0,0,Juan Soto,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Junior Guerra,2,2,0,Mark Reynolds,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+2,bottom,1,[],Junior Guerra,2,1,0,Wilmer Difo,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,1,N/A,N/A
+2,bottom,0,[],Junior Guerra,3,2,0,Spencer Kieboom,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Jefry Rodriguez,1,3,1,Christian Yelich,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Jefry Rodriguez,2,3,3,Travis Shaw,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Jefry Rodriguez,2,4,0,Eric Thames,['Eric Thames'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Jefry Rodriguez,2,4,2,Mike Moustakas,['Mike Moustakas'],['Eric Thames'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Jefry Rodriguez,2,4,2,Manny Pina,['Manny Pina'],['Mike Moustakas'],['Eric Thames'],Walk,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Jefry Rodriguez,3,1,1,Keon Broxton,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Junior Guerra,1,1,3,Jefry Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Junior Guerra,1,2,2,Adam Eaton,['Adam Eaton'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Junior Guerra,2,0,2,Trea Turner,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Junior Guerra,2,1,0,Bryce Harper,['N/A'],['Adam Eaton'],['N/A'],Wild Pitch,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Junior Guerra,2,4,0,Bryce Harper,['Bryce Harper'],['Adam Eaton'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Junior Guerra,2,4,2,Anthony Rendon,['Anthony Rendon'],['Bryce Harper'],['Adam Eaton'],Walk,N/A,1,2,N/A,N/A,N/A
+3,bottom,1,['Adam Eaton'],Junior Guerra,2,3,1,Juan Soto,['Juan Soto'],['Anthony Rendon'],['Bryce Harper'],Single,N/A,2,2,1,N/A,N/A
+3,bottom,2,"['Bryce Harper', 'Anthony Rendon']",Junior Guerra,2,2,1,Mark Reynolds,['Mark Reynolds'],['Juan Soto'],['N/A'],Single,N/A,4,2,2,N/A,N/A
+3,bottom,0,[],Junior Guerra,3,0,2,Wilmer Difo,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Jefry Rodriguez,1,3,2,Orlando Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Jefry Rodriguez,2,2,0,Domingo Santana,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Jefry Rodriguez,2,4,1,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Jefry Rodriguez,3,0,0,Christian Yelich,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Brandon Woodruff,1,1,3,Spencer Kieboom,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Brandon Woodruff,2,0,3,Jefry Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Brandon Woodruff,3,0,1,Adam Eaton,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Jefry Rodriguez,1,1,2,Travis Shaw,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Jefry Rodriguez,1,0,1,Eric Thames,['N/A'],['Eric Thames'],['N/A'],Double,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Jefry Rodriguez,2,0,0,Mike Moustakas,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Jefry Rodriguez,2,1,1,Manny Pina,['Manny Pina'],['N/A'],['Eric Thames'],Single,N/A,4,2,N/A,N/A,N/A
+5,top,3,"['Eric Thames', 'Manny Pina']",Jefry Rodriguez,2,2,0,Keon Broxton,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,5,3,N/A,N/A
+5,top,0,[],Jefry Rodriguez,2,0,0,Orlando Arcia,['Orlando Arcia'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Jefry Rodriguez,2,4,0,Brandon Woodruff,['Brandon Woodruff'],['Orlando Arcia'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Tim Collins,2,1,0,Hernan Perez,['N/A'],['Brandon Woodruff'],['Orlando Arcia'],Wild Pitch,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Tim Collins,2,4,0,Hernan Perez,['Hernan Perez'],['Brandon Woodruff'],['Orlando Arcia'],Walk,N/A,4,5,N/A,N/A,N/A
+5,top,4,"['Orlando Arcia', 'Brandon Woodruff', 'Hernan Perez']",Tim Collins,2,2,0,Christian Yelich,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,9,4,N/A,N/A
+5,top,0,[],Tim Collins,2,4,1,Travis Shaw,['Travis Shaw'],['N/A'],['N/A'],Walk,N/A,4,9,N/A,N/A,N/A
+5,top,0,[],Tim Collins,3,2,1,Eric Thames,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+5,bottom,0,[],Brandon Woodruff,1,0,1,Trea Turner,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+5,bottom,0,[],Brandon Woodruff,2,2,3,Bryce Harper,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+5,bottom,0,[],Brandon Woodruff,3,0,1,Anthony Rendon,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+6,top,0,[],Austen Williams,1,1,3,Mike Moustakas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+6,top,0,[],Austen Williams,1,4,2,Manny Pina,['Manny Pina'],['N/A'],['N/A'],Walk,N/A,4,9,N/A,N/A,N/A
+6,top,0,[],Austen Williams,2,2,3,Keon Broxton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+6,top,0,[],Austen Williams,3,2,1,Orlando Arcia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,9,N/A,N/A,N/A
+6,bottom,0,[],Brandon Woodruff,0,0,1,Juan Soto,['Juan Soto'],['N/A'],['N/A'],Single,N/A,4,9,N/A,N/A,N/A
+6,bottom,0,[],Brandon Woodruff,1,1,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+6,bottom,0,[],Brandon Woodruff,2,3,1,Wilmer Difo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,9,N/A,N/A,N/A
+6,bottom,0,[],Brandon Woodruff,3,2,2,Spencer Kieboom,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,9,N/A,N/A,N/A
+7,top,0,[],Austen Williams,1,0,0,Brandon Woodruff,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+7,top,0,[],Austen Williams,2,1,1,Hernan Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+7,top,0,[],Austen Williams,2,4,2,Christian Yelich,['Christian Yelich'],['N/A'],['N/A'],Walk,N/A,4,9,N/A,N/A,N/A
+7,top,0,[],Austen Williams,3,0,0,Travis Shaw,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+7,bottom,0,[],Brandon Woodruff,0,2,2,Andrew Stevenson,['Andrew Stevenson'],['N/A'],['N/A'],Single,N/A,4,9,N/A,N/A,N/A
+7,bottom,0,[],Brandon Woodruff,1,2,3,Adam Eaton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+7,bottom,0,[],Brandon Woodruff,1,0,2,Trea Turner,['Trea Turner'],['Andrew Stevenson'],['N/A'],Single,N/A,4,9,N/A,N/A,N/A
+7,bottom,0,[],Brandon Woodruff,2,0,2,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+7,bottom,0,[],Brandon Woodruff,3,1,2,Anthony Rendon,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+8,top,0,[],Sammy Solis,0,3,2,Tyler Saladino,['Tyler Saladino'],['N/A'],['N/A'],Single,N/A,4,9,N/A,N/A,N/A
+8,top,0,[],Sammy Solis,1,3,2,Mike Moustakas,['N/A'],['Tyler Saladino'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+8,top,0,[],Sammy Solis,2,1,0,Manny Pina,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+8,top,0,[],Sammy Solis,3,2,3,Keon Broxton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],Xavier Cedeno,1,2,2,Juan Soto,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],Xavier Cedeno,1,1,1,Mark Reynolds,['Mark Reynolds'],['N/A'],['N/A'],Single,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],Xavier Cedeno,2,1,3,Wilmer Difo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],Xavier Cedeno,3,2,1,Spencer Kieboom,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Koda Glover,1,2,2,Orlando Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Koda Glover,2,2,1,Jonathan Schoop,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Koda Glover,2,2,2,Hernan Perez,['Hernan Perez'],['N/A'],['N/A'],Single,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Koda Glover,3,2,1,Christian Yelich,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+9,bottom,0,[],Corey Knebel,1,1,3,Andrew Stevenson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+9,bottom,0,[],Corey Knebel,2,2,0,Adam Eaton,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+9,bottom,0,[],Corey Knebel,3,2,3,Trea Turner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A

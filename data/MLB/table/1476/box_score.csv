@@ -1,0 +1,48 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Frazier,,0,,3B,2,,0,0,3,Todd Frazier,,,1.000,,.100,,,1,Todd,,,,,1,,,0,.439,,400,,0,,,1,,0,,0,,,0,0,1,0,0,White Sox,0,.233,0,.206
+,Gonzalez,,,,,,,,,,Miguel Gonzalez,,,,,,,,,Miguel,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+0,Swarzak,0,0,0,P,0,4,0,0,0,Anthony Swarzak,1,,.000,0,.000,0,12,0,Anthony,0,2,,0,0,1,1/3,0,.000,1,,,0,50,,0,0.00,0,4,0,0,15,0,0,0,0,0,White Sox,0,.000,0,.000
+,Cabrera,,0,,LF,1,,0,0,4,Melky Cabrera,,1,.000,,.261,,,2,Melky,,,,,0,,,0,.668,,200,,0,,,0,,0,,1,,,0,0,1,0,0,White Sox,0,.348,0,.320
+,Putnam,,,,,,,,,,Zach Putnam,,,,,,,,,Zach,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+4,Quintana,5,0,3,P,0,23,0,0,0,Jose Quintana,0,,1.000,0,.000,3,60,0,Jose,0,6,,1,0,6,,0,.000,0,,true,0,51,,2,6.17,0,18,0,3,106,0,0,0,0,0,White Sox,0,.000,0,.000
+,Robertson,,,,,,,,,,David Robertson,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Holland,,,,,,,,,,Derek Holland,,,,,,,,,Derek,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+0,Jones,0,0,0,P,0,4,0,0,0,Nate Jones,1,,.000,0,.000,0,15,0,Nate,0,3,,0,0,1,1/3,0,.000,2,,,0,51,,0,3.52,0,4,0,0,24,0,0,0,0,0,White Sox,0,.000,0,.000
+,Garcia,,0,,RF,0,,0,0,3,Avisail Garcia,,2,.000,,.400,,,0,Avisail,,,,,0,,,0,1.077,,500,,0,,,0,,0,,0,,,0,0,1,0,0,White Sox,0,.618,0,.459
+0,Jennings,1,0,1,P,0,3,0,0,0,Dan Jennings,1,,1.000,0,.000,0,10,0,Dan,0,0,,0,1,0,1/3,0,.000,0,,,0,38,,0,1.50,0,1,0,0,16,0,0,0,0,0,White Sox,0,.000,0,.000
+,Garcia,,,,,,,,,,Leury Garcia,,,,,,,,,Leury,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Abreu,,0,,1B,1,,0,0,3,Jose Abreu,,1,1.000,,.190,,,1,Jose,,,,,8,,,0,.471,,300,,0,,,2,,0,,0,,,0,0,1,0,0,White Sox,0,.241,0,.230
+,Narvaez,,0,,C,0,,0,0,2,Omar Narvaez,,,1.000,,.174,,,0,Omar,,,,,10,,,1,.443,,800,,0,,,2,,0,,1,,,0,0,1,0,0,White Sox,0,.174,0,.269
+,Sanchez,,0,,2B,0,,0,0,3,Yolmer Sanchez,,2,1.000,,.267,,,0,Yolmer,,,,,3,,,0,.734,,700,,0,,,3,,0,,0,,,0,0,1,0,0,White Sox,0,.467,0,.267
+,Davidson,,,,,,,,,,Matt Davidson,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Saladino,,,,,,,,,,Tyler Saladino,,,,,,,,,Tyler,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Ynoa,,,,,,,,,,Michael Ynoa,,,,,,,,,Michael,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Covey,,,,,,,,,,Dylan Covey,,,,,,,,,Dylan,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Kahnle,,,,,,,,,,Tommy Kahnle,,,,,,,,,Tommy,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,May,,0,,CF,0,,0,0,2,Jacob May,,2,1.000,,.000,,,2,Jacob,,,,,3,,,1,.103,,900,,0,,,0,,0,,0,,,0,0,1,0,0,White Sox,0,.000,0,.103
+,Asche,,0,,DH,1,,0,0,3,Cody Asche,,,.000,,.063,,,0,Cody,,,,,0,,,0,.206,,600,,0,,,0,,0,,0,,,0,0,2,0,0,White Sox,0,.063,0,.143
+,Smith,,,,,,,,,,Kevan Smith,,,,,,,,,Kevan,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Anderson,,0,,SS,1,,0,0,4,Tim Anderson,,3,1.000,,.169,,,2,Tim,,,,,1,,,0,.420,,100,,0,,,4,,0,,1,,,0,0,0,0,0,White Sox,0,.237,0,.183
+,Encarnacion,,0,,DH,0,,0,0,3,Edwin Encarnacion,,1,.000,,.207,,,3,Edwin,,,,,0,,,1,.680,,400,,0,,,0,,0,,0,,,0,0,2,0,0,Indians,0,.328,0,.352
+1,Kluber,3,0,2,P,0,29,0,0,0,Corey Kluber,2,,1.000,0,.500,0,73,0,Corey,0,9,,0,1,9,,0,1.000,0,,,0,93,true,1,4.28,0,27,0,0,110,0,0,0,0,0,Indians,0,.500,0,.500
+,Guyer,,0,,RF,0,,0,0,2,Brandon Guyer,,,1.000,,.190,,,0,Brandon,,,,,2,,,0,.594,,700,,0,,,0,,0,,1,,,1,1,1,0,2,Indians,0,.333,0,.261
+,Logan,,,,,,,,,,Boone Logan,,,,,,,,,Boone,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Jackson,,0,,CF,0,,0,0,3,Austin Jackson,,2,.000,,.238,,,0,Austin,,,,,0,,,0,.741,,800,,0,,,0,,1,,1,,,0,1,0,0,0,Indians,0,.381,0,.360
+,Tomlin,,,,,,,,,,Josh Tomlin,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Santana,,0,,1B,0,,0,0,2,Carlos Santana,,3,1.000,,.246,,,1,Carlos,,,,,9,,,2,.745,,100,,0,,,2,,0,,0,,,0,0,0,0,0,Indians,0,.420,0,.325
+,Carrasco,,,,,,,,,,Carlos Carrasco,,,,,,,,,Carlos,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Brantley,,0,,LF,0,,1,0,4,Michael Brantley,,1,1.000,,.302,,,3,Michael,,,,,1,,,0,.855,,300,,0,,,0,,0,,2,,,0,0,1,0,0,Indians,0,.472,0,.383
+,Martinez,,,,,,,,,,Michael Martinez,,,,,,,,,Michael,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Almonte,,,,,,,,,,Abraham Almonte,,,,,,,,,Abraham,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Chisenhall,,0,,PH-RF,0,,0,0,2,Lonnie Chisenhall,,1,1.000,,.308,,,0,Lonnie,,,,,0,,,0,.948,,701,,0,,,1,,0,,0,,,0,0,1,0,0,Indians,0,.615,0,.333
+,Salazar,,,,,,,,,,Danny Salazar,,,,,,,,,Danny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Otero,,,,,,,,,,Dan Otero,,,,,,,,,Dan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Gomes,,1,,C,0,,0,0,2,Yan Gomes,,1,1.000,,.162,,,0,Yan,,,,,9,,,0,.514,,900,,0,,,0,,0,,1,,,0,0,1,0,0,Indians,0,.270,0,.244
+,Kipnis,,0,,2B,2,,0,0,3,Jason Kipnis,,,1.000,,.000,,,0,Jason,,,,,1,,,1,.250,,600,,0,,,2,,0,,0,,,0,1,1,0,0,Indians,0,.000,0,.250
+,Shaw,,,,,,,,,,Bryan Shaw,,,,,,,,,Bryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Bauer,,,,,,,,,,Trevor Bauer,,,,,,,,,Trevor,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Perez,,,,,,,,,,Roberto Perez,,,,,,,,,Roberto,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Allen,,,,,,,,,,Cody Allen,,,,,,,,,Cody,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Anderson,,,,,,,,,,Cody Anderson,,,,,,,,,Cody,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indians,,,,
+,Lindor,,0,,SS,0,,0,0,4,Francisco Lindor,,,1.000,,.323,,,1,Francisco,,,,,3,,,0,1.007,,200,,0,,,4,,0,,1,,,0,0,3,0,0,Indians,0,.615,0,.392
+,Ramirez,,0,,3B,2,,1,0,4,Jose Ramirez,,1,1.000,,.322,,,1,Jose,,,,,1,,,0,.967,,500,,0,,,1,,0,,0,,,0,0,1,0,0,Indians,0,.576,0,.391

@@ -1,0 +1,104 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Clayton Richard,1,1,1,Rafael Furcal,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Clayton Richard,2,2,2,Casey Blake,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Clayton Richard,3,1,1,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,1,0,1,Will Venable,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,1,0,1,Jason Bartlett,['Jason Bartlett'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,1,2,1,Orlando Hudson,['Orlando Hudson'],['Jason Bartlett'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],N/A,1,0,1,Jorge Cantu,['N/A'],['N/A'],['Jason Bartlett'],Stolen Base 3B,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,2,0,1,Jorge Cantu,['N/A'],['N/A'],['Jason Bartlett'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,3,0,2,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,0,2,2,Matt Kemp,['N/A'],['Matt Kemp'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cory Luebke,0,2,2,Juan Uribe,['N/A'],['N/A'],['Matt Kemp'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cory Luebke,1,3,3,Juan Uribe,['N/A'],['N/A'],['Matt Kemp'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cory Luebke,2,0,3,James Loney,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cory Luebke,3,0,3,Marcus Thames,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,1,1,0,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,1,1,0,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],N/A,1,1,2,Nick Hundley,['N/A'],['Cameron Maybin'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,2,1,3,Nick Hundley,['N/A'],['Cameron Maybin'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,3,0,2,Cory Luebke,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Cory Luebke,1,2,3,Rod Barajas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Cory Luebke,2,1,1,Ted Lilly,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Cory Luebke,3,3,1,Rafael Furcal,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,1,0,2,Will Venable,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,2,0,1,Jason Bartlett,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,2,4,2,Orlando Hudson,['Orlando Hudson'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,3,3,1,Jorge Cantu,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Cory Luebke,0,4,2,Casey Blake,['Casey Blake'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Cory Luebke,1,0,0,Andre Ethier,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Cory Luebke,1,4,1,Matt Kemp,['Matt Kemp'],['Casey Blake'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,top,1,['Casey Blake'],N/A,1,2,0,Juan Uribe,['N/A'],['Matt Kemp'],['Casey Blake'],Stolen Base 2B,Error,0,1,N/A,N/A,Nick Hundley
+4,top,0,[],Cory Luebke,2,2,2,Juan Uribe,['N/A'],['Matt Kemp'],['Matt Kemp'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Cory Luebke,3,3,3,James Loney,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,1,1,2,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,1,4,2,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,1,1,1,Cameron Maybin,['Cameron Maybin'],['N/A'],['Chase Headley'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,2,1,3,Nick Hundley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],N/A,2,1,1,Cory Luebke,['N/A'],['Cameron Maybin'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,3,2,3,Cory Luebke,['N/A'],['Cameron Maybin'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Cory Luebke,1,1,0,Marcus Thames,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Cory Luebke,2,3,1,Rod Barajas,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Cory Luebke,3,3,2,Ted Lilly,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Ted Lilly,0,0,0,Will Venable,['N/A'],['Will Venable'],['N/A'],Single,Error,0,1,N/A,N/A,Matt Kemp
+5,bottom,0,[],Ted Lilly,1,2,1,Jason Bartlett,['N/A'],['N/A'],['Will Venable'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,bottom,1,['Will Venable'],Ted Lilly,1,2,2,Orlando Hudson,['Orlando Hudson'],['N/A'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+5,bottom,0,[],Ted Lilly,1,0,1,Jorge Cantu,['N/A'],['Jorge Cantu'],['Orlando Hudson'],Double,N/A,1,1,N/A,N/A,N/A
+5,bottom,1,['Orlando Hudson'],Mike MacDougal,2,2,2,Ryan Ludwick,['N/A'],['N/A'],['Jorge Cantu'],Groundout,N/A,2,1,1,N/A,N/A
+5,bottom,0,[],Mike MacDougal,2,4,0,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Intent Walk,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Mike MacDougal,3,2,2,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Chad Qualls,1,1,2,Rafael Furcal,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Chad Qualls,1,2,2,Casey Blake,['Casey Blake'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Chad Qualls,1,1,2,Andre Ethier,['Andre Ethier'],['Casey Blake'],['Casey Blake'],Single,N/A,2,1,N/A,N/A,N/A
+6,top,1,['Casey Blake'],Chad Qualls,1,0,2,Matt Kemp,['Matt Kemp'],['Andre Ethier'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+6,top,0,[],Chad Qualls,2,1,3,Juan Uribe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Chad Qualls,3,3,1,James Loney,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Kenley Jansen,1,1,3,Nick Hundley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Kenley Jansen,2,2,2,Cedric Hunter,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Kenley Jansen,2,4,1,Will Venable,['Will Venable'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],N/A,2,1,0,Jason Bartlett,['N/A'],['Will Venable'],['N/A'],Stolen Base 2B,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Kenley Jansen,3,1,3,Jason Bartlett,['N/A'],['Will Venable'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Luke Gregerson,1,0,1,Xavier Paul,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Luke Gregerson,2,0,1,Rod Barajas,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Luke Gregerson,3,2,3,Hector Gimenez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,1,0,1,Orlando Hudson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,2,0,2,Jorge Cantu,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,3,0,1,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Mike Adams,1,2,2,Rafael Furcal,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Mike Adams,2,0,2,Casey Blake,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Mike Adams,3,0,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Matt Guerrier,1,2,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Matt Guerrier,1,1,2,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Matt Guerrier,2,1,2,Nick Hundley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,3,1,Brad Hawpe,['N/A'],['Cameron Maybin'],['N/A'],Stolen Base 2B,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Hung-Chih Kuo,3,3,1,Brad Hawpe,['N/A'],['Cameron Maybin'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Heath Bell,0,2,2,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Heath Bell,2,0,2,Juan Uribe,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Heath Bell,2,2,2,James Loney,['James Loney'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Heath Bell,2,2,1,Xavier Paul,['Xavier Paul'],['James Loney'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Heath Bell,3,1,1,Rod Barajas,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Blake Hawksworth,1,0,2,Will Venable,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Blake Hawksworth,1,4,2,Jason Bartlett,['Jason Bartlett'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Blake Hawksworth,2,2,3,Orlando Hudson,['N/A'],['Jason Bartlett'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Blake Hawksworth,3,0,2,Jorge Cantu,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Ernesto Frieri,0,1,2,Tony Gwynn Jr.,['Tony Gwynn Jr.'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Ernesto Frieri,1,0,0,Jamey Carroll,['N/A'],['Tony Gwynn Jr.'],['N/A'],Sac Bunt,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Ernesto Frieri,2,1,3,Casey Blake,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Ernesto Frieri,2,4,0,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Intent Walk,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Ernesto Frieri,3,1,1,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+10,bottom,0,[],Blake Hawksworth,1,2,2,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+10,bottom,0,[],Blake Hawksworth,2,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+10,bottom,0,[],Blake Hawksworth,3,2,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+11,top,0,[],Ernesto Frieri,0,3,1,Juan Uribe,['N/A'],['Juan Uribe'],['N/A'],Double,N/A,2,2,N/A,N/A,N/A
+11,top,0,[],Ernesto Frieri,1,2,2,James Loney,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+11,top,0,[],Ernesto Frieri,1,1,0,Aaron Miles,['Aaron Miles'],['N/A'],['N/A'],Hit By Pitch,N/A,2,2,N/A,N/A,N/A
+11,top,0,[],Pat Neshek,2,2,3,Rod Barajas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+11,top,1,['Juan Uribe'],Pat Neshek,2,1,2,Tony Gwynn Jr.,['N/A'],['Tony Gwynn Jr.'],['Aaron Miles'],Single,N/A,2,3,1,N/A,N/A
+11,top,1,['Aaron Miles'],Pat Neshek,2,2,2,Jamey Carroll,['N/A'],['N/A'],['N/A'],Wild Pitch,N/A,2,4,N/A,N/A,N/A
+11,top,0,[],Pat Neshek,2,4,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['Tony Gwynn Jr.'],Walk,N/A,2,4,N/A,N/A,N/A
+11,top,0,[],N/A,2,2,0,Casey Blake,['N/A'],['Jamey Carroll'],['N/A'],Stolen Base 2B,N/A,2,4,N/A,N/A,N/A
+11,top,0,[],Pat Neshek,3,2,3,Casey Blake,['N/A'],['Jamey Carroll'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+11,bottom,0,[],Jonathan Broxton,0,1,2,Nick Hundley,['Nick Hundley'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+11,bottom,0,[],Jonathan Broxton,2,2,1,Chris Denorfia,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,4,N/A,N/A,N/A
+11,bottom,0,[],Jonathan Broxton,2,4,0,Will Venable,['Will Venable'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+11,bottom,0,[],Jonathan Broxton,3,0,2,Jason Bartlett,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A

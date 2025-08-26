@@ -1,0 +1,89 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jackson Stephens,1,2,1,Kolten Wong,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jackson Stephens,2,0,2,Tommy Pham,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jackson Stephens,3,1,1,Dexter Fowler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jack Flaherty,0,0,1,Jesse Winker,['N/A'],['Jesse Winker'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jack Flaherty,1,1,1,Zack Cozart,['N/A'],['N/A'],['Jesse Winker'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Jesse Winker'],Jack Flaherty,1,2,1,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Jack Flaherty,3,1,2,Scooter Gennett,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jackson Stephens,1,1,0,Jose Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jackson Stephens,2,3,2,Yadier Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jackson Stephens,3,2,3,Paul DeJong,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jack Flaherty,0,4,2,Adam Duvall,['Adam Duvall'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jack Flaherty,0,1,1,Scott Schebler,['Scott Schebler'],['N/A'],['Adam Duvall'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,1,['Adam Duvall'],Jack Flaherty,1,0,1,Patrick Kivlehan,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,0,1,N/A,N/A
+2,bottom,0,[],Jack Flaherty,2,3,3,Stuart Turner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Jack Flaherty,3,0,3,Jackson Stephens,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Jackson Stephens,1,1,1,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Jackson Stephens,2,1,3,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Jackson Stephens,3,2,2,Luke Voit,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],John Gant,0,3,1,Jesse Winker,['Jesse Winker'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+3,bottom,2,['Jesse Winker'],John Gant,0,0,0,Zack Cozart,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,0,2,N/A,N/A
+3,bottom,0,[],John Gant,0,4,1,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Walk,N/A,4,0,N/A,N/A,N/A
+3,bottom,0,[],John Gant,2,1,2,Scooter Gennett,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,0,N/A,N/A,N/A
+3,bottom,0,[],John Gant,3,2,3,Adam Duvall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Jackson Stephens,1,3,2,Kolten Wong,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Jackson Stephens,1,2,0,Tommy Pham,['Tommy Pham'],['N/A'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Jackson Stephens,1,0,0,Dexter Fowler,['Dexter Fowler'],['N/A'],['Tommy Pham'],Single,N/A,4,0,N/A,N/A,N/A
+4,top,1,['Tommy Pham'],Jackson Stephens,1,0,1,Jose Martinez,['Jose Martinez'],['N/A'],['Dexter Fowler'],Single,N/A,4,1,1,N/A,N/A
+4,top,3,"['Dexter Fowler', 'Jose Martinez']",Jackson Stephens,1,1,1,Yadier Molina,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,3,N/A,N/A
+4,top,1,[],Jackson Stephens,1,2,0,Paul DeJong,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,5,1,N/A,N/A
+4,top,0,[],Jackson Stephens,2,0,1,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A
+4,top,0,[],Jackson Stephens,2,4,2,Stephen Piscotty,['Stephen Piscotty'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+4,top,0,[],Asher Wojciechowski,3,3,1,Greg Garcia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,5,N/A,N/A,N/A
+4,bottom,0,[],Brett Cecil,1,1,3,Scott Schebler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+4,bottom,0,[],Brett Cecil,2,0,3,Patrick Kivlehan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+4,bottom,0,[],Brett Cecil,3,1,2,Stuart Turner,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Cody Reed,1,1,2,Kolten Wong,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Cody Reed,2,1,1,Tommy Pham,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Cody Reed,2,4,0,Dexter Fowler,['Dexter Fowler'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Cody Reed,2,4,2,Jose Martinez,['Jose Martinez'],['Dexter Fowler'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Cody Reed,3,1,1,Yadier Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A
+5,bottom,0,[],Brett Cecil,1,0,3,Zach Vincej,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+5,bottom,0,[],Brett Cecil,2,0,1,Jesse Winker,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+5,bottom,0,[],Brett Cecil,3,0,3,Zack Cozart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+6,top,0,[],Ariel Hernandez,1,0,0,Paul DeJong,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+6,top,0,[],Ariel Hernandez,2,3,2,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+6,top,0,[],Ariel Hernandez,3,1,3,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+6,bottom,0,[],Brett Cecil,0,4,2,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+6,bottom,0,[],Brett Cecil,0,0,1,Scooter Gennett,['N/A'],['Scooter Gennett'],['Joey Votto'],Double,N/A,4,5,N/A,N/A,N/A
+6,bottom,1,['Joey Votto'],Brett Cecil,1,0,1,Adam Duvall,['N/A'],['N/A'],['Scooter Gennett'],Sac Fly,N/A,5,5,1,N/A,N/A
+6,bottom,1,['Scooter Gennett'],Brett Cecil,2,1,2,Scott Schebler,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,6,5,1,N/A,N/A
+6,bottom,0,[],Brett Cecil,3,1,0,Patrick Kivlehan,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Ariel Hernandez,1,3,2,Harrison Bader,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Wandy Peralta,2,0,0,Kolten Wong,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Wandy Peralta,3,3,1,Tommy Pham,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],John Brebbia,0,4,2,Stuart Turner,['Stuart Turner'],['N/A'],['N/A'],Walk,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],John Brebbia,0,1,2,Tucker Barnhart,['Tucker Barnhart'],['Stuart Turner'],['N/A'],Hit By Pitch,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Ryan Sherriff,1,0,2,Jesse Winker,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Ryan Sherriff,2,1,2,Zack Cozart,['Zack Cozart'],['N/A'],['Stuart Turner'],Forceout,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],N/A,2,1,2,Joey Votto,['N/A'],['Zack Cozart'],['N/A'],Stolen Base 2B,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Ryan Sherriff,3,1,3,Joey Votto,['N/A'],['Zack Cozart'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+8,top,1,[],Kevin Shackelford,0,2,1,Dexter Fowler,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,6,1,N/A,N/A
+8,top,0,[],Kevin Shackelford,1,0,2,Jose Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Kevin Shackelford,2,0,0,Yadier Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Kevin Shackelford,3,2,1,Paul DeJong,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Ryan Sherriff,1,0,0,Scooter Gennett,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Ryan Sherriff,1,4,1,Adam Duvall,['Adam Duvall'],['N/A'],['N/A'],Walk,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Ryan Sherriff,1,0,0,Scott Schebler,['Scott Schebler'],['Adam Duvall'],['N/A'],Hit By Pitch,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Matt Bowman,2,2,3,Patrick Kivlehan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Matt Bowman,3,1,2,Stuart Turner,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Michael Lorenzen,1,2,2,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Michael Lorenzen,2,0,0,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Michael Lorenzen,3,1,1,Matt Carpenter,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Juan Nicasio,1,1,2,Jose Peraza,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Juan Nicasio,2,3,2,Jesse Winker,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Juan Nicasio,2,1,1,Zack Cozart,['Zack Cozart'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Juan Nicasio,3,1,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Tim Adleman,0,0,2,Kolten Wong,['Kolten Wong'],['N/A'],['N/A'],Hit By Pitch,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Tim Adleman,1,0,0,Tommy Pham,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],N/A,1,1,0,Dexter Fowler,['N/A'],['Kolten Wong'],['N/A'],Stolen Base 2B,N/A,6,6,N/A,N/A,N/A
+10,top,1,['Kolten Wong'],Tim Adleman,1,1,0,Dexter Fowler,['N/A'],"['Kolten Wong', 'Dexter Fowler']",['N/A'],Double,N/A,6,7,1,N/A,N/A
+10,top,0,[],Tim Adleman,2,2,2,Jose Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,7,N/A,N/A,N/A
+10,top,0,[],Tim Adleman,2,4,2,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Walk,N/A,6,7,N/A,N/A,N/A
+10,top,1,['Dexter Fowler'],Tim Adleman,2,0,0,Paul DeJong,['N/A'],['Paul DeJong'],['Yadier Molina'],Single,Error,6,8,1,N/A,Adam Duvall
+10,top,0,[],Tim Adleman,3,2,2,Alex Mejia,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,8,N/A,N/A,N/A
+10,bottom,1,[],Juan Nicasio,0,3,2,Scooter Gennett,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,8,1,N/A,N/A
+10,bottom,0,[],Juan Nicasio,1,0,1,Adam Duvall,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,8,N/A,N/A,N/A
+10,bottom,0,[],Tyler Lyons,2,3,2,Scott Schebler,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,8,N/A,N/A,N/A
+10,bottom,0,[],Tyler Lyons,3,0,3,Patrick Kivlehan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,8,N/A,N/A,N/A

@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Kohl Stewart,0,1,0,Jeimer Candelario,['N/A'],['Jeimer Candelario'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kohl Stewart,1,2,0,Jim Adduci,['N/A'],['N/A'],['Jeimer Candelario'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kohl Stewart,2,1,3,Nicholas Castellanos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kohl Stewart,2,4,0,Niko Goodrum,['Niko Goodrum'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kohl Stewart,3,2,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,[],Ryan Carpenter,0,3,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Ryan Carpenter,0,2,1,Eddie Rosario,['Eddie Rosario'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Ryan Carpenter,0,1,2,Jorge Polanco,['N/A'],['Jorge Polanco'],['Eddie Rosario'],Double,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Ryan Carpenter,1,1,3,Miguel Sano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Ryan Carpenter,2,0,0,Logan Forsythe,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Ryan Carpenter,3,0,1,Max Kepler,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Kohl Stewart,1,2,2,Mikie Mahtook,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Kohl Stewart,2,1,3,Ronny Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Kohl Stewart,2,4,1,Grayson Greiner,['Grayson Greiner'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Kohl Stewart,3,2,2,Victor Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ryan Carpenter,1,3,1,Mitch Garver,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,bottom,1,[],Ryan Carpenter,1,1,0,Tyler Austin,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,1,N/A,N/A
+2,bottom,0,[],Ryan Carpenter,2,0,0,Johnny Field,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Ryan Carpenter,3,2,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Kohl Stewart,1,0,0,Jeimer Candelario,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Kohl Stewart,1,2,2,Jim Adduci,['Jim Adduci'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Kohl Stewart,1,4,2,Nicholas Castellanos,['Nicholas Castellanos'],['Jim Adduci'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Kohl Stewart,1,4,1,Niko Goodrum,['Niko Goodrum'],['Nicholas Castellanos'],['Jim Adduci'],Walk,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Kohl Stewart,2,3,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+3,top,1,['Jim Adduci'],Kohl Stewart,2,1,2,Mikie Mahtook,['Mikie Mahtook'],['Niko Goodrum'],['Nicholas Castellanos'],Hit By Pitch,N/A,2,1,1,N/A,N/A
+3,top,2,"['Nicholas Castellanos', 'Niko Goodrum']",Kohl Stewart,2,0,0,Ronny Rodriguez,['N/A'],['Ronny Rodriguez'],['Mikie Mahtook'],Double,N/A,2,3,2,N/A,N/A
+3,top,0,[],Tyler Duffey,3,3,1,Grayson Greiner,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Ryan Carpenter,1,1,1,Eddie Rosario,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Ryan Carpenter,2,0,0,Jorge Polanco,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,2,3,N/A,N/A,N/A
+3,bottom,1,[],Ryan Carpenter,2,3,2,Miguel Sano,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,1,N/A,N/A
+3,bottom,0,[],Ryan Carpenter,3,3,2,Logan Forsythe,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+4,top,0,[],Tyler Duffey,1,0,0,Victor Reyes,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,3,3,N/A,N/A,N/A
+4,top,0,[],Tyler Duffey,2,2,2,Jeimer Candelario,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,3,N/A,N/A,N/A
+4,top,0,[],Tyler Duffey,2,3,2,Jim Adduci,['N/A'],['Jim Adduci'],['N/A'],Double,N/A,3,3,N/A,N/A,N/A
+4,top,0,[],Tyler Duffey,3,2,3,Nicholas Castellanos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+4,bottom,0,[],Ryan Carpenter,1,0,1,Max Kepler,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+4,bottom,0,[],Ryan Carpenter,2,2,1,Mitch Garver,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+4,bottom,0,[],Ryan Carpenter,2,0,2,Tyler Austin,['Tyler Austin'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+4,bottom,0,[],Ryan Carpenter,3,2,3,Johnny Field,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+5,top,0,[],Tyler Duffey,0,1,2,Niko Goodrum,['Niko Goodrum'],['N/A'],['N/A'],Hit By Pitch,N/A,3,3,N/A,N/A,N/A
+5,top,0,[],Tyler Duffey,0,0,0,Victor Martinez,['Victor Martinez'],['Niko Goodrum'],['N/A'],Fielders Choice,N/A,3,3,N/A,N/A,N/A
+5,top,3,"['Niko Goodrum', 'Victor Martinez']",Tyler Duffey,0,2,2,Mikie Mahtook,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,6,3,N/A,N/A
+5,top,0,[],Tyler Duffey,1,2,2,Ronny Rodriguez,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,6,N/A,N/A,N/A
+5,top,0,[],Tyler Duffey,2,0,3,Grayson Greiner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+5,top,0,[],Tyler Duffey,3,1,2,Victor Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,6,N/A,N/A,N/A
+5,bottom,0,[],Ryan Carpenter,0,2,1,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,3,6,N/A,N/A,N/A
+5,bottom,0,[],Ryan Carpenter,1,1,3,Eddie Rosario,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+5,bottom,0,[],Ryan Carpenter,2,0,2,Jorge Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,6,N/A,N/A,N/A
+5,bottom,0,[],Ryan Carpenter,2,1,0,Miguel Sano,['Miguel Sano'],['Joe Mauer'],['N/A'],Single,N/A,3,6,N/A,N/A,N/A
+5,bottom,0,[],Ryan Carpenter,3,1,1,Logan Forsythe,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,6,N/A,N/A,N/A
+6,top,0,[],Trevor May,1,2,3,Jeimer Candelario,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+6,top,0,[],Trevor May,2,0,2,Jim Adduci,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,6,N/A,N/A,N/A
+6,top,0,[],Trevor May,3,0,0,Nicholas Castellanos,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,6,N/A,N/A,N/A
+6,bottom,0,[],Ryan Carpenter,1,1,2,Max Kepler,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,6,N/A,N/A,N/A
+6,bottom,0,[],Drew VerHagen,2,2,0,Mitch Garver,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,6,N/A,N/A,N/A
+6,bottom,0,[],Drew VerHagen,2,0,1,Tyler Austin,['Tyler Austin'],['N/A'],['N/A'],Single,N/A,3,6,N/A,N/A,N/A
+6,bottom,0,[],Drew VerHagen,3,2,3,Jake Cave,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+7,top,0,[],Gabriel Moya,1,1,3,Niko Goodrum,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+7,top,0,[],Gabriel Moya,2,2,2,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,6,N/A,N/A,N/A
+7,top,0,[],Gabriel Moya,2,4,1,Mikie Mahtook,['Mikie Mahtook'],['N/A'],['N/A'],Walk,N/A,3,6,N/A,N/A,N/A
+7,top,0,[],Gabriel Moya,3,2,2,Ronny Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,6,N/A,N/A,N/A
+7,bottom,0,[],Victor Alcantara,0,2,0,Joe Mauer,['N/A'],['Joe Mauer'],['N/A'],Double,N/A,3,6,N/A,N/A,N/A
+7,bottom,0,[],Victor Alcantara,1,3,1,Eddie Rosario,['N/A'],['N/A'],['Joe Mauer'],Groundout,N/A,3,6,N/A,N/A,N/A
+7,bottom,0,[],Victor Alcantara,2,2,3,Jorge Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+7,bottom,0,[],Victor Alcantara,2,4,2,Miguel Sano,['Miguel Sano'],['N/A'],['N/A'],Walk,N/A,3,6,N/A,N/A,N/A
+7,bottom,0,[],Victor Alcantara,3,0,3,Logan Forsythe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+8,top,0,[],Addison Reed,0,4,2,Grayson Greiner,['Grayson Greiner'],['N/A'],['N/A'],Walk,N/A,3,6,N/A,N/A,N/A
+8,top,0,[],Addison Reed,0,1,2,Victor Reyes,['Victor Reyes'],['Grayson Greiner'],['N/A'],Single,N/A,3,6,N/A,N/A,N/A
+8,top,0,[],Addison Reed,1,1,1,Jeimer Candelario,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,6,N/A,N/A,N/A
+8,top,1,['Grayson Greiner'],Addison Reed,2,0,1,Jim Adduci,['N/A'],['Jim Adduci'],['N/A'],Forceout,Error,3,7,N/A,1,Jorge Polanco
+8,top,0,[],Addison Reed,3,0,3,Nicholas Castellanos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Joe Jimenez,0,4,1,Max Kepler,['Max Kepler'],['N/A'],['N/A'],Walk,N/A,3,7,N/A,N/A,N/A
+8,bottom,2,['Max Kepler'],Joe Jimenez,0,2,2,Mitch Garver,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,7,2,N/A,N/A
+8,bottom,0,[],Joe Jimenez,1,0,3,Tyler Austin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,7,N/A,N/A,N/A
+8,bottom,0,[],Joe Jimenez,1,4,2,Jake Cave,['Jake Cave'],['N/A'],['N/A'],Walk,N/A,5,7,N/A,N/A,N/A
+8,bottom,0,[],Joe Jimenez,2,3,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,7,N/A,N/A,N/A
+8,bottom,0,[],Shane Greene,3,0,1,Eddie Rosario,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,7,N/A,N/A,N/A
+9,top,0,[],Oliver Drake,1,1,1,Niko Goodrum,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,7,N/A,N/A,N/A
+9,top,0,[],Oliver Drake,2,2,2,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,7,N/A,N/A,N/A
+9,top,0,[],Oliver Drake,3,1,3,Mikie Mahtook,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,7,N/A,N/A,N/A
+9,bottom,0,[],Shane Greene,1,2,3,Jorge Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,7,N/A,N/A,N/A
+9,bottom,0,[],Shane Greene,2,1,1,Miguel Sano,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,7,N/A,N/A,N/A
+9,bottom,0,[],Shane Greene,3,2,2,Logan Forsythe,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,7,N/A,N/A,N/A

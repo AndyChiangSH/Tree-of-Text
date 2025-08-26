@@ -1,0 +1,88 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Rick Porcello,1,2,1,Erik Komatsu,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Rick Porcello,1,3,2,Brian Dozier,['Brian Dozier'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Prince Fielder
+1,top,1,['Brian Dozier'],Rick Porcello,1,0,1,Joe Mauer,['N/A'],['N/A'],['Joe Mauer'],Double,Error,0,1,1,N/A,Ramon Santiago
+1,top,1,['Joe Mauer'],Rick Porcello,1,3,2,Josh Willingham,['N/A'],['Josh Willingham'],['N/A'],Double,N/A,0,2,1,N/A,N/A
+1,top,0,[],Rick Porcello,2,1,3,Justin Morneau,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Rick Porcello,3,1,3,Ryan Doumit,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nick Blackburn,0,2,1,Austin Jackson,['Austin Jackson'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nick Blackburn,0,4,2,Andy Dirks,['Andy Dirks'],['Austin Jackson'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nick Blackburn,1,0,1,Miguel Cabrera,['N/A'],['Andy Dirks'],['Austin Jackson'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Austin Jackson'],Nick Blackburn,2,1,2,Prince Fielder,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,2,1,N/A,N/A
+1,bottom,0,[],Nick Blackburn,3,1,3,Delmon Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,1,3,2,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,2,0,0,Alexi Casilla,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,2,0,1,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,2,2,0,Erik Komatsu,['Erik Komatsu'],['Jamey Carroll'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Ryan Raburn
+2,top,3,"['Jamey Carroll', 'Erik Komatsu']",Rick Porcello,2,1,1,Brian Dozier,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,5,3,N/A,N/A
+2,top,0,[],Rick Porcello,3,1,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nick Blackburn,1,2,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nick Blackburn,1,4,2,Ryan Raburn,['Ryan Raburn'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nick Blackburn,1,0,0,Brennan Boesch,['Brennan Boesch'],['N/A'],['Ryan Raburn'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Ryan Raburn'],Nick Blackburn,1,3,2,Ramon Santiago,['Ramon Santiago'],['N/A'],['Brennan Boesch'],Single,N/A,2,5,1,N/A,N/A
+2,bottom,1,['Brennan Boesch'],Nick Blackburn,1,0,1,Austin Jackson,['Austin Jackson'],['Ramon Santiago'],['N/A'],Single,N/A,3,5,1,N/A,N/A
+2,bottom,1,['Ramon Santiago'],Nick Blackburn,1,0,0,Andy Dirks,['N/A'],['Andy Dirks'],['Austin Jackson'],Single,N/A,4,5,1,N/A,N/A
+2,bottom,1,['Austin Jackson'],Nick Blackburn,1,2,0,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['Andy Dirks'],Single,N/A,5,5,1,N/A,N/A
+2,bottom,1,['Andy Dirks'],Nick Blackburn,2,1,1,Prince Fielder,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,6,5,1,N/A,N/A
+2,bottom,0,[],Nick Blackburn,3,0,0,Delmon Young,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,0,2,2,Josh Willingham,['N/A'],['Josh Willingham'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,1,3,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Josh Willingham'],Rick Porcello,1,3,2,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Single,N/A,6,6,1,N/A,N/A
+3,top,0,[],Rick Porcello,2,0,2,Trevor Plouffe,['N/A'],['Ryan Doumit'],['N/A'],Lineout,Error,N/A,N/A,N/A,N/A,Miguel Cabrera
+3,top,0,[],Rick Porcello,3,3,2,Alexi Casilla,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jeff Gray,1,0,0,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jeff Gray,2,1,0,Alex Avila,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jeff Gray,3,2,0,Ryan Raburn,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,1,2,2,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,2,2,3,Erik Komatsu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,3,3,2,Brian Dozier,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jeff Gray,1,0,0,Brennan Boesch,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jeff Gray,2,2,2,Ramon Santiago,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jeff Gray,3,0,1,Austin Jackson,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Duane Below,1,0,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Duane Below,2,1,1,Josh Willingham,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Duane Below,3,0,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jeff Gray,0,2,1,Andy Dirks,['Andy Dirks'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,['Andy Dirks'],Jeff Gray,0,3,1,Miguel Cabrera,['N/A'],['Miguel Cabrera'],['N/A'],Double,N/A,7,6,1,N/A,N/A
+5,bottom,0,[],Jeff Gray,1,1,0,Prince Fielder,['N/A'],['N/A'],['Miguel Cabrera'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Alex Burnett,2,2,1,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Alex Burnett,2,4,0,Alex Avila,['Alex Avila'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Alex Burnett,3,0,2,Ryan Raburn,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Duane Below,0,0,2,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Duane Below,1,1,3,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Duane Below,1,4,1,Alexi Casilla,['Alexi Casilla'],['Ryan Doumit'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,2,"['Ryan Doumit', 'Alexi Casilla']",Duane Below,1,3,2,Jamey Carroll,['N/A'],['Jamey Carroll'],['N/A'],Double,N/A,7,8,2,N/A,N/A
+6,top,0,[],Duane Below,2,1,0,Erik Komatsu,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Duane Below,3,1,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Alex Burnett,1,2,0,Brennan Boesch,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Alex Burnett,1,4,2,Ramon Santiago,['Ramon Santiago'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Brian Duensing,2,0,2,Don Kelly,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Brian Duensing,3,1,1,Andy Dirks,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Duane Below,1,3,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Luke Putkonen,1,0,2,Josh Willingham,['Josh Willingham'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Luke Putkonen,1,0,1,Justin Morneau,['N/A'],['Justin Morneau'],['Josh Willingham'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Luke Putkonen,1,4,0,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Luke Putkonen,2,0,3,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Josh Willingham'],Luke Putkonen,2,3,1,Alexi Casilla,['Alexi Casilla'],['Ryan Doumit'],['Justin Morneau'],Single,N/A,7,9,1,N/A,N/A
+7,top,0,[],Luke Putkonen,3,2,1,Jamey Carroll,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Brian Duensing,1,2,2,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Brian Duensing,1,1,1,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Brian Duensing,1,1,0,Delmon Young,['N/A'],['Delmon Young'],['Prince Fielder'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Brian Duensing,2,3,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jared Burton,3,3,3,Ryan Raburn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Luke Putkonen,1,3,2,Erik Komatsu,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Luke Putkonen,2,1,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Luke Putkonen,2,1,1,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Luke Putkonen,2,1,2,Josh Willingham,['N/A'],['Joe Mauer'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Luke Putkonen,3,2,3,Josh Willingham,['N/A'],['Joe Mauer'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jared Burton,1,1,0,Brennan Boesch,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jared Burton,2,0,0,Ramon Santiago,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jared Burton,3,2,1,Don Kelly,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Collin Balester,1,2,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Collin Balester,1,0,0,Drew Butera,['N/A'],['Drew Butera'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,2,['Drew Butera'],Collin Balester,1,3,1,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,11,2,N/A,N/A
+9,top,0,[],Collin Balester,1,4,1,Alexi Casilla,['Alexi Casilla'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Collin Balester,3,0,0,Jamey Carroll,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Glen Perkins,0,1,1,Andy Dirks,['Andy Dirks'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Glen Perkins,2,2,0,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Glen Perkins,3,0,2,Prince Fielder,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A

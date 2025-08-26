@@ -1,0 +1,72 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Stephen Strasburg,1,0,1,Ender Inciarte,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Stephen Strasburg,2,1,1,Aaron Hill,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,1,[],Stephen Strasburg,2,2,2,David Peralta,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Stephen Strasburg,3,1,3,Mark Trumbo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chase Anderson,0,4,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chase Anderson,1,2,1,Anthony Rendon,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chase Anderson,2,3,2,Jayson Werth,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chase Anderson,3,1,1,Adam LaRoche,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Stephen Strasburg,1,1,2,Miguel Montero,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Stephen Strasburg,1,1,2,Jordan Pacheco,['Jordan Pacheco'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Stephen Strasburg,3,1,0,Jake Lamb,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chase Anderson,0,0,1,Ian Desmond,['Ian Desmond'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chase Anderson,1,2,3,Bryce Harper,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],N/A,1,2,1,Asdrubal Cabrera,['N/A'],['Ian Desmond'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chase Anderson,1,4,2,Asdrubal Cabrera,['Asdrubal Cabrera'],['Ian Desmond'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chase Anderson,2,1,3,Jose Lobaton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chase Anderson,3,2,2,Stephen Strasburg,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Stephen Strasburg,1,1,2,Didi Gregorius,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Stephen Strasburg,2,2,1,Chase Anderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Stephen Strasburg,3,1,0,Ender Inciarte,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chase Anderson,0,1,0,Denard Span,['Denard Span'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],N/A,0,1,1,Anthony Rendon,['N/A'],['Denard Span'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chase Anderson,0,1,2,Anthony Rendon,['Anthony Rendon'],['Denard Span'],['Denard Span'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,1,['Denard Span'],Chase Anderson,0,0,1,Jayson Werth,['Jayson Werth'],['Anthony Rendon'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+3,bottom,0,[],Chase Anderson,0,4,2,Adam LaRoche,['Adam LaRoche'],['Jayson Werth'],['Anthony Rendon'],Walk,N/A,1,1,N/A,N/A,N/A
+3,bottom,2,"['Anthony Rendon', 'Jayson Werth']",Chase Anderson,0,0,0,Ian Desmond,['Ian Desmond'],['Adam LaRoche'],['N/A'],Single,N/A,3,1,2,N/A,N/A
+3,bottom,0,[],Chase Anderson,0,0,2,Bryce Harper,['Bryce Harper'],['Ian Desmond'],['Adam LaRoche'],Single,N/A,3,1,N/A,N/A,N/A
+3,bottom,3,"['Adam LaRoche', 'Ian Desmond', 'Bryce Harper']",Eury De La Rosa,0,3,2,Asdrubal Cabrera,['N/A'],['Asdrubal Cabrera'],['N/A'],Double,N/A,6,1,3,N/A,N/A
+3,bottom,0,[],Eury De La Rosa,1,2,3,Jose Lobaton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+3,bottom,0,[],Eury De La Rosa,2,1,3,Stephen Strasburg,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+3,bottom,0,[],Eury De La Rosa,3,1,3,Denard Span,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+4,top,0,[],Stephen Strasburg,0,3,1,Aaron Hill,['N/A'],['Aaron Hill'],['N/A'],Double,N/A,6,1,N/A,N/A,N/A
+4,top,0,[],Stephen Strasburg,1,1,1,David Peralta,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+4,top,0,[],Stephen Strasburg,2,1,3,Mark Trumbo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+4,top,0,[],Stephen Strasburg,3,0,0,Miguel Montero,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+4,bottom,0,[],Eury De La Rosa,0,4,0,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Walk,N/A,6,1,N/A,N/A,N/A
+4,bottom,0,[],Eury De La Rosa,1,1,1,Jayson Werth,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+4,bottom,0,[],Eury De La Rosa,2,1,3,Adam LaRoche,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+4,bottom,0,[],Eury De La Rosa,3,1,0,Ian Desmond,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,1,N/A,N/A,N/A
+5,top,0,[],Stephen Strasburg,1,1,0,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,1,N/A,N/A,N/A
+5,top,0,[],Stephen Strasburg,2,0,2,Jake Lamb,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+5,top,0,[],Stephen Strasburg,3,1,2,Didi Gregorius,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Eury De La Rosa,0,4,2,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Walk,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Eury De La Rosa,1,0,0,Asdrubal Cabrera,['N/A'],['Bryce Harper'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Eury De La Rosa,1,0,0,Jose Lobaton,['Jose Lobaton'],['N/A'],['Bryce Harper'],Single,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Eury De La Rosa,3,1,0,Stephen Strasburg,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,1,N/A,N/A,N/A
+6,top,0,[],Stephen Strasburg,1,1,3,Eury De La Rosa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+6,top,0,[],Stephen Strasburg,2,2,2,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+6,top,0,[],Stephen Strasburg,3,2,2,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+6,bottom,0,[],Eury De La Rosa,1,0,1,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+6,bottom,0,[],Eury De La Rosa,1,1,0,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+6,bottom,0,[],Eury De La Rosa,1,0,1,Jayson Werth,['Jayson Werth'],['Anthony Rendon'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+6,bottom,0,[],Eury De La Rosa,2,1,2,Adam LaRoche,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,1,N/A,N/A,N/A
+6,bottom,2,"['Anthony Rendon', 'Jayson Werth']",Eury De La Rosa,2,1,1,Ian Desmond,['N/A'],"['Jayson Werth', 'Ian Desmond']",['Anthony Rendon'],Single,N/A,8,1,2,N/A,N/A
+6,bottom,0,[],Eury De La Rosa,3,2,2,Bryce Harper,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,1,N/A,N/A,N/A
+7,top,0,[],Stephen Strasburg,0,4,0,David Peralta,['David Peralta'],['N/A'],['N/A'],Walk,N/A,8,1,N/A,N/A,N/A
+7,top,0,[],Stephen Strasburg,2,2,0,Mark Trumbo,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,8,1,N/A,N/A,N/A
+7,top,0,[],Stephen Strasburg,3,2,2,Miguel Montero,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,1,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,1,1,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,1,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,2,3,2,Jose Lobaton,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,1,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,3,1,3,Stephen Strasburg,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],Stephen Strasburg,1,0,1,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],Stephen Strasburg,2,1,3,Jake Lamb,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,1,N/A,N/A,N/A
+8,top,0,[],Stephen Strasburg,3,2,0,Didi Gregorius,['N/A'],['N/A'],['N/A'],Lineout,N/A,8,1,N/A,N/A,N/A
+8,bottom,0,[],Addison Reed,1,0,0,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,1,N/A,N/A,N/A
+8,bottom,0,[],Addison Reed,2,1,0,Anthony Rendon,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,1,N/A,N/A,N/A
+8,bottom,0,[],Addison Reed,2,0,2,Jayson Werth,['Jayson Werth'],['N/A'],['N/A'],Single,N/A,8,1,N/A,N/A,N/A
+8,bottom,0,[],Addison Reed,3,1,0,Adam LaRoche,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,1,N/A,N/A,N/A
+9,top,0,[],Jerry Blevins,1,1,3,Tuffy Gosewisch,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,1,N/A,N/A,N/A
+9,top,0,[],Jerry Blevins,2,1,0,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,1,N/A,N/A,N/A
+9,top,0,[],Jerry Blevins,3,1,3,Aaron Hill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,1,N/A,N/A,N/A

@@ -1,0 +1,82 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Daniel Mengden,0,0,1,Dustin Pedroia,['Dustin Pedroia'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Daniel Mengden,1,3,1,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Daniel Mengden,1,2,1,David Ortiz,['N/A'],['David Ortiz'],['Dustin Pedroia'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Dustin Pedroia', 'David Ortiz']",Daniel Mengden,1,3,2,Mookie Betts,['N/A'],['Mookie Betts'],['N/A'],Double,N/A,0,2,2,N/A,N/A
+1,top,0,[],Daniel Mengden,2,1,0,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Daniel Mengden,3,1,3,Sandy Leon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Rick Porcello,1,2,2,Marcus Semien,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Rick Porcello,2,1,3,Danny Valencia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Rick Porcello,3,1,2,Stephen Vogt,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Daniel Mengden,1,1,2,Chris Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Daniel Mengden,2,0,1,Yoan Moncada,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Daniel Mengden,2,0,2,Jackie Bradley,['Jackie Bradley'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Daniel Mengden,2,4,2,Dustin Pedroia,['Dustin Pedroia'],['Jackie Bradley'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Daniel Mengden,3,1,3,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Rick Porcello,1,2,2,Khris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Rick Porcello,2,0,2,Yonder Alonso,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Rick Porcello,3,1,1,Ryon Healy,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Daniel Mengden,1,0,1,David Ortiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Daniel Mengden,2,1,1,Mookie Betts,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,1,[],Daniel Mengden,2,1,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,1,N/A,N/A
+3,top,0,[],Daniel Mengden,2,2,1,Sandy Leon,['N/A'],['Sandy Leon'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Daniel Mengden,2,4,1,Chris Young,['Chris Young'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+3,top,2,"['Sandy Leon', 'Chris Young']",Daniel Mengden,2,1,2,Yoan Moncada,['N/A'],['Yoan Moncada'],['N/A'],Double,Error,0,5,1,1,Khris Davis
+3,top,1,['Yoan Moncada'],Daniel Mengden,2,3,2,Jackie Bradley,['Jackie Bradley'],['N/A'],['N/A'],Single,N/A,0,6,1,N/A,N/A
+3,top,0,[],John Axford,2,1,0,Dustin Pedroia,['Dustin Pedroia'],['Jackie Bradley'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+3,top,1,['Jackie Bradley'],John Axford,2,1,1,Xander Bogaerts,['Xander Bogaerts'],['Dustin Pedroia'],['N/A'],Single,N/A,0,7,1,N/A,N/A
+3,top,2,"['Dustin Pedroia', 'Xander Bogaerts']",John Axford,2,1,0,David Ortiz,['N/A'],['David Ortiz'],['N/A'],Double,N/A,0,9,2,N/A,N/A
+3,top,0,[],John Axford,3,3,3,Mookie Betts,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+3,bottom,0,[],Rick Porcello,1,0,1,Joey Wendle,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,9,N/A,N/A,N/A
+3,bottom,0,[],Rick Porcello,2,0,2,Jake Smolinski,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,9,N/A,N/A,N/A
+3,bottom,0,[],Rick Porcello,3,3,3,Bruce Maxwell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+4,top,0,[],John Axford,0,4,1,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Walk,N/A,0,9,N/A,N/A,N/A
+4,top,0,[],John Axford,0,1,2,Sandy Leon,['Sandy Leon'],['Hanley Ramirez'],['N/A'],Single,N/A,0,9,N/A,N/A,N/A
+4,top,0,[],John Axford,0,1,0,Chris Young,['N/A'],['Sandy Leon'],['Hanley Ramirez'],Wild Pitch,N/A,0,9,N/A,N/A,N/A
+4,top,0,[],John Axford,1,2,2,Chris Young,['N/A'],['Sandy Leon'],['Hanley Ramirez'],Groundout,N/A,0,9,N/A,N/A,N/A
+4,top,0,[],John Axford,2,1,3,Yoan Moncada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+4,top,0,[],John Axford,3,2,1,Jackie Bradley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,9,N/A,N/A,N/A
+4,bottom,0,[],Rick Porcello,1,2,2,Marcus Semien,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,9,N/A,N/A,N/A
+4,bottom,0,[],Rick Porcello,2,2,0,Danny Valencia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,9,N/A,N/A,N/A
+4,bottom,0,[],Rick Porcello,3,1,1,Stephen Vogt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,9,N/A,N/A,N/A
+5,top,0,[],Chris Smith,1,0,1,Dustin Pedroia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,9,N/A,N/A,N/A
+5,top,0,[],Chris Smith,2,0,3,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+5,top,0,[],Chris Smith,2,2,1,David Ortiz,['David Ortiz'],['N/A'],['N/A'],Single,N/A,0,9,N/A,N/A,N/A
+5,top,0,[],Chris Smith,3,0,3,Mookie Betts,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+5,bottom,0,[],Rick Porcello,1,0,2,Khris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,9,N/A,N/A,N/A
+5,bottom,0,[],Rick Porcello,2,1,2,Yonder Alonso,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,9,N/A,N/A,N/A
+5,bottom,0,[],Rick Porcello,3,1,0,Ryon Healy,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,9,N/A,N/A,N/A
+6,top,0,[],Chris Smith,1,0,2,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,9,N/A,N/A,N/A
+6,top,0,[],Chris Smith,2,3,3,Sandy Leon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+6,top,0,[],Chris Smith,3,3,2,Chris Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,9,N/A,N/A,N/A
+6,bottom,0,[],Rick Porcello,1,0,2,Joey Wendle,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,9,N/A,N/A,N/A
+6,bottom,0,[],Rick Porcello,1,0,0,Jake Smolinski,['N/A'],['Jake Smolinski'],['N/A'],Double,N/A,0,9,N/A,N/A,N/A
+6,bottom,1,['Jake Smolinski'],Rick Porcello,1,2,2,Bruce Maxwell,['Bruce Maxwell'],['N/A'],['N/A'],Single,N/A,1,9,1,N/A,N/A
+6,bottom,0,[],Rick Porcello,2,1,1,Marcus Semien,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,9,N/A,N/A,N/A
+6,bottom,0,[],Rick Porcello,3,1,2,Danny Valencia,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Chris Smith,1,1,3,Yoan Moncada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Chris Smith,2,3,2,Jackie Bradley,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Chris Smith,3,2,1,Dustin Pedroia,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+7,bottom,0,[],Rick Porcello,0,0,1,Stephen Vogt,['Stephen Vogt'],['N/A'],['N/A'],Single,N/A,1,9,N/A,N/A,N/A
+7,bottom,0,[],Rick Porcello,1,1,2,Khris Davis,['N/A'],['Stephen Vogt'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+7,bottom,1,['Stephen Vogt'],Rick Porcello,2,3,2,Yonder Alonso,['N/A'],['N/A'],['N/A'],Single,N/A,2,9,1,N/A,N/A
+7,bottom,0,[],Rick Porcello,3,2,2,Ryon Healy,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,9,N/A,N/A,N/A
+8,top,0,[],Chris Smith,0,1,1,Xander Bogaerts,['Xander Bogaerts'],['N/A'],['N/A'],Single,N/A,2,9,N/A,N/A,N/A
+8,top,0,[],Chris Smith,0,0,1,Aaron Hill,['Aaron Hill'],['N/A'],['Xander Bogaerts'],Field Error,N/A,2,9,N/A,N/A,Marcus Semien
+8,top,0,[],Chris Smith,0,4,2,Mookie Betts,['Mookie Betts'],['Aaron Hill'],['N/A'],Walk,N/A,2,9,N/A,N/A,N/A
+8,top,0,[],Chris Smith,1,2,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,9,N/A,N/A,N/A
+8,top,1,['Xander Bogaerts'],Chris Smith,2,0,2,Sandy Leon,['Sandy Leon'],['N/A'],['Aaron Hill'],Forceout,N/A,2,10,1,N/A,N/A
+8,top,0,[],Chris Smith,3,0,0,Chris Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,10,N/A,N/A,N/A
+8,bottom,0,[],Fernando Abad,1,0,0,Joey Wendle,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,10,N/A,N/A,N/A
+8,bottom,0,[],Fernando Abad,2,1,0,Jake Smolinski,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,10,N/A,N/A,N/A
+8,bottom,0,[],Fernando Abad,3,0,1,Bruce Maxwell,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Danny Coulombe,0,0,0,Yoan Moncada,['Yoan Moncada'],['N/A'],['N/A'],Single,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Danny Coulombe,1,0,3,Jackie Bradley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Danny Coulombe,1,1,2,Ryan Hanigan,['Ryan Hanigan'],['Yoan Moncada'],['N/A'],Single,N/A,2,10,N/A,N/A,N/A
+9,top,0,[],Danny Coulombe,2,2,3,Travis Shaw,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,10,N/A,N/A,N/A
+9,top,1,['Yoan Moncada'],Danny Coulombe,2,2,1,Aaron Hill,['Aaron Hill'],['Ryan Hanigan'],['N/A'],Single,N/A,2,11,1,N/A,N/A
+9,top,0,[],Danny Coulombe,3,1,3,Brock Holt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,11,N/A,N/A,N/A
+9,bottom,0,[],Junichi Tazawa,0,3,1,Chad Pinder,['N/A'],['Chad Pinder'],['N/A'],Double,N/A,2,11,N/A,N/A,N/A
+9,bottom,0,[],Junichi Tazawa,1,0,0,Max Muncy,['N/A'],['N/A'],['Chad Pinder'],Lineout,N/A,2,11,N/A,N/A,N/A
+9,bottom,0,[],Junichi Tazawa,2,2,2,Matt McBride,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,11,N/A,N/A,N/A
+9,bottom,0,[],Junichi Tazawa,3,0,3,Brett Eibner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,11,N/A,N/A,N/A

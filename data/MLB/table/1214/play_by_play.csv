@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Tim Cooney,1,1,2,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Cooney,2,1,0,Pedro Ciriaco,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Cooney,3,0,3,Nick Markakis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Manny Banuelos,0,2,1,Kolten Wong,['Kolten Wong'],['N/A'],['N/A'],Field Error,N/A,0,0,N/A,N/A,Chris Johnson
+1,bottom,0,[],Manny Banuelos,1,1,1,Matt Carpenter,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Manny Banuelos,2,1,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Manny Banuelos,3,0,1,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tim Cooney,1,1,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tim Cooney,1,0,0,A.J. Pierzynski,['A.J. Pierzynski'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tim Cooney,3,2,2,Jonny Gomes,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Manny Banuelos,1,2,1,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Manny Banuelos,2,2,3,Jason Heyward,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Manny Banuelos,2,4,2,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,2,['Yadier Molina'],Manny Banuelos,2,0,0,Randal Grichuk,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,2,N/A,N/A
+2,bottom,0,[],Manny Banuelos,3,1,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Tim Cooney,1,2,3,Joey Terdoslavich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Tim Cooney,1,0,1,Andrelton Simmons,['Andrelton Simmons'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Tim Cooney,2,0,0,Manny Banuelos,['N/A'],['Andrelton Simmons'],['N/A'],Sac Bunt,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Tim Cooney,3,3,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Manny Banuelos,1,3,2,Tim Cooney,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Manny Banuelos,2,1,2,Kolten Wong,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Manny Banuelos,2,0,1,Matt Carpenter,['N/A'],['Matt Carpenter'],['N/A'],Double,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Manny Banuelos,2,4,2,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+3,bottom,1,['Matt Carpenter'],Manny Banuelos,2,1,2,Jhonny Peralta,['Jhonny Peralta'],['Matt Holliday'],['N/A'],Single,N/A,3,0,1,N/A,N/A
+3,bottom,0,[],Manny Banuelos,3,1,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Tim Cooney,1,2,2,Pedro Ciriaco,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Tim Cooney,2,0,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Tim Cooney,3,0,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Manny Banuelos,1,1,1,Yadier Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Manny Banuelos,1,0,0,Randal Grichuk,['Randal Grichuk'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],N/A,1,0,1,Mark Reynolds,['N/A'],['Randal Grichuk'],['N/A'],Stolen Base 2B,N/A,3,0,N/A,N/A,N/A
+4,bottom,1,['Randal Grichuk'],Manny Banuelos,1,0,2,Mark Reynolds,['N/A'],"['Randal Grichuk', 'Mark Reynolds']",['N/A'],Single,N/A,4,0,1,N/A,N/A
+4,bottom,0,[],Manny Banuelos,2,0,0,Tim Cooney,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Manny Banuelos,3,1,0,Kolten Wong,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,0,N/A,N/A,N/A
+5,top,0,[],Tim Cooney,1,1,3,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+5,top,0,[],Tim Cooney,2,0,0,Jonny Gomes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,0,N/A,N/A,N/A
+5,top,0,[],Tim Cooney,3,1,1,Joey Terdoslavich,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,0,N/A,N/A,N/A
+5,bottom,0,[],Manny Banuelos,0,4,2,Matt Carpenter,['Matt Carpenter'],['N/A'],['N/A'],Walk,N/A,4,0,N/A,N/A,N/A
+5,bottom,0,[],Manny Banuelos,2,1,2,Matt Holliday,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,0,N/A,N/A,N/A
+5,bottom,0,[],Manny Banuelos,3,3,1,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,0,N/A,N/A,N/A
+6,top,0,[],Tim Cooney,0,0,0,Andrelton Simmons,['Andrelton Simmons'],['N/A'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+6,top,0,[],Tim Cooney,1,1,1,Manny Banuelos,['N/A'],['Andrelton Simmons'],['N/A'],Sac Bunt,N/A,4,0,N/A,N/A,N/A
+6,top,1,['Andrelton Simmons'],Tim Cooney,1,1,0,Cameron Maybin,['N/A'],['Cameron Maybin'],['N/A'],Double,N/A,4,1,1,N/A,N/A
+6,top,0,[],Tim Cooney,2,1,1,Pedro Ciriaco,['N/A'],['N/A'],['Cameron Maybin'],Groundout,N/A,4,1,N/A,N/A,N/A
+6,top,1,['Cameron Maybin'],Tim Cooney,2,1,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Wild Pitch,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Tim Cooney,3,1,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Manny Banuelos,0,0,1,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],N/A,0,2,2,Yadier Molina,['N/A'],['Jason Heyward'],['N/A'],Stolen Base 2B,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],David Aardsma,0,2,2,Yadier Molina,['Yadier Molina'],['Jason Heyward'],['Jason Heyward'],Single,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],David Aardsma,1,1,3,Randal Grichuk,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],David Aardsma,3,1,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Tim Cooney,1,2,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Tim Cooney,1,0,0,A.J. Pierzynski,['A.J. Pierzynski'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Tim Cooney,2,1,0,Jonny Gomes,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Tim Cooney,3,0,0,Joey Terdoslavich,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],David Aardsma,0,1,1,Stephen Piscotty,['Stephen Piscotty'],['N/A'],['N/A'],Field Error,N/A,4,2,N/A,N/A,David Aardsma
+7,bottom,0,[],Andrew McKirahan,0,2,0,Kolten Wong,['Kolten Wong'],['Stephen Piscotty'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Andrew McKirahan,1,1,3,Matt Carpenter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Andrew McKirahan,2,2,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Andrew McKirahan,3,1,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Seth Maness,1,0,1,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Seth Maness,2,1,2,Jace Peterson,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Seth Maness,3,1,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,0,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,2,0,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,4,2,Randal Grichuk,['Randal Grichuk'],['Yadier Molina'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,4,2,Mark Reynolds,['Mark Reynolds'],['Randal Grichuk'],['Yadier Molina'],Walk,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Ross Detwiler,3,1,1,Dan Johnson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Kevin Siegrist,1,3,3,Pedro Ciriaco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Kevin Siegrist,1,0,2,Nick Markakis,['Nick Markakis'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Kevin Siegrist,2,1,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Kevin Siegrist,2,4,0,A.J. Pierzynski,['A.J. Pierzynski'],['Nick Markakis'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Kevin Siegrist,3,3,3,Jonny Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A

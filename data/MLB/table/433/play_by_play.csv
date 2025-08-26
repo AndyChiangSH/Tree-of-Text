@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Matt Garza,1,1,2,Marco Scutaro,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Matt Garza,2,0,2,J.D. Drew,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Matt Garza,3,0,3,Victor Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,1,0,1,John Jaso,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,1,4,2,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,2,0,1,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,3,1,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Matt Garza,0,1,1,David Ortiz,['David Ortiz'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Matt Garza,1,2,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Matt Garza,2,3,1,Mike Lowell,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Matt Garza,3,0,2,Daniel Nava,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,1,0,0,Carlos Pena,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,1,4,1,Matt Joyce,['Matt Joyce'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,2,2,3,Dan Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,3,1,2,Melvin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Matt Garza,1,2,2,Ryan Kalish,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Matt Garza,2,1,2,Bill Hall,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Matt Garza,2,2,2,Marco Scutaro,['Marco Scutaro'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Matt Garza,3,1,1,J.D. Drew,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,1,0,0,Jason Bartlett,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,2,3,2,John Jaso,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,3,0,2,Ben Zobrist,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Matt Garza,0,3,1,Victor Martinez,['Victor Martinez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Matt Garza,0,0,2,David Ortiz,['N/A'],['David Ortiz'],['Victor Martinez'],Double,N/A,0,0,N/A,N/A,N/A
+4,top,1,['Victor Martinez'],Matt Garza,1,1,1,Adrian Beltre,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,1,1,N/A,N/A
+4,top,0,[],Matt Garza,2,2,2,Mike Lowell,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Matt Garza,3,2,2,Daniel Nava,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,1,1,0,Carl Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,1,2,2,Evan Longoria,['Evan Longoria'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,2,1,3,Carlos Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,3,2,1,Matt Joyce,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Matt Garza,1,0,1,Ryan Kalish,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Matt Garza,2,1,0,Bill Hall,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Matt Garza,3,2,1,Marco Scutaro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,0,3,1,Matt Joyce,['Matt Joyce'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,1,2,3,Dan Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,2,0,0,Melvin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,3,2,3,Jason Bartlett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Matt Garza,1,0,1,J.D. Drew,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Matt Garza,1,0,0,Victor Martinez,['Victor Martinez'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Matt Garza,1,4,1,David Ortiz,['David Ortiz'],['Victor Martinez'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Matt Garza,3,2,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Clay Buchholz,1,3,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Clay Buchholz,2,0,2,Ben Zobrist,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Clay Buchholz,3,3,2,Carl Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Matt Garza,1,2,3,Mike Lowell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Matt Garza,2,2,0,Daniel Nava,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Matt Garza,2,2,0,Ryan Kalish,['Ryan Kalish'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Matt Garza,3,2,3,Bill Hall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Clay Buchholz,0,0,0,Evan Longoria,['Evan Longoria'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Clay Buchholz,1,2,1,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+7,bottom,1,['Carlos Pena'],Clay Buchholz,2,3,2,Matt Joyce,['N/A'],['N/A'],['Carlos Pena'],Sac Fly,N/A,1,1,1,N/A,N/A
+7,bottom,0,[],Clay Buchholz,3,3,2,Dan Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Joaquin Benoit,1,2,1,Marco Scutaro,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Joaquin Benoit,2,1,3,J.D. Drew,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,top,1,[],Joaquin Benoit,2,2,0,Victor Martinez,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,1,N/A,N/A
+8,top,0,[],Joaquin Benoit,2,1,1,David Ortiz,['David Ortiz'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Joaquin Benoit,2,2,0,Adrian Beltre,['Adrian Beltre'],['David Ortiz'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Joaquin Benoit,2,2,1,Mike Lowell,['N/A'],['Adrian Beltre'],['David Ortiz'],Wild Pitch,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Joaquin Benoit,3,2,1,Mike Lowell,['N/A'],['Adrian Beltre'],['David Ortiz'],Pop Out,N/A,1,2,N/A,N/A,N/A
+8,bottom,1,[],Clay Buchholz,0,1,0,Melvin Upton,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,1,N/A,N/A
+8,bottom,0,[],Clay Buchholz,1,0,0,Jason Bartlett,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Felix Doubront,2,2,3,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Felix Doubront,2,2,1,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Felix Doubront,3,1,0,Carl Crawford,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Rafael Soriano,1,1,2,Daniel Nava,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Rafael Soriano,2,0,0,Ryan Kalish,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Rafael Soriano,3,0,1,Jed Lowrie,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Daniel Bard,1,0,3,Evan Longoria,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Daniel Bard,2,1,2,Carlos Pena,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Daniel Bard,3,1,0,Matt Joyce,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Chad Qualls,1,0,3,Marco Scutaro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Chad Qualls,2,2,1,J.D. Drew,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Chad Qualls,2,3,2,Victor Martinez,['Victor Martinez'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Randy Choate,3,2,2,David Ortiz,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+10,bottom,1,[],Scott Atchison,0,2,2,Dan Johnson,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,1,N/A,N/A

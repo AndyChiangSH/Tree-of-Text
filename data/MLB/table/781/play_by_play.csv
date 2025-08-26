@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mike Minor,1,0,2,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Mike Minor,2,1,2,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Mike Minor,3,0,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,1,1,2,Michael Bourn,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,1,0,1,Reed Johnson,['Reed Johnson'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,1,0,0,Jason Heyward,['Jason Heyward'],['N/A'],['Reed Johnson'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,2,"['Reed Johnson', 'Jason Heyward']",Nathan Eovaldi,1,2,1,Chipper Jones,['N/A'],['Chipper Jones'],['N/A'],Double,N/A,2,0,2,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,2,3,2,Freddie Freeman,['N/A'],['N/A'],['Chipper Jones'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,2,4,2,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Chipper Jones'],Nathan Eovaldi,2,3,2,Dan Uggla,['Dan Uggla'],['Brian McCann'],['N/A'],Single,N/A,3,0,1,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,2,1,1,Paul Janish,['Paul Janish'],['Dan Uggla'],['Brian McCann'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,3,1,3,Mike Minor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Minor,0,3,1,Carlos Lee,['Carlos Lee'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Minor,1,1,0,Austin Kearns,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Minor,1,3,2,Greg Dobbs,['Greg Dobbs'],['Carlos Lee'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Minor,2,0,1,Donovan Solano,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Minor,2,4,2,John Buck,['John Buck'],['Greg Dobbs'],['Carlos Lee'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Minor,3,1,3,Nathan Eovaldi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,0,1,1,Michael Bourn,['Michael Bourn'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,0,1,2,Reed Johnson,['Reed Johnson'],['Michael Bourn'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Michael Bourn'],Nathan Eovaldi,0,1,1,Jason Heyward,['Jason Heyward'],['Reed Johnson'],['N/A'],Single,N/A,4,0,1,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,1,3,1,Chipper Jones,['N/A'],['N/A'],['Reed Johnson'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,2,"['Reed Johnson', 'Jason Heyward']",Nathan Eovaldi,1,1,0,Freddie Freeman,['N/A'],['Freddie Freeman'],['N/A'],Double,N/A,6,0,2,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,2,1,2,Brian McCann,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,3,3,1,Dan Uggla,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Mike Minor,1,1,1,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Mike Minor,2,0,2,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Mike Minor,3,1,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Chad Gaudin,1,0,0,Paul Janish,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Chad Gaudin,2,0,2,Mike Minor,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Chad Gaudin,3,2,1,Michael Bourn,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Mike Minor,1,3,1,Carlos Lee,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Mike Minor,1,4,1,Austin Kearns,['Austin Kearns'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Mike Minor,2,2,0,Greg Dobbs,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Cristhian Martinez,2,2,1,Donovan Solano,['Donovan Solano'],['Austin Kearns'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Cristhian Martinez,3,0,2,John Buck,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,1,2,3,Reed Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,2,1,3,Jason Heyward,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,2,2,2,Chipper Jones,['Chipper Jones'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,3,0,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Cristhian Martinez,1,1,1,Chad Gaudin,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Cristhian Martinez,2,2,1,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Cristhian Martinez,3,0,1,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,0,4,1,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,1,1,1,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,3,0,1,Paul Janish,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Cristhian Martinez,0,1,1,Jose Reyes,['N/A'],['N/A'],['Jose Reyes'],Triple,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Jose Reyes'],Cristhian Martinez,1,2,0,Carlos Lee,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,6,1,1,N/A,N/A
+6,top,0,[],Cristhian Martinez,2,0,1,Austin Kearns,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Cristhian Martinez,3,1,3,Greg Dobbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Chad Gaudin,1,1,1,Cristhian Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Chad Gaudin,2,2,2,Michael Bourn,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Chad Gaudin,3,0,0,Reed Johnson,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Cristhian Martinez,1,2,1,Donovan Solano,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Cristhian Martinez,1,0,1,John Buck,['N/A'],['John Buck'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Cristhian Martinez,2,1,2,Scott Cousins,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Cristhian Martinez,2,0,0,Emilio Bonifacio,['Emilio Bonifacio'],['N/A'],['John Buck'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Chad Durbin,3,1,1,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Dan Jennings,0,1,2,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Dan Jennings,1,1,1,Chipper Jones,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Dan Jennings,2,1,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Dan Jennings,3,3,2,Brian McCann,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Cory Gearrin,1,1,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Cory Gearrin,1,0,0,Carlos Lee,['Carlos Lee'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Cory Gearrin,3,2,1,Austin Kearns,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Dan Jennings,1,1,2,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Dan Jennings,2,2,1,Paul Janish,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Dan Jennings,2,4,2,Tyler Pastornicky,['Tyler Pastornicky'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Dan Jennings,2,4,2,Michael Bourn,['Michael Bourn'],['Tyler Pastornicky'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Dan Jennings,2,0,2,Reed Johnson,['Reed Johnson'],['Michael Bourn'],['Tyler Pastornicky'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Dan Jennings,3,3,2,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,1,2,3,Greg Dobbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,1,0,1,Donovan Solano,['Donovan Solano'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,2,2,3,John Buck,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,2,4,2,Bryan Petersen,['Bryan Petersen'],['Donovan Solano'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,3,0,3,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

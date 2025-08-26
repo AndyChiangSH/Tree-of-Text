@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jose Urena,0,0,1,Michael Conforto,['Michael Conforto'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jose Urena,1,2,0,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jose Urena,3,2,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Noah Syndergaard,1,2,1,Derek Dietrich,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Noah Syndergaard,2,1,1,Miguel Rojas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Noah Syndergaard,3,2,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jose Urena,0,4,0,Todd Frazier,['Todd Frazier'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jose Urena,0,0,2,Asdrubal Cabrera,['Asdrubal Cabrera'],['Todd Frazier'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Todd Frazier'],Jose Urena,0,3,2,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['Asdrubal Cabrera'],Single,N/A,0,1,1,N/A,N/A
+2,top,1,['Asdrubal Cabrera'],Jose Urena,2,1,0,Kevin Plawecki,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Jose Urena,3,2,3,Noah Syndergaard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Noah Syndergaard,1,0,0,Justin Bour,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Noah Syndergaard,2,0,2,Brian Anderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Noah Syndergaard,3,2,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jose Urena,0,3,2,Amed Rosario,['N/A'],['Amed Rosario'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jose Urena,1,1,2,Michael Conforto,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jose Urena,2,2,3,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,1,['Amed Rosario'],Jose Urena,2,2,2,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Single,N/A,0,3,1,N/A,N/A
+3,top,0,[],Jose Urena,3,1,1,Todd Frazier,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Noah Syndergaard,1,1,1,Braxton Lee,['N/A'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Noah Syndergaard,2,3,2,Bryan Holaday,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Noah Syndergaard,3,1,3,Jose Urena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Jose Urena,1,2,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Jose Urena,2,0,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Jose Urena,3,1,2,Kevin Plawecki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Noah Syndergaard,0,1,2,Derek Dietrich,['Derek Dietrich'],['N/A'],['N/A'],Hit By Pitch,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Noah Syndergaard,0,1,0,Miguel Rojas,['Miguel Rojas'],['Derek Dietrich'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Noah Syndergaard,2,1,0,Starlin Castro,['N/A'],['N/A'],['Derek Dietrich'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Noah Syndergaard,3,1,1,Justin Bour,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Jose Urena,1,1,3,Noah Syndergaard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Jose Urena,2,3,3,Amed Rosario,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Jose Urena,3,1,2,Michael Conforto,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Noah Syndergaard,0,1,2,Brian Anderson,['N/A'],['Brian Anderson'],['N/A'],Field Error,N/A,0,3,N/A,N/A,Amed Rosario
+5,bottom,0,[],Noah Syndergaard,1,0,0,Cameron Maybin,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Noah Syndergaard,2,2,3,Braxton Lee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Noah Syndergaard,2,4,1,Bryan Holaday,['Bryan Holaday'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Noah Syndergaard,2,4,1,Tomas Telis,['Tomas Telis'],['Bryan Holaday'],['Brian Anderson'],Walk,N/A,0,3,N/A,N/A,N/A
+5,bottom,1,['Brian Anderson'],Noah Syndergaard,2,1,1,Derek Dietrich,['Derek Dietrich'],['Tomas Telis'],['Bryan Holaday'],Single,N/A,1,3,1,N/A,N/A
+5,bottom,0,[],Noah Syndergaard,3,1,2,Miguel Rojas,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Junichi Tazawa,1,1,3,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Junichi Tazawa,1,4,2,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Junichi Tazawa,2,1,2,Todd Frazier,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Junichi Tazawa,3,0,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Noah Syndergaard,0,0,1,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Noah Syndergaard,1,3,3,Justin Bour,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],N/A,1,2,0,Brian Anderson,['N/A'],['Starlin Castro'],['N/A'],Stolen Base 2B,N/A,1,3,N/A,N/A,N/A
+6,bottom,1,['Starlin Castro'],Noah Syndergaard,1,2,0,Brian Anderson,['N/A'],"['Starlin Castro', 'Brian Anderson']",['N/A'],Double,N/A,2,3,1,N/A,N/A
+6,bottom,0,[],Noah Syndergaard,2,0,2,Cameron Maybin,['N/A'],['N/A'],['Brian Anderson'],Groundout,N/A,2,3,N/A,N/A,N/A
+6,bottom,0,[],Noah Syndergaard,3,1,0,Braxton Lee,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Junichi Tazawa,0,4,1,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Junichi Tazawa,1,2,3,Kevin Plawecki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Kyle Barraclough,1,3,2,Brandon Nimmo,['Brandon Nimmo'],['N/A'],['Adrian Gonzalez'],Field Error,N/A,2,3,N/A,N/A,Justin Bour
+7,top,1,['Adrian Gonzalez'],Kyle Barraclough,1,0,1,Amed Rosario,['N/A'],['Amed Rosario'],['Brandon Nimmo'],Single,N/A,2,4,1,N/A,N/A
+7,top,0,[],Kyle Barraclough,1,4,0,Michael Conforto,['Michael Conforto'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Kyle Barraclough,2,3,3,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Kyle Barraclough,3,3,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Hansel Robles,1,2,1,Bryan Holaday,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Hansel Robles,2,1,0,Lewis Brinson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Hansel Robles,2,3,2,Derek Dietrich,['Derek Dietrich'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Hansel Robles,2,1,2,Miguel Rojas,['Miguel Rojas'],['Derek Dietrich'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Hansel Robles,3,0,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Odrisamer Despaigne,0,4,1,Todd Frazier,['Todd Frazier'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Odrisamer Despaigne,1,2,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Odrisamer Despaigne,3,2,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Double Play,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],Jerry Blevins,1,0,2,Justin Bour,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],AJ Ramos,1,4,1,Brian Anderson,['Brian Anderson'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],AJ Ramos,2,1,2,Cameron Maybin,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],AJ Ramos,3,0,0,Yadiel Rivera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Tayron Guerrero,1,1,0,Kevin Plawecki,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Tayron Guerrero,2,1,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Tayron Guerrero,3,1,3,Amed Rosario,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Jeurys Familia,0,2,1,Bryan Holaday,['Bryan Holaday'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Jeurys Familia,1,0,3,Lewis Brinson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Jeurys Familia,1,1,1,Derek Dietrich,['N/A'],['Derek Dietrich'],['Bryan Holaday'],Double,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Jeurys Familia,2,0,3,Miguel Rojas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Jeurys Familia,3,1,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A

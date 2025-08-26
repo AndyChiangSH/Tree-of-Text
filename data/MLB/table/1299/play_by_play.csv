@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Cody Anderson,1,1,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Cody Anderson,1,2,2,Seth Smith,['Seth Smith'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Cody Anderson,1,1,0,Robinson Cano,['Robinson Cano'],['Seth Smith'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Cody Anderson,2,2,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Cody Anderson,3,0,0,Kyle Seager,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Nate Karns,0,1,0,Rajai Davis,['N/A'],['Rajai Davis'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Nate Karns,1,3,3,Jason Kipnis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Nate Karns,2,0,0,Francisco Lindor,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Nate Karns,3,2,2,Carlos Santana,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cody Anderson,0,1,1,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cody Anderson,1,1,3,Leonys Martin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,2,['Adam Lind'],Cody Anderson,1,2,1,Steve Clevenger,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+2,top,0,[],Cody Anderson,2,1,2,Ketel Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Cody Anderson,3,2,0,Norichika Aoki,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Nate Karns,1,3,1,Marlon Byrd,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Nate Karns,2,1,0,Jose Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Nate Karns,3,0,2,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Cody Anderson,0,0,0,Seth Smith,['Seth Smith'],['N/A'],['N/A'],Hit By Pitch,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Cody Anderson,1,1,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Cody Anderson,2,2,1,Nelson Cruz,['N/A'],['N/A'],['Seth Smith'],Single,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Cody Anderson,3,2,0,Kyle Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Nate Karns,0,4,1,Roberto Perez,['Roberto Perez'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Nate Karns,2,1,1,Tyler Naquin,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Nate Karns,3,0,1,Rajai Davis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Cody Anderson,0,1,1,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Cody Anderson,1,0,3,Leonys Martin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Cody Anderson,1,1,2,Steve Clevenger,['Steve Clevenger'],['Adam Lind'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Cody Anderson,1,2,1,Ketel Marte,['Ketel Marte'],['Steve Clevenger'],['Adam Lind'],Single,N/A,0,2,N/A,N/A,N/A
+4,top,1,['Adam Lind'],Cody Anderson,1,1,0,Norichika Aoki,['Norichika Aoki'],['Ketel Marte'],['Steve Clevenger'],Single,N/A,0,3,1,N/A,N/A
+4,top,1,['Steve Clevenger'],Cody Anderson,2,3,1,Seth Smith,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,4,1,N/A,N/A
+4,top,0,[],Trevor Bauer,2,4,0,Robinson Cano,['Robinson Cano'],['Norichika Aoki'],['Ketel Marte'],Walk,N/A,0,4,N/A,N/A,N/A
+4,top,1,['Ketel Marte'],Trevor Bauer,2,4,2,Nelson Cruz,['Nelson Cruz'],['Robinson Cano'],['Norichika Aoki'],Walk,N/A,0,5,1,N/A,N/A
+4,top,0,[],Trevor Bauer,3,3,2,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Nate Karns,1,2,1,Jason Kipnis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Nate Karns,2,0,2,Francisco Lindor,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Nate Karns,2,0,1,Carlos Santana,['Carlos Santana'],['N/A'],['N/A'],Single,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Nate Karns,2,4,1,Marlon Byrd,['Marlon Byrd'],['Carlos Santana'],['N/A'],Walk,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Nate Karns,3,1,2,Jose Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Trevor Bauer,1,0,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Trevor Bauer,1,2,1,Leonys Martin,['Leonys Martin'],['N/A'],['N/A'],Single,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Trevor Bauer,3,1,3,Steve Clevenger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Nate Karns,1,0,3,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Nate Karns,1,4,2,Roberto Perez,['Roberto Perez'],['N/A'],['N/A'],Walk,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Nate Karns,1,1,1,Tyler Naquin,['Tyler Naquin'],['Roberto Perez'],['N/A'],Single,N/A,0,5,N/A,N/A,N/A
+5,bottom,3,"['Roberto Perez', 'Tyler Naquin']",Nate Karns,1,0,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,3,N/A,N/A
+5,bottom,0,[],Nate Karns,2,0,3,Jason Kipnis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+5,bottom,0,[],Nate Karns,3,3,3,Francisco Lindor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+6,top,0,[],Trevor Bauer,1,1,1,Ketel Marte,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,3,5,N/A,N/A,N/A
+6,top,0,[],Trevor Bauer,1,1,0,Norichika Aoki,['Norichika Aoki'],['N/A'],['N/A'],Hit By Pitch,N/A,3,5,N/A,N/A,N/A
+6,top,0,[],Trevor Bauer,2,1,0,Seth Smith,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,5,N/A,N/A,N/A
+6,top,1,['Norichika Aoki'],Trevor Bauer,2,0,0,Robinson Cano,['N/A'],['Robinson Cano'],['N/A'],Double,N/A,3,6,1,N/A,N/A
+6,top,1,['Robinson Cano'],Trevor Bauer,2,1,2,Nelson Cruz,['Nelson Cruz'],['N/A'],['N/A'],Single,N/A,3,7,1,N/A,N/A
+6,top,0,[],Zach McAllister,2,0,0,Kyle Seager,['Kyle Seager'],['Nelson Cruz'],['N/A'],Single,N/A,3,7,N/A,N/A,N/A
+6,top,0,[],Zach McAllister,3,0,1,Adam Lind,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,7,N/A,N/A,N/A
+6,bottom,0,[],Nate Karns,0,4,0,Carlos Santana,['Carlos Santana'],['N/A'],['N/A'],Walk,N/A,3,7,N/A,N/A,N/A
+6,bottom,0,[],Nate Karns,1,1,3,Marlon Byrd,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+6,bottom,1,['Carlos Santana'],Nate Karns,1,2,2,Jose Ramirez,['N/A'],['N/A'],['Jose Ramirez'],Double,Error,4,7,1,N/A,Ketel Marte
+6,bottom,1,['Jose Ramirez'],Nick Vincent,1,0,1,Lonnie Chisenhall,['Lonnie Chisenhall'],['N/A'],['N/A'],Single,N/A,5,7,1,N/A,N/A
+6,bottom,0,[],Nick Vincent,2,2,2,Roberto Perez,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,7,N/A,N/A,N/A
+6,bottom,0,[],Nick Vincent,3,0,1,Tyler Naquin,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,7,N/A,N/A,N/A
+7,top,0,[],Zach McAllister,0,2,1,Leonys Martin,['N/A'],['Leonys Martin'],['N/A'],Double,N/A,5,7,N/A,N/A,N/A
+7,top,0,[],Zach McAllister,1,3,2,Steve Clevenger,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,7,N/A,N/A,N/A
+7,top,0,[],Zach McAllister,2,0,0,Ketel Marte,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,7,N/A,N/A,N/A
+7,top,0,[],Zach McAllister,3,1,2,Norichika Aoki,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,7,N/A,N/A,N/A
+7,bottom,0,[],Joel Peralta,1,2,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,7,N/A,N/A,N/A
+7,bottom,0,[],Joel Peralta,1,1,2,Jason Kipnis,['Jason Kipnis'],['N/A'],['N/A'],Single,N/A,5,7,N/A,N/A,N/A
+7,bottom,0,[],Joel Peralta,2,3,3,Francisco Lindor,['N/A'],['Jason Kipnis'],['N/A'],Strikeout,N/A,5,7,N/A,N/A,N/A
+7,bottom,0,[],Joel Peralta,3,1,3,Carlos Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,7,N/A,N/A,N/A
+8,top,0,[],Ross Detwiler,0,4,2,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Walk,N/A,5,7,N/A,N/A,N/A
+8,top,0,[],Ross Detwiler,2,1,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,7,N/A,N/A,N/A
+8,top,0,[],Joba Chamberlain,3,0,1,Nelson Cruz,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,7,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,0,4,2,Marlon Byrd,['Marlon Byrd'],['N/A'],['N/A'],Walk,N/A,5,7,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,1,1,2,Jose Ramirez,['N/A'],['Marlon Byrd'],['N/A'],Groundout,N/A,5,7,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,2,1,3,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,7,N/A,N/A,N/A
+8,bottom,2,['Marlon Byrd'],Joaquin Benoit,2,2,0,Mike Napoli,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,7,2,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,3,1,1,Tyler Naquin,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,7,N/A,N/A,N/A
+9,top,0,[],Cody Allen,1,2,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,7,N/A,N/A,N/A
+9,top,0,[],Cody Allen,2,0,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,7,N/A,N/A,N/A
+9,top,0,[],Cody Allen,3,1,3,Leonys Martin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,7,N/A,N/A,N/A
+9,bottom,0,[],Tony Zych,1,0,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,7,N/A,N/A,N/A
+9,bottom,0,[],Tony Zych,2,2,3,Jason Kipnis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,7,N/A,N/A,N/A
+9,bottom,0,[],Tony Zych,2,4,1,Francisco Lindor,['Francisco Lindor'],['N/A'],['N/A'],Walk,N/A,7,7,N/A,N/A,N/A
+9,bottom,0,[],Tony Zych,3,2,0,Carlos Santana,['N/A'],['N/A'],['N/A'],Runner Out,N/A,7,7,N/A,N/A,N/A
+10,top,0,[],Cody Allen,0,4,2,Steve Clevenger,['Steve Clevenger'],['N/A'],['N/A'],Walk,N/A,7,7,N/A,N/A,N/A
+10,top,0,[],Cody Allen,1,0,2,Ketel Marte,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,7,N/A,N/A,N/A
+10,top,0,[],Cody Allen,1,1,0,Norichika Aoki,['N/A'],['Luis Sardinas'],['N/A'],Wild Pitch,N/A,7,7,N/A,N/A,N/A
+10,top,0,[],Cody Allen,2,1,1,Norichika Aoki,['N/A'],['Luis Sardinas'],['Luis Sardinas'],Lineout,N/A,7,7,N/A,N/A,N/A
+10,top,0,[],Cody Allen,2,4,2,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Walk,N/A,7,7,N/A,N/A,N/A
+10,top,3,"['Luis Sardinas', 'Franklin Gutierrez']",Cody Allen,2,0,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,10,3,N/A,N/A
+10,top,0,[],Bryan Shaw,3,1,0,Nelson Cruz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,10,N/A,N/A,N/A
+10,bottom,0,[],Steve Cishek,1,1,0,Carlos Santana,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,10,N/A,N/A,N/A
+10,bottom,0,[],Steve Cishek,2,1,3,Marlon Byrd,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,10,N/A,N/A,N/A
+10,bottom,0,[],Steve Cishek,3,1,1,Jose Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,10,N/A,N/A,N/A

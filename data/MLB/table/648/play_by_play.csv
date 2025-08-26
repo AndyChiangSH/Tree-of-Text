@@ -1,0 +1,91 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Max Scherzer,1,1,2,Juan Pierre,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Max Scherzer,2,1,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Max Scherzer,3,0,0,Paul Konerko,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mark Buehrle,0,0,0,Austin Jackson,['N/A'],['Austin Jackson'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mark Buehrle,1,0,1,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mark Buehrle,2,3,3,Delmon Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Mark Buehrle,2,4,0,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Austin Jackson'],Mark Buehrle,2,0,0,Victor Martinez,['Victor Martinez'],['Miguel Cabrera'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Mark Buehrle,3,3,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,1,2,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,2,3,3,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,2,2,2,Alex Rios,['Alex Rios'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,3,1,2,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Runner Out,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Mark Buehrle,1,2,3,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Mark Buehrle,2,2,0,Ryan Raburn,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Mark Buehrle,2,2,2,Brandon Inge,['N/A'],['Brandon Inge'],['N/A'],Single,Error,1,0,N/A,N/A,Brent Morel
+2,bottom,0,[],Mark Buehrle,3,1,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,1,2,3,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,2,0,3,Brent Morel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,3,3,3,Gordon Beckham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Mark Buehrle,0,0,0,Magglio Ordonez,['Magglio Ordonez'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Mark Buehrle,0,2,2,Delmon Young,['Delmon Young'],['Magglio Ordonez'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Mark Buehrle,1,1,2,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,bottom,1,['Magglio Ordonez'],Mark Buehrle,1,3,2,Victor Martinez,['Victor Martinez'],['N/A'],['Delmon Young'],Single,N/A,2,0,1,N/A,N/A
+3,bottom,1,['Delmon Young'],Mark Buehrle,1,0,0,Alex Avila,['Alex Avila'],['Victor Martinez'],['N/A'],Single,N/A,3,0,1,N/A,N/A
+3,bottom,1,['Victor Martinez'],Mark Buehrle,2,2,0,Jhonny Peralta,['N/A'],['Jhonny Peralta'],['N/A'],Forceout,Error,4,0,N/A,1,Gordon Beckham
+3,bottom,0,[],Mark Buehrle,3,0,1,Ryan Raburn,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,1,1,1,Juan Pierre,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,2,2,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,3,3,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Mark Buehrle,0,0,2,Brandon Inge,['Brandon Inge'],['N/A'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Mark Buehrle,0,4,2,Austin Jackson,['Austin Jackson'],['Brandon Inge'],['N/A'],Walk,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Mark Buehrle,1,2,2,Magglio Ordonez,['N/A'],['N/A'],['Brandon Inge'],Lineout,N/A,4,0,N/A,N/A,N/A
+4,bottom,1,['Brandon Inge'],Mark Buehrle,1,2,2,Delmon Young,['Delmon Young'],['Austin Jackson'],['N/A'],Single,N/A,5,0,1,N/A,N/A
+4,bottom,2,"['Austin Jackson', 'Delmon Young']",Mark Buehrle,1,1,2,Miguel Cabrera,['N/A'],['Miguel Cabrera'],['N/A'],Double,N/A,7,0,2,N/A,N/A
+4,bottom,0,[],Addison Reed,2,1,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,0,N/A,N/A,N/A
+4,bottom,1,['Miguel Cabrera'],Addison Reed,2,3,2,Alex Avila,['N/A'],['Alex Avila'],['N/A'],Single,N/A,8,0,1,N/A,N/A
+4,bottom,1,['Alex Avila'],Addison Reed,2,2,2,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Single,N/A,9,0,1,N/A,N/A
+4,bottom,0,[],Addison Reed,2,2,2,Ryan Raburn,['Ryan Raburn'],['Jhonny Peralta'],['N/A'],Single,N/A,9,0,N/A,N/A,N/A
+4,bottom,0,[],Addison Reed,3,1,3,Brandon Inge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,0,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,1,1,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,0,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,1,2,1,Dayan Viciedo,['Dayan Viciedo'],['N/A'],['N/A'],Single,N/A,9,0,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,1,2,2,Alex Rios,['Alex Rios'],['Dayan Viciedo'],['N/A'],Single,N/A,9,0,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,2,2,3,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,0,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,3,2,3,Brent Morel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,0,N/A,N/A,N/A
+5,bottom,0,[],Addison Reed,1,0,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,0,N/A,N/A,N/A
+5,bottom,0,[],Addison Reed,1,0,0,Magglio Ordonez,['Magglio Ordonez'],['N/A'],['N/A'],Single,N/A,9,0,N/A,N/A,N/A
+5,bottom,0,[],Addison Reed,2,0,1,Delmon Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,0,N/A,N/A,N/A
+5,bottom,0,[],Addison Reed,3,2,3,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,0,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,0,2,2,Gordon Beckham,['Gordon Beckham'],['N/A'],['N/A'],Single,N/A,9,0,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,1,0,0,Juan Pierre,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,0,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,1,1,2,Alexei Ramirez,['N/A'],['Alexei Ramirez'],['Gordon Beckham'],Double,N/A,9,0,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,2,2,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Pop Out,N/A,9,0,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,3,0,0,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,0,N/A,N/A,N/A
+6,bottom,0,[],Shane Lindsay,0,4,1,Victor Martinez,['Victor Martinez'],['N/A'],['N/A'],Walk,N/A,9,0,N/A,N/A,N/A
+6,bottom,0,[],Shane Lindsay,0,0,0,Alex Avila,['N/A'],['Alex Avila'],['Victor Martinez'],Double,N/A,9,0,N/A,N/A,N/A
+6,bottom,2,"['Victor Martinez', 'Alex Avila']",Shane Lindsay,0,0,1,Jhonny Peralta,['N/A'],['Jhonny Peralta'],['N/A'],Double,N/A,11,0,2,N/A,N/A
+6,bottom,0,[],Shane Lindsay,1,1,3,Ryan Raburn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,0,N/A,N/A,N/A
+6,bottom,1,['Jhonny Peralta'],Shane Lindsay,1,0,1,Brandon Inge,['Brandon Inge'],['N/A'],['N/A'],Single,N/A,12,0,1,N/A,N/A
+6,bottom,0,[],Shane Lindsay,1,3,2,Austin Jackson,['N/A'],['Austin Jackson'],['Brandon Inge'],Single,Error,12,0,N/A,N/A,Brent Morel
+6,bottom,0,[],Shane Lindsay,2,0,0,Ramon Santiago,['N/A'],['N/A'],['N/A'],Pop Out,N/A,12,0,N/A,N/A,N/A
+6,bottom,2,"['Brandon Inge', 'Austin Jackson']",Shane Lindsay,2,0,1,Andy Dirks,['Andy Dirks'],['N/A'],['N/A'],Single,N/A,14,0,2,N/A,N/A
+6,bottom,2,['Andy Dirks'],Shane Lindsay,2,1,2,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Home Run,N/A,16,0,2,N/A,N/A
+6,bottom,0,[],Shane Lindsay,2,2,2,Victor Martinez,['N/A'],['Victor Martinez'],['N/A'],Double,N/A,16,0,N/A,N/A,N/A
+6,bottom,0,[],Shane Lindsay,2,2,2,Alex Avila,['Alex Avila'],['N/A'],['Victor Martinez'],Single,N/A,16,0,N/A,N/A,N/A
+6,bottom,0,[],Shane Lindsay,3,1,1,Will Rhymes,['N/A'],['N/A'],['N/A'],Flyout,N/A,16,0,N/A,N/A,N/A
+7,top,0,[],Max Scherzer,1,1,2,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Groundout,N/A,16,0,N/A,N/A,N/A
+7,top,0,[],Max Scherzer,2,0,0,Alex Rios,['N/A'],['N/A'],['N/A'],Flyout,N/A,16,0,N/A,N/A,N/A
+7,top,0,[],Max Scherzer,3,0,1,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Groundout,N/A,16,0,N/A,N/A,N/A
+7,bottom,0,[],Josh Kinney,1,2,3,Ryan Raburn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,16,0,N/A,N/A,N/A
+7,bottom,0,[],Josh Kinney,2,3,2,Brandon Inge,['N/A'],['N/A'],['N/A'],Groundout,N/A,16,0,N/A,N/A,N/A
+7,bottom,0,[],Josh Kinney,3,0,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,16,0,N/A,N/A,N/A
+8,top,0,[],Luis Marte,1,1,3,Brent Morel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,16,0,N/A,N/A,N/A
+8,top,0,[],Luis Marte,2,2,3,Eduardo Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,16,0,N/A,N/A,N/A
+8,top,0,[],Luis Marte,2,1,0,Juan Pierre,['Juan Pierre'],['N/A'],['N/A'],Single,N/A,16,0,N/A,N/A,N/A
+8,top,0,[],Luis Marte,2,1,1,Alexei Ramirez,['N/A'],['Juan Pierre'],['N/A'],Wild Pitch,N/A,16,0,N/A,N/A,N/A
+8,top,0,[],Luis Marte,3,1,3,Alexei Ramirez,['N/A'],['Juan Pierre'],['N/A'],Strikeout,N/A,16,0,N/A,N/A,N/A
+8,bottom,0,[],Will Ohman,0,1,1,Ramon Santiago,['Ramon Santiago'],['N/A'],['N/A'],Hit By Pitch,N/A,16,0,N/A,N/A,N/A
+8,bottom,2,['Ramon Santiago'],Will Ohman,0,2,0,Andy Dirks,['N/A'],['N/A'],['N/A'],Home Run,N/A,18,0,2,N/A,N/A
+8,bottom,0,[],Will Ohman,0,1,2,Don Kelly,['Don Kelly'],['N/A'],['N/A'],Single,N/A,18,0,N/A,N/A,N/A
+8,bottom,0,[],Will Ohman,1,1,3,Carlos Guillen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,18,0,N/A,N/A,N/A
+8,bottom,0,[],Will Ohman,2,2,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,18,0,N/A,N/A,N/A
+8,bottom,0,[],Will Ohman,3,1,2,Will Rhymes,['N/A'],['N/A'],['N/A'],Lineout,N/A,18,0,N/A,N/A,N/A
+9,top,0,[],Duane Below,0,1,1,Brent Lillibridge,['Brent Lillibridge'],['N/A'],['N/A'],Single,N/A,18,0,N/A,N/A,N/A
+9,top,1,['Brent Lillibridge'],Duane Below,0,0,2,Donny Lucy,['N/A'],['Donny Lucy'],['N/A'],Double,N/A,18,1,1,N/A,N/A
+9,top,0,[],Duane Below,0,0,1,Dayan Viciedo,['Dayan Viciedo'],['N/A'],['Donny Lucy'],Single,N/A,18,1,N/A,N/A,N/A
+9,top,1,['Donny Lucy'],Duane Below,1,1,0,Alex Rios,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,18,2,1,N/A,N/A
+9,top,0,[],Duane Below,1,1,2,Alejandro De Aza,['Alejandro De Aza'],['Dayan Viciedo'],['N/A'],Field Error,N/A,18,2,N/A,N/A,Will Rhymes
+9,top,0,[],Duane Below,2,0,0,Brent Morel,['N/A'],['N/A'],['Dayan Viciedo'],Flyout,N/A,18,2,N/A,N/A,N/A
+9,top,0,[],Duane Below,3,1,2,Eduardo Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,18,2,N/A,N/A,N/A

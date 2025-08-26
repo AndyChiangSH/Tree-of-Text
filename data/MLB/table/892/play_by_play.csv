@@ -1,0 +1,65 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Matt Harvey,1,0,0,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Matt Harvey,2,3,2,Michael Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Matt Harvey,2,1,2,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Matt Harvey,3,2,3,Domonic Brown,['N/A'],['Chase Utley'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,1,1,2,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,2,0,2,Daniel Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,[],Cliff Lee,2,1,2,David Wright,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+1,bottom,1,[],Cliff Lee,2,3,2,Marlon Byrd,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,1,N/A,N/A
+1,bottom,0,[],Cliff Lee,3,0,1,Josh Satin,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Matt Harvey,1,1,3,Delmon Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Matt Harvey,2,0,1,Kevin Frandsen,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Matt Harvey,3,1,0,John Mayberry,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,1,0,0,John Buck,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,2,2,3,Juan Lagares,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,3,0,3,Omar Quintanilla,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Matt Harvey,1,2,3,Erik Kratz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Matt Harvey,2,1,3,Cliff Lee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Matt Harvey,3,0,3,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,1,0,3,Matt Harvey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,2,1,1,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,3,1,2,Daniel Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Matt Harvey,1,3,2,Michael Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Matt Harvey,1,1,2,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Matt Harvey,2,0,3,Domonic Brown,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Matt Harvey,3,2,1,Delmon Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,0,2,1,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,1,2,3,Marlon Byrd,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,1,3,1,Josh Satin,['Josh Satin'],['David Wright'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,2,2,2,John Buck,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,bottom,3,"['David Wright', 'Josh Satin']",Cliff Lee,2,1,2,Juan Lagares,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,0,3,N/A,N/A
+4,bottom,0,[],Cliff Lee,2,4,1,Omar Quintanilla,['Omar Quintanilla'],['N/A'],['N/A'],Walk,N/A,5,0,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,3,0,3,Matt Harvey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Matt Harvey,1,2,3,Kevin Frandsen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Matt Harvey,2,3,3,John Mayberry,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Matt Harvey,3,3,3,Erik Kratz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,1,0,0,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,2,1,2,Daniel Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,3,0,2,David Wright,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Matt Harvey,1,3,2,Cliff Lee,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Matt Harvey,2,1,2,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Matt Harvey,2,1,2,Michael Young,['Michael Young'],['N/A'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Matt Harvey,3,1,1,Chase Utley,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,0,0,1,Marlon Byrd,['Marlon Byrd'],['N/A'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,1,2,1,Josh Satin,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,2,0,3,John Buck,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,2,1,1,Juan Lagares,['Juan Lagares'],['Marlon Byrd'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,3,0,2,Omar Quintanilla,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Matt Harvey,1,2,3,Domonic Brown,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Matt Harvey,1,1,1,Delmon Young,['N/A'],['Delmon Young'],['N/A'],Double,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Matt Harvey,2,2,2,Kevin Frandsen,['N/A'],['N/A'],['Delmon Young'],Groundout,N/A,5,0,N/A,N/A,N/A
+7,top,0,[],Matt Harvey,3,0,0,John Mayberry,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Antonio Bastardo,1,1,3,Andrew Brown,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Antonio Bastardo,2,2,3,Eric Young Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+7,bottom,0,[],Antonio Bastardo,3,2,2,Daniel Murphy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,0,N/A,N/A,N/A
+8,top,0,[],Scott Atchison,1,1,2,Erik Kratz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,0,N/A,N/A,N/A
+8,top,0,[],Scott Atchison,2,2,1,Laynce Nix,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+8,top,0,[],Scott Atchison,2,2,1,Jimmy Rollins,['Jimmy Rollins'],['N/A'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+8,top,0,[],Scott Atchison,3,0,0,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Papelbon,1,2,1,David Wright,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Papelbon,2,0,2,Marlon Byrd,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Papelbon,3,1,3,Ike Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+9,top,0,[],Scott Atchison,1,2,3,Chase Utley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+9,top,0,[],Scott Atchison,2,3,3,Domonic Brown,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+9,top,0,[],Scott Atchison,3,0,1,Delmon Young,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,0,N/A,N/A,N/A

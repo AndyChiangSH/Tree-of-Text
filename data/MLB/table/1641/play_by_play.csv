@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Masahiro Tanaka,0,0,1,Derek Dietrich,['Derek Dietrich'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Masahiro Tanaka,0,4,1,Miguel Rojas,['Miguel Rojas'],['Derek Dietrich'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Derek Dietrich'],Masahiro Tanaka,0,1,2,Starlin Castro,['Starlin Castro'],['Miguel Rojas'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Masahiro Tanaka,0,0,2,Justin Bour,['Justin Bour'],['Starlin Castro'],['Miguel Rojas'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,2,"['Miguel Rojas', 'Starlin Castro']",Masahiro Tanaka,0,0,2,J.T. Realmuto,['J.T. Realmuto'],['Justin Bour'],['N/A'],Field Error,N/A,0,3,1,1,Didi Gregorius
+1,top,0,[],Masahiro Tanaka,2,0,0,Brian Anderson,['N/A'],['N/A'],['Justin Bour'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Masahiro Tanaka,3,0,1,Tomas Telis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jarlin Garcia,0,4,1,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jarlin Garcia,0,4,2,Aaron Judge,['Aaron Judge'],['Brett Gardner'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jarlin Garcia,2,1,2,Giancarlo Stanton,['N/A'],['N/A'],['Brett Gardner'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jarlin Garcia,2,4,2,Didi Gregorius,['Didi Gregorius'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jarlin Garcia,3,0,2,Gary Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Masahiro Tanaka,0,0,1,Cameron Maybin,['N/A'],['Cameron Maybin'],['N/A'],Field Error,N/A,0,3,N/A,N/A,Tyler Austin
+2,top,0,[],Masahiro Tanaka,1,0,2,JB Shuck,['N/A'],['N/A'],['Cameron Maybin'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,1,['Cameron Maybin'],Masahiro Tanaka,1,0,1,Derek Dietrich,['Derek Dietrich'],['N/A'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+2,top,0,[],Masahiro Tanaka,3,0,0,Miguel Rojas,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Jarlin Garcia,1,1,1,Aaron Hicks,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Jarlin Garcia,2,0,1,Neil Walker,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Jarlin Garcia,3,1,2,Tyler Austin,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Masahiro Tanaka,1,2,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Masahiro Tanaka,2,1,0,Justin Bour,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Masahiro Tanaka,3,2,3,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Jarlin Garcia,1,1,2,Miguel Andujar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Jarlin Garcia,1,4,0,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Jarlin Garcia,1,4,1,Aaron Judge,['Aaron Judge'],['Brett Gardner'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Jarlin Garcia,2,3,1,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Jarlin Garcia,3,1,0,Didi Gregorius,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Masahiro Tanaka,1,1,3,Brian Anderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Masahiro Tanaka,1,1,1,Tomas Telis,['N/A'],['Tomas Telis'],['N/A'],Double,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Masahiro Tanaka,2,3,3,Cameron Maybin,['N/A'],['N/A'],['Tomas Telis'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Masahiro Tanaka,3,1,1,JB Shuck,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Jarlin Garcia,1,2,1,Gary Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Jarlin Garcia,2,1,2,Aaron Hicks,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Jarlin Garcia,3,2,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Masahiro Tanaka,1,0,0,Derek Dietrich,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Masahiro Tanaka,2,1,2,Miguel Rojas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Masahiro Tanaka,2,0,1,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Masahiro Tanaka,2,4,0,Justin Bour,['Justin Bour'],['Starlin Castro'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+5,top,3,"['Starlin Castro', 'Justin Bour']",Masahiro Tanaka,2,3,1,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,7,3,N/A,N/A
+5,top,0,[],Masahiro Tanaka,2,1,1,Brian Anderson,['Brian Anderson'],['N/A'],['N/A'],Hit By Pitch,N/A,0,7,N/A,N/A,N/A
+5,top,0,[],Masahiro Tanaka,3,0,3,Tomas Telis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Jarlin Garcia,1,3,2,Tyler Austin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Jarlin Garcia,1,2,2,Miguel Andujar,['N/A'],['Miguel Andujar'],['N/A'],Double,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Jarlin Garcia,2,3,3,Brett Gardner,['N/A'],['N/A'],['Miguel Andujar'],Strikeout,N/A,0,7,N/A,N/A,N/A
+5,bottom,0,[],Jarlin Garcia,3,3,2,Aaron Judge,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Luis Cessa,1,1,1,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Luis Cessa,2,0,3,JB Shuck,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,top,0,[],Luis Cessa,3,1,3,Derek Dietrich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Tayron Guerrero,1,2,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Tayron Guerrero,1,4,0,Didi Gregorius,['Didi Gregorius'],['N/A'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Tayron Guerrero,1,0,2,Gary Sanchez,['Gary Sanchez'],['Didi Gregorius'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Tayron Guerrero,1,4,1,Aaron Hicks,['Aaron Hicks'],['Gary Sanchez'],['Didi Gregorius'],Walk,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Tayron Guerrero,2,0,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+6,bottom,0,[],Tayron Guerrero,3,1,3,Tyler Austin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+7,top,0,[],Luis Cessa,0,0,0,Miguel Rojas,['Miguel Rojas'],['N/A'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+7,top,0,[],Luis Cessa,1,0,1,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Forceout,N/A,0,7,N/A,N/A,N/A
+7,top,0,[],Luis Cessa,3,2,0,Justin Bour,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,7,N/A,N/A,N/A
+7,bottom,0,[],Drew Steckenrider,1,2,2,Miguel Andujar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+7,bottom,0,[],Drew Steckenrider,2,3,2,Brett Gardner,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,7,N/A,N/A,N/A
+7,bottom,0,[],Drew Steckenrider,3,1,3,Aaron Judge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,7,N/A,N/A,N/A
+8,top,0,[],Luis Cessa,0,1,2,J.T. Realmuto,['J.T. Realmuto'],['N/A'],['N/A'],Single,N/A,0,7,N/A,N/A,N/A
+8,top,0,[],Luis Cessa,0,1,0,Brian Anderson,['N/A'],[],['N/A'],Wild Pitch,N/A,0,7,N/A,N/A,N/A
+8,top,0,[],Luis Cessa,0,4,1,Brian Anderson,['Brian Anderson'],['J.T. Realmuto'],['N/A'],Walk,N/A,0,7,N/A,N/A,N/A
+8,top,1,['J.T. Realmuto'],Luis Cessa,0,0,1,Tomas Telis,['Tomas Telis'],['N/A'],['Brian Anderson'],Single,N/A,0,8,1,N/A,N/A
+8,top,1,['Brian Anderson'],Chad Green,1,3,2,Cameron Maybin,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,9,1,N/A,N/A
+8,top,0,[],Chad Green,2,0,3,JB Shuck,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+8,top,0,[],Chad Green,3,1,1,Derek Dietrich,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,9,N/A,N/A,N/A
+8,bottom,0,[],Kyle Barraclough,1,1,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+8,bottom,0,[],Kyle Barraclough,1,3,2,Didi Gregorius,['N/A'],['Didi Gregorius'],['N/A'],Double,N/A,0,9,N/A,N/A,N/A
+8,bottom,0,[],Kyle Barraclough,2,2,2,Gary Sanchez,['N/A'],['N/A'],['Didi Gregorius'],Groundout,N/A,0,9,N/A,N/A,N/A
+8,bottom,0,[],Kyle Barraclough,3,2,3,Aaron Hicks,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+9,top,0,[],David Robertson,1,2,3,Miguel Rojas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+9,top,0,[],David Robertson,2,2,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+9,top,0,[],David Robertson,3,1,3,Justin Bour,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+9,bottom,0,[],Brad Ziegler,1,1,2,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,9,N/A,N/A,N/A
+9,bottom,0,[],Brad Ziegler,2,2,3,Tyler Austin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,9,N/A,N/A,N/A
+9,bottom,1,[],Brad Ziegler,2,0,1,Miguel Andujar,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,9,1,N/A,N/A
+9,bottom,0,[],Brad Ziegler,3,2,3,Brett Gardner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A

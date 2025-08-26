@@ -1,0 +1,87 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Eduardo Rodriguez,1,3,3,Matt Duffy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Eduardo Rodriguez,2,2,3,Kevin Kiermaier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Eduardo Rodriguez,3,3,3,Carlos Gomez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Andrew Kittredge,0,1,0,Mookie Betts,['N/A'],['Mookie Betts'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Andrew Kittredge,1,0,1,Andrew Benintendi,['N/A'],['N/A'],['Mookie Betts'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Mookie Betts'],Andrew Kittredge,2,3,2,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Andrew Kittredge,3,1,2,J.D. Martinez,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+2,top,1,[],Eduardo Rodriguez,0,3,1,C.J. Cron,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+2,top,0,[],Eduardo Rodriguez,1,2,3,Daniel Robertson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Eduardo Rodriguez,2,2,3,Brad Miller,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Eduardo Rodriguez,3,0,1,Jesus Sucre,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Andrew Kittredge,0,1,2,Xander Bogaerts,['Xander Bogaerts'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Andrew Kittredge,1,0,0,Mitch Moreland,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Andrew Kittredge,2,3,2,Eduardo Nunez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Andrew Kittredge,3,2,3,Rafael Devers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Eduardo Rodriguez,1,2,2,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Eduardo Rodriguez,1,4,2,Rob Refsnyder,['Rob Refsnyder'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Eduardo Rodriguez,1,2,1,Matt Duffy,['Matt Duffy'],['Rob Refsnyder'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Eduardo Rodriguez,2,3,3,Kevin Kiermaier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,1,['Rob Refsnyder'],Eduardo Rodriguez,2,0,1,Carlos Gomez,['N/A'],['Carlos Gomez'],['Matt Duffy'],Double,N/A,1,2,1,N/A,N/A
+3,top,0,[],Eduardo Rodriguez,3,2,3,C.J. Cron,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Ryan Yarbrough,1,2,2,Christian Vazquez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Ryan Yarbrough,2,2,2,Mookie Betts,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Ryan Yarbrough,3,1,1,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Eduardo Rodriguez,0,0,2,Daniel Robertson,['Daniel Robertson'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Eduardo Rodriguez,0,4,0,Brad Miller,['Brad Miller'],['Daniel Robertson'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Eduardo Rodriguez,1,0,0,Jesus Sucre,['N/A'],['Brad Miller'],['Daniel Robertson'],Groundout,N/A,1,2,N/A,N/A,N/A
+4,top,1,['Daniel Robertson'],Eduardo Rodriguez,1,2,1,Adeiny Hechavarria,['Adeiny Hechavarria'],['N/A'],['N/A'],Single,N/A,1,3,1,N/A,N/A
+4,top,0,[],Eduardo Rodriguez,2,3,2,Rob Refsnyder,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Hector Velazquez,2,0,2,Matt Duffy,['Matt Duffy'],['Adeiny Hechavarria'],['Brad Miller'],Single,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Hector Velazquez,3,3,2,Kevin Kiermaier,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Ryan Yarbrough,0,4,2,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Ryan Yarbrough,1,2,1,J.D. Martinez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Ryan Yarbrough,2,2,2,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Ryan Yarbrough,3,0,0,Mitch Moreland,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Hector Velazquez,1,0,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Hector Velazquez,2,1,0,C.J. Cron,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Hector Velazquez,2,2,2,Daniel Robertson,['Daniel Robertson'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],N/A,2,1,2,Brad Miller,['N/A'],['Daniel Robertson'],['N/A'],Stolen Base 2B,N/A,1,3,N/A,N/A,N/A
+5,top,1,['Daniel Robertson'],Hector Velazquez,2,1,2,Brad Miller,['Brad Miller'],['Daniel Robertson'],['N/A'],Single,N/A,1,4,1,N/A,N/A
+5,top,0,[],Hector Velazquez,3,0,1,Jesus Sucre,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Ryan Yarbrough,0,4,2,Eduardo Nunez,['Eduardo Nunez'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Ryan Yarbrough,1,1,2,Rafael Devers,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Ryan Yarbrough,1,0,0,Christian Vazquez,['Christian Vazquez'],['Eduardo Nunez'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Ryan Yarbrough,1,4,1,Mookie Betts,['Mookie Betts'],['Christian Vazquez'],['Eduardo Nunez'],Walk,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Ryan Yarbrough,2,3,3,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+5,bottom,1,['Eduardo Nunez'],Ryan Yarbrough,2,1,1,Hanley Ramirez,['Hanley Ramirez'],['Mookie Betts'],['Christian Vazquez'],Single,N/A,2,4,1,N/A,N/A
+5,bottom,0,[],Ryan Yarbrough,3,1,3,J.D. Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Hector Velazquez,1,3,1,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Hector Velazquez,2,0,3,Rob Refsnyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Hector Velazquez,2,4,0,Matt Duffy,['Matt Duffy'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,top,1,['Matt Duffy'],Bobby Poyner,2,0,0,Kevin Kiermaier,['N/A'],['N/A'],['Kevin Kiermaier'],Triple,N/A,2,5,1,N/A,N/A
+6,top,0,[],Bobby Poyner,3,2,3,Carlos Gomez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Ryan Yarbrough,1,1,2,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Ryan Yarbrough,2,1,3,Mitch Moreland,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Ryan Yarbrough,3,0,0,Eduardo Nunez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Brian Johnson,1,1,3,C.J. Cron,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Brian Johnson,1,4,1,Daniel Robertson,['Daniel Robertson'],['N/A'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+7,top,1,['Daniel Robertson'],Brian Johnson,1,0,2,Joey Wendle,['N/A'],['N/A'],['Joey Wendle'],Triple,N/A,2,6,1,N/A,N/A
+7,top,1,['Joey Wendle'],Heath Hembree,2,0,0,Jesus Sucre,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,7,1,N/A,N/A
+7,top,0,[],Heath Hembree,3,0,1,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Jose Alvarado,0,4,2,Rafael Devers,['Rafael Devers'],['N/A'],['N/A'],Walk,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Jose Alvarado,1,0,1,Christian Vazquez,['N/A'],['Rafael Devers'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Jose Alvarado,2,2,2,Mookie Betts,['N/A'],['N/A'],['Rafael Devers'],Pop Out,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Jose Alvarado,3,0,1,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Carson Smith,1,1,1,Mallex Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Carson Smith,2,1,1,Matt Duffy,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Carson Smith,2,4,2,Kevin Kiermaier,['Kevin Kiermaier'],['N/A'],['N/A'],Walk,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Carson Smith,2,0,0,Carlos Gomez,['Carlos Gomez'],['Kevin Kiermaier'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Carson Smith,2,4,2,C.J. Cron,['C.J. Cron'],['Carlos Gomez'],['Kevin Kiermaier'],Walk,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Carson Smith,3,2,3,Daniel Robertson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Matt Andriese,0,2,1,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Matt Andriese,0,3,2,N/A,['N/A'],['Hanley Ramirez'],['N/A'],Wild Pitch,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Matt Andriese,1,3,3,J.D. Martinez,['N/A'],['Hanley Ramirez'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Matt Andriese,2,1,1,Brock Holt,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+8,bottom,1,['Hanley Ramirez'],Matt Andriese,2,1,2,Mitch Moreland,['N/A'],['Mitch Moreland'],['N/A'],Double,N/A,3,7,1,N/A,N/A
+8,bottom,0,[],Matt Andriese,2,1,2,Eduardo Nunez,['Eduardo Nunez'],['N/A'],['Mitch Moreland'],Single,N/A,3,7,N/A,N/A,N/A
+8,bottom,2,"['Mitch Moreland', 'Eduardo Nunez']",Matt Andriese,2,0,1,Rafael Devers,['N/A'],['Rafael Devers'],['N/A'],Double,N/A,5,7,2,N/A,N/A
+8,bottom,1,['Rafael Devers'],Alex Colome,2,1,2,Christian Vazquez,['Christian Vazquez'],['N/A'],['N/A'],Single,N/A,6,7,1,N/A,N/A
+8,bottom,0,[],Alex Colome,2,1,0,Mookie Betts,['N/A'],['Christian Vazquez'],['N/A'],Wild Pitch,N/A,6,7,N/A,N/A,N/A
+8,bottom,1,['Christian Vazquez'],Alex Colome,2,2,0,Mookie Betts,['N/A'],"['Christian Vazquez', 'Mookie Betts']",['N/A'],Single,N/A,7,7,1,N/A,N/A
+8,bottom,1,['Mookie Betts'],Alex Colome,2,1,1,Andrew Benintendi,['N/A'],['Andrew Benintendi'],['N/A'],Double,N/A,8,7,1,N/A,N/A
+8,bottom,0,[],Alex Colome,3,1,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,7,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,1,0,2,Joey Wendle,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,7,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,2,2,2,Denard Span,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,7,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,3,2,1,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,7,N/A,N/A,N/A

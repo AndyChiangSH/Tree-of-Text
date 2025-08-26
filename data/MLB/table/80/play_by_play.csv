@@ -1,0 +1,88 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Greg Maddux,0,0,1,Juan Pierre,['Juan Pierre'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,0,1,0,Andre Ethier,['N/A'],['Juan Pierre'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Greg Maddux,1,2,2,Andre Ethier,['N/A'],['Juan Pierre'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Greg Maddux,2,3,2,Jeff Kent,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Juan Pierre'],Greg Maddux,2,0,0,Russell Martin,['Russell Martin'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],N/A,2,2,0,James Loney,['N/A'],['Russell Martin'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Greg Maddux,2,4,2,James Loney,['James Loney'],['Russell Martin'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Greg Maddux,3,0,1,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Clayton Kershaw,0,2,1,Scott Hairston,['Scott Hairston'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Clayton Kershaw,1,0,1,Edgar Gonzalez,['N/A'],['Edgar Gonzalez'],['N/A'],Forceout,Error,0,1,N/A,N/A,Jeff Kent
+1,bottom,0,[],Clayton Kershaw,2,2,3,Brian Giles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Clayton Kershaw,2,4,0,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Clayton Kershaw,3,0,3,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Greg Maddux,1,0,1,Blake DeWitt,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Greg Maddux,2,0,2,Angel Berroa,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Greg Maddux,3,0,3,Clayton Kershaw,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Clayton Kershaw,1,0,1,Khalil Greene,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Clayton Kershaw,1,0,0,Justin Huber,['Justin Huber'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Clayton Kershaw,2,0,2,Michael Barrett,['Michael Barrett'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Clayton Kershaw,3,1,1,Greg Maddux,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Greg Maddux,1,1,1,Juan Pierre,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Greg Maddux,2,0,0,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Greg Maddux,3,1,0,Jeff Kent,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Clayton Kershaw,1,2,1,Scott Hairston,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Clayton Kershaw,1,4,2,Edgar Gonzalez,['Edgar Gonzalez'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Clayton Kershaw,1,3,0,Brian Giles,['N/A'],['Edgar Gonzalez'],['N/A'],Wild Pitch,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Clayton Kershaw,1,4,0,Brian Giles,['Brian Giles'],['Edgar Gonzalez'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,bottom,1,['Edgar Gonzalez'],Clayton Kershaw,1,1,2,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['Brian Giles'],Single,N/A,1,1,1,N/A,N/A
+3,bottom,0,[],Clayton Kershaw,2,3,3,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Clayton Kershaw,3,1,2,Khalil Greene,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Greg Maddux,0,0,0,Russell Martin,['Russell Martin'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Greg Maddux,0,0,0,James Loney,['James Loney'],['N/A'],['Russell Martin'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Greg Maddux,2,0,1,Matt Kemp,['N/A'],['N/A'],['N/A'],Double Play,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Greg Maddux,3,2,1,Blake DeWitt,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Clayton Kershaw,1,0,1,Justin Huber,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Clayton Kershaw,2,0,0,Michael Barrett,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Clayton Kershaw,3,1,3,Greg Maddux,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Greg Maddux,0,0,2,Angel Berroa,['Angel Berroa'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Greg Maddux,1,0,1,Clayton Kershaw,['N/A'],['Angel Berroa'],['N/A'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Greg Maddux,2,0,1,Juan Pierre,['N/A'],['N/A'],['Angel Berroa'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Greg Maddux,2,4,1,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Greg Maddux,3,0,0,Jeff Kent,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Clayton Kershaw,0,1,2,Scott Hairston,['Scott Hairston'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Clayton Kershaw,1,1,1,Edgar Gonzalez,['Edgar Gonzalez'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Clayton Kershaw,2,1,1,Brian Giles,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Clayton Kershaw,3,1,3,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Greg Maddux,1,1,0,Russell Martin,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Greg Maddux,1,4,1,James Loney,['James Loney'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Greg Maddux,2,1,2,Matt Kemp,['N/A'],['James Loney'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Greg Maddux,3,0,0,Blake DeWitt,['N/A'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Clayton Kershaw,0,4,2,Kevin Kouzmanoff,['Kevin Kouzmanoff'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Clayton Kershaw,0,1,0,Khalil Greene,['Khalil Greene'],['Kevin Kouzmanoff'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Clayton Kershaw,1,0,0,Justin Huber,['N/A'],['Khalil Greene'],['Kevin Kouzmanoff'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+6,bottom,1,['Kevin Kouzmanoff'],Scott Proctor,1,1,0,Michael Barrett,['N/A'],['N/A'],['Khalil Greene'],Wild Pitch,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Scott Proctor,1,2,1,Michael Barrett,['Michael Barrett'],['N/A'],['Khalil Greene'],Field Error,N/A,2,1,N/A,N/A,Scott Proctor
+6,bottom,0,[],Scott Proctor,2,0,3,Tony Clark,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Scott Proctor,3,3,2,Scott Hairston,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Bryan Corey,1,0,2,Angel Berroa,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Bryan Corey,1,0,0,Delwyn Young,['N/A'],['Delwyn Young'],['N/A'],Double,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Justin Hampson,1,2,2,Juan Pierre,['Juan Pierre'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Justin Hampson,1,4,0,Andre Ethier,['Andre Ethier'],['Juan Pierre'],['Delwyn Young'],Walk,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Cla Meredith,2,0,0,Jeff Kent,['Jeff Kent'],['Andre Ethier'],['Juan Pierre'],Forceout,N/A,2,1,N/A,N/A,N/A
+7,top,2,"['Juan Pierre', 'Andre Ethier']",Heath Bell,2,1,2,Russell Martin,['N/A'],['Russell Martin'],['Jeff Kent'],Single,N/A,2,3,2,N/A,N/A
+7,top,0,[],Heath Bell,2,4,0,James Loney,['James Loney'],['N/A'],['N/A'],Intent Walk,N/A,2,3,N/A,N/A,N/A
+7,top,2,"['Jeff Kent', 'Russell Martin']",Heath Bell,2,2,2,Matt Kemp,['Matt Kemp'],['James Loney'],['N/A'],Single,N/A,2,5,2,N/A,N/A
+7,top,0,[],Heath Bell,3,1,1,Blake DeWitt,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Joe Beimel,1,0,0,Edgar Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Joe Beimel,1,1,1,Brian Giles,['Brian Giles'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Joe Beimel,2,2,2,Adrian Gonzalez,['N/A'],['Brian Giles'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Jonathan Broxton,3,0,3,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Joe Thatcher,0,4,0,Angel Berroa,['Angel Berroa'],['N/A'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Joe Thatcher,2,1,1,Jonathan Broxton,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Joe Thatcher,3,1,2,Juan Pierre,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Broxton,1,0,3,Khalil Greene,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Broxton,2,3,3,Jody Gerut,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Broxton,3,1,3,Michael Barrett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],Joe Thatcher,0,1,2,Andre Ethier,['N/A'],['Andre Ethier'],['N/A'],Double,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],Joe Thatcher,0,1,2,Jeff Kent,['Jeff Kent'],['N/A'],['Andre Ethier'],Single,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],Joe Thatcher,1,2,1,Russell Martin,['Russell Martin'],['Luis Maza'],['N/A'],Fielders Choice Out,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],Joe Thatcher,1,1,2,James Loney,['James Loney'],['Russell Martin'],['Luis Maza'],Single,N/A,2,5,N/A,N/A,N/A
+9,top,2,"['Luis Maza', 'Russell Martin']",Carlos Guevara,2,3,1,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Forceout,Error,2,7,1,1,Adrian Gonzalez
+9,top,0,[],Carlos Guevara,3,2,3,Blake DeWitt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Cory Wade,1,2,3,Paul McAnulty,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Cory Wade,2,0,2,Scott Hairston,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Cory Wade,2,0,1,Edgar Gonzalez,['Edgar Gonzalez'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Cory Wade,2,0,0,Brian Giles,['Brian Giles'],['Edgar Gonzalez'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Cory Wade,3,0,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A

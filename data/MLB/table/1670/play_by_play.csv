@@ -1,0 +1,87 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Chris Stratton,1,2,2,Jesse Winker,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chris Stratton,2,2,3,Jose Peraza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chris Stratton,3,0,2,Joey Votto,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Sal Romano,1,2,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Sal Romano,1,3,2,Andrew McCutchen,['N/A'],['Andrew McCutchen'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Sal Romano,1,4,2,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Sal Romano,2,1,0,Brandon Belt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Andrew McCutchen'],Sal Romano,2,1,1,Evan Longoria,['Evan Longoria'],['Buster Posey'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,2,"['Buster Posey', 'Evan Longoria']",Sal Romano,2,0,0,Brandon Crawford,['N/A'],['Brandon Crawford'],['N/A'],Double,N/A,3,0,2,N/A,N/A
+1,bottom,0,[],Sal Romano,3,2,0,Austin Jackson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Chris Stratton,1,0,1,Scooter Gennett,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Chris Stratton,2,0,2,Eugenio Suarez,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Chris Stratton,2,2,0,Scott Schebler,['N/A'],['Scott Schebler'],['N/A'],Double,N/A,3,0,N/A,N/A,N/A
+2,top,1,['Scott Schebler'],Chris Stratton,2,1,2,Tucker Barnhart,['Tucker Barnhart'],['N/A'],['N/A'],Single,N/A,3,1,1,N/A,N/A
+2,top,0,[],Chris Stratton,2,0,1,Sal Romano,['N/A'],['Sal Romano'],['Tucker Barnhart'],Double,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Chris Stratton,3,0,2,Billy Hamilton,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Sal Romano,1,2,0,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Sal Romano,2,3,3,Chris Stratton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Sal Romano,2,1,0,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+2,bottom,1,['Gregor Blanco'],Sal Romano,2,0,2,Andrew McCutchen,['N/A'],['Andrew McCutchen'],['N/A'],Double,N/A,4,1,1,N/A,N/A
+2,bottom,0,[],Sal Romano,3,0,1,Buster Posey,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+3,top,0,[],Chris Stratton,1,1,0,Jesse Winker,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+3,top,0,[],Chris Stratton,2,2,2,Jose Peraza,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,1,N/A,N/A,N/A
+3,top,0,[],Chris Stratton,2,1,1,Joey Votto,['N/A'],['Joey Votto'],['N/A'],Single,Error,4,1,N/A,N/A,Gregor Blanco
+3,top,0,[],Chris Stratton,3,1,2,Scooter Gennett,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Sal Romano,0,2,2,Brandon Belt,['Brandon Belt'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Sal Romano,1,2,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Sal Romano,1,0,0,Brandon Crawford,['N/A'],['Brandon Crawford'],['Brandon Belt'],Double,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Sal Romano,1,4,2,Austin Jackson,['Austin Jackson'],['N/A'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+3,bottom,2,"['Brandon Belt', 'Brandon Crawford']",Sal Romano,1,1,2,Kelby Tomlinson,['Kelby Tomlinson'],['Austin Jackson'],['N/A'],Single,N/A,6,1,2,N/A,N/A
+3,bottom,0,[],Jackson Stephens,2,0,0,Chris Stratton,['N/A'],['Kelby Tomlinson'],['Austin Jackson'],Sac Bunt,N/A,6,1,N/A,N/A,N/A
+3,bottom,0,[],Jackson Stephens,3,2,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+4,top,0,[],Chris Stratton,1,1,2,Eugenio Suarez,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+4,top,0,[],Chris Stratton,1,1,2,Scott Schebler,['Scott Schebler'],['N/A'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+4,top,2,['Scott Schebler'],Chris Stratton,1,1,1,Tucker Barnhart,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,3,2,N/A,N/A
+4,top,0,[],Chris Stratton,1,4,0,Jackson Stephens,['Jackson Stephens'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Chris Stratton,2,2,2,Billy Hamilton,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Chris Stratton,3,0,0,Jesse Winker,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jackson Stephens,1,1,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jackson Stephens,1,2,1,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jackson Stephens,2,3,3,Brandon Belt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jackson Stephens,3,1,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Chris Stratton,0,0,1,Jose Peraza,['Jose Peraza'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Chris Stratton,0,1,0,Adam Duvall,['Adam Duvall'],['Jose Peraza'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Chris Stratton,2,1,2,Scooter Gennett,['N/A'],['N/A'],['Jose Peraza'],Grounded Into DP,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Chris Stratton,3,1,0,Eugenio Suarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+5,bottom,0,[],Jackson Stephens,1,0,0,Brandon Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+5,bottom,0,[],Jackson Stephens,2,2,1,Austin Jackson,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+5,bottom,0,[],Jackson Stephens,3,0,0,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,6,3,N/A,N/A,N/A
+6,top,1,[],Chris Stratton,0,0,0,Scott Schebler,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,4,1,N/A,N/A
+6,top,0,[],Chris Stratton,0,4,1,Tucker Barnhart,['Tucker Barnhart'],['N/A'],['N/A'],Walk,N/A,6,4,N/A,N/A,N/A
+6,top,0,[],Pierce Johnson,1,1,1,Rosell Herrera,['Rosell Herrera'],['N/A'],['N/A'],Forceout,N/A,6,4,N/A,N/A,N/A
+6,top,0,[],Pierce Johnson,3,3,3,Billy Hamilton,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Dylan Floro,0,4,2,Austin Slater,['Austin Slater'],['N/A'],['N/A'],Walk,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Dylan Floro,1,2,1,Gregor Blanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],N/A,1,2,2,Andrew McCutchen,['N/A'],['Austin Slater'],['N/A'],Stolen Base 2B,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Dylan Floro,1,2,2,Andrew McCutchen,['Andrew McCutchen'],['Austin Slater'],['Austin Slater'],Fielders Choice,Error,6,4,N/A,N/A,Jose Peraza
+6,bottom,1,['Austin Slater'],Dylan Floro,1,1,0,Buster Posey,['N/A'],['Buster Posey'],['Andrew McCutchen'],Double,N/A,7,4,1,N/A,N/A
+6,bottom,2,"['Andrew McCutchen', 'Buster Posey']",Dylan Floro,1,0,0,Brandon Belt,['N/A'],['Brandon Belt'],['N/A'],Double,N/A,9,4,2,N/A,N/A
+6,bottom,0,[],Dylan Floro,2,3,1,Evan Longoria,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,4,N/A,N/A,N/A
+6,bottom,0,[],Dylan Floro,2,4,0,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Intent Walk,N/A,9,4,N/A,N/A,N/A
+6,bottom,0,[],Dylan Floro,2,0,1,Austin Jackson,['Austin Jackson'],['Brandon Crawford'],['Brandon Belt'],Field Error,N/A,9,4,N/A,N/A,Jose Peraza
+6,bottom,0,[],Dylan Floro,3,3,2,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,4,N/A,N/A,N/A
+7,top,0,[],Cory Gearrin,0,0,1,Jesse Winker,['N/A'],['Jesse Winker'],['N/A'],Double,N/A,9,4,N/A,N/A,N/A
+7,top,0,[],Cory Gearrin,1,0,0,Jose Peraza,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,4,N/A,N/A,N/A
+7,top,0,[],Cory Gearrin,1,0,0,Adam Duvall,['Adam Duvall'],['N/A'],['N/A'],Hit By Pitch,N/A,9,4,N/A,N/A,N/A
+7,top,0,[],Cory Gearrin,3,1,0,Scooter Gennett,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,9,4,N/A,N/A,N/A
+7,bottom,0,[],Dylan Floro,0,0,2,Austin Slater,['Austin Slater'],['N/A'],['N/A'],Single,N/A,9,4,N/A,N/A,N/A
+7,bottom,0,[],Dylan Floro,1,0,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,4,N/A,N/A,N/A
+7,bottom,0,[],N/A,1,1,1,Andrew McCutchen,['N/A'],['Austin Slater'],['N/A'],Stolen Base 2B,N/A,9,4,N/A,N/A,N/A
+7,bottom,0,[],Dylan Floro,2,3,2,Andrew McCutchen,['N/A'],['Austin Slater'],['Austin Slater'],Flyout,N/A,9,4,N/A,N/A,N/A
+7,bottom,0,[],Dylan Floro,3,1,3,Buster Posey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,4,N/A,N/A,N/A
+8,top,0,[],Cory Gearrin,1,0,3,Eugenio Suarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,4,N/A,N/A,N/A
+8,top,0,[],Cory Gearrin,2,1,1,Scott Schebler,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,4,N/A,N/A,N/A
+8,top,0,[],Cory Gearrin,3,3,2,Tucker Barnhart,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,4,N/A,N/A,N/A
+8,bottom,1,[],Austin Brice,0,1,1,Brandon Belt,['N/A'],['N/A'],['N/A'],Home Run,N/A,10,4,1,N/A,N/A
+8,bottom,0,[],Austin Brice,0,0,1,Evan Longoria,['N/A'],['Evan Longoria'],['N/A'],Double,N/A,10,4,N/A,N/A,N/A
+8,bottom,0,[],Austin Brice,1,1,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,10,4,N/A,N/A,N/A
+8,bottom,0,[],Austin Brice,2,3,1,Pablo Sandoval,['N/A'],['N/A'],['Evan Longoria'],Groundout,N/A,10,4,N/A,N/A,N/A
+8,bottom,0,[],Austin Brice,3,1,0,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Flyout,N/A,10,4,N/A,N/A,N/A
+9,top,0,[],Jose A. Valdez,1,2,3,Alex Blandino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,4,N/A,N/A,N/A
+9,top,0,[],Jose A. Valdez,1,2,2,Billy Hamilton,['Billy Hamilton'],['N/A'],['N/A'],Single,N/A,10,4,N/A,N/A,N/A
+9,top,0,[],Jose A. Valdez,1,1,1,Jesse Winker,['Jesse Winker'],['Billy Hamilton'],['N/A'],Single,N/A,10,4,N/A,N/A,N/A
+9,top,0,[],Jose A. Valdez,2,0,3,Jose Peraza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,4,N/A,N/A,N/A
+9,top,3,"['Billy Hamilton', 'Jesse Winker']",Jose A. Valdez,2,0,1,Adam Duvall,['N/A'],['N/A'],['N/A'],Home Run,N/A,10,7,3,N/A,N/A
+9,top,0,[],Jose A. Valdez,3,1,0,Scooter Gennett,['N/A'],['N/A'],['N/A'],Flyout,N/A,10,7,N/A,N/A,N/A

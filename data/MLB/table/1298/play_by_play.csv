@@ -1,0 +1,83 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],James Shields,0,1,1,John Jaso,['John Jaso'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],James Shields,1,0,0,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],James Shields,3,0,1,David Freese,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gerrit Cole,1,3,2,Jon Jay,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gerrit Cole,2,3,2,Wil Myers,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gerrit Cole,3,2,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],James Shields,1,0,2,Starling Marte,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],James Shields,2,2,2,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],James Shields,2,1,1,Gregory Polanco,['N/A'],['Gregory Polanco'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Gregory Polanco'],James Shields,2,3,2,Josh Harrison,['N/A'],['Josh Harrison'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+2,top,0,[],James Shields,3,1,3,Jordy Mercer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Gerrit Cole,1,1,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Gerrit Cole,2,1,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Gerrit Cole,3,3,2,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],James Shields,1,2,3,Gerrit Cole,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],James Shields,2,3,2,John Jaso,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],James Shields,2,4,0,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],James Shields,3,3,1,David Freese,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gerrit Cole,1,0,3,Jemile Weeks,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gerrit Cole,1,0,0,Adam Rosales,['Adam Rosales'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gerrit Cole,2,2,1,James Shields,['N/A'],['Adam Rosales'],['N/A'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gerrit Cole,2,2,1,Jon Jay,['Jon Jay'],['N/A'],['Adam Rosales'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Gerrit Cole,3,1,3,Wil Myers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],James Shields,0,3,1,Starling Marte,['Starling Marte'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],James Shields,1,0,2,Francisco Cervelli,['N/A'],['Starling Marte'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],James Shields,2,0,0,Gregory Polanco,['N/A'],['N/A'],['Starling Marte'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,1,['Starling Marte'],James Shields,2,1,0,Josh Harrison,['Josh Harrison'],['N/A'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+4,top,0,[],N/A,2,2,2,Jordy Mercer,['N/A'],['Josh Harrison'],['N/A'],Stolen Base 2B,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],James Shields,2,3,2,Jordy Mercer,['N/A'],['N/A'],['Josh Harrison'],Wild Pitch,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],James Shields,2,4,2,Jordy Mercer,['Jordy Mercer'],['Josh Harrison'],['Josh Harrison'],Walk,N/A,0,2,N/A,N/A,N/A
+4,top,1,['Josh Harrison'],N/A,2,1,2,Gerrit Cole,['N/A'],['Jordy Mercer'],['N/A'],Wild Pitch,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],James Shields,3,3,3,Gerrit Cole,['N/A'],['Jordy Mercer'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Gerrit Cole,1,2,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Gerrit Cole,1,1,1,Melvin Upton,['Melvin Upton'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],N/A,1,1,1,Alexei Ramirez,['N/A'],['Melvin Upton'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Gerrit Cole,2,1,2,Alexei Ramirez,['N/A'],['Melvin Upton'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Gerrit Cole,3,1,3,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],James Shields,1,1,2,John Jaso,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],James Shields,2,1,0,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],James Shields,3,0,3,David Freese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Gerrit Cole,1,3,1,Jemile Weeks,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Gerrit Cole,2,1,3,Adam Rosales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Gerrit Cole,3,1,3,James Shields,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],James Shields,1,1,2,Starling Marte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],James Shields,2,3,3,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],James Shields,3,2,1,Gregory Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Gerrit Cole,1,0,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Gerrit Cole,1,3,2,Wil Myers,['Wil Myers'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Gerrit Cole,2,3,1,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Gerrit Cole,3,3,2,Melvin Upton,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Leonel Campos,0,0,3,Josh Harrison,['Josh Harrison'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Leonel Campos,0,2,0,Jordy Mercer,['Jordy Mercer'],['Josh Harrison'],['N/A'],Hit By Pitch,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Leonel Campos,1,1,0,Gerrit Cole,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,0,3,N/A,N/A,N/A
+7,top,1,['Josh Harrison'],Leonel Campos,1,0,0,John Jaso,['N/A'],['John Jaso'],['Jordy Mercer'],Double,N/A,0,4,1,N/A,N/A
+7,top,0,[],Leonel Campos,1,4,0,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Intent Walk,N/A,0,4,N/A,N/A,N/A
+7,top,2,"['Jordy Mercer', 'Sean Rodriguez']",Leonel Campos,1,1,1,David Freese,['David Freese'],['N/A'],['Andrew McCutchen'],Single,N/A,0,6,2,N/A,N/A
+7,top,1,['Andrew McCutchen'],Leonel Campos,1,1,1,Starling Marte,['N/A'],['Starling Marte'],['David Freese'],Double,N/A,0,7,1,N/A,N/A
+7,top,2,"['David Freese', 'Starling Marte']",Leonel Campos,1,2,2,Francisco Cervelli,['Francisco Cervelli'],['N/A'],['N/A'],Single,N/A,0,9,2,N/A,N/A
+7,top,0,[],Brad Hand,1,2,1,Gregory Polanco,['N/A'],['Gregory Polanco'],['Francisco Cervelli'],Double,N/A,0,9,N/A,N/A,N/A
+7,top,0,[],Brad Hand,1,4,1,Josh Harrison,['Josh Harrison'],['N/A'],['N/A'],Walk,N/A,0,9,N/A,N/A,N/A
+7,top,1,['Francisco Cervelli'],Brad Hand,2,0,1,Jordy Mercer,['Jordy Mercer'],['N/A'],['Gregory Polanco'],Forceout,N/A,0,10,1,N/A,N/A
+7,top,0,[],Brad Hand,2,1,2,Gerrit Cole,['Gerrit Cole'],['Jordy Mercer'],['N/A'],Hit By Pitch,N/A,0,10,N/A,N/A,N/A
+7,top,1,['Gregory Polanco'],Brad Hand,2,4,2,Sean Rodriguez,['Sean Rodriguez'],['Gerrit Cole'],['Jordy Mercer'],Walk,N/A,0,11,1,N/A,N/A
+7,top,0,[],Brad Hand,3,1,0,Matt Joyce,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,11,N/A,N/A,N/A
+7,bottom,0,[],Neftali Feliz,1,2,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,11,N/A,N/A,N/A
+7,bottom,0,[],Neftali Feliz,2,0,3,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,11,N/A,N/A,N/A
+7,bottom,0,[],Neftali Feliz,3,2,1,Jemile Weeks,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,11,N/A,N/A,N/A
+8,top,0,[],Brad Hand,1,1,0,Cole Figueroa,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,11,N/A,N/A,N/A
+8,top,0,[],Brad Hand,2,2,1,Starling Marte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,11,N/A,N/A,N/A
+8,top,0,[],Brad Hand,2,2,1,Francisco Cervelli,['Francisco Cervelli'],['N/A'],['N/A'],Single,N/A,0,11,N/A,N/A,N/A
+8,top,0,[],Brad Hand,3,1,1,Gregory Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,11,N/A,N/A,N/A
+8,bottom,0,[],Rob Scahill,0,1,0,Adam Rosales,['Adam Rosales'],['N/A'],['N/A'],Hit By Pitch,N/A,0,11,N/A,N/A,N/A
+8,bottom,0,[],Rob Scahill,1,1,2,Jabari Blash,['N/A'],['Adam Rosales'],['N/A'],Groundout,N/A,0,11,N/A,N/A,N/A
+8,bottom,1,['Adam Rosales'],Rob Scahill,1,1,0,Jon Jay,['Jon Jay'],['N/A'],['N/A'],Single,N/A,1,11,1,N/A,N/A
+8,bottom,0,[],Rob Scahill,2,3,3,Wil Myers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,11,N/A,N/A,N/A
+8,bottom,0,[],Rob Scahill,3,3,2,Travis Jankowski,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,11,N/A,N/A,N/A
+9,top,0,[],Brandon Maurer,1,1,2,Josh Harrison,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,11,N/A,N/A,N/A
+9,top,0,[],Brandon Maurer,2,1,2,Jordy Mercer,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,11,N/A,N/A,N/A
+9,top,0,[],Brandon Maurer,3,1,3,Rob Scahill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,11,N/A,N/A,N/A
+9,bottom,0,[],Mark Melancon,1,3,3,Brett Wallace,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,11,N/A,N/A,N/A
+9,bottom,0,[],Mark Melancon,2,2,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,11,N/A,N/A,N/A
+9,bottom,0,[],Mark Melancon,3,0,1,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,11,N/A,N/A,N/A

@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Carlos Martinez,1,2,2,Jean Segura,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Carlos Martinez,2,0,1,Michael Bourn,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Carlos Martinez,2,4,1,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Carlos Martinez,2,2,2,Jake Lamb,['N/A'],['Jake Lamb'],['Paul Goldschmidt'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Carlos Martinez,2,4,1,Yasmany Tomas,['Yasmany Tomas'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Paul Goldschmidt', 'Jake Lamb']",Carlos Martinez,2,2,1,Chris Herrmann,['Chris Herrmann'],['Yasmany Tomas'],['N/A'],Single,N/A,0,2,2,N/A,N/A
+1,top,0,[],Carlos Martinez,3,1,1,Brandon Drury,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Patrick Corbin,0,3,1,Matt Carpenter,['N/A'],['N/A'],['Matt Carpenter'],Double,Error,0,2,N/A,N/A,Michael Bourn
+1,bottom,1,['Matt Carpenter'],Patrick Corbin,1,3,1,Aledmys Diaz,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,1,N/A,N/A
+1,bottom,0,[],Patrick Corbin,2,1,1,Matt Holliday,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+1,bottom,0,[],Patrick Corbin,2,1,1,Stephen Piscotty,['Stephen Piscotty'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+1,bottom,0,[],Patrick Corbin,2,0,0,Yadier Molina,['Yadier Molina'],['Stephen Piscotty'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+1,bottom,0,[],Patrick Corbin,3,1,0,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Carlos Martinez,0,0,0,Chris Owings,['Chris Owings'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Carlos Martinez,1,0,3,Patrick Corbin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Carlos Martinez,3,2,1,Jean Segura,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Patrick Corbin,1,0,0,Jeremy Hazelbaker,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Patrick Corbin,1,2,1,Ruben Tejada,['Ruben Tejada'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Patrick Corbin,2,0,3,Carlos Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Patrick Corbin,3,2,3,Matt Carpenter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Carlos Martinez,1,1,3,Michael Bourn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Carlos Martinez,1,1,2,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Carlos Martinez,3,3,1,Jake Lamb,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Patrick Corbin,1,1,3,Aledmys Diaz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Patrick Corbin,2,1,0,Matt Holliday,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Patrick Corbin,2,4,2,Stephen Piscotty,['Stephen Piscotty'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Patrick Corbin,3,2,1,Yadier Molina,['N/A'],['N/A'],['N/A'],Runner Out,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Carlos Martinez,0,1,1,Yasmany Tomas,['Yasmany Tomas'],['N/A'],['N/A'],Hit By Pitch,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Carlos Martinez,2,1,0,Chris Herrmann,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Carlos Martinez,3,0,2,Brandon Drury,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Patrick Corbin,1,2,1,Yadier Molina,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Patrick Corbin,1,4,0,Jedd Gyorko,['Jedd Gyorko'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Patrick Corbin,2,1,3,Jeremy Hazelbaker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Patrick Corbin,3,0,1,Ruben Tejada,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Carlos Martinez,1,3,3,Chris Owings,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Carlos Martinez,1,1,0,Patrick Corbin,['N/A'],['Patrick Corbin'],['N/A'],Single,Error,1,2,N/A,N/A,Jeremy Hazelbaker
+5,top,1,['Patrick Corbin'],Carlos Martinez,1,2,1,Jean Segura,['N/A'],['Jean Segura'],['N/A'],Single,N/A,1,3,1,N/A,N/A
+5,top,1,['Jean Segura'],Carlos Martinez,1,0,2,Michael Bourn,['N/A'],['Michael Bourn'],['N/A'],Double,N/A,1,4,1,N/A,N/A
+5,top,0,[],Carlos Martinez,1,4,2,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+5,top,0,[],Carlos Martinez,2,1,0,Jake Lamb,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+5,top,0,[],Carlos Martinez,3,1,1,Yasmany Tomas,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Patrick Corbin,1,0,3,Kolten Wong,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Patrick Corbin,1,4,2,Matt Carpenter,['Matt Carpenter'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Patrick Corbin,2,1,3,Aledmys Diaz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Patrick Corbin,3,3,2,Matt Holliday,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Matt Bowman,1,2,2,Chris Herrmann,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Matt Bowman,2,1,2,Brandon Drury,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Matt Bowman,3,2,0,Chris Owings,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Patrick Corbin,1,1,0,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Patrick Corbin,2,0,0,Yadier Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Patrick Corbin,3,0,1,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Matt Bowman,1,1,3,Patrick Corbin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Matt Bowman,1,2,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Matt Bowman,2,3,2,Michael Bourn,['N/A'],['Jean Segura'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],N/A,2,2,2,Paul Goldschmidt,['N/A'],['N/A'],['Jean Segura'],Stolen Base 3B,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Matt Bowman,3,2,3,Paul Goldschmidt,['N/A'],['N/A'],['Jean Segura'],Strikeout,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Patrick Corbin,1,1,3,Jeremy Hazelbaker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Patrick Corbin,1,4,2,Ruben Tejada,['Ruben Tejada'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Tyler Clippard,1,4,2,Randal Grichuk,['Randal Grichuk'],['Ruben Tejada'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Tyler Clippard,2,3,1,Matt Carpenter,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+7,bottom,1,['Ruben Tejada'],Tyler Clippard,2,1,1,Aledmys Diaz,['Aledmys Diaz'],['Randal Grichuk'],['N/A'],Single,N/A,2,4,1,N/A,N/A
+7,bottom,0,[],Tyler Clippard,3,1,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Jonathan Broxton,0,2,2,Jake Lamb,['Jake Lamb'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Jonathan Broxton,0,4,2,Yasmany Tomas,['Yasmany Tomas'],['Jake Lamb'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Jonathan Broxton,1,0,0,Chris Herrmann,['N/A'],['Yasmany Tomas'],['Jake Lamb'],Sac Bunt,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Jonathan Broxton,1,4,0,Brandon Drury,['Brandon Drury'],['N/A'],['N/A'],Intent Walk,N/A,2,4,N/A,N/A,N/A
+8,top,2,"['Jake Lamb', 'Yasmany Tomas']",Jonathan Broxton,1,2,2,Chris Owings,['Chris Owings'],['Brandon Drury'],['N/A'],Single,N/A,2,6,2,N/A,N/A
+8,top,1,['Brandon Drury'],Jonathan Broxton,1,3,2,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['Chris Owings'],['N/A'],Single,N/A,2,7,1,N/A,N/A
+8,top,0,[],Dean Kiekhefer,2,2,2,Jean Segura,['Jean Segura'],['N/A'],['Chris Owings'],Forceout,N/A,2,7,N/A,N/A,N/A
+8,top,1,['Chris Owings'],Dean Kiekhefer,2,0,2,Michael Bourn,['Michael Bourn'],['N/A'],['Jean Segura'],Single,N/A,2,8,1,N/A,N/A
+8,top,1,['Jean Segura'],Dean Kiekhefer,2,2,0,Paul Goldschmidt,['Paul Goldschmidt'],['Michael Bourn'],['N/A'],Single,N/A,2,9,1,N/A,N/A
+8,top,0,[],Dean Kiekhefer,3,1,0,Jake Lamb,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Randall Delgado,0,4,2,Stephen Piscotty,['Stephen Piscotty'],['N/A'],['N/A'],Walk,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Randall Delgado,0,0,1,Eric Fryer,['Eric Fryer'],['Stephen Piscotty'],['N/A'],Single,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Randall Delgado,0,4,2,Jedd Gyorko,['Jedd Gyorko'],['Eric Fryer'],['Stephen Piscotty'],Walk,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Randall Delgado,1,1,2,Jeremy Hazelbaker,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Daniel Hudson,2,1,3,Ruben Tejada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,9,N/A,N/A,N/A
+8,bottom,0,[],Daniel Hudson,3,3,2,Matt Adams,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,9,N/A,N/A,N/A
+9,top,0,[],Ruben Tejada,1,2,0,Yasmany Tomas,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,9,N/A,N/A,N/A
+9,top,1,[],Ruben Tejada,1,3,1,Chris Herrmann,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,10,1,N/A,N/A
+9,top,1,[],Ruben Tejada,1,2,1,Brandon Drury,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,11,1,N/A,N/A
+9,top,0,[],Ruben Tejada,2,0,1,Chris Owings,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,11,N/A,N/A,N/A
+9,top,0,[],Ruben Tejada,3,3,1,Phil Gosselin,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,11,N/A,N/A,N/A
+9,bottom,0,[],Evan Marshall,1,0,2,Matt Carpenter,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,11,N/A,N/A,N/A
+9,bottom,0,[],Evan Marshall,1,0,1,Aledmys Diaz,['N/A'],['Aledmys Diaz'],['N/A'],Double,N/A,2,11,N/A,N/A,N/A
+9,bottom,0,[],Evan Marshall,1,4,2,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Walk,N/A,2,11,N/A,N/A,N/A
+9,bottom,0,[],Evan Marshall,1,1,2,Stephen Piscotty,['Stephen Piscotty'],['Matt Holliday'],['Aledmys Diaz'],Field Error,N/A,2,11,N/A,N/A,Jake Lamb
+9,bottom,1,['Aledmys Diaz'],Evan Marshall,1,0,0,Eric Fryer,['Eric Fryer'],['Stephen Piscotty'],['Matt Holliday'],Single,N/A,3,11,1,N/A,N/A
+9,bottom,1,['Matt Holliday'],Evan Marshall,1,0,2,Jedd Gyorko,['Jedd Gyorko'],['Eric Fryer'],['Stephen Piscotty'],Single,N/A,4,11,1,N/A,N/A
+9,bottom,1,['Stephen Piscotty'],Evan Marshall,2,0,0,Jeremy Hazelbaker,['N/A'],['Jedd Gyorko'],['Eric Fryer'],Groundout,N/A,5,11,1,N/A,N/A
+9,bottom,2,"['Eric Fryer', 'Jedd Gyorko']",Evan Marshall,2,2,1,Brandon Moss,['N/A'],['Brandon Moss'],['N/A'],Double,N/A,7,11,2,N/A,N/A
+9,bottom,0,[],Evan Marshall,2,0,1,Matt Adams,['Matt Adams'],['N/A'],['Brandon Moss'],Single,N/A,7,11,N/A,N/A,N/A
+9,bottom,0,[],Jake Barrett,3,1,2,Matt Carpenter,['N/A'],['Matt Adams'],['N/A'],Flyout,N/A,7,11,N/A,N/A,N/A

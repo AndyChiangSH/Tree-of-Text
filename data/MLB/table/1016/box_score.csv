@@ -1,0 +1,60 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Buehrle,,,,,,,,,,Mark Buehrle,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Dickey,,,,,,,,,,R.A. Dickey,,,,,,,,,R.A.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Reyes,,0,,SS,2,,0,0,4,Jose Reyes,,1,.800,,.209,,,0,Jose,,,,,2,,,0,.676,,100,,1,,,2,,0,,1,,,0,1,0,0,0,Blue Jays,0,.395,0,.281
+,Navarro,,0,,DH,1,,0,0,4,Dioner Navarro,,2,.000,,.287,,,1,Dioner,,,,,0,,,0,.671,,500,,0,,,0,,0,,1,,,0,0,0,0,1,Blue Jays,0,.352,0,.319
+,Encarnacion,,0,,1B,2,,0,0,4,Edwin Encarnacion,,1,1.000,,.252,,,2,Edwin,,,,,6,,,0,.823,,400,,0,,,0,,1,,1,,,0,0,0,0,1,Blue Jays,0,.483,0,.340
+,McGowan,,,,,,,,,,Dustin McGowan,,,,,,,,,Dustin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Bautista,,0,,CF,2,,0,0,4,Jose Bautista,,1,1.000,,.295,,,0,Jose,,,,,4,,,0,.993,,300,,0,,,0,,0,,1,,,0,1,0,0,1,Blue Jays,0,.553,0,.440
+,Izturis,,,,,,,,,,Maicer Izturis,,,,,,,,,Maicer,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Santos,,0,,PR-DH,0,,0,0,0,Sergio Santos,,,.000,,.000,,,0,Sergio,,,,,0,,,0,.000,,501,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Janssen,,,,,,,,,,Casey Janssen,,,,,,,,,Casey,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+3,Redmond,5,0,0,P,0,17,0,0,0,Todd Redmond,0,,1.000,0,.000,1,49,0,Todd,0,1,,0,0,4,2/3,0,.000,0,,,0,53,,1,2.66,0,14,0,0,64,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Cecil,,,,,,,,,,Brett Cecil,,,,,,,,,Brett,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Delabar,,,,,,,,,,Steve Delabar,,,,,,,,,Steve,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lind,,0,,PH,0,,0,0,1,Adam Lind,,2,.000,,.279,,,2,Adam,,,,,0,,,0,.892,,601,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.488,0,.404
+,Morrow,,,,,,,,,,Brandon Morrow,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Kratz,,0,,C,0,,0,0,3,Erik Kratz,,3,1.000,,.231,,,0,Erik,,,,,6,,,0,.693,,600,,0,,,1,,0,,0,,,0,0,0,0,0,Blue Jays,0,.462,0,.231
+1,Happ,7,0,1,P,0,15,0,0,0,J.A. Happ,1,,.000,0,.000,4,36,0,J.A.,0,4,,2,0,2,1/3,0,.000,0,,true,0,30,,0,4.63,0,7,0,4,60,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Rasmus,,,,,,,,,,Colby Rasmus,,,,,,,,,Colby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Getz,,0,,2B,0,,0,0,3,Chris Getz,,3,1.000,,.160,,,1,Chris,,,,,2,,,0,.422,,900,,0,,,1,,0,,0,,,0,0,0,0,0,Blue Jays,0,.200,0,.222
+,Francisco,,0,,3B,0,,0,0,3,Juan Francisco,,,1.000,,.279,,,0,Juan,,,,,0,,,0,.926,,700,,0,,,2,,0,,0,,,0,0,3,0,0,Blue Jays,0,.559,0,.367
+,Cabrera,,0,,LF,2,,0,0,4,Melky Cabrera,,1,1.000,,.335,,,0,Melky,,,,,3,,,0,.899,,200,,0,,,0,,0,,1,,,0,1,0,0,0,Blue Jays,0,.532,0,.367
+0,Rogers,0,0,0,P,0,6,0,0,0,Esmil Rogers,0,,.000,0,.000,0,21,0,Esmil,0,1,,0,0,2,,0,.000,1,,,0,57,,0,6.38,0,6,0,0,29,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Tolleson,,0,,RF,1,,0,0,3,Steve Tolleson,,,1.000,,.429,,,0,Steve,,,,,4,,,0,1.500,,800,,0,,,0,,1,,1,,,0,0,1,0,0,Blue Jays,0,1.000,0,.500
+,Thole,,,,,,,,,,Josh Thole,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lawrie,,,,,,,,,,Brett Lawrie,,,,,,,,,Brett,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Hutchison,,,,,,,,,,Drew Hutchison,,,,,,,,,Drew,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Loup,,,,,,,,,,Aaron Loup,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Stroman,,,,,,,,,,Marcus Stroman,,,,,,,,,Marcus,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Ibanez,,,,,,,,,,Raul Ibanez,,,,,,,,,Raul,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,McDonald,,0,,3B,0,,0,0,4,John McDonald,,1,1.000,,.300,,,2,John,,,,,0,,,0,.741,,900,,0,,,5,,0,,1,,,0,0,2,0,0,Angels,0,.350,0,.391
+,Hamilton,,,,,,,,,,Josh Hamilton,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Pujols,,0,,DH,3,,0,0,4,Albert Pujols,,,.000,,.286,,,3,Albert,,,,,0,,,0,.921,,300,,0,,,0,,1,,1,,,0,0,0,0,0,Angels,0,.564,0,.357
+,Burnett,,,,,,,,,,Sean Burnett,,,,,,,,,Sean,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Aybar,,0,,SS,3,,0,0,5,Erick Aybar,,,1.000,,.281,,,1,Erick,,,,,1,,,0,.740,,100,,0,,,2,,0,,2,,,0,0,0,0,0,Angels,0,.437,0,.303
+,Kendrick,,0,,2B,0,,0,0,4,Howie Kendrick,,2,1.000,,.300,,,1,Howie,,,,,2,,,0,.809,,400,,0,,,4,,1,,1,,,0,1,1,0,0,Angels,0,.429,0,.380
+,Jepsen,,,,,,,,,,Kevin Jepsen,,,,,,,,,Kevin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Weaver,,,,,,,,,,Jered Weaver,,,,,,,,,Jered,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Wilson,,,,,,,,,,C.J. Wilson,,,,,,,,,C.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,De La Rosa,,,,,,,,,,Dane De La Rosa,,,,,,,,,Dane,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Iannetta,,0,,C,2,,0,0,4,Chris Iannetta,,,1.000,,.230,,,1,Chris,,,,,4,,,0,.789,,600,,0,,,1,,0,,2,,,1,1,0,0,2,Angels,0,.419,0,.370
+,Stewart,,,,,,,,,,Ian Stewart,,,,,,,,,Ian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Frieri,,,,,,,,,,Ernesto Frieri,,,,,,,,,Ernesto,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Conger,,,,,,,,,,Hank Conger,,,,,,,,,Hank,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Rasmus,,,,,,,,,,Cory Rasmus,,,,,,,,,Cory,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Salas,,,,,,,,,,Fernando Salas,,,,,,,,,Fernando,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Freese,,,,,,,,,,David Freese,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+0,Smith,2,0,0,P,0,4,0,0,0,Joe Smith,2,,1.000,2,.000,0,7,0,Joe,4,0,true,0,0,1,,0,.000,4,,,0,49,,1,3.00,0,3,0,0,10,0,0,0,0,0,Angels,0,.000,0,.000
+,Green,,0,,LF,2,,1,0,4,Grant Green,,,1.000,,.294,,,1,Grant,,,,,1,,,0,.686,,700,,0,,,0,,0,,1,,,0,0,1,0,0,Angels,0,.353,0,.333
+,Santiago,,,,,,,,,,Hector Santiago,,,,,,,,,Hector,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Brasier,,,,,,,,,,Ryan Brasier,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Cowgill,,0,,RF,1,,0,0,4,Collin Cowgill,,1,1.000,,.309,,,1,Collin,,,,,3,,,0,.823,,800,,0,,,0,,0,,2,,,0,1,0,0,0,Angels,0,.441,0,.382
+,Navarro,,,,,,,,,,Efren Navarro,,,,,,,,,Efren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Cron,,0,,1B,1,,0,0,4,C.J. Cron,,,1.000,,.417,,,1,C.J.,,,,,15,,,0,1.107,,500,,0,,,0,,0,,2,,,1,2,1,0,2,Angels,0,.667,0,.440
+,Kohn,,,,,,,,,,Michael Kohn,,,,,,,,,Michael,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Trout,,0,,CF,1,,0,0,4,Mike Trout,,3,1.000,,.275,,,2,Mike,,,,,1,,,1,.892,,200,,0,,,0,,0,,0,,,0,0,1,0,0,Angels,0,.529,0,.363
+1,Skaggs,4,0,0,P,0,29,0,0,0,Tyler Skaggs,3,,.000,0,.000,3,70,0,Tyler,0,4,,0,0,8,,0,.000,0,,,1,68,true,0,4.14,0,24,0,2,103,0,0,0,0,0,Angels,0,.000,0,.000
+,Moran,,,,,,,,,,Brian Moran,,,,,,,,,Brian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Morin,,,,,,,,,,Mike Morin,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,
+,Calhoun,,,,,,,,,,Kole Calhoun,,,,,,,,,Kole,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angels,,,,

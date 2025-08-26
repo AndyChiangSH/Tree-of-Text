@@ -1,0 +1,56 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Shields,,,,,,,,,,James Shields,,,,,,,,,James,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Gonzalez,,,,,,,,,,Miguel Gonzalez,,,,,,,,,Miguel,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Cedeno,,,,,,,,,,Xavier Cedeno,,,,,,,,,Xavier,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+0,Gomez,0,0,3,P,0,7,0,0,0,Jeanmar Gomez,0,,.000,1,.000,0,14,0,Jeanmar,0,0,,0,0,1,1/3,0,.000,4,,,0,42,,0,4.26,0,4,0,0,29,0,0,0,0,0,White Sox,0,.000,0,.000
+,Avilan,,,,,,,,,,Luis Avilan,,,,,,,,,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+3,Santiago,1,0,0,P,0,9,0,0,0,Hector Santiago,4,,.000,0,.000,0,25,0,Hector,1,5,,0,0,2,2/3,0,.000,0,,,0,59,,0,5.24,0,8,0,0,43,0,0,0,0,0,White Sox,0,.000,0,.000
+,LaMarre,,0,,PH,1,,0,0,1,Ryan LaMarre,,,.000,,.270,,,1,Ryan,,,,,0,,,0,.646,,901,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.324,0,.322
+,Garcia,,0,,RF,1,,0,0,4,Avisail Garcia,,1,1.000,,.257,,,4,Avisail,,,,,3,,,0,.781,,500,,0,,,0,,0,,0,,,0,0,2,0,0,White Sox,0,.500,0,.281
+,Farquhar,,,,,,,,,,Danny Farquhar,,,,,,,,,Danny,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Delmonico,,0,,LF,0,,0,0,4,Nicky Delmonico,,1,1.000,,.231,,,1,Nicky,,,,,1,,,0,.707,,600,,0,,,0,,1,,1,,,0,0,2,0,0,White Sox,0,.375,0,.332
+,Abreu,,0,,1B,1,,0,0,3,Jose Abreu,,,1.000,,.269,,,0,Jose,,,,,6,,,1,.817,,300,,0,,,0,,1,,2,,,0,1,0,0,1,White Sox,0,.487,0,.330
+,Narvaez,,0,,PH,0,,0,0,1,Omar Narvaez,,,.000,,.288,,,0,Omar,,,,,0,,,0,.799,,801,,0,,,0,,0,,1,,,0,0,0,0,0,White Sox,0,.429,0,.370
+,Sanchez,,0,,3B,1,,0,0,4,Yolmer Sanchez,,1,1.000,,.242,,,0,Yolmer,,,,,1,,,0,.678,,200,,0,,,0,,0,,1,,,0,1,1,0,0,White Sox,0,.379,0,.299
+,Davidson,,,,,,,,,,Matt Davidson,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Minaya,,,,,,,,,,Juan Minaya,,,,,,,,,Juan,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Covey,,,,,,,,,,Dylan Covey,,,,,,,,,Dylan,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Palka,,0,,DH,1,,0,0,4,Daniel Palka,,1,.000,,.238,,,1,Daniel,,,,,0,,,0,.775,,400,,0,,,0,,0,,2,,,0,0,0,0,1,White Sox,0,.494,0,.281
+,Vieira,,,,,,,,,,Thyago Vieira,,,,,,,,,Thyago,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Fry,,,,,,,,,,Jace Fry,,,,,,,,,Jace,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Rodon,,,,,,,,,,Carlos Rodon,,,,,,,,,Carlos,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Smith,,0,,C,2,,0,0,3,Kevan Smith,,,1.000,,.292,,,1,Kevan,,,,,12,,,0,.663,,800,,0,,,0,,0,,0,,,0,0,1,0,0,White Sox,0,.321,0,.342
+9,Giolito,6,0,3,P,0,26,0,0,0,Lucas Giolito,7,,.000,0,.000,7,64,0,Lucas,0,7,,2,0,5,,0,.000,0,,true,0,26,,0,6.23,0,15,0,7,103,0,0,0,0,0,White Sox,0,.000,0,.000
+,Lopez,,,,,,,,,,Reynaldo Lopez,,,,,,,,,Reynaldo,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Anderson,,0,,SS,0,,0,0,4,Tim Anderson,,2,.833,,.240,,,1,Tim,,,,,1,,,0,.690,,700,,1,,,4,,0,,1,,,1,1,1,0,1,White Sox,0,.402,0,.288
+,Danish,,,,,,,,,,Tyler Danish,,,,,,,,,Tyler,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Engel,,0,,CF,0,,0,0,3,Adam Engel,,,1.000,,.217,,,1,Adam,,,,,2,,,0,.564,,900,,0,,,0,,0,,0,,,0,0,3,0,0,White Sox,0,.297,0,.267
+,Moncada,,0,,2B,0,,1,0,4,Yoan Moncada,,1,1.000,,.218,,,0,Yoan,,,,,1,,,0,.690,,100,,0,,,2,,0,,1,,,0,0,2,0,0,White Sox,0,.390,0,.300
+,Sabathia,,,,,,,,,,CC Sabathia,,,,,,,,,CC,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Walker,,0,,2B,2,,0,0,4,Neil Walker,,,1.000,,.222,,,4,Neil,,,,,1,,,0,.611,,700,,0,,,1,,0,,1,,,0,1,1,0,0,Yankees,0,.314,0,.297
+,Ellsbury,,,,,,,,,,Jacoby Ellsbury,,,,,,,,,Jacoby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Robinson,,0,,RF,1,,0,0,4,Shane Robinson,,2,1.000,,.190,,,0,Shane,,,,,2,,,0,.625,,900,,0,,,0,,0,,1,,,0,1,0,0,1,Yankees,0,.333,0,.292
+,Lynn,,,,,,,,,,Lance Lynn,,,,,,,,,Lance,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Gardner,,0,,LF,0,,0,1,3,Brett Gardner,,,1.000,,.245,,,0,Brett,,,,,1,,,1,.714,,100,,0,,,0,,0,,0,,,0,1,3,0,0,Yankees,0,.375,0,.339
+,Betances,,,,,,,,,,Dellin Betances,,,,,,,,,Dellin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Robertson,,,,,,,,,,David Robertson,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Britton,,,,,,,,,,Zach Britton,,,,,,,,,Zach,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Romine,,0,,C,1,,0,0,4,Austin Romine,,,1.000,,.256,,,4,Austin,,,,,12,,,0,.750,,800,,0,,,1,,0,,1,,,0,1,2,0,1,Yankees,0,.439,0,.311
+,Stanton,,0,,DH,1,,0,0,4,Giancarlo Stanton,,1,.000,,.279,,,1,Giancarlo,,,,,0,,,1,.860,,200,,0,,,0,,0,,1,,,1,1,1,0,4,Yankees,0,.517,0,.343
+,Gray,,,,,,,,,,Sonny Gray,,,,,,,,,Sonny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Hicks,,0,,CF,0,,0,0,4,Aaron Hicks,,1,1.000,,.248,,,1,Aaron,,,,,3,,,1,.841,,300,,0,,,0,,0,,1,,,1,1,2,0,1,Yankees,0,.482,0,.359
+,Higashioka,,,,,,,,,,Kyle Higashioka,,,,,,,,,Kyle,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Gregorius,,,,,,,,,,Didi Gregorius,,,,,,,,,Didi,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Tanaka,,,,,,,,,,Masahiro Tanaka,,,,,,,,,Masahiro,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Chapman,,,,,,,,,,Aroldis Chapman,,,,,,,,,Aroldis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Voit,,,,,,,,,,Luke Voit,,,,,,,,,Luke,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Bird,,0,,1B,1,,0,0,5,Greg Bird,,2,1.000,,.215,,,3,Greg,,,,,4,,,0,.709,,400,,0,,,1,,0,,1,,,0,0,1,0,0,Yankees,0,.405,0,.304
+,Cole,,,,,,,,,,A.J. Cole,,,,,,,,,A.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Andujar,,0,,3B,1,,0,0,4,Miguel Andujar,,2,1.000,,.289,,,4,Miguel,,,,,2,,,1,.818,,600,,0,,,1,,0,,0,,,0,0,1,0,0,Yankees,1,.494,0,.324
+,Heller,,,,,,,,,,Ben Heller,,,,,,,,,Ben,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+5,Severino,7,0,0,P,0,27,0,0,0,Luis Severino,15,,1.000,0,.000,3,73,0,Luis,0,8,,1,0,7,,0,.000,0,,,0,61,true,1,3.11,0,21,0,3,109,0,0,0,0,0,Yankees,0,.000,0,.000
+,Frazier,,,,,,,,,,Clint Frazier,,,,,,,,,Clint,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+2,Green,1,0,1,P,0,5,0,0,0,Chad Green,5,,.000,3,.000,0,14,0,Chad,0,3,,0,0,1,,0,.000,11,,,0,45,,0,2.70,0,3,0,0,27,0,0,0,0,0,Yankees,0,.000,0,.000
+,Torres,,0,,SS,1,,0,0,3,Gleyber Torres,,,1.000,,.274,,,1,Gleyber,,,,,2,,,2,.870,,500,,0,,,2,,0,,1,,,0,1,1,0,0,Yankees,1,.526,0,.344
+3,Holder,1,0,0,P,0,4,0,0,0,Jonathan Holder,1,,.000,0,.000,0,14,0,Jonathan,0,1,,0,0,1,,0,.000,5,,,0,45,,0,3.50,0,3,0,0,19,0,0,0,0,0,Yankees,0,.000,0,.000
+,Adams,,,,,,,,,,Chance Adams,,,,,,,,,Chance,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,

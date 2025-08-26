@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Gerrit Cole,1,0,2,Skip Schumaker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Gerrit Cole,2,0,0,Nick Punto,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Gerrit Cole,3,1,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Zack Greinke,0,1,2,Alex Presley,['Alex Presley'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Zack Greinke,0,1,0,Jordy Mercer,['Jordy Mercer'],['N/A'],['Alex Presley'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Zack Greinke,1,1,2,Andrew McCutchen,['Andrew McCutchen'],['Jordy Mercer'],['N/A'],Fielders Choice Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,2,"['Jordy Mercer', 'Andrew McCutchen']",Zack Greinke,1,3,2,Garrett Jones,['N/A'],['Garrett Jones'],['N/A'],Double,N/A,2,0,2,N/A,N/A
+1,bottom,0,[],Zack Greinke,2,3,2,Neil Walker,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Zack Greinke,3,2,3,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Gerrit Cole,0,1,2,Yasiel Puig,['Yasiel Puig'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],N/A,0,3,1,Andre Ethier,['N/A'],['Yasiel Puig'],['N/A'],Stolen Base 2B,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Gerrit Cole,1,3,1,Andre Ethier,['N/A'],['Yasiel Puig'],['Yasiel Puig'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,1,['Yasiel Puig'],Gerrit Cole,2,3,2,Tim Federowicz,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,1,N/A,N/A
+2,top,0,[],Gerrit Cole,3,1,1,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,1,1,3,Travis Snider,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,1,0,1,Michael McKenry,['Michael McKenry'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,1,1,2,Gerrit Cole,['N/A'],['Michael McKenry'],['N/A'],Wild Pitch,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Zack Greinke,3,3,2,Gerrit Cole,['N/A'],['Michael McKenry'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Gerrit Cole,1,0,0,Alex Castellanos,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Gerrit Cole,2,1,3,Zack Greinke,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Gerrit Cole,3,3,2,Skip Schumaker,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,0,2,1,Alex Presley,['Alex Presley'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,1,0,2,Jordy Mercer,['N/A'],['Alex Presley'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,2,2,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,2,4,1,Garrett Jones,['Garrett Jones'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,2,0,0,Neil Walker,['Neil Walker'],['Garrett Jones'],['Alex Presley'],Hit By Pitch,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Zack Greinke,3,1,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Gerrit Cole,0,2,2,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Gerrit Cole,1,1,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Gerrit Cole,1,0,0,Yasiel Puig,['Yasiel Puig'],['Nick Punto'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+4,top,1,['Nick Punto'],Gerrit Cole,1,1,1,Andre Ethier,['Andre Ethier'],['Yasiel Puig'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+4,top,0,[],Gerrit Cole,3,0,0,Tim Federowicz,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Zack Greinke,0,1,1,Travis Snider,['Travis Snider'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Zack Greinke,1,0,2,Michael McKenry,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Zack Greinke,2,0,0,Gerrit Cole,['N/A'],['Travis Snider'],['N/A'],Sac Bunt,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Zack Greinke,3,2,2,Alex Presley,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Gerrit Cole,1,0,2,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Gerrit Cole,2,1,1,Alex Castellanos,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Gerrit Cole,3,1,1,Zack Greinke,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Zack Greinke,1,1,2,Jordy Mercer,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Zack Greinke,2,2,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Zack Greinke,2,0,0,Garrett Jones,['Garrett Jones'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Zack Greinke,2,4,1,Neil Walker,['Neil Walker'],['Garrett Jones'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+5,bottom,3,"['Garrett Jones', 'Neil Walker']",Zack Greinke,2,3,2,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,2,3,N/A,N/A
+5,bottom,0,[],Zack Greinke,3,3,2,Travis Snider,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+6,top,0,[],Gerrit Cole,1,0,1,Skip Schumaker,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,2,N/A,N/A,N/A
+6,top,0,[],Gerrit Cole,2,3,2,Nick Punto,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+6,top,0,[],Gerrit Cole,2,1,0,Adrian Gonzalez,['N/A'],['Adrian Gonzalez'],['N/A'],Double,N/A,5,2,N/A,N/A,N/A
+6,top,0,[],Gerrit Cole,2,3,1,Yasiel Puig,['Yasiel Puig'],['N/A'],['Adrian Gonzalez'],Single,N/A,5,2,N/A,N/A,N/A
+6,top,1,['Adrian Gonzalez'],Gerrit Cole,2,2,0,Andre Ethier,['Andre Ethier'],['N/A'],['Yasiel Puig'],Single,N/A,5,3,1,N/A,N/A
+6,top,0,[],Justin Wilson,2,4,0,Tim Federowicz,['Tim Federowicz'],['Andre Ethier'],['N/A'],Walk,N/A,5,3,N/A,N/A,N/A
+6,top,0,[],Justin Wilson,3,0,3,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,3,N/A,N/A,N/A
+6,bottom,0,[],Matt Guerrier,1,1,3,Michael McKenry,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,3,N/A,N/A,N/A
+6,bottom,0,[],Matt Guerrier,2,0,3,Starling Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,3,N/A,N/A,N/A
+6,bottom,1,[],Matt Guerrier,2,0,0,Alex Presley,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,3,1,N/A,N/A
+6,bottom,0,[],Matt Guerrier,2,1,0,Jordy Mercer,['N/A'],['Jordy Mercer'],['N/A'],Double,N/A,6,3,N/A,N/A,N/A
+6,bottom,0,[],Matt Guerrier,3,1,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+7,top,0,[],Justin Wilson,1,1,2,Alex Castellanos,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+7,top,0,[],Justin Wilson,1,4,0,Jerry Hairston,['Jerry Hairston'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+7,top,0,[],Justin Wilson,3,2,1,Skip Schumaker,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,3,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,1,3,1,Garrett Jones,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,2,0,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,3,0,3,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+8,top,0,[],Mark Melancon,1,0,2,Nick Punto,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,3,N/A,N/A,N/A
+8,top,0,[],Mark Melancon,2,1,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+8,top,0,[],Mark Melancon,3,2,3,Yasiel Puig,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+8,bottom,0,[],Ronald Belisario,1,1,2,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+8,bottom,0,[],Ronald Belisario,2,1,3,Michael McKenry,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+8,bottom,0,[],Ronald Belisario,3,2,2,Starling Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+9,top,0,[],Jason Grilli,1,1,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+9,top,0,[],Jason Grilli,2,1,3,Mark Ellis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+9,top,0,[],Jason Grilli,2,4,1,A.J. Ellis,['A.J. Ellis'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+9,top,0,[],Jason Grilli,3,1,3,Hanley Ramirez,['N/A'],['A.J. Ellis'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A

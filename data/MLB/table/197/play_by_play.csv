@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Bartolo Colon,1,3,1,Ian Kinsler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bartolo Colon,2,1,3,Omar Vizquel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Bartolo Colon,3,1,2,Marlon Byrd,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Vicente Padilla,1,2,2,Chris Getz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Vicente Padilla,2,0,0,Brent Lillibridge,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Vicente Padilla,3,0,0,Carlos Quentin,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],Bartolo Colon,0,2,1,Hank Blalock,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],Bartolo Colon,1,2,0,Nelson Cruz,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Bartolo Colon,2,1,2,David Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Bartolo Colon,3,2,3,Chris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Vicente Padilla,0,4,1,Jermaine Dye,['Jermaine Dye'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Vicente Padilla,0,4,1,Jim Thome,['Jim Thome'],['Jermaine Dye'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Vicente Padilla,2,2,2,Paul Konerko,['N/A'],['N/A'],['Jermaine Dye'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+2,bottom,1,['Jermaine Dye'],Vicente Padilla,2,2,0,Wilson Betemit,['N/A'],['N/A'],['N/A'],Wild Pitch,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Vicente Padilla,3,2,2,Wilson Betemit,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Bartolo Colon,1,3,1,Jarrod Saltalamacchia,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Bartolo Colon,2,0,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Bartolo Colon,3,1,2,Ian Kinsler,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Vicente Padilla,1,0,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Vicente Padilla,2,1,0,Corky Miller,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Vicente Padilla,3,1,2,Chris Getz,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Bartolo Colon,1,2,1,Omar Vizquel,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Bartolo Colon,1,0,0,Marlon Byrd,['Marlon Byrd'],['N/A'],['N/A'],Field Error,N/A,1,1,N/A,N/A,Wilson Betemit
+4,top,0,[],Bartolo Colon,1,4,2,Hank Blalock,['Hank Blalock'],['Marlon Byrd'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Bartolo Colon,2,3,2,Nelson Cruz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Bartolo Colon,3,0,0,David Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Vicente Padilla,1,3,2,Brent Lillibridge,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Vicente Padilla,1,3,1,Carlos Quentin,['N/A'],['Carlos Quentin'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Vicente Padilla,2,1,1,Jermaine Dye,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Vicente Padilla,2,4,0,Jim Thome,['Jim Thome'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Vicente Padilla,3,0,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,1,N/A,N/A,N/A
+5,top,1,[],Bartolo Colon,0,1,1,Chris Davis,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,1,N/A,N/A
+5,top,0,[],Bartolo Colon,1,1,3,Jarrod Saltalamacchia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Bartolo Colon,1,3,2,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Bartolo Colon,1,0,0,Ian Kinsler,['Ian Kinsler'],['Elvis Andrus'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+5,top,1,['Elvis Andrus'],Bartolo Colon,1,1,0,Omar Vizquel,['N/A'],['Omar Vizquel'],['Ian Kinsler'],Double,N/A,1,3,1,N/A,N/A
+5,top,0,[],Bartolo Colon,1,4,2,Marlon Byrd,['Marlon Byrd'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Bartolo Colon,2,2,0,Hank Blalock,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+5,top,1,['Ian Kinsler'],Bartolo Colon,2,4,2,Nelson Cruz,['Nelson Cruz'],['Marlon Byrd'],['Omar Vizquel'],Walk,N/A,1,4,1,N/A,N/A
+5,top,1,['Omar Vizquel'],Clayton Richard,2,0,0,David Murphy,['David Murphy'],['Nelson Cruz'],['Marlon Byrd'],Single,N/A,1,5,1,N/A,N/A
+5,top,0,[],Clayton Richard,3,2,2,Chris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+5,bottom,0,[],Vicente Padilla,0,4,2,Wilson Betemit,['Wilson Betemit'],['N/A'],['N/A'],Walk,N/A,1,5,N/A,N/A,N/A
+5,bottom,0,[],Vicente Padilla,1,1,2,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Forceout,N/A,1,5,N/A,N/A,N/A
+5,bottom,0,[],Vicente Padilla,2,1,0,Corky Miller,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,5,N/A,N/A,N/A
+5,bottom,0,[],Vicente Padilla,3,1,1,Chris Getz,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+6,top,0,[],D.J. Carrasco,1,0,0,Jarrod Saltalamacchia,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+6,top,0,[],D.J. Carrasco,2,0,1,Elvis Andrus,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+6,top,0,[],D.J. Carrasco,3,2,2,Ian Kinsler,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+6,bottom,0,[],Vicente Padilla,1,2,2,Brent Lillibridge,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+6,bottom,0,[],Vicente Padilla,2,0,1,Carlos Quentin,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+6,bottom,0,[],Vicente Padilla,3,0,1,Jermaine Dye,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+7,top,0,[],D.J. Carrasco,1,2,1,Omar Vizquel,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+7,top,0,[],D.J. Carrasco,2,0,1,Marlon Byrd,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+7,top,1,[],D.J. Carrasco,2,2,2,Hank Blalock,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,6,1,N/A,N/A
+7,top,0,[],D.J. Carrasco,3,0,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+7,bottom,0,[],Vicente Padilla,1,2,3,Jim Thome,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+7,bottom,0,[],Vicente Padilla,2,1,0,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+7,bottom,0,[],Vicente Padilla,3,1,0,Wilson Betemit,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Lance Broadway,0,2,2,David Murphy,['David Murphy'],['N/A'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+8,top,1,['David Murphy'],Lance Broadway,0,2,0,Chris Davis,['N/A'],['Chris Davis'],['N/A'],Double,N/A,1,7,1,N/A,N/A
+8,top,0,[],Lance Broadway,1,0,0,Jarrod Saltalamacchia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,7,N/A,N/A,N/A
+8,top,0,[],Lance Broadway,2,1,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,7,N/A,N/A,N/A
+8,top,0,[],Lance Broadway,3,2,1,Ian Kinsler,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,7,N/A,N/A,N/A
+8,bottom,0,[],Jason Jennings,1,1,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,7,N/A,N/A,N/A
+8,bottom,0,[],Jason Jennings,2,1,2,Corky Miller,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+8,bottom,0,[],Jason Jennings,2,0,1,Chris Getz,['Chris Getz'],['N/A'],['N/A'],Single,N/A,1,7,N/A,N/A,N/A
+8,bottom,0,[],Jason Jennings,3,3,2,Brent Lillibridge,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,7,N/A,N/A,N/A
+9,top,0,[],Octavio Dotel,1,0,0,Omar Vizquel,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,7,N/A,N/A,N/A
+9,top,0,[],Octavio Dotel,2,3,2,Marlon Byrd,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,7,N/A,N/A,N/A
+9,top,0,[],Octavio Dotel,3,0,3,Hank Blalock,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,7,N/A,N/A,N/A
+9,bottom,0,[],C.J. Wilson,1,1,1,Carlos Quentin,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,7,N/A,N/A,N/A
+9,bottom,0,[],C.J. Wilson,2,0,3,Jermaine Dye,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,7,N/A,N/A,N/A
+9,bottom,0,[],C.J. Wilson,2,4,1,Jayson Nix,['Jayson Nix'],['N/A'],['N/A'],Walk,N/A,1,7,N/A,N/A,N/A
+9,bottom,0,[],C.J. Wilson,3,3,3,Paul Konerko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,7,N/A,N/A,N/A

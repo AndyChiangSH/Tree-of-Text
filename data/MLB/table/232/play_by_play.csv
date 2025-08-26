@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,1,[],Rick Porcello,0,3,2,Chone Figgins,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Rick Porcello,0,1,2,Bobby Abreu,['N/A'],['Bobby Abreu'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Rick Porcello,1,2,3,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Rick Porcello,2,1,2,Kendrys Morales,['N/A'],['N/A'],['Bobby Abreu'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,2,['Bobby Abreu'],Rick Porcello,2,2,2,Juan Rivera,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,2,N/A,N/A
+1,top,0,[],Rick Porcello,3,1,1,Gary Matthews,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,1,1,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,1,4,2,Placido Polanco,['Placido Polanco'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,1,2,1,Magglio Ordonez,['Magglio Ordonez'],['Placido Polanco'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,2,1,3,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,2,0,0,Marcus Thames,['Marcus Thames'],['Magglio Ordonez'],['Placido Polanco'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,2,"['Placido Polanco', 'Magglio Ordonez']",Joe Saunders,2,0,1,Brandon Inge,['Brandon Inge'],['N/A'],['Marcus Thames'],Single,N/A,2,3,2,N/A,N/A
+1,bottom,0,[],Joe Saunders,3,0,0,Ryan Raburn,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,1,0,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,1,4,2,Jeff Mathis,['Jeff Mathis'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,3,0,1,Howie Kendrick,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Joe Saunders,0,3,1,Gerald Laird,['Gerald Laird'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Joe Saunders,1,0,1,Adam Everett,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Joe Saunders,2,2,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Joe Saunders,2,2,2,Placido Polanco,['Placido Polanco'],['N/A'],['Gerald Laird'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Joe Saunders,3,0,0,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,1,0,1,Chone Figgins,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,1,4,1,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,2,0,2,Vladimir Guerrero,['Vladimir Guerrero'],['N/A'],['Bobby Abreu'],Fielders Choice Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,3,1,1,Kendrys Morales,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,0,4,2,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,0,0,1,Marcus Thames,['Marcus Thames'],['Miguel Cabrera'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,1,2,3,Brandon Inge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,2,0,0,Ryan Raburn,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,2,4,1,Gerald Laird,['Gerald Laird'],['Marcus Thames'],['Miguel Cabrera'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,2,"['Miguel Cabrera', 'Marcus Thames']",Joe Saunders,2,0,0,Adam Everett,['Adam Everett'],['N/A'],['Gerald Laird'],Single,N/A,4,3,2,N/A,N/A
+3,bottom,0,[],Joe Saunders,3,0,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,0,1,0,Juan Rivera,['N/A'],['Juan Rivera'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,1,0,0,Gary Matthews,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,2,2,2,Erick Aybar,['N/A'],['N/A'],['Juan Rivera'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,2,4,0,Jeff Mathis,['Jeff Mathis'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,3,0,2,Howie Kendrick,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Joe Saunders,1,2,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Joe Saunders,2,0,0,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Joe Saunders,2,4,1,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Joe Saunders,3,0,0,Marcus Thames,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Rick Porcello,1,1,1,Chone Figgins,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Rick Porcello,2,2,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Rick Porcello,3,1,3,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Joe Saunders,1,3,2,Brandon Inge,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Joe Saunders,2,3,2,Ryan Raburn,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Joe Saunders,2,4,2,Gerald Laird,['Gerald Laird'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Joe Saunders,3,0,1,Adam Everett,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Rick Porcello,0,1,1,Kendrys Morales,['N/A'],['Kendrys Morales'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ryan Perry,1,1,2,Juan Rivera,['N/A'],['N/A'],['Kendrys Morales'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ryan Perry,2,2,3,Gary Matthews,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Kendrys Morales'],Ryan Perry,2,0,0,Erick Aybar,['Erick Aybar'],['N/A'],['N/A'],Single,N/A,4,4,1,N/A,N/A
+6,top,0,[],N/A,2,1,2,Jeff Mathis,['N/A'],['Erick Aybar'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ryan Perry,3,1,3,Jeff Mathis,['N/A'],['Erick Aybar'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Joe Saunders,1,0,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Joe Saunders,2,1,0,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Joe Saunders,3,3,3,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ryan Perry,0,2,2,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ryan Perry,0,0,1,Chone Figgins,['Chone Figgins'],['Howie Kendrick'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Bobby Seay,1,1,2,Bobby Abreu,['N/A'],['N/A'],['Howie Kendrick'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Joel Zumaya,3,0,1,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jose Arredondo,1,3,2,Clete Thomas,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jose Arredondo,2,0,3,Marcus Thames,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jose Arredondo,3,2,0,Brandon Inge,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Joel Zumaya,0,4,1,Kendrys Morales,['Kendrys Morales'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Joel Zumaya,1,1,1,Juan Rivera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Joel Zumaya,2,1,3,Gary Matthews,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Joel Zumaya,2,0,0,Erick Aybar,['N/A'],['Erick Aybar'],['Kendrys Morales'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Joel Zumaya,2,4,0,Maicer Izturis,['Maicer Izturis'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,1,['Kendrys Morales'],Joel Zumaya,2,4,1,Howie Kendrick,['Howie Kendrick'],['Maicer Izturis'],['Erick Aybar'],Walk,N/A,4,5,1,N/A,N/A
+8,top,0,[],Joel Zumaya,3,1,2,Chone Figgins,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jose Arredondo,0,4,2,Ryan Raburn,['Ryan Raburn'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jose Arredondo,1,0,0,Gerald Laird,['N/A'],['Ryan Raburn'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jose Arredondo,1,4,0,Adam Everett,['Adam Everett'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Bulger,1,4,1,Curtis Granderson,['Curtis Granderson'],['Adam Everett'],['Ryan Raburn'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Ryan Raburn'],Jason Bulger,2,1,2,Placido Polanco,['N/A'],['N/A'],['Adam Everett'],Flyout,Error,5,5,N/A,1,Kendrys Morales
+8,bottom,0,[],Jason Bulger,2,4,2,Magglio Ordonez,['Magglio Ordonez'],['Curtis Granderson'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,4,"['Adam Everett', 'Curtis Granderson', 'Magglio Ordonez']",Jason Bulger,2,1,1,Clete Thomas,['N/A'],['N/A'],['N/A'],Home Run,N/A,9,5,4,N/A,N/A
+8,bottom,0,[],Jason Bulger,3,1,0,Marcus Thames,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Fernando Rodney,1,3,2,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Fernando Rodney,1,3,1,Vladimir Guerrero,['Vladimir Guerrero'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Fernando Rodney,2,1,1,Kendrys Morales,['N/A'],['Vladimir Guerrero'],['Vladimir Guerrero'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,1,['Vladimir Guerrero'],Fernando Rodney,2,1,2,Juan Rivera,['N/A'],['Juan Rivera'],['N/A'],Double,N/A,9,6,1,N/A,N/A
+9,top,0,[],Fernando Rodney,3,2,2,Gary Matthews,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A

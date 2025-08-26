@@ -1,0 +1,83 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],C.J. Wilson,1,1,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],C.J. Wilson,2,2,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],C.J. Wilson,3,2,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Wade Davis,1,2,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Wade Davis,2,2,2,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Wade Davis,3,0,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],C.J. Wilson,0,3,1,Willy Aybar,['Willy Aybar'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],C.J. Wilson,0,0,2,Ben Zobrist,['N/A'],['Ben Zobrist'],['Willy Aybar'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],C.J. Wilson,0,4,1,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Willy Aybar'],C.J. Wilson,0,0,0,Carlos Pena,['Carlos Pena'],['Kelly Shoppach'],['Ben Zobrist'],Field Error,N/A,0,1,1,N/A,Ian Kinsler
+2,top,1,['Ben Zobrist'],C.J. Wilson,1,3,2,Sean Rodriguez,['Sean Rodriguez'],['Carlos Pena'],['N/A'],Forceout,N/A,0,2,1,N/A,N/A
+2,top,0,[],C.J. Wilson,2,3,3,Gabe Kapler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],C.J. Wilson,2,4,2,Melvin Upton,['Melvin Upton'],['Sean Rodriguez'],['Carlos Pena'],Walk,N/A,0,2,N/A,N/A,N/A
+2,top,2,"['Carlos Pena', 'Sean Rodriguez']",C.J. Wilson,2,0,2,Carl Crawford,['Carl Crawford'],['Melvin Upton'],['N/A'],Single,N/A,0,4,2,N/A,N/A
+2,top,0,[],C.J. Wilson,3,3,1,Evan Longoria,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,1,3,1,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,1,2,2,Josh Hamilton,['N/A'],['Josh Hamilton'],['N/A'],Double,N/A,0,4,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,2,0,2,David Murphy,['N/A'],['N/A'],['Josh Hamilton'],Groundout,N/A,0,4,N/A,N/A,N/A
+2,bottom,2,['Josh Hamilton'],Wade Davis,2,1,1,Justin Smoak,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,2,N/A,N/A
+2,bottom,0,[],Wade Davis,2,3,1,Max Ramirez,['Max Ramirez'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,2,1,1,Julio Borbon,['Julio Borbon'],['Max Ramirez'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,3,0,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],C.J. Wilson,1,1,0,Willy Aybar,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],C.J. Wilson,2,1,3,Ben Zobrist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],C.J. Wilson,2,3,2,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],C.J. Wilson,3,0,0,Carlos Pena,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Wade Davis,1,1,1,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Wade Davis,2,1,3,Ian Kinsler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Wade Davis,3,0,1,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+4,top,0,[],C.J. Wilson,0,0,0,Sean Rodriguez,['Sean Rodriguez'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+4,top,0,[],C.J. Wilson,1,1,1,Gabe Kapler,['Gabe Kapler'],['N/A'],['N/A'],Forceout,N/A,2,4,N/A,N/A,N/A
+4,top,0,[],C.J. Wilson,3,1,2,Melvin Upton,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,4,N/A,N/A,N/A
+4,bottom,1,[],Wade Davis,0,0,0,Josh Hamilton,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,4,1,N/A,N/A
+4,bottom,0,[],Wade Davis,1,1,0,David Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+4,bottom,0,[],Wade Davis,1,1,2,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+4,bottom,0,[],Wade Davis,1,0,2,Max Ramirez,['Max Ramirez'],['Justin Smoak'],['N/A'],Hit By Pitch,N/A,3,4,N/A,N/A,N/A
+4,bottom,0,[],Wade Davis,1,1,0,Julio Borbon,['Julio Borbon'],['Max Ramirez'],['Justin Smoak'],Single,N/A,3,4,N/A,N/A,N/A
+4,bottom,1,['Justin Smoak'],Wade Davis,1,1,0,Elvis Andrus,['Elvis Andrus'],['Julio Borbon'],['Max Ramirez'],Single,N/A,4,4,1,N/A,N/A
+4,bottom,2,"['Max Ramirez', 'Julio Borbon']",Wade Davis,1,1,0,Michael Young,['N/A'],['Michael Young'],['Elvis Andrus'],Single,N/A,6,4,2,N/A,N/A
+4,bottom,0,[],Andy Sonnanstine,1,1,1,Ian Kinsler,['Ian Kinsler'],['N/A'],['N/A'],Hit By Pitch,N/A,6,4,N/A,N/A,N/A
+4,bottom,3,"['Elvis Andrus', 'Michael Young', 'Ian Kinsler']",Andy Sonnanstine,2,0,1,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Double,N/A,9,4,3,N/A,N/A
+4,bottom,0,[],Andy Sonnanstine,2,0,0,Josh Hamilton,['N/A'],['Josh Hamilton'],['N/A'],Double,N/A,9,4,N/A,N/A,N/A
+4,bottom,0,[],Andy Sonnanstine,3,1,1,David Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,4,N/A,N/A,N/A
+5,top,0,[],C.J. Wilson,1,1,1,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,4,N/A,N/A,N/A
+5,top,0,[],C.J. Wilson,2,2,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,4,N/A,N/A,N/A
+5,top,0,[],C.J. Wilson,3,2,3,Willy Aybar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,4,N/A,N/A,N/A
+5,bottom,0,[],Andy Sonnanstine,0,2,1,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Single,N/A,9,4,N/A,N/A,N/A
+5,bottom,0,[],Andy Sonnanstine,1,2,3,Max Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,4,N/A,N/A,N/A
+5,bottom,0,[],Andy Sonnanstine,2,0,0,Julio Borbon,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,4,N/A,N/A,N/A
+5,bottom,0,[],Andy Sonnanstine,3,1,1,Elvis Andrus,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,4,N/A,N/A,N/A
+6,top,0,[],C.J. Wilson,0,3,1,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Single,N/A,9,4,N/A,N/A,N/A
+6,top,0,[],C.J. Wilson,0,4,2,Kelly Shoppach,['Kelly Shoppach'],['Ben Zobrist'],['N/A'],Walk,N/A,9,4,N/A,N/A,N/A
+6,top,0,[],C.J. Wilson,0,4,0,Carlos Pena,['Carlos Pena'],['Kelly Shoppach'],['Ben Zobrist'],Walk,N/A,9,4,N/A,N/A,N/A
+6,top,0,[],Darren O'Day,1,0,1,Reid Brignac,['N/A'],['N/A'],['N/A'],Pop Out,N/A,9,4,N/A,N/A,N/A
+6,top,1,['Ben Zobrist'],Matt Harrison,2,1,0,Hank Blalock,['Hank Blalock'],['N/A'],['Kelly Shoppach'],Forceout,N/A,9,5,1,N/A,N/A
+6,top,0,[],Matt Harrison,2,4,1,Melvin Upton,['Melvin Upton'],['Hank Blalock'],['N/A'],Walk,N/A,9,5,N/A,N/A,N/A
+6,top,0,[],Matt Harrison,3,3,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,5,N/A,N/A,N/A
+6,bottom,0,[],Andy Sonnanstine,1,0,3,Michael Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,5,N/A,N/A,N/A
+6,bottom,0,[],Andy Sonnanstine,2,0,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,5,N/A,N/A,N/A
+6,bottom,0,[],Andy Sonnanstine,3,1,0,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,5,N/A,N/A,N/A
+7,top,1,[],Matt Harrison,0,2,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Home Run,N/A,9,6,1,N/A,N/A
+7,top,0,[],Matt Harrison,1,3,1,Willy Aybar,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,6,N/A,N/A,N/A
+7,top,0,[],Matt Harrison,1,0,2,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Single,N/A,9,6,N/A,N/A,N/A
+7,top,0,[],Matt Harrison,1,1,0,Kelly Shoppach,['N/A'],['Ben Zobrist'],['N/A'],Wild Pitch,N/A,9,6,N/A,N/A,N/A
+7,top,0,[],Matt Harrison,2,2,3,Kelly Shoppach,['N/A'],['Ben Zobrist'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+7,top,0,[],Matt Harrison,2,4,2,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Walk,N/A,9,6,N/A,N/A,N/A
+7,top,0,[],Darren Oliver,3,2,3,Reid Brignac,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+7,bottom,0,[],Randy Choate,1,0,3,Josh Hamilton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+7,bottom,0,[],Randy Choate,2,2,3,David Murphy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+7,bottom,0,[],Randy Choate,2,4,0,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Walk,N/A,9,6,N/A,N/A,N/A
+7,bottom,0,[],Lance Cormier,3,1,0,Max Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,6,N/A,N/A,N/A
+8,top,0,[],Frank Francisco,1,2,3,Hank Blalock,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+8,top,0,[],Frank Francisco,2,2,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+8,top,0,[],Frank Francisco,3,2,0,Carl Crawford,['N/A'],['N/A'],['N/A'],Pop Out,N/A,9,6,N/A,N/A,N/A
+8,bottom,0,[],Lance Cormier,0,0,0,Julio Borbon,['Julio Borbon'],['N/A'],['N/A'],Single,N/A,9,6,N/A,N/A,N/A
+8,bottom,0,[],Lance Cormier,1,4,1,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Walk,N/A,9,6,N/A,N/A,N/A
+8,bottom,0,[],Lance Cormier,3,0,0,Michael Young,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,9,6,N/A,N/A,N/A
+9,top,0,[],Neftali Feliz,1,3,3,Evan Longoria,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+9,top,0,[],Neftali Feliz,2,1,3,Willy Aybar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+9,top,0,[],Neftali Feliz,2,0,1,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Hit By Pitch,N/A,9,6,N/A,N/A,N/A
+9,top,0,[],Neftali Feliz,2,1,2,John Jaso,['John Jaso'],['Ben Zobrist'],['N/A'],Hit By Pitch,N/A,9,6,N/A,N/A,N/A
+9,top,0,[],Neftali Feliz,3,0,0,Carlos Pena,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,6,N/A,N/A,N/A

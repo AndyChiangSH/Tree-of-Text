@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Alex White,1,1,0,Jordan Schafer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Alex White,2,1,0,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Alex White,2,3,2,Brian Bogusevic,['Brian Bogusevic'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Alex White,2,2,1,Carlos Lee,['Carlos Lee'],['N/A'],['Brian Bogusevic'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Alex White,3,0,0,Travis Buck,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,[],Jordan Lyles,0,3,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Jordan Lyles,1,2,2,Marco Scutaro,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Jordan Lyles,1,0,0,Carlos Gonzalez,['N/A'],['Carlos Gonzalez'],['N/A'],Double,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Jordan Lyles,1,4,2,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Jordan Lyles,2,2,2,Todd Helton,['N/A'],['N/A'],['Carlos Gonzalez'],Flyout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Jordan Lyles,3,2,0,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Alex White,1,3,1,Matt Downs,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Alex White,2,1,3,Chris Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Alex White,3,1,1,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jordan Lyles,1,2,1,Tyler Colvin,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jordan Lyles,2,1,0,Wil Nieves,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jordan Lyles,3,1,3,Alex White,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Alex White,0,1,2,Jordan Lyles,['Jordan Lyles'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Alex White,1,2,1,Jordan Schafer,['N/A'],['Jordan Lyles'],['N/A'],Sac Bunt,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Alex White,2,1,2,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,top,2,['Jordan Lyles'],Alex White,2,2,0,Brian Bogusevic,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,2,N/A,N/A
+3,top,0,[],Alex White,2,3,1,Carlos Lee,['N/A'],['Carlos Lee'],['N/A'],Double,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Alex White,3,0,2,Travis Buck,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Jordan Lyles,0,1,1,Dexter Fowler,['N/A'],['N/A'],['Dexter Fowler'],Single,Error,1,2,N/A,N/A,Matt Downs
+3,bottom,0,[],Jordan Lyles,1,1,0,Marco Scutaro,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+3,bottom,1,['Dexter Fowler'],Jordan Lyles,2,2,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,1,N/A,N/A
+3,bottom,0,[],Jordan Lyles,3,0,0,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Alex White,1,1,3,Matt Downs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,top,1,[],Alex White,1,0,0,Chris Snyder,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,3,1,N/A,N/A
+4,top,0,[],Alex White,1,1,1,Marwin Gonzalez,['N/A'],['Marwin Gonzalez'],['N/A'],Single,Error,2,3,N/A,N/A,Alex White
+4,top,0,[],Alex White,2,1,0,Jordan Lyles,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+4,top,1,['Marwin Gonzalez'],Alex White,2,0,0,Jordan Schafer,['Jordan Schafer'],['N/A'],['N/A'],Single,N/A,2,4,1,N/A,N/A
+4,top,0,[],Alex White,3,0,2,Jose Altuve,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Jordan Lyles,0,1,1,Todd Helton,['Todd Helton'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Jordan Lyles,0,0,1,Jordan Pacheco,['Jordan Pacheco'],['Todd Helton'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Jordan Lyles,0,2,0,Tyler Colvin,['Tyler Colvin'],['Jordan Pacheco'],['Todd Helton'],Catcher Interference,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Jordan Lyles,1,0,2,Wil Nieves,['Wil Nieves'],['Tyler Colvin'],['Jordan Pacheco'],Forceout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Jordan Lyles,2,1,3,Alex White,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+4,bottom,1,['Jordan Pacheco'],Jordan Lyles,2,4,2,Dexter Fowler,['Dexter Fowler'],['Wil Nieves'],['Tyler Colvin'],Walk,N/A,3,4,1,N/A,N/A
+4,bottom,3,"['Tyler Colvin', 'Wil Nieves', 'Dexter Fowler']",Jordan Lyles,2,1,2,Marco Scutaro,['N/A'],['Marco Scutaro'],['N/A'],Double,N/A,6,4,3,N/A,N/A
+4,bottom,0,[],Jordan Lyles,3,0,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+5,top,0,[],Alex White,1,1,1,Brian Bogusevic,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+5,top,0,[],Alex White,2,1,0,Carlos Lee,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+5,top,0,[],Alex White,2,4,2,Travis Buck,['Travis Buck'],['N/A'],['N/A'],Walk,N/A,6,4,N/A,N/A,N/A
+5,top,0,[],Alex White,2,0,2,Matt Downs,['Matt Downs'],['Travis Buck'],['N/A'],Hit By Pitch,N/A,6,4,N/A,N/A,N/A
+5,top,1,['Travis Buck'],Alex White,2,3,1,Chris Snyder,['Chris Snyder'],['Matt Downs'],['N/A'],Single,N/A,6,5,1,N/A,N/A
+5,top,0,[],Alex White,3,0,2,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+5,bottom,0,[],Jordan Lyles,1,0,0,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+5,bottom,0,[],Jordan Lyles,2,0,3,Todd Helton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+5,bottom,0,[],Jordan Lyles,3,0,1,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+6,top,1,[],Alex White,0,0,1,Justin Maxwell,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,6,1,N/A,N/A
+6,top,0,[],Josh Outman,1,3,2,Jordan Schafer,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+6,top,0,[],Josh Outman,2,2,1,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+6,top,0,[],Josh Outman,3,1,3,Brian Bogusevic,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+6,bottom,0,[],Rhiner Cruz,1,2,0,Tyler Colvin,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+6,bottom,0,[],Rhiner Cruz,1,0,1,Wil Nieves,['Wil Nieves'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+6,bottom,0,[],Rhiner Cruz,1,2,0,N/A,['N/A'],['Wil Nieves'],['N/A'],Wild Pitch,N/A,6,6,N/A,N/A,N/A
+6,bottom,0,[],Rhiner Cruz,2,2,1,Eric Young Jr.,['N/A'],['Wil Nieves'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+6,bottom,0,[],Rhiner Cruz,2,3,2,Dexter Fowler,['Dexter Fowler'],['N/A'],['Wil Nieves'],Single,N/A,6,6,N/A,N/A,N/A
+6,bottom,0,[],Rhiner Cruz,3,0,0,Marco Scutaro,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,6,N/A,N/A,N/A
+7,top,0,[],Adam Ottavino,1,2,2,Carlos Lee,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+7,top,0,[],Adam Ottavino,2,2,2,Travis Buck,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+7,top,0,[],Adam Ottavino,3,0,1,Matt Downs,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,6,N/A,N/A,N/A
+7,bottom,0,[],Wesley Wright,0,2,2,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+7,bottom,0,[],Wilton Lopez,0,0,0,Troy Tulowitzki,['Troy Tulowitzki'],['Carlos Gonzalez'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+7,bottom,0,[],Wilton Lopez,1,1,2,Todd Helton,['N/A'],['Troy Tulowitzki'],['Carlos Gonzalez'],Groundout,N/A,6,6,N/A,N/A,N/A
+7,bottom,0,[],Wilton Lopez,2,1,2,Jordan Pacheco,['Jordan Pacheco'],['N/A'],['Troy Tulowitzki'],Fielders Choice Out,N/A,6,6,N/A,N/A,N/A
+7,bottom,0,[],Wilton Lopez,3,1,1,Tyler Colvin,['N/A'],['N/A'],['N/A'],Forceout,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Matt Belisle,1,1,1,Chris Snyder,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Matt Belisle,1,1,0,Marwin Gonzalez,['Marwin Gonzalez'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Matt Belisle,2,1,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+8,top,0,[],Matt Belisle,3,2,3,Jordan Schafer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Wilton Lopez,0,1,0,Wil Nieves,['Wil Nieves'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Wilton Lopez,0,4,2,Jason Giambi,['Jason Giambi'],['Wil Nieves'],['N/A'],Walk,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Wilton Lopez,1,0,0,Dexter Fowler,['N/A'],['DJ LeMahieu'],['Wil Nieves'],Sac Bunt,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Wilton Lopez,2,1,0,Marco Scutaro,['Marco Scutaro'],['N/A'],['DJ LeMahieu'],Fielders Choice Out,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,1,0,Carlos Gonzalez,['N/A'],['Marco Scutaro'],['N/A'],Stolen Base 2B,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Xavier Cedeno,2,4,0,Carlos Gonzalez,['Carlos Gonzalez'],['Marco Scutaro'],['N/A'],Intent Walk,N/A,6,6,N/A,N/A,N/A
+8,bottom,0,[],Fernando Rodriguez,3,1,1,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Rafael Betancourt,1,0,0,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Rafael Betancourt,1,0,0,Brian Bogusevic,['Brian Bogusevic'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Rafael Betancourt,2,0,1,Carlos Lee,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,6,N/A,N/A,N/A
+9,top,0,[],Rafael Betancourt,3,1,0,Travis Buck,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,1,0,0,Todd Helton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,2,1,0,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,6,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,3,1,3,Tyler Colvin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Josh Roenicke,0,3,2,Jed Lowrie,['Jed Lowrie'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Josh Roenicke,1,1,3,Chris Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Josh Roenicke,1,0,0,Marwin Gonzalez,['Marwin Gonzalez'],['Jed Lowrie'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+10,top,0,[],Josh Roenicke,3,2,2,Chris Johnson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,6,N/A,N/A,N/A
+10,bottom,0,[],Brett Myers,1,0,0,Wil Nieves,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,6,N/A,N/A,N/A
+10,bottom,0,[],Brett Myers,1,0,1,Michael Cuddyer,['Michael Cuddyer'],['N/A'],['N/A'],Single,N/A,6,6,N/A,N/A,N/A
+10,bottom,1,['Michael Cuddyer'],Brett Myers,1,1,0,Dexter Fowler,['N/A'],['N/A'],['Dexter Fowler'],Triple,N/A,7,6,1,N/A,N/A

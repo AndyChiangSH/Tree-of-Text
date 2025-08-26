@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Christian Bergman,0,4,2,Christian Yelich,['Christian Yelich'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Christian Bergman,1,1,2,Jeff Baker,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Christian Bergman,1,4,1,Giancarlo Stanton,['Giancarlo Stanton'],['Christian Yelich'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Christian Bergman,2,1,2,Casey McGehee,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Christian Bergman,3,1,2,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Brad Hand,0,2,1,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Brad Hand,1,0,2,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+1,bottom,2,['Drew Stubbs'],Brad Hand,1,0,1,Nolan Arenado,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,2,N/A,N/A
+1,bottom,0,[],Brad Hand,2,0,1,Corey Dickerson,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+1,bottom,1,[],Brad Hand,2,2,1,Michael McKenry,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,0,1,N/A,N/A
+1,bottom,0,[],Brad Hand,2,4,0,Matt McBride,['Matt McBride'],['N/A'],['N/A'],Walk,N/A,3,0,N/A,N/A,N/A
+1,bottom,0,[],Brad Hand,2,1,2,Josh Rutledge,['Josh Rutledge'],['Matt McBride'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+1,bottom,0,[],Brad Hand,3,1,1,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Christian Bergman,1,0,1,Garrett Jones,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Christian Bergman,1,2,1,Adeiny Hechavarria,['N/A'],['N/A'],['Adeiny Hechavarria'],Triple,N/A,3,0,N/A,N/A,N/A
+2,top,1,['Adeiny Hechavarria'],Christian Bergman,1,0,0,Jeff Mathis,['N/A'],['Jeff Mathis'],['N/A'],Double,N/A,3,1,1,N/A,N/A
+2,top,0,[],Christian Bergman,2,3,2,Brad Hand,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+2,top,1,['Jeff Mathis'],Christian Bergman,2,0,0,Christian Yelich,['Christian Yelich'],['N/A'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+2,top,0,[],Christian Bergman,3,1,0,Jeff Baker,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+2,bottom,0,[],Brad Hand,1,0,1,Christian Bergman,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+2,bottom,0,[],Brad Hand,2,2,3,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+2,bottom,0,[],Brad Hand,3,2,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Christian Bergman,1,3,2,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Christian Bergman,2,1,2,Casey McGehee,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Christian Bergman,2,0,0,Marcell Ozuna,['N/A'],['Marcell Ozuna'],['N/A'],Double,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Christian Bergman,3,0,1,Garrett Jones,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Brad Hand,0,2,0,Nolan Arenado,['Nolan Arenado'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Brad Hand,1,0,1,Corey Dickerson,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Brad Hand,3,3,2,Michael McKenry,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Christian Bergman,0,1,1,Adeiny Hechavarria,['N/A'],['N/A'],['Adeiny Hechavarria'],Triple,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Christian Bergman,1,1,0,Jeff Mathis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Christian Bergman,2,0,0,Brad Hand,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Christian Bergman,3,3,3,Christian Yelich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Brad Hand,1,2,2,Matt McBride,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Brad Hand,1,3,2,Josh Rutledge,['N/A'],['N/A'],['Josh Rutledge'],Triple,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Brad Hand,2,0,1,DJ LeMahieu,['DJ LeMahieu'],['N/A'],['N/A'],Fielders Choice Out,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Brad Hand,3,1,0,Christian Bergman,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Christian Bergman,1,1,1,Jeff Baker,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Christian Bergman,2,0,0,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Christian Bergman,2,2,2,Casey McGehee,['N/A'],['Casey McGehee'],['N/A'],Double,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Christian Bergman,3,0,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,2,N/A,N/A,N/A
+5,bottom,0,[],Brad Hand,0,4,1,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+5,bottom,0,[],Brad Hand,0,1,2,Drew Stubbs,['Drew Stubbs'],['Charlie Blackmon'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+5,bottom,0,[],Brad Hand,0,0,1,Nolan Arenado,['Nolan Arenado'],['Drew Stubbs'],['Charlie Blackmon'],Hit By Pitch,N/A,3,2,N/A,N/A,N/A
+5,bottom,0,[],Brad Hand,1,0,3,Corey Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+5,bottom,1,['Charlie Blackmon'],Brad Hand,1,4,1,Michael McKenry,['Michael McKenry'],['Nolan Arenado'],['Drew Stubbs'],Walk,N/A,4,2,1,N/A,N/A
+5,bottom,0,[],Brad Penny,2,3,2,Matt McBride,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Brad Penny,3,1,2,Josh Rutledge,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Christian Bergman,1,1,1,Garrett Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Christian Bergman,2,0,1,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Christian Bergman,3,0,1,Jeff Mathis,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Brad Penny,0,0,1,DJ LeMahieu,['DJ LeMahieu'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Brad Penny,2,0,0,Christian Bergman,['N/A'],['N/A'],['N/A'],Double Play,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Brad Penny,2,1,2,Charlie Blackmon,['N/A'],['Charlie Blackmon'],['N/A'],Double,N/A,4,2,N/A,N/A,N/A
+6,bottom,1,['Charlie Blackmon'],Brad Penny,2,0,1,Drew Stubbs,['N/A'],['Drew Stubbs'],['N/A'],Double,N/A,5,2,1,N/A,N/A
+6,bottom,0,[],N/A,2,1,0,Nolan Arenado,['N/A'],['N/A'],['Drew Stubbs'],Stolen Base 3B,N/A,5,2,N/A,N/A,N/A
+6,bottom,0,[],Brad Penny,3,2,1,Nolan Arenado,['N/A'],['N/A'],['Drew Stubbs'],Groundout,N/A,5,2,N/A,N/A,N/A
+7,top,0,[],Christian Bergman,1,1,2,Brad Penny,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,2,N/A,N/A,N/A
+7,top,0,[],Christian Bergman,1,2,1,Christian Yelich,['N/A'],['Christian Yelich'],['N/A'],Double,N/A,5,2,N/A,N/A,N/A
+7,top,1,['Christian Yelich'],Christian Bergman,1,0,1,Jeff Baker,['N/A'],['Jeff Baker'],['N/A'],Double,N/A,5,3,1,N/A,N/A
+7,top,1,['Jeff Baker'],Christian Bergman,1,3,2,Giancarlo Stanton,['Giancarlo Stanton'],['N/A'],['N/A'],Single,N/A,5,4,1,N/A,N/A
+7,top,0,[],Juan Nicasio,2,1,3,Casey McGehee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Juan Nicasio,3,1,2,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Forceout,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Brad Penny,0,0,0,Corey Dickerson,['Corey Dickerson'],['N/A'],['N/A'],Single,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Brad Penny,1,0,0,Michael McKenry,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Brad Penny,1,1,1,Matt McBride,['Matt McBride'],['N/A'],['Corey Dickerson'],Single,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Brad Penny,1,4,2,Josh Rutledge,['Josh Rutledge'],['Matt McBride'],['N/A'],Walk,N/A,5,4,N/A,N/A,N/A
+7,bottom,2,"['Corey Dickerson', 'Matt McBride']",Brad Penny,1,0,1,DJ LeMahieu,['N/A'],['DJ LeMahieu'],['Josh Rutledge'],Double,N/A,7,4,2,N/A,N/A
+7,bottom,0,[],Brad Penny,2,0,3,Brandon Barnes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,4,N/A,N/A,N/A
+7,bottom,0,[],Mike Dunn,3,0,1,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,4,N/A,N/A,N/A
+8,top,0,[],Boone Logan,0,1,1,Ed Lucas,['Ed Lucas'],['N/A'],['N/A'],Single,N/A,7,4,N/A,N/A,N/A
+8,top,0,[],Adam Ottavino,2,1,1,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,7,4,N/A,N/A,N/A
+8,top,0,[],Adam Ottavino,2,0,0,Jeff Mathis,['Jeff Mathis'],['N/A'],['N/A'],Single,N/A,7,4,N/A,N/A,N/A
+8,top,0,[],Adam Ottavino,3,0,1,Reed Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],A.J. Ramos,0,0,1,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Single,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],A.J. Ramos,1,1,0,Nolan Arenado,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],A.J. Ramos,3,3,3,Corey Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,4,N/A,N/A,N/A
+9,top,0,[],LaTroy Hawkins,1,0,1,Christian Yelich,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,4,N/A,N/A,N/A
+9,top,0,[],LaTroy Hawkins,2,1,1,Donovan Solano,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,4,N/A,N/A,N/A
+9,top,0,[],LaTroy Hawkins,3,1,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,4,N/A,N/A,N/A

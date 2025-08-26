@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Roenis Elias,1,1,3,Robbie Grossman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Roenis Elias,2,0,0,Jose Altuve,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Roenis Elias,3,1,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Collin McHugh,1,1,1,Austin Jackson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Collin McHugh,2,3,2,Endy Chavez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Collin McHugh,3,3,3,Robinson Cano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Roenis Elias,1,0,0,Chris Carter,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Roenis Elias,1,4,2,Jason Castro,['Jason Castro'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Roenis Elias,2,0,0,Jake Marisnick,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Roenis Elias,2,3,2,Jon Singleton,['Jon Singleton'],['Jason Castro'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Roenis Elias,3,0,2,Matt Dominguez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Collin McHugh,1,3,2,Kyle Seager,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Collin McHugh,2,2,0,Kendrys Morales,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Collin McHugh,3,1,2,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Roenis Elias,0,0,0,Jonathan Villar,['N/A'],['Jonathan Villar'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Roenis Elias,1,1,2,Robbie Grossman,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Roenis Elias,2,3,2,Jose Altuve,['N/A'],['N/A'],['Jonathan Villar'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Roenis Elias,3,0,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Collin McHugh,1,1,2,Mike Zunino,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Collin McHugh,2,2,2,Michael Saunders,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Collin McHugh,3,0,0,Brad Miller,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Roenis Elias,0,3,2,Chris Carter,['Chris Carter'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Roenis Elias,1,0,3,Jason Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Roenis Elias,2,1,0,Jake Marisnick,['Jake Marisnick'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+4,top,1,['Jake Marisnick'],Roenis Elias,2,1,1,Jon Singleton,['N/A'],['N/A'],['Jon Singleton'],Double,N/A,0,1,1,N/A,N/A
+4,top,0,[],Roenis Elias,3,1,0,Matt Dominguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Collin McHugh,0,1,2,Austin Jackson,['Austin Jackson'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Collin McHugh,2,2,1,Endy Chavez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Collin McHugh,3,0,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Roenis Elias,1,2,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Roenis Elias,1,0,0,Robbie Grossman,['Robbie Grossman'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Roenis Elias,2,0,0,Jose Altuve,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Roenis Elias,3,0,0,Dexter Fowler,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Collin McHugh,1,1,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Collin McHugh,1,2,1,Kendrys Morales,['Kendrys Morales'],['N/A'],['N/A'],Field Error,N/A,0,1,N/A,N/A,Jose Altuve
+5,bottom,0,[],Collin McHugh,2,1,0,Logan Morrison,['N/A'],['Kendrys Morales'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Collin McHugh,3,1,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Roenis Elias,1,0,0,Dexter Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Roenis Elias,1,4,1,Chris Carter,['Chris Carter'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Roenis Elias,1,1,0,Jason Castro,['Jason Castro'],['Chris Carter'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Roenis Elias,2,0,0,Jake Marisnick,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Roenis Elias,3,1,2,Jon Singleton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Collin McHugh,1,2,1,Michael Saunders,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Collin McHugh,2,2,2,Brad Miller,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Collin McHugh,3,1,0,Austin Jackson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Carson Smith,1,2,1,Matt Dominguez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Carson Smith,2,0,1,Jonathan Villar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Carson Smith,3,2,3,Robbie Grossman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Collin McHugh,1,1,3,Endy Chavez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Collin McHugh,2,1,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Collin McHugh,3,3,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Carson Smith,1,2,0,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Carson Smith,2,2,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Carson Smith,3,1,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Collin McHugh,1,2,0,Kendrys Morales,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,bottom,1,[],Collin McHugh,1,1,0,Logan Morrison,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+8,bottom,0,[],Collin McHugh,2,3,2,Mike Zunino,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Collin McHugh,3,2,0,Michael Saunders,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Joe Beimel,1,1,1,Jason Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Yoervis Medina,2,2,3,Jake Marisnick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Yoervis Medina,2,4,2,Jon Singleton,['Jon Singleton'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Yoervis Medina,2,1,2,Matt Dominguez,['N/A'],['Jon Singleton'],['N/A'],Wild Pitch,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Yoervis Medina,2,3,2,Matt Dominguez,['Matt Dominguez'],['Jon Singleton'],['Jon Singleton'],Single,N/A,1,1,N/A,N/A,N/A
+9,top,1,['Jon Singleton'],Yoervis Medina,2,1,1,Jonathan Villar,['Jonathan Villar'],['Matt Dominguez'],['N/A'],Single,N/A,1,2,1,N/A,N/A
+9,top,0,[],Charlie Furbush,3,2,3,Robbie Grossman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Josh Fields,1,3,2,Brad Miller,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Josh Fields,2,1,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Josh Fields,3,0,0,Endy Chavez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A

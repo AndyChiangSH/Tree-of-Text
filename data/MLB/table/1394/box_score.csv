@@ -1,0 +1,58 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Feldman,,,,,,,,,,Scott Feldman,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Sipp,,,,,,,,,,Tony Sipp,,,,,,,,,Tony,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Neshek,,,,,,,,,,Pat Neshek,,,,,,,,,Pat,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Fister,,,,,,,,,,Doug Fister,,,,,,,,,Doug,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Rasmus,,0,,LF,3,,0,0,4,Colby Rasmus,,,1.000,,.253,,,2,Colby,,,,,1,,,0,.739,,500,,0,,,0,,0,,1,,,0,0,0,0,1,Astros,0,.406,0,.333
+,Gomez,,0,,CF,1,,0,0,4,Carlos Gomez,,1,1.000,,.226,,,2,Carlos,,,,,3,,,0,.637,,600,,0,,,0,,0,,1,,,1,1,1,0,2,Astros,0,.344,0,.293
+,Valbuena,,0,,3B,0,,0,0,3,Luis Valbuena,,,1.000,,.260,,,0,Luis,,,,,3,,,1,.815,,200,,0,,,2,,1,,1,,,0,1,2,0,1,Astros,0,.453,0,.362
+,Castro,,0,,C,1,,0,0,3,Jason Castro,,2,1.000,,.210,,,1,Jason,,,,,8,,,0,.724,,900,,0,,,0,,0,,0,,,0,0,0,0,0,Astros,0,.386,0,.338
+,Harris,,,,,,,,,,Will Harris,,,,,,,,,Will,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+1,Gregerson,0,0,0,P,0,3,0,0,0,Luke Gregerson,3,,.000,5,.000,0,7,0,Luke,13,2,,0,0,1,,0,.000,3,,,0,48,,0,3.67,0,3,0,0,9,0,0,0,0,0,Astros,0,.000,0,.000
+,Gonzalez,,0,,1B,2,,0,0,3,Marwin Gonzalez,,1,1.000,,.252,,,0,Marwin,,,,,4,,,0,.709,,700,,0,,,0,,0,,0,,,0,0,0,0,0,Astros,0,.407,0,.302
+,Altuve,,0,,2B,1,,0,0,4,Jose Altuve,,4,1.000,,.352,,,3,Jose,,,,,3,,,0,.992,,300,,0,,,1,,0,,0,,,0,0,0,0,0,Astros,0,.565,0,.427
+,Worth,,,,,,,,,,Danny Worth,,,,,,,,,Danny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,McHugh,,,,,,,,,,Collin McHugh,,,,,,,,,Collin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Springer,,0,,RF,0,,0,1,3,George Springer,,1,1.000,,.259,,,0,George,,,,,4,,,0,.821,,100,,0,,,0,,0,,1,,,0,2,1,0,0,Astros,0,.463,0,.358
+,Marisnick,,0,,PR-DH,0,,1,0,0,Jake Marisnick,,,.000,,.171,,,0,Jake,,,,,0,,,0,.492,,801,,0,,,0,,0,,0,,,0,0,0,0,0,Astros,0,.257,0,.235
+3,Fiers,4,0,2,P,0,24,0,0,0,Mike Fiers,6,,.000,0,.000,0,61,0,Mike,0,4,,0,0,6,,0,.000,0,,,0,68,true,0,4.12,0,18,0,0,94,0,0,0,0,0,Astros,0,.000,0,.000
+3,Giles,0,0,0,P,0,3,0,0,0,Ken Giles,0,,.000,3,.000,0,9,0,Ken,1,2,,0,0,1,,0,.000,13,,,0,48,,0,4.76,0,3,0,0,13,0,0,0,0,0,Astros,0,.000,0,.000
+,Keuchel,,,,,,,,,,Dallas Keuchel,,,,,,,,,Dallas,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Feliz,,,,,,,,,,Michael Feliz,,,,,,,,,Michael,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Gattis,,,,,,,,,,Evan Gattis,,,,,,,,,Evan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+2,Devenski,1,0,1,P,0,4,0,0,0,Chris Devenski,0,,.000,0,.000,0,9,0,Chris,1,0,,0,0,1,,0,.000,0,,,0,42,,0,2.18,0,3,0,0,15,0,0,0,0,0,Astros,0,.000,0,.000
+,Reed,,0,,DH,0,,0,0,2,AJ Reed,,,.000,,.059,,,0,AJ,,,,,0,,,1,.249,,800,,0,,,0,,0,,1,,,0,0,1,0,0,Astros,0,.059,0,.190
+,Correa,,0,,SS,1,,0,0,3,Carlos Correa,,1,1.000,,.269,,,0,Carlos,,,,,1,,,1,.844,,400,,0,,,0,,0,,1,,,0,1,0,0,1,Astros,0,.476,0,.368
+,McCullers,,,,,,,,,,Lance McCullers,,,,,,,,,Lance,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Morneau,,,,,,,,,,Justin Morneau,,,,,,,,,Justin,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Navarro,,,,,,,,,,Dioner Navarro,,,,,,,,,Dioner,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Duke,,,,,,,,,,Zach Duke,,,,,,,,,Zach,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Shields,,,,,,,,,,James Shields,,,,,,,,,James,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Carroll,,,,,,,,,,Scott Carroll,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Frazier,,0,,DH,3,,0,0,4,Todd Frazier,,,.000,,.203,,,1,Todd,,,,,0,,,0,.761,,400,,0,,,0,,0,,1,,,0,0,0,0,0,White Sox,0,.462,0,.299
+4,Gonzalez,3,0,2,P,0,26,0,0,0,Miguel Gonzalez,1,,1.000,0,.000,3,63,0,Miguel,0,4,,1,1,7,,0,.000,0,,true,0,61,,1,4.88,0,21,0,2,92,0,0,0,0,0,White Sox,0,.000,0,.000
+,Jackson,,,,,,,,,,Austin Jackson,,,,,,,,,Austin,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Albers,,,,,,,,,,Matt Albers,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Cabrera,,,,,,,,,,Melky Cabrera,,,,,,,,,Melky,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Putnam,,,,,,,,,,Zach Putnam,,,,,,,,,Zach,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Avila,,0,,C,0,,0,0,2,Alex Avila,,,1.000,,.233,,,2,Alex,,,,,5,,,2,.701,,600,,0,,,1,,0,,0,,,0,0,2,0,0,White Sox,0,.353,0,.348
+,Quintana,,,,,,,,,,Jose Quintana,,,,,,,,,Jose,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Robertson,,,,,,,,,,David Robertson,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Petricka,,,,,,,,,,Jake Petricka,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Jones,,,,,,,,,,Nate Jones,,,,,,,,,Nate,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Sale,,,,,,,,,,Chris Sale,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Garcia,,0,,LF,1,,0,0,4,Avisail Garcia,,2,1.000,,.245,,,4,Avisail,,,,,3,,,0,.664,,700,,0,,,0,,1,,1,,,0,0,1,0,0,White Sox,0,.354,0,.310
+,Jennings,,,,,,,,,,Dan Jennings,,,,,,,,,Dan,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Lawrie,,0,,2B,1,,0,0,4,Brett Lawrie,,1,.000,,.252,,,2,Brett,,,,,0,,,0,.756,,500,,0,,,0,,2,,2,,,0,0,0,0,0,White Sox,0,.436,0,.320
+,Shuck,,0,,CF,2,,0,0,3,JB Shuck,,1,1.000,,.231,,,1,JB,,,,,2,,,0,.605,,900,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.352,0,.253
+,Webb,,,,,,,,,,Daniel Webb,,,,,,,,,Daniel,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Abreu,,0,,1B,2,,0,0,4,Jose Abreu,,,1.000,,.262,,,0,Jose,,,,,8,,,0,.750,,300,,0,,,1,,1,,1,,,0,0,1,0,0,White Sox,0,.430,0,.320
+,Sanchez,,,,,,,,,,Yolmer Sanchez,,,,,,,,,Yolmer,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+0,Beck,3,0,1,P,0,7,0,0,0,Chris Beck,0,,.000,0,.000,2,16,0,Chris,0,1,,0,0,1,,0,.000,1,,,0,33,,0,5.79,0,3,0,2,22,0,0,0,0,0,White Sox,0,.000,0,.000
+,Davidson,,,,,,,,,,Matt Davidson,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Saladino,,0,,3B,1,,0,0,2,Tyler Saladino,,,.750,,.255,,,2,Tyler,,,,,0,,,1,.712,,800,,1,,,3,,0,,0,,,0,0,1,0,0,White Sox,0,.418,0,.294
+,Ynoa,,,,,,,,,,Michael Ynoa,,,,,,,,,Michael,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Eaton,,0,,RF,2,,0,0,4,Adam Eaton,,1,1.000,,.270,,,1,Adam,,,,,2,,,0,.747,,200,,0,,,0,,0,,0,,,0,0,1,0,0,White Sox,0,.392,0,.355
+,Coats,,,,,,,,,,Jason Coats,,,,,,,,,Jason,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Rodon,,,,,,,,,,Carlos Rodon,,,,,,,,,Carlos,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Anderson,,0,,SS,2,,0,0,4,Tim Anderson,,,1.000,,.300,,,1,Tim,,,,,3,,,0,.797,,100,,0,,,3,,0,,0,,,0,0,2,0,0,White Sox,0,.489,0,.308

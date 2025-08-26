@@ -1,0 +1,64 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Oliver,,,,,,,,,,Darren Oliver,,,,,,,,,Darren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Rhodes,,,,,,,,,,Arthur Rhodes,,,,,,,,,Arthur,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Tomko,,,,,,,,,,Brett Tomko,,,,,,,,,Brett,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Beltre,,0,,3B,1,,0,0,4,Adrian Beltre,,3,1.000,,.259,,,3,Adrian,,,,,1,,,0,.854,,400,,0,,,2,,0,,0,,,0,0,0,0,0,Rangers,0,.565,0,.289
+,Torrealba,,0,,C,0,,0,0,4,Yorvit Torrealba,,1,1.000,,.258,,,0,Yorvit,,,,,4,,,0,.738,,700,,0,,,1,,0,,2,,,1,1,1,0,1,Rangers,0,.468,0,.270
+,Young,,0,,DH,0,,0,0,4,Michael Young,,3,.000,,.363,,,2,Michael,,,,,0,,,0,.877,,300,,0,,,0,,2,,2,,,0,0,0,0,1,Rangers,0,.505,0,.372
+,Hamilton,,,,,,,,,,Josh Hamilton,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+3,Lewis,7,0,4,P,0,24,0,0,0,Colby Lewis,1,,.000,0,.000,6,60,0,Colby,0,3,,3,0,5,,0,.000,0,,true,0,28,,0,6.95,0,15,0,6,95,0,0,0,0,0,Rangers,0,.000,0,.000
+,Webb,,,,,,,,,,Brandon Webb,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Blanco,,,,,,,,,,Andres Blanco,,,,,,,,,Andres,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+0,Bush,2,0,1,P,0,10,0,0,0,Dave Bush,0,,1.000,0,.000,0,20,0,Dave,0,0,,0,2,3,,0,.000,0,,,0,54,,0,1.13,0,9,0,0,34,0,0,0,0,0,Rangers,0,.000,0,.000
+,Napoli,,0,,PH-1B,0,,0,0,1,Mike Napoli,,1,1.000,,.303,,,1,Mike,,,,,2,,,0,1.283,,901,,0,,,1,,0,,0,,,0,0,0,0,0,Rangers,0,.818,0,.465
+,Kinsler,,0,,2B,2,,0,0,3,Ian Kinsler,,,1.000,,.232,,,0,Ian,,,,,2,,,1,.851,,100,,0,,,3,,1,,1,,,0,0,0,0,1,Rangers,0,.500,0,.351
+,Cruz,,0,,RF-LF,0,,0,0,3,Nelson Cruz,,1,1.000,,.250,,,1,Nelson,,,,,1,,,1,.846,,500,,0,,,0,,0,,1,,,1,1,1,0,1,Rangers,0,.513,0,.333
+,Feldman,,,,,,,,,,Scott Feldman,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Davis,,,,,,,,,,Chris Davis,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Beltre,,,,,,,,,,Omar Beltre,,,,,,,,,Omar,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Wilson,,,,,,,,,,C.J. Wilson,,,,,,,,,C.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Harrison,,,,,,,,,,Matt Harrison,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Hurley,,,,,,,,,,Eric Hurley,,,,,,,,,Eric,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Teagarden,,,,,,,,,,Taylor Teagarden,,,,,,,,,Taylor,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Murphy,,0,,LF-CF,0,,0,0,4,David Murphy,,4,1.000,,.273,,,1,David,,,,,5,,,0,.751,,600,,0,,,1,,0,,0,,,0,0,1,0,0,Rangers,0,.418,0,.333
+,Andrus,,0,,SS,2,,0,0,4,Elvis Andrus,,1,1.000,,.227,,,1,Elvis,,,,,1,,,0,.626,,200,,0,,,7,,0,,1,,,0,1,0,0,0,Rangers,0,.333,0,.293
+0,Strop,0,0,0,P,0,3,0,0,0,Pedro Strop,0,,.000,0,.000,0,9,0,Pedro,0,1,,0,0,1,,0,.000,0,,,0,54,,0,1.42,0,3,0,0,13,0,0,0,0,0,Rangers,0,.000,0,.000
+,Ogando,,,,,,,,,,Alexi Ogando,,,,,,,,,Alexi,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Tobin,,,,,,,,,,Mason Tobin,,,,,,,,,Mason,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Borbon,,0,,CF,0,,0,0,2,Julio Borbon,,1,1.000,,.227,,,0,Julio,,,,,1,,,0,.618,,900,,0,,,0,,0,,1,,,0,1,0,0,0,Rangers,0,.318,0,.300
+,Hunter,,,,,,,,,,Tommy Hunter,,,,,,,,,Tommy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Feliz,,,,,,,,,,Neftali Feliz,,,,,,,,,Neftali,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Holland,,,,,,,,,,Derek Holland,,,,,,,,,Derek,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,O'Day,,,,,,,,,,Darren O'Day,,,,,,,,,Darren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Moreland,,0,,1B-RF,1,,0,0,4,Mitch Moreland,,3,1.000,,.279,,,1,Mitch,,,,,8,,,0,.912,,800,,0,,,0,,0,,0,,,0,0,0,0,0,Rangers,0,.541,0,.371
+,Eppley,,,,,,,,,,Cody Eppley,,,,,,,,,Cody,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Dotel,,,,,,,,,,Octavio Dotel,,,,,,,,,Octavio,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Molina,,0,,C,1,,0,0,4,Jose Molina,,3,1.000,,.313,,,2,Jose,,,,,3,,,0,.853,,600,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.500,0,.353
+,McDonald,,0,,2B,1,,0,0,4,John McDonald,,3,1.000,,.268,,,2,John,,,,,1,,,0,.755,,800,,0,,,10,,0,,1,,,0,0,0,1,0,Blue Jays,0,.415,0,.340
+,Woodward,,0,,3B,2,,0,0,4,Chris Woodward,,,1.000,,.000,,,2,Chris,,,,,1,,,0,.000,,900,,0,,,1,,0,,0,,,0,0,2,0,0,Blue Jays,0,.000,0,.000
+,Patterson,,0,,CF,2,,1,0,4,Corey Patterson,,,1.000,,.222,,,1,Corey,,,,,3,,,0,.689,,200,,0,,,0,,0,,2,,,1,1,0,0,3,Blue Jays,0,.426,0,.263
+1,Rauch,1,0,0,P,0,4,0,0,0,Jon Rauch,1,,.000,0,.000,1,13,0,Jon,4,1,true,1,0,1,,0,.000,0,,,0,48,,0,2.79,0,3,0,1,20,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Rivera,,0,,DH,1,,0,0,3,Juan Rivera,,2,.000,,.148,,,1,Juan,,,,,0,,,1,.474,,500,,0,,,0,,0,,1,,,1,1,0,0,2,Blue Jays,0,.204,0,.270
+,Francisco,,,,,,,,,,Frank Francisco,,,,,,,,,Frank,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Camp,,,,,,,,,,Shawn Camp,,,,,,,,,Shawn,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Encarnacion,,,,,,,,,,Edwin Encarnacion,,,,,,,,,Edwin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+1,Frasor,1,0,0,P,0,5,0,0,0,Jason Frasor,1,,.000,1,.000,0,14,0,Jason,0,0,,0,0,1,1/3,0,.000,1,,,0,52,,0,2.61,0,4,0,0,21,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,McGowan,,,,,,,,,,Dustin McGowan,,,,,,,,,Dustin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Bautista,,0,,RF,0,,0,0,2,Jose Bautista,,1,1.000,,.364,,,0,Jose,,,,,3,,,2,1.305,,300,,0,,,0,,0,,1,,,1,1,0,0,1,Blue Jays,0,.788,0,.517
+,Hill,,,,,,,,,,Aaron Hill,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Carlson,,,,,,,,,,Jesse Carlson,,,,,,,,,Jesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Nix,,,,,,,,,,Jayson Nix,,,,,,,,,Jayson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Davis,,,,,,,,,,Rajai Davis,,,,,,,,,Rajai,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Janssen,,,,,,,,,,Casey Janssen,,,,,,,,,Casey,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Litsch,,,,,,,,,,Jesse Litsch,,,,,,,,,Jesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Arencibia,,,,,,,,,,J.P. Arencibia,,,,,,,,,J.P.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lind,,0,,1B,2,,0,0,3,Adam Lind,,,1.000,,.235,,,3,Adam,,,,,13,,,1,.609,,400,,0,,,0,,0,,1,,,0,1,0,0,0,Blue Jays,0,.329,0,.280
+,Morrow,,,,,,,,,,Brandon Morrow,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,McCoy,,,,,,,,,,Mike McCoy,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Villanueva,,,,,,,,,,Carlos Villanueva,,,,,,,,,Carlos,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Reyes,,,,,,,,,,Jo-Jo Reyes,,,,,,,,,Jo-Jo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Romero,,,,,,,,,,Ricky Romero,,,,,,,,,Ricky,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+0,Drabek,5,0,2,P,0,23,0,0,0,Kyle Drabek,2,,1.000,0,.000,3,61,0,Kyle,0,2,,1,1,6,,0,.000,0,,,0,50,true,1,3.30,0,18,0,3,101,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Escobar,,0,,SS,0,,0,0,5,Yunel Escobar,,2,1.000,,.286,,,1,Yunel,,,,,2,,,0,.787,,100,,0,,,5,,0,,2,,,0,1,1,0,0,Blue Jays,0,.442,0,.345
+,Snider,,0,,LF,0,,0,0,3,Travis Snider,,1,.000,,.173,,,0,Travis,,,,,0,,,1,.538,,700,,0,,,0,,0,,1,,,0,1,1,0,0,Blue Jays,0,.267,0,.271
+0,Rzepczynski,1,0,0,P,0,3,0,0,0,Marc Rzepczynski,2,,1.000,0,.000,0,4,0,Marc,0,0,,0,0,0,2/3,0,.000,2,,,0,50,,1,3.38,0,2,0,0,7,0,0,0,0,0,Blue Jays,0,.000,0,.000

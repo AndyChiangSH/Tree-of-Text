@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Gil Meche,1,2,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Gil Meche,2,1,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Gil Meche,3,2,3,Carlos Guillen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kenny Rogers,0,4,2,Joey Gathright,['Joey Gathright'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kenny Rogers,0,0,0,Esteban German,['Esteban German'],['Joey Gathright'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,2,"['Joey Gathright', 'Esteban German']",Kenny Rogers,0,1,1,Billy Butler,['N/A'],['Billy Butler'],['N/A'],Double,N/A,2,0,2,N/A,N/A
+1,bottom,0,[],Kenny Rogers,1,2,0,Jose Guillen,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+1,bottom,1,['Billy Butler'],Kenny Rogers,1,0,0,Miguel Olivo,['N/A'],['Miguel Olivo'],['N/A'],Double,N/A,3,0,1,N/A,N/A
+1,bottom,0,[],Kenny Rogers,2,2,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+1,bottom,0,[],Kenny Rogers,3,0,0,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Gil Meche,0,1,0,Magglio Ordonez,['N/A'],['Magglio Ordonez'],['N/A'],Double,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Gil Meche,1,2,2,Miguel Cabrera,['N/A'],['N/A'],['Magglio Ordonez'],Flyout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Gil Meche,1,4,1,Gary Sheffield,['Gary Sheffield'],['N/A'],['N/A'],Walk,N/A,3,0,N/A,N/A,N/A
+2,top,1,['Magglio Ordonez'],Gil Meche,2,1,0,Matt Joyce,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,1,1,N/A,N/A
+2,top,0,[],Gil Meche,2,2,2,Brandon Inge,['Brandon Inge'],['Gary Sheffield'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Gil Meche,3,3,2,Ramon Santiago,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Kenny Rogers,0,1,1,Ross Gload,['N/A'],['Ross Gload'],['N/A'],Double,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Kenny Rogers,0,0,2,Tony Pena,['Tony Pena'],['N/A'],['Ross Gload'],Single,N/A,3,1,N/A,N/A,N/A
+2,bottom,1,['Ross Gload'],Kenny Rogers,0,0,0,Joey Gathright,['Joey Gathright'],['Tony Pena'],['N/A'],Single,N/A,4,1,1,N/A,N/A
+2,bottom,0,[],Kenny Rogers,1,0,0,Esteban German,['N/A'],['Joey Gathright'],['Tony Pena'],Sac Bunt,N/A,4,1,N/A,N/A,N/A
+2,bottom,0,[],Kenny Rogers,1,4,1,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+2,bottom,1,['Tony Pena'],Kenny Rogers,1,4,2,Jose Guillen,['Jose Guillen'],['Billy Butler'],['Joey Gathright'],Walk,N/A,5,1,1,N/A,N/A
+2,bottom,0,[],Kenny Rogers,2,2,1,Miguel Olivo,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,1,N/A,N/A,N/A
+2,bottom,0,[],Kenny Rogers,3,2,2,Mark Teahen,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+3,top,0,[],Gil Meche,1,1,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+3,top,0,[],Gil Meche,2,0,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+3,top,0,[],Gil Meche,3,1,1,Carlos Guillen,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+3,bottom,0,[],Kenny Rogers,1,1,0,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+3,bottom,0,[],Kenny Rogers,2,2,2,Ross Gload,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+3,bottom,0,[],Kenny Rogers,2,2,2,Tony Pena,['Tony Pena'],['N/A'],['N/A'],Single,N/A,5,1,N/A,N/A,N/A
+3,bottom,0,[],N/A,2,0,1,Joey Gathright,['N/A'],['Tony Pena'],['N/A'],Stolen Base 2B,N/A,5,1,N/A,N/A,N/A
+3,bottom,0,[],Kenny Rogers,3,3,2,Joey Gathright,['N/A'],['Tony Pena'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+4,top,0,[],Gil Meche,1,0,0,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+4,top,0,[],Gil Meche,1,4,1,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+4,top,0,[],Gil Meche,3,3,1,Gary Sheffield,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,1,N/A,N/A,N/A
+4,bottom,0,[],Kenny Rogers,1,2,2,Esteban German,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,1,N/A,N/A,N/A
+4,bottom,0,[],Kenny Rogers,2,1,0,Billy Butler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,1,N/A,N/A,N/A
+4,bottom,1,[],Kenny Rogers,2,0,0,Jose Guillen,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,1,1,N/A,N/A
+4,bottom,0,[],Kenny Rogers,2,1,2,Miguel Olivo,['N/A'],['Miguel Olivo'],['N/A'],Double,N/A,6,1,N/A,N/A,N/A
+4,bottom,1,['Miguel Olivo'],Kenny Rogers,2,3,2,Mark Teahen,['Mark Teahen'],['N/A'],['N/A'],Single,N/A,7,1,1,N/A,N/A
+4,bottom,0,[],Kenny Rogers,2,1,0,Alberto Callaspo,['Alberto Callaspo'],['Mark Teahen'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+4,bottom,0,[],Kenny Rogers,3,1,0,Ross Gload,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,1,N/A,N/A,N/A
+5,top,0,[],Gil Meche,1,3,2,Matt Joyce,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,1,N/A,N/A,N/A
+5,top,0,[],Gil Meche,2,3,3,Brandon Inge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+5,top,0,[],Gil Meche,2,2,2,Ramon Santiago,['N/A'],['Ramon Santiago'],['N/A'],Double,N/A,7,1,N/A,N/A,N/A
+5,top,1,['Ramon Santiago'],Gil Meche,2,1,0,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,7,2,1,N/A,N/A
+5,top,0,[],Gil Meche,2,0,1,Placido Polanco,['Placido Polanco'],['Curtis Granderson'],['N/A'],Single,N/A,7,2,N/A,N/A,N/A
+5,top,0,[],Gil Meche,3,1,3,Carlos Guillen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+5,bottom,0,[],Aquilino Lopez,1,2,3,Tony Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+5,bottom,0,[],Aquilino Lopez,2,0,0,Joey Gathright,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,2,N/A,N/A,N/A
+5,bottom,0,[],Aquilino Lopez,3,0,0,Esteban German,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,2,N/A,N/A,N/A
+6,top,0,[],Gil Meche,1,3,2,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,2,N/A,N/A,N/A
+6,top,0,[],Gil Meche,2,0,3,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+6,top,0,[],Gil Meche,3,0,0,Gary Sheffield,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,2,N/A,N/A,N/A
+6,bottom,0,[],Aquilino Lopez,1,2,1,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,2,N/A,N/A,N/A
+6,bottom,0,[],Aquilino Lopez,2,3,3,Jose Guillen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+6,bottom,0,[],Aquilino Lopez,3,0,3,Miguel Olivo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+7,top,1,[],Gil Meche,0,1,0,Matt Joyce,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,3,1,N/A,N/A
+7,top,0,[],Gil Meche,1,1,3,Brandon Inge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+7,top,0,[],Gil Meche,2,0,0,Ramon Santiago,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,7,3,N/A,N/A,N/A
+7,top,0,[],Gil Meche,3,2,0,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Bobby Seay,1,1,1,Mark Teahen,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Bobby Seay,1,0,1,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Single,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Bobby Seay,1,0,2,Ross Gload,['Ross Gload'],['Alberto Callaspo'],['N/A'],Field Error,N/A,7,3,N/A,N/A,Ramon Santiago
+7,bottom,0,[],Bobby Seay,2,3,1,Tony Pena,['N/A'],['Ross Gload'],['Alberto Callaspo'],Groundout,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Bobby Seay,3,2,3,Joey Gathright,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Joel Peralta,1,1,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Joel Peralta,1,0,0,Carlos Guillen,['N/A'],['Carlos Guillen'],['N/A'],Double,N/A,7,3,N/A,N/A,N/A
+8,top,1,['Carlos Guillen'],Joel Peralta,1,0,0,Magglio Ordonez,['N/A'],['Magglio Ordonez'],['N/A'],Double,N/A,7,4,1,N/A,N/A
+8,top,0,[],Joel Peralta,2,2,0,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,4,N/A,N/A,N/A
+8,top,0,[],Joel Peralta,3,3,3,Gary Sheffield,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],Todd Jones,0,4,2,Esteban German,['Esteban German'],['N/A'],['N/A'],Walk,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],N/A,0,2,1,Billy Butler,['N/A'],['Esteban German'],['N/A'],Stolen Base 2B,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],Todd Jones,1,3,2,Billy Butler,['N/A'],['Esteban German'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+8,bottom,1,['Esteban German'],Todd Jones,1,1,2,Jose Guillen,['Jose Guillen'],['N/A'],['N/A'],Single,N/A,8,4,1,N/A,N/A
+8,bottom,0,[],Todd Jones,2,0,2,Miguel Olivo,['Miguel Olivo'],['N/A'],['N/A'],Forceout,N/A,8,4,N/A,N/A,N/A
+8,bottom,0,[],Todd Jones,3,0,0,Mark Teahen,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,4,N/A,N/A,N/A
+9,top,0,[],Ramon Ramirez,1,2,0,Matt Joyce,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,4,N/A,N/A,N/A
+9,top,0,[],Ramon Ramirez,2,1,3,Brandon Inge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,4,N/A,N/A,N/A
+9,top,0,[],Ramon Ramirez,3,2,1,Ramon Santiago,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,4,N/A,N/A,N/A

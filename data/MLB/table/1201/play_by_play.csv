@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Dallas Keuchel,0,3,2,Manny Machado,['Manny Machado'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dallas Keuchel,1,0,3,Delmon Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dallas Keuchel,2,2,3,Adam Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,2,2,2,Chris Davis,['N/A'],['Manny Machado'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Manny Machado'],Dallas Keuchel,2,3,2,Chris Davis,['Chris Davis'],['Manny Machado'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Dallas Keuchel,3,2,3,Steve Pearce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Wei-Yin Chen,1,2,3,George Springer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Wei-Yin Chen,2,0,2,Jose Altuve,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Wei-Yin Chen,3,0,3,Evan Gattis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Dallas Keuchel,1,1,3,Travis Snider,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Dallas Keuchel,2,0,1,Caleb Joseph,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Dallas Keuchel,3,1,3,Ryan Flaherty,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Wei-Yin Chen,1,1,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Wei-Yin Chen,2,0,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Wei-Yin Chen,3,2,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Dallas Keuchel,0,4,2,Everth Cabrera,['Everth Cabrera'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Dallas Keuchel,1,1,2,Manny Machado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Dallas Keuchel,2,3,3,Delmon Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Dallas Keuchel,2,1,0,Adam Jones,['Adam Jones'],['Everth Cabrera'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Dallas Keuchel,3,3,2,Chris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,1,[],Wei-Yin Chen,0,2,0,Hank Conger,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+3,bottom,0,[],Wei-Yin Chen,1,1,1,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Wei-Yin Chen,2,1,0,Jake Marisnick,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Wei-Yin Chen,3,2,1,George Springer,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Dallas Keuchel,1,0,0,Steve Pearce,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Dallas Keuchel,2,3,2,Travis Snider,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Dallas Keuchel,3,1,1,Caleb Joseph,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Wei-Yin Chen,1,1,1,Jose Altuve,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Wei-Yin Chen,1,2,2,Evan Gattis,['Evan Gattis'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Wei-Yin Chen,1,0,1,Chris Carter,['N/A'],['Chris Carter'],['Evan Gattis'],Double,N/A,1,1,N/A,N/A,N/A
+4,bottom,1,['Evan Gattis'],Wei-Yin Chen,2,0,1,Luis Valbuena,['N/A'],['N/A'],['Chris Carter'],Sac Fly,Error,2,1,1,N/A,Delmon Young
+4,bottom,0,[],Wei-Yin Chen,3,1,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Dallas Keuchel,1,2,3,Ryan Flaherty,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Dallas Keuchel,1,2,2,Everth Cabrera,['Everth Cabrera'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Dallas Keuchel,3,2,0,Manny Machado,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Wei-Yin Chen,1,1,3,Hank Conger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Wei-Yin Chen,2,3,1,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Wei-Yin Chen,3,0,1,Jake Marisnick,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Dallas Keuchel,1,3,2,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Dallas Keuchel,1,0,0,Adam Jones,['Adam Jones'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Dallas Keuchel,2,2,2,Chris Davis,['N/A'],['Adam Jones'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,1,['Adam Jones'],Dallas Keuchel,2,3,2,Steve Pearce,['N/A'],['Steve Pearce'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+6,top,0,[],Dallas Keuchel,3,0,1,Travis Snider,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Wei-Yin Chen,0,4,2,George Springer,['George Springer'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Wei-Yin Chen,0,0,2,Jose Altuve,['Jose Altuve'],['N/A'],['George Springer'],Single,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Wei-Yin Chen,1,0,0,Evan Gattis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Wei-Yin Chen,2,1,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],N/A,2,0,2,Luis Valbuena,['N/A'],['Jose Altuve'],['N/A'],Stolen Base 2B,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Wei-Yin Chen,3,0,3,Luis Valbuena,['N/A'],['Jose Altuve'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Will Harris,1,3,2,Caleb Joseph,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Will Harris,1,4,2,Ryan Flaherty,['Ryan Flaherty'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Will Harris,3,2,2,Everth Cabrera,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Wei-Yin Chen,0,4,0,Jonathan Villar,['Jonathan Villar'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Wei-Yin Chen,0,1,1,Hank Conger,['N/A'],['Hank Conger'],['Jonathan Villar'],Double,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Wei-Yin Chen,1,0,1,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Darren O'Day,1,4,2,Colby Rasmus,['Colby Rasmus'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Darren O'Day,2,1,3,George Springer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Darren O'Day,3,2,2,Jose Altuve,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Chad Qualls,1,2,2,Manny Machado,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Chad Qualls,2,0,3,Delmon Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+8,top,1,[],Chad Qualls,2,1,0,Adam Jones,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,3,1,N/A,N/A
+8,top,0,[],Chad Qualls,3,3,2,Chris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+8,bottom,0,[],Darren O'Day,0,4,0,Evan Gattis,['Evan Gattis'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+8,bottom,0,[],Darren O'Day,1,2,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+8,bottom,0,[],Zach Britton,2,0,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+8,bottom,0,[],Zach Britton,2,2,1,Jonathan Villar,['N/A'],['Evan Gattis'],['N/A'],Wild Pitch,N/A,2,3,N/A,N/A,N/A
+8,bottom,0,[],Zach Britton,3,2,3,Jonathan Villar,['N/A'],"['Evan Gattis', 'Preston Tucker']",['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+9,top,0,[],Josh Fields,0,1,2,Steve Pearce,['Steve Pearce'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+9,top,0,[],Josh Fields,1,0,3,Travis Snider,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+9,top,0,[],Josh Fields,2,0,3,Caleb Joseph,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+9,top,0,[],Josh Fields,3,3,2,Ryan Flaherty,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+9,bottom,0,[],Zach Britton,1,2,2,Hank Conger,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+9,bottom,0,[],Zach Britton,2,0,3,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+9,bottom,0,[],Zach Britton,3,0,0,Colby Rasmus,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,2,3,N/A,N/A,N/A

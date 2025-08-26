@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,1,[],Hisashi Iwakuma,0,2,0,Jose Altuve,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Hisashi Iwakuma,1,2,0,George Springer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Hisashi Iwakuma,2,1,3,Carlos Correa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Hisashi Iwakuma,3,0,1,Colby Rasmus,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Collin McHugh,1,2,1,Ketel Marte,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Collin McHugh,2,3,2,Seth Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,1,[],Collin McHugh,2,1,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+1,bottom,0,[],Collin McHugh,3,2,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Hisashi Iwakuma,1,0,2,Evan Gattis,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Hisashi Iwakuma,2,3,3,Carlos Gomez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Hisashi Iwakuma,3,3,3,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Collin McHugh,1,2,1,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Collin McHugh,1,1,2,Kyle Seager,['N/A'],['Kyle Seager'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Collin McHugh,2,0,0,Dae-Ho Lee,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Collin McHugh,3,3,3,Steve Clevenger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Hisashi Iwakuma,1,0,0,Luis Valbuena,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Hisashi Iwakuma,1,2,0,Jason Castro,['N/A'],['Jason Castro'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+3,top,1,['Jason Castro'],Hisashi Iwakuma,1,2,1,Jose Altuve,['N/A'],['Jose Altuve'],['N/A'],Double,N/A,1,2,1,N/A,N/A
+3,top,0,[],Hisashi Iwakuma,1,0,1,George Springer,['George Springer'],['N/A'],['Jose Altuve'],Single,N/A,1,2,N/A,N/A,N/A
+3,top,1,['Jose Altuve'],Hisashi Iwakuma,1,1,0,Carlos Correa,['Carlos Correa'],['George Springer'],['N/A'],Single,N/A,1,3,1,N/A,N/A
+3,top,0,[],Hisashi Iwakuma,2,0,1,Colby Rasmus,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+3,top,0,[],Hisashi Iwakuma,3,0,3,Evan Gattis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Collin McHugh,1,2,2,Leonys Martin,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Collin McHugh,2,2,1,Ketel Marte,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Collin McHugh,2,3,2,Seth Smith,['N/A'],['Seth Smith'],['N/A'],Double,N/A,1,3,N/A,N/A,N/A
+3,bottom,1,['Seth Smith'],Collin McHugh,2,2,2,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Single,N/A,2,3,1,N/A,N/A
+3,bottom,0,[],Collin McHugh,3,3,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Hisashi Iwakuma,0,1,1,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Hit By Pitch,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Hisashi Iwakuma,2,1,2,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Hisashi Iwakuma,3,3,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Collin McHugh,1,0,1,Adam Lind,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Collin McHugh,1,4,1,Kyle Seager,['Kyle Seager'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Collin McHugh,3,1,0,Dae-Ho Lee,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Hisashi Iwakuma,0,4,1,Jason Castro,['Jason Castro'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Hisashi Iwakuma,0,1,0,Jose Altuve,['N/A'],['Jose Altuve'],['Jason Castro'],Double,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Hisashi Iwakuma,1,1,3,George Springer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Hisashi Iwakuma,1,4,1,Carlos Correa,['Carlos Correa'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+5,top,1,['Jason Castro'],Hisashi Iwakuma,1,1,1,Colby Rasmus,['Colby Rasmus'],['Carlos Correa'],['Jose Altuve'],Single,N/A,2,4,1,N/A,N/A
+5,top,1,['Jose Altuve'],Hisashi Iwakuma,2,0,2,Evan Gattis,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,5,1,N/A,N/A
+5,top,0,[],Hisashi Iwakuma,3,2,3,Preston Tucker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Collin McHugh,1,3,1,Steve Clevenger,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Collin McHugh,2,2,2,Leonys Martin,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Collin McHugh,2,2,2,Ketel Marte,['Ketel Marte'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Collin McHugh,3,3,2,Seth Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Mike Montgomery,1,3,1,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Mike Montgomery,2,0,0,Luis Valbuena,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Mike Montgomery,3,3,3,Jason Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Tony Sipp,1,1,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Tony Sipp,2,3,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,bottom,1,[],Tony Sipp,2,0,0,Adam Lind,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,1,N/A,N/A
+6,bottom,0,[],Tony Sipp,2,0,0,Kyle Seager,['Kyle Seager'],['N/A'],['N/A'],Hit By Pitch,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Will Harris,2,2,1,Dae-Ho Lee,['Dae-Ho Lee'],['Kyle Seager'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Will Harris,3,1,3,Steve Clevenger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Mayckol Guaipe,1,1,2,Jose Altuve,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Mayckol Guaipe,1,0,2,George Springer,['George Springer'],['N/A'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Mayckol Guaipe,1,1,0,Carlos Correa,['Carlos Correa'],['George Springer'],['N/A'],Field Error,N/A,3,5,N/A,N/A,Nelson Cruz
+7,top,0,[],Mayckol Guaipe,1,4,2,Colby Rasmus,['Colby Rasmus'],['Carlos Correa'],['George Springer'],Walk,N/A,3,5,N/A,N/A,N/A
+7,top,2,"['George Springer', 'Carlos Correa']",Mayckol Guaipe,2,3,1,Evan Gattis,['N/A'],['Evan Gattis'],['N/A'],Double,N/A,3,7,2,N/A,N/A
+7,top,0,[],Vidal Nuno,3,0,3,Preston Tucker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,1,2,3,Leonys Martin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,1,1,1,Ketel Marte,['Ketel Marte'],['N/A'],['N/A'],Single,N/A,3,7,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,1,1,1,Seth Smith,['N/A'],['Ketel Marte'],['N/A'],Wild Pitch,N/A,3,7,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,2,2,1,Seth Smith,['N/A'],['Ketel Marte'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+7,bottom,0,[],Will Harris,3,0,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+8,top,0,[],Vidal Nuno,1,2,3,Marwin Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+8,top,0,[],Vidal Nuno,2,2,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+8,top,0,[],Vidal Nuno,3,2,1,Jason Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Ken Giles,0,4,2,Nelson Cruz,['Nelson Cruz'],['N/A'],['N/A'],Walk,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Ken Giles,0,1,1,Adam Lind,['Adam Lind'],['Nelson Cruz'],['N/A'],Single,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Ken Giles,1,1,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Ken Giles,2,0,0,Dae-Ho Lee,['Dae-Ho Lee'],['N/A'],['Nelson Cruz'],Forceout,N/A,3,7,N/A,N/A,N/A
+8,bottom,0,[],Ken Giles,3,1,3,Steve Clevenger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+9,top,0,[],Nick Vincent,1,2,1,Jose Altuve,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,7,N/A,N/A,N/A
+9,top,0,[],Nick Vincent,2,2,3,George Springer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+9,top,0,[],Nick Vincent,3,2,3,Carlos Correa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+9,bottom,0,[],Luke Gregerson,0,4,1,Leonys Martin,['Leonys Martin'],['N/A'],['N/A'],Walk,N/A,3,7,N/A,N/A,N/A
+9,bottom,0,[],Luke Gregerson,0,0,0,Ketel Marte,['Ketel Marte'],['Leonys Martin'],['N/A'],Single,N/A,3,7,N/A,N/A,N/A
+9,bottom,0,[],Luke Gregerson,1,3,2,Seth Smith,['N/A'],['Ketel Marte'],['Leonys Martin'],Groundout,N/A,3,7,N/A,N/A,N/A
+9,bottom,1,['Leonys Martin'],Luke Gregerson,2,0,0,Robinson Cano,['N/A'],['N/A'],['Ketel Marte'],Groundout,N/A,4,7,1,N/A,N/A
+9,bottom,0,[],Luke Gregerson,3,2,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,7,N/A,N/A,N/A

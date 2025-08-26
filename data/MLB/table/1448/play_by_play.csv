@@ -1,0 +1,83 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Noah Syndergaard,1,2,3,Ender Inciarte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Noah Syndergaard,2,1,3,Adonis Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Noah Syndergaard,3,0,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Blair,1,1,3,Jose Reyes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Blair,1,4,1,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Blair,2,0,3,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Blair,3,1,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Noah Syndergaard,1,0,0,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Noah Syndergaard,1,3,2,Nick Markakis,['Nick Markakis'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Noah Syndergaard,1,4,1,Tyler Flowers,['Tyler Flowers'],['Nick Markakis'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Noah Syndergaard,1,4,1,Jace Peterson,['Jace Peterson'],['Tyler Flowers'],['Nick Markakis'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Nick Markakis'],Noah Syndergaard,1,1,1,Dansby Swanson,['Dansby Swanson'],['Jace Peterson'],['Tyler Flowers'],Single,N/A,0,1,1,N/A,N/A
+2,top,0,[],Noah Syndergaard,2,1,1,Aaron Blair,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,1,['Tyler Flowers'],Noah Syndergaard,2,1,2,Ender Inciarte,['Ender Inciarte'],['Dansby Swanson'],['Jace Peterson'],Single,N/A,0,2,1,N/A,N/A
+2,top,0,[],Noah Syndergaard,3,2,2,Adonis Garcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Aaron Blair,1,3,2,T.J. Rivera,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Aaron Blair,2,1,2,Michael Conforto,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Aaron Blair,3,0,1,James Loney,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,1,[],Noah Syndergaard,0,3,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,1,N/A,N/A
+3,top,0,[],Noah Syndergaard,1,1,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Noah Syndergaard,1,3,2,Nick Markakis,['Nick Markakis'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Noah Syndergaard,2,2,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Noah Syndergaard,3,0,2,Jace Peterson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Aaron Blair,1,0,2,Rene Rivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Aaron Blair,2,0,0,Noah Syndergaard,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Aaron Blair,3,2,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Noah Syndergaard,0,1,2,Dansby Swanson,['Dansby Swanson'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Noah Syndergaard,1,0,3,Aaron Blair,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],N/A,1,1,2,Ender Inciarte,['N/A'],['Dansby Swanson'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Noah Syndergaard,1,4,2,Ender Inciarte,['Ender Inciarte'],['Dansby Swanson'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Noah Syndergaard,2,1,1,Adonis Garcia,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,top,2,"['Dansby Swanson', 'Ender Inciarte']",Noah Syndergaard,2,1,2,Freddie Freeman,['N/A'],['Freddie Freeman'],['N/A'],Double,N/A,0,5,2,N/A,N/A
+4,top,0,[],Noah Syndergaard,2,2,0,Matt Kemp,['Matt Kemp'],['N/A'],['Freddie Freeman'],Single,N/A,0,5,N/A,N/A,N/A
+4,top,0,[],Sean Gilmartin,3,0,0,Nick Markakis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Aaron Blair,1,2,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Aaron Blair,2,0,1,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Aaron Blair,2,2,1,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,0,5,N/A,N/A,N/A
+4,bottom,2,['Curtis Granderson'],Aaron Blair,2,0,0,T.J. Rivera,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,5,2,N/A,N/A
+4,bottom,0,[],Aaron Blair,3,3,2,Michael Conforto,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+5,top,0,[],Sean Gilmartin,1,2,2,Tyler Flowers,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+5,top,0,[],Sean Gilmartin,2,1,3,Jace Peterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+5,top,0,[],Sean Gilmartin,3,2,3,Dansby Swanson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Aaron Blair,0,2,1,James Loney,['N/A'],['James Loney'],['N/A'],Double,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Aaron Blair,1,1,3,Rene Rivera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Aaron Blair,2,3,3,Kelly Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Aaron Blair,3,0,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Josh Edgin,1,1,1,Aaron Blair,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Josh Edgin,2,1,0,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Josh Edgin,3,3,3,Adonis Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Aaron Blair,1,0,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Aaron Blair,2,1,0,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Aaron Blair,2,2,1,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Aaron Blair,3,2,0,T.J. Rivera,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Josh Edgin,0,0,2,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Josh Edgin,1,2,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Josh Edgin,2,0,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Josh Edgin,2,1,1,Tyler Flowers,['Tyler Flowers'],['N/A'],['Freddie Freeman'],Single,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Josh Edgin,2,4,1,Jace Peterson,['Jace Peterson'],['Tyler Flowers'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+7,top,2,"['Freddie Freeman', 'Tyler Flowers']",Hansel Robles,2,0,1,Dansby Swanson,['Dansby Swanson'],['Jace Peterson'],['N/A'],Single,N/A,2,7,2,N/A,N/A
+7,top,0,[],Hansel Robles,3,1,2,Blake Lalli,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Mauricio Cabrera,1,1,2,Michael Conforto,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Mauricio Cabrera,1,0,2,James Loney,['James Loney'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Mauricio Cabrera,2,2,1,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,7,N/A,N/A,N/A
+7,bottom,0,[],Mauricio Cabrera,3,1,1,Brandon Nimmo,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Logan Verrett,1,1,3,Ender Inciarte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Logan Verrett,2,1,3,Adonis Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Logan Verrett,2,1,2,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Logan Verrett,2,1,2,Matt Kemp,['Matt Kemp'],['N/A'],['Freddie Freeman'],Single,N/A,2,7,N/A,N/A,N/A
+8,top,0,[],Logan Verrett,3,1,1,Nick Markakis,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,0,4,2,Jose Reyes,['Jose Reyes'],['N/A'],['N/A'],Walk,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,1,0,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,2,3,2,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,2,0,1,Curtis Granderson,['Curtis Granderson'],['Jose Reyes'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,3,1,0,T.J. Rivera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Rafael Montero,1,3,2,Tyler Flowers,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Rafael Montero,2,1,1,Jace Peterson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+9,top,0,[],Rafael Montero,3,3,3,Dansby Swanson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,7,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,0,1,2,Michael Conforto,['Michael Conforto'],['N/A'],['N/A'],Single,N/A,2,7,N/A,N/A,N/A
+9,bottom,1,['Michael Conforto'],Jim Johnson,0,1,1,James Loney,['N/A'],['James Loney'],['N/A'],Double,N/A,3,7,1,N/A,N/A
+9,bottom,0,[],Jim Johnson,1,2,3,Ty Kelly,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,2,3,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,7,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,3,0,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,7,N/A,N/A,N/A

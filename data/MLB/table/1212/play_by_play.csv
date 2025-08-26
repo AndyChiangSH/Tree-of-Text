@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jake Peavy,1,1,0,Billy Burns,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jake Peavy,2,1,1,Stephen Vogt,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jake Peavy,3,2,3,Ben Zobrist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jesse Chavez,0,3,2,Angel Pagan,['Angel Pagan'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jesse Chavez,1,2,0,Joe Panik,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jesse Chavez,1,3,2,Matt Duffy,['Matt Duffy'],['N/A'],['Angel Pagan'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Angel Pagan'],Jesse Chavez,2,2,2,Buster Posey,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,0,1,N/A,N/A
+1,bottom,1,['Matt Duffy'],Jesse Chavez,2,2,2,Hunter Pence,['N/A'],['Hunter Pence'],['N/A'],Double,N/A,2,0,1,N/A,N/A
+1,bottom,0,[],Jesse Chavez,3,1,0,Brandon Belt,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Jake Peavy,0,0,1,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Jake Peavy,0,3,2,Josh Reddick,['Josh Reddick'],['Billy Butler'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Jake Peavy,1,1,1,Brett Lawrie,['Brett Lawrie'],['N/A'],['Billy Butler'],Forceout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Jake Peavy,3,2,2,Eric Sogard,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Jesse Chavez,0,2,1,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Jesse Chavez,0,4,2,Gregor Blanco,['Gregor Blanco'],['Brandon Crawford'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Jesse Chavez,1,0,0,Jake Peavy,['N/A'],['Gregor Blanco'],['Brandon Crawford'],Sac Bunt,N/A,2,0,N/A,N/A,N/A
+2,bottom,1,['Brandon Crawford'],Jesse Chavez,1,1,1,Angel Pagan,['Angel Pagan'],['N/A'],['Gregor Blanco'],Single,N/A,3,0,1,N/A,N/A
+2,bottom,1,['Gregor Blanco'],Jesse Chavez,2,0,0,Joe Panik,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,0,1,N/A,N/A
+2,bottom,0,[],Jesse Chavez,3,0,3,Matt Duffy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+3,top,0,[],Jake Peavy,0,3,2,Sam Fuld,['N/A'],['Sam Fuld'],['N/A'],Double,N/A,4,0,N/A,N/A,N/A
+3,top,0,[],Jake Peavy,1,1,1,Jesse Chavez,['N/A'],['N/A'],['Sam Fuld'],Sac Bunt,N/A,4,0,N/A,N/A,N/A
+3,top,1,['Sam Fuld'],Jake Peavy,2,1,2,Billy Burns,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,1,N/A,N/A
+3,top,0,[],Jake Peavy,3,1,2,Stephen Vogt,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Jesse Chavez,1,1,0,Buster Posey,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Jesse Chavez,1,0,2,Hunter Pence,['Hunter Pence'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Jesse Chavez,2,3,2,Brandon Belt,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Jesse Chavez,3,0,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,1,N/A,N/A,N/A
+4,top,0,[],Jake Peavy,1,3,3,Ben Zobrist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+4,top,0,[],Jake Peavy,2,1,1,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+4,top,0,[],Jake Peavy,3,2,2,Josh Reddick,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+4,bottom,0,[],Jesse Chavez,0,0,0,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+4,bottom,0,[],Jesse Chavez,0,2,1,Jake Peavy,['Jake Peavy'],['N/A'],['Gregor Blanco'],Single,N/A,4,1,N/A,N/A,N/A
+4,bottom,0,[],Jesse Chavez,0,4,2,Angel Pagan,['Angel Pagan'],['Jake Peavy'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+4,bottom,0,[],Fernando Rodriguez Jr.,1,2,3,Joe Panik,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+4,bottom,0,[],Fernando Rodriguez Jr.,3,0,0,Matt Duffy,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,1,N/A,N/A,N/A
+5,top,0,[],Jake Peavy,1,2,1,Brett Lawrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+5,top,0,[],Jake Peavy,2,0,1,Eric Sogard,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+5,top,0,[],Jake Peavy,3,2,2,Sam Fuld,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+5,bottom,0,[],Fernando Rodriguez Jr.,0,2,1,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+5,bottom,0,[],N/A,0,2,2,Hunter Pence,['N/A'],['Buster Posey'],['N/A'],Wild Pitch,N/A,4,1,N/A,N/A,N/A
+5,bottom,1,['Buster Posey'],Fernando Rodriguez Jr.,0,2,2,Hunter Pence,['N/A'],"['Buster Posey', 'Hunter Pence']",['N/A'],Double,N/A,5,1,1,N/A,N/A
+5,bottom,1,['Hunter Pence'],Eric O'Flaherty,0,2,2,Brandon Belt,['N/A'],['Brandon Belt'],['N/A'],Double,N/A,6,1,1,N/A,N/A
+5,bottom,0,[],Eric O'Flaherty,1,2,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+5,bottom,0,[],Eric O'Flaherty,2,1,2,Gregor Blanco,['N/A'],['N/A'],['Brandon Belt'],Groundout,N/A,6,1,N/A,N/A,N/A
+5,bottom,1,['Brandon Belt'],Eric O'Flaherty,2,1,0,Jake Peavy,['Jake Peavy'],['N/A'],['N/A'],Field Error,N/A,7,1,N/A,1,Brett Lawrie
+5,bottom,0,[],Eric O'Flaherty,2,0,1,Angel Pagan,['Angel Pagan'],['Jake Peavy'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+5,bottom,0,[],Eric O'Flaherty,3,1,0,Joe Panik,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,1,N/A,N/A,N/A
+6,top,0,[],Jake Peavy,1,2,1,Jake Smolinski,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,1,N/A,N/A,N/A
+6,top,0,[],Jake Peavy,2,3,1,Mark Canha,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,1,N/A,N/A,N/A
+6,top,0,[],Jake Peavy,3,0,1,Stephen Vogt,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,1,N/A,N/A,N/A
+6,bottom,0,[],Angel Castro,1,1,0,Matt Duffy,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,1,N/A,N/A,N/A
+6,bottom,0,[],Angel Castro,1,0,1,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+6,bottom,0,[],Angel Castro,1,1,2,Hunter Pence,['Hunter Pence'],['Buster Posey'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+6,bottom,0,[],Angel Castro,2,0,3,Brandon Belt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+6,bottom,0,[],Angel Castro,3,3,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,1,N/A,N/A,N/A
+7,top,1,[],Jake Peavy,0,2,2,Ben Zobrist,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,2,1,N/A,N/A
+7,top,0,[],Jake Peavy,0,3,2,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,7,2,N/A,N/A,N/A
+7,top,0,[],George Kontos,1,2,2,Josh Reddick,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,2,N/A,N/A,N/A
+7,top,0,[],George Kontos,1,1,0,Brett Lawrie,['N/A'],['Billy Butler'],['N/A'],Wild Pitch,N/A,7,2,N/A,N/A,N/A
+7,top,0,[],George Kontos,1,3,2,Brett Lawrie,['Brett Lawrie'],['Billy Butler'],['Billy Butler'],Single,N/A,7,2,N/A,N/A,N/A
+7,top,1,['Billy Butler'],George Kontos,1,0,0,Eric Sogard,['Eric Sogard'],['Brett Lawrie'],['N/A'],Single,N/A,7,3,1,N/A,N/A
+7,top,0,[],George Kontos,2,1,3,Sam Fuld,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+7,top,0,[],George Kontos,3,2,1,Marcus Semien,['N/A'],['N/A'],['N/A'],Forceout,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Fernando Abad,1,0,2,Gregor Blanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Fernando Abad,2,1,3,Joaquin Arias,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Fernando Abad,3,1,3,Angel Pagan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Hunter Strickland,1,0,3,Mark Canha,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Hunter Strickland,2,0,0,Stephen Vogt,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Hunter Strickland,3,2,0,Ben Zobrist,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Edward Mujica,1,2,2,Joe Panik,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Edward Mujica,1,1,0,Matt Duffy,['Matt Duffy'],['N/A'],['N/A'],Single,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Edward Mujica,1,1,2,Buster Posey,['Buster Posey'],['N/A'],['Matt Duffy'],Single,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Edward Mujica,2,0,0,Hunter Pence,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,1,2,Brandon Belt,['N/A'],['Buster Posey'],['N/A'],Stolen Base 2B,N/A,7,3,N/A,N/A,N/A
+8,bottom,2,"['Matt Duffy', 'Buster Posey']",Edward Mujica,2,1,2,Brandon Belt,['Brandon Belt'],['Buster Posey'],['N/A'],Single,N/A,9,3,2,N/A,N/A
+8,bottom,0,[],Edward Mujica,3,0,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,3,N/A,N/A,N/A
+9,top,0,[],Hunter Strickland,0,0,1,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,9,3,N/A,N/A,N/A
+9,top,0,[],Javier Lopez,1,2,1,Josh Reddick,['N/A'],['Billy Butler'],['N/A'],Groundout,N/A,9,3,N/A,N/A,N/A
+9,top,0,[],Ryan Vogelsong,2,0,1,Brett Lawrie,['N/A'],['N/A'],['Billy Butler'],Groundout,N/A,9,3,N/A,N/A,N/A
+9,top,0,[],Ryan Vogelsong,3,2,3,Eric Sogard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,3,N/A,N/A,N/A

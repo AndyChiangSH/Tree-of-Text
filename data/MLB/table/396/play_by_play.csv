@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Hisanori Takahashi,1,1,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Hisanori Takahashi,2,1,3,Chris Coghlan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Hisanori Takahashi,3,1,2,Dan Uggla,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,1,0,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,2,2,2,Angel Pagan,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,3,0,1,Jason Bay,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Hisanori Takahashi,1,3,2,Jorge Cantu,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Hisanori Takahashi,2,1,1,Ronny Paulino,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Hisanori Takahashi,3,1,1,Cody Ross,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,1,1,3,Ike Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,1,1,2,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,2,1,1,Rod Barajas,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,2,0,0,Jeff Francoeur,['N/A'],['Jeff Francoeur'],['David Wright'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,2,4,0,Alex Cora,['Alex Cora'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,3,1,3,Hisanori Takahashi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Hisanori Takahashi,0,4,2,Gaby Sanchez,['Gaby Sanchez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Hisanori Takahashi,1,0,1,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Hisanori Takahashi,2,0,0,Ricky Nolasco,['N/A'],['Cameron Maybin'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Hisanori Takahashi,2,4,2,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Hisanori Takahashi,3,0,3,Chris Coghlan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ricky Nolasco,1,1,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ricky Nolasco,1,0,1,Angel Pagan,['Angel Pagan'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ricky Nolasco,2,0,2,Jason Bay,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ricky Nolasco,3,0,0,Ike Davis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,[],Hisanori Takahashi,0,0,2,Dan Uggla,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+4,top,0,[],Hisanori Takahashi,1,1,3,Jorge Cantu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Hisanori Takahashi,2,2,3,Ronny Paulino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Hisanori Takahashi,2,3,2,Cody Ross,['Cody Ross'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Hisanori Takahashi,3,1,1,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Nolasco,0,0,0,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Nolasco,1,0,2,Rod Barajas,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Nolasco,2,0,1,Jeff Francoeur,['N/A'],['David Wright'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ricky Nolasco,3,1,1,Alex Cora,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Hisanori Takahashi,1,1,1,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Hisanori Takahashi,2,1,3,Ricky Nolasco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Hisanori Takahashi,3,0,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Nolasco,1,0,1,Hisanori Takahashi,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Nolasco,1,4,2,Jose Reyes,['Jose Reyes'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Nolasco,2,0,2,Angel Pagan,['Angel Pagan'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],N/A,2,2,2,Jason Bay,['N/A'],['Angel Pagan'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Nolasco,2,4,2,Jason Bay,['Jason Bay'],['Angel Pagan'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ricky Nolasco,3,0,2,Ike Davis,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Hisanori Takahashi,0,2,1,Chris Coghlan,['Chris Coghlan'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Hisanori Takahashi,1,2,1,Dan Uggla,['N/A'],['Chris Coghlan'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Chris Coghlan'],Hisanori Takahashi,1,1,0,Jorge Cantu,['Jorge Cantu'],['N/A'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+6,top,0,[],Hisanori Takahashi,1,2,2,Ronny Paulino,['Ronny Paulino'],['Jorge Cantu'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,3,"['Jorge Cantu', 'Ronny Paulino']",Hisanori Takahashi,1,0,2,Cody Ross,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,5,3,N/A,N/A
+6,top,0,[],Jenrry Mejia,2,0,1,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Jenrry Mejia,2,2,1,Cameron Maybin,['N/A'],['Cameron Maybin'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Jenrry Mejia,3,2,1,Ricky Nolasco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ricky Nolasco,0,1,0,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ricky Nolasco,0,0,2,Rod Barajas,['Rod Barajas'],['David Wright'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ricky Nolasco,1,0,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ricky Nolasco,1,1,0,Alex Cora,['Alex Cora'],['Rod Barajas'],['David Wright'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['David Wright'],Ricky Nolasco,1,1,0,Chris Carter,['Chris Carter'],['Alex Cora'],['Rod Barajas'],Single,N/A,1,5,1,N/A,N/A
+6,bottom,0,[],Tim Wood,2,1,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,2,"['Rod Barajas', 'Alex Cora']",Tim Wood,2,0,0,Angel Pagan,['Angel Pagan'],['Chris Carter'],['N/A'],Single,N/A,3,5,2,N/A,N/A
+6,bottom,0,[],Tim Wood,3,2,2,Jason Bay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ryota Igarashi,0,4,2,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ryota Igarashi,0,1,2,Chris Coghlan,['N/A'],['Chris Coghlan'],['Hanley Ramirez'],Single,Error,N/A,N/A,N/A,N/A,Angel Pagan
+7,top,0,[],Ryota Igarashi,1,2,1,Dan Uggla,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ryota Igarashi,1,4,0,Jorge Cantu,['Jorge Cantu'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Hanley Ramirez'],Ryota Igarashi,2,3,2,Ronny Paulino,['N/A'],['Jorge Cantu'],['Chris Coghlan'],Sac Fly,Error,3,6,1,N/A,Rod Barajas
+7,top,0,[],Ryota Igarashi,3,1,1,Cody Ross,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tim Wood,0,4,2,Ike Davis,['Ike Davis'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tim Wood,1,1,1,David Wright,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tim Wood,1,0,0,Rod Barajas,['N/A'],['Rod Barajas'],['Ike Davis'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,3,"['Ike Davis', 'Rod Barajas']",Tim Wood,1,1,2,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,6,3,N/A,N/A
+7,bottom,0,[],Tim Wood,2,2,1,Alex Cora,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tim Wood,2,4,2,Fernando Tatis,['Fernando Tatis'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tim Wood,3,2,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Elmer Dessens,0,1,2,Gaby Sanchez,['Gaby Sanchez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Elmer Dessens,1,0,0,Cameron Maybin,['N/A'],['Gaby Sanchez'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Elmer Dessens,2,2,1,Mike Lamb,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Elmer Dessens,2,4,0,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Pedro Feliciano,3,0,3,Chris Coghlan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Clay Hensley,0,4,1,Angel Pagan,['Angel Pagan'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Clay Hensley,0,3,2,Jason Bay,['Jason Bay'],['N/A'],['Angel Pagan'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Angel Pagan'],Clay Hensley,2,1,1,Ike Davis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Clay Hensley,3,2,1,David Wright,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,1,0,1,Dan Uggla,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,1,2,2,Jorge Cantu,['Jorge Cantu'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,2,3,2,Ronny Paulino,['N/A'],['Jorge Cantu'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,3,2,3,Cody Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

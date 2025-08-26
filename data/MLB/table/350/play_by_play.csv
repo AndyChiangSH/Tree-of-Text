@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jeremy Bonderman,1,3,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jeremy Bonderman,2,1,3,Grady Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jeremy Bonderman,3,2,0,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Mitch Talbot,1,1,1,Austin Jackson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Mitch Talbot,1,3,2,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,2,['Johnny Damon'],Mitch Talbot,1,2,0,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,2,N/A,N/A
+1,bottom,0,[],Mitch Talbot,1,3,2,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Mitch Talbot,2,3,1,Carlos Guillen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Mitch Talbot,2,2,0,Brandon Inge,['Brandon Inge'],['Miguel Cabrera'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Mitch Talbot,2,4,2,Alex Avila,['Alex Avila'],['Brandon Inge'],['Miguel Cabrera'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Mitch Talbot,3,1,2,Scott Sizemore,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jeremy Bonderman,1,0,3,Travis Hafner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jeremy Bonderman,2,0,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jeremy Bonderman,3,1,2,Matt LaPorta,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Mitch Talbot,0,1,0,Adam Everett,['Adam Everett'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Mitch Talbot,1,1,0,Austin Jackson,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Mitch Talbot,2,4,2,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Mitch Talbot,3,1,1,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jeremy Bonderman,1,2,2,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jeremy Bonderman,2,2,1,Lou Marson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jeremy Bonderman,3,3,2,Michael Brantley,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Mitch Talbot,0,4,1,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Mitch Talbot,0,4,2,Carlos Guillen,['Carlos Guillen'],['Miguel Cabrera'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Miguel Cabrera'],Mitch Talbot,0,2,2,Brandon Inge,['Brandon Inge'],['N/A'],['Carlos Guillen'],Single,N/A,3,0,1,N/A,N/A
+3,bottom,0,[],Mitch Talbot,0,4,2,Alex Avila,['Alex Avila'],['Brandon Inge'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Carlos Guillen'],Mitch Talbot,1,3,1,Scott Sizemore,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,0,1,N/A,N/A
+3,bottom,0,[],Mitch Talbot,3,0,2,Adam Everett,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jeremy Bonderman,1,1,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jeremy Bonderman,2,0,3,Grady Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jeremy Bonderman,2,4,2,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jeremy Bonderman,2,3,1,Travis Hafner,['Travis Hafner'],['N/A'],['Shin-Soo Choo'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,['Shin-Soo Choo'],Jeremy Bonderman,2,3,2,Jhonny Peralta,['N/A'],['Travis Hafner'],['N/A'],Wild Pitch,N/A,4,1,N/A,N/A,N/A
+4,top,0,[],Jeremy Bonderman,2,4,2,Jhonny Peralta,['Jhonny Peralta'],['Travis Hafner'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jeremy Bonderman,3,2,2,Matt LaPorta,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Mitch Talbot,1,0,0,Austin Jackson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Mitch Talbot,2,1,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Mitch Talbot,3,2,0,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jeremy Bonderman,1,2,2,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jeremy Bonderman,2,1,0,Lou Marson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jeremy Bonderman,3,1,2,Michael Brantley,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Mitch Talbot,1,1,2,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Mitch Talbot,2,0,2,Carlos Guillen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Mitch Talbot,3,2,3,Brandon Inge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brad Thomas,0,2,2,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brad Thomas,1,0,3,Grady Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brad Thomas,2,3,3,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Brad Thomas,2,3,2,Travis Hafner,['N/A'],['Asdrubal Cabrera'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Asdrubal Cabrera'],Brad Thomas,2,3,2,Travis Hafner,['Travis Hafner'],['Asdrubal Cabrera'],['N/A'],Single,N/A,4,2,1,N/A,N/A
+6,top,0,[],Brad Thomas,3,1,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Tony Sipp,0,2,2,Alex Avila,['Alex Avila'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Tony Sipp,1,1,1,Scott Sizemore,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Tony Sipp,2,0,0,Adam Everett,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Tony Sipp,3,2,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brad Thomas,1,2,0,Matt LaPorta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brad Thomas,2,2,2,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brad Thomas,2,4,1,Lou Marson,['Lou Marson'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brad Thomas,3,0,1,Michael Brantley,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tony Sipp,0,4,0,Johnny Damon,['Johnny Damon'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Joe Smith,0,4,2,Magglio Ordonez,['Magglio Ordonez'],['Johnny Damon'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Joe Smith,2,0,0,Miguel Cabrera,['N/A'],['Magglio Ordonez'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Joe Smith,2,4,0,Carlos Guillen,['Carlos Guillen'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Joe Smith,2,4,0,Brandon Inge,['Brandon Inge'],['Carlos Guillen'],['Magglio Ordonez'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Joe Smith,3,2,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Fu-Te Ni,1,1,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Fu-Te Ni,1,0,1,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Fu-Te Ni,1,1,0,Shin-Soo Choo,['Shin-Soo Choo'],['Grady Sizemore'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Fu-Te Ni,2,0,3,Travis Hafner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Ryan Perry,3,0,3,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jensen Lewis,1,0,0,Scott Sizemore,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jensen Lewis,2,2,3,Adam Everett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jensen Lewis,3,3,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Ryan Perry,1,1,2,Matt LaPorta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Ryan Perry,2,0,1,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Ryan Perry,3,0,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A

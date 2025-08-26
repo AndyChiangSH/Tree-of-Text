@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jason Vargas,0,0,1,Carl Crawford,['N/A'],['N/A'],['Carl Crawford'],Triple,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jason Vargas,1,1,1,Mark Ellis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Carl Crawford'],Jason Vargas,2,1,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,1,1,N/A,N/A
+1,top,0,[],Jason Vargas,3,1,2,Scott Van Slyke,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,1,0,1,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,2,0,2,Mike Trout,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ted Lilly,3,1,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,1,2,2,Jerry Hairston,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,1,1,1,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,2,0,0,Tim Federowicz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,2,0,1,Ramon Hernandez,['N/A'],['Ramon Hernandez'],['Andre Ethier'],Double,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,2,4,1,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,3,1,2,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,0,4,2,Mark Trumbo,['Mark Trumbo'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,1,1,2,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ted Lilly,2,0,1,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,bottom,1,['Howie Kendrick'],Ted Lilly,2,0,1,Chris Iannetta,['N/A'],['Chris Iannetta'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],Ted Lilly,3,3,3,Chris Nelson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Jason Vargas,1,2,1,Mark Ellis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Jason Vargas,2,2,3,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Jason Vargas,3,0,0,Scott Van Slyke,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,1,2,1,J.B. Shuck,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,2,0,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,2,4,0,Mike Trout,['Mike Trout'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Ted Lilly,3,1,0,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Jason Vargas,1,1,1,Jerry Hairston,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Jason Vargas,2,0,1,Andre Ethier,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Jason Vargas,3,2,3,Tim Federowicz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,1,1,1,Mark Trumbo,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,1,1,1,Howie Kendrick,['N/A'],['N/A'],['Howie Kendrick'],Triple,N/A,1,1,N/A,N/A,N/A
+4,bottom,1,['Howie Kendrick'],Ted Lilly,1,1,2,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Single,N/A,2,1,1,N/A,N/A
+4,bottom,0,[],Ted Lilly,2,2,3,Chris Iannetta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,2,1,0,Chris Nelson,['Chris Nelson'],['Alberto Callaspo'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Ted Lilly,3,0,0,J.B. Shuck,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,top,1,[],Jason Vargas,0,0,0,Ramon Hernandez,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,1,N/A,N/A
+5,top,0,[],Jason Vargas,1,2,2,Nick Punto,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Jason Vargas,2,0,0,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Jason Vargas,2,1,2,Mark Ellis,['Mark Ellis'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Jason Vargas,3,1,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Ted Lilly,1,0,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Ted Lilly,2,0,2,Mike Trout,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Ted Lilly,3,3,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Jason Vargas,1,2,3,Scott Van Slyke,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Jason Vargas,2,2,2,Jerry Hairston,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Jason Vargas,3,1,1,Andre Ethier,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Ted Lilly,1,0,0,Mark Trumbo,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Ted Lilly,1,3,2,Howie Kendrick,['N/A'],['Howie Kendrick'],['N/A'],Double,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Ted Lilly,2,0,3,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],N/A,2,2,2,Chris Iannetta,['N/A'],['N/A'],['Howie Kendrick'],Stolen Base 3B,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Ted Lilly,2,4,2,Chris Iannetta,['Chris Iannetta'],['N/A'],['Howie Kendrick'],Walk,N/A,2,2,N/A,N/A,N/A
+6,bottom,1,['Howie Kendrick'],Ronald Belisario,2,0,1,Chris Nelson,['Chris Nelson'],['Chris Iannetta'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+6,bottom,0,[],Ronald Belisario,2,2,1,J.B. Shuck,['J.B. Shuck'],['Chris Nelson'],['Chris Iannetta'],Single,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Ronald Belisario,3,2,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Jason Vargas,1,0,3,Tim Federowicz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Jason Vargas,1,4,1,Ramon Hernandez,['Ramon Hernandez'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Jason Vargas,2,1,3,Nick Punto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Jason Vargas,3,1,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Ronald Belisario,1,1,1,Mike Trout,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Ronald Belisario,2,0,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Ronald Belisario,2,2,1,Mark Trumbo,['Mark Trumbo'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Ronald Belisario,3,0,3,Howie Kendrick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Garrett Richards,1,2,2,Mark Ellis,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Garrett Richards,2,1,2,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Garrett Richards,3,1,2,Scott Van Slyke,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Kenley Jansen,1,1,3,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Kenley Jansen,1,0,1,Chris Iannetta,['Chris Iannetta'],['N/A'],['N/A'],Hit By Pitch,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Kenley Jansen,2,0,3,Chris Nelson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Kenley Jansen,2,0,0,J.B. Shuck,['J.B. Shuck'],['Chris Iannetta'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Kenley Jansen,3,0,1,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+9,top,0,[],Ernesto Frieri,0,0,2,Jerry Hairston,['Jerry Hairston'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+9,top,0,[],Ernesto Frieri,1,1,3,Andre Ethier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+9,top,0,[],Ernesto Frieri,2,0,0,Tim Federowicz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+9,top,0,[],Ernesto Frieri,3,2,3,Ramon Hernandez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A

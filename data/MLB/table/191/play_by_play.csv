@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Javier Vazquez,0,0,0,Felipe Lopez,['Felipe Lopez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Felipe Lopez'],Javier Vazquez,0,0,1,Gerardo Parra,['N/A'],['N/A'],['Gerardo Parra'],Triple,N/A,0,1,1,N/A,N/A
+1,top,1,['Gerardo Parra'],Javier Vazquez,1,0,0,Justin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,1,N/A,N/A
+1,top,0,[],Javier Vazquez,2,3,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Javier Vazquez,3,0,3,Stephen Drew,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Doug Davis,0,0,1,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Doug Davis,1,1,1,Yunel Escobar,['Yunel Escobar'],['N/A'],['N/A'],Forceout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Doug Davis,2,1,1,Chipper Jones,['N/A'],['Yunel Escobar'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Doug Davis,3,1,3,Garret Anderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,1,2,1,Chris Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,2,0,1,Josh Whitesell,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,2,4,1,Chris Snyder,['Chris Snyder'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,2,0,0,Doug Davis,['Doug Davis'],['Chris Snyder'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Javier Vazquez,3,2,1,Felipe Lopez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Doug Davis,0,2,2,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Doug Davis,0,1,2,Jeff Francoeur,['Jeff Francoeur'],['Brian McCann'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,bottom,1,['Brian McCann'],Doug Davis,0,0,1,Casey Kotchman,['Casey Kotchman'],['N/A'],['Jeff Francoeur'],Field Error,N/A,1,2,N/A,1,Doug Davis
+2,bottom,1,['Jeff Francoeur'],Doug Davis,1,3,2,Jordan Schafer,['Jordan Schafer'],['N/A'],['N/A'],Forceout,N/A,2,2,1,N/A,N/A
+2,bottom,0,[],Doug Davis,2,1,0,Javier Vazquez,['N/A'],['Jordan Schafer'],['N/A'],Sac Bunt,N/A,2,2,N/A,N/A,N/A
+2,bottom,0,[],Doug Davis,3,0,1,Omar Infante,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,0,4,1,Gerardo Parra,['Gerardo Parra'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,1,2,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,2,2,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Javier Vazquez,3,2,0,Stephen Drew,['N/A'],['N/A'],['N/A'],Runner Out,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Doug Davis,1,2,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+3,bottom,1,[],Doug Davis,1,3,1,Chipper Jones,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,1,N/A,N/A
+3,bottom,0,[],Doug Davis,2,1,0,Garret Anderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Doug Davis,3,2,1,Brian McCann,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,1,0,3,Stephen Drew,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,2,0,1,Chris Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,2,3,1,Josh Whitesell,['Josh Whitesell'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Javier Vazquez,3,3,1,Chris Snyder,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Doug Davis,1,2,3,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Doug Davis,2,3,1,Casey Kotchman,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Doug Davis,3,0,0,Jordan Schafer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Javier Vazquez,1,1,3,Doug Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Javier Vazquez,2,1,2,Felipe Lopez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+5,top,0,[],Javier Vazquez,3,1,2,Gerardo Parra,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+5,bottom,0,[],Doug Davis,1,0,2,Javier Vazquez,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+5,bottom,0,[],Doug Davis,2,1,0,Omar Infante,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+5,bottom,0,[],Doug Davis,3,3,3,Yunel Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,1,0,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,2,2,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,2,0,1,Stephen Drew,['Stephen Drew'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+6,top,0,[],Javier Vazquez,3,2,2,Chris Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Doug Davis,1,2,2,Chipper Jones,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Doug Davis,2,1,0,Garret Anderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Doug Davis,3,0,0,Brian McCann,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Javier Vazquez,1,0,3,Josh Whitesell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Javier Vazquez,2,3,1,Chris Snyder,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Javier Vazquez,3,2,3,Ryan Roberts,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Jon Rauch,0,4,2,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Jon Rauch,1,0,0,Casey Kotchman,['N/A'],['Jeff Francoeur'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Jon Rauch,2,1,3,Jordan Schafer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Jon Rauch,2,4,1,Greg Norton,['Greg Norton'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Jon Rauch,3,0,2,Omar Infante,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,1,2,2,Felipe Lopez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,2,2,1,Gerardo Parra,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Peter Moylan,2,1,1,Justin Upton,['Justin Upton'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Peter Moylan,3,1,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Ramon Pena,1,1,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Ramon Pena,1,4,2,Chipper Jones,['Chipper Jones'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Ramon Pena,1,0,0,Garret Anderson,['Garret Anderson'],['Chipper Jones'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Ramon Pena,2,1,3,Brian McCann,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Ramon Pena,3,0,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,2,N/A,N/A,N/A
+9,top,1,[],Michael Gonzalez,0,2,2,Stephen Drew,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,1,N/A,N/A
+9,top,0,[],Michael Gonzalez,1,2,1,Chris Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Michael Gonzalez,2,1,3,Josh Whitesell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Michael Gonzalez,3,1,3,Chris Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Ramon Pena,1,1,1,Casey Kotchman,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Ramon Pena,1,0,0,Jordan Schafer,['Jordan Schafer'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Ramon Pena,1,4,2,Kelly Johnson,['Kelly Johnson'],['Jordan Schafer'],['N/A'],Walk,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Ramon Pena,1,0,0,Omar Infante,['Omar Infante'],['Kelly Johnson'],['Jordan Schafer'],Single,N/A,3,3,N/A,N/A,N/A
+9,bottom,1,['Jordan Schafer'],Ramon Pena,2,0,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,3,1,N/A,N/A

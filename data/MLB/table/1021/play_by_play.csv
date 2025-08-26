@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jordan Lyles,1,3,2,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jordan Lyles,2,1,2,Josh Wilson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jordan Lyles,3,1,3,Adrian Beltre,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Martin Perez,1,1,3,Brandon Barnes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Martin Perez,2,2,1,Drew Stubbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Martin Perez,3,3,2,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jordan Lyles,1,2,2,Prince Fielder,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jordan Lyles,2,1,1,Alex Rios,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jordan Lyles,3,2,0,Robinson Chirinos,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Martin Perez,0,0,0,Carlos Gonzalez,['N/A'],['Carlos Gonzalez'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,bottom,2,['Carlos Gonzalez'],Martin Perez,0,2,2,Nolan Arenado,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,2,N/A,N/A
+2,bottom,0,[],Martin Perez,1,0,0,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Martin Perez,2,3,2,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,bottom,0,[],Martin Perez,2,2,2,DJ LeMahieu,['DJ LeMahieu'],['N/A'],['N/A'],Field Error,N/A,2,0,N/A,N/A,Adrian Beltre
+2,bottom,0,[],Martin Perez,3,1,3,Jordan Lyles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Jordan Lyles,1,1,0,Leonys Martin,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Jordan Lyles,1,0,2,Elvis Andrus,['N/A'],['Elvis Andrus'],['N/A'],Double,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Jordan Lyles,2,0,0,Martin Perez,['N/A'],['N/A'],['Elvis Andrus'],Sac Bunt,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Jordan Lyles,2,4,2,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],N/A,2,1,2,Josh Wilson,['N/A'],[],['N/A'],Stolen Base 2B,N/A,2,0,N/A,N/A,N/A
+3,top,0,[],Jordan Lyles,3,1,3,Josh Wilson,['N/A'],['Shin-Soo Choo'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Martin Perez,0,1,2,Brandon Barnes,['N/A'],['Brandon Barnes'],['N/A'],Double,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Martin Perez,0,1,1,Drew Stubbs,['Drew Stubbs'],['N/A'],['Brandon Barnes'],Single,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Martin Perez,0,4,2,Troy Tulowitzki,['Troy Tulowitzki'],['Drew Stubbs'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+3,bottom,1,['Brandon Barnes'],Martin Perez,1,3,2,Carlos Gonzalez,['N/A'],['Troy Tulowitzki'],['Drew Stubbs'],Groundout,N/A,3,0,1,N/A,N/A
+3,bottom,0,[],Martin Perez,1,4,0,Nolan Arenado,['Nolan Arenado'],['N/A'],['N/A'],Intent Walk,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Martin Perez,3,2,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Jordan Lyles,1,1,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Jordan Lyles,1,0,1,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Jordan Lyles,3,0,0,Alex Rios,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Martin Perez,1,2,1,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Martin Perez,2,0,0,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Martin Perez,3,0,1,Jordan Lyles,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Jordan Lyles,1,1,3,Robinson Chirinos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Jordan Lyles,2,0,2,Leonys Martin,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Jordan Lyles,2,1,1,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Field Error,N/A,3,0,N/A,N/A,Nolan Arenado
+5,top,0,[],Jordan Lyles,3,2,3,Martin Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+5,bottom,0,[],Martin Perez,1,1,3,Brandon Barnes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+5,bottom,0,[],Martin Perez,1,0,0,Drew Stubbs,['N/A'],['Drew Stubbs'],['N/A'],Double,N/A,3,0,N/A,N/A,N/A
+5,bottom,2,['Drew Stubbs'],Martin Perez,1,0,0,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,0,2,N/A,N/A
+5,bottom,0,[],Martin Perez,1,1,2,Carlos Gonzalez,['N/A'],['Carlos Gonzalez'],['N/A'],Double,N/A,5,0,N/A,N/A,N/A
+5,bottom,0,[],Martin Perez,1,4,1,Nolan Arenado,['Nolan Arenado'],['N/A'],['N/A'],Walk,N/A,5,0,N/A,N/A,N/A
+5,bottom,0,[],Martin Perez,2,0,3,Justin Morneau,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,bottom,0,[],Martin Perez,3,1,3,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+6,top,0,[],Jordan Lyles,0,1,0,Shin-Soo Choo,['N/A'],['N/A'],['Shin-Soo Choo'],Double,Error,5,0,N/A,N/A,Drew Stubbs
+6,top,1,['Shin-Soo Choo'],Jordan Lyles,1,1,1,Josh Wilson,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,1,N/A,N/A
+6,top,0,[],Jordan Lyles,1,0,0,Adrian Beltre,['Adrian Beltre'],['N/A'],['N/A'],Single,N/A,5,1,N/A,N/A,N/A
+6,top,0,[],Jordan Lyles,3,0,1,Prince Fielder,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,1,N/A,N/A,N/A
+6,bottom,0,[],Shawn Tolleson,0,3,1,DJ LeMahieu,['DJ LeMahieu'],['N/A'],['N/A'],Single,N/A,5,1,N/A,N/A,N/A
+6,bottom,0,[],Shawn Tolleson,2,0,0,Jordan Lyles,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,1,N/A,N/A,N/A
+6,bottom,0,[],Shawn Tolleson,3,1,1,Brandon Barnes,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Jordan Lyles,1,2,2,Alex Rios,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Jordan Lyles,2,0,0,Robinson Chirinos,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Jordan Lyles,3,3,3,Leonys Martin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Shawn Tolleson,0,1,0,Drew Stubbs,['N/A'],['Drew Stubbs'],['N/A'],Double,N/A,5,1,N/A,N/A,N/A
+7,bottom,2,['Drew Stubbs'],Shawn Tolleson,0,1,0,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,1,2,N/A,N/A
+7,bottom,0,[],Aaron Poreda,1,1,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Poreda,2,0,0,Nolan Arenado,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Poreda,2,0,2,Justin Morneau,['N/A'],['Justin Morneau'],['N/A'],Double,N/A,7,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Poreda,3,0,1,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,1,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,1,2,1,Elvis Andrus,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,1,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,1,1,1,Daniel Robertson,['Daniel Robertson'],['N/A'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,1,0,0,Shin-Soo Choo,['Shin-Soo Choo'],['Daniel Robertson'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+8,top,0,[],Jordan Lyles,3,2,2,Josh Wilson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,7,1,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,3,3,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,1,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,1,0,Jordan Lyles,['Jordan Lyles'],['N/A'],['N/A'],Single,N/A,7,1,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,1,2,Brandon Barnes,['N/A'],['Brandon Barnes'],['Jordan Lyles'],Double,N/A,7,1,N/A,N/A,N/A
+8,bottom,1,['Jordan Lyles'],Jason Frasor,2,3,2,Drew Stubbs,['N/A'],['N/A'],['Brandon Barnes'],Sac Fly,N/A,8,1,1,N/A,N/A
+8,bottom,0,[],Jason Frasor,2,4,1,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Walk,N/A,8,1,N/A,N/A,N/A
+8,bottom,0,[],Neal Cotts,3,0,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,1,N/A,N/A,N/A
+9,top,0,[],Jordan Lyles,0,0,2,Adrian Beltre,['Adrian Beltre'],['N/A'],['N/A'],Single,N/A,8,1,N/A,N/A,N/A
+9,top,0,[],Nick Masset,0,4,0,Prince Fielder,['Prince Fielder'],['Adrian Beltre'],['N/A'],Walk,N/A,8,1,N/A,N/A,N/A
+9,top,0,[],Nick Masset,2,2,2,Alex Rios,['N/A'],['N/A'],['Adrian Beltre'],Grounded Into DP,N/A,8,1,N/A,N/A,N/A
+9,top,1,['Adrian Beltre'],Nick Masset,2,0,2,Mitch Moreland,['Mitch Moreland'],['N/A'],['N/A'],Single,N/A,8,2,1,N/A,N/A
+9,top,0,[],Nick Masset,2,3,2,Leonys Martin,['Leonys Martin'],['N/A'],['Mitch Moreland'],Single,N/A,8,2,N/A,N/A,N/A
+9,top,0,[],Nick Masset,3,0,0,Elvis Andrus,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,2,N/A,N/A,N/A

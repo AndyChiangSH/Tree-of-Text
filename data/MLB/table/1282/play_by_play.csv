@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jimmy Nelson,1,1,2,Gregory Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jimmy Nelson,2,1,2,Starling Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jimmy Nelson,2,2,2,Andrew McCutchen,['N/A'],['Andrew McCutchen'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jimmy Nelson,3,2,2,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gerrit Cole,0,0,1,Scooter Gennett,['Scooter Gennett'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Gerrit Cole,0,1,0,Jonathan Lucroy,['Jonathan Lucroy'],['N/A'],['Scooter Gennett'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Scooter Gennett'],Gerrit Cole,0,0,0,Ryan Braun,['Ryan Braun'],['Jonathan Lucroy'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,2,"['Jonathan Lucroy', 'Ryan Braun']",Gerrit Cole,0,3,1,Adam Lind,['N/A'],['Adam Lind'],['N/A'],Double,N/A,3,0,2,N/A,N/A
+1,bottom,0,[],Gerrit Cole,1,3,3,Khris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+1,bottom,0,[],Gerrit Cole,2,0,0,Domingo Santana,['N/A'],['N/A'],['Adam Lind'],Groundout,N/A,3,0,N/A,N/A,N/A
+1,bottom,1,['Adam Lind'],Gerrit Cole,2,3,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Single,N/A,4,0,1,N/A,N/A
+1,bottom,0,[],Gerrit Cole,3,0,1,Elian Herrera,['N/A'],['N/A'],['N/A'],Runner Out,N/A,4,0,N/A,N/A,N/A
+2,top,0,[],Jimmy Nelson,1,0,3,Jung Ho Kang,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+2,top,0,[],Jimmy Nelson,2,0,0,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+2,top,0,[],Jimmy Nelson,3,0,2,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+2,bottom,0,[],Gerrit Cole,0,0,1,Elian Herrera,['N/A'],['Elian Herrera'],['N/A'],Double,N/A,4,0,N/A,N/A,N/A
+2,bottom,0,[],Gerrit Cole,1,1,3,Jimmy Nelson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+2,bottom,0,[],Gerrit Cole,2,1,1,Scooter Gennett,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,0,N/A,N/A,N/A
+2,bottom,0,[],N/A,2,2,2,Jonathan Lucroy,['N/A'],['N/A'],['Elian Herrera'],Stolen Base 3B,N/A,4,0,N/A,N/A,N/A
+2,bottom,1,['Elian Herrera'],Gerrit Cole,2,2,2,Jonathan Lucroy,['Jonathan Lucroy'],['N/A'],['Elian Herrera'],Single,N/A,5,0,1,N/A,N/A
+2,bottom,0,[],Gerrit Cole,3,2,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+3,top,0,[],Jimmy Nelson,1,2,0,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,0,N/A,N/A,N/A
+3,top,0,[],Jimmy Nelson,2,1,3,Gerrit Cole,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+3,top,0,[],Jimmy Nelson,3,2,0,Gregory Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+3,bottom,0,[],Gerrit Cole,0,4,1,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Walk,N/A,5,0,N/A,N/A,N/A
+3,bottom,0,[],Gerrit Cole,2,2,2,Khris Davis,['N/A'],['N/A'],['N/A'],Double Play,N/A,5,0,N/A,N/A,N/A
+3,bottom,0,[],Gerrit Cole,3,3,2,Domingo Santana,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,0,N/A,N/A,N/A
+4,top,0,[],Jimmy Nelson,1,2,2,Starling Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+4,top,0,[],Jimmy Nelson,2,3,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+4,top,0,[],Jimmy Nelson,3,0,3,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+4,bottom,0,[],Gerrit Cole,1,1,2,Jean Segura,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+4,bottom,0,[],Gerrit Cole,1,0,1,Elian Herrera,['N/A'],['Elian Herrera'],['N/A'],Double,N/A,5,0,N/A,N/A,N/A
+4,bottom,0,[],Gerrit Cole,2,1,0,Jimmy Nelson,['N/A'],['N/A'],['Elian Herrera'],Groundout,N/A,5,0,N/A,N/A,N/A
+4,bottom,0,[],Gerrit Cole,3,1,2,Scooter Gennett,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Jimmy Nelson,0,0,0,Jung Ho Kang,['N/A'],['Jung Ho Kang'],['N/A'],Double,N/A,5,0,N/A,N/A,N/A
+5,top,1,['Jung Ho Kang'],Jimmy Nelson,0,1,0,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Single,N/A,5,1,1,N/A,N/A
+5,top,0,[],Jimmy Nelson,1,1,1,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+5,top,0,[],Jimmy Nelson,3,2,2,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Double Play,N/A,5,1,N/A,N/A,N/A
+5,bottom,0,[],Jared Hughes,1,2,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+5,bottom,0,[],Jared Hughes,1,4,1,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+5,bottom,0,[],N/A,1,1,1,Adam Lind,['N/A'],['Ryan Braun'],['N/A'],Stolen Base 2B,N/A,5,1,N/A,N/A,N/A
+5,bottom,0,[],Jared Hughes,2,2,2,Adam Lind,['N/A'],['Ryan Braun'],['Ryan Braun'],Groundout,N/A,5,1,N/A,N/A,N/A
+5,bottom,0,[],Jared Hughes,3,2,2,Khris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+6,top,0,[],Jimmy Nelson,0,0,0,Jaff Decker,['Jaff Decker'],['N/A'],['N/A'],Single,N/A,5,1,N/A,N/A,N/A
+6,top,0,[],Jimmy Nelson,1,1,3,Gregory Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+6,top,0,[],Jimmy Nelson,2,2,2,Starling Marte,['Starling Marte'],['N/A'],['N/A'],Forceout,N/A,5,1,N/A,N/A,N/A
+6,top,0,[],N/A,2,1,0,Andrew McCutchen,['N/A'],['Starling Marte'],['N/A'],Stolen Base 2B,N/A,5,1,N/A,N/A,N/A
+6,top,0,[],Jimmy Nelson,3,1,0,Andrew McCutchen,['N/A'],['Starling Marte'],['N/A'],Pop Out,N/A,5,1,N/A,N/A,N/A
+6,bottom,0,[],Radhames Liz,0,2,2,Domingo Santana,['Domingo Santana'],['N/A'],['N/A'],Hit By Pitch,N/A,5,1,N/A,N/A,N/A
+6,bottom,0,[],Radhames Liz,2,1,0,Jean Segura,['N/A'],['N/A'],['N/A'],Double Play,N/A,5,1,N/A,N/A,N/A
+6,bottom,0,[],Radhames Liz,3,1,3,Elian Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Jimmy Nelson,1,1,0,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Jimmy Nelson,2,2,2,Jung Ho Kang,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,1,N/A,N/A,N/A
+7,top,0,[],Jimmy Nelson,3,2,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Radhames Liz,1,3,3,Shane Peterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Radhames Liz,2,3,2,Scooter Gennett,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Radhames Liz,3,0,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,1,N/A,N/A,N/A
+8,top,1,[],Corey Knebel,0,1,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,2,1,N/A,N/A
+8,top,0,[],Corey Knebel,1,0,3,Chris Stewart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+8,top,0,[],Corey Knebel,2,0,3,Travis Snider,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+8,top,0,[],Corey Knebel,3,1,3,Gregory Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Joakim Soria,1,1,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Joakim Soria,1,3,1,Adam Lind,['N/A'],['Adam Lind'],['N/A'],Double,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Joakim Soria,1,2,2,Khris Davis,['N/A'],['N/A'],['Adam Lind'],Wild Pitch,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Joakim Soria,1,4,2,Khris Davis,['Khris Davis'],['N/A'],['Adam Lind'],Walk,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Joakim Soria,2,2,3,Domingo Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,2,2,Jean Segura,['N/A'],['Khris Davis'],['N/A'],Stolen Base 2B,N/A,5,2,N/A,N/A,N/A
+8,bottom,2,"['Adam Lind', 'Khris Davis']",Joakim Soria,2,2,2,Jean Segura,['N/A'],"['Khris Davis', 'Jean Segura']",['N/A'],Single,N/A,7,2,2,N/A,N/A
+8,bottom,0,[],Bobby LaFromboise,3,2,1,Elian Herrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,2,N/A,N/A,N/A
+9,top,0,[],David Goforth,1,0,0,Starling Marte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,2,N/A,N/A,N/A
+9,top,0,[],David Goforth,2,0,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+9,top,1,[],David Goforth,2,0,1,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,3,1,N/A,N/A
+9,top,1,[],David Goforth,2,3,1,Jung Ho Kang,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,4,1,N/A,N/A
+9,top,0,[],David Goforth,2,0,0,Neil Walker,['N/A'],['Neil Walker'],['N/A'],Double,N/A,7,4,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,3,0,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,4,N/A,N/A,N/A

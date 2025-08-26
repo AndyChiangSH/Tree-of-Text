@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Edinson Volquez,0,4,2,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,0,1,0,Jacoby Ellsbury,['Jacoby Ellsbury'],['N/A'],['Brett Gardner'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,1,0,3,Gary Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,2,1,2,Didi Gregorius,['Didi Gregorius'],['N/A'],['Jacoby Ellsbury'],Fielders Choice Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,3,3,1,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Masahiro Tanaka,1,0,1,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Masahiro Tanaka,2,2,2,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Masahiro Tanaka,3,3,2,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,0,3,2,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,1,3,1,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,2,['Brian McCann'],Edinson Volquez,1,2,1,Aaron Judge,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+2,top,0,[],Edinson Volquez,2,0,3,Tyler Austin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,2,4,1,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+2,top,1,['Brett Gardner'],Edinson Volquez,2,0,0,Jacoby Ellsbury,['N/A'],['Jacoby Ellsbury'],['N/A'],Double,N/A,0,3,1,N/A,N/A
+2,top,0,[],Edinson Volquez,3,2,3,Gary Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Masahiro Tanaka,1,3,1,Kendrys Morales,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Masahiro Tanaka,2,0,1,Salvador Perez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Masahiro Tanaka,3,0,3,Alex Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,0,1,2,Didi Gregorius,['Didi Gregorius'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,0,0,0,Starlin Castro,['Starlin Castro'],['Didi Gregorius'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,0,2,0,Brian McCann,['Brian McCann'],['Starlin Castro'],['Didi Gregorius'],Single,N/A,0,3,N/A,N/A,N/A
+3,top,1,['Didi Gregorius'],Edinson Volquez,1,0,1,Chase Headley,['N/A'],['Brian McCann'],['Starlin Castro'],Sac Fly,N/A,0,4,1,N/A,N/A
+3,top,0,[],Edinson Volquez,2,3,3,Aaron Judge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,3,3,3,Tyler Austin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Masahiro Tanaka,1,0,3,Alcides Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Masahiro Tanaka,2,3,2,Christian Colon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Masahiro Tanaka,2,0,0,Adalberto Mondesi,['Adalberto Mondesi'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+3,bottom,1,['Adalberto Mondesi'],Masahiro Tanaka,2,1,1,Jarrod Dyson,['N/A'],['N/A'],['Jarrod Dyson'],Triple,N/A,1,4,1,N/A,N/A
+3,bottom,0,[],Masahiro Tanaka,3,3,3,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,1,1,1,Brett Gardner,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,1,2,2,Jacoby Ellsbury,['Jacoby Ellsbury'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,1,0,1,Gary Sanchez,['Gary Sanchez'],['Jacoby Ellsbury'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+4,top,0,[],Brian Flynn,2,2,2,Didi Gregorius,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+4,top,0,[],Brian Flynn,3,0,0,Starlin Castro,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,4,N/A,N/A,N/A
+4,bottom,0,[],Masahiro Tanaka,1,1,2,Eric Hosmer,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+4,bottom,1,[],Masahiro Tanaka,1,1,1,Kendrys Morales,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,1,N/A,N/A
+4,bottom,0,[],Masahiro Tanaka,2,0,2,Salvador Perez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Masahiro Tanaka,3,2,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Brian Flynn,1,1,3,Brian McCann,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Brian Flynn,2,0,1,Chase Headley,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Brian Flynn,3,0,1,Aaron Judge,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Masahiro Tanaka,1,0,0,Alcides Escobar,['N/A'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Masahiro Tanaka,2,1,0,Christian Colon,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Masahiro Tanaka,3,2,3,Adalberto Mondesi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Chien-Ming Wang,0,4,2,Tyler Austin,['Tyler Austin'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Chien-Ming Wang,0,1,0,Brett Gardner,['N/A'],['Brett Gardner'],['Tyler Austin'],Double,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Chien-Ming Wang,1,0,3,Jacoby Ellsbury,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Chien-Ming Wang,2,1,1,Gary Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Chien-Ming Wang,3,2,2,Didi Gregorius,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Adam Warren,0,2,2,Jarrod Dyson,['Jarrod Dyson'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,bottom,1,['Jarrod Dyson'],Adam Warren,0,3,2,Lorenzo Cain,['N/A'],['Lorenzo Cain'],['N/A'],Double,N/A,3,4,1,N/A,N/A
+6,bottom,0,[],Tommy Layne,1,1,0,Eric Hosmer,['N/A'],['N/A'],['Lorenzo Cain'],Groundout,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Tommy Layne,1,0,2,Kendrys Morales,['Kendrys Morales'],['N/A'],['N/A'],Hit By Pitch,N/A,3,4,N/A,N/A,N/A
+6,bottom,0,[],Tyler Clippard,3,0,1,Salvador Perez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Chien-Ming Wang,1,2,0,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Chien-Ming Wang,2,1,0,Brian McCann,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+7,top,0,[],Chien-Ming Wang,3,1,1,Chase Headley,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Tyler Clippard,0,4,2,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Tyler Clippard,1,1,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Tyler Clippard,2,0,3,Christian Colon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],Tyler Clippard,2,0,0,Adalberto Mondesi,['Adalberto Mondesi'],['Alex Gordon'],['N/A'],Field Error,N/A,3,4,N/A,N/A,Starlin Castro
+7,bottom,0,[],Tyler Clippard,3,2,2,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Peter Moylan,1,0,2,Aaron Judge,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Peter Moylan,2,0,0,Tyler Austin,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Peter Moylan,2,1,0,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Matt Strahm,3,3,2,Jacoby Ellsbury,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Tyler Clippard,0,4,2,Lorenzo Cain,['Lorenzo Cain'],['N/A'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],N/A,0,0,1,Eric Hosmer,['N/A'],['Lorenzo Cain'],['N/A'],Stolen Base 2B,Error,3,4,N/A,N/A,Gary Sanchez
+8,bottom,0,[],Dellin Betances,1,0,1,Eric Hosmer,['N/A'],['N/A'],['Lorenzo Cain'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,bottom,1,['Lorenzo Cain'],Dellin Betances,2,1,1,Kendrys Morales,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,4,1,N/A,N/A
+8,bottom,0,[],Dellin Betances,3,2,2,Salvador Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Matt Strahm,1,0,0,Gary Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Matt Strahm,2,3,2,Didi Gregorius,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Matt Strahm,3,1,1,Starlin Castro,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Dellin Betances,1,0,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Dellin Betances,2,2,3,Alcides Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Dellin Betances,3,1,3,Christian Colon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,0,0,1,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,0,0,0,Chase Headley,['Chase Headley'],['Aaron Hicks'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,1,0,3,Aaron Judge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,2,3,3,Tyler Austin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,2,2,2,Brett Gardner,['N/A'],['Chase Headley'],['Aaron Hicks'],Wild Pitch,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Joakim Soria,2,4,2,Brett Gardner,['Brett Gardner'],['Chase Headley'],['Aaron Hicks'],Walk,N/A,4,4,N/A,N/A,N/A
+10,top,1,['Aaron Hicks'],Joakim Soria,2,1,2,Jacoby Ellsbury,['Jacoby Ellsbury'],['Brett Gardner'],['Chase Headley'],Single,N/A,4,5,1,N/A,N/A
+10,top,0,[],Joakim Soria,3,1,2,Gary Sanchez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,5,N/A,N/A,N/A
+10,bottom,0,[],Ben Heller,0,1,2,Adalberto Mondesi,['Adalberto Mondesi'],['N/A'],['N/A'],Hit By Pitch,N/A,4,5,N/A,N/A,N/A
+10,bottom,0,[],N/A,0,2,1,Jarrod Dyson,['N/A'],['Adalberto Mondesi'],['N/A'],Stolen Base 2B,N/A,4,5,N/A,N/A,N/A
+10,bottom,0,[],Ben Heller,0,2,1,Jarrod Dyson,['Jarrod Dyson'],['Adalberto Mondesi'],['Adalberto Mondesi'],Single,N/A,4,5,N/A,N/A,N/A
+10,bottom,0,[],N/A,0,1,0,Lorenzo Cain,['N/A'],['Jarrod Dyson'],['N/A'],Stolen Base 2B,N/A,4,5,N/A,N/A,N/A
+10,bottom,0,[],Ben Heller,1,2,3,Lorenzo Cain,['N/A'],['Jarrod Dyson'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+10,bottom,0,[],Ben Heller,1,4,0,Eric Hosmer,['Eric Hosmer'],['N/A'],['N/A'],Intent Walk,N/A,4,5,N/A,N/A,N/A
+10,bottom,0,[],Chasen Shreve,2,0,3,Kendrys Morales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+10,bottom,0,[],Chasen Shreve,3,0,1,Salvador Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A

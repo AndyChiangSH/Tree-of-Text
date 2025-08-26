@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jair Jurrjens,1,1,0,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jair Jurrjens,2,1,1,Luis Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jair Jurrjens,3,1,2,Jorge Cantu,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Scott Olsen,1,0,0,Gregor Blanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Scott Olsen,1,4,0,Yunel Escobar,['Yunel Escobar'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Yunel Escobar'],Scott Olsen,1,1,1,Chipper Jones,['N/A'],['Chipper Jones'],['N/A'],Double,N/A,1,0,1,N/A,N/A
+1,bottom,1,['Chipper Jones'],Scott Olsen,1,1,1,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,2,0,1,N/A,N/A
+1,bottom,0,[],Scott Olsen,1,3,2,Martin Prado,['N/A'],['Martin Prado'],['Omar Infante'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Omar Infante'],Scott Olsen,2,0,0,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Fielders Choice Out,N/A,3,0,1,N/A,N/A
+1,bottom,0,[],Scott Olsen,3,0,2,Kelly Johnson,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jair Jurrjens,0,0,1,Josh Willingham,['Josh Willingham'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jair Jurrjens,1,0,1,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jair Jurrjens,2,0,2,Mike Jacobs,['N/A'],['Josh Willingham'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,2,['Josh Willingham'],Jair Jurrjens,2,2,0,Cody Ross,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,2,N/A,N/A
+2,top,0,[],Jair Jurrjens,2,4,0,John Baker,['John Baker'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jair Jurrjens,3,0,2,Scott Olsen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Scott Olsen,1,1,1,Clint Sammons,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Scott Olsen,2,1,2,Jair Jurrjens,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Scott Olsen,2,0,1,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Scott Olsen,3,3,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jair Jurrjens,0,3,2,Hanley Ramirez,['N/A'],['N/A'],['Hanley Ramirez'],Triple,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Hanley Ramirez'],Jair Jurrjens,0,3,2,Luis Gonzalez,['N/A'],['Luis Gonzalez'],['N/A'],Double,N/A,3,3,1,N/A,N/A
+3,top,0,[],Jair Jurrjens,0,1,2,Jorge Cantu,['Jorge Cantu'],['N/A'],['Luis Gonzalez'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jair Jurrjens,0,0,0,Josh Willingham,['Josh Willingham'],['Jorge Cantu'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Luis Gonzalez'],Jair Jurrjens,0,1,0,Dan Uggla,['Dan Uggla'],['Josh Willingham'],['Jorge Cantu'],Single,N/A,3,4,1,N/A,N/A
+3,top,1,['Jorge Cantu'],Jair Jurrjens,2,2,1,Mike Jacobs,['N/A'],['N/A'],['Josh Willingham'],Grounded Into DP,N/A,3,5,N/A,N/A,N/A
+3,top,1,['Josh Willingham'],Jair Jurrjens,2,3,2,Cody Ross,['Cody Ross'],['N/A'],['N/A'],Single,N/A,3,6,1,N/A,N/A
+3,top,0,[],Jair Jurrjens,3,2,3,John Baker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Scott Olsen,1,1,3,Chipper Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Scott Olsen,2,2,2,Omar Infante,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Scott Olsen,3,1,1,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jair Jurrjens,0,4,2,Scott Olsen,['Scott Olsen'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Buddy Carlyle,0,4,1,Hanley Ramirez,['Hanley Ramirez'],['Scott Olsen'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Buddy Carlyle,1,2,3,Luis Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Buddy Carlyle,2,0,1,Jorge Cantu,['N/A'],['N/A'],['Scott Olsen'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Buddy Carlyle,3,1,0,Josh Willingham,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Scott Olsen,1,2,3,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Scott Olsen,2,3,3,Kelly Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Scott Olsen,2,4,2,Clint Sammons,['Clint Sammons'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Scott Olsen,3,1,2,Brandon Jones,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Vladimir Nunez,1,0,0,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Vladimir Nunez,1,2,0,Mike Jacobs,['N/A'],['Mike Jacobs'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Vladimir Nunez,2,2,1,Cody Ross,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Vladimir Nunez,2,4,0,John Baker,['John Baker'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Vladimir Nunez,3,0,1,Scott Olsen,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Scott Olsen,1,0,0,Gregor Blanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Scott Olsen,2,3,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Scott Olsen,3,1,2,Chipper Jones,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Vladimir Nunez,1,1,0,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Vladimir Nunez,2,2,2,Luis Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Vladimir Nunez,3,0,3,Jorge Cantu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Scott Olsen,0,0,1,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Scott Olsen,0,1,1,Martin Prado,['N/A'],['Omar Infante'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Scott Olsen,1,2,2,Martin Prado,['N/A'],['Omar Infante'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Scott Olsen,1,4,2,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Mark Hendrickson,2,3,3,Kelly Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['Omar Infante'],Mark Hendrickson,2,2,2,Clint Sammons,['Clint Sammons'],['Jeff Francoeur'],['N/A'],Single,N/A,4,6,1,N/A,N/A
+6,bottom,0,[],Mark Hendrickson,3,2,1,Greg Norton,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Julian Tavarez,1,3,3,Josh Willingham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Julian Tavarez,1,4,2,Dan Uggla,['Dan Uggla'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,2,['Dan Uggla'],Julian Tavarez,1,1,2,Mike Jacobs,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,8,2,N/A,N/A
+7,top,0,[],Julian Tavarez,2,0,3,Cody Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Julian Tavarez,3,1,0,John Baker,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Lindstrom,0,1,0,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Lindstrom,0,4,0,Yunel Escobar,['Yunel Escobar'],['Gregor Blanco'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Lindstrom,2,0,0,Chipper Jones,['N/A'],['N/A'],['Gregor Blanco'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Lindstrom,3,0,3,Omar Infante,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jeff Bennett,1,3,2,Wes Helms,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jeff Bennett,2,0,0,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jeff Bennett,2,1,2,Jeremy Hermida,['Jeremy Hermida'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jeff Bennett,2,0,0,Jorge Cantu,['Jorge Cantu'],['Jeremy Hermida'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jeff Bennett,3,2,1,Josh Willingham,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Matt Lindstrom,0,4,2,Martin Prado,['Martin Prado'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Matt Lindstrom,0,2,1,Jeff Francoeur,['Jeff Francoeur'],['Martin Prado'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Arthur Rhodes,0,0,1,Kelly Johnson,['Kelly Johnson'],['Jeff Francoeur'],['Martin Prado'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Arthur Rhodes,1,1,2,Clint Sammons,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Arthur Rhodes,2,0,1,Brian McCann,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Martin Prado'],Arthur Rhodes,2,4,1,Gregor Blanco,['Gregor Blanco'],['Kelly Johnson'],['Jeff Francoeur'],Walk,N/A,5,8,1,N/A,N/A
+8,bottom,1,['Jeff Francoeur'],Joe Nelson,2,4,1,Yunel Escobar,['Yunel Escobar'],['Gregor Blanco'],['Kelly Johnson'],Walk,N/A,6,8,1,N/A,N/A
+8,bottom,0,[],Kevin Gregg,3,2,3,Chipper Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Will Ohman,1,2,2,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Will Ohman,1,0,1,Alfredo Amezaga,['Alfredo Amezaga'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,1,['Alfredo Amezaga'],Will Ohman,1,0,1,Cody Ross,['N/A'],['Cody Ross'],['N/A'],Double,N/A,6,9,1,N/A,N/A
+9,top,0,[],Will Ohman,2,1,1,John Baker,['N/A'],['N/A'],['Cody Ross'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Will Ohman,3,3,3,Wes Helms,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Kevin Gregg,0,0,2,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,1,['Omar Infante'],Kevin Gregg,0,1,0,Martin Prado,['N/A'],['Martin Prado'],['N/A'],Double,N/A,7,9,1,N/A,N/A
+9,bottom,1,['Martin Prado'],Kevin Gregg,0,1,2,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Single,N/A,8,9,1,N/A,N/A
+9,bottom,0,[],Kevin Gregg,0,1,1,Kelly Johnson,['N/A'],['Kelly Johnson'],['Jeff Francoeur'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Kevin Gregg,1,1,0,Clint Sammons,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Kevin Gregg,1,4,0,Mark Kotsay,['Mark Kotsay'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,1,['Jeff Francoeur'],Kevin Gregg,2,3,2,Gregor Blanco,['Gregor Blanco'],['N/A'],['Kelly Johnson'],Forceout,N/A,9,9,1,N/A,N/A
+9,bottom,1,['Kelly Johnson'],Kevin Gregg,2,0,0,Yunel Escobar,['Yunel Escobar'],['Gregor Blanco'],['N/A'],Single,N/A,10,9,1,N/A,N/A

@@ -1,0 +1,73 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Danny Salazar,1,2,3,Jose Reyes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Danny Salazar,2,1,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Danny Salazar,3,0,1,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],R.A. Dickey,1,2,1,Michael Bourn,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],R.A. Dickey,2,0,3,Mike Aviles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,[],R.A. Dickey,2,0,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],R.A. Dickey,2,2,0,Michael Brantley,['Michael Brantley'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],R.A. Dickey,2,0,1,Ryan Raburn,['N/A'],['Ryan Raburn'],['Michael Brantley'],Double,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],R.A. Dickey,3,0,1,Carlos Santana,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Danny Salazar,1,1,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Danny Salazar,2,2,3,Colby Rasmus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Danny Salazar,3,1,3,Maicer Izturis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],R.A. Dickey,1,1,0,Mark Reynolds,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],R.A. Dickey,1,0,2,Lonnie Chisenhall,['Lonnie Chisenhall'],['N/A'],['N/A'],Field Error,N/A,1,0,N/A,N/A,Adam Lind
+2,bottom,0,[],R.A. Dickey,1,2,1,Yan Gomes,['Yan Gomes'],['Lonnie Chisenhall'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],R.A. Dickey,2,1,0,Michael Bourn,['N/A'],['Yan Gomes'],['Lonnie Chisenhall'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],R.A. Dickey,2,4,2,Mike Aviles,['Mike Aviles'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],R.A. Dickey,3,1,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Danny Salazar,0,4,2,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Danny Salazar,1,2,3,Josh Thole,['N/A'],['Rajai Davis'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Danny Salazar,2,2,1,Munenori Kawasaki,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Danny Salazar,3,2,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],R.A. Dickey,1,0,1,Michael Brantley,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],R.A. Dickey,2,0,0,Ryan Raburn,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],R.A. Dickey,3,1,3,Carlos Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Danny Salazar,1,2,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Danny Salazar,2,1,3,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Danny Salazar,3,0,2,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],R.A. Dickey,1,3,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],R.A. Dickey,2,0,1,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],R.A. Dickey,3,2,3,Yan Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Danny Salazar,1,0,0,Colby Rasmus,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Danny Salazar,2,1,3,Maicer Izturis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Danny Salazar,3,2,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],R.A. Dickey,1,1,1,Michael Bourn,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],R.A. Dickey,1,0,2,Mike Aviles,['Mike Aviles'],['N/A'],['N/A'],Hit By Pitch,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],R.A. Dickey,3,1,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Danny Salazar,0,1,2,Josh Thole,['Josh Thole'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Danny Salazar,1,0,0,Munenori Kawasaki,['N/A'],['Josh Thole'],['N/A'],Sac Bunt,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Danny Salazar,2,0,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+6,top,1,['Josh Thole'],Danny Salazar,2,1,2,Jose Bautista,['N/A'],['Jose Bautista'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+6,top,0,[],Danny Salazar,3,0,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],R.A. Dickey,0,1,0,Michael Brantley,['Michael Brantley'],['N/A'],['N/A'],Hit By Pitch,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],R.A. Dickey,0,4,2,Ryan Raburn,['Ryan Raburn'],['Michael Brantley'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],R.A. Dickey,1,3,3,Carlos Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],N/A,1,2,0,Mark Reynolds,['N/A'],['N/A'],['Michael Brantley'],Stolen Base 3B,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],R.A. Dickey,1,4,0,Mark Reynolds,['Mark Reynolds'],['Ryan Raburn'],['Michael Brantley'],Walk,N/A,1,1,N/A,N/A,N/A
+6,bottom,2,"['Michael Brantley', 'Ryan Raburn']",R.A. Dickey,1,0,2,Lonnie Chisenhall,['N/A'],['Lonnie Chisenhall'],['Mark Reynolds'],Single,Error,3,1,1,1,Rajai Davis
+6,bottom,0,[],R.A. Dickey,2,0,3,Yan Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+6,bottom,0,[],R.A. Dickey,3,2,3,Michael Bourn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Rich Hill,1,1,2,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Rich Hill,2,3,2,Colby Rasmus,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+7,top,0,[],Rich Hill,3,0,1,Maicer Izturis,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Loup,0,1,0,Mike Aviles,['Mike Aviles'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Loup,2,3,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Loup,3,2,0,Michael Brantley,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+8,top,0,[],Cody Allen,1,2,3,Rajai Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+8,top,0,[],Cody Allen,2,2,3,Josh Thole,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+8,top,0,[],Cody Allen,2,0,0,Munenori Kawasaki,['Munenori Kawasaki'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+8,top,0,[],Cody Allen,2,1,2,Jose Reyes,['N/A'],['Munenori Kawasaki'],['N/A'],Wild Pitch,N/A,3,1,N/A,N/A,N/A
+8,top,0,[],Cody Allen,3,2,3,Jose Reyes,['N/A'],['Munenori Kawasaki'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,0,4,1,Ryan Raburn,['Ryan Raburn'],['N/A'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+8,bottom,1,['Drew Stubbs'],Darren Oliver,0,1,0,Carlos Santana,['N/A'],['N/A'],['Carlos Santana'],Triple,N/A,4,1,1,N/A,N/A
+8,bottom,0,[],Darren Oliver,1,2,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,2,2,1,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,3,3,2,Yan Gomes,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+9,top,0,[],Chris Perez,1,1,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+9,top,0,[],Chris Perez,2,0,1,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+9,top,0,[],Chris Perez,2,0,1,Adam Lind,['N/A'],['Adam Lind'],['N/A'],Double,N/A,4,1,N/A,N/A,N/A
+9,top,1,['Adam Lind'],Chris Perez,2,3,1,Colby Rasmus,['Colby Rasmus'],['N/A'],['N/A'],Single,N/A,4,2,1,N/A,N/A
+9,top,0,[],Chris Perez,2,4,1,J.P. Arencibia,['J.P. Arencibia'],['Colby Rasmus'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Chris Perez,3,2,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A

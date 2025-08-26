@@ -1,0 +1,95 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,1,[],Edinson Volquez,0,1,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,1,[],Edinson Volquez,0,0,0,Jose Tabata,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,1,N/A,N/A
+1,top,0,[],Edinson Volquez,0,4,0,Lyle Overbay,['Lyle Overbay'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,0,0,1,Neil Walker,['N/A'],['Neil Walker'],['Lyle Overbay'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,1,1,3,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,1,4,2,Garrett Jones,['Garrett Jones'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Lyle Overbay'],Edinson Volquez,1,4,1,Chris Snyder,['Chris Snyder'],['Garrett Jones'],['Neil Walker'],Walk,N/A,0,3,1,N/A,N/A
+1,top,1,['Neil Walker'],Edinson Volquez,2,0,1,Ronny Cedeno,['N/A'],['N/A'],['Garrett Jones'],Sac Fly,N/A,0,4,1,N/A,N/A
+1,top,0,[],Edinson Volquez,3,1,3,Jeff Karstens,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jeff Karstens,1,3,2,Drew Stubbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jeff Karstens,2,2,1,Miguel Cairo,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jeff Karstens,2,4,2,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jeff Karstens,3,2,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,0,2,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,1,2,2,Jose Tabata,['Jose Tabata'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],N/A,1,3,2,Lyle Overbay,['N/A'],['Jose Tabata'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,1,4,2,Lyle Overbay,['Lyle Overbay'],['Jose Tabata'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,3,1,1,Neil Walker,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,[],Jeff Karstens,0,1,1,Jonny Gomes,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,4,1,N/A,N/A
+2,bottom,0,[],Jeff Karstens,1,0,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jeff Karstens,2,0,2,Ramon Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jeff Karstens,3,1,0,Paul Janish,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,1,3,2,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,2,2,2,Garrett Jones,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,3,0,3,Chris Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jeff Karstens,1,1,3,Edinson Volquez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jeff Karstens,2,0,2,Drew Stubbs,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jeff Karstens,2,2,0,Miguel Cairo,['Miguel Cairo'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jeff Karstens,3,0,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,1,2,0,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,2,2,1,Jeff Karstens,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,2,4,0,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,3,1,1,Jose Tabata,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jeff Karstens,1,3,3,Scott Rolen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jeff Karstens,2,0,3,Jonny Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jeff Karstens,2,0,0,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jeff Karstens,2,0,1,Ramon Hernandez,['Ramon Hernandez'],['Jay Bruce'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,['Jay Bruce'],Jeff Karstens,2,0,0,Paul Janish,['N/A'],['Paul Janish'],['Ramon Hernandez'],Single,Error,2,4,1,N/A,Andrew McCutchen
+4,bottom,0,[],Jeff Karstens,3,2,1,Edinson Volquez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,1,2,3,Jose Tabata,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,2,0,0,Lyle Overbay,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,3,0,1,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jeff Karstens,1,0,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,[],Jeff Karstens,1,0,0,Miguel Cairo,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,4,1,N/A,N/A
+5,bottom,0,[],Jeff Karstens,1,0,0,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,['Joey Votto'],Jeff Karstens,1,0,1,Scott Rolen,['N/A'],['Scott Rolen'],['N/A'],Double,N/A,4,4,1,N/A,N/A
+5,bottom,0,[],Daniel McCutchen,2,0,0,Jonny Gomes,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,['Scott Rolen'],Daniel McCutchen,2,2,0,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Single,N/A,5,4,1,N/A,N/A
+5,bottom,0,[],Daniel McCutchen,3,1,1,Ramon Hernandez,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Edinson Volquez,1,1,3,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,[],Edinson Volquez,1,2,2,Garrett Jones,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,5,1,N/A,N/A
+6,top,0,[],Edinson Volquez,2,2,3,Chris Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Edinson Volquez,2,4,1,Ronny Cedeno,['Ronny Cedeno'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Ronny Cedeno'],Jordan Smith,2,2,0,John Bowker,['N/A'],['John Bowker'],['N/A'],Double,N/A,5,6,1,N/A,N/A
+6,top,0,[],Jordan Smith,2,4,0,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Jordan Smith,3,3,3,Jose Tabata,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jose Veras,1,1,0,Paul Janish,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jose Veras,1,3,2,Ryan Hanigan,['Ryan Hanigan'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Lyle Overbay
+6,bottom,0,[],Jose Veras,1,1,1,Drew Stubbs,['Drew Stubbs'],['Ryan Hanigan'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jose Veras,1,2,2,Miguel Cairo,['Miguel Cairo'],['Drew Stubbs'],['Ryan Hanigan'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jose Veras,2,1,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jose Veras,3,0,0,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Bill Bray,1,0,0,Lyle Overbay,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Bill Bray,1,1,0,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Bill Bray,3,0,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jose Veras,1,2,3,Jonny Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,1,[],Jose Veras,1,1,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,6,1,N/A,N/A
+7,bottom,0,[],Jose Veras,1,4,1,Chris Heisey,['Chris Heisey'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jose Veras,1,1,2,Paul Janish,['N/A'],['Chris Heisey'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jose Veras,2,1,3,Paul Janish,['N/A'],['Chris Heisey'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Chris Resop,3,0,1,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Logan Ondrusek,0,0,0,Garrett Jones,['Garrett Jones'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],N/A,0,1,1,Chris Snyder,['N/A'],['Garrett Jones'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Logan Ondrusek,0,1,1,Chris Snyder,['Chris Snyder'],['Garrett Jones'],['Garrett Jones'],Sac Bunt,Error,N/A,N/A,N/A,N/A,Logan Ondrusek
+8,top,0,[],Logan Ondrusek,1,0,0,Ronny Cedeno,['Ronny Cedeno'],['Chris Snyder'],['N/A'],Fielders Choice Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Logan Ondrusek,2,0,1,Steve Pearce,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,1,['Chris Snyder'],Logan Ondrusek,2,0,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['Ronny Cedeno'],Single,N/A,6,7,1,N/A,N/A
+8,top,0,[],Logan Ondrusek,3,1,2,Jose Tabata,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Evan Meek,1,0,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Evan Meek,1,0,2,Miguel Cairo,['Miguel Cairo'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Evan Meek,1,4,2,Joey Votto,['Joey Votto'],['Miguel Cairo'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Joel Hanrahan,3,2,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,1,1,2,Lyle Overbay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,1,4,2,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,0,1,Matt Diaz,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],N/A,2,1,2,Garrett Jones,['N/A'],['Neil Walker'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,3,1,3,Garrett Jones,['N/A'],['Neil Walker'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joel Hanrahan,1,0,0,Jonny Gomes,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joel Hanrahan,2,2,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joel Hanrahan,2,0,0,Edgar Renteria,['Edgar Renteria'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joel Hanrahan,2,1,0,Paul Janish,['Paul Janish'],['Edgar Renteria'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joel Hanrahan,2,2,0,Ryan Hanigan,['N/A'],['Paul Janish'],['Edgar Renteria'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joel Hanrahan,2,4,1,Ryan Hanigan,['Ryan Hanigan'],['Paul Janish'],['Edgar Renteria'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joel Hanrahan,3,2,0,Drew Stubbs,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A

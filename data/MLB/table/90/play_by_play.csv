@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Anibal Sanchez,1,0,1,Willy Taveras,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Anibal Sanchez,2,1,1,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Anibal Sanchez,3,3,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,1,0,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,2,0,3,Jeremy Hermida,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,[],Jorge De La Rosa,2,0,1,Jorge Cantu,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,2,3,2,Josh Willingham,['Josh Willingham'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,3,1,2,Dan Uggla,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Anibal Sanchez,1,1,2,Brad Hawpe,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Anibal Sanchez,2,1,0,Garrett Atkins,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Anibal Sanchez,2,4,1,Ian Stewart,['Ian Stewart'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Anibal Sanchez,3,1,2,Yorvit Torrealba,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,1,3,2,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,1,0,1,Wes Helms,['Wes Helms'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,1,4,1,Cody Ross,['Cody Ross'],['Wes Helms'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,1,4,0,John Baker,['John Baker'],['Cody Ross'],['Wes Helms'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,2,2,3,Anibal Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Wes Helms'],Jorge De La Rosa,2,4,1,Hanley Ramirez,['Hanley Ramirez'],['John Baker'],['Cody Ross'],Walk,N/A,2,0,1,N/A,N/A
+2,bottom,2,"['Cody Ross', 'John Baker']",Jorge De La Rosa,2,1,1,Jeremy Hermida,['Jeremy Hermida'],['N/A'],['Hanley Ramirez'],Single,N/A,4,0,2,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,2,3,1,Jorge Cantu,['Jorge Cantu'],['Jeremy Hermida'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Hanley Ramirez'],Jorge De La Rosa,2,4,1,Josh Willingham,['Josh Willingham'],['Jorge Cantu'],['Jeremy Hermida'],Walk,N/A,5,0,1,N/A,N/A
+2,bottom,2,"['Jeremy Hermida', 'Jorge Cantu']",Jorge De La Rosa,2,2,2,Dan Uggla,['N/A'],['Dan Uggla'],['Josh Willingham'],Double,N/A,7,0,2,N/A,N/A
+2,bottom,0,[],Kip Wells,3,2,2,Wes Helms,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Anibal Sanchez,0,2,0,Omar Quintanilla,['Omar Quintanilla'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Anibal Sanchez,1,0,1,Kip Wells,['N/A'],['Omar Quintanilla'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Anibal Sanchez,2,0,0,Willy Taveras,['N/A'],['N/A'],['Omar Quintanilla'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Anibal Sanchez,3,0,1,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Kip Wells,1,0,0,Cody Ross,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Kip Wells,1,4,2,John Baker,['John Baker'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Kip Wells,2,0,0,Anibal Sanchez,['N/A'],['John Baker'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Kip Wells,3,3,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Anibal Sanchez,0,2,1,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Anibal Sanchez,0,1,1,Brad Hawpe,['Brad Hawpe'],['N/A'],['Matt Holliday'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Anibal Sanchez,1,0,1,Garrett Atkins,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,['Matt Holliday'],Anibal Sanchez,1,2,1,Ian Stewart,['Ian Stewart'],['N/A'],['Brad Hawpe'],Single,N/A,7,1,1,N/A,N/A
+4,top,0,[],Anibal Sanchez,2,3,3,Yorvit Torrealba,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Anibal Sanchez,3,2,2,Omar Quintanilla,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Kip Wells,0,2,2,Jeremy Hermida,['Jeremy Hermida'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Kip Wells,0,0,1,Jorge Cantu,['Jorge Cantu'],['Jeremy Hermida'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Kip Wells,2,3,2,Josh Willingham,['N/A'],['N/A'],['Jeremy Hermida'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Kip Wells,2,4,2,Dan Uggla,['Dan Uggla'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Kip Wells,2,4,2,Wes Helms,['Wes Helms'],['Dan Uggla'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,['Jeremy Hermida'],Kip Wells,2,4,1,Cody Ross,['Cody Ross'],['Wes Helms'],['Dan Uggla'],Walk,N/A,8,1,1,N/A,N/A
+4,bottom,2,"['Dan Uggla', 'Wes Helms']",Kip Wells,2,0,0,John Baker,['John Baker'],['Cody Ross'],['N/A'],Single,N/A,10,1,2,N/A,N/A
+4,bottom,0,[],Kip Wells,3,1,2,Anibal Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Anibal Sanchez,1,1,3,Kip Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Anibal Sanchez,2,1,2,Willy Taveras,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Anibal Sanchez,3,3,3,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,[],Kip Wells,0,0,0,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Home Run,N/A,11,1,1,N/A,N/A
+5,bottom,0,[],Kip Wells,1,2,2,Jeremy Hermida,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Kip Wells,2,0,0,Jorge Cantu,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Kip Wells,3,2,3,Josh Willingham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Anibal Sanchez,0,0,1,Seth Smith,['Seth Smith'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Anibal Sanchez,1,1,1,Brad Hawpe,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Anibal Sanchez,2,1,0,Garrett Atkins,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Anibal Sanchez,2,4,0,Ian Stewart,['Ian Stewart'],['Seth Smith'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Anibal Sanchez,2,2,2,Yorvit Torrealba,['Yorvit Torrealba'],['Ian Stewart'],['Seth Smith'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Seth Smith'],Anibal Sanchez,2,2,2,Omar Quintanilla,['Omar Quintanilla'],['Yorvit Torrealba'],['Ian Stewart'],Single,N/A,11,2,1,N/A,N/A
+6,top,0,[],Justin Miller,3,1,0,Jeff Baker,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Luis Vizcaino,1,2,3,Dan Uggla,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Luis Vizcaino,2,3,3,Wes Helms,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Luis Vizcaino,3,3,3,Cody Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Justin Miller,0,1,1,Willy Taveras,['Willy Taveras'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Justin Miller,1,1,1,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Justin Miller,2,2,3,Seth Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Justin Miller,3,1,3,Brad Hawpe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Luis Vizcaino,1,2,1,John Baker,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Luis Vizcaino,2,0,3,Justin Miller,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jason Grilli,3,2,1,Alfredo Amezaga,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Justin Miller,0,0,1,Cory Sullivan,['Cory Sullivan'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Justin Miller,1,2,3,Ian Stewart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Justin Miller,2,3,1,Yorvit Torrealba,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Justin Miller,3,1,1,Omar Quintanilla,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Grilli,0,1,0,Jeremy Hermida,['N/A'],['Jeremy Hermida'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Grilli,1,2,0,Jorge Cantu,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Grilli,1,4,0,Luis Gonzalez,['Luis Gonzalez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Grilli,1,1,2,Dan Uggla,['Dan Uggla'],['Luis Gonzalez'],['Jeremy Hermida'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Jeremy Hermida'],Jason Grilli,1,0,0,Wes Helms,['Wes Helms'],['Dan Uggla'],['Luis Gonzalez'],Single,N/A,12,2,1,N/A,N/A
+8,bottom,0,[],Jason Grilli,2,0,2,Cody Ross,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jason Grilli,3,2,3,John Baker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nelson,1,1,2,Jeff Baker,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nelson,2,1,0,Clint Barmes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nelson,3,1,1,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A

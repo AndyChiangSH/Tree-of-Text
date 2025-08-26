@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Franklin Morales,1,0,1,Juan Lagares,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Franklin Morales,1,1,0,Daniel Murphy,['N/A'],['N/A'],['Daniel Murphy'],Triple,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Daniel Murphy'],Franklin Morales,1,2,0,David Wright,['N/A'],['David Wright'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+1,top,0,[],Franklin Morales,1,4,0,Chris Young,['Chris Young'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Franklin Morales,2,0,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,1,['David Wright'],Franklin Morales,2,1,1,Anthony Recker,['Anthony Recker'],['Chris Young'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+1,top,1,['Chris Young'],Franklin Morales,2,0,1,Lucas Duda,['Lucas Duda'],['N/A'],['Anthony Recker'],Single,N/A,0,3,1,N/A,N/A
+1,top,0,[],Franklin Morales,3,1,3,Ruben Tejada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jenrry Mejia,1,1,3,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jenrry Mejia,1,4,1,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jenrry Mejia,3,1,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Double Play,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Franklin Morales,1,0,1,Jenrry Mejia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Franklin Morales,2,1,2,Juan Lagares,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Franklin Morales,3,0,3,Daniel Murphy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Jenrry Mejia,1,0,0,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Jenrry Mejia,2,3,1,Nolan Arenado,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Jenrry Mejia,3,1,1,Ryan Wheeler,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Franklin Morales,0,1,0,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],N/A,0,1,1,Chris Young,['N/A'],['David Wright'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Franklin Morales,1,1,1,Chris Young,['N/A'],['David Wright'],['David Wright'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,top,1,['David Wright'],Franklin Morales,1,1,2,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+3,top,0,[],Franklin Morales,1,2,0,Anthony Recker,['N/A'],['Curtis Granderson'],['N/A'],Wild Pitch,N/A,0,4,N/A,N/A,N/A
+3,top,1,['Curtis Granderson'],Franklin Morales,1,2,2,Anthony Recker,['N/A'],"['Curtis Granderson', 'Anthony Recker']",['N/A'],Double,N/A,0,5,1,N/A,N/A
+3,top,0,[],Franklin Morales,2,3,2,Lucas Duda,['N/A'],['N/A'],['Anthony Recker'],Groundout,N/A,0,5,N/A,N/A,N/A
+3,top,1,['Anthony Recker'],Franklin Morales,2,2,1,Ruben Tejada,['Ruben Tejada'],['N/A'],['N/A'],Field Error,N/A,0,6,N/A,1,Nolan Arenado
+3,top,0,[],Franklin Morales,3,0,0,Jenrry Mejia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+3,bottom,0,[],Jenrry Mejia,0,1,1,Jordan Pacheco,['Jordan Pacheco'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+3,bottom,0,[],Jenrry Mejia,0,2,1,DJ LeMahieu,['DJ LeMahieu'],['Jordan Pacheco'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+3,bottom,0,[],Jenrry Mejia,1,3,3,Franklin Morales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+3,bottom,0,[],Jenrry Mejia,3,0,0,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Double Play,N/A,0,6,N/A,N/A,N/A
+4,top,0,[],Franklin Morales,1,1,3,Juan Lagares,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+4,top,0,[],Franklin Morales,2,2,3,Daniel Murphy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+4,top,0,[],Franklin Morales,2,2,2,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+4,top,0,[],Franklin Morales,3,1,0,Chris Young,['N/A'],['N/A'],['David Wright'],Groundout,N/A,0,6,N/A,N/A,N/A
+4,bottom,0,[],Jenrry Mejia,1,1,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+4,bottom,0,[],Jenrry Mejia,2,1,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,6,N/A,N/A,N/A
+4,bottom,0,[],Jenrry Mejia,2,0,1,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+4,bottom,0,[],Jenrry Mejia,3,0,2,Nolan Arenado,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+5,top,0,[],Franklin Morales,0,1,0,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Hit By Pitch,N/A,0,6,N/A,N/A,N/A
+5,top,0,[],Franklin Morales,1,1,1,Anthony Recker,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+5,top,0,[],Franklin Morales,1,0,1,Lucas Duda,['Lucas Duda'],['Curtis Granderson'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+5,top,0,[],Franklin Morales,2,3,3,Ruben Tejada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+5,top,0,[],Franklin Morales,3,1,2,Jenrry Mejia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+5,bottom,1,[],Jenrry Mejia,0,1,0,Ryan Wheeler,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,6,1,N/A,N/A
+5,bottom,0,[],Jenrry Mejia,0,1,0,Jordan Pacheco,['Jordan Pacheco'],['N/A'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+5,bottom,0,[],Jenrry Mejia,0,4,2,DJ LeMahieu,['DJ LeMahieu'],['Jordan Pacheco'],['N/A'],Walk,N/A,1,6,N/A,N/A,N/A
+5,bottom,0,[],Jenrry Mejia,1,1,1,Brandon Barnes,['Brandon Barnes'],['N/A'],['Jordan Pacheco'],Forceout,N/A,1,6,N/A,N/A,N/A
+5,bottom,1,['Jordan Pacheco'],Jenrry Mejia,1,1,0,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['Brandon Barnes'],Single,N/A,2,6,1,N/A,N/A
+5,bottom,1,['Brandon Barnes'],Jenrry Mejia,1,0,0,Drew Stubbs,['Drew Stubbs'],['Charlie Blackmon'],['N/A'],Single,N/A,3,6,1,N/A,N/A
+5,bottom,1,['Charlie Blackmon'],Jenrry Mejia,1,0,0,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['Drew Stubbs'],Single,N/A,4,6,1,N/A,N/A
+5,bottom,0,[],Jenrry Mejia,1,0,0,Troy Tulowitzki,['Troy Tulowitzki'],['Carlos Gonzalez'],['N/A'],Hit By Pitch,N/A,4,6,N/A,N/A,N/A
+5,bottom,4,"['Drew Stubbs', 'Carlos Gonzalez', 'Troy Tulowitzki']",Jenrry Mejia,1,0,0,Nolan Arenado,['N/A'],['N/A'],['N/A'],Home Run,N/A,8,6,4,N/A,N/A
+5,bottom,0,[],Daisuke Matsuzaka,2,2,3,Ryan Wheeler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,6,N/A,N/A,N/A
+5,bottom,0,[],Daisuke Matsuzaka,3,2,0,Jordan Pacheco,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,6,N/A,N/A,N/A
+6,top,0,[],Chris Martin,1,2,3,Juan Lagares,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,6,N/A,N/A,N/A
+6,top,0,[],Chris Martin,1,1,0,Daniel Murphy,['N/A'],['Daniel Murphy'],['N/A'],Double,N/A,8,6,N/A,N/A,N/A
+6,top,0,[],Chris Martin,2,1,2,David Wright,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,6,N/A,N/A,N/A
+6,top,1,['Daniel Murphy'],Chris Martin,2,1,2,Chris Young,['N/A'],['Chris Young'],['N/A'],Double,N/A,8,7,1,N/A,N/A
+6,top,1,['Chris Young'],Rex Brothers,2,1,0,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,8,8,1,N/A,N/A
+6,top,0,[],Rex Brothers,3,0,0,Anthony Recker,['N/A'],['N/A'],['N/A'],Forceout,N/A,8,8,N/A,N/A,N/A
+6,bottom,0,[],Daisuke Matsuzaka,1,2,3,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+6,bottom,0,[],Daisuke Matsuzaka,2,0,0,Justin Morneau,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,8,N/A,N/A,N/A
+6,bottom,0,[],Daisuke Matsuzaka,2,2,2,Charlie Blackmon,['Charlie Blackmon'],['N/A'],['N/A'],Field Error,N/A,8,8,N/A,N/A,David Wright
+6,bottom,0,[],Daisuke Matsuzaka,3,0,1,Drew Stubbs,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,8,N/A,N/A,N/A
+7,top,0,[],Rex Brothers,1,3,3,Lucas Duda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+7,top,0,[],Rex Brothers,1,4,2,Ruben Tejada,['Ruben Tejada'],['N/A'],['N/A'],Walk,N/A,8,8,N/A,N/A,N/A
+7,top,0,[],Rex Brothers,2,1,3,Daisuke Matsuzaka,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+7,top,0,[],Rex Brothers,3,3,3,Juan Lagares,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,8,N/A,N/A,N/A
+7,bottom,0,[],Daisuke Matsuzaka,1,0,1,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,8,N/A,N/A,N/A
+7,bottom,0,[],Daisuke Matsuzaka,1,1,0,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Single,N/A,8,8,N/A,N/A,N/A
+7,bottom,0,[],Daisuke Matsuzaka,1,0,1,Nolan Arenado,['N/A'],['Nolan Arenado'],['Troy Tulowitzki'],Double,N/A,8,8,N/A,N/A,N/A
+7,bottom,0,[],Daisuke Matsuzaka,1,4,0,Corey Dickerson,['Corey Dickerson'],['N/A'],['N/A'],Intent Walk,N/A,8,8,N/A,N/A,N/A
+7,bottom,1,['Troy Tulowitzki'],Daisuke Matsuzaka,2,2,0,Jordan Pacheco,['N/A'],['Corey Dickerson'],['Nolan Arenado'],Sac Fly,N/A,9,8,1,N/A,N/A
+7,bottom,0,[],Daisuke Matsuzaka,3,1,1,DJ LeMahieu,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,8,N/A,N/A,N/A
+8,top,0,[],Adam Ottavino,0,1,1,Daniel Murphy,['N/A'],['Daniel Murphy'],['N/A'],Double,N/A,9,8,N/A,N/A,N/A
+8,top,0,[],Adam Ottavino,1,1,3,David Wright,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,8,N/A,N/A,N/A
+8,top,1,['Daniel Murphy'],Adam Ottavino,1,1,1,Chris Young,['Chris Young'],['N/A'],['N/A'],Single,N/A,9,9,1,N/A,N/A
+8,top,0,[],Boone Logan,2,2,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+8,top,0,[],Boone Logan,3,0,1,Anthony Recker,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Scott Rice,1,0,3,Justin Morneau,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Scott Rice,2,1,2,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Scott Rice,2,4,1,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Walk,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Scott Rice,3,0,1,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,9,N/A,N/A,N/A
+9,top,0,[],Boone Logan,1,3,3,Lucas Duda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+9,top,0,[],LaTroy Hawkins,1,0,0,Bobby Abreu,['N/A'],['Bobby Abreu'],['N/A'],Double,N/A,9,9,N/A,N/A,N/A
+9,top,0,[],LaTroy Hawkins,2,3,1,Josh Satin,['N/A'],['N/A'],['Eric Young Jr.'],Groundout,N/A,9,9,N/A,N/A,N/A
+9,top,1,['Eric Young Jr.'],LaTroy Hawkins,2,2,1,Juan Lagares,['Juan Lagares'],['N/A'],['N/A'],Single,N/A,9,10,1,N/A,N/A
+9,top,0,[],LaTroy Hawkins,2,0,0,Daniel Murphy,['Daniel Murphy'],['N/A'],['Juan Lagares'],Single,N/A,9,10,N/A,N/A,N/A
+9,top,0,[],LaTroy Hawkins,2,4,0,David Wright,['David Wright'],['Daniel Murphy'],['N/A'],Intent Walk,N/A,9,10,N/A,N/A,N/A
+9,top,0,[],LaTroy Hawkins,3,1,1,Chris Young,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,10,N/A,N/A,N/A
+9,bottom,0,[],Kyle Farnsworth,0,1,2,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Single,N/A,9,10,N/A,N/A,N/A
+9,bottom,0,[],Kyle Farnsworth,1,2,0,Nolan Arenado,['N/A'],['Troy Tulowitzki'],['N/A'],Flyout,N/A,9,10,N/A,N/A,N/A
+9,bottom,2,['Troy Tulowitzki'],Kyle Farnsworth,1,1,2,Charlie Culberson,['N/A'],['N/A'],['N/A'],Home Run,N/A,11,10,2,N/A,N/A

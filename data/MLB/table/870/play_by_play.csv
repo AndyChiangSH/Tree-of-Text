@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mike Minor,1,1,0,Andres Torres,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Minor,2,2,3,Tony Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Minor,3,2,2,Buster Posey,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chad Gaudin,1,0,1,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chad Gaudin,1,4,1,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chad Gaudin,2,0,1,Justin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chad Gaudin,3,2,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Minor,1,1,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Minor,2,1,3,Joaquin Arias,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Minor,3,0,3,Juan  Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chad Gaudin,1,2,0,Brian McCann,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,1,[],Chad Gaudin,1,2,1,Melvin Upton,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+2,bottom,0,[],Chad Gaudin,2,1,1,Dan Uggla,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Chad Gaudin,2,1,0,Chris Johnson,['Chris Johnson'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Chad Gaudin,3,1,1,Mike Minor,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Minor,0,0,1,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Minor,1,2,3,Guillermo Quiroz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Minor,2,0,0,Chad Gaudin,['N/A'],['Brandon Crawford'],['N/A'],Sac Bunt,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Minor,2,1,0,Andres Torres,['N/A'],['N/A'],['Brandon Crawford'],Wild Pitch,N/A,1,0,N/A,N/A,N/A
+3,top,1,['Brandon Crawford'],Mike Minor,2,2,0,Andres Torres,['N/A'],['Andres Torres'],['Brandon Crawford'],Double,N/A,1,1,1,N/A,N/A
+3,top,1,['Andres Torres'],Mike Minor,2,0,0,Tony Abreu,['N/A'],['Tony Abreu'],['N/A'],Double,N/A,1,2,1,N/A,N/A
+3,top,0,[],Mike Minor,2,4,0,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Intent Walk,N/A,1,2,N/A,N/A,N/A
+3,top,1,['Tony Abreu'],Mike Minor,2,1,2,Hunter Pence,['Hunter Pence'],['N/A'],['Buster Posey'],Single,N/A,1,3,1,N/A,N/A
+3,top,0,[],Mike Minor,3,0,0,Joaquin Arias,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Chad Gaudin,1,3,2,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Chad Gaudin,2,3,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Chad Gaudin,2,1,2,Justin Upton,['Justin Upton'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Chad Gaudin,2,2,0,Freddie Freeman,['N/A'],['Justin Upton'],['N/A'],Wild Pitch,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Chad Gaudin,3,2,1,Freddie Freeman,['N/A'],['Justin Upton'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Mike Minor,1,0,3,Juan  Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Mike Minor,2,3,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Mike Minor,3,1,0,Guillermo Quiroz,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,0,0,1,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,1,1,1,Melvin Upton,['Melvin Upton'],['N/A'],['N/A'],Forceout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,2,0,0,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],N/A,2,3,2,Chris Johnson,['N/A'],['Melvin Upton'],['N/A'],Stolen Base 2B,N/A,1,3,N/A,N/A,N/A
+4,bottom,1,['Melvin Upton'],Chad Gaudin,2,3,2,Chris Johnson,['Chris Johnson'],['Melvin Upton'],['N/A'],Single,N/A,2,3,1,N/A,N/A
+4,bottom,0,[],Chad Gaudin,3,0,0,Mike Minor,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Mike Minor,1,2,2,Chad Gaudin,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Mike Minor,1,2,2,Andres Torres,['Andres Torres'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Mike Minor,1,0,0,Tony Abreu,['Tony Abreu'],['Andres Torres'],['N/A'],Field Error,N/A,2,3,N/A,N/A,Andrelton Simmons
+5,top,1,['Andres Torres'],Mike Minor,1,2,0,Buster Posey,['N/A'],['Buster Posey'],['Tony Abreu'],Double,N/A,2,4,1,N/A,N/A
+5,top,1,['Tony Abreu'],Mike Minor,2,0,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,5,1,N/A,N/A
+5,top,0,[],Mike Minor,3,0,1,Joaquin Arias,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,1,3,2,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,1,2,0,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,1,1,0,Justin Upton,['N/A'],['Jason Heyward'],['N/A'],Wild Pitch,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,2,2,2,Justin Upton,['N/A'],['Jason Heyward'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,3,1,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Mike Minor,0,0,1,Juan  Perez,['N/A'],['Juan  Perez'],['N/A'],Single,Error,2,5,N/A,N/A,Andrelton Simmons
+6,top,0,[],Mike Minor,1,1,2,Brandon Crawford,['N/A'],['N/A'],['Juan  Perez'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Mike Minor,2,0,3,Guillermo Quiroz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Mike Minor,3,1,2,Chad Gaudin,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Chad Gaudin,0,0,0,Brian McCann,['N/A'],['Brian McCann'],['N/A'],Double,N/A,2,5,N/A,N/A,N/A
+6,bottom,2,['Brian McCann'],Chad Gaudin,0,3,2,Melvin Upton,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,5,2,N/A,N/A
+6,bottom,0,[],Jean Machi,0,4,1,Dan Uggla,['Dan Uggla'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+6,bottom,0,[],Jean Machi,1,1,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+6,bottom,0,[],Jean Machi,1,0,2,Jordan Schafer,['Jordan Schafer'],['Dan Uggla'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+6,bottom,0,[],Jean Machi,3,1,0,Andrelton Simmons,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,5,N/A,N/A,N/A
+7,top,0,[],Anthony Varvaro,1,1,2,Andres Torres,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+7,top,0,[],Anthony Varvaro,1,2,1,Tony Abreu,['Tony Abreu'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+7,top,0,[],Anthony Varvaro,2,1,2,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Forceout,N/A,4,5,N/A,N/A,N/A
+7,top,0,[],Anthony Varvaro,3,2,2,Hunter Pence,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,5,N/A,N/A,N/A
+7,bottom,0,[],Jean Machi,1,2,0,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+7,bottom,0,[],Jean Machi,2,2,0,Justin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A
+7,bottom,0,[],Javier Lopez,3,2,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+8,top,0,[],Luis Avilan,0,0,1,Joaquin Arias,['Joaquin Arias'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+8,top,0,[],Luis Avilan,1,2,3,Juan  Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+8,top,0,[],Luis Avilan,2,0,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+8,top,0,[],Luis Avilan,3,0,0,Guillermo Quiroz,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A
+8,bottom,0,[],Javier Lopez,1,3,3,Brian McCann,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Affeldt,2,1,1,Melvin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+8,bottom,0,[],Jeremy Affeldt,3,1,0,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,0,1,1,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,1,1,1,Andres Torres,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,2,1,1,Tony Abreu,['N/A'],['Tony Abreu'],['N/A'],Double,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,2,4,0,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Craig Kimbrel,3,2,3,Hunter Pence,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],Sergio Romo,1,1,3,Ramiro Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],Sergio Romo,1,4,1,Evan Gattis,['Evan Gattis'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],Sergio Romo,1,0,2,Andrelton Simmons,['Andrelton Simmons'],['Reed Johnson'],['N/A'],Field Error,N/A,4,5,N/A,N/A,Joaquin Arias
+9,bottom,0,[],Sergio Romo,1,0,1,Jason Heyward,['Jason Heyward'],['Andrelton Simmons'],['Reed Johnson'],Single,N/A,4,5,N/A,N/A,N/A
+9,bottom,1,['Reed Johnson'],Sergio Romo,1,4,2,Justin Upton,['Justin Upton'],['Jason Heyward'],['Andrelton Simmons'],Walk,N/A,5,5,1,N/A,N/A
+9,bottom,1,['Andrelton Simmons'],Sergio Romo,1,1,1,Freddie Freeman,['Freddie Freeman'],['Justin Upton'],['Jason Heyward'],Single,N/A,6,5,1,N/A,N/A

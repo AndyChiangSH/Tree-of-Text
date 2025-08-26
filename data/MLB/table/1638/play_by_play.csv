@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jaime Barria,0,2,2,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jaime Barria,1,3,2,Brandon Belt,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jaime Barria,1,3,2,Andrew McCutchen,['Andrew McCutchen'],['Joe Panik'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jaime Barria,1,1,2,Buster Posey,['Buster Posey'],['Andrew McCutchen'],['Joe Panik'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jaime Barria,2,1,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jaime Barria,3,1,2,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Johnny Cueto,1,2,2,Ian Kinsler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Johnny Cueto,2,0,1,Mike Trout,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Johnny Cueto,2,4,2,Justin Upton,['Justin Upton'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Johnny Cueto,3,1,3,Shohei Ohtani,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jaime Barria,1,0,3,Mac Williamson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jaime Barria,2,2,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jaime Barria,3,2,1,Gregor Blanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Johnny Cueto,1,1,1,Luis Valbuena,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Johnny Cueto,2,0,3,Zack Cozart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Johnny Cueto,2,0,1,Andrelton Simmons,['Andrelton Simmons'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Johnny Cueto,3,0,2,Kole Calhoun,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jaime Barria,0,0,1,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jaime Barria,0,1,2,Brandon Belt,['Brandon Belt'],['Joe Panik'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jaime Barria,0,4,1,Andrew McCutchen,['Andrew McCutchen'],['Brandon Belt'],['Joe Panik'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,1,['Joe Panik'],Noe Ramirez,2,1,2,Buster Posey,['N/A'],['N/A'],['Brandon Belt'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+3,top,2,['Brandon Belt'],Noe Ramirez,2,2,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,2,N/A,N/A
+3,top,0,[],Noe Ramirez,3,3,3,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Johnny Cueto,0,1,2,Martin Maldonado,['Martin Maldonado'],['N/A'],['N/A'],Hit By Pitch,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Johnny Cueto,2,2,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Johnny Cueto,3,3,3,Mike Trout,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Noe Ramirez,1,1,3,Mac Williamson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Blake Parker,2,1,1,Brandon Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Blake Parker,2,2,2,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],N/A,2,2,0,Joe Panik,['N/A'],['Gregor Blanco'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Blake Parker,3,2,0,Joe Panik,['N/A'],['Gregor Blanco'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Johnny Cueto,1,0,0,Justin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Johnny Cueto,2,0,3,Shohei Ohtani,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Johnny Cueto,3,1,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,top,1,[],Blake Parker,0,3,2,Brandon Belt,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,1,N/A,N/A
+5,top,0,[],Blake Parker,1,0,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Blake Parker,2,1,1,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Blake Parker,3,1,3,Evan Longoria,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Johnny Cueto,0,4,2,Zack Cozart,['Zack Cozart'],['N/A'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Johnny Cueto,1,0,3,Jefry Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Johnny Cueto,2,2,3,Kole Calhoun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Johnny Cueto,3,0,2,Martin Maldonado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Cam Bedrosian,0,1,2,Pablo Sandoval,['Pablo Sandoval'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Cam Bedrosian,0,1,1,Mac Williamson,['Mac Williamson'],['Pablo Sandoval'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Cam Bedrosian,1,1,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Cam Bedrosian,2,3,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Cam Bedrosian,3,1,2,Joe Panik,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Johnny Cueto,0,3,1,Ian Kinsler,['Ian Kinsler'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Johnny Cueto,1,1,3,Mike Trout,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Johnny Cueto,1,1,1,Justin Upton,['Justin Upton'],['Ian Kinsler'],['N/A'],Field Error,N/A,0,4,N/A,N/A,Brandon Crawford
+6,bottom,0,[],Johnny Cueto,1,2,2,Shohei Ohtani,['Shohei Ohtani'],['Justin Upton'],['Ian Kinsler'],Single,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Johnny Cueto,3,2,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+7,top,0,[],Jim Johnson,0,0,0,Brandon Belt,['Brandon Belt'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+7,top,0,[],Jim Johnson,0,2,1,Andrew McCutchen,['N/A'],['Brandon Belt'],['N/A'],Wild Pitch,N/A,0,4,N/A,N/A,N/A
+7,top,0,[],Jim Johnson,0,4,1,Andrew McCutchen,['Andrew McCutchen'],['Brandon Belt'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+7,top,0,[],Jim Johnson,1,0,1,Buster Posey,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+7,top,0,[],Jim Johnson,2,1,2,Evan Longoria,['Evan Longoria'],['Andrew McCutchen'],['N/A'],Forceout,N/A,0,4,N/A,N/A,N/A
+7,top,0,[],Jim Johnson,3,0,1,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+7,bottom,0,[],Reyes Moronta,1,2,3,Zack Cozart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+7,bottom,0,[],Reyes Moronta,1,4,1,Jefry Marte,['Jefry Marte'],['N/A'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+7,bottom,0,[],Reyes Moronta,2,3,2,Kole Calhoun,['N/A'],['Jefry Marte'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+7,bottom,0,[],Reyes Moronta,3,2,0,Martin Maldonado,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+8,top,0,[],Jose Alvarez,1,3,3,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+8,top,0,[],Jose Alvarez,1,2,2,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+8,top,0,[],Jose Alvarez,2,1,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+8,top,0,[],Jose Alvarez,2,0,2,Joe Panik,['Joe Panik'],['Brandon Crawford'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+8,top,0,[],Jose Alvarez,3,0,0,Brandon Belt,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+8,bottom,0,[],Cory Gearrin,0,3,2,Ian Kinsler,['Ian Kinsler'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+8,bottom,2,['Ian Kinsler'],Cory Gearrin,0,1,1,Mike Trout,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,2,N/A,N/A
+8,bottom,0,[],Tony Watson,1,1,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],Tony Watson,2,1,2,Shohei Ohtani,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],Tony Watson,3,3,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Keynan Middleton,1,3,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Keynan Middleton,2,1,1,Buster Posey,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Keynan Middleton,3,0,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Hunter Strickland,1,2,3,Zack Cozart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Hunter Strickland,1,2,0,Jefry Marte,['Jefry Marte'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Hunter Strickland,2,1,2,Kole Calhoun,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Hunter Strickland,2,3,2,Rene Rivera,['Rene Rivera'],['N/A'],['Jefry Marte'],Single,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Hunter Strickland,3,1,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A

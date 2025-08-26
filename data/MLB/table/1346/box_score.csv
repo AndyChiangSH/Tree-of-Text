@@ -1,0 +1,58 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Peavy,,,,,,,,,,Jake Peavy,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Lopez,,,,,,,,,,Javier Lopez,,,,,,,,,Javier,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+5,Cain,6,0,0,P,0,29,0,0,2,Matt Cain,0,2,1.000,0,.000,2,70,2,Matt,0,7,,1,0,8,,0,.000,0,900,true,0,71,,2,6.69,0,24,0,2,107,0,0,0,0,0,Giants,0,.000,0,.000
+,Casilla,,,,,,,,,,Santiago Casilla,,,,,,,,,Santiago,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Pagan,,,,,,,,,,Angel Pagan,,,,,,,,,Angel,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Pence,,0,,RF,1,,0,0,4,Hunter Pence,,1,1.000,,.293,,,1,Hunter,,,,,2,,,0,.868,,400,,0,,,0,,0,,1,,,0,0,1,0,0,Giants,0,.480,0,.388
+,Span,,0,,CF,1,,0,0,3,Denard Span,,3,1.000,,.246,,,4,Denard,,,,,3,,,1,.680,,100,,0,,,0,,0,,0,,,0,0,0,0,0,Giants,0,.333,0,.347
+,Blanco,,,,,,,,,,Gregor Blanco,,,,,,,,,Gregor,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Cueto,,,,,,,,,,Johnny Cueto,,,,,,,,,Johnny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Posey,,0,,C,2,,0,0,4,Buster Posey,,2,1.000,,.275,,,2,Buster,,,,,9,,,0,.776,,300,,0,,,1,,0,,0,,,0,0,1,0,0,Giants,0,.440,0,.336
+,Belt,,0,,1B,1,,0,0,3,Brandon Belt,,1,1.000,,.319,,,1,Brandon,,,,,8,,,1,.988,,500,,0,,,0,,0,,0,,,0,0,1,0,0,Giants,0,.540,0,.448
+,Romo,,,,,,,,,,Sergio Romo,,,,,,,,,Sergio,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Adrianza,,,,,,,,,,Ehire Adrianza,,,,,,,,,Ehire,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Kontos,,,,,,,,,,George Kontos,,,,,,,,,George,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Samardzija,,,,,,,,,,Jeff Samardzija,,,,,,,,,Jeff,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Bumgarner,,,,,,,,,,Madison Bumgarner,,,,,,,,,Madison,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Gearrin,,,,,,,,,,Cory Gearrin,,,,,,,,,Cory,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Strickland,,,,,,,,,,Hunter Strickland,,,,,,,,,Hunter,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Crawford,,,,,,,,,,Brandon Crawford,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Gillaspie,,,,,,,,,,Conor Gillaspie,,,,,,,,,Conor,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Suarez,,,,,,,,,,Albert Suarez,,,,,,,,,Albert,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+0,Law,3,0,0,P,0,6,0,0,0,Derek Law,1,,.000,0,.000,2,14,0,Derek,0,2,,0,0,1,,0,.000,0,902,,0,36,,0,2.79,0,3,0,2,22,0,0,0,0,0,Giants,0,.000,0,.000
+,Osich,,,,,,,,,,Josh Osich,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Giants,,,,
+,Parker,,0,,LF,0,,0,0,3,Jarrett Parker,,,1.000,,.250,,,3,Jarrett,,,,,1,,,1,.650,,700,,0,,,0,,0,,1,,,0,0,2,0,0,Giants,0,.250,0,.400
+,Panik,,0,,2B,2,,0,0,4,Joe Panik,,1,1.000,,.250,,,1,Joe,,,,,2,,,0,.740,,200,,0,,,1,,0,,1,,,0,0,0,0,0,Giants,0,.420,0,.320
+,Tomlinson,,0,,SS,0,,1,0,3,Kelby Tomlinson,,,1.000,,.319,,,0,Kelby,,,,,0,,,0,.700,,800,,0,,,2,,0,,3,,,0,0,0,0,0,Giants,0,.340,0,.360
+,Duffy,,0,,3B,0,,0,0,3,Matt Duffy,,3,1.000,,.250,,,0,Matt,,,,,2,,,1,.681,,600,,0,,,2,,0,,0,,,0,0,0,0,0,Giants,0,.371,0,.310
+,Brown,,0,,PH,0,,0,0,1,Trevor Brown,,,.000,,.262,,,2,Trevor,,,,,0,,,0,.826,,901,,0,,,0,,0,,0,,,0,0,1,0,0,Giants,0,.500,0,.326
+,Dickey,,,,,,,,,,R.A. Dickey,,,,,,,,,R.A.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Floyd,,,,,,,,,,Gavin Floyd,,,,,,,,,Gavin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Encarnacion,,0,,1B,0,,0,0,4,Edwin Encarnacion,,1,1.000,,.246,,,1,Edwin,,,,,9,,,0,.746,,400,,0,,,0,,0,,0,,,0,0,3,0,0,Blue Jays,0,.440,0,.306
+,Bautista,,0,,RF,1,,0,0,4,Jose Bautista,,2,.000,,.207,,,1,Jose,,,,,0,,,0,.785,,300,,0,,,0,,0,,0,,,0,0,1,0,0,Blue Jays,0,.438,0,.347
+,Martin,,0,,C,0,,0,0,4,Russell Martin,,1,1.000,,.167,,,0,Russell,,,,,6,,,0,.402,,700,,0,,,1,,0,,1,,,0,0,2,0,1,Blue Jays,0,.178,0,.224
+,Chavez,,,,,,,,,,Jesse Chavez,,,,,,,,,Jesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Barney,,,,,,,,,,Darwin Barney,,,,,,,,,Darwin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Tulowitzki,,0,,SS,1,,0,0,3,Troy Tulowitzki,,,.857,,.178,,,1,Troy,,,,,2,,,0,.619,,600,,1,,,4,,1,,2,,,1,2,1,0,3,Blue Jays,0,.347,1,.272
+0,Happ,6,0,3,P,1,32,0,0,3,J.A. Happ,5,,1.000,0,.333,0,75,1,J.A.,0,5,,0,1,8,2/3,0,.666,0,900,,0,79,true,2,2.05,0,26,1,0,111,0,0,1,0,0,Blue Jays,0,.333,0,.333
+,Saunders,,0,,LF,0,,1,0,4,Michael Saunders,,,1.000,,.308,,,0,Michael,,,,,1,,,0,.914,,500,,0,,,1,,0,,3,,,0,1,1,1,0,Blue Jays,0,.529,0,.385
+,Estrada,,,,,,,,,,Marco Estrada,,,,,,,,,Marco,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Morales,,,,,,,,,,Franklin Morales,,,,,,,,,Franklin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Smoak,,0,,1B,0,,0,0,0,Justin Smoak,,,1.000,,.286,,,0,Justin,,,,,0,,,0,.836,,401,,0,,,1,,0,,0,,,0,0,0,0,0,Blue Jays,0,.413,0,.423
+,Carrera,,0,,PR-LF,0,,0,0,0,Ezequiel Carrera,,,.000,,.350,,,0,Ezequiel,,,,,0,,,0,.870,,501,,0,,,0,,0,,0,,,0,1,0,0,0,Blue Jays,0,.475,0,.395
+,Thole,,,,,,,,,,Josh Thole,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Donaldson,,0,,3B,2,,0,0,4,Josh Donaldson,,1,1.000,,.267,,,1,Josh,,,,,2,,,0,.927,,200,,0,,,2,,0,,1,,,0,0,0,0,0,Blue Jays,0,.550,0,.377
+,Storen,,,,,,,,,,Drew Storen,,,,,,,,,Drew,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+0,Osuna,0,0,1,P,0,2,0,0,0,Roberto Osuna,1,,.000,1,.000,0,7,0,Roberto,8,1,true,0,0,0,1/3,0,.000,0,901,,0,41,,0,1.76,0,1,0,0,11,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Burns,,,,,,,,,,Andy Burns,,,,,,,,,Andy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Schultz,,,,,,,,,,Bo Schultz,,,,,,,,,Bo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Loup,,,,,,,,,,Aaron Loup,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Tepera,,,,,,,,,,Ryan Tepera,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Goins,,0,,2B,2,,0,0,4,Ryan Goins,,1,1.000,,.155,,,1,Ryan,,,,,4,,,0,.431,,800,,0,,,3,,1,,1,,,0,0,0,0,0,Blue Jays,0,.227,0,.204
+,Stroman,,,,,,,,,,Marcus Stroman,,,,,,,,,Marcus,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Travis,,,,,,,,,,Devon Travis,,,,,,,,,Devon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Sanchez,,,,,,,,,,Aaron Sanchez,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Biagini,,,,,,,,,,Joe Biagini,,,,,,,,,Joe,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Pillar,,0,,CF,3,,0,0,4,Kevin Pillar,,1,1.000,,.282,,,1,Kevin,,,,,2,,,0,.751,,100,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.427,0,.324
+,Girodo,,,,,,,,,,Chad Girodo,,,,,,,,,Chad,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,

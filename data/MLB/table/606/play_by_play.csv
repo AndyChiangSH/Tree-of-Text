@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Rick Porcello,0,4,2,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Rick Porcello,2,0,0,Melky Cabrera,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Rick Porcello,3,1,1,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Nate Adcock,0,1,1,Austin Jackson,['N/A'],['Austin Jackson'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Nate Adcock,1,0,0,Ramon Santiago,['N/A'],['N/A'],['Austin Jackson'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Austin Jackson'],Nate Adcock,2,0,0,Delmon Young,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Nate Adcock,2,0,0,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Nate Adcock,3,0,0,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,1,[],Rick Porcello,0,1,2,Eric Hosmer,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+2,top,0,[],Rick Porcello,1,1,1,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,1,0,0,Mike Moustakas,['N/A'],['Mike Moustakas'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,2,1,3,Johnny Giavotella,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Rick Porcello,3,3,2,Salvador Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Nate Adcock,1,0,0,Alex Avila,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Nate Adcock,2,0,0,Wilson Betemit,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Nate Adcock,3,1,3,Ryan Raburn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,1,1,0,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,2,2,3,Alex Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Rick Porcello,3,1,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Nate Adcock,1,0,1,Don Kelly,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Nate Adcock,1,0,0,Austin Jackson,['Austin Jackson'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Nate Adcock,1,0,0,Ramon Santiago,['Ramon Santiago'],['Austin Jackson'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Nate Adcock,2,1,1,Delmon Young,['N/A'],['Ramon Santiago'],['Austin Jackson'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,1,['Austin Jackson'],Nate Adcock,2,1,0,Miguel Cabrera,['N/A'],['N/A'],['Ramon Santiago'],Wild Pitch,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Nate Adcock,3,1,0,Miguel Cabrera,['N/A'],['N/A'],['Ramon Santiago'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,1,0,0,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,1,[],Rick Porcello,1,1,2,Eric Hosmer,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,1,N/A,N/A
+4,top,0,[],Rick Porcello,1,1,0,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Rick Porcello,3,0,2,Mike Moustakas,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Nate Adcock,1,1,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Nate Adcock,2,2,2,Alex Avila,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Nate Adcock,3,1,3,Wilson Betemit,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Rick Porcello,1,1,1,Johnny Giavotella,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Rick Porcello,2,0,2,Salvador Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Rick Porcello,3,1,3,Alcides Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Nate Adcock,1,2,2,Ryan Raburn,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Nate Adcock,2,1,0,Don Kelly,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Nate Adcock,2,0,0,Austin Jackson,['Austin Jackson'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],N/A,2,1,0,Ramon Santiago,['N/A'],['Austin Jackson'],['N/A'],Stolen Base 2B,Error,2,2,N/A,N/A,Salvador Perez
+5,bottom,0,[],Nate Adcock,3,3,2,Ramon Santiago,['N/A'],['N/A'],['Austin Jackson'],Groundout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Rick Porcello,0,0,0,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+6,top,1,['Alex Gordon'],Rick Porcello,0,1,0,Melky Cabrera,['N/A'],['Melky Cabrera'],['N/A'],Double,N/A,2,3,1,N/A,N/A
+6,top,1,['Melky Cabrera'],Rick Porcello,0,3,1,Billy Butler,['N/A'],['Billy Butler'],['N/A'],Single,Error,2,4,1,N/A,Delmon Young
+6,top,0,[],Rick Porcello,1,1,2,Eric Hosmer,['Eric Hosmer'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Rick Porcello,2,0,0,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Forceout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Rick Porcello,3,2,1,Mike Moustakas,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Nate Adcock,1,2,1,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Nate Adcock,1,0,0,Miguel Cabrera,['N/A'],['Miguel Cabrera'],['N/A'],Double,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Tim Collins,2,3,3,Victor Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Tim Collins,3,1,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Rick Porcello,1,0,0,Johnny Giavotella,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Rick Porcello,2,1,1,Salvador Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Rick Porcello,3,1,3,Alcides Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Tim Collins,1,1,1,Wilson Betemit,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Tim Collins,2,2,3,Ryan Raburn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Tim Collins,3,2,2,Don Kelly,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Daniel Schlereth,1,1,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Daniel Schlereth,1,4,1,Melky Cabrera,['Melky Cabrera'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Daniel Schlereth,2,0,0,Billy Butler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Daniel Schlereth,3,2,1,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],Blake Wood,0,3,2,Austin Jackson,['N/A'],['N/A'],['Austin Jackson'],Triple,N/A,2,4,N/A,N/A,N/A
+8,bottom,1,['Austin Jackson'],Blake Wood,1,0,0,Ramon Santiago,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,4,1,N/A,N/A
+8,bottom,0,[],Blake Wood,1,2,2,Delmon Young,['Delmon Young'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Blake Wood,2,1,0,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+8,bottom,1,['Delmon Young'],Blake Wood,2,2,0,Victor Martinez,['N/A'],['Victor Martinez'],['N/A'],Double,N/A,4,4,1,N/A,N/A
+8,bottom,0,[],Blake Wood,2,4,0,Alex Avila,['Alex Avila'],['N/A'],['N/A'],Intent Walk,N/A,4,4,N/A,N/A,N/A
+8,bottom,1,['Brennan Boesch'],Blake Wood,3,1,1,Wilson Betemit,['N/A'],['N/A'],['N/A'],Double,N/A,5,4,1,N/A,N/A
+9,top,0,[],Jose Valverde,1,0,0,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,2,2,3,Mike Moustakas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,2,0,0,Chris Getz,['Chris Getz'],['N/A'],['N/A'],Single,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],N/A,2,1,0,Brayan Pena,['N/A'],['Chris Getz'],['N/A'],Stolen Base 2B,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,2,4,2,Brayan Pena,['Brayan Pena'],['Chris Getz'],['N/A'],Walk,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,3,1,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A

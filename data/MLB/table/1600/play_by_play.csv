@@ -1,0 +1,80 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Edwin Jackson,1,2,3,Christopher Bostick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Edwin Jackson,1,1,0,Starling Marte,['Starling Marte'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Edwin Jackson,3,0,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,0,0,0,Wilmer Difo,['N/A'],['Wilmer Difo'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,1,0,0,Victor Robles,['N/A'],['N/A'],['Wilmer Difo'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,1,4,0,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Wilmer Difo'],Ivan Nova,1,2,1,Daniel Murphy,['Daniel Murphy'],['Anthony Rendon'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Ivan Nova,1,1,0,Howie Kendrick,['N/A'],['Daniel Murphy'],['Anthony Rendon'],Wild Pitch,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,2,1,0,Howie Kendrick,['Howie Kendrick'],['Daniel Murphy'],['Anthony Rendon'],Fielders Choice Out,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,3,1,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Edwin Jackson,1,2,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Edwin Jackson,2,1,1,Jordan Luplow,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Edwin Jackson,3,2,3,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ivan Nova,1,0,1,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ivan Nova,1,1,2,Jose Lobaton,['Jose Lobaton'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ivan Nova,2,0,3,Edwin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ivan Nova,2,2,2,Wilmer Difo,['Wilmer Difo'],['N/A'],['Jose Lobaton'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ivan Nova,3,0,2,Victor Robles,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Edwin Jackson,1,1,0,Elias Diaz,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Edwin Jackson,1,4,0,Max Moroff,['Max Moroff'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Edwin Jackson,2,3,2,Steven Brault,['N/A'],['Max Moroff'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,top,1,['Max Moroff'],Edwin Jackson,2,1,1,Christopher Bostick,['N/A'],['Christopher Bostick'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+3,top,1,['Christopher Bostick'],Edwin Jackson,2,0,0,Starling Marte,['Starling Marte'],['N/A'],['N/A'],Single,N/A,1,2,1,N/A,N/A
+3,top,0,[],N/A,2,1,0,Andrew McCutchen,['N/A'],['Starling Marte'],['N/A'],Stolen Base 2B,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Edwin Jackson,2,2,2,Andrew McCutchen,['N/A'],['N/A'],['Starling Marte'],Wild Pitch,N/A,1,2,N/A,N/A,N/A
+3,top,0,[],Edwin Jackson,3,2,2,Andrew McCutchen,['N/A'],['Starling Marte'],['Starling Marte'],Flyout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Tyler Glasnow,0,4,2,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Tyler Glasnow,0,2,0,Daniel Murphy,['N/A'],['Anthony Rendon'],['N/A'],Wild Pitch,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Tyler Glasnow,0,4,0,Daniel Murphy,['Daniel Murphy'],['Anthony Rendon'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Tyler Glasnow,1,2,1,Alejandro De Aza,['N/A'],['Daniel Murphy'],['Anthony Rendon'],Sac Bunt,N/A,1,2,N/A,N/A,N/A
+3,bottom,1,['Anthony Rendon'],Tyler Glasnow,2,1,2,Adam Lind,['N/A'],['N/A'],['Daniel Murphy'],Groundout,N/A,2,2,1,N/A,N/A
+3,bottom,0,[],Tyler Glasnow,3,0,0,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Edwin Jackson,1,2,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Edwin Jackson,2,2,1,Jordan Luplow,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Edwin Jackson,2,0,0,Sean Rodriguez,['Sean Rodriguez'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Edwin Jackson,2,4,2,Elias Diaz,['Elias Diaz'],['Sean Rodriguez'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Edwin Jackson,3,1,3,Max Moroff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Tyler Glasnow,1,0,0,Jose Lobaton,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Tyler Glasnow,2,1,3,Edwin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Tyler Glasnow,3,2,1,Wilmer Difo,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Edwin Jackson,1,3,3,Tyler Glasnow,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Edwin Jackson,2,0,0,Christopher Bostick,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Edwin Jackson,3,2,2,Starling Marte,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Tyler Glasnow,0,2,2,Victor Robles,['Victor Robles'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Tyler Glasnow,2,2,2,Anthony Rendon,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Tyler Glasnow,2,2,1,Daniel Murphy,['Daniel Murphy'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Tyler Glasnow,3,0,1,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Edwin Jackson,1,3,0,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Edwin Jackson,2,2,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Edwin Jackson,3,2,2,Jordan Luplow,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Tyler Glasnow,0,4,2,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Tyler Glasnow,1,2,3,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Tyler Glasnow,1,4,2,Jose Lobaton,['Jose Lobaton'],['Adam Lind'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Tyler Glasnow,2,0,2,Raudy Read,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Tyler Glasnow,2,4,2,Wilmer Difo,['Wilmer Difo'],['Jose Lobaton'],['Adam Lind'],Walk,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Edgar Santana,3,1,3,Victor Robles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Brandon Kintzler,1,1,2,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Brandon Kintzler,2,1,1,Elias Diaz,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Brandon Kintzler,3,0,0,Max Moroff,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Dovydas Neverauskas,0,4,2,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Dovydas Neverauskas,1,1,2,Daniel Murphy,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+7,bottom,1,['Anthony Rendon'],Dovydas Neverauskas,1,3,1,Alejandro De Aza,['N/A'],['N/A'],['Alejandro De Aza'],Triple,N/A,3,2,1,N/A,N/A
+7,bottom,1,['Alejandro De Aza'],Jack Leathersich,2,2,1,Adam Lind,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,2,1,N/A,N/A
+7,bottom,0,[],Jack Leathersich,2,0,0,Michael A. Taylor,['N/A'],['Michael A. Taylor'],['N/A'],Double,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Jack Leathersich,3,1,3,Jose Lobaton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Ryan Madson,1,1,2,Adam Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Ryan Madson,2,1,3,Christopher Bostick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Ryan Madson,3,1,2,Starling Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Johnny Barbato,1,0,3,Adrian Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Johnny Barbato,2,2,0,Wilmer Difo,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Johnny Barbato,3,2,0,Victor Robles,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Sean Doolittle,0,0,0,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+9,top,2,['Andrew McCutchen'],Sean Doolittle,0,0,0,Josh Bell,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,2,N/A,N/A
+9,top,0,[],Sean Doolittle,1,2,1,Jordan Luplow,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Sean Doolittle,2,2,3,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],Sean Doolittle,3,0,2,Elias Diaz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Daniel Hudson,0,3,2,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Daniel Hudson,0,2,1,Daniel Murphy,['Daniel Murphy'],['N/A'],['Anthony Rendon'],Single,N/A,4,4,N/A,N/A,N/A
+9,bottom,1,['Anthony Rendon'],Daniel Hudson,0,0,2,Alejandro De Aza,['Alejandro De Aza'],['Daniel Murphy'],['N/A'],Single,N/A,5,4,1,N/A,N/A

@@ -1,0 +1,67 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Wang,,,,,,,,,,Chien-Ming Wang,,,,,,,,,Chien-Ming,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Young,,,,,,,,,,Chris Young,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Morales,,,,,,,,,,Kendrys Morales,,,,,,,,,Kendrys,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Escobar,,0,,SS,0,,0,0,3,Alcides Escobar,,3,1.000,,.249,,,2,Alcides,,,,,2,,,0,.583,,600,,0,,,6,,0,,0,,,0,0,0,0,0,Royals,0,.305,0,.278
+,Orlando,,0,,RF,0,,0,0,4,Paulo Orlando,,2,1.000,,.323,,,1,Paulo,,,,,3,,,0,.773,,200,,0,,,0,,0,,0,,,0,0,2,0,0,Royals,0,.427,0,.346
+,Volquez,,,,,,,,,,Edinson Volquez,,,,,,,,,Edinson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Vargas,,,,,,,,,,Jason Vargas,,,,,,,,,Jason,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Medlen,,,,,,,,,,Kris Medlen,,,,,,,,,Kris,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Davis,,,,,,,,,,Wade Davis,,,,,,,,,Wade,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Kennedy,,,,,,,,,,Ian Kennedy,,,,,,,,,Ian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Cain,,,,,,,,,,Lorenzo Cain,,,,,,,,,Lorenzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Hochevar,,,,,,,,,,Luke Hochevar,,,,,,,,,Luke,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Butera,,1,,C,1,,0,0,2,Drew Butera,,1,1.000,,.282,,,0,Drew,,,,,6,,,0,.846,,700,,0,,,0,,0,,0,,,0,0,1,0,0,Royals,0,.513,0,.333
+,Gordon,,,,,,,,,,Alex Gordon,,,,,,,,,Alex,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Soria,,,,,,,,,,Joakim Soria,,,,,,,,,Joakim,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Moylan,,,,,,,,,,Peter Moylan,,,,,,,,,Peter,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Minor,,,,,,,,,,Mike Minor,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Dyson,,0,,CF,0,,0,0,3,Jarrod Dyson,,1,1.000,,.251,,,0,Jarrod,,,,,3,,,1,.685,,100,,0,,,0,,0,,0,,,0,1,2,0,0,Royals,1,.361,0,.324
+,Herrera,,,,,,,,,,Kelvin Herrera,,,,,,,,,Kelvin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Colon,,,,,,,,,,Christian Colon,,,,,,,,,Christian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+1,Duffy,7,0,0,P,0,33,0,0,0,Danny Duffy,9,,.000,0,.200,1,71,0,Danny,0,6,,0,0,9,,0,.400,2,,,0,83,true,0,2.82,0,27,0,1,98,0,0,0,0,0,Royals,0,.200,0,.200
+,Gee,,,,,,,,,,Dillon Gee,,,,,,,,,Dillon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Moustakas,,,,,,,,,,Mike Moustakas,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Perez,,0,,DH,0,,0,1,2,Salvador Perez,,1,.000,,.263,,,1,Salvador,,,,,0,,,0,.758,,500,,0,,,0,,0,,0,,,0,0,1,0,0,Royals,0,.461,0,.297
+,Collins,,,,,,,,,,Tim Collins,,,,,,,,,Tim,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Burns,,0,,LF,0,,1,0,3,Billy Burns,,2,1.000,,.230,,,2,Billy,,,,,2,,,0,.564,,800,,0,,,0,,0,,1,,,0,0,0,0,0,Royals,0,.298,0,.266
+,Flynn,,,,,,,,,,Brian Flynn,,,,,,,,,Brian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Hosmer,,0,,1B,0,,0,0,3,Eric Hosmer,,1,1.000,,.278,,,1,Eric,,,,,10,,,0,.769,,400,,0,,,0,,0,,1,,,0,0,1,0,1,Royals,0,.433,0,.336
+,Ventura,,,,,,,,,,Yordano Ventura,,,,,,,,,Yordano,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Cuthbert,,0,,3B,1,,0,0,4,Cheslor Cuthbert,,,1.000,,.303,,,0,Cheslor,,,,,0,,,0,.795,,300,,0,,,1,,0,,2,,,0,1,1,1,1,Royals,0,.456,0,.339
+,Mondesi,,0,,2B,0,,0,0,3,Adalberto Mondesi,,,1.000,,.204,,,2,Adalberto,,,,,1,,,0,.465,,900,,0,,,3,,0,,0,,,0,0,3,0,0,Royals,0,.245,0,.220
+,Strahm,,,,,,,,,,Matt Strahm,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Morneau,,,,,,,,,,Justin Morneau,,,,,,,,,Justin,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Navarro,,0,,C,1,,0,0,4,Dioner Navarro,,3,1.000,,.205,,,1,Dioner,,,,,10,,,0,.595,,600,,0,,,2,,0,,0,,,0,0,1,0,0,White Sox,0,.333,0,.262
+,Shields,,,,,,,,,,James Shields,,,,,,,,,James,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Frazier,,0,,1B,2,,0,0,4,Todd Frazier,,,1.000,,.210,,,2,Todd,,,,,10,,,0,.760,,500,,0,,,0,,0,,0,,,0,0,2,0,0,White Sox,0,.465,0,.295
+6,Gonzalez,1,0,0,P,0,4,0,0,0,Miguel Gonzalez,2,,1.000,0,.000,0,14,0,Miguel,0,2,,0,0,1,,0,.000,0,,,0,46,,1,4.05,0,3,0,0,21,0,0,0,0,0,White Sox,0,.000,0,.000
+,Jackson,,,,,,,,,,Austin Jackson,,,,,,,,,Austin,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Albers,,,,,,,,,,Matt Albers,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Cabrera,,0,,LF,2,,0,0,4,Melky Cabrera,,,.000,,.301,,,0,Melky,,,,,0,,,0,.797,,300,,0,,,0,,0,,2,,,0,0,0,0,0,White Sox,0,.449,0,.348
+,Putnam,,,,,,,,,,Zach Putnam,,,,,,,,,Zach,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Avila,,,,,,,,,,Alex Avila,,,,,,,,,Alex,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Quintana,,,,,,,,,,Jose Quintana,,,,,,,,,Jose,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Robertson,,,,,,,,,,David Robertson,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Petricka,,,,,,,,,,Jake Petricka,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Jones,,,,,,,,,,Nate Jones,,,,,,,,,Nate,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Sale,,,,,,,,,,Chris Sale,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Garcia,,,,,,,,,,Avisail Garcia,,,,,,,,,Avisail,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Jennings,,,,,,,,,,Dan Jennings,,,,,,,,,Dan,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Lawrie,,,,,,,,,,Brett Lawrie,,,,,,,,,Brett,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Shuck,,,,,,,,,,JB Shuck,,,,,,,,,JB,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Webb,,,,,,,,,,Daniel Webb,,,,,,,,,Daniel,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Turner,,,,,,,,,,Jacob Turner,,,,,,,,,Jacob,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Abreu,,0,,DH,3,,0,0,4,Jose Abreu,,,.000,,.280,,,2,Jose,,,,,0,,,0,.771,,400,,0,,,0,,0,,1,,,0,0,0,0,0,White Sox,0,.436,0,.335
+,Narvaez,,,,,,,,,,Omar Narvaez,,,,,,,,,Omar,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Sanchez,,0,,2B,0,,0,0,3,Yolmer Sanchez,,2,1.000,,.129,,,1,Yolmer,,,,,1,,,0,.346,,800,,0,,,0,,0,,1,,,0,0,0,0,0,White Sox,0,.177,0,.169
+,Davidson,,,,,,,,,,Matt Davidson,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Saladino,,0,,3B,2,,0,0,4,Tyler Saladino,,1,.000,,.250,,,0,Tyler,,,,,0,,,0,.669,,200,,0,,,0,,0,,0,,,0,0,1,0,0,White Sox,0,.380,0,.289
+0,Ynoa,0,0,0,P,0,11,0,0,0,Michael Ynoa,1,,1.000,0,.000,0,25,0,Michael,0,3,,0,0,3,,0,.000,1,,,0,61,,4,3.18,0,9,0,0,43,0,0,0,0,0,White Sox,0,.000,0,.000
+1,Kahnle,0,0,0,P,0,3,0,0,0,Tommy Kahnle,0,,.000,1,.000,0,10,0,Tommy,0,3,,0,0,1,,0,.000,2,,,0,49,,0,5.11,0,3,0,0,12,0,0,0,0,0,White Sox,0,.000,0,.000
+,Eaton,,0,,CF,1,,0,0,4,Adam Eaton,,2,1.000,,.269,,,2,Adam,,,,,1,,,0,.753,,100,,0,,,0,,0,,0,,,0,0,1,0,0,White Sox,0,.402,0,.351
+,Coats,,0,,RF,0,,0,0,3,Jason Coats,,2,1.000,,.120,,,1,Jason,,,,,1,,,0,.450,,900,,0,,,0,,0,,1,,,0,0,0,0,1,White Sox,0,.160,0,.290
+,Tilson,,,,,,,,,,Charlie Tilson,,,,,,,,,Charlie,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Rodon,,,,,,,,,,Carlos Rodon,,,,,,,,,Carlos,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+2,Fulmer,3,0,1,P,0,12,0,0,0,Carson Fulmer,0,,1.000,1,.000,2,28,0,Carson,0,3,,0,0,3,,0,.000,0,,true,0,47,,3,8.49,0,9,0,2,45,0,0,0,0,0,White Sox,0,.000,0,.000
+,Anderson,,0,,SS,0,,0,0,3,Tim Anderson,,,.667,,.267,,,0,Tim,,,,,1,,,0,.677,,700,,1,,,1,,0,,2,,,0,1,1,0,0,White Sox,0,.394,0,.283

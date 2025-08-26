@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Clayton Richard,1,2,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Clayton Richard,2,0,3,Todd Helton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Clayton Richard,3,0,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jeff Francis,0,4,1,Jerry Hairston,['Jerry Hairston'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jeff Francis,0,4,2,Chris Denorfia,['Chris Denorfia'],['Jerry Hairston'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Jerry Hairston'],Jeff Francis,0,2,2,Scott Hairston,['Scott Hairston'],['Chris Denorfia'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Jeff Francis,2,1,0,Nick Hundley,['N/A'],['N/A'],['Chris Denorfia'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+1,bottom,1,['Chris Denorfia'],Jeff Francis,2,1,1,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Single,N/A,2,0,1,N/A,N/A
+1,bottom,0,[],N/A,2,0,1,Oscar Salazar,['N/A'],['Chase Headley'],['N/A'],Stolen Base 2B,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Jeff Francis,3,2,2,Oscar Salazar,['N/A'],['Chase Headley'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,0,4,1,Melvin Mora,['Melvin Mora'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,1,1,3,Brad Hawpe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,2,2,3,Chris Iannetta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,2,1,0,Clint Barmes,['Clint Barmes'],['Melvin Mora'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+2,top,2,"['Melvin Mora', 'Clint Barmes']",Clayton Richard,2,0,1,Jonathan Herrera,['N/A'],['Jonathan Herrera'],['N/A'],Double,N/A,2,2,2,N/A,N/A
+2,top,0,[],Clayton Richard,3,1,2,Jeff Francis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+2,bottom,0,[],Jeff Francis,1,2,2,Aaron Cunningham,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+2,bottom,0,[],Jeff Francis,2,0,1,Everth Cabrera,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,2,2,N/A,N/A,N/A
+2,bottom,0,[],Jeff Francis,3,0,1,Clayton Richard,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Clayton Richard,1,2,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Clayton Richard,1,2,2,Todd Helton,['Todd Helton'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Clayton Richard,2,0,0,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Forceout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Clayton Richard,3,2,0,Melvin Mora,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Jeff Francis,1,3,2,Jerry Hairston,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Jeff Francis,1,3,2,Chris Denorfia,['Chris Denorfia'],['N/A'],['N/A'],Hit By Pitch,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Jeff Francis,2,3,1,Scott Hairston,['N/A'],['Chris Denorfia'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+3,bottom,1,['Chris Denorfia'],Jeff Francis,2,3,2,Nick Hundley,['Nick Hundley'],['N/A'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+3,bottom,0,[],Jeff Francis,3,0,1,Chase Headley,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Clayton Richard,1,2,3,Brad Hawpe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Clayton Richard,1,2,2,Chris Iannetta,['Chris Iannetta'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Clayton Richard,2,3,2,Clint Barmes,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Clayton Richard,3,0,0,Jonathan Herrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Jeff Francis,0,4,1,Oscar Salazar,['Oscar Salazar'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+4,bottom,0,[],Jeff Francis,0,1,1,Aaron Cunningham,['Aaron Cunningham'],['Oscar Salazar'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+4,bottom,1,['Oscar Salazar'],Jeff Francis,0,2,1,Everth Cabrera,['N/A'],['Everth Cabrera'],['Aaron Cunningham'],Double,N/A,4,2,1,N/A,N/A
+4,bottom,1,['Aaron Cunningham'],Jeff Francis,0,0,2,Clayton Richard,['Clayton Richard'],['N/A'],['Everth Cabrera'],Single,N/A,5,2,1,N/A,N/A
+4,bottom,1,['Everth Cabrera'],Jeff Francis,0,2,0,Jerry Hairston,['Jerry Hairston'],['Clayton Richard'],['N/A'],Single,N/A,6,2,1,N/A,N/A
+4,bottom,0,[],Franklin Morales,0,2,1,Chris Denorfia,['Chris Denorfia'],['Jerry Hairston'],['Clayton Richard'],Single,N/A,6,2,N/A,N/A,N/A
+4,bottom,3,"['Clayton Richard', 'Jerry Hairston', 'Chris Denorfia']",Franklin Morales,0,0,1,Scott Hairston,['N/A'],['Scott Hairston'],['N/A'],Double,N/A,9,2,3,N/A,N/A
+4,bottom,0,[],Franklin Morales,1,1,2,Nick Hundley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,9,2,N/A,N/A,N/A
+4,bottom,0,[],Franklin Morales,2,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,2,N/A,N/A,N/A
+4,bottom,0,[],Franklin Morales,2,4,1,Oscar Salazar,['Oscar Salazar'],['N/A'],['N/A'],Walk,N/A,9,2,N/A,N/A,N/A
+4,bottom,0,[],Franklin Morales,3,1,0,Aaron Cunningham,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,2,N/A,N/A,N/A
+5,top,0,[],Clayton Richard,1,0,2,Ian Stewart,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,2,N/A,N/A,N/A
+5,top,0,[],Clayton Richard,2,1,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,2,N/A,N/A,N/A
+5,top,0,[],Clayton Richard,3,2,3,Todd Helton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,2,N/A,N/A,N/A
+5,bottom,0,[],Franklin Morales,1,2,3,Everth Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,2,N/A,N/A,N/A
+5,bottom,0,[],Franklin Morales,2,1,1,Clayton Richard,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,2,N/A,N/A,N/A
+5,bottom,0,[],Franklin Morales,2,4,2,Jerry Hairston,['Jerry Hairston'],['N/A'],['N/A'],Walk,N/A,9,2,N/A,N/A,N/A
+5,bottom,0,[],Franklin Morales,2,2,0,Chris Denorfia,['Chris Denorfia'],['Jerry Hairston'],['N/A'],Single,N/A,9,2,N/A,N/A,N/A
+5,bottom,0,[],Franklin Morales,3,0,0,Scott Hairston,['N/A'],['N/A'],['N/A'],Forceout,N/A,9,2,N/A,N/A,N/A
+6,top,0,[],Clayton Richard,1,0,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,2,N/A,N/A,N/A
+6,top,0,[],Clayton Richard,2,0,1,Melvin Mora,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,2,N/A,N/A,N/A
+6,top,0,[],Clayton Richard,3,2,2,Brad Hawpe,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,2,N/A,N/A,N/A
+6,bottom,0,[],Franklin Morales,0,4,1,Yorvit Torrealba,['Yorvit Torrealba'],['N/A'],['N/A'],Walk,N/A,9,2,N/A,N/A,N/A
+6,bottom,0,[],Franklin Morales,0,1,1,Chase Headley,['Chase Headley'],['N/A'],['Yorvit Torrealba'],Single,N/A,9,2,N/A,N/A,N/A
+6,bottom,1,['Yorvit Torrealba'],Franklin Morales,0,0,2,Oscar Salazar,['Oscar Salazar'],['Chase Headley'],['N/A'],Single,N/A,10,2,1,N/A,N/A
+6,bottom,0,[],Manny Corpas,0,0,0,Aaron Cunningham,['Aaron Cunningham'],['Oscar Salazar'],['Chase Headley'],Single,N/A,10,2,N/A,N/A,N/A
+6,bottom,1,['Chase Headley'],Manny Corpas,0,4,1,Everth Cabrera,['Everth Cabrera'],['Aaron Cunningham'],['Oscar Salazar'],Walk,N/A,11,2,1,N/A,N/A
+6,bottom,1,['Oscar Salazar'],Manny Corpas,1,1,1,Clayton Richard,['N/A'],['Everth Cabrera'],['Aaron Cunningham'],Groundout,N/A,12,2,1,N/A,N/A
+6,bottom,1,['Aaron Cunningham'],Manny Corpas,2,1,0,Jerry Hairston,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,13,2,1,N/A,N/A
+6,bottom,0,[],Manny Corpas,3,0,3,Chris Denorfia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,13,2,N/A,N/A,N/A
+7,top,0,[],Clayton Richard,1,1,2,Chris Iannetta,['N/A'],['N/A'],['N/A'],Groundout,N/A,13,2,N/A,N/A,N/A
+7,top,0,[],Clayton Richard,1,3,1,Clint Barmes,['N/A'],['Clint Barmes'],['N/A'],Double,N/A,13,2,N/A,N/A,N/A
+7,top,0,[],Clayton Richard,2,0,3,Ryan Spilborghs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,13,2,N/A,N/A,N/A
+7,top,0,[],Clayton Richard,3,0,0,Ian Stewart,['N/A'],['N/A'],['N/A'],Groundout,N/A,13,2,N/A,N/A,N/A
+7,bottom,0,[],Manny Corpas,1,1,3,Scott Hairston,['N/A'],['N/A'],['N/A'],Strikeout,N/A,13,2,N/A,N/A,N/A
+7,bottom,0,[],Manny Corpas,1,0,0,Yorvit Torrealba,['Yorvit Torrealba'],['N/A'],['N/A'],Single,N/A,13,2,N/A,N/A,N/A
+7,bottom,0,[],Manny Corpas,3,3,2,Chase Headley,['N/A'],['N/A'],['N/A'],Double Play,N/A,13,2,N/A,N/A,N/A
+8,top,0,[],Sean Gallagher,0,4,2,Dexter Fowler,['Dexter Fowler'],['N/A'],['N/A'],Walk,N/A,13,2,N/A,N/A,N/A
+8,top,0,[],Sean Gallagher,1,1,3,Todd Helton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,13,2,N/A,N/A,N/A
+8,top,1,['Dexter Fowler'],Sean Gallagher,1,0,0,Seth Smith,['N/A'],['Seth Smith'],['N/A'],Double,N/A,13,3,1,N/A,N/A
+8,top,0,[],Sean Gallagher,2,1,1,Melvin Mora,['N/A'],['N/A'],['N/A'],Groundout,N/A,13,3,N/A,N/A,N/A
+8,top,0,[],Sean Gallagher,2,4,1,Jason Giambi,['Jason Giambi'],['N/A'],['N/A'],Walk,N/A,13,3,N/A,N/A,N/A
+8,top,0,[],Sean Gallagher,3,0,1,Chris Iannetta,['N/A'],['N/A'],['N/A'],Groundout,N/A,13,3,N/A,N/A,N/A
+8,bottom,0,[],Randy Flores,0,4,1,Oscar Salazar,['Oscar Salazar'],['N/A'],['N/A'],Walk,N/A,13,3,N/A,N/A,N/A
+8,bottom,0,[],Randy Flores,1,0,0,Aaron Cunningham,['N/A'],['Oscar Salazar'],['N/A'],Groundout,N/A,13,3,N/A,N/A,N/A
+8,bottom,0,[],Randy Flores,2,2,3,Everth Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,13,3,N/A,N/A,N/A
+8,bottom,0,[],Randy Flores,3,0,3,Sean Gallagher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,13,3,N/A,N/A,N/A
+9,top,0,[],Sean Gallagher,1,2,1,Clint Barmes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,13,3,N/A,N/A,N/A
+9,top,0,[],Sean Gallagher,1,1,2,Ryan Spilborghs,['Ryan Spilborghs'],['N/A'],['N/A'],Single,N/A,13,3,N/A,N/A,N/A
+9,top,0,[],Sean Gallagher,2,1,3,Ian Stewart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,13,3,N/A,N/A,N/A
+9,top,0,[],Sean Gallagher,3,2,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Flyout,N/A,13,3,N/A,N/A,N/A

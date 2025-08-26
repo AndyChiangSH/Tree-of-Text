@@ -1,0 +1,100 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Scott Kazmir,1,2,1,Marco Scutaro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Scott Kazmir,2,1,2,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,1,[],Scott Kazmir,2,1,0,Adam Lind,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Scott Kazmir,3,1,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Brian Tallet,0,4,1,Melvin Upton,['Melvin Upton'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Brian Tallet,0,0,0,Carl Crawford,['Carl Crawford'],['Melvin Upton'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Brian Tallet,1,0,1,Evan Longoria,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Brian Tallet,2,0,0,Carlos Pena,['N/A'],['N/A'],['Melvin Upton'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],N/A,2,3,1,Ben Zobrist,['N/A'],['N/A'],['N/A'],Stolen Base Home,N/A,1,1,N/A,N/A,N/A
+1,bottom,0,[],Brian Tallet,3,3,3,Ben Zobrist,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+2,top,1,[],Scott Kazmir,0,3,1,Vernon Wells,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,1,N/A,N/A
+2,top,0,[],Scott Kazmir,0,0,1,Kevin Millar,['Kevin Millar'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Scott Kazmir,0,1,1,Alex Rios,['N/A'],['Kevin Millar'],['N/A'],Wild Pitch,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Scott Kazmir,1,2,3,Alex Rios,['N/A'],['Kevin Millar'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Scott Kazmir,2,2,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+2,top,0,[],Scott Kazmir,3,1,0,Raul Chavez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Brian Tallet,0,1,2,Pat Burrell,['N/A'],['Pat Burrell'],['N/A'],Double,N/A,1,2,N/A,N/A,N/A
+2,bottom,0,[],Brian Tallet,1,0,0,Jason Bartlett,['N/A'],['N/A'],['Pat Burrell'],Flyout,N/A,1,2,N/A,N/A,N/A
+2,bottom,1,['Pat Burrell'],Brian Tallet,1,3,2,Gabe Kapler,['Gabe Kapler'],['N/A'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+2,bottom,0,[],Brian Tallet,1,0,2,Dioner Navarro,['Dioner Navarro'],['Gabe Kapler'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+2,bottom,1,['Gabe Kapler'],Brian Tallet,1,1,2,Melvin Upton,['Melvin Upton'],['Dioner Navarro'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+2,bottom,0,[],Brian Tallet,2,2,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+2,bottom,0,[],Brian Tallet,3,0,1,Evan Longoria,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Scott Kazmir,1,1,2,Marco Scutaro,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Scott Kazmir,2,0,0,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],Scott Kazmir,3,1,0,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Brian Tallet,1,0,3,Carlos Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Brian Tallet,1,2,2,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Brian Tallet,1,0,1,Pat Burrell,['Pat Burrell'],['Ben Zobrist'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Brian Tallet,1,1,2,Jason Bartlett,['Jason Bartlett'],['Pat Burrell'],['Ben Zobrist'],Single,N/A,3,2,N/A,N/A,N/A
+3,bottom,1,['Ben Zobrist'],Brian Tallet,1,4,1,Gabe Kapler,['Gabe Kapler'],['Jason Bartlett'],['Pat Burrell'],Walk,N/A,4,2,1,N/A,N/A
+3,bottom,1,['Pat Burrell'],Brian Tallet,1,1,1,Dioner Navarro,['Dioner Navarro'],['Gabe Kapler'],['Jason Bartlett'],Single,N/A,5,2,1,N/A,N/A
+3,bottom,0,[],Brian Tallet,2,3,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+3,bottom,0,[],Brian Tallet,3,2,2,Carl Crawford,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,2,N/A,N/A,N/A
+4,top,0,[],Scott Kazmir,0,0,1,Scott Rolen,['N/A'],['Scott Rolen'],['N/A'],Double,N/A,5,2,N/A,N/A,N/A
+4,top,0,[],Scott Kazmir,0,0,0,Vernon Wells,['Vernon Wells'],['N/A'],['N/A'],Single,N/A,5,2,N/A,N/A,N/A
+4,top,0,[],Scott Kazmir,0,4,2,Kevin Millar,['Kevin Millar'],['Vernon Wells'],['Scott Rolen'],Walk,N/A,5,2,N/A,N/A,N/A
+4,top,1,['Scott Rolen'],Scott Kazmir,1,3,2,Alex Rios,['Alex Rios'],['N/A'],['Vernon Wells'],Forceout,N/A,5,3,1,N/A,N/A
+4,top,0,[],Scott Kazmir,1,4,1,Jose Bautista,['Jose Bautista'],['Alex Rios'],['N/A'],Walk,N/A,5,3,N/A,N/A,N/A
+4,top,0,[],Scott Kazmir,2,0,0,Raul Chavez,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,3,N/A,N/A,N/A
+4,top,2,"['Vernon Wells', 'Alex Rios']",Scott Kazmir,2,3,2,Marco Scutaro,['Marco Scutaro'],['N/A'],['Jose Bautista'],Single,N/A,5,5,2,N/A,N/A
+4,top,0,[],Scott Kazmir,3,1,0,Aaron Hill,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,5,N/A,N/A,N/A
+4,bottom,0,[],Brian Tallet,0,1,2,Evan Longoria,['N/A'],['Evan Longoria'],['N/A'],Double,N/A,5,5,N/A,N/A,N/A
+4,bottom,0,[],Brian Tallet,0,0,0,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Hit By Pitch,N/A,5,5,N/A,N/A,N/A
+4,bottom,3,"['Evan Longoria', 'Carlos Pena']",Brian Tallet,0,0,0,Ben Zobrist,['N/A'],['N/A'],['N/A'],Home Run,N/A,8,5,3,N/A,N/A
+4,bottom,0,[],Dirk Hayhurst,1,3,2,Pat Burrell,['N/A'],['N/A'],['N/A'],Groundout,N/A,8,5,N/A,N/A,N/A
+4,bottom,0,[],Dirk Hayhurst,2,0,0,Jason Bartlett,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,5,N/A,N/A,N/A
+4,bottom,0,[],Dirk Hayhurst,2,3,2,Gabe Kapler,['Gabe Kapler'],['N/A'],['N/A'],Single,N/A,8,5,N/A,N/A,N/A
+4,bottom,0,[],Dirk Hayhurst,3,1,3,Dioner Navarro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,5,N/A,N/A,N/A
+5,top,0,[],Scott Kazmir,1,1,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,5,N/A,N/A,N/A
+5,top,0,[],Scott Kazmir,1,2,2,Scott Rolen,['Scott Rolen'],['N/A'],['N/A'],Single,N/A,8,5,N/A,N/A,N/A
+5,top,0,[],Scott Kazmir,2,1,0,Vernon Wells,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,5,N/A,N/A,N/A
+5,top,0,[],Scott Kazmir,3,0,3,Kevin Millar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,5,N/A,N/A,N/A
+5,bottom,0,[],Dirk Hayhurst,0,4,0,Melvin Upton,['Melvin Upton'],['N/A'],['N/A'],Walk,N/A,8,5,N/A,N/A,N/A
+5,bottom,0,[],Dirk Hayhurst,1,2,1,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,5,N/A,N/A,N/A
+5,bottom,0,[],Dirk Hayhurst,3,0,1,Evan Longoria,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,8,5,N/A,N/A,N/A
+6,top,0,[],Scott Kazmir,1,0,2,Alex Rios,['N/A'],['N/A'],['N/A'],Pop Out,N/A,8,5,N/A,N/A,N/A
+6,top,0,[],Scott Kazmir,1,2,0,Jose Bautista,['N/A'],['Jose Bautista'],['N/A'],Double,N/A,8,5,N/A,N/A,N/A
+6,top,0,[],Scott Kazmir,1,1,1,Raul Chavez,['N/A'],['N/A'],['Jose Bautista'],Wild Pitch,N/A,8,5,N/A,N/A,N/A
+6,top,1,['Jose Bautista'],Scott Kazmir,2,3,2,Raul Chavez,['N/A'],['N/A'],['Jose Bautista'],Groundout,N/A,8,6,1,N/A,N/A
+6,top,0,[],Scott Kazmir,3,0,1,Marco Scutaro,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,6,N/A,N/A,N/A
+6,bottom,0,[],Dirk Hayhurst,0,2,1,Carlos Pena,['N/A'],['Carlos Pena'],['N/A'],Double,N/A,8,6,N/A,N/A,N/A
+6,bottom,0,[],Dirk Hayhurst,0,4,1,Ben Zobrist,['Ben Zobrist'],['N/A'],['N/A'],Walk,N/A,8,6,N/A,N/A,N/A
+6,bottom,0,[],Dirk Hayhurst,2,1,1,Pat Burrell,['N/A'],['N/A'],['N/A'],Double Play,N/A,8,6,N/A,N/A,N/A
+6,bottom,1,['Ben Zobrist'],Dirk Hayhurst,2,0,0,Jason Bartlett,['N/A'],['Jason Bartlett'],['N/A'],Double,N/A,9,6,1,N/A,N/A
+6,bottom,0,[],Dirk Hayhurst,3,0,0,Gabe Kapler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,9,6,N/A,N/A,N/A
+7,top,0,[],Scott Kazmir,0,1,1,Aaron Hill,['N/A'],['Aaron Hill'],['N/A'],Double,N/A,9,6,N/A,N/A,N/A
+7,top,0,[],Scott Kazmir,1,1,1,Adam Lind,['N/A'],['N/A'],['Aaron Hill'],Groundout,N/A,9,6,N/A,N/A,N/A
+7,top,1,['Aaron Hill'],Grant Balfour,1,2,1,Scott Rolen,['Scott Rolen'],['N/A'],['N/A'],Single,N/A,9,7,1,N/A,N/A
+7,top,0,[],Grant Balfour,2,1,0,Vernon Wells,['Vernon Wells'],['N/A'],['N/A'],Forceout,N/A,9,7,N/A,N/A,N/A
+7,top,1,['Vernon Wells'],Grant Balfour,2,2,0,Kevin Millar,['N/A'],['Kevin Millar'],['N/A'],Double,N/A,9,8,1,N/A,N/A
+7,top,1,['Kevin Millar'],Grant Balfour,2,2,0,Alex Rios,['Alex Rios'],['N/A'],['N/A'],Single,N/A,9,9,1,N/A,N/A
+7,top,0,[],Grant Balfour,3,3,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+7,bottom,0,[],Jesse Carlson,0,2,1,Dioner Navarro,['N/A'],['Dioner Navarro'],['N/A'],Double,N/A,9,9,N/A,N/A,N/A
+7,bottom,0,[],Jesse Carlson,1,3,2,Melvin Upton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,9,9,N/A,N/A,N/A
+7,bottom,0,[],Jesse Carlson,2,2,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+7,bottom,0,[],Jesse Carlson,2,4,0,Evan Longoria,['Evan Longoria'],['N/A'],['N/A'],Intent Walk,N/A,9,9,N/A,N/A,N/A
+7,bottom,0,[],Jesse Carlson,3,3,1,Carlos Pena,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,9,N/A,N/A,N/A
+8,top,0,[],Chad Bradford,1,0,1,Raul Chavez,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,9,N/A,N/A,N/A
+8,top,0,[],Chad Bradford,1,0,2,Marco Scutaro,['Marco Scutaro'],['N/A'],['N/A'],Single,N/A,9,9,N/A,N/A,N/A
+8,top,0,[],Chad Bradford,1,0,2,Aaron Hill,['Aaron Hill'],['Marco Scutaro'],['N/A'],Single,N/A,9,9,N/A,N/A,N/A
+8,top,0,[],Randy Choate,2,3,2,Adam Lind,['N/A'],['N/A'],['N/A'],Lineout,N/A,9,9,N/A,N/A,N/A
+8,top,0,[],Joe Nelson,3,2,3,Scott Rolen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,1,3,2,Ben Zobrist,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,2,3,3,Pat Burrell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,2,4,2,Jason Bartlett,['Jason Bartlett'],['N/A'],['N/A'],Walk,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,2,2,Gabe Gross,['N/A'],['Jason Bartlett'],['N/A'],Stolen Base 2B,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,2,4,2,Gabe Gross,['Gabe Gross'],['Jason Bartlett'],['N/A'],Walk,N/A,9,9,N/A,N/A,N/A
+8,bottom,0,[],Jason Frasor,3,0,0,Willy Aybar,['N/A'],['N/A'],['N/A'],Flyout,N/A,9,9,N/A,N/A,N/A
+9,top,0,[],J.P. Howell,1,0,3,Vernon Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+9,top,0,[],J.P. Howell,2,2,3,Kevin Millar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+9,top,0,[],J.P. Howell,3,2,1,Alex Rios,['N/A'],['N/A'],['N/A'],Groundout,N/A,9,9,N/A,N/A,N/A
+9,bottom,0,[],Jason Frasor,1,3,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+9,bottom,0,[],Jason Frasor,1,1,1,Carl Crawford,['Carl Crawford'],['N/A'],['N/A'],Single,N/A,9,9,N/A,N/A,N/A
+9,bottom,0,[],N/A,1,2,2,Evan Longoria,['N/A'],['Carl Crawford'],['N/A'],Stolen Base 2B,N/A,9,9,N/A,N/A,N/A
+9,bottom,0,[],Jason Frasor,2,3,3,Evan Longoria,['N/A'],['Carl Crawford'],['N/A'],Strikeout,N/A,9,9,N/A,N/A,N/A
+9,bottom,0,[],N/A,2,0,1,Carlos Pena,['N/A'],['N/A'],['Carl Crawford'],Stolen Base 3B,N/A,9,9,N/A,N/A,N/A
+9,bottom,0,[],Scott Downs,2,4,2,Carlos Pena,['Carlos Pena'],['N/A'],['Carl Crawford'],Walk,N/A,9,9,N/A,N/A,N/A
+9,bottom,1,['Carl Crawford'],Scott Downs,2,2,1,Ben Zobrist,['Ben Zobrist'],['Carlos Pena'],['N/A'],Single,N/A,10,9,1,N/A,N/A

@@ -1,0 +1,93 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Colby Lewis,0,1,1,Yunel Escobar,['N/A'],['Yunel Escobar'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Yunel Escobar'],Colby Lewis,0,1,0,Kole Calhoun,['N/A'],['Kole Calhoun'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Colby Lewis,1,3,2,Mike Trout,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Colby Lewis,2,2,3,Albert Pujols,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Colby Lewis,3,3,2,C.J. Cron,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Hector Santiago,0,0,0,Rougned Odor,['Rougned Odor'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],N/A,0,1,1,Ian Desmond,['N/A'],['Rougned Odor'],['N/A'],Stolen Base 2B,Error,0,1,N/A,N/A,Jett Bandy
+1,bottom,1,['Rougned Odor'],Hector Santiago,1,1,1,Ian Desmond,['N/A'],['N/A'],['Rougned Odor'],Groundout,N/A,1,1,1,N/A,N/A
+1,bottom,0,[],Hector Santiago,2,1,3,Prince Fielder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+1,bottom,0,[],Hector Santiago,3,2,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Colby Lewis,0,1,1,Johnny Giavotella,['N/A'],['Johnny Giavotella'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+2,top,0,[],Colby Lewis,0,4,1,Rafael Ortega,['Rafael Ortega'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+2,top,1,['Johnny Giavotella'],Colby Lewis,0,0,1,Jett Bandy,['N/A'],['Jett Bandy'],['Rafael Ortega'],Double,N/A,1,2,1,N/A,N/A
+2,top,1,['Rafael Ortega'],Colby Lewis,1,0,0,Gregorio Petit,['N/A'],['N/A'],['Jett Bandy'],Groundout,N/A,1,3,1,N/A,N/A
+2,top,1,['Jett Bandy'],Colby Lewis,2,0,2,Yunel Escobar,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,4,1,N/A,N/A
+2,top,0,[],Colby Lewis,3,2,1,Kole Calhoun,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+2,bottom,1,[],Hector Santiago,0,1,1,Nomar Mazara,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,1,N/A,N/A
+2,bottom,0,[],Hector Santiago,0,2,2,Ryan Rua,['Ryan Rua'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+2,bottom,0,[],Hector Santiago,0,4,1,Mitch Moreland,['Mitch Moreland'],['Ryan Rua'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+2,bottom,1,['Ryan Rua'],Hector Santiago,0,2,2,Elvis Andrus,['Elvis Andrus'],['Mitch Moreland'],['N/A'],Single,N/A,3,4,1,N/A,N/A
+2,bottom,0,[],Hector Santiago,1,1,0,Bobby Wilson,['N/A'],['Elvis Andrus'],['Mitch Moreland'],Sac Bunt,N/A,3,4,N/A,N/A,N/A
+2,bottom,1,['Mitch Moreland'],Hector Santiago,2,2,2,Rougned Odor,['N/A'],['N/A'],['Elvis Andrus'],Groundout,N/A,4,4,1,N/A,N/A
+2,bottom,0,[],Hector Santiago,3,1,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+3,top,0,[],Colby Lewis,1,1,2,Mike Trout,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,4,N/A,N/A,N/A
+3,top,0,[],Colby Lewis,2,1,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+3,top,0,[],Colby Lewis,3,0,0,C.J. Cron,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+3,bottom,0,[],Hector Santiago,0,4,2,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+3,bottom,0,[],Hector Santiago,0,0,2,Adrian Beltre,['N/A'],['Adrian Beltre'],['Prince Fielder'],Double,N/A,4,4,N/A,N/A,N/A
+3,bottom,0,[],Hector Santiago,1,0,2,Nomar Mazara,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+3,bottom,2,"['Prince Fielder', 'Adrian Beltre']",Mike Morin,1,0,1,Ryan Rua,['Ryan Rua'],['N/A'],['N/A'],Single,N/A,6,4,2,N/A,N/A
+3,bottom,1,['Ryan Rua'],Mike Morin,1,0,0,Mitch Moreland,['N/A'],"['Ryan Rua', 'Mitch Moreland']",['N/A'],Double,N/A,7,4,1,N/A,N/A
+3,bottom,0,[],Mike Morin,2,3,2,Elvis Andrus,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+3,bottom,0,[],Mike Morin,3,1,2,Bobby Wilson,['N/A'],['N/A'],['N/A'],Single,N/A,7,4,N/A,N/A,N/A
+4,top,0,[],Colby Lewis,1,0,1,Johnny Giavotella,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+4,top,0,[],Colby Lewis,2,1,1,Rafael Ortega,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,4,N/A,N/A,N/A
+4,top,0,[],Colby Lewis,3,0,1,Jett Bandy,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,4,N/A,N/A,N/A
+4,bottom,0,[],Deolis Guerra,1,0,1,Rougned Odor,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+4,bottom,0,[],Deolis Guerra,2,2,0,Ian Desmond,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,4,N/A,N/A,N/A
+4,bottom,0,[],Deolis Guerra,3,1,3,Prince Fielder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,4,N/A,N/A,N/A
+5,top,0,[],Colby Lewis,1,0,2,Gregorio Petit,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,4,N/A,N/A,N/A
+5,top,0,[],Colby Lewis,1,2,2,Yunel Escobar,['Yunel Escobar'],['N/A'],['N/A'],Single,N/A,7,4,N/A,N/A,N/A
+5,top,0,[],Colby Lewis,1,3,2,Kole Calhoun,['Kole Calhoun'],['N/A'],['Yunel Escobar'],Single,N/A,7,4,N/A,N/A,N/A
+5,top,1,['Yunel Escobar'],Colby Lewis,2,2,2,Mike Trout,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,7,5,1,N/A,N/A
+5,top,0,[],Colby Lewis,3,0,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,5,N/A,N/A,N/A
+5,bottom,0,[],Deolis Guerra,1,2,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,5,N/A,N/A,N/A
+5,bottom,0,[],Deolis Guerra,2,0,0,Nomar Mazara,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,5,N/A,N/A,N/A
+5,bottom,0,[],Deolis Guerra,3,0,1,Ryan Rua,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,5,N/A,N/A,N/A
+6,top,0,[],Colby Lewis,0,0,1,C.J. Cron,['C.J. Cron'],['N/A'],['N/A'],Single,N/A,7,5,N/A,N/A,N/A
+6,top,0,[],Colby Lewis,0,1,0,Johnny Giavotella,['Johnny Giavotella'],['C.J. Cron'],['N/A'],Single,N/A,7,5,N/A,N/A,N/A
+6,top,0,[],Alex Claudio,0,1,2,Rafael Ortega,['Rafael Ortega'],['Johnny Giavotella'],['C.J. Cron'],Single,N/A,7,5,N/A,N/A,N/A
+6,top,1,['C.J. Cron'],Tony Barnette,1,0,1,Jett Bandy,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,7,6,1,N/A,N/A
+6,top,0,[],Tony Barnette,2,1,2,Gregorio Petit,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,6,N/A,N/A,N/A
+6,top,0,[],Tony Barnette,3,1,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Forceout,N/A,7,6,N/A,N/A,N/A
+6,bottom,0,[],Deolis Guerra,1,0,1,Mitch Moreland,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,6,N/A,N/A,N/A
+6,bottom,0,[],Deolis Guerra,1,2,1,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Single,N/A,7,6,N/A,N/A,N/A
+6,bottom,0,[],Deolis Guerra,1,1,1,Bobby Wilson,['Bobby Wilson'],['N/A'],['Elvis Andrus'],Single,N/A,7,6,N/A,N/A,N/A
+6,bottom,1,['Elvis Andrus'],Deolis Guerra,1,2,0,Rougned Odor,['Rougned Odor'],['Bobby Wilson'],['N/A'],Fielders Choice,N/A,8,6,1,N/A,N/A
+6,bottom,0,[],Deolis Guerra,1,3,1,Ian Desmond,['Ian Desmond'],['Rougned Odor'],['Bobby Wilson'],Single,N/A,8,6,N/A,N/A,N/A
+6,bottom,1,['Bobby Wilson'],Greg Mahle,1,4,2,Prince Fielder,['Prince Fielder'],['Ian Desmond'],['Rougned Odor'],Walk,N/A,9,6,1,N/A,N/A
+6,bottom,0,[],Greg Mahle,2,1,3,Adrian Beltre,['N/A'],['N/A'],['N/A'],Strikeout,N/A,9,6,N/A,N/A,N/A
+6,bottom,2,"['Rougned Odor', 'Ian Desmond']",Greg Mahle,2,2,1,Nomar Mazara,['N/A'],['Nomar Mazara'],['Prince Fielder'],Single,Error,11,6,2,N/A,Rafael Ortega
+6,bottom,0,[],Greg Mahle,2,4,0,Ryan Rua,['Ryan Rua'],['N/A'],['N/A'],Intent Walk,N/A,11,6,N/A,N/A,N/A
+6,bottom,0,[],Greg Mahle,3,0,0,Mitch Moreland,['N/A'],['N/A'],['N/A'],Groundout,N/A,11,6,N/A,N/A,N/A
+7,top,0,[],Tony Barnette,1,0,1,Kole Calhoun,['N/A'],['N/A'],['N/A'],Lineout,N/A,11,6,N/A,N/A,N/A
+7,top,0,[],Tony Barnette,2,1,1,Mike Trout,['N/A'],['N/A'],['N/A'],Groundout,N/A,11,6,N/A,N/A,N/A
+7,top,0,[],Tony Barnette,3,2,0,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,11,6,N/A,N/A,N/A
+7,bottom,0,[],Greg Mahle,1,2,2,Elvis Andrus,['N/A'],['N/A'],['N/A'],Flyout,N/A,11,6,N/A,N/A,N/A
+7,bottom,0,[],Greg Mahle,1,0,2,Bobby Wilson,['Bobby Wilson'],['N/A'],['N/A'],Single,N/A,11,6,N/A,N/A,N/A
+7,bottom,0,[],Greg Mahle,1,0,2,Rougned Odor,['Rougned Odor'],['Bobby Wilson'],['N/A'],Hit By Pitch,N/A,11,6,N/A,N/A,N/A
+7,bottom,0,[],Greg Mahle,1,0,0,Ian Desmond,['Ian Desmond'],['Rougned Odor'],['Bobby Wilson'],Single,N/A,11,6,N/A,N/A,N/A
+7,bottom,0,[],Greg Mahle,2,2,3,Prince Fielder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,6,N/A,N/A,N/A
+7,bottom,2,"['Bobby Wilson', 'Rougned Odor']",Greg Mahle,2,2,1,Adrian Beltre,['Adrian Beltre'],['Ian Desmond'],['N/A'],Single,N/A,13,6,2,N/A,N/A
+7,bottom,0,[],Jose Alvarez,3,0,2,Nomar Mazara,['N/A'],['N/A'],['N/A'],Groundout,N/A,13,6,N/A,N/A,N/A
+8,top,0,[],Shawn Tolleson,0,2,2,C.J. Cron,['C.J. Cron'],['N/A'],['N/A'],Single,N/A,13,6,N/A,N/A,N/A
+8,top,0,[],Shawn Tolleson,0,0,0,Johnny Giavotella,['Johnny Giavotella'],['C.J. Cron'],['N/A'],Single,N/A,13,6,N/A,N/A,N/A
+8,top,3,"['C.J. Cron', 'Johnny Giavotella']",Shawn Tolleson,0,2,2,Rafael Ortega,['N/A'],['N/A'],['N/A'],Home Run,N/A,13,9,3,N/A,N/A
+8,top,0,[],Matt Bush,0,0,0,Jett Bandy,['Jett Bandy'],['N/A'],['N/A'],Single,N/A,13,9,N/A,N/A,N/A
+8,top,0,[],Matt Bush,1,2,0,Gregorio Petit,['Carlos Perez'],['N/A'],['N/A'],Lineout,N/A,13,9,N/A,N/A,N/A
+8,top,0,[],Matt Bush,2,1,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,13,9,N/A,N/A,N/A
+8,top,0,[],Matt Bush,2,2,2,Kole Calhoun,['Kole Calhoun'],['Carlos Perez'],['N/A'],Single,N/A,13,9,N/A,N/A,N/A
+8,top,0,[],Matt Bush,3,3,2,Mike Trout,['N/A'],['N/A'],['N/A'],Flyout,N/A,13,9,N/A,N/A,N/A
+8,bottom,0,[],Jose Alvarez,0,0,0,Ryan Rua,['N/A'],['Ryan Rua'],['N/A'],Double,N/A,13,9,N/A,N/A,N/A
+8,bottom,0,[],Jose Alvarez,0,1,0,Mitch Moreland,['N/A'],['N/A'],['Ryan Rua'],Wild Pitch,N/A,13,9,N/A,N/A,N/A
+8,bottom,0,[],Jose Alvarez,1,1,3,Mitch Moreland,['N/A'],['N/A'],['Ryan Rua'],Strikeout,N/A,13,9,N/A,N/A,N/A
+8,bottom,0,[],Jose Alvarez,1,4,0,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Intent Walk,N/A,13,9,N/A,N/A,N/A
+8,bottom,1,['Ryan Rua'],Jose Alvarez,1,0,2,Bobby Wilson,['Bobby Wilson'],['N/A'],['Elvis Andrus'],Single,N/A,14,9,1,N/A,N/A
+8,bottom,1,['Elvis Andrus'],Jose Alvarez,2,0,0,Rougned Odor,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,15,9,1,N/A,N/A
+8,bottom,0,[],Jose Alvarez,2,0,1,Ian Desmond,['Ian Desmond'],['Bobby Wilson'],['N/A'],Single,N/A,15,9,N/A,N/A,N/A
+8,bottom,0,[],Jose Alvarez,3,1,1,Prince Fielder,['N/A'],['N/A'],['N/A'],Flyout,N/A,15,9,N/A,N/A,N/A
+9,top,0,[],Sam Dyson,1,3,3,Albert Pujols,['N/A'],['N/A'],['N/A'],Strikeout,N/A,15,9,N/A,N/A,N/A
+9,top,0,[],Sam Dyson,2,2,1,C.J. Cron,['N/A'],['N/A'],['N/A'],Groundout,N/A,15,9,N/A,N/A,N/A
+9,top,0,[],Sam Dyson,3,0,0,Johnny Giavotella,['N/A'],['N/A'],['N/A'],Groundout,N/A,15,9,N/A,N/A,N/A

@@ -1,0 +1,70 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Scott Baker,0,0,0,Joey Gathright,['Joey Gathright'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],N/A,0,2,1,Mark Grudzielanek,['N/A'],['Joey Gathright'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Scott Baker,0,2,1,Mark Grudzielanek,['Mark Grudzielanek'],['Joey Gathright'],['Joey Gathright'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Scott Baker,1,0,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Joey Gathright'],Scott Baker,2,2,2,Jose Guillen,['N/A'],['Mark Grudzielanek'],['N/A'],Groundout,N/A,0,1,1,N/A,N/A
+1,top,1,['Mark Grudzielanek'],Scott Baker,3,1,2,Billy Butler,['N/A'],['N/A'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+1,bottom,0,[],John Bale,0,0,0,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],N/A,0,2,1,Joe Mauer,['N/A'],['Carlos Gomez'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Carlos Gomez'],John Bale,0,2,2,Joe Mauer,['Joe Mauer'],['Carlos Gomez'],['N/A'],Single,N/A,1,2,1,N/A,N/A
+1,bottom,0,[],John Bale,0,0,1,Michael Cuddyer,['Michael Cuddyer'],['Joe Mauer'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Bale,2,1,1,Justin Morneau,['N/A'],['N/A'],['Joe Mauer'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Bale,3,1,1,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,0,1,0,Mark Teahen,['N/A'],['Mark Teahen'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,1,0,2,Ross Gload,['N/A'],['N/A'],['Mark Teahen'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,['Mark Teahen'],Scott Baker,1,2,2,John Buck,['John Buck'],['N/A'],['N/A'],Single,N/A,1,3,1,N/A,N/A
+2,top,0,[],Scott Baker,2,0,1,Tony Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Scott Baker,3,0,3,Joey Gathright,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Bale,1,1,0,Craig Monroe,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Bale,2,2,1,Mike Lamb,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Bale,2,1,1,Matt Tolbert,['Matt Tolbert'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Bale,3,1,1,Adam Everett,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,1,2,2,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,2,2,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Scott Baker,3,0,0,Jose Guillen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Bale,1,0,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Bale,1,3,2,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Bale,1,0,0,Michael Cuddyer,['Michael Cuddyer'],['Joe Mauer'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Joe Mauer'],John Bale,1,0,1,Justin Morneau,['N/A'],['Justin Morneau'],['Michael Cuddyer'],Single,N/A,2,3,1,N/A,N/A
+3,bottom,1,['Jason Kubel'],John Bale,2,0,0,Delmon Young,['N/A'],['N/A'],['Justin Morneau'],Groundout,N/A,3,3,1,N/A,N/A
+3,bottom,0,[],John Bale,3,0,3,Craig Monroe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,1,1,1,Billy Butler,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,2,1,0,Mark Teahen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Scott Baker,3,0,0,Ross Gload,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Bale,0,1,1,Mike Lamb,['N/A'],['Mike Lamb'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Bale,1,0,0,Matt Tolbert,['N/A'],['N/A'],['Mike Lamb'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,['Mike Lamb'],John Bale,2,1,1,Adam Everett,['N/A'],['N/A'],['N/A'],Sac Bunt,N/A,4,3,1,N/A,N/A
+4,bottom,0,[],John Bale,2,2,2,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],N/A,2,2,2,Joe Mauer,['N/A'],['Carlos Gomez'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Bale,3,2,2,Joe Mauer,['N/A'],['Carlos Gomez'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Scott Baker,1,1,2,John Buck,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Scott Baker,2,3,3,Tony Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Scott Baker,3,0,0,Joey Gathright,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Bale,0,4,2,Jason Kubel,['Jason Kubel'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Bale,2,0,0,Justin Morneau,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Bale,3,3,1,Delmon Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Scott Baker,0,1,2,Mark Grudzielanek,['Mark Grudzielanek'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Scott Baker,1,0,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Scott Baker,3,1,0,Jose Guillen,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Bale,1,2,3,Craig Monroe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Bale,2,2,2,Mike Lamb,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Bale,3,0,1,Matt Tolbert,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Scott Baker,1,0,0,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Scott Baker,2,0,0,Mark Teahen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Scott Baker,2,0,1,Ross Gload,['Ross Gload'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Pat Neshek,3,0,2,John Buck,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],John Bale,1,2,2,Adam Everett,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],John Bale,1,2,2,Carlos Gomez,['N/A'],['Carlos Gomez'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jimmy Gobble,2,2,3,Joe Mauer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jimmy Gobble,3,2,3,Jason Kubel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Pat Neshek,1,0,0,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Pat Neshek,2,1,1,Joey Gathright,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Pat Neshek,3,1,3,Mark Grudzielanek,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jimmy Gobble,1,3,3,Justin Morneau,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Ramon Ramirez,2,0,2,Delmon Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Ramon Ramirez,3,2,3,Craig Monroe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,1,1,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,2,1,2,Jose Guillen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,2,3,2,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,3,3,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

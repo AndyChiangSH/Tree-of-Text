@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Cesar Ramos,1,1,2,Kevin Pillar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Cesar Ramos,2,0,0,Josh Donaldson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Cesar Ramos,3,1,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Sanchez,1,0,3,Rougned Odor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Sanchez,2,0,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Sanchez,2,1,0,Nomar Mazara,['Nomar Mazara'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Sanchez,3,1,1,Adrian Beltre,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cesar Ramos,0,3,2,Edwin Encarnacion,['N/A'],['Edwin Encarnacion'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cesar Ramos,1,3,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Cesar Ramos,2,2,2,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Edwin Encarnacion'],Cesar Ramos,2,0,0,Michael Saunders,['Michael Saunders'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+2,top,0,[],Cesar Ramos,2,0,1,Russell Martin,['Russell Martin'],['Michael Saunders'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Cesar Ramos,3,0,1,Darwin Barney,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Aaron Sanchez,0,4,2,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Aaron Sanchez,1,2,2,Mitch Moreland,['Mitch Moreland'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Aaron Sanchez,3,0,0,Elvis Andrus,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Cesar Ramos,0,3,2,Kevin Pillar,['Kevin Pillar'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Cesar Ramos,1,3,2,Josh Donaldson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],N/A,1,0,1,Jose Bautista,['N/A'],['Kevin Pillar'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Cesar Ramos,2,1,3,Jose Bautista,['N/A'],['Kevin Pillar'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Cesar Ramos,3,2,3,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Aaron Sanchez,0,4,2,Ryan Rua,['Ryan Rua'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],N/A,0,0,1,Bryan Holaday,['N/A'],['Ryan Rua'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Aaron Sanchez,1,0,1,Bryan Holaday,['N/A'],['Ryan Rua'],['Ryan Rua'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Aaron Sanchez,2,1,3,Rougned Odor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,1,['Ryan Rua'],Aaron Sanchez,3,0,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+4,top,0,[],Cesar Ramos,0,1,1,Justin Smoak,['Justin Smoak'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Cesar Ramos,0,0,1,Troy Tulowitzki,['Troy Tulowitzki'],['Justin Smoak'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Cesar Ramos,1,1,2,Michael Saunders,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Cesar Ramos,2,1,0,Russell Martin,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Cesar Ramos,3,2,1,Darwin Barney,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Aaron Sanchez,1,1,3,Nomar Mazara,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Aaron Sanchez,2,1,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Aaron Sanchez,3,0,3,Prince Fielder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Cesar Ramos,0,3,2,Kevin Pillar,['N/A'],['Kevin Pillar'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Cesar Ramos,1,3,3,Josh Donaldson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Cesar Ramos,1,4,1,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],N/A,1,3,2,Edwin Encarnacion,['N/A'],['Jose Bautista'],['Kevin Pillar'],Stolen Base 2B,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Cesar Ramos,1,4,2,Edwin Encarnacion,['Edwin Encarnacion'],['Jose Bautista'],['Kevin Pillar'],Walk,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Andrew Faulkner,3,1,1,Justin Smoak,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Aaron Sanchez,1,2,1,Mitch Moreland,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Aaron Sanchez,1,4,2,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Aaron Sanchez,2,0,0,Ryan Rua,['Ryan Rua'],['N/A'],['N/A'],Forceout,N/A,1,1,N/A,N/A,N/A
+5,bottom,1,['Ryan Rua'],Aaron Sanchez,2,3,1,Bryan Holaday,['N/A'],['Bryan Holaday'],['N/A'],Double,N/A,2,1,1,N/A,N/A
+5,bottom,0,[],Aaron Sanchez,3,1,3,Rougned Odor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Andrew Faulkner,0,1,1,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Andrew Faulkner,0,2,2,Michael Saunders,['Michael Saunders'],['Troy Tulowitzki'],['N/A'],Field Error,N/A,2,1,N/A,N/A,Rougned Odor
+6,top,0,[],Tom Wilhelmsen,1,2,2,Russell Martin,['Russell Martin'],['N/A'],['Troy Tulowitzki'],Forceout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Tom Wilhelmsen,1,0,0,Darwin Barney,['Darwin Barney'],['Russell Martin'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+6,top,1,['Troy Tulowitzki'],Tom Wilhelmsen,2,1,0,Kevin Pillar,['Kevin Pillar'],['N/A'],['Russell Martin'],Forceout,N/A,2,2,1,N/A,N/A
+6,top,0,[],Tom Wilhelmsen,2,4,0,Josh Donaldson,['Josh Donaldson'],['Kevin Pillar'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+6,top,3,"['Russell Martin', 'Kevin Pillar', 'Josh Donaldson']",Tom Wilhelmsen,2,0,0,Jose Bautista,['N/A'],['Jose Bautista'],['N/A'],Double,N/A,2,5,3,N/A,N/A
+6,top,0,[],Tom Wilhelmsen,2,0,0,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['N/A'],Hit By Pitch,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Tom Wilhelmsen,3,2,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Aaron Sanchez,1,0,1,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Aaron Sanchez,2,2,1,Nomar Mazara,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+6,bottom,1,[],Aaron Sanchez,2,0,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,1,N/A,N/A
+6,bottom,0,[],Aaron Sanchez,3,1,0,Prince Fielder,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Tom Wilhelmsen,0,3,0,Troy Tulowitzki,['N/A'],['Troy Tulowitzki'],['N/A'],Double,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Tom Wilhelmsen,0,1,0,Michael Saunders,['Michael Saunders'],['N/A'],['Troy Tulowitzki'],Single,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Tom Wilhelmsen,0,4,1,Russell Martin,['Russell Martin'],['Michael Saunders'],['N/A'],Walk,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Matt Bush,1,2,3,Darwin Barney,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+7,top,1,['Troy Tulowitzki'],Matt Bush,2,1,2,Kevin Pillar,['N/A'],['N/A'],['Michael Saunders'],Sac Fly,N/A,3,6,1,N/A,N/A
+7,top,0,[],Matt Bush,3,3,2,Josh Donaldson,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,6,N/A,N/A,N/A
+7,bottom,0,[],Aaron Sanchez,0,1,2,Mitch Moreland,['N/A'],['Mitch Moreland'],['N/A'],Double,N/A,3,6,N/A,N/A,N/A
+7,bottom,0,[],Aaron Sanchez,0,1,0,Elvis Andrus,['Elvis Andrus'],['N/A'],['Mitch Moreland'],Single,N/A,3,6,N/A,N/A,N/A
+7,bottom,1,['Mitch Moreland'],Aaron Sanchez,2,0,0,Ryan Rua,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,6,N/A,N/A,N/A
+7,bottom,0,[],Aaron Sanchez,2,4,0,Bryan Holaday,['Bryan Holaday'],['N/A'],['N/A'],Walk,N/A,4,6,N/A,N/A,N/A
+7,bottom,0,[],Aaron Sanchez,2,0,2,Rougned Odor,['Rougned Odor'],['Bryan Holaday'],['N/A'],Single,N/A,4,6,N/A,N/A,N/A
+7,bottom,3,"['Bryan Holaday', 'Rougned Odor']",Jesse Chavez,2,1,2,Ian Desmond,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,6,3,N/A,N/A
+7,bottom,0,[],Jesse Chavez,2,0,0,Nomar Mazara,['Nomar Mazara'],['N/A'],['N/A'],Single,N/A,7,6,N/A,N/A,N/A
+7,bottom,0,[],Jesse Chavez,3,1,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,6,N/A,N/A,N/A
+8,top,0,[],Matt Bush,0,0,0,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Hit By Pitch,N/A,7,6,N/A,N/A,N/A
+8,top,0,[],Matt Bush,1,3,2,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,6,N/A,N/A,N/A
+8,top,0,[],Jake Diekman,3,2,0,Justin Smoak,['N/A'],['N/A'],['N/A'],Double Play,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Jesse Chavez,0,0,0,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Hit By Pitch,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Chad Girodo,1,0,0,Mitch Moreland,['Mitch Moreland'],['N/A'],['N/A'],Forceout,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Roberto Osuna,2,0,0,Elvis Andrus,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Roberto Osuna,2,4,2,Ryan Rua,['Ryan Rua'],['Mitch Moreland'],['N/A'],Walk,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Roberto Osuna,3,0,2,Bryan Holaday,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Sam Dyson,1,0,1,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Sam Dyson,2,2,1,Michael Saunders,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Sam Dyson,3,0,1,Russell Martin,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,6,N/A,N/A,N/A

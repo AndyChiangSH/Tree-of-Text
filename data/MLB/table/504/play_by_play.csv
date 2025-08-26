@@ -1,0 +1,84 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Matt Harrison,0,0,0,Yunel Escobar,['Yunel Escobar'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Matt Harrison,0,0,0,Corey Patterson,['Corey Patterson'],['Yunel Escobar'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Matt Harrison,0,4,1,Jose Bautista,['Jose Bautista'],['Corey Patterson'],['Yunel Escobar'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Yunel Escobar'],Matt Harrison,0,0,0,Adam Lind,['Adam Lind'],['Jose Bautista'],['Corey Patterson'],Single,N/A,0,1,1,N/A,N/A
+1,top,1,['Corey Patterson'],Matt Harrison,0,4,0,Juan Rivera,['Juan Rivera'],['Adam Lind'],['Jose Bautista'],Walk,N/A,0,2,1,N/A,N/A
+1,top,1,['Jose Bautista'],Matt Harrison,0,4,2,J.P. Arencibia,['J.P. Arencibia'],['Juan Rivera'],['Adam Lind'],Walk,N/A,0,3,1,N/A,N/A
+1,top,1,['Adam Lind'],Matt Harrison,2,0,1,Travis Snider,['N/A'],['J.P. Arencibia'],['N/A'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+1,top,1,['J.P. Arencibia'],Matt Harrison,2,2,2,John McDonald,['John McDonald'],['N/A'],['N/A'],Single,N/A,0,5,1,N/A,N/A
+1,top,0,[],N/A,2,2,1,Mike McCoy,['N/A'],['John McDonald'],['N/A'],Stolen Base 2B,N/A,0,5,N/A,N/A,N/A
+1,top,0,[],Matt Harrison,3,2,1,Mike McCoy,['N/A'],['John McDonald'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+1,bottom,0,[],Jesse Litsch,1,0,1,Ian Kinsler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+1,bottom,0,[],Jesse Litsch,2,2,2,Elvis Andrus,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+1,bottom,0,[],Jesse Litsch,3,2,1,Michael Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+2,top,0,[],Matt Harrison,1,1,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+2,top,0,[],Matt Harrison,2,1,2,Corey Patterson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,5,N/A,N/A,N/A
+2,top,0,[],Matt Harrison,3,1,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,5,N/A,N/A,N/A
+2,bottom,0,[],Jesse Litsch,1,2,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+2,bottom,0,[],Jesse Litsch,2,3,2,Nelson Cruz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,5,N/A,N/A,N/A
+2,bottom,0,[],Jesse Litsch,2,1,2,David Murphy,['N/A'],['David Murphy'],['N/A'],Double,N/A,0,5,N/A,N/A,N/A
+2,bottom,1,['David Murphy'],Jesse Litsch,2,2,1,Yorvit Torrealba,['Yorvit Torrealba'],['N/A'],['N/A'],Single,N/A,1,5,1,N/A,N/A
+2,bottom,0,[],Jesse Litsch,2,2,2,Chris Davis,['N/A'],['Chris Davis'],['Yorvit Torrealba'],Double,N/A,1,5,N/A,N/A,N/A
+2,bottom,2,"['Yorvit Torrealba', 'Chris Davis']",Jesse Litsch,2,1,1,Julio Borbon,['Julio Borbon'],['N/A'],['N/A'],Single,N/A,3,5,2,N/A,N/A
+2,bottom,0,[],Jesse Litsch,3,1,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,5,N/A,N/A,N/A
+3,top,1,[],Matt Harrison,0,1,1,Adam Lind,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,6,1,N/A,N/A
+3,top,0,[],Matt Harrison,0,0,1,Juan Rivera,['Juan Rivera'],['N/A'],['N/A'],Single,N/A,3,6,N/A,N/A,N/A
+3,top,0,[],Matt Harrison,0,1,2,J.P. Arencibia,['J.P. Arencibia'],['N/A'],['Juan Rivera'],Single,N/A,3,6,N/A,N/A,N/A
+3,top,1,['Juan Rivera'],Matt Harrison,1,0,0,Travis Snider,['Travis Snider'],['N/A'],['N/A'],Single,N/A,3,7,1,N/A,N/A
+3,top,0,[],Matt Harrison,2,2,2,John McDonald,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,7,N/A,N/A,N/A
+3,top,0,[],Matt Harrison,3,1,3,Mike McCoy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+3,bottom,0,[],Jesse Litsch,1,1,1,Elvis Andrus,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+3,bottom,0,[],Jesse Litsch,2,0,2,Michael Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+3,bottom,0,[],Jesse Litsch,2,0,0,Adrian Beltre,['Adrian Beltre'],['N/A'],['N/A'],Single,N/A,3,7,N/A,N/A,N/A
+3,bottom,0,[],Jesse Litsch,3,0,0,Nelson Cruz,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,7,N/A,N/A,N/A
+4,top,0,[],Brett Tomko,1,1,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,7,N/A,N/A,N/A
+4,top,0,[],Brett Tomko,1,0,0,Corey Patterson,['N/A'],['Corey Patterson'],['N/A'],Double,N/A,3,7,N/A,N/A,N/A
+4,top,0,[],Brett Tomko,1,1,1,Jose Bautista,['N/A'],['N/A'],['Corey Patterson'],Wild Pitch,N/A,3,7,N/A,N/A,N/A
+4,top,0,[],Brett Tomko,1,4,1,Jose Bautista,['Jose Bautista'],['N/A'],['Corey Patterson'],Walk,N/A,3,7,N/A,N/A,N/A
+4,top,3,"['Corey Patterson', 'Jose Bautista']",Brett Tomko,1,0,0,Adam Lind,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,10,3,N/A,N/A
+4,top,0,[],Brett Tomko,2,1,1,Juan Rivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+4,top,0,[],Brett Tomko,3,2,3,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+4,bottom,0,[],Jesse Litsch,1,1,2,David Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+4,bottom,0,[],Jesse Litsch,1,2,2,Yorvit Torrealba,['Yorvit Torrealba'],['N/A'],['N/A'],Single,N/A,3,10,N/A,N/A,N/A
+4,bottom,0,[],Jesse Litsch,2,0,0,Chris Davis,['N/A'],['Yorvit Torrealba'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+4,bottom,0,[],Jesse Litsch,3,2,2,Julio Borbon,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,10,N/A,N/A,N/A
+5,top,0,[],Brett Tomko,1,0,0,Travis Snider,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+5,top,0,[],Brett Tomko,2,2,1,John McDonald,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+5,top,0,[],Brett Tomko,3,0,1,Mike McCoy,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,10,N/A,N/A,N/A
+5,bottom,0,[],Jesse Litsch,0,4,1,Ian Kinsler,['Ian Kinsler'],['N/A'],['N/A'],Walk,N/A,3,10,N/A,N/A,N/A
+5,bottom,0,[],Jesse Litsch,2,1,2,Elvis Andrus,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,10,N/A,N/A,N/A
+5,bottom,0,[],Jesse Litsch,3,2,3,Michael Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+6,top,0,[],Brett Tomko,1,2,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+6,top,0,[],Brett Tomko,2,1,3,Corey Patterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+6,top,0,[],Brett Tomko,2,0,0,Jose Bautista,['N/A'],['Jose Bautista'],['N/A'],Double,N/A,3,10,N/A,N/A,N/A
+6,top,0,[],Brett Tomko,3,2,1,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+6,bottom,0,[],Jesse Litsch,1,0,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+6,bottom,0,[],Jesse Litsch,1,4,2,Nelson Cruz,['Nelson Cruz'],['N/A'],['N/A'],Walk,N/A,3,10,N/A,N/A,N/A
+6,bottom,0,[],Jesse Litsch,2,2,1,David Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+6,bottom,0,[],Jesse Litsch,2,0,0,Yorvit Torrealba,['Yorvit Torrealba'],['N/A'],['Nelson Cruz'],Single,N/A,3,10,N/A,N/A,N/A
+6,bottom,0,[],Jesse Litsch,3,0,0,Chris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+7,top,0,[],Brett Tomko,1,1,0,Juan Rivera,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+7,top,0,[],Brett Tomko,2,3,2,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,10,N/A,N/A,N/A
+7,top,0,[],Brett Tomko,2,4,0,Travis Snider,['Travis Snider'],['N/A'],['N/A'],Walk,N/A,3,10,N/A,N/A,N/A
+7,top,0,[],Brett Tomko,3,1,3,John McDonald,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+7,bottom,0,[],Casey Janssen,1,1,2,Julio Borbon,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+7,bottom,0,[],Casey Janssen,2,1,3,Ian Kinsler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+7,bottom,0,[],Casey Janssen,2,0,0,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Single,N/A,3,10,N/A,N/A,N/A
+7,bottom,0,[],Casey Janssen,3,0,1,Michael Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+8,top,0,[],Brett Tomko,1,2,1,Mike McCoy,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+8,top,0,[],Brett Tomko,1,2,1,Yunel Escobar,['Yunel Escobar'],['N/A'],['N/A'],Field Error,N/A,3,10,N/A,N/A,Elvis Andrus
+8,top,0,[],Brett Tomko,2,1,3,Corey Patterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+8,top,0,[],Brett Tomko,3,2,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+8,bottom,0,[],Frank Francisco,1,2,1,Mike Napoli,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+8,bottom,0,[],Frank Francisco,1,4,2,Mitch Moreland,['Mitch Moreland'],['N/A'],['N/A'],Walk,N/A,3,10,N/A,N/A,N/A
+8,bottom,0,[],Frank Francisco,2,0,0,David Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,10,N/A,N/A,N/A
+8,bottom,0,[],Frank Francisco,3,0,1,Taylor Teagarden,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,10,N/A,N/A,N/A
+9,top,0,[],Darren O'Day,1,1,2,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+9,top,0,[],Darren O'Day,1,0,0,Juan Rivera,['Juan Rivera'],['N/A'],['N/A'],Single,N/A,3,10,N/A,N/A,N/A
+9,top,0,[],Darren O'Day,2,3,3,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,10,N/A,N/A,N/A
+9,top,0,[],Darren O'Day,3,0,1,Travis Snider,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,10,N/A,N/A,N/A
+9,bottom,0,[],Shawn Camp,0,0,0,Chris Davis,['N/A'],['Chris Davis'],['N/A'],Double,N/A,3,10,N/A,N/A,N/A
+9,bottom,0,[],Shawn Camp,0,0,1,Julio Borbon,['Julio Borbon'],['N/A'],['Chris Davis'],Single,N/A,3,10,N/A,N/A,N/A
+9,bottom,0,[],Shawn Camp,1,0,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,10,N/A,N/A,N/A
+9,bottom,0,[],Shawn Camp,3,0,1,Elvis Andrus,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,10,N/A,N/A,N/A

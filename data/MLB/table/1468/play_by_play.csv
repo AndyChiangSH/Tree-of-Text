@@ -1,0 +1,67 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Dan Straily,1,1,0,Josh Harrison,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dan Straily,2,0,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dan Straily,3,1,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,1,0,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,1,3,1,Martin Prado,['N/A'],['Martin Prado'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,2,1,1,Christian Yelich,['N/A'],['N/A'],['Martin Prado'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ivan Nova,3,2,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Dan Straily,0,2,2,Gregory Polanco,['N/A'],['Gregory Polanco'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Dan Straily,1,0,2,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Dan Straily,2,3,1,John Jaso,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,1,['Gregory Polanco'],Dan Straily,2,0,2,Jordy Mercer,['Jordy Mercer'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+2,top,0,[],Dan Straily,3,0,2,Gift Ngoepe,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ivan Nova,1,1,3,Justin Bour,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ivan Nova,2,1,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ivan Nova,3,0,0,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Dan Straily,1,1,3,Ivan Nova,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Dan Straily,2,1,1,Josh Harrison,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Dan Straily,3,1,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Ivan Nova,1,0,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Ivan Nova,2,0,3,Dan Straily,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Ivan Nova,3,1,3,Dee Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Dan Straily,1,2,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Dan Straily,1,2,2,Gregory Polanco,['N/A'],['Gregory Polanco'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Dan Straily,2,1,2,Francisco Cervelli,['N/A'],['N/A'],['Gregory Polanco'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Dan Straily,3,1,2,John Jaso,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ivan Nova,1,2,2,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ivan Nova,2,0,2,Christian Yelich,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ivan Nova,3,2,1,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Dan Straily,1,2,0,Jordy Mercer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Dan Straily,2,0,1,Gift Ngoepe,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Dan Straily,3,0,3,Ivan Nova,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Ivan Nova,0,2,1,Justin Bour,['Justin Bour'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Ivan Nova,1,2,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Ivan Nova,2,3,2,J.T. Realmuto,['J.T. Realmuto'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Ivan Nova,3,0,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Dan Straily,1,1,3,Josh Harrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Dan Straily,1,0,1,Josh Bell,['Josh Bell'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Dan Straily,1,4,2,Andrew McCutchen,['Andrew McCutchen'],['Josh Bell'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Dan Straily,1,4,2,Gregory Polanco,['Gregory Polanco'],['Andrew McCutchen'],['Josh Bell'],Walk,N/A,0,1,N/A,N/A,N/A
+6,top,1,['Josh Bell'],Dan Straily,1,4,2,Francisco Cervelli,['Francisco Cervelli'],['Gregory Polanco'],['Andrew McCutchen'],Walk,N/A,0,2,1,N/A,N/A
+6,top,1,['Andrew McCutchen'],Brad Ziegler,1,4,2,John Jaso,['John Jaso'],['Francisco Cervelli'],['Gregory Polanco'],Walk,N/A,0,3,1,N/A,N/A
+6,top,0,[],Brad Ziegler,3,0,0,Jordy Mercer,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Ivan Nova,1,1,0,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Ivan Nova,2,0,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Bunt Lineout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Ivan Nova,3,2,2,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],David Phelps,0,4,2,Gift Ngoepe,['Gift Ngoepe'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],David Phelps,1,1,1,Ivan Nova,['N/A'],['Gift Ngoepe'],['N/A'],Sac Bunt,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],David Phelps,2,1,1,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],David Phelps,3,1,2,Josh Bell,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+7,bottom,0,[],Ivan Nova,1,3,1,Christian Yelich,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+7,bottom,0,[],Ivan Nova,2,2,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+7,bottom,0,[],Ivan Nova,3,0,0,Justin Bour,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Junichi Tazawa,1,0,0,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Junichi Tazawa,2,1,1,Gregory Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Junichi Tazawa,3,1,0,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Ivan Nova,0,1,2,Marcell Ozuna,['Marcell Ozuna'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Ivan Nova,2,0,0,J.T. Realmuto,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Ivan Nova,3,0,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+9,top,1,[],AJ Ramos,0,0,0,John Jaso,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,1,N/A,N/A
+9,top,0,[],AJ Ramos,0,2,0,Jordy Mercer,['Jordy Mercer'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+9,top,0,[],AJ Ramos,1,3,3,Gift Ngoepe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+9,top,0,[],AJ Ramos,2,1,0,Ivan Nova,['Ivan Nova'],['N/A'],['N/A'],Forceout,N/A,0,4,N/A,N/A,N/A
+9,top,0,[],AJ Ramos,3,2,2,Josh Harrison,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+9,bottom,0,[],Ivan Nova,1,0,2,Derek Dietrich,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+9,bottom,0,[],Ivan Nova,2,0,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+9,bottom,0,[],Ivan Nova,3,1,2,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A

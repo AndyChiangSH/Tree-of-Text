@@ -1,0 +1,67 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Cameron,,0,,CF,1,,0,1,3,Mike Cameron,,,1.000,,.285,,,2,Mike,,,,,4,,,0,.761,,700,,0,,,0,,0,,1,,,0,0,1,0,0,Red Sox,0,.415,0,.346
+,Ortiz,,0,,DH,0,,0,0,4,David Ortiz,,2,.000,,.259,,,1,David,,,,,0,,,0,.932,,300,,0,,,0,,0,,0,,,0,0,2,0,0,Red Sox,0,.553,0,.379
+,Varitek,,,,,,,,,,Jason Varitek,,,,,,,,,Jason,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+8,Wakefield,8,0,0,P,0,15,0,0,0,Tim Wakefield,3,,1.000,0,.000,7,28,0,Tim,0,2,,1,0,2,,0,.200,0,,true,0,16,,1,5.65,0,6,0,6,34,0,0,0,0,0,Red Sox,0,.000,0,.200
+,Beltre,,,,,,,,,,Adrian Beltre,,,,,,,,,Adrian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Drew,,0,,RF,1,,0,0,4,J.D. Drew,,1,1.000,,.278,,,0,J.D.,,,,,4,,,0,.850,,500,,0,,,0,,0,,2,,,1,1,0,0,1,Red Sox,0,.489,0,.361
+,Lowell,,,,,,,,,,Mike Lowell,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,McDonald,,,,,,,,,,Darnell McDonald,,,,,,,,,Darnell,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Beckett,,,,,,,,,,Josh Beckett,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Scutaro,,0,,SS,4,,0,0,5,Marco Scutaro,,,1.000,,.279,,,3,Marco,,,,,1,,,0,.717,,100,,0,,,1,,0,,0,,,0,0,1,0,0,Red Sox,0,.373,0,.344
+,Martinez,,,,,,,,,,Victor Martinez,,,,,,,,,Victor,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Lackey,,,,,,,,,,John Lackey,,,,,,,,,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Hall,,0,,3B,1,,0,0,4,Bill Hall,,1,.857,,.246,,,4,Bill,,,,,3,,,0,.778,,800,,1,,,3,,0,,2,,,1,1,0,0,1,Red Sox,0,.443,0,.335
+,Cash,,0,,C,1,,0,0,2,Kevin Cash,,1,1.000,,.179,,,2,Kevin,,,,,4,,,1,.533,,900,,0,,,2,,0,,0,,,0,0,0,0,0,Red Sox,0,.269,0,.264
+1,Atchison,1,0,0,P,0,9,0,0,0,Scott Atchison,1,,.000,0,.000,0,23,0,Scott,0,1,,0,0,3,,0,.000,2,,,0,58,,0,4.26,0,9,0,0,35,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Youkilis,,0,,1B,3,,0,0,4,Kevin Youkilis,,1,1.000,,.289,,,0,Kevin,,,,,7,,,0,.969,,400,,0,,,0,,0,,0,,,0,0,0,0,0,Red Sox,0,.567,0,.402
+2,Ramirez,1,0,0,P,0,4,0,0,0,Ramon Ramirez,0,,.000,0,.000,0,8,0,Ramon,1,0,,0,0,1,,0,.000,3,,,0,51,,0,4.66,0,3,0,0,13,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Shealy,,0,,PH,0,,0,0,1,Ryan Shealy,,,.000,,.000,,,2,Ryan,,,,,0,,,0,.000,,901,,0,,,0,,0,,0,,,0,0,1,0,0,Red Sox,0,.000,0,.000
+,Delcarmen,,,,,,,,,,Manny Delcarmen,,,,,,,,,Manny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Hermida,,,,,,,,,,Jeremy Hermida,,,,,,,,,Jeremy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Molina,,,,,,,,,,Gustavo Molina,,,,,,,,,Gustavo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Papelbon,,,,,,,,,,Jonathan Papelbon,,,,,,,,,Jonathan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+0,Richardson,0,0,3,P,0,4,0,0,0,Dustin Richardson,0,,.000,0,.000,0,9,0,Dustin,0,0,,0,0,0,1/3,0,.000,1,,,0,48,,0,3.18,0,1,0,0,24,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Patterson,,0,,2B,2,,0,0,4,Eric Patterson,,1,1.000,,.211,,,1,Eric,,,,,2,,,0,.702,,200,,0,,,1,,0,,0,,,0,0,1,0,0,Red Sox,0,.436,0,.266
+,Lester,,,,,,,,,,Jon Lester,,,,,,,,,Jon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Ellsbury,,,,,,,,,,Jacoby Ellsbury,,,,,,,,,Jacoby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Bard,,,,,,,,,,Daniel Bard,,,,,,,,,Daniel,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Buchholz,,,,,,,,,,Clay Buchholz,,,,,,,,,Clay,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Pedroia,,,,,,,,,,Dustin Pedroia,,,,,,,,,Dustin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Doubront,,,,,,,,,,Felix Doubront,,,,,,,,,Felix,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Lowrie,,,,,,,,,,Jed Lowrie,,,,,,,,,Jed,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+0,Manuel,2,0,1,P,0,10,0,0,0,Robert Manuel,0,,.000,0,.000,0,33,0,Robert,0,1,,0,0,2,2/3,0,.000,0,,,0,54,,0,3.86,0,8,0,0,58,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Matsuzaka,,,,,,,,,,Daisuke Matsuzaka,,,,,,,,,Daisuke,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Okajima,,,,,,,,,,Hideki Okajima,,,,,,,,,Hideki,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Nava,,0,,LF,1,,0,0,2,Daniel Nava,,,1.000,,.305,,,1,Daniel,,,,,2,,,2,.875,,600,,0,,,0,,0,,1,,,0,0,0,0,0,Red Sox,0,.488,0,.387
+,Tazawa,,,,,,,,,,Junichi Tazawa,,,,,,,,,Junichi,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Guerrero,,0,,DH,2,,0,0,5,Vladimir Guerrero,,,.000,,.323,,,2,Vladimir,,,,,0,,,0,.923,,400,,0,,,0,,0,,3,,,0,2,0,0,1,Rangers,0,.555,0,.368
+0,Oliver,0,0,0,P,0,4,0,0,0,Darren Oliver,0,,.000,2,.000,0,12,0,Darren,1,2,,0,0,1,1/3,0,.000,10,,,0,56,,0,1.32,0,4,0,0,19,0,0,0,0,0,Rangers,0,.000,0,.000
+,Molina,,0,,C,1,,0,0,4,Bengie Molina,,2,1.000,,.249,,,4,Bengie,,,,,7,,,0,.632,,700,,0,,,0,,0,,1,,,1,1,0,0,2,Rangers,0,.328,0,.304
+,Treanor,,,,,,,,,,Matt Treanor,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Young,,0,,3B,2,,0,0,4,Michael Young,,1,1.000,,.301,,,1,Michael,,,,,0,,,1,.828,,200,,0,,,1,,0,,1,,,0,1,0,0,0,Rangers,0,.475,0,.353
+,Hamilton,,0,,LF,0,,0,0,4,Josh Hamilton,,1,1.000,,.351,,,1,Josh,,,,,2,,,0,1.029,,500,,0,,,0,,3,,3,,,0,1,0,0,1,Rangers,0,.635,0,.394
+,Lewis,,,,,,,,,,Colby Lewis,,,,,,,,,Colby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Francisco,,,,,,,,,,Frank Francisco,,,,,,,,,Frank,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Lee,,,,,,,,,,Cliff Lee,,,,,,,,,Cliff,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Harden,,,,,,,,,,Rich Harden,,,,,,,,,Rich,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Nippert,,,,,,,,,,Dustin Nippert,,,,,,,,,Dustin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Blanco,,,,,,,,,,Andres Blanco,,,,,,,,,Andres,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Arias,,,,,,,,,,Joaquin Arias,,,,,,,,,Joaquin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Kinsler,,0,,2B,1,,0,0,5,Ian Kinsler,,4,1.000,,.307,,,3,Ian,,,,,1,,,0,.823,,300,,0,,,2,,0,,1,,,0,1,0,0,0,Rangers,0,.418,0,.405
+,Cruz,,0,,RF,2,,0,0,5,Nelson Cruz,,,1.000,,.307,,,2,Nelson,,,,,5,,,0,.955,,600,,0,,,0,,1,,3,,,0,1,0,0,3,Rangers,0,.587,0,.368
+,Feldman,,,,,,,,,,Scott Feldman,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Davis,,0,,1B,2,,0,0,3,Chris Davis,,,1.000,,.203,,,3,Chris,,,,,6,,,1,.572,,800,,0,,,1,,0,,0,,,0,0,1,0,0,Rangers,0,.288,0,.284
+,Lowe,,,,,,,,,,Mark Lowe,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Wilson,,,,,,,,,,C.J. Wilson,,,,,,,,,C.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Poveda,,,,,,,,,,Omar Poveda,,,,,,,,,Omar,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Harrison,,,,,,,,,,Matt Harrison,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Hurley,,,,,,,,,,Eric Hurley,,,,,,,,,Eric,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Murphy,,0,,PR-LF,1,,0,0,1,David Murphy,,,.000,,.269,,,1,David,,,,,0,,,0,.710,,501,,0,,,0,,0,,0,,,0,0,0,0,0,Rangers,0,.385,0,.325
+,Andrus,,0,,SS,1,,0,0,3,Elvis Andrus,,1,1.000,,.277,,,0,Elvis,,,,,1,,,2,.681,,100,,0,,,3,,0,,0,,,0,0,1,0,0,Rangers,0,.319,0,.362
+0,Ogando,1,0,1,P,0,5,0,0,0,Alexi Ogando,3,,.000,1,1.000,0,14,0,Alexi,0,3,,0,0,1,,0,2.000,2,,,0,53,,0,0.54,0,3,0,0,25,0,0,0,0,0,Rangers,0,1.000,0,1.000
+,Borbon,,0,,CF,2,,0,0,4,Julio Borbon,,,1.000,,.275,,,4,Julio,,,,,4,,,0,.673,,900,,0,,,0,,0,,0,,,0,0,2,0,0,Rangers,0,.364,0,.309
+0,Hunter,5,0,2,P,0,28,0,0,0,Tommy Hunter,6,,1.000,0,.000,2,67,0,Tommy,0,1,,2,1,6,2/3,0,.000,0,,,0,55,true,0,2.39,0,20,0,2,108,0,0,0,0,0,Rangers,0,.000,0,.000
+,Feliz,,,,,,,,,,Neftali Feliz,,,,,,,,,Neftali,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,Holland,,,,,,,,,,Derek Holland,,,,,,,,,Derek,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,
+,O'Day,,,,,,,,,,Darren O'Day,,,,,,,,,Darren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rangers,,,,

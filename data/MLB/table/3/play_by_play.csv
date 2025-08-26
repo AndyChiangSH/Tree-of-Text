@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Paul Byrd,1,1,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Paul Byrd,2,0,1,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Paul Byrd,2,0,2,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Paul Byrd,3,1,1,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Andy Pettitte,0,2,2,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Jason Giambi
+1,bottom,0,[],Andy Pettitte,1,0,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],N/A,1,1,0,Travis Hafner,['N/A'],['Jamey Carroll'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Andy Pettitte,2,2,0,Travis Hafner,['N/A'],['Jamey Carroll'],['Jamey Carroll'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Andy Pettitte,2,4,1,Victor Martinez,['Victor Martinez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Jamey Carroll'],Andy Pettitte,2,0,1,Jhonny Peralta,['Jhonny Peralta'],['Victor Martinez'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Andy Pettitte,2,4,0,Franklin Gutierrez,['Franklin Gutierrez'],['Jhonny Peralta'],['Victor Martinez'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Andy Pettitte,3,1,1,Casey Blake,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Paul Byrd,1,2,2,Hideki Matsui,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Paul Byrd,2,0,0,Jorge Posada,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,[],Paul Byrd,2,0,0,Jason Giambi,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+2,top,0,[],Paul Byrd,3,0,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Andy Pettitte,1,1,1,Jason Michaels,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Andy Pettitte,2,2,2,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Andy Pettitte,3,2,1,Grady Sizemore,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Paul Byrd,1,3,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Paul Byrd,1,1,1,Johnny Damon,['N/A'],['Johnny Damon'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Paul Byrd,2,1,0,Derek Jeter,['N/A'],['N/A'],['Johnny Damon'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Paul Byrd,3,1,2,Bobby Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Andy Pettitte,0,1,1,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Andy Pettitte,1,0,3,Travis Hafner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Andy Pettitte,3,0,0,Victor Martinez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Paul Byrd,1,0,0,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Paul Byrd,2,0,0,Hideki Matsui,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Paul Byrd,2,0,2,Jorge Posada,['Jorge Posada'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,2,['Jorge Posada'],Paul Byrd,2,1,2,Jason Giambi,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,2,N/A,N/A
+4,top,0,[],Paul Byrd,3,2,0,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Andy Pettitte,1,1,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Andy Pettitte,2,3,3,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Andy Pettitte,2,4,2,Casey Blake,['Casey Blake'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Andy Pettitte,2,1,2,Jason Michaels,['Jason Michaels'],['Casey Blake'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Andy Pettitte,3,1,1,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Paul Byrd,1,1,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Paul Byrd,2,1,0,Johnny Damon,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Paul Byrd,3,0,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Andy Pettitte,1,2,1,Grady Sizemore,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Andy Pettitte,2,1,1,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Andy Pettitte,2,2,2,Travis Hafner,['Travis Hafner'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Andy Pettitte,2,1,0,Victor Martinez,['Victor Martinez'],['Travis Hafner'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,3,"['Travis Hafner', 'Victor Martinez']",Andy Pettitte,2,3,1,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,3,3,N/A,N/A
+5,bottom,1,[],Andy Pettitte,2,3,1,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,3,1,N/A,N/A
+5,bottom,0,[],Andy Pettitte,3,2,3,Casey Blake,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Paul Byrd,1,1,0,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Paul Byrd,2,2,2,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,[],Paul Byrd,2,0,1,Hideki Matsui,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,4,1,N/A,N/A
+6,top,0,[],Rafael Perez,3,0,0,Jorge Posada,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Billy Traber,1,3,2,Jason Michaels,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Billy Traber,2,1,3,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Billy Traber,2,4,2,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],N/A,2,2,0,Jamey Carroll,['N/A'],['Grady Sizemore'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['Grady Sizemore'],Billy Traber,2,3,2,Jamey Carroll,['Jamey Carroll'],['Grady Sizemore'],['N/A'],Single,N/A,6,4,1,N/A,N/A
+6,bottom,0,[],N/A,2,1,0,Travis Hafner,['N/A'],['Jamey Carroll'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Billy Traber,2,4,1,Travis Hafner,['Travis Hafner'],['Jamey Carroll'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Billy Traber,3,2,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Rafael Perez,1,0,0,Jason Giambi,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Rafael Perez,1,4,1,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Rafael Perez,3,0,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jonathan Albaladejo,1,2,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jonathan Albaladejo,2,0,1,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jonathan Albaladejo,3,2,0,Casey Blake,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Rafael Perez,1,2,1,Johnny Damon,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Rafael Perez,2,0,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Rafael Perez,3,0,3,Bobby Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Albaladejo,1,0,1,Jason Michaels,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Albaladejo,1,4,2,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Albaladejo,2,1,1,Grady Sizemore,['N/A'],['Kelly Shoppach'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Jonathan Albaladejo,3,2,2,Jamey Carroll,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Rafael Betancourt,1,1,1,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Rafael Betancourt,2,0,3,Hideki Matsui,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Rafael Betancourt,3,0,2,Jorge Posada,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A

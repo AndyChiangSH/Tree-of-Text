@@ -1,0 +1,68 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Tyson Ross,1,0,1,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tyson Ross,2,0,0,Corey Dickerson,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,1,[],Tyson Ross,2,1,0,Nolan Arenado,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Tyson Ross,3,3,2,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,0,4,2,Wil Myers,['Wil Myers'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,1,0,0,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,1,2,1,Matt Kemp,['Matt Kemp'],['N/A'],['Wil Myers'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,2,2,2,Derek Norris,['Derek Norris'],['Matt Kemp'],['N/A'],Fielders Choice Out,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Jorge De La Rosa,3,0,0,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tyson Ross,1,0,1,Wilin Rosario,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tyson Ross,2,1,3,Ben Paulsen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tyson Ross,2,2,0,Cristhian Adames,['Cristhian Adames'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tyson Ross,3,0,3,Daniel Descalso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,1,1,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,2,1,2,Clint Barmes,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jorge De La Rosa,3,1,3,Tyson Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tyson Ross,1,1,1,Jorge De La Rosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tyson Ross,2,2,3,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tyson Ross,3,0,3,Corey Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jorge De La Rosa,1,1,2,Austin Hedges,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jorge De La Rosa,2,0,3,Wil Myers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jorge De La Rosa,3,2,3,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Tyson Ross,1,3,2,Nolan Arenado,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Tyson Ross,2,1,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Tyson Ross,3,3,3,Wilin Rosario,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,1,[],Jorge De La Rosa,0,1,0,Matt Kemp,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+4,bottom,0,[],Jorge De La Rosa,0,1,2,Derek Norris,['Derek Norris'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jorge De La Rosa,0,0,1,Yangervis Solarte,['Yangervis Solarte'],['Derek Norris'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jorge De La Rosa,0,4,2,Melvin Upton,['Melvin Upton'],['Yangervis Solarte'],['Derek Norris'],Walk,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jorge De La Rosa,1,1,3,Clint Barmes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,1,['Derek Norris'],Jorge De La Rosa,2,2,2,Tyson Ross,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,1,1,N/A,N/A
+4,bottom,0,[],Jorge De La Rosa,3,3,3,Austin Hedges,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Tyson Ross,1,3,1,Ben Paulsen,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Tyson Ross,2,2,1,Cristhian Adames,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Tyson Ross,3,0,2,Daniel Descalso,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Jorge De La Rosa,0,1,1,Wil Myers,['Wil Myers'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Jorge De La Rosa,0,1,0,Jedd Gyorko,['Jedd Gyorko'],['N/A'],['Wil Myers'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Jorge De La Rosa,0,4,1,Matt Kemp,['Matt Kemp'],['Jedd Gyorko'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+5,bottom,1,['Wil Myers'],Jorge De La Rosa,1,2,0,Derek Norris,['N/A'],['N/A'],['Jedd Gyorko'],Sac Fly,N/A,3,1,1,N/A,N/A
+5,bottom,0,[],Jorge De La Rosa,3,0,0,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Tyson Ross,1,0,3,Rafael Ynoa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Tyson Ross,2,0,0,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,1,N/A,N/A,N/A
+6,top,1,[],Tyson Ross,2,1,0,Corey Dickerson,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,1,N/A,N/A
+6,top,0,[],Tyson Ross,3,1,0,Nolan Arenado,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Scott Oberg,1,2,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Scott Oberg,2,0,0,Clint Barmes,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+6,bottom,0,[],Scott Oberg,3,1,3,Tyson Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,1,[],Tyson Ross,0,2,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,1,N/A,N/A
+7,top,0,[],Tyson Ross,1,0,2,Wilin Rosario,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Tyson Ross,2,1,1,Ben Paulsen,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Tyson Ross,3,1,1,Cristhian Adames,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Justin Miller,1,2,3,Alexi Amarista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Justin Miller,2,2,3,Wil Myers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Justin Miller,3,0,3,Jedd Gyorko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+8,top,1,[],Joaquin Benoit,0,3,2,Daniel Descalso,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,4,1,N/A,N/A
+8,top,0,[],Joaquin Benoit,1,0,1,Brandon Barnes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Joaquin Benoit,2,2,2,Charlie Blackmon,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Joaquin Benoit,3,1,3,Corey Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Jairo Diaz,1,3,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],Jairo Diaz,1,3,2,Derek Norris,['Derek Norris'],['N/A'],['N/A'],Field Error,N/A,3,4,N/A,N/A,Nolan Arenado
+8,bottom,0,[],Jairo Diaz,3,1,1,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Double Play,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Kevin Quackenbush,1,0,1,Nolan Arenado,['N/A'],['N/A'],['N/A'],Batter Interference,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Kevin Quackenbush,2,1,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Kevin Quackenbush,3,1,3,Wilin Rosario,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],John Axford,1,3,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],John Axford,2,0,0,Brett Wallace,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],John Axford,3,3,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A

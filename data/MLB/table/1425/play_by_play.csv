@@ -1,0 +1,95 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Zach Davies,1,0,0,Ender Inciarte,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Zach Davies,2,0,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Zach Davies,3,1,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Rob Whalen,1,3,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Rob Whalen,2,0,1,Orlando Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Rob Whalen,3,1,3,Ryan Braun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Zach Davies,1,0,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],Zach Davies,1,0,2,Nick Markakis,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],Zach Davies,2,3,2,Adonis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Zach Davies,3,1,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Rob Whalen,1,0,3,Scooter Gennett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Rob Whalen,1,0,1,Hernan Perez,['Hernan Perez'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Rob Whalen,2,3,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],N/A,2,3,1,Keon Broxton,['N/A'],['Hernan Perez'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+2,bottom,1,['Hernan Perez'],Rob Whalen,2,3,1,Keon Broxton,['N/A'],"['Hernan Perez', 'Keon Broxton']",['N/A'],Single,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],Rob Whalen,3,3,3,Martin Maldonado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Zach Davies,1,1,1,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Zach Davies,2,2,1,Rob Whalen,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,top,0,[],Zach Davies,3,0,1,Ender Inciarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Rob Whalen,1,1,2,Zach Davies,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Rob Whalen,2,1,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Rob Whalen,3,1,2,Orlando Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Zach Davies,1,1,3,Erick Aybar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Zach Davies,1,2,0,Freddie Freeman,['N/A'],['Freddie Freeman'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+4,top,1,['Freddie Freeman'],Zach Davies,1,1,1,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Single,N/A,1,2,1,N/A,N/A
+4,top,0,[],Zach Davies,3,3,2,Nick Markakis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Rob Whalen,0,1,1,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Rob Whalen,2,2,1,Scooter Gennett,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Rob Whalen,3,2,2,Hernan Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Zach Davies,1,2,1,Adonis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Zach Davies,2,3,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+5,top,1,[],Zach Davies,2,2,1,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+5,top,0,[],Zach Davies,2,0,0,Rob Whalen,['Rob Whalen'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Zach Davies,2,1,1,Ender Inciarte,['Ender Inciarte'],['Rob Whalen'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Zach Davies,3,0,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Rob Whalen,0,4,2,Chris Carter,['Chris Carter'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Rob Whalen,1,0,1,Keon Broxton,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+5,bottom,2,['Chris Carter'],Rob Whalen,1,1,1,Martin Maldonado,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,2,N/A,N/A
+5,bottom,0,[],Rob Whalen,2,1,0,Zach Davies,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+5,bottom,0,[],Rob Whalen,2,3,2,Jonathan Villar,['Jonathan Villar'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+5,bottom,0,[],N/A,2,2,0,Orlando Arcia,['N/A'],['Jonathan Villar'],['N/A'],Stolen Base 2B,N/A,3,3,N/A,N/A,N/A
+5,bottom,0,[],N/A,2,2,1,Orlando Arcia,['N/A'],['N/A'],['Jonathan Villar'],Stolen Base 3B,N/A,3,3,N/A,N/A,N/A
+5,bottom,0,[],Rob Whalen,3,2,3,Orlando Arcia,['N/A'],['Jonathan Villar'],['Jonathan Villar'],Strikeout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Zach Davies,1,1,1,Freddie Freeman,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Zach Davies,1,0,2,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Zach Davies,3,3,2,Nick Markakis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Rob Whalen,1,0,0,Ryan Braun,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Rob Whalen,2,2,0,Scooter Gennett,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Rob Whalen,3,1,1,Hernan Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Zach Davies,1,0,3,Adonis Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Zach Davies,2,1,0,Gordon Beckham,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Zach Davies,2,2,1,A.J. Pierzynski,['A.J. Pierzynski'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Zach Davies,3,2,1,Jace Peterson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Jose Ramirez,1,1,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Jose Ramirez,2,0,3,Keon Broxton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Jose Ramirez,3,2,2,Martin Maldonado,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+8,top,0,[],Corey Knebel,1,1,3,Ender Inciarte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+8,top,0,[],Corey Knebel,1,1,1,Erick Aybar,['Erick Aybar'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+8,top,0,[],Corey Knebel,3,3,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,1,0,0,Kirk Nieuwenhuis,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,2,1,0,Jonathan Villar,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,2,2,0,Orlando Arcia,['N/A'],['Orlando Arcia'],['N/A'],Double,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,2,4,0,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Intent Walk,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Jose Ramirez,3,0,3,Scooter Gennett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Tyler Thornburg,1,2,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Tyler Thornburg,2,1,3,Nick Markakis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Tyler Thornburg,3,2,1,Adonis Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Mauricio Cabrera,1,2,1,Hernan Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Mauricio Cabrera,2,1,2,Chris Carter,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Mauricio Cabrera,3,2,3,Keon Broxton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+10,top,0,[],Carlos Torres,1,0,1,Gordon Beckham,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+10,top,0,[],Carlos Torres,2,2,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+10,top,0,[],Carlos Torres,3,1,3,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+10,bottom,0,[],Brandon Cunniff,1,2,3,Martin Maldonado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+10,bottom,0,[],Brandon Cunniff,2,1,1,Ramon Flores,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+10,bottom,0,[],Brandon Cunniff,3,2,3,Jonathan Villar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+11,top,0,[],Carlos Torres,1,1,1,Ender Inciarte,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+11,top,0,[],Carlos Torres,2,1,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+11,top,0,[],Carlos Torres,3,1,1,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+11,bottom,0,[],Brandon Cunniff,1,0,1,Orlando Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+11,bottom,0,[],Brandon Cunniff,1,1,2,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+11,bottom,0,[],Brandon Cunniff,2,1,1,Scooter Gennett,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+11,bottom,0,[],Brandon Cunniff,3,3,2,Hernan Perez,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,3,N/A,N/A,N/A
+12,top,0,[],Carlos Torres,0,4,2,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Walk,N/A,3,3,N/A,N/A,N/A
+12,top,0,[],Carlos Torres,0,0,1,Nick Markakis,['N/A'],['Nick Markakis'],['Matt Kemp'],Double,N/A,3,3,N/A,N/A,N/A
+12,top,0,[],Carlos Torres,0,4,0,Adonis Garcia,['Adonis Garcia'],['N/A'],['N/A'],Intent Walk,N/A,3,3,N/A,N/A,N/A
+12,top,1,['Matt Kemp'],Carlos Torres,0,2,1,Gordon Beckham,['Gordon Beckham'],['Adonis Garcia'],['Nick Markakis'],Sac Fly,Error,3,4,1,N/A,Keon Broxton
+12,top,0,[],Blaine Boyer,2,1,2,A.J. Pierzynski,['N/A'],['Gordon Beckham'],['Adonis Garcia'],Grounded Into DP,N/A,3,4,N/A,N/A,N/A
+12,top,0,[],Blaine Boyer,3,0,0,Chase d'Arnaud,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+12,bottom,0,[],Jim Johnson,1,1,3,Andy Wilkins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+12,bottom,0,[],Jim Johnson,1,0,2,Keon Broxton,['Keon Broxton'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+12,bottom,0,[],N/A,1,0,1,Martin Maldonado,['N/A'],['Keon Broxton'],['N/A'],Stolen Base 2B,N/A,3,4,N/A,N/A,N/A
+12,bottom,0,[],Jim Johnson,2,1,3,Martin Maldonado,['N/A'],['Keon Broxton'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+12,bottom,0,[],Jim Johnson,3,1,1,Ramon Flores,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A

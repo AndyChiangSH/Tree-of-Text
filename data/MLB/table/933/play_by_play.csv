@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mike Pelfrey,0,3,2,Alejandro De Aza,['Alejandro De Aza'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Pelfrey,0,1,2,Gordon Beckham,['Gordon Beckham'],['Alejandro De Aza'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Pelfrey,1,0,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Alejandro De Aza'],Mike Pelfrey,1,0,1,Adam Dunn,['Adam Dunn'],['N/A'],['Gordon Beckham'],Single,N/A,0,1,1,N/A,N/A
+1,top,1,['Gordon Beckham'],Mike Pelfrey,2,0,0,Paul Konerko,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,2,1,N/A,N/A
+1,top,0,[],Mike Pelfrey,3,0,1,Avisail Garcia,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Andre Rienzo,1,2,1,Brian Dozier,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Andre Rienzo,2,2,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Andre Rienzo,3,1,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,1,1,2,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,2,2,3,Josh Phegley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,3,0,3,Jordan Danks,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Andre Rienzo,1,3,1,Josh Willingham,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Andre Rienzo,1,0,1,Oswaldo Arcia,['Oswaldo Arcia'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Andre Rienzo,2,1,0,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Andre Rienzo,3,3,3,Chris Colabello,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,0,4,2,Alejandro De Aza,['Alejandro De Aza'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],N/A,0,0,1,Gordon Beckham,['N/A'],['Alejandro De Aza'],['N/A'],Stolen Base 2B,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,1,0,1,Gordon Beckham,['N/A'],['Alejandro De Aza'],['Alejandro De Aza'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,1,['Alejandro De Aza'],Mike Pelfrey,2,1,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,3,1,N/A,N/A
+3,top,0,[],Mike Pelfrey,3,1,3,Adam Dunn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Andre Rienzo,1,2,1,Clete Thomas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Andre Rienzo,2,2,1,Pedro Florimon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Andre Rienzo,3,1,0,Brian Dozier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,1,1,0,Paul Konerko,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,1,1,1,Avisail Garcia,['Avisail Garcia'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,2,0,0,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,3,0,2,Josh Phegley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Andre Rienzo,1,1,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Andre Rienzo,2,2,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Andre Rienzo,3,2,2,Josh Willingham,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,1,2,1,Jordan Danks,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,2,0,2,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,3,1,3,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Andre Rienzo,1,0,2,Oswaldo Arcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,bottom,1,[],Andre Rienzo,1,3,1,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+5,bottom,0,[],Andre Rienzo,2,0,0,Chris Colabello,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Andre Rienzo,2,2,2,Clete Thomas,['Clete Thomas'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Andre Rienzo,3,2,2,Pedro Florimon,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,1,2,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,2,1,0,Adam Dunn,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,2,2,2,Paul Konerko,['Paul Konerko'],['N/A'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,3,0,0,Avisail Garcia,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Andre Rienzo,0,2,1,Brian Dozier,['Brian Dozier'],['N/A'],['N/A'],Field Error,N/A,1,3,N/A,N/A,Alexei Ramirez
+6,bottom,0,[],Andre Rienzo,1,3,2,Joe Mauer,['N/A'],['Brian Dozier'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Andre Rienzo,2,2,3,Justin Morneau,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,bottom,1,['Brian Dozier'],Andre Rienzo,2,0,0,Josh Willingham,['Josh Willingham'],['N/A'],['N/A'],Single,N/A,2,3,1,N/A,N/A
+6,bottom,0,[],Andre Rienzo,3,1,0,Oswaldo Arcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Mike Pelfrey,0,1,0,Conor Gillaspie,['Conor Gillaspie'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Mike Pelfrey,0,0,0,Josh Phegley,['Josh Phegley'],['Conor Gillaspie'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Mike Pelfrey,1,2,1,Jordan Danks,['N/A'],['N/A'],['Conor Gillaspie'],Flyout,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Caleb Thielbar,2,0,0,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,3,N/A,N/A,N/A
+7,top,0,[],Josh Roenicke,3,1,1,Jeff Keppinger,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,3,N/A,N/A,N/A
+7,bottom,0,[],Matt Lindstrom,1,1,1,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+7,bottom,0,[],Matt Lindstrom,2,0,2,Chris Colabello,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+7,bottom,0,[],Matt Lindstrom,2,3,2,Clete Thomas,['N/A'],['Clete Thomas'],['N/A'],Double,N/A,2,3,N/A,N/A,N/A
+7,bottom,0,[],Matt Lindstrom,3,0,0,Pedro Florimon,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+8,top,0,[],Josh Roenicke,1,0,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+8,top,0,[],Josh Roenicke,2,2,0,Adam Dunn,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,3,N/A,N/A,N/A
+8,top,0,[],Josh Roenicke,2,0,0,Paul Konerko,['N/A'],['Paul Konerko'],['N/A'],Double,N/A,2,3,N/A,N/A,N/A
+8,top,0,[],Josh Roenicke,3,1,1,Avisail Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+8,bottom,0,[],Nate Jones,1,3,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+8,bottom,0,[],Nate Jones,1,1,1,Joe Mauer,['N/A'],['Joe Mauer'],['N/A'],Double,N/A,2,3,N/A,N/A,N/A
+8,bottom,1,['Joe Mauer'],Nate Jones,1,1,0,Justin Morneau,['Justin Morneau'],['N/A'],['N/A'],Single,N/A,3,3,1,N/A,N/A
+8,bottom,0,[],Nate Jones,1,4,2,Josh Willingham,['Josh Willingham'],['Justin Morneau'],['N/A'],Walk,N/A,3,3,N/A,N/A,N/A
+8,bottom,0,[],Donnie Veal,3,2,1,Oswaldo Arcia,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Jared Burton,1,0,1,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Jared Burton,2,0,2,Josh Phegley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Jared Burton,2,1,1,Jordan Danks,['Jordan Danks'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],N/A,2,1,2,Alejandro De Aza,['N/A'],['Jordan Danks'],['N/A'],Stolen Base 2B,N/A,3,3,N/A,N/A,N/A
+9,top,0,[],Jared Burton,3,1,3,Alejandro De Aza,['N/A'],['Jordan Danks'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Ramon Troncoso,0,2,2,Trevor Plouffe,['Trevor Plouffe'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Ramon Troncoso,0,4,1,Chris Colabello,['Chris Colabello'],['Trevor Plouffe'],['N/A'],Walk,N/A,3,3,N/A,N/A,N/A
+9,bottom,0,[],Ramon Troncoso,1,0,1,Clete Thomas,['Clete Thomas'],['Chris Colabello'],['N/A'],Forceout,N/A,3,3,N/A,N/A,N/A
+9,bottom,1,['Doug Bernier'],Ramon Troncoso,1,1,1,Chris Herrmann,['Chris Herrmann'],['Clete Thomas'],['N/A'],Single,N/A,4,3,1,N/A,N/A

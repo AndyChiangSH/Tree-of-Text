@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Aaron Harang,0,0,2,Brandon Phillips,['Brandon Phillips'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Aaron Harang,1,2,1,Joey Votto,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Brandon Phillips'],Aaron Harang,1,0,0,Todd Frazier,['N/A'],['Todd Frazier'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+1,top,0,[],Aaron Harang,2,2,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Aaron Harang,3,0,2,Brayan Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Anthony DeSclafani,0,1,2,Ben Revere,['N/A'],['N/A'],['Ben Revere'],Triple,N/A,0,1,N/A,N/A,N/A
+1,bottom,1,['Ben Revere'],Anthony DeSclafani,1,1,1,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,1,N/A,N/A
+1,bottom,0,[],Anthony DeSclafani,1,0,2,Chase Utley,['N/A'],['Chase Utley'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+1,bottom,0,[],Anthony DeSclafani,2,1,1,Ryan Howard,['N/A'],['N/A'],['Chase Utley'],Groundout,N/A,1,1,N/A,N/A,N/A
+1,bottom,1,['Chase Utley'],Anthony DeSclafani,2,0,2,Maikel Franco,['N/A'],['Maikel Franco'],['N/A'],Double,N/A,2,1,1,N/A,N/A
+1,bottom,0,[],Anthony DeSclafani,3,1,0,Cody Asche,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Aaron Harang,1,1,0,Zack Cozart,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Aaron Harang,2,2,2,Skip Schumaker,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Aaron Harang,3,1,1,Anthony DeSclafani,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Anthony DeSclafani,1,0,2,Freddy Galvis,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Anthony DeSclafani,2,1,1,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Anthony DeSclafani,3,0,0,Aaron Harang,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Aaron Harang,1,1,2,Billy Hamilton,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Aaron Harang,2,0,1,Brandon Phillips,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Aaron Harang,3,1,0,Joey Votto,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Anthony DeSclafani,0,1,0,Ben Revere,['Ben Revere'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Anthony DeSclafani,1,1,2,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Forceout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Anthony DeSclafani,3,0,0,Chase Utley,['N/A'],['N/A'],['N/A'],Double Play,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Aaron Harang,1,2,2,Todd Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Aaron Harang,2,0,0,Jay Bruce,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Aaron Harang,2,4,2,Brayan Pena,['Brayan Pena'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Aaron Harang,3,2,3,Zack Cozart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Anthony DeSclafani,1,0,2,Ryan Howard,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Anthony DeSclafani,2,1,0,Maikel Franco,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Anthony DeSclafani,2,4,2,Cody Asche,['Cody Asche'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Anthony DeSclafani,3,0,0,Freddy Galvis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Aaron Harang,0,4,1,Skip Schumaker,['Skip Schumaker'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Aaron Harang,0,0,0,Anthony DeSclafani,['Anthony DeSclafani'],['Skip Schumaker'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Aaron Harang,1,0,0,Billy Hamilton,['N/A'],['Anthony DeSclafani'],['Skip Schumaker'],Sac Bunt,N/A,2,1,N/A,N/A,N/A
+5,top,1,['Skip Schumaker'],Aaron Harang,1,0,0,Brandon Phillips,['N/A'],['Brandon Phillips'],['Anthony DeSclafani'],Double,N/A,2,2,1,N/A,N/A
+5,top,0,[],Aaron Harang,1,4,0,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Intent Walk,N/A,2,2,N/A,N/A,N/A
+5,top,1,['Anthony DeSclafani'],Aaron Harang,1,0,2,Todd Frazier,['Todd Frazier'],['Joey Votto'],['Brandon Phillips'],Field Error,N/A,2,3,N/A,1,Carlos Ruiz
+5,top,0,[],Aaron Harang,3,3,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Anthony DeSclafani,1,0,1,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Anthony DeSclafani,2,1,2,Aaron Harang,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Anthony DeSclafani,3,1,0,Ben Revere,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Aaron Harang,1,0,0,Brayan Pena,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Aaron Harang,1,4,2,Zack Cozart,['Zack Cozart'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Aaron Harang,1,4,2,Skip Schumaker,['Skip Schumaker'],['Zack Cozart'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Aaron Harang,2,0,0,Anthony DeSclafani,['N/A'],['Skip Schumaker'],['Zack Cozart'],Sac Bunt,N/A,2,3,N/A,N/A,N/A
+6,top,2,"['Zack Cozart', 'Skip Schumaker']",Aaron Harang,2,1,2,Billy Hamilton,['N/A'],['Billy Hamilton'],['N/A'],Single,N/A,2,5,2,N/A,N/A
+6,top,0,[],Aaron Harang,2,3,2,Brandon Phillips,['N/A'],['N/A'],['Billy Hamilton'],Wild Pitch,N/A,2,5,N/A,N/A,N/A
+6,top,1,['Billy Hamilton'],Aaron Harang,2,3,2,Brandon Phillips,['Brandon Phillips'],['N/A'],['Billy Hamilton'],Single,N/A,2,6,1,N/A,N/A
+6,top,0,[],N/A,2,1,1,Joey Votto,['N/A'],['Brandon Phillips'],['N/A'],Stolen Base 2B,N/A,2,6,N/A,N/A,N/A
+6,top,0,[],Jake Diekman,3,2,3,Joey Votto,['N/A'],['Brandon Phillips'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Anthony DeSclafani,0,1,2,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Anthony DeSclafani,1,3,2,Chase Utley,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+6,bottom,0,[],Anthony DeSclafani,3,0,2,Ryan Howard,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Jake Diekman,1,1,3,Todd Frazier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Jake Diekman,1,4,0,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+7,top,0,[],Jake Diekman,3,3,2,Brayan Pena,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Anthony DeSclafani,1,3,2,Maikel Franco,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Anthony DeSclafani,2,1,2,Cody Asche,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,6,N/A,N/A,N/A
+7,bottom,0,[],Anthony DeSclafani,3,1,2,Freddy Galvis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Justin DeFratus,1,1,0,Zack Cozart,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Justin DeFratus,2,3,3,Skip Schumaker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+8,top,0,[],Justin DeFratus,3,1,3,Anthony DeSclafani,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Anthony DeSclafani,0,3,2,Carlos Ruiz,['Carlos Ruiz'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Anthony DeSclafani,0,4,2,Cesar Hernandez,['Cesar Hernandez'],['Carlos Ruiz'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+8,bottom,1,['Carlos Ruiz'],Tony Cingrani,0,1,2,Ben Revere,['N/A'],['Ben Revere'],['Cesar Hernandez'],Double,N/A,3,6,1,N/A,N/A
+8,bottom,0,[],Tony Cingrani,1,0,3,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+8,bottom,1,['Cesar Hernandez'],Tony Cingrani,2,1,0,Chase Utley,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,6,1,N/A,N/A
+8,bottom,0,[],N/A,2,0,2,Ryan Howard,['N/A'],['N/A'],['Ben Revere'],Stolen Base 3B,N/A,4,6,N/A,N/A,N/A
+8,bottom,0,[],Tony Cingrani,3,1,3,Ryan Howard,['N/A'],['N/A'],['Ben Revere'],Strikeout,N/A,4,6,N/A,N/A,N/A
+9,top,0,[],Jeanmar Gomez,1,1,1,Billy Hamilton,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,6,N/A,N/A,N/A
+9,top,0,[],Jeanmar Gomez,2,2,2,Brandon Phillips,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,6,N/A,N/A,N/A
+9,top,0,[],Jeanmar Gomez,3,1,1,Joey Votto,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,6,N/A,N/A,N/A
+9,bottom,0,[],Aroldis Chapman,1,1,3,Maikel Franco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+9,bottom,0,[],Aroldis Chapman,2,2,3,Cody Asche,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+9,bottom,0,[],Aroldis Chapman,3,1,3,Freddy Galvis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A

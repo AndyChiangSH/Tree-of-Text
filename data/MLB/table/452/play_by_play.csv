@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Joe Blanton,1,2,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Joe Blanton,1,3,2,Angel Pagan,['Angel Pagan'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Joe Blanton,3,0,1,Carlos Beltran,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jonathon Niese,1,1,2,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jonathon Niese,1,0,1,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Raul Ibanez'],Jonathon Niese,1,2,2,Placido Polanco,['N/A'],"['Raul Ibanez', 'Placido Polanco']",['N/A'],Double,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Jonathon Niese,2,0,0,Mike Sweeney,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Jonathon Niese,2,4,1,Jayson Werth,['Jayson Werth'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Jonathon Niese,2,4,1,Ben Francisco,['Ben Francisco'],['Jayson Werth'],['Placido Polanco'],Walk,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Jonathon Niese,3,1,3,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Joe Blanton,1,0,2,David Wright,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Joe Blanton,2,1,0,Ike Davis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Joe Blanton,3,1,1,Josh Thole,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathon Niese,1,1,2,Wilson Valdez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathon Niese,2,3,3,Joe Blanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathon Niese,2,4,1,Jimmy Rollins,['Jimmy Rollins'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jonathon Niese,3,1,1,Raul Ibanez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Joe Blanton,0,1,2,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Joe Blanton,1,0,0,Luis Castillo,['N/A'],['Jeff Francoeur'],['N/A'],Sac Bunt,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Joe Blanton,2,2,1,Jonathon Niese,['N/A'],['N/A'],['Jeff Francoeur'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,top,1,['Jeff Francoeur'],Joe Blanton,2,2,1,Jose Reyes,['Jose Reyes'],['N/A'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+3,top,0,[],Joe Blanton,3,0,1,Angel Pagan,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Jonathon Niese,1,2,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Jonathon Niese,2,2,0,Mike Sweeney,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Jonathon Niese,2,0,2,Jayson Werth,['Jayson Werth'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Jonathon Niese,2,4,2,Ben Francisco,['Ben Francisco'],['Jayson Werth'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+3,bottom,0,[],Jonathon Niese,3,2,0,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Joe Blanton,1,1,1,Carlos Beltran,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Joe Blanton,1,3,2,David Wright,['David Wright'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Joe Blanton,1,0,0,Ike Davis,['Ike Davis'],['David Wright'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,top,1,['David Wright'],Joe Blanton,1,0,2,Josh Thole,['Josh Thole'],['Ike Davis'],['N/A'],Single,N/A,1,2,1,N/A,N/A
+4,top,0,[],Joe Blanton,2,1,2,Jeff Francoeur,['N/A'],['N/A'],['Ike Davis'],Flyout,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Joe Blanton,3,1,2,Luis Castillo,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Jonathon Niese,1,1,3,Wilson Valdez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Jonathon Niese,2,0,3,Joe Blanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+4,bottom,0,[],Jonathon Niese,3,0,3,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Joe Blanton,1,1,3,Jonathon Niese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Joe Blanton,2,0,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Joe Blanton,3,1,2,Angel Pagan,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Jonathon Niese,1,0,2,Raul Ibanez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Jonathon Niese,2,1,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Jonathon Niese,3,0,2,Mike Sweeney,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Joe Blanton,1,0,1,Carlos Beltran,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Joe Blanton,2,0,0,David Wright,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Joe Blanton,3,1,3,Ike Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],Jonathon Niese,1,2,3,Jayson Werth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],Jonathon Niese,2,0,1,Ben Francisco,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],Jonathon Niese,2,1,0,Carlos Ruiz,['Carlos Ruiz'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],Jonathon Niese,3,0,0,Wilson Valdez,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,2,N/A,N/A,N/A
+7,top,0,[],Joe Blanton,1,3,3,Josh Thole,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+7,top,0,[],Joe Blanton,1,0,0,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+7,top,0,[],Joe Blanton,2,1,0,Luis Castillo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+7,top,0,[],Joe Blanton,3,1,3,Jonathon Niese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+7,bottom,0,[],Jonathon Niese,1,2,3,John Mayberry,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+7,bottom,0,[],Jonathon Niese,2,0,2,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+7,bottom,0,[],Jonathon Niese,2,4,1,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+7,bottom,0,[],Jonathon Niese,3,1,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Chad Durbin,1,1,3,Jose Reyes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Chad Durbin,2,3,2,Angel Pagan,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+8,top,0,[],Chad Durbin,3,3,1,Carlos Beltran,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+8,bottom,0,[],Bobby Parnell,0,1,0,Mike Sweeney,['Mike Sweeney'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+8,bottom,0,[],Bobby Parnell,0,3,2,Jayson Werth,['Jayson Werth'],['N/A'],['Mike Sweeney'],Single,N/A,1,2,N/A,N/A,N/A
+8,bottom,1,['Mike Sweeney'],Bobby Parnell,0,0,2,Ben Francisco,['Ben Francisco'],['Jayson Werth'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+8,bottom,1,['Jayson Werth'],Bobby Parnell,0,3,1,Carlos Ruiz,['Carlos Ruiz'],['Ben Francisco'],['N/A'],Single,N/A,3,2,1,N/A,N/A
+8,bottom,0,[],Pedro Feliciano,0,0,0,Wilson Valdez,['Wilson Valdez'],['Carlos Ruiz'],['Ben Francisco'],Single,N/A,3,2,N/A,N/A,N/A
+8,bottom,1,['Ben Francisco'],Pedro Feliciano,0,4,2,Ross Gload,['Ross Gload'],['Wilson Valdez'],['Carlos Ruiz'],Walk,N/A,4,2,1,N/A,N/A
+8,bottom,1,['Carlos Ruiz'],Pedro Feliciano,0,2,0,Jimmy Rollins,['Jimmy Rollins'],['Ross Gload'],['Wilson Valdez'],Single,N/A,5,2,1,N/A,N/A
+8,bottom,0,[],Pedro Feliciano,1,0,3,Raul Ibanez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+8,bottom,1,['Wilson Valdez'],Manny Acosta,2,1,0,Placido Polanco,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,6,2,1,N/A,N/A
+8,bottom,1,['Ross Gload'],Manny Acosta,2,1,1,Mike Sweeney,['Mike Sweeney'],['N/A'],['Jimmy Rollins'],Single,N/A,7,2,1,N/A,N/A
+8,bottom,0,[],Manny Acosta,3,1,2,Jayson Werth,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,2,N/A,N/A,N/A
+9,top,0,[],Danys Baez,1,2,3,David Wright,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,2,N/A,N/A,N/A
+9,top,0,[],Danys Baez,1,1,1,Ike Davis,['Ike Davis'],['N/A'],['N/A'],Single,N/A,7,2,N/A,N/A,N/A
+9,top,0,[],Danys Baez,2,0,1,Josh Thole,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,2,N/A,N/A,N/A
+9,top,0,[],Danys Baez,2,2,2,Jeff Francoeur,['Jeff Francoeur'],['Ike Davis'],['N/A'],Single,N/A,7,2,N/A,N/A,N/A
+9,top,3,"['Ike Davis', 'Jeff Francoeur']",J.C. Romero,2,1,1,Mike Hessman,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,5,3,N/A,N/A
+9,top,0,[],Brad Lidge,3,1,3,Jesus Feliciano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,5,N/A,N/A,N/A

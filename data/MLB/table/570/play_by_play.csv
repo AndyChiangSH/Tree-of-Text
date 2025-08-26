@@ -1,0 +1,88 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Vin Mazzaro,0,3,2,Yunel Escobar,['Yunel Escobar'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Yunel Escobar'],N/A,0,1,1,Corey Patterson,['N/A'],['Yunel Escobar'],['N/A'],Stolen Base 2B,Error,0,1,N/A,N/A,Matt Treanor
+1,top,0,[],Vin Mazzaro,1,1,1,Corey Patterson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Vin Mazzaro,1,3,2,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,2,['Jose Bautista'],Vin Mazzaro,1,1,2,Adam Lind,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,2,N/A,N/A
+1,top,0,[],Vin Mazzaro,2,0,0,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Vin Mazzaro,3,0,3,Aaron Hill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,0,2,1,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,0,2,2,Melky Cabrera,['N/A'],['Alex Gordon'],['N/A'],Wild Pitch,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,1,3,2,Melky Cabrera,['N/A'],['Alex Gordon'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,1,4,0,Eric Hosmer,['Eric Hosmer'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+1,bottom,1,['Alex Gordon'],Kyle Drabek,1,0,0,Jeff Francoeur,['Jeff Francoeur'],['N/A'],['Eric Hosmer'],Single,N/A,1,3,1,N/A,N/A
+1,bottom,0,[],Kyle Drabek,3,0,2,Billy Butler,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,3,N/A,N/A,N/A
+2,top,0,[],Vin Mazzaro,0,0,1,Edwin Encarnacion,['N/A'],['Edwin Encarnacion'],['N/A'],Double,N/A,1,3,N/A,N/A,N/A
+2,top,0,[],Vin Mazzaro,1,0,0,Rajai Davis,['N/A'],['N/A'],['Edwin Encarnacion'],Sac Bunt,N/A,1,3,N/A,N/A,N/A
+2,top,1,['Edwin Encarnacion'],Vin Mazzaro,1,0,0,Jayson Nix,['N/A'],['Jayson Nix'],['N/A'],Double,N/A,1,4,1,N/A,N/A
+2,top,0,[],Vin Mazzaro,2,0,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+2,top,0,[],Vin Mazzaro,3,1,0,Corey Patterson,['N/A'],['N/A'],['N/A'],Runner Out,N/A,1,4,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,1,1,2,Mike Aviles,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,1,1,2,Chris Getz,['N/A'],['Chris Getz'],['N/A'],Double,N/A,1,4,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,2,0,0,Matt Treanor,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,4,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,3,0,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+3,top,0,[],Vin Mazzaro,1,1,0,Corey Patterson,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+3,top,0,[],Vin Mazzaro,1,4,1,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+3,top,0,[],Vin Mazzaro,2,1,2,Adam Lind,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+3,top,0,[],Vin Mazzaro,3,3,3,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,1,2,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,2,2,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,2,2,0,Eric Hosmer,['Eric Hosmer'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,2,1,0,Jeff Francoeur,['N/A'],['Eric Hosmer'],['N/A'],Wild Pitch,N/A,1,4,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,2,2,0,Jeff Francoeur,['N/A'],['N/A'],['Eric Hosmer'],Wild Pitch,N/A,1,4,N/A,N/A,N/A
+3,bottom,1,['Eric Hosmer'],Kyle Drabek,2,2,0,Jeff Francoeur,['Jeff Francoeur'],['Eric Hosmer'],['Eric Hosmer'],Single,N/A,2,4,1,N/A,N/A
+3,bottom,0,[],Kyle Drabek,2,2,1,Billy Butler,['Billy Butler'],['Jeff Francoeur'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,3,1,0,Mike Aviles,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,4,N/A,N/A,N/A
+4,top,0,[],Vin Mazzaro,1,2,2,Aaron Hill,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+4,top,0,[],Vin Mazzaro,2,0,1,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+4,top,0,[],Vin Mazzaro,3,0,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Kyle Drabek,1,0,1,Chris Getz,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Kyle Drabek,2,2,2,Matt Treanor,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Kyle Drabek,2,1,1,Alcides Escobar,['Alcides Escobar'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],N/A,2,3,2,Alex Gordon,['N/A'],['Alcides Escobar'],['N/A'],Stolen Base 2B,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Kyle Drabek,2,4,2,Alex Gordon,['Alex Gordon'],['Alcides Escobar'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+4,bottom,0,[],Kyle Drabek,3,0,0,Melky Cabrera,['N/A'],['N/A'],['N/A'],Runner Out,N/A,2,4,N/A,N/A,N/A
+5,top,0,[],Vin Mazzaro,0,1,0,Jayson Nix,['Jayson Nix'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+5,top,1,['Jayson Nix'],Vin Mazzaro,0,1,0,Mike McCoy,['N/A'],['Mike McCoy'],['N/A'],Double,N/A,2,5,1,N/A,N/A
+5,top,0,[],Vin Mazzaro,0,0,1,Corey Patterson,['Corey Patterson'],['N/A'],['Mike McCoy'],Sac Bunt,N/A,2,5,N/A,N/A,N/A
+5,top,0,[],Vin Mazzaro,1,0,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,5,N/A,N/A,N/A
+5,top,1,['Mike McCoy'],Vin Mazzaro,2,2,0,Adam Lind,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,6,1,N/A,N/A
+5,top,0,[],Vin Mazzaro,3,0,3,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+5,bottom,0,[],Kyle Drabek,0,2,1,Melky Cabrera,['Melky Cabrera'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+5,bottom,0,[],Kyle Drabek,0,1,0,Eric Hosmer,['Eric Hosmer'],['Melky Cabrera'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+5,bottom,0,[],Kyle Drabek,0,2,1,Jeff Francoeur,['N/A'],['Eric Hosmer'],['Melky Cabrera'],Wild Pitch,N/A,2,6,N/A,N/A,N/A
+5,bottom,1,['Melky Cabrera'],Kyle Drabek,1,2,1,Jeff Francoeur,['N/A'],['Eric Hosmer'],"['Melky Cabrera', 'Eric Hosmer']",Groundout,N/A,3,6,1,N/A,N/A
+5,bottom,1,['Eric Hosmer'],Kyle Drabek,2,1,0,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,6,1,N/A,N/A
+5,bottom,0,[],Kyle Drabek,3,1,1,Mike Aviles,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Vin Mazzaro,0,1,2,Aaron Hill,['Aaron Hill'],['N/A'],['N/A'],Single,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Louis Coleman,1,0,2,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Louis Coleman,2,1,2,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Forceout,N/A,4,6,N/A,N/A,N/A
+6,top,0,[],Louis Coleman,3,1,2,Jayson Nix,['N/A'],['N/A'],['N/A'],Runner Out,N/A,4,6,N/A,N/A,N/A
+6,bottom,0,[],Kyle Drabek,1,3,2,Chris Getz,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,6,N/A,N/A,N/A
+6,bottom,0,[],Kyle Drabek,1,4,2,Matt Treanor,['Matt Treanor'],['N/A'],['N/A'],Walk,N/A,4,6,N/A,N/A,N/A
+6,bottom,0,[],Luis Perez,1,0,0,Alcides Escobar,['Alcides Escobar'],['Matt Treanor'],['N/A'],Single,N/A,4,6,N/A,N/A,N/A
+6,bottom,0,[],Luis Perez,2,1,3,Alex Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,6,N/A,N/A,N/A
+6,bottom,1,['Matt Treanor'],Luis Perez,2,1,0,Melky Cabrera,['Melky Cabrera'],['N/A'],['Alcides Escobar'],Single,N/A,5,6,1,N/A,N/A
+6,bottom,0,[],Luis Perez,3,1,3,Eric Hosmer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,6,N/A,N/A,N/A
+7,top,0,[],Louis Coleman,1,1,3,Jayson Nix,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,6,N/A,N/A,N/A
+7,top,0,[],Louis Coleman,2,1,3,Mike McCoy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,6,N/A,N/A,N/A
+7,top,0,[],Tim Collins,3,0,3,Corey Patterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,6,N/A,N/A,N/A
+7,bottom,0,[],Luis Perez,1,1,1,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,6,N/A,N/A,N/A
+7,bottom,0,[],Luis Perez,2,1,0,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,6,N/A,N/A,N/A
+7,bottom,0,[],Luis Perez,3,1,3,Mike Aviles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,6,N/A,N/A,N/A
+8,top,0,[],Tim Collins,0,4,1,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Walk,N/A,5,6,N/A,N/A,N/A
+8,top,0,[],Tim Collins,1,3,2,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Forceout,N/A,5,6,N/A,N/A,N/A
+8,top,2,['Adam Lind'],Tim Collins,1,3,2,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,8,2,N/A,N/A
+8,top,0,[],Tim Collins,2,1,2,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,8,N/A,N/A,N/A
+8,top,0,[],Tim Collins,2,4,0,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['N/A'],Walk,N/A,5,8,N/A,N/A,N/A
+8,top,0,[],Blake Wood,3,3,2,Rajai Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,8,N/A,N/A,N/A
+8,bottom,0,[],Luis Perez,1,1,2,Chris Getz,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,8,N/A,N/A,N/A
+8,bottom,0,[],Luis Perez,1,4,2,Matt Treanor,['Matt Treanor'],['N/A'],['N/A'],Walk,N/A,5,8,N/A,N/A,N/A
+8,bottom,0,[],Luis Perez,2,1,1,Alcides Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,8,N/A,N/A,N/A
+8,bottom,0,[],Luis Perez,3,3,3,Alex Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,8,N/A,N/A,N/A
+9,top,0,[],Blake Wood,1,2,2,Jayson Nix,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,8,N/A,N/A,N/A
+9,top,0,[],Blake Wood,2,1,0,Mike McCoy,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,8,N/A,N/A,N/A
+9,top,0,[],Blake Wood,3,0,0,Corey Patterson,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,8,N/A,N/A,N/A
+9,bottom,0,[],Jon Rauch,1,1,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,8,N/A,N/A,N/A
+9,bottom,0,[],Jon Rauch,2,1,1,Eric Hosmer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,8,N/A,N/A,N/A
+9,bottom,0,[],Jon Rauch,3,3,1,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,8,N/A,N/A,N/A

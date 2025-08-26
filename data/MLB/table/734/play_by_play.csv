@@ -1,0 +1,78 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Will Smith,1,0,1,Dustin Ackley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Will Smith,2,1,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Will Smith,3,1,3,Casper Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,0,2,1,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,0,1,0,Alcides Escobar,['Alcides Escobar'],['Alex Gordon'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,2,1,0,Billy Butler,['N/A'],['N/A'],['Alex Gordon'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,3,1,1,Mike Moustakas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],Will Smith,0,1,2,Jesus Montero,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],Will Smith,0,1,0,Kyle Seager,['Kyle Seager'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Will Smith,0,1,2,Justin Smoak,['Justin Smoak'],['Kyle Seager'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Will Smith,1,0,0,John Jaso,['N/A'],['Justin Smoak'],['Kyle Seager'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+2,top,1,['Kyle Seager'],Will Smith,1,2,0,Michael Saunders,['Michael Saunders'],['N/A'],['Justin Smoak'],Single,N/A,0,2,1,N/A,N/A
+2,top,1,['Justin Smoak'],Will Smith,2,1,2,Brendan Ryan,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,3,1,N/A,N/A
+2,top,0,[],Will Smith,2,4,0,Dustin Ackley,['Dustin Ackley'],['Michael Saunders'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Will Smith,3,0,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,1,0,1,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,1,1,2,Eric Hosmer,['Eric Hosmer'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,1,0,2,Salvador Perez,['Salvador Perez'],['Eric Hosmer'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,3,0,1,Chris Getz,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Will Smith,1,1,0,Casper Wells,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Will Smith,2,2,1,Jesus Montero,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Will Smith,3,0,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,1,1,1,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,2,1,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,3,1,0,Alcides Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Will Smith,1,0,1,Justin Smoak,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Will Smith,2,1,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Will Smith,2,2,0,Michael Saunders,['Michael Saunders'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Will Smith,3,1,3,Brendan Ryan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,1,0,2,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,2,0,3,Mike Moustakas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,3,2,2,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Will Smith,1,0,0,Dustin Ackley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Will Smith,1,2,1,Ichiro Suzuki,['N/A'],['Ichiro Suzuki'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Will Smith,1,2,0,Casper Wells,['N/A'],['N/A'],['Ichiro Suzuki'],Wild Pitch,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Will Smith,1,4,0,Casper Wells,['Casper Wells'],['N/A'],['Ichiro Suzuki'],Walk,N/A,0,3,N/A,N/A,N/A
+5,top,1,['Ichiro Suzuki'],Will Smith,1,0,0,Jesus Montero,['Jesus Montero'],['Casper Wells'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+5,top,0,[],Will Smith,2,0,1,Kyle Seager,['N/A'],['N/A'],['Casper Wells'],Flyout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Will Smith,3,0,0,Justin Smoak,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,0,1,0,Eric Hosmer,['N/A'],['Eric Hosmer'],['N/A'],Double,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,1,0,0,Salvador Perez,['N/A'],['N/A'],['Eric Hosmer'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,bottom,1,['Eric Hosmer'],Felix Hernandez,1,0,0,Chris Getz,['Chris Getz'],['N/A'],['N/A'],Single,N/A,1,4,1,N/A,N/A
+5,bottom,0,[],Felix Hernandez,2,0,3,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,3,1,0,Alex Gordon,['N/A'],['N/A'],['N/A'],Runner Out,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Will Smith,0,2,2,John Jaso,['John Jaso'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Will Smith,1,0,1,Michael Saunders,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Will Smith,2,0,0,Brendan Ryan,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Will Smith,2,1,0,Dustin Ackley,['N/A'],['John Jaso'],['N/A'],Wild Pitch,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Will Smith,3,3,3,Dustin Ackley,['N/A'],['John Jaso'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,1,1,0,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,2,1,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,3,1,0,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Will Smith,1,1,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Louis Coleman,1,4,2,Casper Wells,['Casper Wells'],['N/A'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+7,top,1,['Casper Wells'],Louis Coleman,1,3,1,Jesus Montero,['N/A'],['Jesus Montero'],['N/A'],Double,N/A,1,5,1,N/A,N/A
+7,top,0,[],Francisley Bueno,2,0,0,Kyle Seager,['N/A'],['N/A'],['Jesus Montero'],Groundout,N/A,1,5,N/A,N/A,N/A
+7,top,0,[],Francisley Bueno,3,3,2,Justin Smoak,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,1,0,0,Mike Moustakas,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,2,1,2,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,3,0,0,Eric Hosmer,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+8,top,0,[],Francisley Bueno,1,0,1,John Jaso,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+8,top,0,[],Francisley Bueno,2,0,0,Michael Saunders,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+8,top,0,[],Francisley Bueno,3,1,3,Brendan Ryan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,0,0,1,Salvador Perez,['Salvador Perez'],['N/A'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,1,2,2,Chris Getz,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,1,0,0,Jarrod Dyson,['Jarrod Dyson'],['Salvador Perez'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,1,4,2,Alex Gordon,['Alex Gordon'],['Jarrod Dyson'],['Salvador Perez'],Walk,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,2,1,3,Alcides Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+8,bottom,0,[],Felix Hernandez,3,0,1,Billy Butler,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,5,N/A,N/A,N/A
+9,top,0,[],Francisley Bueno,0,0,1,Dustin Ackley,['Dustin Ackley'],['N/A'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+9,top,0,[],Francisley Bueno,0,1,1,Ichiro Suzuki,['Ichiro Suzuki'],['Dustin Ackley'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+9,top,0,[],Francisley Bueno,1,1,0,Casper Wells,['N/A'],['N/A'],['Dustin Ackley'],Flyout,N/A,1,5,N/A,N/A,N/A
+9,top,1,['Dustin Ackley'],Francisley Bueno,2,2,1,Jesus Montero,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,6,1,N/A,N/A
+9,top,0,[],Francisley Bueno,3,1,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A
+9,bottom,0,[],Lucas Luetge,1,1,2,Mike Moustakas,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+9,bottom,0,[],Lucas Luetge,2,1,1,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A
+9,bottom,0,[],Lucas Luetge,3,3,2,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,6,N/A,N/A,N/A

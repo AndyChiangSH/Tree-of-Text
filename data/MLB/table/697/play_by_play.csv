@@ -1,0 +1,93 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Dana Eveland,0,0,0,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dana Eveland,0,0,0,Asdrubal Cabrera,['Asdrubal Cabrera'],['Shin-Soo Choo'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dana Eveland,1,1,0,Jason Kipnis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Shin-Soo Choo'],Dana Eveland,1,1,0,Jose Lopez,['Jose Lopez'],['Asdrubal Cabrera'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Dana Eveland,1,4,2,Michael Brantley,['Michael Brantley'],['Jose Lopez'],['Asdrubal Cabrera'],Walk,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Dana Eveland,2,1,3,Shelley Duncan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Dana Eveland,3,1,0,Casey Kotchman,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Josh Tomlin,0,4,1,Brian Roberts,['Brian Roberts'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Josh Tomlin,2,0,0,Xavier Avery,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Josh Tomlin,3,1,0,J.J. Hardy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Dana Eveland,1,2,3,Lou Marson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Dana Eveland,2,1,1,Aaron Cunningham,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,1,[],Dana Eveland,2,2,1,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,1,N/A,N/A
+2,top,0,[],Dana Eveland,3,3,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Josh Tomlin,0,2,1,Adam Jones,['N/A'],['Adam Jones'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Josh Tomlin,2,1,2,Wilson Betemit,['N/A'],['N/A'],['N/A'],Double Play,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Josh Tomlin,3,0,3,Chris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Dana Eveland,0,2,1,Jason Kipnis,['Jason Kipnis'],['N/A'],['N/A'],Hit By Pitch,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],N/A,0,3,1,Jose Lopez,['N/A'],['Jason Kipnis'],['N/A'],Stolen Base 2B,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Dana Eveland,1,3,3,Jose Lopez,['N/A'],['Jason Kipnis'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Dana Eveland,2,0,0,Michael Brantley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Dana Eveland,2,1,2,Shelley Duncan,['Shelley Duncan'],['N/A'],['Jason Kipnis'],Field Error,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Dana Eveland,3,3,2,Casey Kotchman,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Josh Tomlin,1,0,0,Matt Wieters,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Josh Tomlin,1,4,0,Mark Reynolds,['Mark Reynolds'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Josh Tomlin,1,3,1,Ryan Flaherty,['Ryan Flaherty'],['N/A'],['Mark Reynolds'],Single,N/A,0,2,N/A,N/A,N/A
+3,bottom,1,['Mark Reynolds'],Josh Tomlin,2,0,1,Brian Roberts,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,2,1,N/A,N/A
+3,bottom,0,[],Josh Tomlin,2,1,2,Xavier Avery,['N/A'],['Xavier Avery'],['Ryan Flaherty'],Double,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Josh Tomlin,3,1,1,J.J. Hardy,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Dana Eveland,0,2,1,Lou Marson,['Lou Marson'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Dana Eveland,1,0,3,Aaron Cunningham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+4,top,0,[],Dana Eveland,1,4,0,Shin-Soo Choo,['Shin-Soo Choo'],['Lou Marson'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+4,top,1,['Lou Marson'],Dana Eveland,1,0,0,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['Shin-Soo Choo'],Single,N/A,1,3,1,N/A,N/A
+4,top,1,['Shin-Soo Choo'],Dana Eveland,2,3,0,Jason Kipnis,['N/A'],['Asdrubal Cabrera'],['N/A'],Groundout,N/A,1,4,1,N/A,N/A
+4,top,1,['Asdrubal Cabrera'],Tommy Hunter,2,3,2,Jose Lopez,['Jose Lopez'],['N/A'],['N/A'],Single,N/A,1,5,1,N/A,N/A
+4,top,0,[],Tommy Hunter,2,1,1,Michael Brantley,['Michael Brantley'],['Jose Lopez'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+4,top,0,[],Tommy Hunter,3,2,3,Shelley Duncan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,5,N/A,N/A,N/A
+4,bottom,0,[],Josh Tomlin,0,0,0,Adam Jones,['N/A'],['Adam Jones'],['N/A'],Double,N/A,1,5,N/A,N/A,N/A
+4,bottom,0,[],Josh Tomlin,0,4,2,Wilson Betemit,['Wilson Betemit'],['N/A'],['N/A'],Walk,N/A,1,5,N/A,N/A,N/A
+4,bottom,3,"['Adam Jones', 'Wilson Betemit']",Josh Tomlin,0,2,1,Chris Davis,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,5,3,N/A,N/A
+4,bottom,0,[],Josh Tomlin,1,1,0,Matt Wieters,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+4,bottom,0,[],Josh Tomlin,2,1,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+4,bottom,0,[],Josh Tomlin,3,2,2,Ryan Flaherty,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Tommy Hunter,1,1,0,Casey Kotchman,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Tommy Hunter,1,0,2,Lou Marson,['N/A'],['N/A'],['Lou Marson'],Triple,N/A,4,5,N/A,N/A,N/A
+5,top,0,[],Tommy Hunter,2,2,3,Aaron Cunningham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+5,top,1,['Lou Marson'],Tommy Hunter,2,3,2,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Single,N/A,4,6,1,N/A,N/A
+5,top,1,['Shin-Soo Choo'],Tommy Hunter,2,0,0,Asdrubal Cabrera,['N/A'],['Asdrubal Cabrera'],['N/A'],Double,N/A,4,7,1,N/A,N/A
+5,top,0,[],Tommy Hunter,2,4,0,Jason Kipnis,['Jason Kipnis'],['N/A'],['N/A'],Intent Walk,N/A,4,7,N/A,N/A,N/A
+5,top,1,['Asdrubal Cabrera'],Tommy Hunter,2,0,2,Jose Lopez,['Jose Lopez'],['N/A'],['Jason Kipnis'],Single,Error,4,8,1,N/A,Adam Jones
+5,top,0,[],Tommy Hunter,3,0,0,Michael Brantley,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,8,N/A,N/A,N/A
+5,bottom,0,[],Josh Tomlin,1,1,2,Brian Roberts,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,8,N/A,N/A,N/A
+5,bottom,0,[],Josh Tomlin,2,1,3,Xavier Avery,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,8,N/A,N/A,N/A
+5,bottom,0,[],Josh Tomlin,3,1,0,J.J. Hardy,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,8,N/A,N/A,N/A
+6,top,1,[],Tommy Hunter,0,2,0,Shelley Duncan,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,9,1,N/A,N/A
+6,top,0,[],Tommy Hunter,1,0,0,Casey Kotchman,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+6,top,0,[],Tommy Hunter,1,2,2,Lou Marson,['N/A'],['Lou Marson'],['N/A'],Double,N/A,4,9,N/A,N/A,N/A
+6,top,0,[],Luis Ayala,2,0,0,Aaron Cunningham,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,9,N/A,N/A,N/A
+6,top,1,['Lou Marson'],Luis Ayala,2,2,2,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Single,N/A,4,10,1,N/A,N/A
+6,top,0,[],Luis Ayala,2,4,0,Asdrubal Cabrera,['Asdrubal Cabrera'],['Shin-Soo Choo'],['N/A'],Walk,N/A,4,10,N/A,N/A,N/A
+6,top,0,[],Luis Ayala,3,1,2,Jason Kipnis,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,10,N/A,N/A,N/A
+6,bottom,0,[],Josh Tomlin,1,2,3,Adam Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,10,N/A,N/A,N/A
+6,bottom,0,[],Josh Tomlin,1,1,1,Wilson Betemit,['N/A'],['Wilson Betemit'],['N/A'],Double,N/A,4,10,N/A,N/A,N/A
+6,bottom,0,[],Josh Tomlin,1,2,0,Chris Davis,['Chris Davis'],['N/A'],['Wilson Betemit'],Single,N/A,4,10,N/A,N/A,N/A
+6,bottom,1,['Wilson Betemit'],Josh Tomlin,2,0,1,Matt Wieters,['Matt Wieters'],['N/A'],['N/A'],Forceout,N/A,5,10,1,N/A,N/A
+6,bottom,0,[],Josh Tomlin,3,3,2,Mark Reynolds,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,10,N/A,N/A,N/A
+7,top,0,[],Luis Ayala,0,0,1,Jose Lopez,['Jose Lopez'],['N/A'],['N/A'],Single,N/A,5,10,N/A,N/A,N/A
+7,top,0,[],Luis Ayala,1,0,0,Michael Brantley,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,10,N/A,N/A,N/A
+7,top,0,[],Luis Ayala,2,0,0,Shelley Duncan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,10,N/A,N/A,N/A
+7,top,0,[],Luis Ayala,3,1,0,Casey Kotchman,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,10,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,1,0,2,Ryan Flaherty,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,10,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,1,4,1,Brian Roberts,['Brian Roberts'],['N/A'],['N/A'],Walk,N/A,5,10,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,1,1,1,Xavier Avery,['N/A'],['Brian Roberts'],['N/A'],Wild Pitch,N/A,5,10,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,2,2,3,Xavier Avery,['N/A'],['Brian Roberts'],['N/A'],Strikeout,N/A,5,10,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,3,2,2,J.J. Hardy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,10,N/A,N/A,N/A
+8,top,0,[],Kevin Gregg,0,4,0,Lou Marson,['Lou Marson'],['N/A'],['N/A'],Walk,N/A,5,10,N/A,N/A,N/A
+8,top,0,[],Kevin Gregg,1,1,1,Aaron Cunningham,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,10,N/A,N/A,N/A
+8,top,0,[],Kevin Gregg,2,3,3,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,10,N/A,N/A,N/A
+8,top,0,[],Kevin Gregg,3,2,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,10,N/A,N/A,N/A
+8,bottom,0,[],Vinnie Pestano,1,0,1,Adam Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,10,N/A,N/A,N/A
+8,bottom,0,[],Vinnie Pestano,2,0,0,Wilson Betemit,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,10,N/A,N/A,N/A
+8,bottom,0,[],Vinnie Pestano,3,1,2,Chris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,10,N/A,N/A,N/A
+9,top,0,[],Matt Lindstrom,1,3,2,Jason Kipnis,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,10,N/A,N/A,N/A
+9,top,0,[],Matt Lindstrom,1,0,2,Jose Lopez,['Jose Lopez'],['N/A'],['N/A'],Single,N/A,5,10,N/A,N/A,N/A
+9,top,0,[],Matt Lindstrom,1,2,2,Michael Brantley,['Michael Brantley'],['Jose Lopez'],['N/A'],Single,N/A,5,10,N/A,N/A,N/A
+9,top,0,[],Matt Lindstrom,2,1,3,Shelley Duncan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,10,N/A,N/A,N/A
+9,top,0,[],Matt Lindstrom,2,1,2,Casey Kotchman,['Casey Kotchman'],['Michael Brantley'],['Jose Lopez'],Hit By Pitch,N/A,5,10,N/A,N/A,N/A
+9,top,1,['Jose Lopez'],Matt Lindstrom,2,0,2,Lou Marson,['Lou Marson'],['Casey Kotchman'],['Michael Brantley'],Single,N/A,5,11,1,N/A,N/A
+9,top,0,[],Matt Lindstrom,3,0,2,Aaron Cunningham,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,11,N/A,N/A,N/A
+9,bottom,0,[],Tony Sipp,1,0,0,Matt Wieters,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,11,N/A,N/A,N/A
+9,bottom,0,[],Tony Sipp,2,0,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,11,N/A,N/A,N/A
+9,bottom,0,[],Tony Sipp,3,2,2,Steve Pearce,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,11,N/A,N/A,N/A

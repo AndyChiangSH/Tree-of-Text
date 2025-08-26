@@ -1,0 +1,83 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Dan Straily,0,4,2,Cesar Hernandez,['Cesar Hernandez'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dan Straily,1,0,2,Aaron Altherr,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dan Straily,3,1,1,Howie Kendrick,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Nola,0,4,2,Dee Gordon,['Dee Gordon'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Nola,1,3,3,JT Riddle,['N/A'],['Dee Gordon'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Dee Gordon'],Aaron Nola,1,2,0,Christian Yelich,['Christian Yelich'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,2,['Christian Yelich'],Aaron Nola,1,3,1,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,0,2,N/A,N/A
+1,bottom,0,[],Aaron Nola,2,1,2,Justin Bour,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+1,bottom,0,[],Aaron Nola,3,2,3,Derek Dietrich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Dan Straily,1,2,3,Tommy Joseph,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Dan Straily,1,1,2,Andrew Knapp,['Andrew Knapp'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Dan Straily,2,0,3,Maikel Franco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+2,top,0,[],Dan Straily,3,1,2,Odubel Herrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Aaron Nola,1,2,2,A.J. Ellis,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Aaron Nola,2,0,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+2,bottom,0,[],Aaron Nola,3,2,3,Dan Straily,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Dan Straily,1,3,1,Freddy Galvis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Dan Straily,2,1,1,Aaron Nola,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+3,top,0,[],Dan Straily,3,1,3,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Aaron Nola,0,1,2,Dee Gordon,['Dee Gordon'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Aaron Nola,0,0,0,JT Riddle,['JT Riddle'],['Dee Gordon'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Aaron Nola,1,3,2,Christian Yelich,['Christian Yelich'],['N/A'],['Dee Gordon'],Forceout,N/A,3,0,N/A,N/A,N/A
+3,bottom,1,['Dee Gordon'],Aaron Nola,1,1,2,Marcell Ozuna,['Marcell Ozuna'],['Christian Yelich'],['N/A'],Single,N/A,4,0,1,N/A,N/A
+3,bottom,0,[],N/A,1,1,1,Justin Bour,['N/A'],['N/A'],['Christian Yelich'],Stolen Base 3B,N/A,4,0,N/A,N/A,N/A
+3,bottom,0,[],Aaron Nola,2,2,3,Justin Bour,['N/A'],['N/A'],['Christian Yelich'],Strikeout,N/A,4,0,N/A,N/A,N/A
+3,bottom,0,[],Aaron Nola,3,0,1,Derek Dietrich,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Dan Straily,1,1,3,Aaron Altherr,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Dan Straily,2,0,3,Howie Kendrick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Dan Straily,2,2,2,Tommy Joseph,['Tommy Joseph'],['N/A'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+4,top,0,[],Dan Straily,3,1,3,Andrew Knapp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Ricardo Pinto,0,1,1,A.J. Ellis,['A.J. Ellis'],['N/A'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Ricardo Pinto,0,1,0,Ichiro Suzuki,['Ichiro Suzuki'],['A.J. Ellis'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Ricardo Pinto,1,0,1,Dan Straily,['N/A'],['Ichiro Suzuki'],['A.J. Ellis'],Sac Bunt,N/A,4,0,N/A,N/A,N/A
+4,bottom,0,[],Ricardo Pinto,2,2,1,Dee Gordon,['Dee Gordon'],['N/A'],['Ichiro Suzuki'],Fielders Choice Out,N/A,4,0,N/A,N/A,N/A
+4,bottom,1,['Ichiro Suzuki'],Ricardo Pinto,2,1,1,JT Riddle,['JT Riddle'],['N/A'],['Dee Gordon'],Single,N/A,5,0,1,N/A,N/A
+4,bottom,0,[],Ricardo Pinto,2,4,1,Christian Yelich,['Christian Yelich'],['JT Riddle'],['N/A'],Walk,N/A,5,0,N/A,N/A,N/A
+4,bottom,0,[],Ricardo Pinto,3,3,3,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Dan Straily,0,1,1,Maikel Franco,['Maikel Franco'],['N/A'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Dan Straily,0,2,0,Odubel Herrera,['Odubel Herrera'],['Maikel Franco'],['N/A'],Single,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Dan Straily,1,1,3,Freddy Galvis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Dan Straily,2,0,3,Ricardo Pinto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Dan Straily,2,2,2,Cesar Hernandez,['Cesar Hernandez'],['Odubel Herrera'],['Maikel Franco'],Single,N/A,5,0,N/A,N/A,N/A
+5,top,0,[],Dan Straily,3,0,3,Aaron Altherr,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,0,N/A,N/A,N/A
+5,bottom,1,[],Ricardo Pinto,0,0,0,Justin Bour,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,0,1,N/A,N/A
+5,bottom,0,[],Ricardo Pinto,0,0,1,Derek Dietrich,['Derek Dietrich'],['N/A'],['N/A'],Single,N/A,6,0,N/A,N/A,N/A
+5,bottom,0,[],Ricardo Pinto,0,4,2,A.J. Ellis,['A.J. Ellis'],['Derek Dietrich'],['N/A'],Walk,N/A,6,0,N/A,N/A,N/A
+5,bottom,0,[],Ricardo Pinto,0,4,1,Ichiro Suzuki,['Ichiro Suzuki'],['A.J. Ellis'],['Derek Dietrich'],Walk,N/A,6,0,N/A,N/A,N/A
+5,bottom,0,[],Ricardo Pinto,1,2,3,Dan Straily,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,0,N/A,N/A,N/A
+5,bottom,1,['Derek Dietrich'],Ricardo Pinto,1,2,2,Dee Gordon,['Dee Gordon'],['Ichiro Suzuki'],['A.J. Ellis'],Single,N/A,7,0,1,N/A,N/A
+5,bottom,1,['A.J. Ellis'],Ricardo Pinto,2,1,1,JT Riddle,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,8,0,1,N/A,N/A
+5,bottom,0,[],Ricardo Pinto,3,1,1,Christian Yelich,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,0,N/A,N/A,N/A
+6,top,0,[],Dan Straily,0,0,1,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Single,N/A,8,0,N/A,N/A,N/A
+6,top,0,[],Dan Straily,1,2,1,Tommy Joseph,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,0,N/A,N/A,N/A
+6,top,0,[],Dan Straily,2,0,0,Andrew Knapp,['N/A'],['Howie Kendrick'],['N/A'],Groundout,N/A,8,0,N/A,N/A,N/A
+6,top,1,['Howie Kendrick'],Dan Straily,2,1,1,Maikel Franco,['N/A'],['Maikel Franco'],['N/A'],Single,Error,8,1,N/A,1,JT Riddle
+6,top,0,[],Dan Straily,3,3,2,Odubel Herrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,8,1,N/A,N/A,N/A
+6,bottom,0,[],Jeanmar Gomez,0,2,1,Marcell Ozuna,['Marcell Ozuna'],['N/A'],['N/A'],Single,N/A,8,1,N/A,N/A,N/A
+6,bottom,2,['Marcell Ozuna'],Jeanmar Gomez,0,2,2,Justin Bour,['N/A'],['N/A'],['N/A'],Home Run,N/A,10,1,2,N/A,N/A
+6,bottom,0,[],Jeanmar Gomez,1,0,0,Derek Dietrich,['N/A'],['N/A'],['N/A'],Groundout,N/A,10,1,N/A,N/A,N/A
+6,bottom,0,[],Jeanmar Gomez,1,1,0,A.J. Ellis,['A.J. Ellis'],['N/A'],['N/A'],Single,N/A,10,1,N/A,N/A,N/A
+6,bottom,0,[],Jeanmar Gomez,2,0,3,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+6,bottom,0,[],Jeanmar Gomez,3,0,1,Dan Straily,['N/A'],['N/A'],['N/A'],Groundout,N/A,10,1,N/A,N/A,N/A
+7,top,0,[],Dan Straily,1,1,3,Freddy Galvis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+7,top,0,[],Dan Straily,1,1,2,Michael Saunders,['N/A'],['Michael Saunders'],['N/A'],Double,N/A,10,1,N/A,N/A,N/A
+7,top,0,[],Dan Straily,2,0,1,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,10,1,N/A,N/A,N/A
+7,top,1,['Michael Saunders'],Dan Straily,2,0,1,Aaron Altherr,['Aaron Altherr'],['N/A'],['N/A'],Single,N/A,10,2,1,N/A,N/A
+7,top,0,[],Brad Ziegler,3,2,3,Howie Kendrick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,2,N/A,N/A,N/A
+7,bottom,0,[],Pat Neshek,1,0,1,Christian Colon,['N/A'],['N/A'],['N/A'],Groundout,N/A,10,2,N/A,N/A,N/A
+7,bottom,0,[],Pat Neshek,2,1,3,JT Riddle,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,2,N/A,N/A,N/A
+7,bottom,0,[],Pat Neshek,3,1,3,Christian Yelich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,2,N/A,N/A,N/A
+8,top,0,[],Brian Ellington,1,2,3,Tommy Joseph,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,2,N/A,N/A,N/A
+8,top,0,[],Brian Ellington,1,4,1,Andrew Knapp,['Andrew Knapp'],['N/A'],['N/A'],Walk,N/A,10,2,N/A,N/A,N/A
+8,top,0,[],Brian Ellington,1,3,2,Maikel Franco,['N/A'],['Andrew Knapp'],['N/A'],Wild Pitch,N/A,10,2,N/A,N/A,N/A
+8,top,0,[],Brian Ellington,2,3,2,Maikel Franco,['N/A'],['Andrew Knapp'],['N/A'],Flyout,N/A,10,2,N/A,N/A,N/A
+8,top,0,[],Brian Ellington,3,1,3,Odubel Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,2,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,1,0,0,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Groundout,N/A,10,2,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,2,3,3,Justin Bour,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,2,N/A,N/A,N/A
+8,bottom,0,[],Joaquin Benoit,3,0,0,Derek Dietrich,['N/A'],['N/A'],['N/A'],Groundout,N/A,10,2,N/A,N/A,N/A
+9,top,0,[],Brian Ellington,0,0,1,Freddy Galvis,['N/A'],['Freddy Galvis'],['N/A'],Double,N/A,10,2,N/A,N/A,N/A
+9,top,0,[],Brian Ellington,1,3,3,Brock Stassi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,2,N/A,N/A,N/A
+9,top,0,[],Brian Ellington,2,3,2,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,10,2,N/A,N/A,N/A
+9,top,0,[],Brian Ellington,3,2,3,Aaron Altherr,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,2,N/A,N/A,N/A

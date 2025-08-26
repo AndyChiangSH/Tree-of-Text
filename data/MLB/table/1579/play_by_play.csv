@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jhoulys Chacin,1,1,3,Denard Span,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jhoulys Chacin,2,1,1,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jhoulys Chacin,3,2,2,Jarrett Parker,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jeff Samardzija,1,1,1,Manuel Margot,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jeff Samardzija,2,1,3,Carlos Asuaje,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jeff Samardzija,3,2,3,Jose Pirela,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jhoulys Chacin,1,1,0,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jhoulys Chacin,2,3,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jhoulys Chacin,2,4,0,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Jhoulys Chacin,3,1,2,Nick Hundley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jeff Samardzija,1,1,1,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jeff Samardzija,1,1,1,Wil Myers,['Wil Myers'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jeff Samardzija,3,2,2,Hector Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jhoulys Chacin,1,3,1,Ryder Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jhoulys Chacin,2,0,3,Jeff Samardzija,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jhoulys Chacin,2,4,0,Denard Span,['Denard Span'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jhoulys Chacin,2,0,1,Hunter Pence,['Hunter Pence'],['Denard Span'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jhoulys Chacin,2,4,2,Jarrett Parker,['Jarrett Parker'],['Hunter Pence'],['Denard Span'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Jhoulys Chacin,3,2,2,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jeff Samardzija,1,1,2,Cory Spangenberg,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jeff Samardzija,2,2,1,Matt Szczur,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jeff Samardzija,3,0,0,Jhoulys Chacin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,1,[],Jhoulys Chacin,0,3,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+4,top,0,[],Jhoulys Chacin,1,0,0,Joe Panik,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Jhoulys Chacin,2,2,0,Nick Hundley,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Jhoulys Chacin,3,1,0,Ryder Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jeff Samardzija,1,0,1,Manuel Margot,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jeff Samardzija,2,0,1,Carlos Asuaje,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Jeff Samardzija,3,2,1,Jose Pirela,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Jhoulys Chacin,1,1,2,Jeff Samardzija,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Jhoulys Chacin,1,4,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Jhoulys Chacin,2,0,1,Hunter Pence,['Hunter Pence'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Jhoulys Chacin,3,3,3,Jarrett Parker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jeff Samardzija,0,2,2,Yangervis Solarte,['Yangervis Solarte'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jeff Samardzija,1,2,2,Wil Myers,['N/A'],['Yangervis Solarte'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jeff Samardzija,2,1,1,Hector Sanchez,['N/A'],['N/A'],['Yangervis Solarte'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jeff Samardzija,3,2,1,Cory Spangenberg,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Buddy Baumann,1,0,1,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Buddy Baumann,2,1,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Buddy Baumann,2,4,2,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Buddy Baumann,2,0,0,Nick Hundley,['N/A'],['Nick Hundley'],['Joe Panik'],Double,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Buddy Baumann,2,4,0,Ryder Jones,['Ryder Jones'],['N/A'],['N/A'],Intent Walk,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Buddy Baumann,3,0,2,Jeff Samardzija,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Jeff Samardzija,1,1,1,Matt Szczur,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Jeff Samardzija,2,2,3,Allen Cordoba,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Jeff Samardzija,3,0,0,Manuel Margot,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Phil Maton,1,1,0,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Phil Maton,2,0,1,Hunter Pence,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Phil Maton,3,1,2,Jarrett Parker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Jeff Samardzija,1,2,1,Carlos Asuaje,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Jeff Samardzija,2,0,0,Jose Pirela,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Jeff Samardzija,3,1,3,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Phil Maton,1,2,0,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Phil Maton,1,1,2,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+8,top,2,['Brandon Crawford'],Phil Maton,1,0,0,Joe Panik,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,2,N/A,N/A
+8,top,0,[],Phil Maton,2,1,0,Nick Hundley,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Phil Maton,2,1,2,Ryder Jones,['Ryder Jones'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Phil Maton,3,0,3,Jeff Samardzija,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Jeff Samardzija,1,1,3,Wil Myers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Jeff Samardzija,2,0,0,Hector Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Jeff Samardzija,2,0,0,Cory Spangenberg,['Cory Spangenberg'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Jeff Samardzija,3,2,2,Matt Szczur,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Carter Capps,1,1,0,Denard Span,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Carter Capps,1,2,0,Hunter Pence,['Hunter Pence'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Carter Capps,3,3,3,Jarrett Parker,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Jeff Samardzija,1,0,1,Jabari Blash,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Jeff Samardzija,2,0,1,Manuel Margot,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Jeff Samardzija,3,2,2,Carlos Asuaje,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A

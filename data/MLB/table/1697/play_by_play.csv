@@ -1,0 +1,72 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Nathan Eovaldi,1,1,2,Dee Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Nathan Eovaldi,2,2,2,Jean Segura,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Nathan Eovaldi,3,1,3,Mitch Haniger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],James Paxton,1,0,2,Daniel Robertson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],James Paxton,2,2,3,C.J. Cron,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],James Paxton,3,1,3,Matt Duffy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],Nathan Eovaldi,0,1,1,Nelson Cruz,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],Nathan Eovaldi,1,3,2,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Nathan Eovaldi,2,2,2,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Nathan Eovaldi,3,1,3,Ryon Healy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],James Paxton,1,0,0,Wilson Ramos,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],James Paxton,2,1,3,Jake Bauers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],James Paxton,3,2,3,Christian Arroyo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Nathan Eovaldi,1,3,2,Ben Gamel,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Nathan Eovaldi,2,1,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Nathan Eovaldi,3,2,2,Dee Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],James Paxton,0,0,2,Johnny Field,['N/A'],['Johnny Field'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],James Paxton,1,1,1,Rob Refsnyder,['N/A'],['N/A'],['Johnny Field'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,1,['Johnny Field'],James Paxton,2,1,1,Mallex Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,1,N/A,N/A
+3,bottom,0,[],James Paxton,3,2,3,Joey Wendle,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Nathan Eovaldi,1,0,1,Jean Segura,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Nathan Eovaldi,2,3,2,Mitch Haniger,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Nathan Eovaldi,3,2,2,Nelson Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,bottom,1,[],James Paxton,0,0,0,C.J. Cron,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,1,1,N/A,N/A
+4,bottom,0,[],James Paxton,0,0,0,Matt Duffy,['N/A'],['Matt Duffy'],['N/A'],Double,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],James Paxton,1,1,1,Wilson Ramos,['N/A'],['N/A'],['Matt Duffy'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,bottom,1,['Matt Duffy'],James Paxton,1,1,0,Jake Bauers,['N/A'],['Jake Bauers'],['N/A'],Double,N/A,3,1,1,N/A,N/A
+4,bottom,0,[],James Paxton,2,1,2,Christian Arroyo,['Christian Arroyo'],['N/A'],['N/A'],Fielders Choice Out,N/A,3,1,N/A,N/A,N/A
+4,bottom,0,[],James Paxton,3,1,3,Johnny Field,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Nathan Eovaldi,1,3,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Nathan Eovaldi,1,0,0,Denard Span,['Denard Span'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Nathan Eovaldi,3,1,2,Ryon Healy,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],James Paxton,1,2,3,Rob Refsnyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],James Paxton,1,0,0,Mallex Smith,['Mallex Smith'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],N/A,1,2,1,Joey Wendle,['N/A'],['Mallex Smith'],['N/A'],Stolen Base 2B,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],James Paxton,2,2,3,Joey Wendle,['N/A'],['Mallex Smith'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],James Paxton,3,0,1,C.J. Cron,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+6,top,0,[],Nathan Eovaldi,0,2,2,Ben Gamel,['Ben Gamel'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+6,top,2,['Ben Gamel'],Nathan Eovaldi,0,3,2,Mike Zunino,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,2,N/A,N/A
+6,top,0,[],Chaz Roe,1,0,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Chaz Roe,2,1,2,Jean Segura,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Chaz Roe,3,1,2,Mitch Haniger,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],James Paxton,1,0,0,Matt Duffy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],James Paxton,2,2,2,Wilson Ramos,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],James Paxton,3,3,2,Jake Bauers,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Jose Alvarado,0,4,0,Nelson Cruz,['Nelson Cruz'],['N/A'],['N/A'],Walk,N/A,3,3,N/A,N/A,N/A
+7,top,2,['Nelson Cruz'],Jose Alvarado,0,3,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,2,N/A,N/A
+7,top,0,[],Jose Alvarado,1,1,3,Denard Span,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Jose Alvarado,2,2,3,Ryon Healy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Jose Alvarado,3,1,0,Ben Gamel,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+7,bottom,0,[],James Paxton,1,1,2,Christian Arroyo,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+7,bottom,0,[],James Paxton,2,2,3,Johnny Field,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+7,bottom,0,[],James Paxton,3,2,3,Rob Refsnyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Sergio Romo,1,3,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Sergio Romo,2,2,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Sergio Romo,3,0,0,Jean Segura,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],James Pazos,1,2,3,Carlos Gomez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],James Pazos,1,2,2,Joey Wendle,['Joey Wendle'],['N/A'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],Alex Colome,1,4,1,C.J. Cron,['C.J. Cron'],['Joey Wendle'],['N/A'],Walk,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],Alex Colome,2,1,0,Matt Duffy,['Matt Duffy'],['N/A'],['Joey Wendle'],Forceout,N/A,3,5,N/A,N/A,N/A
+8,bottom,1,['Joey Wendle'],Alex Colome,2,2,2,Wilson Ramos,['Wilson Ramos'],['Matt Duffy'],['N/A'],Single,N/A,4,5,1,N/A,N/A
+8,bottom,0,[],Alex Colome,3,2,1,Jake Bauers,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Ryne Stanek,1,2,3,Mitch Haniger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Ryne Stanek,2,2,2,Nelson Cruz,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Ryne Stanek,2,2,1,Kyle Seager,['Kyle Seager'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Ryne Stanek,2,4,2,Denard Span,['Denard Span'],['Kyle Seager'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+9,top,0,[],Ryne Stanek,3,1,1,Ryon Healy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],Edwin Diaz,1,1,0,Christian Arroyo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],Edwin Diaz,1,0,2,Johnny Field,['Johnny Field'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],Edwin Diaz,2,0,0,Rob Refsnyder,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,5,N/A,N/A,N/A
+9,bottom,0,[],Edwin Diaz,3,2,2,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A

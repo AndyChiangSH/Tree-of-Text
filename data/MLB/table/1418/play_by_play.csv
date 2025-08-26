@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jacob deGrom,0,4,0,Travis Jankowski,['Travis Jankowski'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jacob deGrom,2,0,0,Wil Myers,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jacob deGrom,3,1,3,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jarred Cosart,0,4,1,Jose Reyes,['Jose Reyes'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jarred Cosart,0,1,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Wild Pitch,Error,0,0,N/A,N/A,Christian Bethancourt
+1,bottom,0,[],Jarred Cosart,1,1,3,Curtis Granderson,['N/A'],['N/A'],['Jose Reyes'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Jose Reyes'],Jarred Cosart,1,3,2,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Jarred Cosart,2,3,2,Jay Bruce,['N/A'],['Neil Walker'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Jarred Cosart,3,1,2,James Loney,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jacob deGrom,1,1,3,Alex Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jacob deGrom,2,2,3,Ryan Schimpf,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Jacob deGrom,3,3,3,Jabari Blash,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jarred Cosart,0,3,2,Wilmer Flores,['Wilmer Flores'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jarred Cosart,2,0,0,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jarred Cosart,2,1,1,Travis d'Arnaud,"[""Travis d'Arnaud""]",['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Jarred Cosart,3,2,2,Jacob deGrom,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Jacob deGrom,1,2,1,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Jacob deGrom,2,0,3,Nick Noonan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Jacob deGrom,3,0,2,Jarred Cosart,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Jarred Cosart,1,3,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Jarred Cosart,2,1,0,Curtis Granderson,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Jarred Cosart,3,2,1,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jacob deGrom,1,2,2,Travis Jankowski,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jacob deGrom,2,0,3,Wil Myers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,top,0,[],Jacob deGrom,3,0,2,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Jarred Cosart,1,1,0,Jay Bruce,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Jarred Cosart,2,2,0,James Loney,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Jarred Cosart,2,3,1,Wilmer Flores,['Wilmer Flores'],['N/A'],['N/A'],Field Error,N/A,1,0,N/A,N/A,Wil Myers
+4,bottom,0,[],Jarred Cosart,3,1,3,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Jacob deGrom,1,0,0,Alex Dickerson,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Jacob deGrom,1,2,2,Ryan Schimpf,['Ryan Schimpf'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Jacob deGrom,3,1,1,Jabari Blash,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Jarred Cosart,0,4,2,Travis d'Arnaud,"[""Travis d'Arnaud""]",['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Jarred Cosart,1,0,0,Jacob deGrom,['Jacob deGrom'],['N/A'],['N/A'],Forceout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Jarred Cosart,2,1,2,Jose Reyes,['N/A'],['Jacob deGrom'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Jarred Cosart,3,1,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jacob deGrom,1,0,0,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jacob deGrom,2,1,3,Nick Noonan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Jacob deGrom,3,0,3,Jarred Cosart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Jarred Cosart,1,0,2,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Jarred Cosart,1,0,0,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Field Error,N/A,1,0,N/A,N/A,Nick Noonan
+6,bottom,0,[],Jarred Cosart,3,0,0,James Loney,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Jacob deGrom,1,2,2,Travis Jankowski,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Jacob deGrom,2,3,3,Wil Myers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+7,top,1,[],Jacob deGrom,2,0,1,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+7,top,0,[],Jacob deGrom,2,3,1,Alex Dickerson,['Alex Dickerson'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Jacob deGrom,3,3,2,Ryan Schimpf,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Jose Dominguez,0,0,1,Wilmer Flores,['Wilmer Flores'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Jose Dominguez,0,4,0,Alejandro De Aza,['Alejandro De Aza'],['Wilmer Flores'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Jose Dominguez,1,0,1,Travis d'Arnaud,['N/A'],['Alejandro De Aza'],['Wilmer Flores'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+7,bottom,1,['Wilmer Flores'],Jose Dominguez,2,3,2,Kelly Johnson,['N/A'],['N/A'],['Alejandro De Aza'],Sac Fly,N/A,2,1,1,N/A,N/A
+7,bottom,0,[],Jose Dominguez,3,1,3,Jose Reyes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Addison Reed,1,0,3,Jabari Blash,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Addison Reed,2,1,0,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Addison Reed,3,1,0,Nick Noonan,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Brandon Morrow,1,1,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Brandon Morrow,2,0,0,Neil Walker,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Brandon Morrow,3,1,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+9,top,0,[],Jeurys Familia,1,0,1,Brett Wallace,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+9,top,0,[],Jeurys Familia,2,3,3,Travis Jankowski,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+9,top,1,[],Jeurys Familia,2,1,1,Wil Myers,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,1,N/A,N/A
+9,top,0,[],Jeurys Familia,3,1,2,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Ryan Buchter,1,0,0,James Loney,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Ryan Buchter,1,0,0,Wilmer Flores,['Wilmer Flores'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Ryan Buchter,2,3,2,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Ryan Buchter,3,2,3,Travis d'Arnaud,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Jerry Blevins,0,3,2,Alex Dickerson,['Alex Dickerson'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Jerry Blevins,1,3,2,Ryan Schimpf,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Erik Goeddel,2,1,3,Jabari Blash,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+10,top,0,[],Erik Goeddel,3,1,2,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Runner Out,N/A,2,2,N/A,N/A,N/A
+10,bottom,0,[],Brad Hand,1,0,3,T.J. Rivera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+10,bottom,0,[],Brad Hand,2,2,3,Jose Reyes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+10,bottom,0,[],Brad Hand,3,1,0,Curtis Granderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+11,top,0,[],Gabriel Ynoa,1,2,2,Christian Bethancourt,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+11,top,0,[],Gabriel Ynoa,2,1,0,Nick Noonan,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+11,top,0,[],Gabriel Ynoa,3,1,3,Adam Rosales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+11,bottom,0,[],Brandon Maurer,0,0,1,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+11,bottom,0,[],Brandon Maurer,1,3,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+11,bottom,0,[],Brandon Maurer,1,0,2,James Loney,['James Loney'],['N/A'],['Neil Walker'],Single,N/A,2,2,N/A,N/A,N/A
+11,bottom,1,['Neil Walker'],Brandon Maurer,1,1,0,Wilmer Flores,['Wilmer Flores'],['James Loney'],['N/A'],Fielders Choice,N/A,3,2,1,N/A,N/A

@@ -1,0 +1,71 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],R.A. Dickey,1,3,3,Coco Crisp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],R.A. Dickey,2,3,1,Derek Norris,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],R.A. Dickey,3,1,0,Josh Donaldson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jesse Chavez,1,2,3,Jose Reyes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jesse Chavez,1,1,1,Melky Cabrera,['Melky Cabrera'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jesse Chavez,3,1,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],R.A. Dickey,1,0,3,Brandon Moss,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],R.A. Dickey,1,1,0,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],R.A. Dickey,2,3,2,Josh Reddick,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],R.A. Dickey,2,3,2,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],R.A. Dickey,3,0,2,Eric Sogard,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jesse Chavez,0,1,1,Adam Lind,['N/A'],['Adam Lind'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jesse Chavez,1,0,2,Edwin Encarnacion,['N/A'],['N/A'],['Adam Lind'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jesse Chavez,2,2,0,Juan Francisco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Jesse Chavez,3,0,3,Brett Lawrie,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],R.A. Dickey,1,2,2,Craig Gentry,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],R.A. Dickey,2,1,2,Coco Crisp,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],R.A. Dickey,3,0,0,Derek Norris,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jesse Chavez,0,1,2,Josh Thole,['Josh Thole'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jesse Chavez,1,1,2,Anthony Gose,['Anthony Gose'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Jesse Chavez,2,2,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,1,['Anthony Gose'],Jesse Chavez,2,2,2,Melky Cabrera,['N/A'],['Melky Cabrera'],['N/A'],Single,Error,1,1,N/A,1,Craig Gentry
+3,bottom,0,[],Jesse Chavez,3,0,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],R.A. Dickey,1,2,1,Josh Donaldson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],R.A. Dickey,2,0,1,Brandon Moss,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],R.A. Dickey,2,2,0,Yoenis Cespedes,['N/A'],['N/A'],['Yoenis Cespedes'],Triple,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],R.A. Dickey,3,1,1,Josh Reddick,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jesse Chavez,1,2,2,Adam Lind,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jesse Chavez,2,0,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Jesse Chavez,3,1,3,Juan Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],R.A. Dickey,1,0,1,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],R.A. Dickey,2,0,1,Eric Sogard,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],R.A. Dickey,3,3,2,Craig Gentry,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+5,bottom,1,[],Jesse Chavez,0,0,2,Brett Lawrie,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,1,1,N/A,N/A
+5,bottom,0,[],Jesse Chavez,1,0,0,Josh Thole,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Jesse Chavez,1,3,2,Anthony Gose,['Anthony Gose'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Jesse Chavez,1,0,1,Jose Reyes,['Jose Reyes'],['N/A'],['Anthony Gose'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Jesse Chavez,1,1,0,Melky Cabrera,['N/A'],['Jose Reyes'],['N/A'],Wild Pitch,N/A,2,1,N/A,N/A,N/A
+5,bottom,2,"['Anthony Gose', 'Jose Reyes']",Jesse Chavez,1,1,2,Melky Cabrera,['Melky Cabrera'],['Jose Reyes'],['N/A'],Field Error,N/A,4,1,1,1,Brandon Moss
+5,bottom,0,[],Jesse Chavez,3,2,0,Jose Bautista,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,1,N/A,N/A,N/A
+6,top,0,[],R.A. Dickey,1,2,2,Coco Crisp,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+6,top,0,[],R.A. Dickey,2,1,2,Derek Norris,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+6,top,0,[],R.A. Dickey,3,2,1,Josh Donaldson,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+6,bottom,0,[],Jesse Chavez,0,2,0,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+6,bottom,0,[],Jesse Chavez,1,0,3,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+6,bottom,0,[],Jesse Chavez,1,4,1,Juan Francisco,['Juan Francisco'],['Adam Lind'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+6,bottom,0,[],Fernando Rodriguez,2,0,1,Brett Lawrie,['N/A'],['N/A'],['Adam Lind'],Flyout,N/A,4,1,N/A,N/A,N/A
+6,bottom,0,[],Fernando Rodriguez,2,4,2,Josh Thole,['Josh Thole'],['Juan Francisco'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+6,bottom,0,[],Fernando Rodriguez,3,0,0,Anthony Gose,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],R.A. Dickey,1,0,1,Brandon Moss,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],R.A. Dickey,2,2,3,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],R.A. Dickey,3,1,3,Josh Reddick,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Fernando Rodriguez,0,0,1,Jose Reyes,['N/A'],['Jose Reyes'],['N/A'],Double,N/A,4,1,N/A,N/A,N/A
+7,bottom,1,['Jose Reyes'],Fernando Rodriguez,1,2,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,1,N/A,N/A
+7,bottom,0,[],Fernando Rodriguez,2,3,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+7,bottom,0,[],Fernando Rodriguez,3,2,2,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+8,top,0,[],R.A. Dickey,1,3,2,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+8,top,0,[],R.A. Dickey,1,0,1,Eric Sogard,['Eric Sogard'],['N/A'],['N/A'],Single,N/A,5,1,N/A,N/A,N/A
+8,top,0,[],R.A. Dickey,2,0,1,Craig Gentry,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+8,top,0,[],R.A. Dickey,3,1,1,Coco Crisp,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+8,bottom,0,[],Jeff Francis,1,0,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,1,N/A,N/A,N/A
+8,bottom,0,[],Jeff Francis,1,4,1,Steve Tolleson,['Steve Tolleson'],['N/A'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+8,bottom,0,[],Jeff Francis,2,0,0,Brett Lawrie,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,1,N/A,N/A,N/A
+8,bottom,0,[],Jeff Francis,3,1,3,Josh Thole,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,1,N/A,N/A,N/A
+9,top,0,[],R.A. Dickey,1,0,1,Derek Norris,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,1,N/A,N/A,N/A
+9,top,0,[],R.A. Dickey,1,4,2,Josh Donaldson,['Josh Donaldson'],['N/A'],['N/A'],Walk,N/A,5,1,N/A,N/A,N/A
+9,top,0,[],R.A. Dickey,1,0,0,Brandon Moss,['Brandon Moss'],['Josh Donaldson'],['N/A'],Single,N/A,5,1,N/A,N/A,N/A
+9,top,0,[],Dustin McGowan,1,2,2,Yoenis Cespedes,['Yoenis Cespedes'],['Brandon Moss'],['Josh Donaldson'],Single,N/A,5,1,N/A,N/A,N/A
+9,top,1,['Josh Donaldson'],Brett Cecil,2,1,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,5,2,1,N/A,N/A
+9,top,0,[],Brett Cecil,3,3,3,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A

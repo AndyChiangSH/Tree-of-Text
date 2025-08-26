@@ -1,0 +1,61 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Colon,,,,,,,,,,Bartolo Colon,,,,,,,,,Bartolo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Jeter,,0,,SS,2,,0,0,3,Derek Jeter,,1,1.000,,.250,,,3,Derek,,,,,0,,,0,.583,,100,,0,,,2,,0,,0,,,0,0,1,0,1,Yankees,0,.272,1,.311
+,Jones,,,,,,,,,,Andruw Jones,,,,,,,,,Andruw,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Posada,,0,,DH,1,,0,0,3,Jorge Posada,,2,.000,,.125,,,2,Jorge,,,,,0,,,1,.607,,700,,0,,,0,,0,,0,,,0,1,0,0,0,Yankees,0,.375,0,.232
+0,Rivera,1,0,0,P,0,4,0,0,0,Mariano Rivera,1,,.000,2,.000,0,14,0,Mariano,9,0,true,0,0,1,,0,.000,0,,,0,51,,0,2.13,0,3,0,0,18,0,0,0,0,0,Yankees,0,.000,0,.000
+,Rodriguez,,,,,,,,,,Alex Rodriguez,,,,,,,,,Alex,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Chavez,,0,,3B,0,,0,0,3,Eric Chavez,,2,1.000,,.300,,,0,Eric,,,,,2,,,1,.784,,600,,0,,,2,,0,,1,,,0,1,0,0,1,Yankees,0,.367,0,.417
+,Garcia,,,,,,,,,,Freddy Garcia,,,,,,,,,Freddy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Marte,,,,,,,,,,Damaso Marte,,,,,,,,,Damaso,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+1,Burnett,9,0,0,P,0,25,0,0,0,A.J. Burnett,4,,1.000,0,.000,4,50,0,A.J.,0,4,,1,0,6,,0,.000,0,,,0,42,true,2,3.93,0,18,0,4,82,0,0,0,0,0,Yankees,0,.000,0,.000
+,Carlyle,,,,,,,,,,Buddy Carlyle,,,,,,,,,Buddy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Sabathia,,,,,,,,,,CC Sabathia,,,,,,,,,CC,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+1,Soriano,1,0,0,P,0,4,0,0,0,Rafael Soriano,1,,.000,1,.000,0,10,0,Rafael,1,0,,0,0,1,,0,.000,7,,,0,51,,0,7.15,0,3,0,0,14,0,0,0,0,0,Yankees,0,.000,0,.000
+,Teixeira,,0,,1B,0,,0,0,3,Mark Teixeira,,1,1.000,,.256,,,2,Mark,,,,,7,,,1,.941,,300,,0,,,0,,1,,1,,,0,0,1,0,0,Yankees,0,.549,0,.392
+,Feliciano,,,,,,,,,,Pedro Feliciano,,,,,,,,,Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Ayala,,,,,,,,,,Luis Ayala,,,,,,,,,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Cano,,0,,2B,0,,0,1,3,Robinson Cano,,,1.000,,.320,,,2,Robinson,,,,,2,,,0,.979,,400,,0,,,1,,0,,1,,,0,1,2,0,0,Yankees,1,.639,0,.340
+,Swisher,,0,,RF,1,,0,0,4,Nick Swisher,,2,1.000,,.226,,,3,Nick,,,,,3,,,0,.626,,500,,0,,,0,,0,,1,,,0,1,1,0,0,Yankees,0,.286,0,.340
+,Martin,,0,,C,1,,0,0,3,Russell Martin,,1,1.000,,.293,,,0,Russell,,,,,4,,,1,.963,,800,,0,,,1,,0,,1,,,0,1,0,0,1,Yankees,0,.587,0,.376
+,Granderson,,0,,CF,2,,0,0,4,Curtis Granderson,,,1.000,,.271,,,3,Curtis,,,,,3,,,0,.935,,200,,0,,,0,,0,,1,,,0,0,1,0,1,Yankees,0,.612,0,.323
+,Curtis,,,,,,,,,,Colin Curtis,,,,,,,,,Colin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Nunez,,,,,,,,,,Eduardo Nunez,,,,,,,,,Eduardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Logan,,,,,,,,,,Boone Logan,,,,,,,,,Boone,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Gardner,,0,,LF,0,,0,0,2,Brett Gardner,,,1.000,,.188,,,0,Brett,,,,,6,,,1,.664,,900,,0,,,0,,0,,1,,,0,0,1,0,1,Yankees,0,.391,0,.273
+,Pendleton,,,,,,,,,,Lance Pendleton,,,,,,,,,Lance,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Hughes,,,,,,,,,,Phil Hughes,,,,,,,,,Phil,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Cervelli,,,,,,,,,,Francisco Cervelli,,,,,,,,,Francisco,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Nova,,,,,,,,,,Ivan Nova,,,,,,,,,Ivan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Corona,,,,,,,,,,Reegie Corona,,,,,,,,,Reegie,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+0,Chamberlain,0,0,0,P,0,3,0,0,0,Joba Chamberlain,1,,.000,1,.000,0,5,0,Joba,0,0,,0,0,1,,0,.000,6,,,0,53,,0,4.15,0,3,0,0,6,0,0,0,0,0,Yankees,0,.000,0,.000
+,Robertson,,,,,,,,,,David Robertson,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Dotel,,,,,,,,,,Octavio Dotel,,,,,,,,,Octavio,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Molina,,0,,C,2,,0,0,4,Jose Molina,,,1.000,,.282,,,2,Jose,,,,,7,,,0,.795,,800,,0,,,0,,1,,1,,,0,0,1,0,0,Blue Jays,0,.462,0,.333
+,McDonald,,,,,,,,,,John McDonald,,,,,,,,,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Patterson,,0,,PR,0,,0,0,0,Corey Patterson,,,.000,,.269,,,0,Corey,,,,,0,,,0,.767,,801,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.448,0,.319
+,Rauch,,,,,,,,,,Jon Rauch,,,,,,,,,Jon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Rivera,,0,,LF,2,,1,0,4,Juan Rivera,,,1.000,,.233,,,2,Juan,,,,,1,,,0,.678,,500,,0,,,0,,1,,2,,,0,0,0,0,0,Blue Jays,1,.329,0,.349
+0,Francisco,0,0,0,P,0,3,0,0,0,Frank Francisco,1,,.000,0,.000,0,10,0,Frank,0,0,,0,0,1,,0,.000,0,,,0,53,,0,1.69,0,3,0,0,14,0,0,0,0,0,Blue Jays,0,.000,0,.000
+1,Camp,0,0,0,P,0,6,0,0,0,Shawn Camp,0,,.000,1,.000,0,21,0,Shawn,0,2,,0,0,2,,0,.000,2,,,0,58,,0,2.63,0,6,0,0,28,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Encarnacion,,0,,3B,2,,0,0,4,Edwin Encarnacion,,,1.000,,.257,,,1,Edwin,,,,,0,,,0,.647,,700,,0,,,2,,0,,1,,,0,0,1,0,0,Blue Jays,1,.365,0,.282
+1,Frasor,0,0,1,P,0,5,0,0,0,Jason Frasor,1,,.000,1,.000,0,12,0,Jason,0,1,,0,0,1,2/3,0,.000,1,,,0,55,,0,2.08,0,5,0,0,21,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,McGowan,,,,,,,,,,Dustin McGowan,,,,,,,,,Dustin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Bautista,,0,,RF,2,,0,0,4,Jose Bautista,,1,1.000,,.366,,,0,Jose,,,,,3,,,0,1.312,,300,,0,,,0,,1,,1,,,0,0,0,0,0,Blue Jays,1,.780,0,.532
+,Hill,,,,,,,,,,Aaron Hill,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Carlson,,,,,,,,,,Jesse Carlson,,,,,,,,,Jesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Nix,,,,,,,,,,Jayson Nix,,,,,,,,,Jayson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Davis,,0,,CF,1,,0,0,4,Rajai Davis,,1,1.000,,.200,,,0,Rajai,,,,,1,,,0,.495,,100,,0,,,0,,0,,2,,,0,1,0,1,0,Blue Jays,0,.275,0,.220
+,Janssen,,,,,,,,,,Casey Janssen,,,,,,,,,Casey,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Litsch,,,,,,,,,,Jesse Litsch,,,,,,,,,Jesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Arencibia,,,,,,,,,,J.P. Arencibia,,,,,,,,,J.P.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lind,,0,,1B,1,,0,0,3,Adam Lind,,,1.000,,.274,,,0,Adam,,,,,8,,,0,.742,,400,,0,,,0,,0,,2,,,0,1,1,0,1,Blue Jays,0,.434,1,.308
+,Morrow,,,,,,,,,,Brandon Morrow,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,McCoy,,0,,2B,1,,0,0,4,Mike McCoy,,1,1.000,,.235,,,3,Mike,,,,,2,,,0,.650,,900,,0,,,4,,0,,1,,,1,1,1,0,1,Blue Jays,0,.353,0,.297
+,Villanueva,,,,,,,,,,Carlos Villanueva,,,,,,,,,Carlos,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Reyes,,,,,,,,,,Jo-Jo Reyes,,,,,,,,,Jo-Jo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Romero,,,,,,,,,,Ricky Romero,,,,,,,,,Ricky,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+1,Drabek,7,0,4,P,0,18,0,0,0,Kyle Drabek,2,,1.000,0,.000,5,40,0,Kyle,0,4,,0,0,2,1/3,0,.000,0,,true,0,23,,1,4.45,0,7,0,5,78,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Cooper,,0,,DH,4,,0,0,3,David Cooper,,,.000,,.000,,,1,David,,,,,0,,,0,.111,,600,,0,,,0,,0,,0,,,0,0,0,0,1,Blue Jays,0,.000,1,.111
+,Escobar,,0,,SS,0,,0,0,4,Yunel Escobar,,3,1.000,,.281,,,0,Yunel,,,,,2,,,0,.742,,200,,0,,,3,,0,,1,,,0,1,0,0,1,Blue Jays,0,.406,0,.336
+0,Rzepczynski,0,0,0,P,0,3,0,0,0,Marc Rzepczynski,2,,.000,0,.000,0,4,0,Marc,0,0,,0,0,1,,0,.000,2,,,0,53,,0,2.84,0,3,0,0,7,0,0,0,0,0,Blue Jays,0,.000,0,.000

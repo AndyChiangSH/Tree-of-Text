@@ -1,0 +1,88 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,1,[],Jason Vargas,0,3,2,Grady Sizemore,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Jason Vargas,0,2,2,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jason Vargas,2,1,3,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jason Vargas,2,3,1,Ryan Garko,['Ryan Garko'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jason Vargas,2,2,2,Jhonny Peralta,['Jhonny Peralta'],['Ryan Garko'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jason Vargas,3,1,1,Travis Hafner,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,1,3,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,2,0,0,Russell Branyan,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,2,1,1,Jose Lopez,['Jose Lopez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Cliff Lee,2,2,0,Mike Sweeney,['N/A'],['Mike Sweeney'],['Jose Lopez'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,2,"['Jose Lopez', 'Mike Sweeney']",Cliff Lee,2,1,2,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Single,N/A,2,1,2,N/A,N/A
+1,bottom,0,[],Cliff Lee,3,0,1,Kenji Johjima,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,1,3,1,Ben Francisco,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,2,1,0,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,2,0,2,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jason Vargas,3,0,1,Grady Sizemore,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,1,1,2,Jack Hannahan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,2,1,3,Michael Saunders,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Cliff Lee,3,0,0,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jason Vargas,1,1,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jason Vargas,2,0,0,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jason Vargas,3,0,2,Ryan Garko,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,1,1,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,2,1,1,Russell Branyan,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Cliff Lee,3,0,0,Jose Lopez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jason Vargas,1,0,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jason Vargas,2,3,1,Travis Hafner,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jason Vargas,2,1,0,Ben Francisco,['N/A'],['Ben Francisco'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,['Ben Francisco'],Jason Vargas,2,1,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+4,top,0,[],Jason Vargas,3,1,3,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,1,1,1,Mike Sweeney,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,2,1,1,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Cliff Lee,3,2,1,Kenji Johjima,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jason Vargas,0,4,1,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jason Vargas,0,2,1,Asdrubal Cabrera,['N/A'],['Grady Sizemore'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jason Vargas,0,2,1,Asdrubal Cabrera,['Asdrubal Cabrera'],['Grady Sizemore'],['Grady Sizemore'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['Grady Sizemore'],Jason Vargas,0,2,1,Shin-Soo Choo,['Shin-Soo Choo'],['Asdrubal Cabrera'],['N/A'],Single,N/A,2,3,1,N/A,N/A
+5,top,0,[],Jason Vargas,0,2,2,Ryan Garko,['Ryan Garko'],['Shin-Soo Choo'],['Asdrubal Cabrera'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,4,"['Asdrubal Cabrera', 'Shin-Soo Choo', 'Ryan Garko']",Shawn Kelley,0,1,1,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,7,4,N/A,N/A
+5,top,0,[],Shawn Kelley,0,2,1,Travis Hafner,['Travis Hafner'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Shawn Kelley,0,1,1,Ben Francisco,['Ben Francisco'],['Travis Hafner'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Shawn Kelley,2,3,2,Jamey Carroll,['N/A'],['N/A'],['Travis Hafner'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Shawn Kelley,2,4,2,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['Travis Hafner'],Shawn Kelley,2,0,0,Grady Sizemore,['Grady Sizemore'],['Kelly Shoppach'],['N/A'],Single,N/A,2,8,1,N/A,N/A
+5,top,0,[],Shawn Kelley,3,2,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,1,0,2,Jack Hannahan,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,2,1,3,Michael Saunders,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Cliff Lee,3,1,3,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Miguel Batista,0,1,2,Shin-Soo Choo,['N/A'],['Shin-Soo Choo'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Miguel Batista,1,0,1,Ryan Garko,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Miguel Batista,2,1,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,2,['Shin-Soo Choo'],Miguel Batista,2,2,0,Travis Hafner,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,10,2,N/A,N/A
+6,top,1,[],Miguel Batista,2,0,1,Ben Francisco,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,11,1,N/A,N/A
+6,top,0,[],Miguel Batista,3,3,3,Jamey Carroll,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,0,2,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,1,3,2,Russell Branyan,['N/A'],['Ichiro Suzuki'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,2,0,2,Jose Lopez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Cliff Lee,3,3,3,Mike Sweeney,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Miguel Batista,1,3,3,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Miguel Batista,2,1,3,Grady Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Miguel Batista,2,2,1,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Miguel Batista,2,2,0,N/A,['N/A'],['Asdrubal Cabrera'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Miguel Batista,2,4,1,Shin-Soo Choo,['Shin-Soo Choo'],['Asdrubal Cabrera'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Miguel Batista,3,1,2,Ryan Garko,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Cliff Lee,1,0,2,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Cliff Lee,1,1,1,Kenji Johjima,['Kenji Johjima'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Cliff Lee,2,2,0,Jack Hannahan,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Cliff Lee,2,0,2,Michael Saunders,['Michael Saunders'],['N/A'],['Kenji Johjima'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Cliff Lee,3,3,2,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Sean White,0,2,2,Luis Valbuena,['N/A'],['N/A'],['Luis Valbuena'],Triple,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,1,['Luis Valbuena'],Sean White,1,0,1,Travis Hafner,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,12,1,N/A,N/A
+8,top,0,[],Sean White,2,1,2,Ben Francisco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Sean White,3,1,3,Jamey Carroll,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Mike Gosling,0,2,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Mike Gosling,1,1,3,Russell Branyan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Mike Gosling,3,1,0,Jose Lopez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mark Lowe,0,4,2,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mark Lowe,1,1,1,Grady Sizemore,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mark Lowe,1,1,1,Asdrubal Cabrera,['Asdrubal Cabrera'],['Kelly Shoppach'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Russell Branyan
+9,top,0,[],Mark Lowe,2,3,2,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mark Lowe,3,0,2,Ryan Garko,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Mike Gosling,0,4,1,Mike Sweeney,['Mike Sweeney'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Mike Gosling,1,1,3,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Mike Gosling,2,0,3,Kenji Johjima,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Mike Gosling,2,3,2,Jack Hannahan,['Jack Hannahan'],['N/A'],['Mike Sweeney'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,1,['Mike Sweeney'],Mike Gosling,2,2,2,Michael Saunders,['Michael Saunders'],['Jack Hannahan'],['N/A'],Single,N/A,3,12,1,N/A,N/A
+9,bottom,0,[],Mike Gosling,3,1,2,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A

@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Edinson Volquez,1,1,2,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,2,0,2,Anthony Rendon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Edinson Volquez,3,0,3,Jayson Werth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Blake Treinen,1,1,2,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Blake Treinen,2,3,2,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Blake Treinen,3,2,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,0,3,2,Wilson Ramos,['Wilson Ramos'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,1,3,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,1,1,2,Tyler Moore,['Tyler Moore'],['Wilson Ramos'],['N/A'],Field Error,N/A,0,0,N/A,N/A,Pedro Alvarez
+2,top,0,[],Edinson Volquez,2,1,1,Danny Espinosa,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Edinson Volquez,3,2,0,Nate McLouth,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Blake Treinen,1,0,1,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Blake Treinen,2,0,1,Starling Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Blake Treinen,3,0,1,Ike Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,0,4,2,Blake Treinen,['Blake Treinen'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,0,4,2,Denard Span,['Denard Span'],['Blake Treinen'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,1,1,2,Anthony Rendon,['Anthony Rendon'],['Denard Span'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,2,0,1,Jayson Werth,['N/A'],['N/A'],['Denard Span'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Edinson Volquez,3,1,1,Wilson Ramos,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Blake Treinen,1,1,2,Jordy Mercer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Blake Treinen,2,0,1,Chris Stewart,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Blake Treinen,2,4,2,Edinson Volquez,['Edinson Volquez'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Blake Treinen,2,1,0,Josh Harrison,['Josh Harrison'],['Edinson Volquez'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Blake Treinen,2,4,1,Neil Walker,['Neil Walker'],['Josh Harrison'],['Edinson Volquez'],Walk,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,['Edinson Volquez'],Blake Treinen,2,0,0,Andrew McCutchen,['Andrew McCutchen'],['Neil Walker'],['Josh Harrison'],Hit By Pitch,N/A,1,0,1,N/A,N/A
+3,bottom,0,[],Blake Treinen,3,0,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+4,top,1,[],Edinson Volquez,0,2,0,Ian Desmond,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+4,top,0,[],Edinson Volquez,1,2,0,Tyler Moore,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,2,2,2,Danny Espinosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,2,1,2,Nate McLouth,['N/A'],['Nate McLouth'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Edinson Volquez,3,2,2,Blake Treinen,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Blake Treinen,1,2,3,Starling Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Blake Treinen,1,0,2,Ike Davis,['Ike Davis'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Blake Treinen,2,1,2,Jordy Mercer,['N/A'],['Ike Davis'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Blake Treinen,2,4,0,Chris Stewart,['Chris Stewart'],['N/A'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Blake Treinen,3,0,3,Edinson Volquez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,1,2,2,Denard Span,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,2,0,0,Anthony Rendon,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+5,top,0,[],Edinson Volquez,3,0,0,Jayson Werth,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Blake Treinen,0,4,0,Josh Harrison,['Josh Harrison'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Blake Treinen,1,0,1,Neil Walker,['N/A'],['Josh Harrison'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+5,bottom,1,['Josh Harrison'],Blake Treinen,1,0,0,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Single,N/A,2,1,1,N/A,N/A
+5,bottom,0,[],Blake Treinen,2,1,3,Pedro Alvarez,['N/A'],['Andrew McCutchen'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Blake Treinen,3,0,1,Starling Marte,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Edinson Volquez,1,0,0,Wilson Ramos,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Edinson Volquez,2,1,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Edinson Volquez,3,1,3,Tyler Moore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Blake Treinen,1,3,2,Ike Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Blake Treinen,2,1,3,Jordy Mercer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Blake Treinen,2,4,2,Chris Stewart,['Chris Stewart'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Blake Treinen,2,2,2,Travis Snider,['Travis Snider'],['N/A'],['Chris Stewart'],Single,Error,2,1,N/A,N/A,Ian Desmond
+6,bottom,0,[],Aaron Barrett,3,2,0,Josh Harrison,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Jeanmar Gomez,1,2,3,Danny Espinosa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Jeanmar Gomez,1,0,0,Nate McLouth,['Nate McLouth'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Jeanmar Gomez,3,1,1,Kevin Frandsen,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Barrett,0,1,2,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Barrett,0,4,2,Andrew McCutchen,['Andrew McCutchen'],['Neil Walker'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Barrett,1,1,1,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Barrett,2,0,3,Starling Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Aaron Barrett,3,0,0,Ike Davis,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Tony Watson,1,0,1,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Tony Watson,2,1,3,Anthony Rendon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Tony Watson,2,4,1,Jayson Werth,['Jayson Werth'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Tony Watson,2,0,0,Wilson Ramos,['Wilson Ramos'],['Jayson Werth'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Tony Watson,2,4,2,Ian Desmond,['Ian Desmond'],['Wilson Ramos'],['Jayson Werth'],Walk,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Tony Watson,3,1,1,Scott Hairston,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Ross Detwiler,1,2,1,Jordy Mercer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Ross Detwiler,1,1,2,Chris Stewart,['N/A'],['Chris Stewart'],['N/A'],Double,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Ross Detwiler,2,2,2,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,bottom,1,['Chris Stewart'],Ross Detwiler,2,1,0,Josh Harrison,['Josh Harrison'],['N/A'],['N/A'],Single,N/A,3,1,1,N/A,N/A
+8,bottom,0,[],Ross Detwiler,3,1,0,Neil Walker,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,0,4,0,Danny Espinosa,['Danny Espinosa'],['N/A'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,1,0,1,Nate McLouth,['Nate McLouth'],['N/A'],['N/A'],Forceout,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,2,2,3,Greg Dobbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,2,4,2,Denard Span,['Denard Span'],['Nate McLouth'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+9,top,0,[],Mark Melancon,3,2,2,Anthony Rendon,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,1,N/A,N/A,N/A

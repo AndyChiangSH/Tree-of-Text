@@ -1,0 +1,94 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Casey Kelly,0,1,2,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Casey Kelly,1,3,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Casey Kelly,2,0,1,Matt Kemp,['Matt Kemp'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Casey Kelly,3,1,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Capuano,1,0,1,Chris Denorfia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Capuano,2,1,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Capuano,2,1,0,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],N/A,2,1,1,Yasmani Grandal,['N/A'],['Chase Headley'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Capuano,3,2,3,Yasmani Grandal,['N/A'],['Chase Headley'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Casey Kelly,1,2,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Casey Kelly,2,1,2,Shane Victorino,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Casey Kelly,2,1,0,Luis Alfonso Cruz,['N/A'],['Luis Alfonso Cruz'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Casey Kelly,3,0,1,A.J. Ellis,['N/A'],['N/A'],['N/A'],Fielders Choice Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Capuano,0,4,2,Jesus Guzman,['Jesus Guzman'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Capuano,0,3,1,Yonder Alonso,['N/A'],['Yonder Alonso'],['Jesus Guzman'],Double,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Capuano,1,0,1,Everth Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Capuano,1,4,1,Andy Parrino,['Andy Parrino'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Capuano,3,0,2,Casey Kelly,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Casey Kelly,1,0,3,Chris Capuano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Casey Kelly,1,4,2,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Casey Kelly,2,0,3,Andre Ethier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Casey Kelly,3,2,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Chris Capuano,1,0,1,Chris Denorfia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Chris Capuano,2,3,2,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Chris Capuano,3,0,0,Chase Headley,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Casey Kelly,0,1,2,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Casey Kelly,1,3,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Casey Kelly,2,1,1,Shane Victorino,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Casey Kelly,2,2,2,Luis Alfonso Cruz,['Luis Alfonso Cruz'],['Adrian Gonzalez'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,1,['Adrian Gonzalez'],Casey Kelly,2,2,0,A.J. Ellis,['A.J. Ellis'],['Luis Alfonso Cruz'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+4,top,0,[],Casey Kelly,3,1,0,Chris Capuano,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Capuano,1,0,0,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Capuano,2,3,2,Jesus Guzman,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Capuano,2,0,0,Yonder Alonso,['Yonder Alonso'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Capuano,3,2,2,Everth Cabrera,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Casey Kelly,1,3,3,Nick Punto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Casey Kelly,2,1,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Casey Kelly,2,0,1,Matt Kemp,['N/A'],['Matt Kemp'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Casey Kelly,2,4,0,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Intent Walk,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Casey Kelly,2,1,2,Hanley Ramirez,['Hanley Ramirez'],['Adrian Gonzalez'],['Matt Kemp'],Hit By Pitch,N/A,0,1,N/A,N/A,N/A
+5,top,1,['Matt Kemp'],Casey Kelly,2,2,2,Shane Victorino,['Shane Victorino'],['Hanley Ramirez'],['Adrian Gonzalez'],Hit By Pitch,N/A,0,2,1,N/A,N/A
+5,top,2,"['Adrian Gonzalez', 'Hanley Ramirez']",Nick Vincent,2,2,2,Luis Alfonso Cruz,['Luis Alfonso Cruz'],['Shane Victorino'],['N/A'],Single,N/A,0,4,2,N/A,N/A
+5,top,1,['Shane Victorino'],Nick Vincent,2,1,2,A.J. Ellis,['A.J. Ellis'],['N/A'],['Luis Alfonso Cruz'],Single,N/A,0,5,1,N/A,N/A
+5,top,0,[],Nick Vincent,3,0,3,Chris Capuano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Chris Capuano,0,4,2,Andy Parrino,['Andy Parrino'],['N/A'],['N/A'],Walk,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Chris Capuano,1,0,2,Ali Solis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Chris Capuano,1,0,1,Chris Denorfia,['Chris Denorfia'],['Andy Parrino'],['N/A'],Single,N/A,0,5,N/A,N/A,N/A
+5,bottom,0,[],Chris Capuano,3,0,0,Cameron Maybin,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,5,N/A,N/A,N/A
+6,top,0,[],Miles Mikolas,1,2,1,Nick Punto,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+6,top,0,[],Miles Mikolas,2,1,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+6,top,0,[],Miles Mikolas,2,2,1,Matt Kemp,['N/A'],['Matt Kemp'],['N/A'],Double,N/A,0,5,N/A,N/A,N/A
+6,top,1,['Matt Kemp'],Miles Mikolas,2,1,1,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Single,N/A,0,6,1,N/A,N/A
+6,top,0,[],Miles Mikolas,3,1,2,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+6,bottom,0,[],Chris Capuano,0,4,1,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Walk,N/A,0,6,N/A,N/A,N/A
+6,bottom,0,[],Chris Capuano,0,2,2,Yasmani Grandal,['Yasmani Grandal'],['Chase Headley'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+6,bottom,0,[],Chris Capuano,0,1,2,Jesus Guzman,['N/A'],['Yasmani Grandal'],['Chase Headley'],Wild Pitch,N/A,0,6,N/A,N/A,N/A
+6,bottom,0,[],Chris Capuano,1,1,2,Jesus Guzman,['N/A'],['Yasmani Grandal'],['Chase Headley'],Pop Out,N/A,0,6,N/A,N/A,N/A
+6,bottom,0,[],Paco Rodriguez,2,3,3,Yonder Alonso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+6,bottom,0,[],Paco Rodriguez,2,2,2,Everth Cabrera,['Everth Cabrera'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+6,bottom,1,['Chase Headley'],Jamey Wright,2,1,2,Carlos Quentin,['Carlos Quentin'],['Everth Cabrera'],['Yasmani Grandal'],Hit By Pitch,N/A,1,6,1,N/A,N/A
+6,bottom,0,[],Jamey Wright,3,2,1,Alexi Amarista,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,6,N/A,N/A,N/A
+7,top,0,[],Brad Brach,1,1,2,Shane Victorino,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,6,N/A,N/A,N/A
+7,top,0,[],Brad Brach,2,0,1,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+7,top,0,[],Brad Brach,3,2,1,A.J. Ellis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+7,bottom,0,[],Kenley Jansen,1,2,2,Chris Denorfia,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+7,bottom,0,[],Kenley Jansen,1,4,2,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Walk,N/A,1,6,N/A,N/A,N/A
+7,bottom,0,[],Kenley Jansen,2,0,1,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+7,bottom,0,[],Kenley Jansen,3,0,0,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Tommy Layne,0,1,0,Elian Herrera,['Elian Herrera'],['N/A'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Tommy Layne,0,2,0,Nick Punto,['Nick Punto'],['Elian Herrera'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Tommy Layne,1,1,0,Andre Ethier,['Andre Ethier'],['N/A'],['Elian Herrera'],Forceout,N/A,1,6,N/A,N/A,N/A
+8,top,1,['Elian Herrera'],Tommy Layne,1,1,0,Matt Kemp,['Matt Kemp'],['Andre Ethier'],['N/A'],Field Error,N/A,1,7,1,N/A,Alexi Amarista
+8,top,0,[],Tommy Layne,2,2,0,Adrian Gonzalez,['N/A'],['Matt Kemp'],['Andre Ethier'],Lineout,Error,1,7,N/A,N/A,Yonder Alonso
+8,top,0,[],Tommy Layne,3,1,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,7,N/A,N/A,N/A
+8,bottom,0,[],Ronald Belisario,1,2,3,Jesus Guzman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,7,N/A,N/A,N/A
+8,bottom,0,[],Ronald Belisario,1,3,2,Yonder Alonso,['N/A'],['Yonder Alonso'],['N/A'],Double,N/A,1,7,N/A,N/A,N/A
+8,bottom,0,[],Ronald Belisario,1,4,2,Everth Cabrera,['Everth Cabrera'],['N/A'],['N/A'],Walk,N/A,1,7,N/A,N/A,N/A
+8,bottom,2,"['Yonder Alonso', 'Everth Cabrera']",Ronald Belisario,1,0,0,Mark Kotsay,['N/A'],['Mark Kotsay'],['N/A'],Double,N/A,3,7,2,N/A,N/A
+8,bottom,0,[],Ronald Belisario,2,1,3,Alexi Amarista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,7,N/A,N/A,N/A
+8,bottom,1,['Mark Kotsay'],Ronald Belisario,2,0,0,Will Venable,['Will Venable'],['N/A'],['N/A'],Single,N/A,4,7,1,N/A,N/A
+8,bottom,0,[],Ronald Belisario,3,3,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,7,N/A,N/A,N/A
+9,top,0,[],Cory Burns,0,1,0,Shane Victorino,['N/A'],['Shane Victorino'],['N/A'],Double,N/A,4,7,N/A,N/A,N/A
+9,top,0,[],Cory Burns,1,0,2,Luis Alfonso Cruz,['N/A'],['N/A'],['Shane Victorino'],Groundout,N/A,4,7,N/A,N/A,N/A
+9,top,0,[],Cory Burns,2,3,3,A.J. Ellis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,7,N/A,N/A,N/A
+9,top,1,['Shane Victorino'],Cory Burns,2,1,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Wild Pitch,N/A,4,8,N/A,N/A,N/A
+9,top,0,[],Cory Burns,2,2,2,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Single,N/A,4,8,N/A,N/A,N/A
+9,top,0,[],N/A,2,1,1,Nick Punto,['N/A'],['Bobby Abreu'],['N/A'],Stolen Base 2B,N/A,4,8,N/A,N/A,N/A
+9,top,0,[],Cory Burns,3,1,1,Nick Punto,['N/A'],['Bobby Abreu'],['N/A'],Groundout,N/A,4,8,N/A,N/A,N/A
+9,bottom,0,[],Brandon League,1,2,0,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,8,N/A,N/A,N/A
+9,bottom,0,[],Brandon League,1,2,1,Yasmani Grandal,['Yasmani Grandal'],['N/A'],['N/A'],Single,N/A,4,8,N/A,N/A,N/A
+9,bottom,0,[],Brandon League,2,1,0,Jesus Guzman,['N/A'],['Jesus Guzman'],['N/A'],Forceout,Error,4,8,N/A,N/A,Hanley Ramirez
+9,bottom,0,[],Brandon League,2,4,2,Yonder Alonso,['Yonder Alonso'],['N/A'],['N/A'],Walk,N/A,4,8,N/A,N/A,N/A
+9,bottom,0,[],Brandon League,3,1,0,Everth Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,8,N/A,N/A,N/A

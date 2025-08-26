@@ -1,0 +1,90 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Chris Stratton,1,1,2,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chris Stratton,1,3,2,Paul Goldschmidt,['N/A'],['Paul Goldschmidt'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chris Stratton,2,0,2,Jake Lamb,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chris Stratton,3,0,1,Daniel Descalso,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,1,0,0,Joe Panik,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,[],Clay Buchholz,1,2,2,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Clay Buchholz,2,0,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,2,2,1,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,2,2,1,Evan Longoria,['N/A'],['Brandon Crawford'],['N/A'],Wild Pitch,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,3,3,3,Evan Longoria,['N/A'],['Brandon Crawford'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Chris Stratton,1,2,2,David Peralta,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Chris Stratton,1,1,2,Chris Owings,['Chris Owings'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Chris Stratton,2,0,0,Alex Avila,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Chris Stratton,3,2,3,Nick Ahmed,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,1,1,3,Mac Williamson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,1,3,1,Nick Hundley,['N/A'],['N/A'],['Nick Hundley'],Triple,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,2,2,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,3,1,3,Chris Stratton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Chris Stratton,0,2,1,Clay Buchholz,['Clay Buchholz'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Chris Stratton,1,0,1,Jarrod Dyson,['Jarrod Dyson'],['N/A'],['N/A'],Forceout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Chris Stratton,1,2,1,Paul Goldschmidt,['Paul Goldschmidt'],['Jarrod Dyson'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Chris Stratton,2,2,2,Jake Lamb,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Chris Stratton,2,1,1,Daniel Descalso,['N/A'],['Paul Goldschmidt'],['Jarrod Dyson'],Wild Pitch,N/A,1,0,N/A,N/A,N/A
+3,top,2,"['Jarrod Dyson', 'Paul Goldschmidt']",Chris Stratton,2,3,2,Daniel Descalso,['N/A'],"['Paul Goldschmidt', 'Daniel Descalso']",['Jarrod Dyson'],Double,N/A,1,2,2,N/A,N/A
+3,top,0,[],Chris Stratton,3,0,2,David Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,0,4,0,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,1,1,3,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+3,bottom,1,['Joe Panik'],Clay Buchholz,1,0,1,Andrew McCutchen,['N/A'],['Andrew McCutchen'],['N/A'],Double,N/A,2,2,1,N/A,N/A
+3,bottom,0,[],Clay Buchholz,2,0,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,3,1,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Chris Stratton,1,1,3,Chris Owings,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Chris Stratton,2,0,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Chris Stratton,2,4,0,Nick Ahmed,['Nick Ahmed'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+4,top,0,[],Chris Stratton,3,1,1,Clay Buchholz,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,0,1,2,Mac Williamson,['Mac Williamson'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,2,1,1,Nick Hundley,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,2,0,1,Austin Jackson,['Austin Jackson'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,3,0,1,Chris Stratton,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Chris Stratton,0,1,1,Jarrod Dyson,['Jarrod Dyson'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+5,top,1,['Jarrod Dyson'],Chris Stratton,0,2,1,Paul Goldschmidt,['N/A'],"['Jarrod Dyson', 'Paul Goldschmidt']",['N/A'],Double,N/A,2,3,1,N/A,N/A
+5,top,0,[],Chris Stratton,0,4,1,Jake Lamb,['Jake Lamb'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Will Smith,1,3,1,Daniel Descalso,['N/A'],['Jake Lamb'],['Paul Goldschmidt'],Flyout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Will Smith,2,3,3,David Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Will Smith,2,4,0,Chris Owings,['Chris Owings'],['N/A'],['N/A'],Intent Walk,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Will Smith,3,1,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,1,2,1,Joe Panik,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,1,1,0,Pablo Sandoval,['Pablo Sandoval'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,2,1,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,3,1,2,Brandon Crawford,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Reyes Moronta,1,2,3,Nick Ahmed,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Reyes Moronta,2,0,3,Clay Buchholz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],Reyes Moronta,2,4,0,Jarrod Dyson,['Jarrod Dyson'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+6,top,0,[],N/A,2,2,1,Paul Goldschmidt,['N/A'],['Jarrod Dyson'],['N/A'],Stolen Base 2B,N/A,2,3,N/A,N/A,N/A
+6,top,1,['Jarrod Dyson'],Reyes Moronta,2,2,2,Paul Goldschmidt,['N/A'],"['Jarrod Dyson', 'Paul Goldschmidt']",['N/A'],Double,N/A,2,4,1,N/A,N/A
+6,top,0,[],Reyes Moronta,3,1,2,Jake Lamb,['N/A'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Clay Buchholz,1,0,0,Evan Longoria,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Clay Buchholz,2,2,1,Mac Williamson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Clay Buchholz,3,0,1,Nick Hundley,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Tony Watson,1,1,3,Daniel Descalso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Tony Watson,2,3,2,David Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Tony Watson,3,1,3,Chris Owings,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Yoshihisa Hirano,1,1,3,Austin Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Yoshihisa Hirano,1,0,2,Hunter Pence,['Hunter Pence'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Yoshihisa Hirano,3,2,2,Joe Panik,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Ty Blach,1,1,3,Alex Avila,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Ty Blach,1,1,0,Nick Ahmed,['Nick Ahmed'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Ty Blach,3,0,2,Deven Marrero,['N/A'],['N/A'],['N/A'],Double Play,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],Archie Bradley,1,3,3,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],Archie Bradley,2,1,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+8,bottom,0,[],Archie Bradley,3,0,0,Brandon Crawford,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Ty Blach,1,0,3,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Ty Blach,2,1,1,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+9,top,0,[],Ty Blach,3,1,0,Jake Lamb,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Brad Boxberger,1,2,2,Evan Longoria,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Brad Boxberger,1,4,2,Mac Williamson,['Mac Williamson'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+9,bottom,0,[],Brad Boxberger,2,2,3,Nick Hundley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+9,bottom,2,['Mac Williamson'],Brad Boxberger,2,0,1,Alen Hanson,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,2,N/A,N/A
+9,bottom,0,[],Brad Boxberger,3,3,3,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Hunter Strickland,0,4,2,Daniel Descalso,['Daniel Descalso'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Hunter Strickland,1,0,3,David Peralta,['N/A'],['Daniel Descalso'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Hunter Strickland,1,3,0,Chris Owings,['N/A'],['N/A'],['Daniel Descalso'],Wild Pitch,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Hunter Strickland,1,4,0,Chris Owings,['Chris Owings'],['N/A'],['Daniel Descalso'],Intent Walk,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Hunter Strickland,2,1,3,Ketel Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],N/A,2,2,0,Nick Ahmed,['N/A'],['Chris Owings'],['N/A'],Stolen Base 2B,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Hunter Strickland,3,2,0,Nick Ahmed,['N/A'],['Chris Owings'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Andrew Chafin,1,3,2,Joe Panik,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Andrew Chafin,2,0,2,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Andrew Chafin,2,0,0,Andrew McCutchen,['N/A'],['Andrew McCutchen'],['N/A'],Double,N/A,4,4,N/A,N/A,N/A
+10,bottom,1,['Andrew McCutchen'],Andrew Chafin,2,3,2,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Single,N/A,5,4,1,N/A,N/A

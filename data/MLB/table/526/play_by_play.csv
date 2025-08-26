@@ -1,0 +1,73 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Paul Maholm,0,0,0,Dexter Fowler,['Dexter Fowler'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Paul Maholm,1,1,1,Ryan Spilborghs,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Dexter Fowler'],Paul Maholm,1,0,0,Carlos Gonzalez,['N/A'],['N/A'],['Carlos Gonzalez'],Field Error,N/A,0,1,N/A,1,Neil Walker
+1,top,1,['Carlos Gonzalez'],Paul Maholm,2,1,0,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,2,1,N/A,N/A
+1,top,0,[],Paul Maholm,3,2,1,Jose Lopez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,0,1,0,Jose Tabata,['Jose Tabata'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,0,1,1,Neil Walker,['Neil Walker'],['N/A'],['Jose Tabata'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,0,1,0,Andrew McCutchen,['N/A'],['Neil Walker'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Jose Tabata'],Esmil Rogers,1,1,2,Andrew McCutchen,['N/A'],['Neil Walker'],['N/A'],Groundout,N/A,1,2,1,N/A,N/A
+1,bottom,0,[],Esmil Rogers,2,1,2,Lyle Overbay,['N/A'],['N/A'],['Neil Walker'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Esmil Rogers,3,0,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Paul Maholm,1,0,0,Todd Helton,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Paul Maholm,1,2,0,Ty Wigginton,['N/A'],['Ty Wigginton'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Paul Maholm,2,2,2,Chris Iannetta,['N/A'],['N/A'],['Ty Wigginton'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Paul Maholm,3,1,3,Esmil Rogers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Esmil Rogers,1,2,3,Ryan Doumit,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Esmil Rogers,1,4,2,Garrett Jones,['Garrett Jones'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Esmil Rogers,2,0,1,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Esmil Rogers,3,1,3,Paul Maholm,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Paul Maholm,1,0,1,Dexter Fowler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Paul Maholm,2,1,0,Ryan Spilborghs,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Paul Maholm,3,1,1,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Esmil Rogers,1,2,3,Jose Tabata,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Esmil Rogers,2,2,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Esmil Rogers,3,1,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,[],Paul Maholm,0,3,2,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+4,top,0,[],Paul Maholm,0,0,0,Jose Lopez,['Jose Lopez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Paul Maholm,2,2,2,Todd Helton,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Paul Maholm,3,2,2,Ty Wigginton,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Esmil Rogers,1,0,1,Lyle Overbay,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Esmil Rogers,2,1,1,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Esmil Rogers,3,1,0,Ryan Doumit,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Paul Maholm,1,3,1,Chris Iannetta,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Paul Maholm,2,0,2,Esmil Rogers,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Paul Maholm,3,0,0,Dexter Fowler,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Esmil Rogers,1,2,0,Garrett Jones,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Esmil Rogers,2,0,3,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Esmil Rogers,3,1,0,Paul Maholm,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Paul Maholm,0,2,1,Ryan Spilborghs,['N/A'],['Ryan Spilborghs'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Ryan Spilborghs'],Paul Maholm,0,0,0,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Single,N/A,1,4,1,N/A,N/A
+6,top,1,['Carlos Gonzalez'],Paul Maholm,1,2,1,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Double,N/A,1,5,1,N/A,N/A
+6,top,0,[],Paul Maholm,2,3,2,Jose Lopez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Paul Maholm,2,2,0,Todd Helton,['Todd Helton'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Chris Resop,3,2,1,Ty Wigginton,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Esmil Rogers,1,2,1,Jose Tabata,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Esmil Rogers,2,0,0,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Esmil Rogers,3,2,1,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Chris Resop,1,2,3,Chris Iannetta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Chris Resop,1,1,1,Esmil Rogers,['Esmil Rogers'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Chris Resop,1,2,2,Dexter Fowler,['Dexter Fowler'],['Esmil Rogers'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Esmil Rogers'],Chris Resop,1,1,0,Ryan Spilborghs,['Ryan Spilborghs'],['N/A'],['Dexter Fowler'],Single,N/A,1,6,1,N/A,N/A
+7,top,1,['Dexter Fowler'],Garrett Olson,2,0,1,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,7,1,N/A,N/A
+7,top,0,[],Garrett Olson,3,2,0,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,1,2,1,Lyle Overbay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,2,1,3,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Esmil Rogers,3,1,1,Ryan Doumit,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Garrett Olson,1,0,0,Jose Lopez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Garrett Olson,1,4,1,Todd Helton,['Todd Helton'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Garrett Olson,1,1,1,Ty Wigginton,['Ty Wigginton'],['Todd Helton'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Pedro Alvarez
+8,top,0,[],Garrett Olson,2,0,2,Chris Iannetta,['Chris Iannetta'],['N/A'],['Todd Helton'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Garrett Olson,3,0,3,Esmil Rogers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Esmil Rogers,1,0,3,Garrett Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Esmil Rogers,1,1,0,Ronny Cedeno,['Ronny Cedeno'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Esmil Rogers,1,2,2,Steve Pearce,['Steve Pearce'],['Ronny Cedeno'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Matt Belisle,3,0,1,Jose Tabata,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Michael Crotta,1,2,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Michael Crotta,2,2,2,Ryan Spilborghs,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Michael Crotta,3,2,2,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Felipe Paulino,0,4,2,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Felipe Paulino,1,1,1,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Felipe Paulino,2,2,2,Lyle Overbay,['Lyle Overbay'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Felipe Paulino,3,1,3,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

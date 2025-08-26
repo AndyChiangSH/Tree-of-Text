@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Aaron Harang,0,4,2,Colby Rasmus,['Colby Rasmus'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Aaron Harang,0,1,1,Ryan Ludwick,['Ryan Ludwick'],['Colby Rasmus'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Aaron Harang,1,2,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Aaron Harang,2,2,2,Matt Holliday,['Matt Holliday'],['N/A'],['Colby Rasmus'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Aaron Harang,3,0,0,David Freese,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jaime Garcia,0,2,1,Orlando Cabrera,['Orlando Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jaime Garcia,1,1,3,Brandon Phillips,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jaime Garcia,1,1,0,Joey Votto,['Joey Votto'],['Orlando Cabrera'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Skip Schumaker
+1,bottom,0,[],Jaime Garcia,2,1,2,Scott Rolen,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jaime Garcia,2,1,2,Jonny Gomes,['Jonny Gomes'],['Joey Votto'],['Orlando Cabrera'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jaime Garcia,3,1,3,Jay Bruce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Aaron Harang,1,1,1,Yadier Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Aaron Harang,1,3,2,Skip Schumaker,['N/A'],['Skip Schumaker'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Aaron Harang,2,1,2,Jaime Garcia,['N/A'],['N/A'],['Skip Schumaker'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Aaron Harang,3,1,3,Brendan Ryan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jaime Garcia,1,0,3,Drew Stubbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jaime Garcia,2,2,1,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jaime Garcia,3,0,0,Aaron Harang,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Aaron Harang,1,2,0,Colby Rasmus,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Aaron Harang,1,0,1,Ryan Ludwick,['Ryan Ludwick'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,2,['Ryan Ludwick'],Aaron Harang,1,0,0,Albert Pujols,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+3,top,0,[],Aaron Harang,1,1,2,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Aaron Harang,1,3,2,David Freese,['David Freese'],['N/A'],['Matt Holliday'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Aaron Harang,3,0,0,Yadier Molina,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jaime Garcia,1,3,2,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jaime Garcia,2,0,1,Brandon Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jaime Garcia,3,0,0,Joey Votto,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Aaron Harang,1,0,1,Skip Schumaker,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Aaron Harang,2,1,3,Jaime Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Aaron Harang,3,0,2,Brendan Ryan,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jaime Garcia,1,3,2,Scott Rolen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jaime Garcia,2,1,1,Jonny Gomes,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jaime Garcia,2,4,0,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jaime Garcia,3,1,0,Drew Stubbs,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Aaron Harang,0,0,0,Colby Rasmus,['N/A'],['Colby Rasmus'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,2,['Colby Rasmus'],Aaron Harang,0,1,2,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,2,N/A,N/A
+5,top,0,[],Aaron Harang,1,0,3,Albert Pujols,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Aaron Harang,2,2,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Aaron Harang,2,4,1,David Freese,['David Freese'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Aaron Harang,3,0,2,Yadier Molina,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jaime Garcia,0,3,2,Ryan Hanigan,['Ryan Hanigan'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jaime Garcia,1,0,3,Aaron Harang,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jaime Garcia,3,1,0,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Aaron Harang,1,0,2,Skip Schumaker,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Aaron Harang,2,1,1,Jaime Garcia,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Aaron Harang,3,2,3,Brendan Ryan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jaime Garcia,1,3,2,Brandon Phillips,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jaime Garcia,2,1,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jaime Garcia,3,1,3,Scott Rolen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Mike Lincoln,1,2,1,Colby Rasmus,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Mike Lincoln,2,3,2,Ryan Ludwick,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Mike Lincoln,3,3,3,Albert Pujols,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jaime Garcia,0,1,2,Jonny Gomes,['N/A'],['Jonny Gomes'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jaime Garcia,1,0,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,2,['Jonny Gomes'],Jaime Garcia,1,2,1,Drew Stubbs,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,2,N/A,N/A
+7,bottom,0,[],Kyle McClellan,2,1,1,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Kyle McClellan,3,1,3,Miguel Cairo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Nick Masset,1,3,2,Matt Holliday,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Nick Masset,2,2,3,David Freese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Nick Masset,2,4,2,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Nick Masset,3,0,1,Skip Schumaker,['N/A'],['N/A'],['N/A'],Runner Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Kyle McClellan,1,1,1,Orlando Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Kyle McClellan,1,1,1,Brandon Phillips,['Brandon Phillips'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Trever Miller,2,0,1,Joey Votto,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Mitchell Boggs,3,0,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Arthur Rhodes,0,1,1,Skip Schumaker,['Skip Schumaker'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Arthur Rhodes,1,0,0,Mitchell Boggs,['Mitchell Boggs'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Arthur Rhodes,2,0,2,Brendan Ryan,['Brendan Ryan'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Arthur Rhodes,3,2,2,Joe Mather,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Ryan Franklin,0,2,2,Jonny Gomes,['Jonny Gomes'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Ryan Franklin,0,2,2,Jay Bruce,['Jay Bruce'],['Jonny Gomes'],['Jonny Gomes'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,1,['Jonny Gomes'],Ryan Franklin,1,0,0,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Forceout,N/A,3,4,1,N/A,N/A
+9,bottom,0,[],Ryan Franklin,1,0,1,Ryan Hanigan,['Ryan Hanigan'],['Drew Stubbs'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Ryan Franklin,3,0,0,Ramon Hernandez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A

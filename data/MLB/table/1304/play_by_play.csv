@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Sonny Gray,0,2,2,Alcides Escobar,['Alcides Escobar'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,0,0,1,Mike Moustakas,['N/A'],['Alcides Escobar'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Sonny Gray,1,2,1,Mike Moustakas,['N/A'],['Alcides Escobar'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Alcides Escobar'],Sonny Gray,1,1,2,Lorenzo Cain,['Lorenzo Cain'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Sonny Gray,2,2,3,Eric Hosmer,['N/A'],['Lorenzo Cain'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Sonny Gray,3,1,3,Kendrys Morales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chris Young,0,2,2,Billy Burns,['Billy Burns'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chris Young,0,4,2,Marcus Semien,['Marcus Semien'],['Billy Burns'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,3,"['Billy Burns', 'Marcus Semien']",Chris Young,0,0,1,Josh Reddick,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,1,3,N/A,N/A
+1,bottom,0,[],Chris Young,1,1,0,Danny Valencia,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+1,bottom,0,[],Chris Young,2,2,1,Stephen Vogt,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+1,bottom,0,[],Chris Young,2,0,1,Jed Lowrie,['Jed Lowrie'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+1,bottom,0,[],Chris Young,3,0,3,Khris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Sonny Gray,1,1,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Sonny Gray,2,0,1,Omar Infante,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Sonny Gray,2,1,2,Rey Fuentes,['Rey Fuentes'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Sonny Gray,2,4,2,Drew Butera,['Drew Butera'],['Rey Fuentes'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+2,top,0,[],Sonny Gray,3,0,0,Alcides Escobar,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Chris Young,0,2,1,Yonder Alonso,['Yonder Alonso'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Chris Young,0,1,1,Josh Phegley,['Josh Phegley'],['Yonder Alonso'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+2,bottom,0,[],Chris Young,0,4,2,Billy Burns,['Billy Burns'],['Josh Phegley'],['Yonder Alonso'],Walk,N/A,3,1,N/A,N/A,N/A
+2,bottom,1,['Yonder Alonso'],Chris Young,1,3,2,Marcus Semien,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,1,1,N/A,N/A
+2,bottom,0,[],Chris Young,2,0,0,Josh Reddick,['N/A'],['Billy Burns'],['Josh Phegley'],Flyout,N/A,4,1,N/A,N/A,N/A
+2,bottom,0,[],Chris Young,3,0,0,Danny Valencia,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+3,top,0,[],Sonny Gray,1,3,2,Mike Moustakas,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+3,top,0,[],Sonny Gray,2,0,1,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+3,top,0,[],Sonny Gray,3,2,1,Eric Hosmer,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Young,0,0,1,Stephen Vogt,['Stephen Vogt'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Young,1,2,2,Jed Lowrie,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Young,2,1,2,Khris Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Young,3,3,1,Yonder Alonso,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+4,top,0,[],Sonny Gray,1,0,2,Kendrys Morales,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+4,top,0,[],Sonny Gray,2,2,3,Alex Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+4,top,0,[],Sonny Gray,2,2,2,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+4,top,1,['Omar Infante'],Sonny Gray,2,3,2,Rey Fuentes,['Rey Fuentes'],['Omar Infante'],['N/A'],Single,N/A,4,2,1,N/A,N/A
+4,top,0,[],Sonny Gray,2,3,2,Drew Butera,['Drew Butera'],['N/A'],['Rey Fuentes'],Single,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Sonny Gray,3,1,0,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Chris Young,0,0,0,Josh Phegley,['Josh Phegley'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Chris Young,1,2,2,Billy Burns,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Chris Young,2,1,3,Marcus Semien,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Chris Young,3,3,1,Josh Reddick,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Sonny Gray,0,2,0,Mike Moustakas,['Mike Moustakas'],['N/A'],['N/A'],Field Error,N/A,4,2,N/A,N/A,Jed Lowrie
+5,top,0,[],Sonny Gray,1,2,3,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Sonny Gray,1,0,1,Eric Hosmer,['Eric Hosmer'],['Mike Moustakas'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Sonny Gray,3,1,2,Kendrys Morales,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Chris Young,0,0,2,Danny Valencia,['Danny Valencia'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Dillon Gee,1,2,2,Stephen Vogt,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Dillon Gee,2,3,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Dillon Gee,3,0,1,Khris Davis,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Sonny Gray,1,1,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Sonny Gray,2,0,3,Omar Infante,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Sonny Gray,3,2,3,Rey Fuentes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Dillon Gee,0,0,1,Yonder Alonso,['Yonder Alonso'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Dillon Gee,0,0,1,Josh Phegley,['Josh Phegley'],['Yonder Alonso'],['N/A'],Field Error,N/A,4,2,N/A,N/A,Alcides Escobar
+6,bottom,0,[],Dillon Gee,1,0,0,Billy Burns,['N/A'],['Josh Phegley'],['Yonder Alonso'],Sac Bunt,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Dillon Gee,2,0,2,Marcus Semien,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Dillon Gee,2,4,0,Josh Reddick,['Josh Reddick'],['N/A'],['N/A'],Intent Walk,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Dillon Gee,3,0,0,Danny Valencia,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],John Axford,1,3,2,Drew Butera,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],John Axford,2,2,3,Alcides Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],John Axford,3,2,2,Mike Moustakas,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+7,bottom,1,[],Dillon Gee,0,0,0,Stephen Vogt,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,2,1,N/A,N/A
+7,bottom,0,[],Dillon Gee,1,3,2,Jed Lowrie,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+7,bottom,0,[],Dillon Gee,2,1,2,Khris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,2,N/A,N/A,N/A
+7,bottom,0,[],Dillon Gee,2,4,1,Yonder Alonso,['Yonder Alonso'],['N/A'],['N/A'],Walk,N/A,5,2,N/A,N/A,N/A
+7,bottom,0,[],Dillon Gee,3,0,0,Josh Phegley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,2,N/A,N/A,N/A
+8,top,0,[],John Axford,1,3,1,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+8,top,0,[],John Axford,2,0,0,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,2,N/A,N/A,N/A
+8,top,0,[],John Axford,2,0,1,Kendrys Morales,['Kendrys Morales'],['N/A'],['N/A'],Single,N/A,5,2,N/A,N/A,N/A
+8,top,0,[],Sean Doolittle,3,3,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Danny Duffy,1,2,1,Billy Burns,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Danny Duffy,2,0,3,Marcus Semien,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+8,bottom,0,[],Danny Duffy,3,2,1,Josh Reddick,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+9,top,0,[],Ryan Madson,0,4,0,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Walk,N/A,5,2,N/A,N/A,N/A
+9,top,0,[],Ryan Madson,0,2,0,Rey Fuentes,['Rey Fuentes'],['Omar Infante'],['N/A'],Field Error,N/A,5,2,N/A,N/A,Jed Lowrie
+9,top,0,[],Ryan Madson,2,1,2,Salvador Perez,['N/A'],['N/A'],['Omar Infante'],Grounded Into DP,N/A,5,2,N/A,N/A,N/A
+9,top,1,['Omar Infante'],Ryan Madson,2,0,1,Alcides Escobar,['Alcides Escobar'],['N/A'],['N/A'],Single,N/A,5,3,1,N/A,N/A
+9,top,0,[],Ryan Madson,3,2,2,Mike Moustakas,['N/A'],['Alcides Escobar'],['N/A'],Lineout,N/A,5,3,N/A,N/A,N/A

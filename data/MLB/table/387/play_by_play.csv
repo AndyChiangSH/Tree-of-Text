@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Ryan Dempster,0,1,1,Conor Jackson,['Conor Jackson'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Ryan Dempster,0,1,1,Daric Barton,['Daric Barton'],['N/A'],['Conor Jackson'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Conor Jackson'],Ryan Dempster,1,1,2,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,1,1,N/A,N/A
+1,top,0,[],Ryan Dempster,1,4,2,Kevin Kouzmanoff,['Kevin Kouzmanoff'],['Daric Barton'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Ryan Dempster,3,3,2,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,1,1,1,Ryan Theriot,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,2,2,2,Jeff Baker,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Gio Gonzalez,3,0,2,Marlon Byrd,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Ryan Dempster,1,3,3,Jack Cust,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Ryan Dempster,2,1,2,Adam Rosales,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Ryan Dempster,2,1,0,Mark Ellis,['Mark Ellis'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Ryan Dempster,3,1,3,Gio Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,1,[],Gio Gonzalez,0,2,1,Derrek Lee,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,1,0,1,Xavier Nady,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,1,4,1,Alfonso Soriano,['Alfonso Soriano'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,1,1,1,Geovany Soto,['N/A'],['Geovany Soto'],['Alfonso Soriano'],Double,N/A,1,1,N/A,N/A,N/A
+2,bottom,1,['Alfonso Soriano'],Gio Gonzalez,2,1,2,Starlin Castro,['N/A'],['Starlin Castro'],['N/A'],Single,N/A,2,1,1,N/A,N/A
+2,bottom,0,[],Gio Gonzalez,3,1,3,Ryan Dempster,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Ryan Dempster,0,4,2,Conor Jackson,['Conor Jackson'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Ryan Dempster,1,1,1,Daric Barton,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Ryan Dempster,1,2,1,Ryan Sweeney,['N/A'],['Conor Jackson'],['N/A'],Wild Pitch,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Ryan Dempster,1,3,2,Ryan Sweeney,['Ryan Sweeney'],['Conor Jackson'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Ryan Dempster,2,1,3,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Ryan Dempster,3,0,0,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,1,0,1,Ryan Theriot,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,2,0,3,Jeff Baker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Gio Gonzalez,3,2,1,Marlon Byrd,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Ryan Dempster,0,3,2,Jack Cust,['Jack Cust'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Ryan Dempster,1,0,0,Adam Rosales,['N/A'],['Jack Cust'],['N/A'],Sac Bunt,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Ryan Dempster,2,1,0,Mark Ellis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Ryan Dempster,3,2,3,Gio Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,0,1,1,Derrek Lee,['Derrek Lee'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,0,1,2,Xavier Nady,['Xavier Nady'],['Derrek Lee'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,1,0,0,Alfonso Soriano,['N/A'],['Xavier Nady'],['Derrek Lee'],Sac Bunt,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,1,4,0,Geovany Soto,['Geovany Soto'],['N/A'],['N/A'],Intent Walk,N/A,2,1,N/A,N/A,N/A
+4,bottom,1,['Derrek Lee'],Gio Gonzalez,2,2,2,Starlin Castro,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,1,1,N/A,N/A
+4,bottom,0,[],Gio Gonzalez,3,1,0,Ryan Dempster,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Ryan Dempster,1,1,0,Conor Jackson,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Ryan Dempster,1,2,2,Daric Barton,['Daric Barton'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Ryan Dempster,2,2,3,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,top,0,[],Ryan Dempster,3,2,2,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,1,0,0,Ryan Theriot,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,1,0,1,Jeff Baker,['Jeff Baker'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,1,4,0,Marlon Byrd,['Marlon Byrd'],['Jeff Baker'],['N/A'],Walk,N/A,3,1,N/A,N/A,N/A
+5,bottom,0,[],Gio Gonzalez,2,3,3,Derrek Lee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+5,bottom,1,['Jeff Baker'],Gio Gonzalez,2,3,2,Xavier Nady,['Xavier Nady'],['N/A'],['Marlon Byrd'],Single,N/A,4,1,1,N/A,N/A
+5,bottom,2,"['Marlon Byrd', 'Xavier Nady']",Gio Gonzalez,3,2,2,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Double,N/A,6,1,2,N/A,N/A
+6,top,0,[],Ryan Dempster,1,1,1,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+6,top,0,[],Ryan Dempster,2,1,3,Jack Cust,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+6,top,0,[],Ryan Dempster,3,1,3,Adam Rosales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+6,bottom,0,[],Tyson Ross,1,1,3,Geovany Soto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+6,bottom,0,[],Tyson Ross,1,4,2,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Walk,N/A,6,1,N/A,N/A,N/A
+6,bottom,0,[],Tyson Ross,2,1,2,Ryan Dempster,['N/A'],['N/A'],['N/A'],Bunt Pop Out,N/A,6,1,N/A,N/A,N/A
+6,bottom,0,[],Tyson Ross,3,0,3,Ryan Theriot,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+7,top,0,[],Ryan Dempster,1,1,1,Mark Ellis,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+7,top,0,[],Ryan Dempster,1,1,1,Cliff Pennington,['Cliff Pennington'],['N/A'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+7,top,0,[],Ryan Dempster,1,2,0,Conor Jackson,['Conor Jackson'],['Cliff Pennington'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+7,top,0,[],Ryan Dempster,1,2,2,Daric Barton,['N/A'],['Conor Jackson'],['Cliff Pennington'],Wild Pitch,N/A,6,1,N/A,N/A,N/A
+7,top,1,['Cliff Pennington'],Ryan Dempster,2,3,2,Daric Barton,['N/A'],['Conor Jackson'],"['Cliff Pennington', 'Conor Jackson']",Groundout,N/A,6,2,1,N/A,N/A
+7,top,0,[],Sean Marshall,3,1,1,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Tyson Ross,0,4,2,Jeff Baker,['Jeff Baker'],['N/A'],['N/A'],Walk,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Tyson Ross,2,0,1,Marlon Byrd,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,2,N/A,N/A,N/A
+7,bottom,0,[],Tyson Ross,3,1,3,Derrek Lee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+8,top,0,[],Sean Marshall,1,2,3,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+8,top,0,[],Sean Marshall,1,0,1,Kurt Suzuki,['Kurt Suzuki'],['N/A'],['N/A'],Single,N/A,6,2,N/A,N/A,N/A
+8,top,0,[],Sean Marshall,3,0,2,Jack Cust,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,2,N/A,N/A,N/A
+8,bottom,0,[],Cedrick Bowers,0,1,0,Tyler Colvin,['N/A'],['Tyler Colvin'],['N/A'],Double,N/A,6,2,N/A,N/A,N/A
+8,bottom,0,[],Cedrick Bowers,1,2,1,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A
+8,bottom,0,[],Cedrick Bowers,2,2,3,Geovany Soto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+8,bottom,0,[],Cedrick Bowers,2,4,0,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Intent Walk,N/A,6,2,N/A,N/A,N/A
+8,bottom,0,[],Cedrick Bowers,3,1,3,Carlos Zambrano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Carlos Marmol,1,0,1,Eric Patterson,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Carlos Marmol,2,0,3,Mark Ellis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Carlos Marmol,3,0,3,Cliff Pennington,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A

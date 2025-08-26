@@ -1,0 +1,72 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mike Leake,1,1,1,Kelly Johnson,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Mike Leake,1,1,1,Ryan Roberts,['N/A'],['Ryan Roberts'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Mike Leake,2,2,0,Justin Upton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Ryan Roberts'],Mike Leake,2,2,2,Stephen Drew,['Stephen Drew'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Mike Leake,3,1,3,Chris Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Daniel Hudson,1,1,0,Chris Heisey,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Daniel Hudson,1,1,1,Brandon Phillips,['Brandon Phillips'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Daniel Hudson,1,3,2,Joey Votto,['Joey Votto'],['N/A'],['Brandon Phillips'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Daniel Hudson,1,4,1,Jonny Gomes,['Jonny Gomes'],['Joey Votto'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Brandon Phillips'],Daniel Hudson,1,4,1,Jay Bruce,['Jay Bruce'],['Jonny Gomes'],['Joey Votto'],Walk,N/A,1,1,1,N/A,N/A
+1,bottom,2,"['Joey Votto', 'Jonny Gomes']",Daniel Hudson,1,1,1,Miguel Cairo,['Miguel Cairo'],['Jay Bruce'],['N/A'],Single,N/A,3,1,2,N/A,N/A
+1,bottom,0,[],Daniel Hudson,1,1,2,Ramon Hernandez,['Ramon Hernandez'],['Miguel Cairo'],['Jay Bruce'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Jay Bruce'],Daniel Hudson,1,4,1,Paul Janish,['Paul Janish'],['Ramon Hernandez'],['Miguel Cairo'],Walk,N/A,4,1,1,N/A,N/A
+1,bottom,0,[],Daniel Hudson,3,2,1,Mike Leake,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Leake,0,4,2,Juan Miranda,['Juan Miranda'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Leake,0,0,1,Gerardo Parra,['Gerardo Parra'],['N/A'],['Juan Miranda'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Leake,1,0,0,Henry Blanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,['Juan Miranda'],Mike Leake,2,0,0,Daniel Hudson,['N/A'],['Gerardo Parra'],['N/A'],Sac Bunt,N/A,4,2,1,N/A,N/A
+2,top,0,[],Mike Leake,2,4,0,Kelly Johnson,['Kelly Johnson'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Mike Leake,3,2,1,Ryan Roberts,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Daniel Hudson,1,2,2,Chris Heisey,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Daniel Hudson,2,1,0,Brandon Phillips,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Daniel Hudson,3,2,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Mike Leake,1,0,0,Justin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Mike Leake,2,3,3,Stephen Drew,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Mike Leake,3,1,1,Chris Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Daniel Hudson,1,0,0,Jonny Gomes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Daniel Hudson,2,3,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Daniel Hudson,3,1,2,Miguel Cairo,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Mike Leake,1,1,2,Juan Miranda,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Mike Leake,2,0,1,Gerardo Parra,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Mike Leake,3,0,1,Henry Blanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Daniel Hudson,1,0,0,Ramon Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Daniel Hudson,2,0,1,Paul Janish,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Daniel Hudson,3,1,3,Mike Leake,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Mike Leake,1,0,0,Daniel Hudson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,[],Mike Leake,1,0,1,Kelly Johnson,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,3,1,N/A,N/A
+5,top,0,[],Mike Leake,2,2,2,Ryan Roberts,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Mike Leake,3,2,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Daniel Hudson,1,0,3,Chris Heisey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Daniel Hudson,2,3,2,Brandon Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,[],Daniel Hudson,2,0,1,Joey Votto,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,3,1,N/A,N/A
+5,bottom,0,[],Daniel Hudson,3,3,2,Jonny Gomes,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Mike Leake,1,1,1,Stephen Drew,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Mike Leake,2,1,1,Chris Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Mike Leake,3,3,3,Juan Miranda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Daniel Hudson,1,1,2,Jay Bruce,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Daniel Hudson,1,4,1,Miguel Cairo,['Miguel Cairo'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['Miguel Cairo'],Daniel Hudson,1,1,0,Ramon Hernandez,['N/A'],['Ramon Hernandez'],['N/A'],Double,N/A,6,3,1,N/A,N/A
+6,bottom,1,['Ramon Hernandez'],Sam Demel,1,2,2,Paul Janish,['N/A'],['Paul Janish'],['N/A'],Single,N/A,7,3,1,N/A,N/A
+6,bottom,0,[],Sam Demel,2,0,0,Mike Leake,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Sam Demel,3,1,3,Chris Heisey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Mike Leake,1,3,3,Gerardo Parra,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Mike Leake,2,1,3,Henry Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Mike Leake,3,0,1,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Josh Collmenter,0,1,1,Brandon Phillips,['Brandon Phillips'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Josh Collmenter,2,0,2,Joey Votto,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Josh Collmenter,3,1,3,Jonny Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Logan Ondrusek,1,1,3,Kelly Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Logan Ondrusek,2,1,0,Ryan Roberts,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Logan Ondrusek,3,0,2,Justin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Josh Collmenter,0,2,2,Jay Bruce,['Jay Bruce'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Josh Collmenter,1,1,3,Miguel Cairo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Josh Collmenter,2,1,2,Ramon Hernandez,['Ramon Hernandez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Josh Collmenter,3,2,2,Paul Janish,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,1,[],Francisco Cordero,0,3,1,Stephen Drew,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,4,1,N/A,N/A
+9,top,0,[],Francisco Cordero,1,1,3,Chris Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,1,3,Juan Miranda,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,0,1,Gerardo Parra,['Gerardo Parra'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,2,4,2,Miguel Montero,['Miguel Montero'],['Gerardo Parra'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Francisco Cordero,3,3,2,Russell Branyan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

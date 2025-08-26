@@ -1,0 +1,86 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Ortiz,,0,,PH,0,,0,0,1,David Ortiz,,,.000,,.317,,,2,David,,,,,0,,,0,1.029,,901,,0,,,0,,0,,0,,,0,0,1,0,0,Red Sox,0,.626,0,.403
+,Hill,,0,,3B,1,,0,0,3,Aaron Hill,,1,1.000,,.264,,,1,Aaron,,,,,0,,,1,.711,,700,,0,,,4,,0,,1,,,0,0,0,0,0,Red Sox,0,.375,0,.336
+,Ramirez,,0,,DH,0,,0,0,4,Hanley Ramirez,,,.000,,.294,,,2,Hanley,,,,,0,,,0,.881,,400,,0,,,0,,0,,3,,,2,2,1,0,4,Red Sox,0,.517,0,.364
+6,Ziegler,1,0,0,P,0,3,0,0,0,Brad Ziegler,3,,.000,6,.000,0,10,0,Brad,21,1,,0,0,0,2/3,0,.000,6,,,0,43,,0,2.34,0,2,0,0,16,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Hanigan,,,,,,,,,,Ryan Hanigan,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Wright,,,,,,,,,,Steven Wright,,,,,,,,,Steven,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Buchholz,,,,,,,,,,Clay Buchholz,,,,,,,,,Clay,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Young,,0,,LF,0,,0,0,4,Chris Young,,1,1.000,,.280,,,2,Chris,,,,,1,,,0,.886,,500,,0,,,0,,0,,1,,,0,0,2,0,0,Red Sox,0,.522,0,.364
+,Pedroia,,0,,2B,4,,0,0,5,Dustin Pedroia,,1,1.000,,.324,,,4,Dustin,,,,,4,,,0,.837,,100,,0,,,2,,0,,0,,,0,0,0,0,0,Red Sox,0,.453,0,.384
+,Price,,,,,,,,,,David Price,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Sandoval,,,,,,,,,,Pablo Sandoval,,,,,,,,,Pablo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Abad,,,,,,,,,,Fernando Abad,,,,,,,,,Fernando,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+3,Uehara,1,0,0,P,0,4,0,0,0,Koji Uehara,2,,.000,2,.000,0,9,0,Koji,7,1,true,0,0,1,,0,.000,13,,,0,45,,0,3.86,0,3,0,0,15,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Leon,,,,,,,,,,Sandy Leon,,,,,,,,,Sandy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Kimbrel,,,,,,,,,,Craig Kimbrel,,,,,,,,,Craig,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+12,Pomeranz,7,0,2,P,0,20,0,0,0,Drew Pomeranz,10,,.000,0,.143,4,40,0,Drew,0,3,,1,0,3,2/3,0,.372,0,,,0,29,,0,3.40,0,11,0,4,64,0,0,0,0,0,Red Sox,0,.229,0,.143
+,Porcello,,,,,,,,,,Rick Porcello,,,,,,,,,Rick,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Workman,,,,,,,,,,Brandon Workman,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+0,Kelly,1,0,0,P,0,3,0,0,0,Joe Kelly,3,,.000,0,.000,0,5,0,Joe,0,0,,0,0,0,2/3,0,.000,1,,,0,42,,0,5.88,0,2,0,0,7,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Ross,,,,,,,,,,Robbie Ross,,,,,,,,,Robbie,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Shaw,,0,,1B,2,,0,0,4,Travis Shaw,,1,1.000,,.252,,,1,Travis,,,,,9,,,0,.756,,600,,0,,,0,,0,,1,,,0,1,0,0,0,Red Sox,0,.440,0,.316
+,Vazquez,,0,,C,0,,0,0,1,Christian Vazquez,,1,1.000,,.224,,,0,Christian,,,,,3,,,0,.580,,902,,0,,,0,,0,,0,,,0,0,0,0,0,Red Sox,0,.303,0,.277
+2,Tazawa,0,0,0,P,0,3,0,0,0,Junichi Tazawa,3,,.000,2,.000,0,7,0,Junichi,0,1,,0,0,1,,0,.000,16,,,0,47,,0,4.25,0,3,0,0,10,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Holt,,,,,,,,,,Brock Holt,,,,,,,,,Brock,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Marrero,,,,,,,,,,Deven Marrero,,,,,,,,,Deven,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+0,Scott,0,0,0,P,0,2,0,0,0,Robby Scott,1,,.000,0,.000,0,5,0,Robby,0,1,,0,0,0,2/3,0,.000,0,,,0,45,true,0,0.00,0,2,0,0,7,0,0,0,0,0,Red Sox,0,.000,0,.000
+1,Hembree,1,0,0,P,0,5,0,0,0,Heath Hembree,4,,.000,2,.000,0,15,0,Heath,0,0,,0,0,1,1/3,0,.000,5,,,0,46,,0,2.45,0,4,0,0,19,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Holaday,,0,,C,0,,0,0,2,Bryan Holaday,,,1.000,,.228,,,0,Bryan,,,,,4,,,0,.634,,900,,0,,,1,,1,,2,,,0,1,0,0,0,Red Sox,0,.360,0,.274
+,Rutledge,,,,,,,,,,Josh Rutledge,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Bogaerts,,0,,SS,0,,0,0,2,Xander Bogaerts,,,1.000,,.298,,,2,Xander,,,,,1,,,2,.807,,200,,0,,,3,,0,,0,,,0,1,2,0,0,Red Sox,0,.450,0,.357
+,Hernandez,,,,,,,,,,Marco Hernandez,,,,,,,,,Marco,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Rodriguez,,,,,,,,,,Eduardo Rodriguez,,,,,,,,,Eduardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Owens,,,,,,,,,,Henry Owens,,,,,,,,,Henry,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Swihart,,,,,,,,,,Blake Swihart,,,,,,,,,Blake,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Barnes,,,,,,,,,,Matt Barnes,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Bradley,,0,,CF,0,,0,0,4,Jackie Bradley,,1,1.000,,.273,,,1,Jackie,,,,,1,,,0,.852,,800,,0,,,0,,0,,1,,,0,0,2,0,1,Red Sox,0,.499,0,.353
+,Ramirez,,,,,,,,,,Noe Ramirez,,,,,,,,,Noe,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Betts,,0,,RF,2,,0,0,4,Mookie Betts,,1,1.000,,.314,,,4,Mookie,,,,,4,,,0,.891,,300,,0,,,0,,0,,1,,,0,0,0,0,0,Red Sox,0,.537,0,.354
+,Smith,,,,,,,,,,Carson Smith,,,,,,,,,Carson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Benintendi,,,,,,,,,,Andrew Benintendi,,,,,,,,,Andrew,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Moncada,,,,,,,,,,Yoan Moncada,,,,,,,,,Yoan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+12,Sabathia,8,0,3,P,0,26,0,0,0,CC Sabathia,8,,.667,0,.000,4,70,0,CC,0,5,,1,1,5,,0,.000,0,,,1,35,,1,4.19,0,15,0,4,112,0,0,0,0,0,Yankees,0,.000,0,.000
+,Teixeira,,0,,1B,2,,0,0,2,Mark Teixeira,,,1.000,,.198,,,2,Mark,,,,,1,,,0,.623,,401,,0,,,0,,0,,0,,,0,0,0,0,0,Yankees,0,.337,0,.286
+,McCann,,0,,C,2,,0,0,4,Brian McCann,,1,1.000,,.234,,,4,Brian,,,,,9,,,0,.737,,600,,0,,,0,,1,,1,,,0,0,0,0,0,Yankees,0,.409,0,.328
+,Headley,,,,,,,,,,Chase Headley,,,,,,,,,Chase,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Ellsbury,,,,,,,,,,Jacoby Ellsbury,,,,,,,,,Jacoby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+0,Parker,0,0,0,P,0,3,0,0,0,Blake Parker,0,,.000,0,.000,0,9,0,Blake,1,2,,0,0,1,,0,.000,0,,,0,48,,0,2.93,0,3,0,0,14,0,0,0,0,0,Yankees,0,.000,0,.000
+,Butler,,0,,1B,0,,0,0,2,Billy Butler,,1,1.000,,.283,,,0,Billy,,,,,5,,,1,.753,,400,,0,,,0,,0,,1,,,0,0,0,0,0,Yankees,0,.417,0,.336
+,Solano,,0,,2B,2,,0,0,4,Donovan Solano,,1,1.000,,.250,,,1,Donovan,,,,,2,,,0,.500,,700,,0,,,3,,0,,1,,,0,1,0,0,0,Yankees,0,.250,0,.250
+,Gardner,,0,,LF,1,,0,0,5,Brett Gardner,,3,1.000,,.258,,,2,Brett,,,,,2,,,0,.712,,100,,0,,,0,,1,,1,,,0,1,0,0,1,Yankees,0,.362,0,.350
+,Young Jr.,,0,,PR-DH,0,,0,0,0,Eric Young Jr.,,,.000,,.000,,,0,Eric,,,,,0,,,0,.000,,301,,0,,,0,,0,,0,,,0,0,0,0,0,Yankees,0,.000,0,.000
+4,Clippard,2,0,0,P,0,5,0,0,0,Tyler Clippard,3,,.000,2,.000,1,12,0,Tyler,2,0,,1,0,1,,0,.000,22,,true,0,33,,0,3.12,0,3,0,1,20,0,0,0,0,0,Yankees,0,.000,0,.000
+,Swarzak,,,,,,,,,,Anthony Swarzak,,,,,,,,,Anthony,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Betances,,,,,,,,,,Dellin Betances,,,,,,,,,Dellin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Warren,,,,,,,,,,Adam Warren,,,,,,,,,Adam,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Yates,,,,,,,,,,Kirby Yates,,,,,,,,,Kirby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Pineda,,,,,,,,,,Michael Pineda,,,,,,,,,Michael,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Castro,,,,,,,,,,Starlin Castro,,,,,,,,,Starlin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+1,Layne,0,0,0,P,0,3,0,0,0,Tommy Layne,2,,.000,1,.000,0,7,0,Tommy,0,1,,0,0,1,,0,.000,11,,,0,47,,0,3.27,0,3,0,0,10,0,0,0,0,0,Yankees,0,.000,0,.000
+,Romine,,0,,PH,0,,0,0,1,Austin Romine,,,.000,,.240,,,0,Austin,,,,,0,,,0,.658,,201,,0,,,0,,0,,0,,,0,0,1,0,0,Yankees,0,.390,0,.268
+,Bleier,,,,,,,,,,Richard Bleier,,,,,,,,,Richard,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Eovaldi,,,,,,,,,,Nathan Eovaldi,,,,,,,,,Nathan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Hicks,,,,,,,,,,Aaron Hicks,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Gregorius,,0,,SS,1,,0,0,4,Didi Gregorius,,,1.000,,.278,,,1,Didi,,,,,1,,,0,.760,,500,,0,,,1,,0,,2,,,0,0,1,0,1,Yankees,0,.452,0,.308
+,Tanaka,,,,,,,,,,Masahiro Tanaka,,,,,,,,,Masahiro,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Ackley,,,,,,,,,,Dustin Ackley,,,,,,,,,Dustin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Cessa,,,,,,,,,,Luis Cessa,,,,,,,,,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Mitchell,,,,,,,,,,Bryan Mitchell,,,,,,,,,Bryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Mullee,,,,,,,,,,Conor Mullee,,,,,,,,,Conor,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Pazos,,,,,,,,,,James Pazos,,,,,,,,,James,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Pinder,,,,,,,,,,Branden Pinder,,,,,,,,,Branden,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Goody,,,,,,,,,,Nick Goody,,,,,,,,,Nick,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Torreyes,,0,,3B,0,,0,0,4,Ronald Torreyes,,2,1.000,,.268,,,2,Ronald,,,,,1,,,0,.721,,200,,0,,,3,,0,,0,,,0,0,2,0,1,Yankees,0,.398,0,.323
+,Austin,,,,,,,,,,Tyler Austin,,,,,,,,,Tyler,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Judge,,,,,,,,,,Aaron Judge,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Rumbelow,,,,,,,,,,Nick Rumbelow,,,,,,,,,Nick,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Shreve,,,,,,,,,,Chasen Shreve,,,,,,,,,Chasen,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Williams,,0,,CF,0,,0,0,4,Mason Williams,,1,1.000,,.444,,,0,Mason,,,,,1,,,0,1.000,,800,,0,,,0,,1,,2,,,0,1,1,0,0,Yankees,0,.556,0,.444
+,Bird,,,,,,,,,,Greg Bird,,,,,,,,,Greg,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Sanchez,,0,,DH,0,,0,0,5,Gary Sanchez,,1,.000,,.327,,,2,Gary,,,,,0,,,0,1.091,,300,,0,,,0,,0,,3,,,1,1,1,0,1,Yankees,0,.698,0,.393
+,Refsnyder,,0,,RF,0,,0,0,3,Rob Refsnyder,,2,1.000,,.248,,,1,Rob,,,,,1,,,1,.633,,900,,0,,,0,,0,,0,,,0,0,1,0,0,Yankees,0,.309,0,.324
+,Heller,,,,,,,,,,Ben Heller,,,,,,,,,Ben,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Severino,,,,,,,,,,Luis Severino,,,,,,,,,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Green,,,,,,,,,,Chad Green,,,,,,,,,Chad,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,
+,Holder,,,,,,,,,,Jonathan Holder,,,,,,,,,Jonathan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yankees,,,,

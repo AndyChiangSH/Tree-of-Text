@@ -1,0 +1,70 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Ricky Nolasco,1,0,3,Jose Tabata,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Ricky Nolasco,2,1,1,Matt Diaz,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Ricky Nolasco,2,2,2,Lyle Overbay,['Lyle Overbay'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Ricky Nolasco,3,1,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Charlie Morton,1,0,3,Chris Coghlan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Charlie Morton,1,4,1,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Charlie Morton,2,1,0,Hanley Ramirez,['N/A'],['Omar Infante'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Charlie Morton,3,0,0,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Ricky Nolasco,1,3,2,Garrett Jones,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Ricky Nolasco,2,0,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Ricky Nolasco,3,1,2,Chris Snyder,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Charlie Morton,1,1,1,Greg Dobbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Charlie Morton,2,1,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Charlie Morton,2,3,2,John Buck,['John Buck'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Charlie Morton,2,0,0,Emilio Bonifacio,['Emilio Bonifacio'],['John Buck'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Charlie Morton,2,4,0,Ricky Nolasco,['Ricky Nolasco'],['Emilio Bonifacio'],['John Buck'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,2,"['John Buck', 'Emilio Bonifacio']",Charlie Morton,2,0,0,Chris Coghlan,['Chris Coghlan'],['Ricky Nolasco'],['N/A'],Single,N/A,2,0,2,N/A,N/A
+2,bottom,1,['Ricky Nolasco'],Charlie Morton,2,0,2,Omar Infante,['Omar Infante'],['N/A'],['Chris Coghlan'],Single,Error,3,0,N/A,1,Jose Tabata
+2,bottom,1,['Chris Coghlan'],Charlie Morton,2,0,2,Hanley Ramirez,['Hanley Ramirez'],['Omar Infante'],['N/A'],Single,N/A,4,0,1,N/A,N/A
+2,bottom,0,[],Charlie Morton,3,1,2,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Ricky Nolasco,1,2,2,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Ricky Nolasco,1,0,2,Charlie Morton,['N/A'],['Charlie Morton'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Ricky Nolasco,2,3,2,Jose Tabata,['N/A'],['N/A'],['Charlie Morton'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Ricky Nolasco,3,0,2,Matt Diaz,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Charlie Morton,0,1,0,Greg Dobbs,['Greg Dobbs'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Charlie Morton,0,4,2,Giancarlo Stanton,['Giancarlo Stanton'],['Greg Dobbs'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Charlie Morton,0,2,2,John Buck,['N/A'],['Giancarlo Stanton'],['Greg Dobbs'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Charlie Morton,1,2,2,John Buck,['N/A'],['Giancarlo Stanton'],['Greg Dobbs'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Greg Dobbs'],Charlie Morton,1,2,1,Emilio Bonifacio,['Emilio Bonifacio'],['N/A'],['Giancarlo Stanton'],Single,N/A,5,0,1,N/A,N/A
+3,bottom,0,[],Charlie Morton,2,0,3,Ricky Nolasco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Giancarlo Stanton'],Charlie Morton,2,3,1,Chris Coghlan,['Chris Coghlan'],['N/A'],['Emilio Bonifacio'],Single,N/A,6,0,1,N/A,N/A
+3,bottom,0,[],Charlie Morton,3,0,2,Omar Infante,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Ricky Nolasco,1,1,3,Lyle Overbay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Ricky Nolasco,2,2,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Ricky Nolasco,3,2,3,Garrett Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Charlie Morton,1,0,0,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Charlie Morton,1,0,1,Gaby Sanchez,['Gaby Sanchez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Charlie Morton,3,1,0,Greg Dobbs,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Ricky Nolasco,1,2,3,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Ricky Nolasco,2,0,3,Chris Snyder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Ricky Nolasco,3,0,1,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Charlie Morton,0,1,0,Giancarlo Stanton,['N/A'],['Giancarlo Stanton'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Charlie Morton,1,2,3,John Buck,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Charlie Morton,2,0,3,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Charlie Morton,3,2,3,Ricky Nolasco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ricky Nolasco,1,1,3,Steve Pearce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ricky Nolasco,2,2,1,Jose Tabata,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ricky Nolasco,2,0,2,Matt Diaz,['N/A'],['Matt Diaz'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Ricky Nolasco,3,1,0,Lyle Overbay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Chris Resop,1,1,3,Chris Coghlan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Chris Resop,2,1,0,Omar Infante,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Chris Resop,3,1,2,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ricky Nolasco,1,2,1,Neil Walker,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ricky Nolasco,2,0,1,Garrett Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ricky Nolasco,2,4,0,Pedro Alvarez,['Pedro Alvarez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Ricky Nolasco,3,0,1,Chris Snyder,['N/A'],['N/A'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Chris Resop,1,1,1,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Chris Resop,2,1,3,Greg Dobbs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Chris Resop,3,1,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Edward Mujica,1,0,0,Ronny Cedeno,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Edward Mujica,2,2,1,Steve Pearce,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Edward Mujica,3,1,3,Jose Tabata,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Evan Meek,0,3,2,John Buck,['John Buck'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Evan Meek,1,2,2,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Evan Meek,2,1,0,Scott Cousins,['Scott Cousins'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Evan Meek,3,0,0,Chris Coghlan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Edward Mujica,0,0,1,Matt Diaz,['Matt Diaz'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Edward Mujica,1,3,3,John Bowker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Edward Mujica,3,0,0,Neil Walker,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A

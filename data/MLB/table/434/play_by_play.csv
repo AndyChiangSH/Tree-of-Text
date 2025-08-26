@@ -1,0 +1,86 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Tim Hudson,1,2,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Hudson,2,2,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Hudson,2,0,0,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,2,1,1,Dan Uggla,['N/A'],['Hanley Ramirez'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Hudson,3,2,3,Dan Uggla,['N/A'],['Hanley Ramirez'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,0,0,1,Omar Infante,['N/A'],['Omar Infante'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,0,4,2,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,1,0,2,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,2,0,1,Brian McCann,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ricky Nolasco,3,3,2,Derrek Lee,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tim Hudson,1,1,0,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tim Hudson,2,1,1,Chad Tracy,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tim Hudson,2,2,2,Emilio Bonifacio,['Emilio Bonifacio'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],N/A,2,2,1,Brett Hayes,['N/A'],['Emilio Bonifacio'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tim Hudson,2,4,1,Brett Hayes,['Brett Hayes'],['Emilio Bonifacio'],['N/A'],Intent Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Tim Hudson,3,1,3,Ricky Nolasco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,1,[],Ricky Nolasco,0,1,0,Matt Diaz,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,0,1,1,Alex Gonzalez,['Alex Gonzalez'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,0,3,2,Melky Cabrera,['Melky Cabrera'],['Alex Gonzalez'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,1,0,0,Tim Hudson,['N/A'],['Melky Cabrera'],['Alex Gonzalez'],Sac Bunt,N/A,1,0,N/A,N/A,N/A
+2,bottom,1,['Alex Gonzalez'],Ricky Nolasco,1,0,1,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Single,N/A,2,0,1,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,1,2,2,Jason Heyward,['Jason Heyward'],['Omar Infante'],['Melky Cabrera'],Single,N/A,2,0,N/A,N/A,N/A
+2,bottom,1,['Melky Cabrera'],Ricky Nolasco,1,4,2,Martin Prado,['Martin Prado'],['Jason Heyward'],['Omar Infante'],Walk,N/A,3,0,1,N/A,N/A
+2,bottom,3,"['Omar Infante', 'Jason Heyward', 'Martin Prado']",Ricky Nolasco,1,1,1,Brian McCann,['N/A'],['Brian McCann'],['N/A'],Double,N/A,6,0,3,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,1,4,1,Derrek Lee,['Derrek Lee'],['N/A'],['N/A'],Walk,N/A,6,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,2,1,2,Matt Diaz,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,0,N/A,N/A,N/A
+2,bottom,0,[],Ricky Nolasco,3,0,1,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,0,N/A,N/A,N/A
+3,top,0,[],Tim Hudson,1,0,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,0,N/A,N/A,N/A
+3,top,0,[],Tim Hudson,2,0,0,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+3,top,0,[],Tim Hudson,3,0,2,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,1,2,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,2,0,1,Tim Hudson,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,2,4,1,Omar Infante,['Omar Infante'],['N/A'],['N/A'],Walk,N/A,6,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,2,4,2,Jason Heyward,['Jason Heyward'],['Omar Infante'],['N/A'],Walk,N/A,6,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,2,1,0,Martin Prado,['N/A'],['Jason Heyward'],['Omar Infante'],Wild Pitch,N/A,6,0,N/A,N/A,N/A
+3,bottom,2,"['Omar Infante', 'Jason Heyward']",Andrew Miller,2,1,1,Martin Prado,['Martin Prado'],['Jason Heyward'],['Omar Infante'],Single,N/A,8,0,2,N/A,N/A
+3,bottom,0,[],Andrew Miller,3,0,2,Brian McCann,['N/A'],['N/A'],['N/A'],Single,N/A,8,0,N/A,N/A,N/A
+4,top,0,[],Tim Hudson,0,0,0,Dan Uggla,['Dan Uggla'],['N/A'],['N/A'],Single,N/A,8,0,N/A,N/A,N/A
+4,top,0,[],Tim Hudson,0,0,0,Gaby Sanchez,['N/A'],['Gaby Sanchez'],['Dan Uggla'],Double,N/A,8,0,N/A,N/A,N/A
+4,top,0,[],Tim Hudson,1,2,2,Chad Tracy,['Chad Tracy'],['N/A'],['Gaby Sanchez'],Fielders Choice Out,N/A,8,0,N/A,N/A,N/A
+4,top,1,['Gaby Sanchez'],Tim Hudson,2,1,0,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,8,1,1,N/A,N/A
+4,top,0,[],Tim Hudson,3,1,3,Brett Hayes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,1,N/A,N/A,N/A
+4,bottom,1,[],Andrew Miller,0,3,2,Eric Hinske,['N/A'],['N/A'],['N/A'],Home Run,N/A,9,1,1,N/A,N/A
+4,bottom,0,[],Andrew Miller,0,0,2,Matt Diaz,['Matt Diaz'],['N/A'],['N/A'],Single,N/A,9,1,N/A,N/A,N/A
+4,bottom,0,[],Andrew Miller,0,1,0,Alex Gonzalez,['N/A'],['Matt Diaz'],['N/A'],Wild Pitch,N/A,9,1,N/A,N/A,N/A
+4,bottom,0,[],Andrew Miller,1,1,0,Alex Gonzalez,['N/A'],['Matt Diaz'],['Matt Diaz'],Groundout,N/A,9,1,N/A,N/A,N/A
+4,bottom,0,[],Andrew Miller,1,4,0,Melky Cabrera,['Melky Cabrera'],['N/A'],['N/A'],Intent Walk,N/A,9,1,N/A,N/A,N/A
+4,bottom,1,['Matt Diaz'],Andrew Miller,1,1,2,Tim Hudson,['Tim Hudson'],['Melky Cabrera'],['N/A'],Field Error,N/A,10,1,N/A,1,Logan Morrison
+4,bottom,0,[],Andrew Miller,3,1,0,Omar Infante,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,10,1,N/A,N/A,N/A
+5,top,0,[],Tim Hudson,1,1,3,Andrew Miller,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+5,top,0,[],Tim Hudson,1,0,2,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Single,N/A,10,1,N/A,N/A,N/A
+5,top,0,[],Tim Hudson,2,1,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+5,top,0,[],Tim Hudson,3,2,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,10,1,N/A,N/A,N/A
+5,bottom,0,[],Andrew Miller,1,1,2,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,10,1,N/A,N/A,N/A
+5,bottom,0,[],Andrew Miller,2,1,3,Martin Prado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+5,bottom,0,[],Andrew Miller,3,0,1,David Ross,['N/A'],['N/A'],['N/A'],Pop Out,N/A,10,1,N/A,N/A,N/A
+6,top,0,[],Tim Hudson,1,1,3,Dan Uggla,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+6,top,0,[],Tim Hudson,2,0,0,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,10,1,N/A,N/A,N/A
+6,top,0,[],Tim Hudson,2,1,1,Chad Tracy,['N/A'],['Chad Tracy'],['N/A'],Double,N/A,10,1,N/A,N/A,N/A
+6,top,0,[],Tim Hudson,3,3,3,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+6,bottom,0,[],Andrew Miller,0,0,1,Eric Hinske,['Eric Hinske'],['N/A'],['N/A'],Single,N/A,10,1,N/A,N/A,N/A
+6,bottom,0,[],Andrew Miller,1,0,0,Matt Diaz,['Matt Diaz'],['N/A'],['N/A'],Forceout,N/A,10,1,N/A,N/A,N/A
+6,bottom,0,[],Andrew Miller,2,1,2,Alex Gonzalez,['N/A'],['Matt Diaz'],['N/A'],Groundout,N/A,10,1,N/A,N/A,N/A
+6,bottom,0,[],Andrew Miller,3,3,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,10,1,N/A,N/A,N/A
+7,top,0,[],Tim Hudson,1,1,3,Brett Hayes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+7,top,0,[],Tim Hudson,2,3,3,Wes Helms,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+7,top,0,[],Tim Hudson,3,2,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+7,bottom,0,[],Burke Badenhop,0,1,1,Rick Ankiel,['N/A'],['Rick Ankiel'],['N/A'],Double,N/A,10,1,N/A,N/A,N/A
+7,bottom,0,[],Burke Badenhop,1,1,2,Omar Infante,['N/A'],['N/A'],['Rick Ankiel'],Groundout,N/A,10,1,N/A,N/A,N/A
+7,bottom,0,[],Burke Badenhop,2,3,3,Jason Heyward,['N/A'],['N/A'],['N/A'],Strikeout,N/A,10,1,N/A,N/A,N/A
+7,bottom,2,['Rick Ankiel'],Burke Badenhop,2,0,2,Martin Prado,['N/A'],['N/A'],['N/A'],Home Run,N/A,12,1,2,N/A,N/A
+7,bottom,0,[],Burke Badenhop,3,1,3,David Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,12,1,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,0,4,0,Logan Morrison,['Logan Morrison'],['N/A'],['N/A'],Walk,N/A,12,1,N/A,N/A,N/A
+8,top,1,['Logan Morrison'],Eric O'Flaherty,0,0,1,Donnie Murphy,['N/A'],['Donnie Murphy'],['N/A'],Double,N/A,12,2,1,N/A,N/A
+8,top,0,[],Eric O'Flaherty,1,1,1,Hector Luna,['N/A'],['N/A'],['N/A'],Flyout,N/A,12,2,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,2,1,3,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,12,2,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,3,0,1,Chad Tracy,['N/A'],['N/A'],['N/A'],Flyout,N/A,12,2,N/A,N/A,N/A
+8,bottom,0,[],Clay Hensley,1,1,3,Eric Hinske,['N/A'],['N/A'],['N/A'],Strikeout,N/A,12,2,N/A,N/A,N/A
+8,bottom,0,[],Clay Hensley,2,0,2,Matt Diaz,['N/A'],['N/A'],['N/A'],Groundout,N/A,12,2,N/A,N/A,N/A
+8,bottom,0,[],Clay Hensley,3,3,1,Diory Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,12,2,N/A,N/A,N/A
+9,top,0,[],Kyle Farnsworth,1,1,1,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Flyout,N/A,12,2,N/A,N/A,N/A
+9,top,0,[],Kyle Farnsworth,1,0,2,Brett Hayes,['N/A'],['N/A'],['Brett Hayes'],Triple,N/A,12,2,N/A,N/A,N/A
+9,top,1,['Brett Hayes'],Kyle Farnsworth,1,2,2,Brad Davis,['Brad Davis'],['N/A'],['N/A'],Single,N/A,12,3,1,N/A,N/A
+9,top,0,[],Kyle Farnsworth,2,0,1,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Forceout,N/A,12,3,N/A,N/A,N/A
+9,top,0,[],Kyle Farnsworth,3,1,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,12,3,N/A,N/A,N/A

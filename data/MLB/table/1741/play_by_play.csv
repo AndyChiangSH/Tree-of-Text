@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Walker Buehler,1,1,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Walker Buehler,1,4,2,A.J. Pollock,['A.J. Pollock'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Walker Buehler,2,0,1,David Peralta,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Walker Buehler,2,1,1,Paul Goldschmidt,['Paul Goldschmidt'],['A.J. Pollock'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Walker Buehler,3,1,3,Eduardo Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,1,0,0,Joc Pederson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,2,0,1,Justin Turner,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Clay Buchholz,3,2,0,Manny Machado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Walker Buehler,1,1,3,Daniel Descalso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Walker Buehler,2,0,3,Ketel Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Walker Buehler,3,3,2,Alex Avila,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,1,3,3,Cody Bellinger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,2,0,2,Brian Dozier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Clay Buchholz,3,0,3,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Walker Buehler,0,4,2,Clay Buchholz,['Clay Buchholz'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Walker Buehler,1,2,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Walker Buehler,2,0,1,A.J. Pollock,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Walker Buehler,3,1,2,David Peralta,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,1,2,1,Max Muncy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,2,0,2,Enrique Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,2,2,2,Walker Buehler,['Walker Buehler'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,2,0,2,Joc Pederson,['Joc Pederson'],['Walker Buehler'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,2,4,2,Justin Turner,['Justin Turner'],['Joc Pederson'],['Walker Buehler'],Walk,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Clay Buchholz,3,1,2,Manny Machado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Walker Buehler,1,3,3,Paul Goldschmidt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Walker Buehler,2,1,3,Eduardo Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Walker Buehler,3,0,3,Daniel Descalso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,1,2,3,Cody Bellinger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,2,1,0,Brian Dozier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Clay Buchholz,3,2,3,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Walker Buehler,1,1,1,Ketel Marte,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Walker Buehler,2,3,2,Alex Avila,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Walker Buehler,3,0,3,Clay Buchholz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,bottom,1,[],Clay Buchholz,0,2,2,Max Muncy,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+5,bottom,0,[],Clay Buchholz,1,2,1,Enrique Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,1,3,1,Walker Buehler,['Walker Buehler'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,1,0,0,Joc Pederson,['Joc Pederson'],['Walker Buehler'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Clay Buchholz,3,0,2,Justin Turner,['N/A'],['N/A'],['N/A'],Double Play,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Walker Buehler,1,0,1,Jon Jay,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Walker Buehler,2,1,1,A.J. Pollock,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Walker Buehler,3,0,0,David Peralta,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],Clay Buchholz,0,4,2,Manny Machado,['Manny Machado'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],T.J. McFarland,0,0,0,Cody Bellinger,['Cody Bellinger'],['Manny Machado'],['N/A'],Field Error,N/A,1,0,N/A,N/A,Eduardo Escobar
+6,bottom,0,[],T.J. McFarland,1,3,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],T.J. McFarland,2,2,3,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+6,bottom,0,[],T.J. McFarland,3,2,3,Max Muncy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Walker Buehler,0,2,2,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Walker Buehler,1,3,2,Eduardo Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Walker Buehler,1,4,2,Daniel Descalso,['Daniel Descalso'],['Paul Goldschmidt'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+7,top,0,[],Ryan Madson,1,4,0,Ketel Marte,['Ketel Marte'],['Daniel Descalso'],['Paul Goldschmidt'],Walk,N/A,1,0,N/A,N/A,N/A
+7,top,1,['Paul Goldschmidt'],Ryan Madson,2,0,0,Alex Avila,['N/A'],['Ketel Marte'],['Daniel Descalso'],Sac Fly,N/A,1,1,1,N/A,N/A
+7,top,0,[],Ryan Madson,3,3,3,Socrates Brito,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Silvino Bracho,0,4,1,Enrique Hernandez,['Enrique Hernandez'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Jake Diekman,1,0,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Yoshihisa Hirano,2,1,3,David Freese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Yoshihisa Hirano,3,0,0,Justin Turner,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Caleb Ferguson,0,4,2,Steven Souza Jr.,['Steven Souza Jr.'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Caleb Ferguson,0,1,1,A.J. Pollock,['A.J. Pollock'],['Steven Souza Jr.'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Caleb Ferguson,2,1,1,David Peralta,['N/A'],['N/A'],['Steven Souza Jr.'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Caleb Ferguson,2,4,0,Paul Goldschmidt,['Paul Goldschmidt'],['N/A'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Caleb Ferguson,3,0,3,Eduardo Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Yoshihisa Hirano,1,2,1,Manny Machado,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Andrew Chafin,2,1,0,Cody Bellinger,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Andrew Chafin,3,3,1,Brian Dozier,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+9,top,1,[],Caleb Ferguson,0,1,1,Daniel Descalso,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,1,N/A,N/A
+9,top,0,[],Kenley Jansen,1,0,0,Ketel Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,1,1,2,Alex Avila,['N/A'],['Alex Avila'],['N/A'],Double,N/A,1,2,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,2,0,0,Nick Ahmed,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+9,top,0,[],Kenley Jansen,3,0,3,Steven Souza Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Brad Boxberger,0,4,1,Alex Verdugo,['Alex Verdugo'],['N/A'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Brad Boxberger,0,4,2,Max Muncy,['Max Muncy'],['Alex Verdugo'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+9,bottom,0,[],Brad Boxberger,1,0,0,Enrique Hernandez,['N/A'],['Tim Locastro'],['Alex Verdugo'],Sac Bunt,N/A,1,2,N/A,N/A,N/A
+9,bottom,2,"['Alex Verdugo', 'Tim Locastro']",Archie Bradley,1,0,0,Matt Kemp,['N/A'],['Matt Kemp'],['N/A'],Double,N/A,3,2,2,N/A,N/A

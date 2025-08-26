@@ -1,0 +1,93 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Matt Harrison,1,2,2,Rafael Furcal,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,1,[],Matt Harrison,1,0,1,Allen Craig,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Matt Harrison,2,2,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Matt Harrison,2,2,1,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Matt Harrison,3,1,2,Lance Berkman,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Lohse,1,2,3,Ian Kinsler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Lohse,2,3,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Lohse,3,2,1,Josh Hamilton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Matt Harrison,1,3,3,David Freese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Matt Harrison,2,0,0,Yadier Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Matt Harrison,3,1,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Lohse,1,2,2,Michael Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Lohse,1,1,2,Adrian Beltre,['Adrian Beltre'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Lohse,1,4,2,Nelson Cruz,['Nelson Cruz'],['Adrian Beltre'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Lohse,2,2,2,Mike Napoli,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Lohse,3,1,1,David Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Matt Harrison,0,1,1,Ryan Theriot,['Ryan Theriot'],['N/A'],['N/A'],Field Error,N/A,0,1,N/A,N/A,Ian Kinsler
+3,top,0,[],Matt Harrison,2,2,1,Rafael Furcal,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Matt Harrison,3,2,3,Allen Craig,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Lohse,1,2,3,Yorvit Torrealba,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Lohse,1,4,2,Ian Kinsler,['Ian Kinsler'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Lohse,2,1,1,Elvis Andrus,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Lohse,3,3,2,Josh Hamilton,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Matt Harrison,0,2,2,Albert Pujols,['Albert Pujols'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Matt Harrison,1,2,0,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Matt Harrison,1,2,1,Lance Berkman,['Lance Berkman'],['Matt Holliday'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,top,1,['Matt Holliday'],Matt Harrison,1,2,2,David Freese,['N/A'],['David Freese'],['Lance Berkman'],Double,N/A,0,2,1,N/A,N/A
+4,top,0,[],Matt Harrison,1,4,0,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Intent Walk,N/A,0,2,N/A,N/A,N/A
+4,top,2,"['Lance Berkman', 'David Freese']",Matt Harrison,1,0,1,Jon Jay,['N/A'],['Jon Jay'],['Yadier Molina'],Field Error,N/A,0,4,N/A,2,Mike Napoli
+4,top,1,['Yadier Molina'],Matt Harrison,1,2,2,Ryan Theriot,['Ryan Theriot'],['N/A'],['Jon Jay'],Single,N/A,0,5,1,N/A,N/A
+4,top,0,[],Matt Harrison,2,1,0,Rafael Furcal,['Rafael Furcal'],['Ryan Theriot'],['N/A'],Fielders Choice Out,N/A,0,5,N/A,N/A,N/A
+4,top,0,[],Scott Feldman,3,3,1,Allen Craig,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+4,bottom,1,[],Kyle Lohse,0,1,0,Michael Young,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,5,1,N/A,N/A
+4,bottom,0,[],Kyle Lohse,0,0,0,Adrian Beltre,['Adrian Beltre'],['N/A'],['N/A'],Single,N/A,1,5,N/A,N/A,N/A
+4,bottom,2,['Adrian Beltre'],Kyle Lohse,0,1,1,Nelson Cruz,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,2,N/A,N/A
+4,bottom,0,[],Kyle Lohse,0,3,2,Mike Napoli,['Mike Napoli'],['N/A'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+4,bottom,0,[],Fernando Salas,1,0,0,David Murphy,['N/A'],['Mike Napoli'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+4,bottom,0,[],Fernando Salas,1,1,2,Yorvit Torrealba,['Yorvit Torrealba'],['N/A'],['Mike Napoli'],Single,N/A,3,5,N/A,N/A,N/A
+4,bottom,0,[],Fernando Salas,3,1,0,Ian Kinsler,['N/A'],['N/A'],['N/A'],Double Play,N/A,3,5,N/A,N/A,N/A
+5,top,0,[],Scott Feldman,0,0,1,Albert Pujols,['Albert Pujols'],['N/A'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+5,top,0,[],Scott Feldman,0,4,1,Matt Holliday,['Matt Holliday'],['Albert Pujols'],['N/A'],Walk,N/A,3,5,N/A,N/A,N/A
+5,top,0,[],Scott Feldman,0,4,1,Lance Berkman,['Lance Berkman'],['Matt Holliday'],['Albert Pujols'],Walk,N/A,3,5,N/A,N/A,N/A
+5,top,1,['Albert Pujols'],Scott Feldman,1,0,0,David Freese,['N/A'],['Lance Berkman'],['Matt Holliday'],Groundout,N/A,3,6,1,N/A,N/A
+5,top,2,"['Matt Holliday', 'Lance Berkman']",Scott Feldman,1,1,1,Yadier Molina,['N/A'],['Yadier Molina'],['N/A'],Double,N/A,3,8,2,N/A,N/A
+5,top,0,[],Scott Feldman,2,0,0,Jon Jay,['Jon Jay'],['N/A'],['N/A'],Fielders Choice Out,N/A,3,8,N/A,N/A,N/A
+5,top,0,[],Scott Feldman,3,1,1,Ryan Theriot,['N/A'],['N/A'],['N/A'],Runner Out,N/A,3,8,N/A,N/A,N/A
+5,bottom,0,[],Fernando Salas,0,0,0,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Single,N/A,3,8,N/A,N/A,N/A
+5,bottom,0,[],Fernando Salas,0,0,0,Josh Hamilton,['Josh Hamilton'],['N/A'],['Elvis Andrus'],Single,N/A,3,8,N/A,N/A,N/A
+5,bottom,1,['Elvis Andrus'],Fernando Salas,0,3,1,Michael Young,['N/A'],['Michael Young'],['Josh Hamilton'],Double,N/A,4,8,1,N/A,N/A
+5,bottom,1,['Josh Hamilton'],Lance Lynn,0,1,2,Adrian Beltre,['Adrian Beltre'],['N/A'],['Michael Young'],Single,N/A,5,8,1,N/A,N/A
+5,bottom,0,[],Lance Lynn,1,0,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,8,N/A,N/A,N/A
+5,bottom,1,['Michael Young'],Lance Lynn,2,2,2,Mike Napoli,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,6,8,1,N/A,N/A
+5,bottom,0,[],Lance Lynn,2,4,0,David Murphy,['David Murphy'],['Adrian Beltre'],['N/A'],Walk,N/A,6,8,N/A,N/A,N/A
+5,bottom,0,[],Lance Lynn,2,4,2,Yorvit Torrealba,['Yorvit Torrealba'],['David Murphy'],['Adrian Beltre'],Walk,N/A,6,8,N/A,N/A,N/A
+5,bottom,0,[],Lance Lynn,3,2,2,Ian Kinsler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,8,N/A,N/A,N/A
+6,top,0,[],Alexi Ogando,0,4,2,Ryan Theriot,['Ryan Theriot'],['N/A'],['N/A'],Walk,N/A,6,8,N/A,N/A,N/A
+6,top,0,[],Alexi Ogando,0,1,2,Rafael Furcal,['Rafael Furcal'],['Ryan Theriot'],['N/A'],Single,N/A,6,8,N/A,N/A,N/A
+6,top,0,[],Alexi Ogando,1,2,3,Allen Craig,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,8,N/A,N/A,N/A
+6,top,3,"['Ryan Theriot', 'Rafael Furcal']",Alexi Ogando,1,1,1,Albert Pujols,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,11,3,N/A,N/A
+6,top,0,[],Alexi Ogando,1,1,0,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Field Error,N/A,6,11,N/A,N/A,Elvis Andrus
+6,top,0,[],Alexi Ogando,1,3,2,Lance Berkman,['Lance Berkman'],['Matt Holliday'],['N/A'],Single,N/A,6,11,N/A,N/A,N/A
+6,top,0,[],Alexi Ogando,1,4,2,David Freese,['David Freese'],['Lance Berkman'],['Matt Holliday'],Walk,N/A,6,11,N/A,N/A,N/A
+6,top,1,['Matt Holliday'],Michael Gonzalez,2,0,0,Yadier Molina,['N/A'],['N/A'],['Lance Berkman'],Sac Fly,N/A,6,12,1,N/A,N/A
+6,top,0,[],Michael Gonzalez,3,0,0,Jon Jay,['N/A'],['N/A'],['N/A'],Forceout,N/A,6,12,N/A,N/A,N/A
+6,bottom,0,[],Lance Lynn,0,2,1,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Single,N/A,6,12,N/A,N/A,N/A
+6,bottom,0,[],Lance Lynn,2,0,1,Josh Hamilton,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,12,N/A,N/A,N/A
+6,bottom,0,[],Lance Lynn,3,1,3,Michael Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,12,N/A,N/A,N/A
+7,top,0,[],Michael Gonzalez,1,2,1,Ryan Theriot,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,12,N/A,N/A,N/A
+7,top,0,[],Michael Gonzalez,2,2,1,Rafael Furcal,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,12,N/A,N/A,N/A
+7,top,0,[],Michael Gonzalez,2,4,1,Allen Craig,['Allen Craig'],['N/A'],['N/A'],Walk,N/A,6,12,N/A,N/A,N/A
+7,top,2,['Allen Craig'],Michael Gonzalez,2,0,0,Albert Pujols,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,14,2,N/A,N/A
+7,top,0,[],Michael Gonzalez,3,1,1,Matt Holliday,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,14,N/A,N/A,N/A
+7,bottom,0,[],Lance Lynn,0,1,2,Adrian Beltre,['N/A'],['Adrian Beltre'],['N/A'],Double,N/A,6,14,N/A,N/A,N/A
+7,bottom,0,[],Lance Lynn,1,2,0,Nelson Cruz,['N/A'],['N/A'],['Adrian Beltre'],Flyout,N/A,6,14,N/A,N/A,N/A
+7,bottom,1,['Adrian Beltre'],Octavio Dotel,2,3,2,Mike Napoli,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,7,14,1,N/A,N/A
+7,bottom,0,[],Octavio Dotel,3,0,1,David Murphy,['N/A'],['N/A'],['N/A'],Lineout,N/A,7,14,N/A,N/A,N/A
+8,top,0,[],Mark Lowe,1,3,3,Lance Berkman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,14,N/A,N/A,N/A
+8,top,0,[],Mark Lowe,1,1,0,David Freese,['David Freese'],['N/A'],['N/A'],Single,N/A,7,14,N/A,N/A,N/A
+8,top,1,['Daniel Descalso'],Mark Lowe,1,1,2,Yadier Molina,['N/A'],['Yadier Molina'],['N/A'],Double,N/A,7,15,1,N/A,N/A
+8,top,0,[],Mark Lowe,2,2,1,Jon Jay,['N/A'],['N/A'],['Yadier Molina'],Groundout,N/A,7,15,N/A,N/A,N/A
+8,top,0,[],Mark Lowe,3,2,2,Ryan Theriot,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,15,N/A,N/A,N/A
+8,bottom,0,[],Octavio Dotel,0,1,2,Yorvit Torrealba,['Yorvit Torrealba'],['N/A'],['N/A'],Single,N/A,7,15,N/A,N/A,N/A
+8,bottom,0,[],Octavio Dotel,1,2,2,Ian Kinsler,['Ian Kinsler'],['N/A'],['N/A'],Forceout,N/A,7,15,N/A,N/A,N/A
+8,bottom,0,[],Octavio Dotel,2,0,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,15,N/A,N/A,N/A
+8,bottom,0,[],Octavio Dotel,3,0,0,Josh Hamilton,['N/A'],['N/A'],['N/A'],Forceout,N/A,7,15,N/A,N/A,N/A
+9,top,0,[],Darren Oliver,1,0,3,Rafael Furcal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,15,N/A,N/A,N/A
+9,top,0,[],Darren Oliver,2,0,1,Allen Craig,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,15,N/A,N/A,N/A
+9,top,1,[],Darren Oliver,2,2,2,Albert Pujols,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,16,1,N/A,N/A
+9,top,0,[],Darren Oliver,3,2,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,16,N/A,N/A,N/A
+9,bottom,0,[],Mitchell Boggs,1,0,1,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,16,N/A,N/A,N/A
+9,bottom,0,[],Mitchell Boggs,2,0,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,16,N/A,N/A,N/A
+9,bottom,0,[],Mitchell Boggs,3,0,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,16,N/A,N/A,N/A

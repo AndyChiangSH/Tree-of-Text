@@ -1,0 +1,89 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Justin Masterson,0,2,2,Julio Borbon,['Julio Borbon'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,0,0,1,Michael Young,['N/A'],['Julio Borbon'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Justin Masterson,1,1,3,Michael Young,['N/A'],['Julio Borbon'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Julio Borbon'],Justin Masterson,1,1,0,Josh Hamilton,['N/A'],['Josh Hamilton'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+1,top,0,[],Justin Masterson,2,2,3,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Justin Masterson,3,2,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Colby Lewis,1,3,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Colby Lewis,1,4,2,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Colby Lewis,1,4,2,Shin-Soo Choo,['Shin-Soo Choo'],['Grady Sizemore'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Colby Lewis,1,0,2,Travis Hafner,['Travis Hafner'],['Shin-Soo Choo'],['Grady Sizemore'],Hit By Pitch,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Colby Lewis,2,3,3,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Colby Lewis,3,1,3,Matt LaPorta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Justin Masterson,0,2,0,Chris Davis,['N/A'],['Chris Davis'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Justin Masterson,1,2,3,Matt Treanor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Justin Masterson,2,0,2,Joaquin Arias,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,1,['Chris Davis'],Justin Masterson,2,2,0,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+2,top,0,[],Justin Masterson,3,1,2,Julio Borbon,['N/A'],['Elvis Andrus'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Colby Lewis,1,1,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Colby Lewis,2,2,3,Lou Marson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Colby Lewis,3,3,3,Michael Brantley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Justin Masterson,0,0,0,Michael Young,['N/A'],['Michael Young'],['N/A'],Field Error,N/A,0,2,N/A,N/A,Jhonny Peralta
+3,top,0,[],Justin Masterson,0,0,0,Josh Hamilton,['Josh Hamilton'],['N/A'],['Michael Young'],Single,N/A,0,2,N/A,N/A,N/A
+3,top,1,['Michael Young'],Justin Masterson,1,1,2,Vladimir Guerrero,['N/A'],['Josh Hamilton'],['N/A'],Groundout,N/A,0,3,1,N/A,N/A
+3,top,1,[],Justin Masterson,2,2,1,Nelson Cruz,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,1,N/A,N/A
+3,top,0,[],Justin Masterson,2,1,0,Chris Davis,['N/A'],['Chris Davis'],['N/A'],Double,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Justin Masterson,2,2,2,Matt Treanor,['Matt Treanor'],['N/A'],['Chris Davis'],Single,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Justin Masterson,3,2,3,Joaquin Arias,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Colby Lewis,1,1,3,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Colby Lewis,2,1,3,Grady Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Colby Lewis,2,0,0,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Colby Lewis,2,4,2,Travis Hafner,['Travis Hafner'],['Shin-Soo Choo'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Colby Lewis,3,3,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Justin Masterson,0,3,2,Elvis Andrus,['Elvis Andrus'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],N/A,0,0,1,Julio Borbon,['N/A'],['Elvis Andrus'],['N/A'],Stolen Base 2B,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Justin Masterson,1,0,1,Julio Borbon,['N/A'],['Elvis Andrus'],['Elvis Andrus'],Sac Bunt,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Justin Masterson,2,0,0,Michael Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Justin Masterson,3,1,2,Josh Hamilton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Colby Lewis,1,1,2,Matt LaPorta,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Colby Lewis,2,3,3,Luis Valbuena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],Colby Lewis,3,0,3,Lou Marson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Justin Masterson,1,0,1,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Justin Masterson,2,3,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Justin Masterson,3,2,2,Chris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Colby Lewis,1,3,3,Michael Brantley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Colby Lewis,2,0,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Colby Lewis,2,0,2,Grady Sizemore,['N/A'],['Grady Sizemore'],['N/A'],Double,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],Colby Lewis,3,1,0,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Justin Masterson,1,3,3,Matt Treanor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Justin Masterson,2,1,3,Joaquin Arias,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,top,0,[],Justin Masterson,3,1,3,Elvis Andrus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Colby Lewis,1,0,3,Travis Hafner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Colby Lewis,1,4,2,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Walk,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Colby Lewis,1,0,1,Matt LaPorta,['Matt LaPorta'],['Jhonny Peralta'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Dustin Nippert,1,3,2,Luis Valbuena,['N/A'],['N/A'],['Jhonny Peralta'],Wild Pitch,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Dustin Nippert,1,4,2,Luis Valbuena,['Luis Valbuena'],['Matt LaPorta'],['Jhonny Peralta'],Walk,N/A,0,4,N/A,N/A,N/A
+6,bottom,0,[],Dustin Nippert,2,2,2,Lou Marson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+6,bottom,2,"['Jhonny Peralta', 'Matt LaPorta']",Dustin Nippert,2,2,2,Michael Brantley,['N/A'],['Michael Brantley'],['Luis Valbuena'],Fan interference,N/A,2,4,2,N/A,N/A
+6,bottom,0,[],Dustin Nippert,3,0,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Aaron Laffey,1,0,0,Julio Borbon,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Aaron Laffey,2,1,2,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Aaron Laffey,2,3,2,Josh Hamilton,['Josh Hamilton'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+7,top,0,[],Aaron Laffey,3,0,1,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Darren Oliver,0,0,1,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Hit By Pitch,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Darren Oliver,0,1,1,Shin-Soo Choo,['Shin-Soo Choo'],['Grady Sizemore'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Darren Oliver,1,2,2,Travis Hafner,['Travis Hafner'],['N/A'],['Grady Sizemore'],Forceout,N/A,2,4,N/A,N/A,N/A
+7,bottom,0,[],Darren Oliver,3,3,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Aaron Laffey,1,2,1,Nelson Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Aaron Laffey,2,1,3,Chris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Aaron Laffey,2,1,1,Matt Treanor,['Matt Treanor'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Aaron Laffey,2,2,2,Joaquin Arias,['Joaquin Arias'],['Matt Treanor'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+8,top,0,[],Aaron Laffey,2,1,1,Elvis Andrus,['Elvis Andrus'],['Joaquin Arias'],['Matt Treanor'],Single,N/A,2,4,N/A,N/A,N/A
+8,top,2,"['Matt Treanor', 'Joaquin Arias']",Aaron Laffey,2,0,1,Julio Borbon,['Julio Borbon'],['Elvis Andrus'],['N/A'],Single,N/A,2,6,2,N/A,N/A
+8,top,0,[],Joe Smith,3,1,0,Michael Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Chris Ray,1,2,3,Matt LaPorta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Chris Ray,2,0,2,Luis Valbuena,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Chris Ray,2,4,2,Lou Marson,['Lou Marson'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,2,1,Michael Brantley,['N/A'],['Lou Marson'],['N/A'],Stolen Base 2B,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Chris Ray,2,4,2,Michael Brantley,['Michael Brantley'],['Lou Marson'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Neftali Feliz,3,1,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Tony Sipp,0,4,2,Josh Hamilton,['Josh Hamilton'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Tony Sipp,0,1,0,Vladimir Guerrero,['Vladimir Guerrero'],['Josh Hamilton'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Tony Sipp,1,1,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Tony Sipp,2,0,3,Chris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Tony Sipp,3,3,3,Matt Treanor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Neftali Feliz,1,1,3,Grady Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Neftali Feliz,1,4,1,Shin-Soo Choo,['Shin-Soo Choo'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Neftali Feliz,2,1,2,Travis Hafner,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Neftali Feliz,3,0,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A

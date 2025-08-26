@@ -1,0 +1,67 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mike Pelfrey,1,3,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Pelfrey,2,1,1,Todd Helton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Pelfrey,3,3,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,1,1,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,1,4,2,Fernando Martinez,['Fernando Martinez'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,2,3,3,Angel Pagan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,3,0,0,David Wright,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,1,3,2,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,1,4,2,Brad Hawpe,['Brad Hawpe'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,1,1,1,Ian Stewart,['Ian Stewart'],['Brad Hawpe'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,2,1,2,Miguel Olivo,['Miguel Olivo'],['N/A'],['Brad Hawpe'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,3,0,0,Clint Barmes,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,1,0,3,Ike Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,2,1,1,Chris Carter,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,3,1,0,Josh Thole,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,1,0,3,Ubaldo Jimenez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,1,2,2,Dexter Fowler,['Dexter Fowler'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,2,2,2,Todd Helton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,3,0,1,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,1,1,1,Ruben Tejada,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,2,1,2,Mike Pelfrey,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,3,1,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,1,2,1,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,2,0,1,Brad Hawpe,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,3,1,2,Ian Stewart,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,0,2,2,Fernando Martinez,['Fernando Martinez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,1,0,3,Angel Pagan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,2,0,1,David Wright,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,3,1,3,Ike Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,0,1,2,Miguel Olivo,['Miguel Olivo'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],N/A,0,1,1,Clint Barmes,['N/A'],['Miguel Olivo'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,1,3,2,Clint Barmes,['N/A'],['Miguel Olivo'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,2,1,3,Ubaldo Jimenez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,3,2,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,0,2,2,Chris Carter,['Chris Carter'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,2,3,3,Josh Thole,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,3,1,1,Ruben Tejada,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,1,3,2,Todd Helton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,1,1,2,Carlos Gonzalez,['N/A'],['Carlos Gonzalez'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,2,0,1,Troy Tulowitzki,['N/A'],['N/A'],['Carlos Gonzalez'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,3,3,2,Brad Hawpe,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,0,3,2,Mike Pelfrey,['Mike Pelfrey'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,1,0,2,Jose Reyes,['Jose Reyes'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,1,0,2,Fernando Martinez,['Fernando Martinez'],['Jose Reyes'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,2,0,1,Angel Pagan,['N/A'],['Fernando Martinez'],['Jose Reyes'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,2,4,0,David Wright,['David Wright'],['N/A'],['N/A'],Intent Walk,N/A,0,0,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,3,2,3,Ike Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Mike Pelfrey,1,2,2,Ian Stewart,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Mike Pelfrey,2,2,2,Miguel Olivo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+7,top,0,[],Mike Pelfrey,3,2,2,Clint Barmes,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Ubaldo Jimenez,0,4,0,Chris Carter,['Chris Carter'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Ubaldo Jimenez,0,1,0,Josh Thole,['Jeff Francoeur'],['Josh Thole'],['Jeff Francoeur'],Double,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Ubaldo Jimenez,1,3,3,Ruben Tejada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+7,bottom,0,[],Ubaldo Jimenez,1,4,0,Carlos Beltran,['Carlos Beltran'],['N/A'],['N/A'],Intent Walk,N/A,0,0,N/A,N/A,N/A
+7,bottom,1,['Jeff Francoeur'],Ubaldo Jimenez,2,2,2,Jose Reyes,['N/A'],['N/A'],['Josh Thole'],Sac Fly,N/A,1,0,1,N/A,N/A
+7,bottom,0,[],Ubaldo Jimenez,3,3,3,Fernando Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Hisanori Takahashi,1,0,1,Melvin Mora,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Hisanori Takahashi,2,1,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+8,top,0,[],Hisanori Takahashi,3,2,2,Todd Helton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Joe Beimel,1,2,2,Angel Pagan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Joe Beimel,2,2,2,David Wright,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Joe Beimel,2,4,2,Ike Davis,['Ike Davis'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+8,bottom,0,[],Rafael Betancourt,3,0,3,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,1,2,2,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,2,2,3,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,3,3,2,Brad Hawpe,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A

@@ -1,0 +1,57 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+11,Millwood,4,0,2,P,0,22,0,0,0,Kevin Millwood,2,,1.000,0,.000,1,59,0,Kevin,0,2,,1,0,6,,0,.000,0,,,0,60,,1,5.84,0,18,0,1,98,0,0,0,0,0,Orioles,0,.000,0,.000
+,Lugo,,,,,,,,,,Julio Lugo,,,,,,,,,Julio,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Patterson,,,,,,,,,,Corey Patterson,,,,,,,,,Corey,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Gonzalez,,,,,,,,,,Michael Gonzalez,,,,,,,,,Michael,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Izturis,,0,,SS,0,,0,0,3,Cesar Izturis,,4,1.000,,.243,,,2,Cesar,,,,,3,,,0,.571,,800,,0,,,4,,0,,0,,,0,0,0,0,0,Orioles,0,.280,0,.291
+,Roberts,,0,,2B,4,,0,0,4,Brian Roberts,,,1.000,,.238,,,0,Brian,,,,,3,,,0,.606,,100,,0,,,2,,0,,0,,,0,0,0,0,0,Orioles,0,.302,0,.304
+,Wigginton,,0,,1B,0,,0,0,4,Ty Wigginton,,2,1.000,,.257,,,1,Ty,,,,,12,,,0,.783,,300,,0,,,0,,0,,1,,,0,0,1,0,1,Orioles,0,.450,0,.333
+,Hendrickson,,,,,,,,,,Mark Hendrickson,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Guthrie,,,,,,,,,,Jeremy Guthrie,,,,,,,,,Jeremy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Montanez,,,,,,,,,,Luis Montanez,,,,,,,,,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Pie,,0,,LF,1,,0,0,4,Felix Pie,,2,1.000,,.278,,,1,Felix,,,,,1,,,0,.728,,600,,0,,,0,,0,,1,,,0,0,0,0,0,Orioles,0,.417,0,.311
+,Simon,,,,,,,,,,Alfredo Simon,,,,,,,,,Alfredo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Jones,,0,,CF,2,,0,0,4,Adam Jones,,,.000,,.278,,,1,Adam,,,,,0,,,0,.758,,500,,1,,,0,,0,,2,,,1,1,0,0,1,Orioles,0,.447,0,.311
+,Scott,,0,,DH,1,,0,0,4,Luke Scott,,,.000,,.289,,,2,Luke,,,,,0,,,0,.922,,400,,0,,,0,,0,,1,,,0,0,2,0,0,Orioles,0,.570,0,.352
+,Fox,,,,,,,,,,Jake Fox,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Wieters,,0,,C,0,,0,0,2,Matt Wieters,,2,1.000,,.246,,,2,Matt,,,,,4,,,1,.695,,700,,0,,,4,,0,,0,,,0,0,1,0,0,Orioles,0,.370,0,.325
+,Bergesen,,,,,,,,,,Brad Bergesen,,,,,,,,,Brad,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Matusz,,,,,,,,,,Brian Matusz,,,,,,,,,Brian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Arrieta,,,,,,,,,,Jake Arrieta,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Markakis,,0,,RF,1,,0,0,3,Nick Markakis,,,1.000,,.298,,,0,Nick,,,,,3,,,1,.826,,200,,0,,,1,,1,,1,,,0,1,1,0,0,Orioles,0,.448,0,.378
+,Hernandez,,,,,,,,,,David Hernandez,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+3,Albers,1,0,1,P,0,7,0,0,0,Matt Albers,3,,.000,2,.000,1,15,0,Matt,0,2,,0,0,1,2/3,0,.000,4,,,0,52,,0,4.80,0,5,0,0,28,0,0,0,0,0,Orioles,0,.000,0,.000
+,Bell,,0,,3B,1,,0,0,3,Josh Bell,,,.833,,.171,,,0,Josh,,,,,1,,,0,.366,,900,,1,,,4,,0,,0,,,0,0,2,0,0,Orioles,0,.195,0,.171
+3,Berken,4,0,1,P,0,8,0,0,0,Jason Berken,3,,.000,4,.000,2,15,0,Jason,0,2,,0,0,1,1/3,0,.000,7,,true,0,39,,0,3.06,0,4,0,2,26,0,0,0,0,0,Orioles,0,.000,0,.000
+,Patton,,,,,,,,,,Troy Patton,,,,,,,,,Troy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Johnson,,,,,,,,,,Jim Johnson,,,,,,,,,Jim,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Gabino,,,,,,,,,,Armando Gabino,,,,,,,,,Armando,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Uehara,,,,,,,,,,Koji Uehara,,,,,,,,,Koji,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Jones,,0,,RF,0,,0,0,0,Andruw Jones,,,.000,,.204,,,0,Andruw,,,,,0,,,0,.756,,501,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.444,0,.312
+,Konerko,,0,,1B,0,,0,0,4,Paul Konerko,,2,.875,,.303,,,1,Paul,,,,,7,,,0,.951,,400,,1,,,0,,0,,0,,,0,0,2,0,0,White Sox,0,.574,0,.377
+,Kotsay,,0,,DH,2,,0,0,4,Mark Kotsay,,1,.000,,.228,,,0,Mark,,,,,0,,,0,.682,,600,,0,,,0,,0,,1,,,0,0,0,0,0,White Sox,0,.376,0,.306
+,Vizquel,,1,,3B,1,,0,0,3,Omar Vizquel,,2,1.000,,.294,,,1,Omar,,,,,4,,,0,.716,,200,,0,,,1,,0,,1,,,0,0,0,0,0,White Sox,0,.351,0,.365
+,Castro,,0,,PR-C,0,,0,0,0,Ramon Castro,,,1.000,,.309,,,0,Ramon,,,,,2,,,1,.941,,801,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.559,0,.382
+,Garcia,,,,,,,,,,Freddy Garcia,,,,,,,,,Freddy,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Pierzynski,,0,,C,0,,0,0,3,A.J. Pierzynski,,1,1.000,,.235,,,0,A.J.,,,,,5,,,0,.621,,800,,0,,,0,,1,,2,,,0,0,0,0,1,White Sox,0,.349,0,.272
+,Linebrink,,,,,,,,,,Scott Linebrink,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Buehrle,,,,,,,,,,Mark Buehrle,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Pierre,,0,,LF,0,,0,0,4,Juan Pierre,,1,1.000,,.266,,,2,Juan,,,,,1,,,1,.640,,100,,0,,,1,,0,,1,,,0,1,2,0,0,White Sox,0,.305,0,.335
+2,Putz,0,0,0,P,0,4,0,0,0,J.J. Putz,5,,.000,1,.000,0,9,0,J.J.,3,1,true,0,0,1,,0,.000,13,,,0,54,,0,1.74,0,3,0,0,10,0,0,0,0,0,White Sox,0,.000,0,.000
+3,Thornton,0,0,0,P,0,3,0,0,0,Matt Thornton,3,,.000,2,.000,0,11,0,Matt,5,1,,0,0,1,,0,.000,19,,,0,54,,0,2.30,0,3,0,0,16,0,0,0,0,0,White Sox,0,.000,0,.000
+,Jenks,,,,,,,,,,Bobby Jenks,,,,,,,,,Bobby,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Threets,,,,,,,,,,Erick Threets,,,,,,,,,Erick,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Peavy,,,,,,,,,,Jake Peavy,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Rios,,0,,CF,1,,1,0,4,Alex Rios,,3,1.000,,.295,,,2,Alex,,,,,3,,,0,.824,,300,,0,,,0,,0,,1,,,0,0,0,0,1,White Sox,0,.481,0,.343
+8,Floyd,6,0,2,P,0,26,0,0,0,Gavin Floyd,8,,1.000,0,.250,2,63,0,Gavin,0,5,,1,0,7,,0,.650,0,,,0,60,true,1,3.49,0,21,0,2,101,0,0,0,0,0,White Sox,0,.250,0,.400
+,Jackson,,,,,,,,,,Edwin Jackson,,,,,,,,,Edwin,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Pena,,,,,,,,,,Ramon Pena,,,,,,,,,Ramon,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Danks,,,,,,,,,,John Danks,,,,,,,,,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Teahen,,,,,,,,,,Mark Teahen,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Quentin,,0,,RF,0,,0,0,4,Carlos Quentin,,2,1.000,,.235,,,0,Carlos,,,,,2,,,0,.826,,500,,0,,,0,,0,,1,,,1,1,1,0,1,White Sox,0,.494,0,.332
+,Santos,,,,,,,,,,Sergio Santos,,,,,,,,,Sergio,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Lillibridge,,,,,,,,,,Brent Lillibridge,,,,,,,,,Brent,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Ramirez,,0,,SS,1,,0,0,3,Alexei Ramirez,,1,1.000,,.287,,,0,Alexei,,,,,1,,,1,.743,,700,,0,,,3,,0,,1,,,0,2,0,0,0,White Sox,1,.424,0,.319
+,Viciedo,,,,,,,,,,Dayan Viciedo,,,,,,,,,Dayan,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Beckham,,0,,2B,1,,1,0,3,Gordon Beckham,,,1.000,,.251,,,3,Gordon,,,,,2,,,1,.678,,900,,0,,,5,,0,,1,,,0,0,1,0,1,White Sox,0,.369,0,.309
+,Sale,,,,,,,,,,Chris Sale,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,

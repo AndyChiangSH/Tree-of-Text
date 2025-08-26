@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Yovani Gallardo,1,1,1,Kosuke Fukudome,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Yovani Gallardo,1,1,1,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Yovani Gallardo,1,4,1,Marlon Byrd,['Marlon Byrd'],['Starlin Castro'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Starlin Castro', 'Marlon Byrd']",Yovani Gallardo,1,2,2,Aramis Ramirez,['N/A'],['Aramis Ramirez'],['N/A'],Double,N/A,0,2,2,N/A,N/A
+1,top,0,[],Yovani Gallardo,2,2,3,Carlos Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Yovani Gallardo,3,2,3,Geovany Soto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Casey Coleman,0,0,1,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Casey Coleman,1,0,2,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Forceout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Casey Coleman,2,1,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+1,bottom,2,['Carlos Gomez'],Casey Coleman,2,3,2,Prince Fielder,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,2,N/A,N/A
+1,bottom,0,[],Casey Coleman,2,0,1,Mark Kotsay,['N/A'],['Mark Kotsay'],['N/A'],Double,N/A,2,2,N/A,N/A,N/A
+1,bottom,0,[],Casey Coleman,3,1,1,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+2,top,0,[],Yovani Gallardo,0,2,2,Tyler Colvin,['N/A'],['Tyler Colvin'],['N/A'],Double,N/A,2,2,N/A,N/A,N/A
+2,top,1,['Tyler Colvin'],Yovani Gallardo,0,1,0,Darwin Barney,['Darwin Barney'],['N/A'],['N/A'],Single,N/A,2,3,1,N/A,N/A
+2,top,0,[],Yovani Gallardo,1,3,2,Casey Coleman,['N/A'],['Darwin Barney'],['N/A'],Sac Bunt,N/A,2,3,N/A,N/A,N/A
+2,top,0,[],Yovani Gallardo,2,2,0,Kosuke Fukudome,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,3,N/A,N/A,N/A
+2,top,0,[],Yovani Gallardo,3,0,0,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+2,bottom,0,[],Casey Coleman,1,0,1,Craig Counsell,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+2,bottom,0,[],Casey Coleman,1,3,0,George Kottaras,['George Kottaras'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+2,bottom,0,[],Casey Coleman,2,1,1,Yovani Gallardo,['N/A'],['George Kottaras'],['N/A'],Sac Bunt,N/A,2,3,N/A,N/A,N/A
+2,bottom,0,[],Casey Coleman,3,3,2,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+3,top,0,[],Yovani Gallardo,0,4,0,Marlon Byrd,['Marlon Byrd'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+3,top,1,['Marlon Byrd'],Yovani Gallardo,0,2,2,Aramis Ramirez,['N/A'],['Aramis Ramirez'],['N/A'],Double,N/A,2,4,1,N/A,N/A
+3,top,0,[],Yovani Gallardo,0,4,0,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],Yovani Gallardo,1,0,0,Geovany Soto,['Geovany Soto'],['N/A'],['Aramis Ramirez'],Forceout,N/A,2,4,N/A,N/A,N/A
+3,top,0,[],Yovani Gallardo,3,0,2,Tyler Colvin,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,4,N/A,N/A,N/A
+3,bottom,0,[],Casey Coleman,0,0,1,Carlos Gomez,['N/A'],['Carlos Gomez'],['N/A'],Double,N/A,2,4,N/A,N/A,N/A
+3,bottom,2,['Carlos Gomez'],Casey Coleman,0,2,1,Ryan Braun,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,2,N/A,N/A
+3,bottom,0,[],Casey Coleman,1,2,1,Prince Fielder,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+3,bottom,0,[],Casey Coleman,2,1,0,Mark Kotsay,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+3,bottom,0,[],Casey Coleman,2,0,0,Yuniesky Betancourt,['Yuniesky Betancourt'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+3,bottom,0,[],Casey Coleman,3,3,3,Craig Counsell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Yovani Gallardo,1,3,2,Darwin Barney,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Yovani Gallardo,1,1,2,Casey Coleman,['N/A'],['Casey Coleman'],['N/A'],Double,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Yovani Gallardo,1,4,2,Kosuke Fukudome,['Kosuke Fukudome'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Yovani Gallardo,2,2,2,Starlin Castro,['Starlin Castro'],['N/A'],['Casey Coleman'],Forceout,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Yovani Gallardo,3,1,2,Marlon Byrd,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Casey Coleman,0,1,1,George Kottaras,['George Kottaras'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Casey Coleman,1,0,0,Yovani Gallardo,['N/A'],['George Kottaras'],['N/A'],Sac Bunt,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Casey Coleman,2,2,3,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Casey Coleman,3,0,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+5,top,0,[],Yovani Gallardo,0,0,0,Aramis Ramirez,['N/A'],['Aramis Ramirez'],['N/A'],Double,N/A,4,4,N/A,N/A,N/A
+5,top,0,[],Yovani Gallardo,1,1,0,Carlos Pena,['N/A'],['N/A'],['Aramis Ramirez'],Groundout,N/A,4,4,N/A,N/A,N/A
+5,top,0,[],Yovani Gallardo,2,2,2,Geovany Soto,['Geovany Soto'],['N/A'],['N/A'],Fielders Choice Out,N/A,4,4,N/A,N/A,N/A
+5,top,0,[],Yovani Gallardo,3,3,2,Tyler Colvin,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+5,bottom,0,[],Casey Coleman,1,2,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+5,bottom,0,[],Casey Coleman,1,0,0,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+5,bottom,0,[],Casey Coleman,1,4,1,Mark Kotsay,['Mark Kotsay'],['Prince Fielder'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+5,bottom,0,[],Casey Coleman,2,0,2,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+5,bottom,0,[],Casey Coleman,3,0,0,Craig Counsell,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+6,top,0,[],Sergio Mitre,0,2,2,Darwin Barney,['Darwin Barney'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+6,top,0,[],Sergio Mitre,1,1,0,Casey Coleman,['N/A'],['Darwin Barney'],['N/A'],Sac Bunt,N/A,4,4,N/A,N/A,N/A
+6,top,0,[],Sergio Mitre,2,1,1,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+6,top,0,[],Sergio Mitre,3,1,2,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+6,bottom,0,[],Marcos Mateo,1,3,1,George Kottaras,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+6,bottom,0,[],Marcos Mateo,2,1,3,Jeremy Reed,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+6,bottom,0,[],Marcos Mateo,3,1,0,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+7,top,0,[],Sean Green,0,1,1,Marlon Byrd,['N/A'],['Marlon Byrd'],['N/A'],Double,N/A,4,4,N/A,N/A,N/A
+7,top,0,[],Sean Green,1,0,0,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+7,top,0,[],Mitch Stetter,1,4,2,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+7,top,0,[],Kameron Loe,1,3,2,Geovany Soto,['N/A'],['Carlos Pena'],['Marlon Byrd'],Wild Pitch,N/A,4,4,N/A,N/A,N/A
+7,top,0,[],Kameron Loe,1,4,2,Geovany Soto,['Geovany Soto'],['Carlos Pena'],['Marlon Byrd'],Walk,N/A,4,4,N/A,N/A,N/A
+7,top,1,['Marlon Byrd'],Kameron Loe,2,0,0,Tyler Colvin,['N/A'],['Geovany Soto'],['Carlos Pena'],Groundout,N/A,4,5,1,N/A,N/A
+7,top,0,[],Kameron Loe,3,0,2,Darwin Barney,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,5,N/A,N/A,N/A
+7,bottom,0,[],Sean Marshall,1,1,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+7,bottom,0,[],Sean Marshall,2,2,2,Ryan Braun,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+7,bottom,0,[],Sean Marshall,2,1,2,Prince Fielder,['Prince Fielder'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+7,bottom,0,[],Sean Marshall,3,1,0,Erick Almonte,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,5,N/A,N/A,N/A
+8,top,0,[],Kameron Loe,1,0,3,Blake DeWitt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+8,top,0,[],Kameron Loe,1,0,0,Alfonso Soriano,['Alfonso Soriano'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+8,top,0,[],Kameron Loe,3,0,2,Starlin Castro,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,5,N/A,N/A,N/A
+8,bottom,0,[],Kerry Wood,0,4,2,Yuniesky Betancourt,['Yuniesky Betancourt'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+8,bottom,0,[],Kerry Wood,1,0,0,Craig Counsell,['N/A'],['Yuniesky Betancourt'],['N/A'],Sac Bunt,N/A,4,5,N/A,N/A,N/A
+8,bottom,0,[],Kerry Wood,2,3,3,George Kottaras,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+8,bottom,2,['Yuniesky Betancourt'],Kerry Wood,2,1,0,Casey McGehee,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,5,2,N/A,N/A
+8,bottom,0,[],Kerry Wood,2,0,1,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Hit By Pitch,N/A,6,5,N/A,N/A,N/A
+8,bottom,0,[],Kerry Wood,3,1,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Runner Out,N/A,6,5,N/A,N/A,N/A
+9,top,0,[],John Axford,0,1,0,Marlon Byrd,['Marlon Byrd'],['N/A'],['N/A'],Single,N/A,6,5,N/A,N/A,N/A
+9,top,0,[],John Axford,2,1,3,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+9,top,0,[],John Axford,3,1,0,Carlos Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,5,N/A,N/A,N/A

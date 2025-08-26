@@ -1,0 +1,66 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Glen Perkins,1,1,2,Justin Christian,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Glen Perkins,2,0,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Glen Perkins,2,2,2,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Glen Perkins,2,1,1,Alex Rodriguez,['Alex Rodriguez'],['N/A'],['Bobby Abreu'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Glen Perkins,3,1,0,Xavier Nady,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Sidney Ponson,1,3,2,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Sidney Ponson,2,2,1,Nick Punto,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Sidney Ponson,2,1,2,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Sidney Ponson,3,2,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Glen Perkins,0,1,2,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Glen Perkins,0,4,1,Richie Sexson,['Richie Sexson'],['N/A'],['Robinson Cano'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Glen Perkins,1,2,2,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Glen Perkins,3,0,0,Melky Cabrera,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Sidney Ponson,1,1,0,Jason Kubel,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Sidney Ponson,2,1,2,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Sidney Ponson,2,4,1,Brian Buscher,['Brian Buscher'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,2,['Brian Buscher'],Sidney Ponson,2,3,2,Adam Everett,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,2,N/A,N/A
+2,bottom,0,[],Sidney Ponson,3,1,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Glen Perkins,1,0,2,Justin Christian,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Glen Perkins,2,1,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Glen Perkins,3,2,2,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Sidney Ponson,1,1,2,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Sidney Ponson,2,0,2,Nick Punto,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Sidney Ponson,3,2,2,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Glen Perkins,0,4,1,Alex Rodriguez,['Alex Rodriguez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Glen Perkins,1,0,3,Xavier Nady,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Glen Perkins,2,0,3,Robinson Cano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Glen Perkins,3,1,2,Richie Sexson,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Sidney Ponson,1,0,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Sidney Ponson,1,2,0,Jason Kubel,['Jason Kubel'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Sidney Ponson,3,0,1,Delmon Young,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Glen Perkins,1,2,2,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Glen Perkins,2,2,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Glen Perkins,3,1,3,Justin Christian,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Sidney Ponson,1,0,3,Brian Buscher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Sidney Ponson,2,1,3,Adam Everett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Sidney Ponson,3,3,2,Carlos Gomez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Glen Perkins,1,1,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Glen Perkins,1,0,2,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Glen Perkins,3,2,0,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Sidney Ponson,0,1,0,Denard Span,['N/A'],['Denard Span'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Sidney Ponson,1,0,0,Nick Punto,['N/A'],['N/A'],['Denard Span'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['Denard Span'],Sidney Ponson,2,2,0,Joe Mauer,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,0,1,N/A,N/A
+6,bottom,0,[],Sidney Ponson,3,1,0,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Glen Perkins,1,0,0,Xavier Nady,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Glen Perkins,1,4,0,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Glen Perkins,2,1,3,Richie Sexson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Glen Perkins,3,1,2,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Sidney Ponson,1,2,0,Jason Kubel,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Sidney Ponson,2,0,0,Delmon Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Sidney Ponson,2,0,0,Brian Buscher,['Brian Buscher'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Sidney Ponson,3,2,1,Adam Everett,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Glen Perkins,1,2,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Glen Perkins,2,0,2,Justin Christian,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Glen Perkins,3,1,1,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Sidney Ponson,0,0,0,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Sidney Ponson,1,0,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],N/A,1,1,1,Nick Punto,['N/A'],['Denard Span'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Sidney Ponson,2,1,2,Nick Punto,['N/A'],['Denard Span'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Sidney Ponson,2,4,0,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,['Denard Span'],Sidney Ponson,2,3,2,Justin Morneau,['Justin Morneau'],['Joe Mauer'],['N/A'],Single,N/A,4,0,1,N/A,N/A
+8,bottom,0,[],Edwar Ramirez,3,2,3,Jason Kubel,['N/A'],['Justin Morneau'],['Joe Mauer'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,1,2,3,Bobby Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,2,2,3,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Joe Nathan,3,1,3,Xavier Nady,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

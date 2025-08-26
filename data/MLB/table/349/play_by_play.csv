@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Tim Lincecum,1,3,3,Melky Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Lincecum,2,3,2,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tim Lincecum,2,4,0,Eric Hinske,['Eric Hinske'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,2,['Eric Hinske'],Tim Lincecum,2,1,2,Brian McCann,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+1,top,0,[],Tim Lincecum,3,1,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Kenshin Kawakami,1,0,1,Aaron Rowand,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Kenshin Kawakami,2,0,2,Eugenio Velez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Kenshin Kawakami,3,1,0,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Tim Lincecum,1,1,3,Jason Heyward,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Tim Lincecum,2,0,2,Matt Diaz,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Tim Lincecum,2,1,1,Omar Infante,['N/A'],['Omar Infante'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Tim Lincecum,3,1,1,Kenshin Kawakami,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Kenshin Kawakami,1,3,2,Aubrey Huff,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Kenshin Kawakami,2,0,0,Mark DeRosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Kenshin Kawakami,3,2,1,Bengie Molina,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Tim Lincecum,1,1,0,Melky Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Tim Lincecum,1,0,1,Martin Prado,['N/A'],['Martin Prado'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Tim Lincecum,2,2,3,Eric Hinske,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Tim Lincecum,3,0,3,Brian McCann,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Kenshin Kawakami,1,2,2,John Bowker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Kenshin Kawakami,2,0,0,Juan Uribe,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Kenshin Kawakami,3,2,3,Tim Lincecum,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Tim Lincecum,1,1,3,Yunel Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Tim Lincecum,2,3,2,Jason Heyward,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Tim Lincecum,2,0,2,Matt Diaz,['Matt Diaz'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Tim Lincecum,3,1,3,Omar Infante,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,bottom,0,[],Kenshin Kawakami,1,0,0,Aaron Rowand,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+4,bottom,0,[],Kenshin Kawakami,2,1,0,Eugenio Velez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+4,bottom,0,[],Kenshin Kawakami,2,1,0,Pablo Sandoval,['N/A'],['N/A'],['Pablo Sandoval'],Triple,N/A,0,2,N/A,N/A,N/A
+4,bottom,1,['Pablo Sandoval'],Kenshin Kawakami,2,1,1,Aubrey Huff,['Aubrey Huff'],['N/A'],['N/A'],Single,N/A,1,2,1,N/A,N/A
+4,bottom,0,[],Kenshin Kawakami,3,3,2,Mark DeRosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Tim Lincecum,1,1,3,Kenshin Kawakami,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Tim Lincecum,2,0,0,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+5,top,0,[],Tim Lincecum,3,0,2,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Kenshin Kawakami,1,0,0,Bengie Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Kenshin Kawakami,1,1,1,John Bowker,['John Bowker'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Kenshin Kawakami,2,0,0,Juan Uribe,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,2,N/A,N/A,N/A
+5,bottom,0,[],Kenshin Kawakami,3,0,1,Tim Lincecum,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Tim Lincecum,1,3,2,Eric Hinske,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Tim Lincecum,1,0,1,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Tim Lincecum,2,1,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,2,N/A,N/A,N/A
+6,top,0,[],Tim Lincecum,3,0,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],Kenshin Kawakami,1,1,1,Aaron Rowand,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],Kenshin Kawakami,2,0,0,Eugenio Velez,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],Kenshin Kawakami,2,0,0,Pablo Sandoval,['Pablo Sandoval'],['N/A'],['N/A'],Single,N/A,1,2,N/A,N/A,N/A
+6,bottom,0,[],Kenshin Kawakami,2,4,2,Aubrey Huff,['Aubrey Huff'],['Pablo Sandoval'],['N/A'],Walk,N/A,1,2,N/A,N/A,N/A
+6,bottom,2,"['Pablo Sandoval', 'Aubrey Huff']",Kenshin Kawakami,2,0,0,Mark DeRosa,['N/A'],['N/A'],['Mark DeRosa'],Single,Error,3,2,1,1,Jason Heyward
+6,bottom,0,[],Kenshin Kawakami,3,1,0,Bengie Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Tim Lincecum,1,1,3,Matt Diaz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Tim Lincecum,2,3,3,Omar Infante,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,top,0,[],Tim Lincecum,3,0,3,Brooks Conrad,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Kris Medlen,1,1,3,John Bowker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Kris Medlen,2,3,2,Juan Uribe,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+7,bottom,0,[],Kris Medlen,3,1,3,Nate Schierholtz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Jeremy Affeldt,1,3,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Jeremy Affeldt,2,3,2,Martin Prado,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+8,top,0,[],Jeremy Affeldt,3,1,0,Troy Glaus,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Kris Medlen,0,1,1,Aaron Rowand,['Aaron Rowand'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+8,bottom,0,[],Kris Medlen,1,0,1,Eugenio Velez,['Eugenio Velez'],['N/A'],['N/A'],Forceout,N/A,3,2,N/A,N/A,N/A
+8,bottom,2,['Eugenio Velez'],Kris Medlen,1,0,0,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,2,2,N/A,N/A
+8,bottom,0,[],Eric O'Flaherty,1,1,0,Aubrey Huff,['N/A'],['N/A'],['Aubrey Huff'],Field Error,N/A,5,2,N/A,N/A,Matt Diaz
+8,bottom,0,[],Eric O'Flaherty,2,1,2,Mark DeRosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,2,N/A,N/A,N/A
+8,bottom,1,['Aubrey Huff'],Eric O'Flaherty,2,3,2,Bengie Molina,['Bengie Molina'],['N/A'],['N/A'],Single,N/A,6,2,1,N/A,N/A
+8,bottom,0,[],Eric O'Flaherty,3,0,3,Jeremy Affeldt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Jeremy Affeldt,1,0,2,Brian McCann,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Jeremy Affeldt,2,1,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+9,top,1,[],Jeremy Affeldt,2,3,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,3,1,N/A,N/A
+9,top,0,[],Jeremy Affeldt,3,1,3,Matt Diaz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A

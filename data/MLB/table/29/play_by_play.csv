@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Dustin McGowan,0,0,1,Maicer Izturis,['Maicer Izturis'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Marco Scutaro
+1,top,0,[],Dustin McGowan,0,4,1,Gary Matthews,['Gary Matthews'],['Maicer Izturis'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Dustin McGowan,0,0,0,Vladimir Guerrero,['Vladimir Guerrero'],['Gary Matthews'],['Maicer Izturis'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Maicer Izturis'],Dustin McGowan,2,3,2,Garret Anderson,['N/A'],['N/A'],['Gary Matthews'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Dustin McGowan,3,1,1,Torii Hunter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,[],John Lackey,0,3,1,Brad Wilkerson,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+1,bottom,0,[],John Lackey,1,2,3,Aaron Hill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Lackey,1,1,0,Alex Rios,['Alex Rios'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],N/A,1,1,1,Scott Rolen,['N/A'],['Alex Rios'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Lackey,2,2,3,Scott Rolen,['N/A'],['Alex Rios'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Lackey,3,1,1,Matt Stairs,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dustin McGowan,0,0,1,Casey Kotchman,['Casey Kotchman'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dustin McGowan,0,4,2,Mike Napoli,['Mike Napoli'],['Casey Kotchman'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dustin McGowan,1,2,3,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dustin McGowan,1,4,1,Robb Quinlan,['Robb Quinlan'],['Mike Napoli'],['Casey Kotchman'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dustin McGowan,2,2,0,Maicer Izturis,['Maicer Izturis'],['Robb Quinlan'],['Mike Napoli'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Dustin McGowan,3,2,0,Gary Matthews,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lackey,1,1,0,Shannon Stewart,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lackey,2,0,2,Lyle Overbay,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lackey,2,2,2,Gregg Zaun,['Gregg Zaun'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lackey,2,0,0,Marco Scutaro,['Marco Scutaro'],['Gregg Zaun'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lackey,2,4,2,Brad Wilkerson,['Brad Wilkerson'],['Marco Scutaro'],['Gregg Zaun'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lackey,3,1,1,Aaron Hill,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Dustin McGowan,1,0,3,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Dustin McGowan,2,1,0,Garret Anderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Dustin McGowan,2,1,2,Torii Hunter,['N/A'],['Torii Hunter'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Torii Hunter'],Dustin McGowan,2,1,0,Casey Kotchman,['N/A'],['Casey Kotchman'],['N/A'],Double,N/A,1,2,1,N/A,N/A
+3,top,0,[],Dustin McGowan,2,4,0,Mike Napoli,['Mike Napoli'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Dustin McGowan,3,2,1,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Lackey,1,0,3,Alex Rios,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Lackey,2,0,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Lackey,3,0,3,Matt Stairs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Dustin McGowan,1,0,0,Robb Quinlan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Dustin McGowan,2,2,2,Maicer Izturis,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Dustin McGowan,3,1,3,Gary Matthews,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Lackey,0,1,1,Shannon Stewart,['Shannon Stewart'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Lackey,0,4,2,Lyle Overbay,['Lyle Overbay'],['Shannon Stewart'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Lackey,2,1,2,Gregg Zaun,['N/A'],['N/A'],['Shannon Stewart'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Lackey,2,4,1,Marco Scutaro,['Marco Scutaro'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Lackey,3,0,3,Brad Wilkerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Dustin McGowan,1,0,0,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Dustin McGowan,2,2,2,Garret Anderson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Dustin McGowan,3,0,0,Torii Hunter,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Lackey,0,2,2,Aaron Hill,['Aaron Hill'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Lackey,1,0,0,Alex Rios,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Lackey,3,1,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Dustin McGowan,1,0,0,Casey Kotchman,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Dustin McGowan,1,1,1,Mike Napoli,['Mike Napoli'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Dustin McGowan,2,2,3,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Dustin McGowan,3,2,2,Robb Quinlan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Lackey,1,1,1,Matt Stairs,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Lackey,2,2,2,Shannon Stewart,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],John Lackey,3,1,2,Lyle Overbay,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Dustin McGowan,1,1,2,Maicer Izturis,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Dustin McGowan,1,1,0,Gary Matthews,['N/A'],['N/A'],['Gary Matthews'],Triple,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Gary Matthews'],Jason Frasor,2,0,0,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,3,1,N/A,N/A
+7,top,0,[],Jason Frasor,3,0,0,Garret Anderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],John Lackey,1,0,3,Gregg Zaun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],John Lackey,1,3,2,Marco Scutaro,['Marco Scutaro'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],John Lackey,3,2,1,Brad Wilkerson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jason Frasor,0,4,2,Torii Hunter,['Torii Hunter'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jesse Carlson,1,1,0,Casey Kotchman,['N/A'],['Torii Hunter'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jesse Carlson,1,4,0,Mike Napoli,['Mike Napoli'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Jesse Carlson,3,0,1,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Scot Shields,0,1,1,Aaron Hill,['Aaron Hill'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Scot Shields,0,4,1,Alex Rios,['Alex Rios'],['Aaron Hill'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Scot Shields,0,1,0,Scott Rolen,['Scott Rolen'],['Alex Rios'],['Aaron Hill'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Scot Shields,1,0,3,Matt Stairs,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Scot Shields,3,0,0,Shannon Stewart,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Scott Downs,1,1,1,Robb Quinlan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Scott Downs,2,1,3,Maicer Izturis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Scott Downs,3,1,1,Gary Matthews,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,1,3,1,Lyle Overbay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,1,4,2,Gregg Zaun,['Gregg Zaun'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,1,4,2,Marco Scutaro,['Marco Scutaro'],['Gregg Zaun'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,1,4,1,Brad Wilkerson,['Brad Wilkerson'],['Marco Scutaro'],['Gregg Zaun'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,2,1,0,Aaron Hill,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Francisco Rodriguez,3,3,3,Alex Rios,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A

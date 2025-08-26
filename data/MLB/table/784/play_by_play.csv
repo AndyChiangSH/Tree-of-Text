@@ -1,0 +1,91 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Chad Jenkins,1,3,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chad Jenkins,2,1,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chad Jenkins,2,1,0,Alex Rodriguez,['Alex Rodriguez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chad Jenkins,2,0,1,Robinson Cano,['Robinson Cano'],['Alex Rodriguez'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Alex Rodriguez', 'Robinson Cano']",Chad Jenkins,2,0,1,Nick Swisher,['N/A'],['Nick Swisher'],['N/A'],Double,N/A,0,2,2,N/A,N/A
+1,top,0,[],Chad Jenkins,3,1,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Hiroki Kuroda,0,1,1,Brett Lawrie,['N/A'],['Brett Lawrie'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Hiroki Kuroda,1,1,0,Colby Rasmus,['Colby Rasmus'],['N/A'],['N/A'],Fielders Choice Out,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Hiroki Kuroda,2,1,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Hiroki Kuroda,2,0,1,J.P. Arencibia,['J.P. Arencibia'],['Colby Rasmus'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Hiroki Kuroda,3,2,2,Adam Lind,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Chad Jenkins,0,1,2,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Chad Jenkins,0,4,2,Russell Martin,['Russell Martin'],['Raul Ibanez'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Chad Jenkins,0,4,2,Eric Chavez,['Eric Chavez'],['Russell Martin'],['Raul Ibanez'],Walk,N/A,0,2,N/A,N/A,N/A
+2,top,1,['Raul Ibanez'],Chad Jenkins,2,2,2,Derek Jeter,['N/A'],['N/A'],['Russell Martin'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Chad Jenkins,3,0,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Hiroki Kuroda,0,1,1,Yunel Escobar,['N/A'],['Yunel Escobar'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Hiroki Kuroda,0,1,2,Kelly Johnson,['N/A'],['N/A'],['Yunel Escobar'],Wild Pitch,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Hiroki Kuroda,2,2,3,Kelly Johnson,['N/A'],['N/A'],['Yunel Escobar'],Strikeout - DP,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Hiroki Kuroda,2,1,1,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Hiroki Kuroda,2,2,1,Anthony Gose,['N/A'],['Anthony Gose'],['Rajai Davis'],Double,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Hiroki Kuroda,2,4,0,Brett Lawrie,['Brett Lawrie'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Hiroki Kuroda,3,1,3,Colby Rasmus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Chad Jenkins,1,0,1,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Chad Jenkins,2,1,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Chad Jenkins,3,3,3,Nick Swisher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Hiroki Kuroda,1,3,2,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Hiroki Kuroda,2,3,1,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Hiroki Kuroda,2,2,2,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],Hiroki Kuroda,3,1,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Chad Jenkins,0,4,1,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Chad Jenkins,1,1,0,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Chad Jenkins,2,2,1,Russell Martin,['N/A'],['Raul Ibanez'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Brett Cecil,3,1,0,Eric Chavez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Hiroki Kuroda,1,3,2,Kelly Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Hiroki Kuroda,1,0,1,Rajai Davis,['N/A'],['Rajai Davis'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Hiroki Kuroda,2,0,0,Anthony Gose,['N/A'],['N/A'],['Rajai Davis'],Flyout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Hiroki Kuroda,3,1,3,Brett Lawrie,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Brett Cecil,1,0,1,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Brett Cecil,2,1,0,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Brett Cecil,3,2,1,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+5,bottom,1,[],Hiroki Kuroda,0,1,1,Colby Rasmus,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+5,bottom,0,[],Hiroki Kuroda,0,4,1,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Hiroki Kuroda,1,0,3,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+5,bottom,0,[],Hiroki Kuroda,3,1,1,Adam Lind,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Brett Cecil,0,0,0,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Hit By Pitch,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Brett Cecil,0,2,1,Nick Swisher,['Nick Swisher'],['Robinson Cano'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Brett Cecil,1,2,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,top,0,[],Brett Cecil,2,3,3,Raul Ibanez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,top,3,"['Robinson Cano', 'Nick Swisher']",Jason Frasor,2,3,2,Russell Martin,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,6,3,N/A,N/A
+6,top,0,[],Jason Frasor,2,4,2,Eric Chavez,['Eric Chavez'],['N/A'],['N/A'],Walk,N/A,1,6,N/A,N/A,N/A
+6,top,0,[],Jason Frasor,2,0,1,Derek Jeter,['Derek Jeter'],['N/A'],['Eric Chavez'],Single,N/A,1,6,N/A,N/A,N/A
+6,top,1,['Eric Chavez'],Jason Frasor,2,1,0,Ichiro Suzuki,['Ichiro Suzuki'],['Derek Jeter'],['N/A'],Single,N/A,1,7,1,N/A,N/A
+6,top,0,[],Joel Carreno,3,2,2,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,7,N/A,N/A,N/A
+6,bottom,0,[],Hiroki Kuroda,1,0,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,7,N/A,N/A,N/A
+6,bottom,0,[],Hiroki Kuroda,1,1,1,Kelly Johnson,['N/A'],['Kelly Johnson'],['N/A'],Double,N/A,1,7,N/A,N/A,N/A
+6,bottom,0,[],Hiroki Kuroda,1,1,2,Rajai Davis,['Rajai Davis'],['N/A'],['Kelly Johnson'],Single,N/A,1,7,N/A,N/A,N/A
+6,bottom,1,['Kelly Johnson'],David Phelps,2,0,0,Anthony Gose,['Anthony Gose'],['N/A'],['N/A'],Forceout,N/A,2,7,1,N/A,N/A
+6,bottom,0,[],David Phelps,3,0,0,Brett Lawrie,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,7,N/A,N/A,N/A
+7,top,0,[],Joel Carreno,1,0,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,7,N/A,N/A,N/A
+7,top,0,[],Joel Carreno,1,4,2,Nick Swisher,['Nick Swisher'],['N/A'],['N/A'],Walk,N/A,2,7,N/A,N/A,N/A
+7,top,0,[],Joel Carreno,1,3,2,Curtis Granderson,['N/A'],['Curtis Granderson'],['Nick Swisher'],Double,N/A,2,7,N/A,N/A,N/A
+7,top,1,['Nick Swisher'],Joel Carreno,2,1,1,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Fielders Choice Out,N/A,2,8,1,N/A,N/A
+7,top,0,[],Joel Carreno,2,3,2,Russell Martin,['N/A'],['Russell Martin'],['Raul Ibanez'],Single,Error,2,8,N/A,N/A,Joel Carreno
+7,top,0,[],Chad Beck,3,1,2,Eric Chavez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,8,N/A,N/A,N/A
+7,bottom,0,[],David Phelps,1,1,3,Colby Rasmus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,8,N/A,N/A,N/A
+7,bottom,0,[],David Phelps,1,4,2,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['N/A'],Walk,N/A,2,8,N/A,N/A,N/A
+7,bottom,0,[],David Phelps,2,3,2,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,8,N/A,N/A,N/A
+7,bottom,2,['Edwin Encarnacion'],David Phelps,2,2,1,Adam Lind,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,8,2,N/A,N/A
+7,bottom,0,[],David Phelps,3,0,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,8,N/A,N/A,N/A
+8,top,0,[],Chad Beck,1,0,1,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,8,N/A,N/A,N/A
+8,top,0,[],Chad Beck,1,2,2,Ichiro Suzuki,['N/A'],['Ichiro Suzuki'],['N/A'],Double,N/A,4,8,N/A,N/A,N/A
+8,top,0,[],Chad Beck,2,1,2,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,8,N/A,N/A,N/A
+8,top,0,[],N/A,2,1,0,Robinson Cano,['N/A'],['N/A'],['Ichiro Suzuki'],Stolen Base 3B,N/A,4,8,N/A,N/A,N/A
+8,top,1,['Ichiro Suzuki'],Aaron Loup,2,1,0,Robinson Cano,['Robinson Cano'],['N/A'],['Ichiro Suzuki'],Single,N/A,4,9,1,N/A,N/A
+8,top,0,[],Aaron Loup,3,3,1,Nick Swisher,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],David Robertson,1,3,2,Kelly Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],David Robertson,1,1,0,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Single,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],David Robertson,2,2,0,Anthony Gose,['N/A'],['Rajai Davis'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],David Robertson,2,4,0,Brett Lawrie,['Brett Lawrie'],['N/A'],['N/A'],Walk,N/A,4,9,N/A,N/A,N/A
+8,bottom,0,[],David Robertson,3,1,3,Colby Rasmus,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Bobby Korecky,1,1,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Bobby Korecky,1,4,1,Chris Dickerson,['Chris Dickerson'],['N/A'],['N/A'],Walk,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Bobby Korecky,2,1,2,Russell Martin,['N/A'],['Chris Dickerson'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+9,top,2,['Chris Dickerson'],Bobby Korecky,2,2,2,Eric Chavez,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,11,2,N/A,N/A
+9,top,0,[],Bobby Korecky,3,0,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,11,N/A,N/A,N/A
+9,bottom,0,[],Cody Eppley,1,3,2,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,11,N/A,N/A,N/A
+9,bottom,0,[],Cody Eppley,2,0,3,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,11,N/A,N/A,N/A
+9,bottom,0,[],Rafael Soriano,2,4,2,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Walk,N/A,4,11,N/A,N/A,N/A
+9,bottom,0,[],Rafael Soriano,3,0,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,11,N/A,N/A,N/A

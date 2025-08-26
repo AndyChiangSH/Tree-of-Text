@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Brandon Webb,0,0,2,Dave Roberts,['Dave Roberts'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brandon Webb,1,0,0,Randy Winn,['N/A'],['Dave Roberts'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Dave Roberts'],Brandon Webb,1,0,0,Pablo Sandoval,['N/A'],['Pablo Sandoval'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+1,top,1,['Pablo Sandoval'],Brandon Webb,1,0,0,Bengie Molina,['Bengie Molina'],['N/A'],['N/A'],Single,N/A,0,2,1,N/A,N/A
+1,top,0,[],Brandon Webb,1,2,0,Travis Ishikawa,['Travis Ishikawa'],['N/A'],['Bengie Molina'],Field Error,N/A,0,2,N/A,N/A,Adam Dunn
+1,top,1,['Bengie Molina'],Brandon Webb,2,1,1,John Bowker,['John Bowker'],['N/A'],['N/A'],Forceout,N/A,0,3,1,N/A,N/A
+1,top,0,[],Brandon Webb,3,0,0,Eugenio Velez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jonathan Sanchez,0,1,2,Stephen Drew,['N/A'],['Stephen Drew'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Jonathan Sanchez,1,3,2,Justin Upton,['N/A'],['N/A'],['Stephen Drew'],Groundout,N/A,0,3,N/A,N/A,N/A
+1,bottom,1,['Stephen Drew'],Jonathan Sanchez,2,1,0,Conor Jackson,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,3,1,N/A,N/A
+1,bottom,0,[],Jonathan Sanchez,3,2,1,Adam Dunn,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+2,top,0,[],Brandon Webb,1,0,1,Omar Vizquel,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+2,top,0,[],Brandon Webb,2,1,1,Jonathan Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+2,top,0,[],Brandon Webb,3,1,0,Dave Roberts,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,1,0,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,1,4,2,Chris Snyder,['Chris Snyder'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,1,1,1,Chris Young,['Chris Young'],['Chris Snyder'],['N/A'],Single,N/A,1,3,N/A,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,2,1,0,David Eckstein,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+2,bottom,2,"['Chris Snyder', 'Chris Young']",Jonathan Sanchez,2,0,2,Brandon Webb,['N/A'],['Brandon Webb'],['N/A'],Double,N/A,3,3,2,N/A,N/A
+2,bottom,1,['Brandon Webb'],Jonathan Sanchez,2,0,1,Stephen Drew,['Stephen Drew'],['N/A'],['N/A'],Single,N/A,4,3,1,N/A,N/A
+2,bottom,2,['Stephen Drew'],Jonathan Sanchez,2,0,1,Justin Upton,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,3,2,N/A,N/A
+2,bottom,0,[],Jonathan Sanchez,3,0,1,Conor Jackson,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+3,top,0,[],Brandon Webb,0,2,1,Randy Winn,['Randy Winn'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+3,top,0,[],Brandon Webb,0,0,1,Pablo Sandoval,['Pablo Sandoval'],['Randy Winn'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+3,top,0,[],Brandon Webb,2,1,1,Bengie Molina,['N/A'],['N/A'],['Randy Winn'],Grounded Into DP,N/A,6,3,N/A,N/A,N/A
+3,top,0,[],Brandon Webb,3,1,3,Travis Ishikawa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Jonathan Sanchez,1,1,3,Adam Dunn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Jonathan Sanchez,2,1,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Jonathan Sanchez,2,4,1,Chris Snyder,['Chris Snyder'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Jonathan Sanchez,3,1,3,Chris Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Brandon Webb,0,3,2,John Bowker,['John Bowker'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Brandon Webb,1,2,0,Eugenio Velez,['Eugenio Velez'],['N/A'],['N/A'],Forceout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Brandon Webb,2,2,2,Omar Vizquel,['Omar Vizquel'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Brandon Webb,3,0,1,Jonathan Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,1,1,2,David Eckstein,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,2,3,2,Brandon Webb,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,2,1,1,Stephen Drew,['Stephen Drew'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Jonathan Sanchez,2,4,1,Justin Upton,['Justin Upton'],['Stephen Drew'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Kevin Correia,3,1,3,Conor Jackson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Brandon Webb,1,1,2,Dave Roberts,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Brandon Webb,1,4,0,Randy Winn,['Randy Winn'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Brandon Webb,3,0,1,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,3,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,1,1,2,Adam Dunn,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,1,0,2,Mark Reynolds,['N/A'],['Mark Reynolds'],['N/A'],Double,N/A,6,3,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,2,0,1,Chris Snyder,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,3,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,3,3,2,Chris Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+6,top,0,[],Brandon Webb,1,1,0,Bengie Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+6,top,0,[],Brandon Webb,1,2,2,Travis Ishikawa,['Travis Ishikawa'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+6,top,0,[],Brandon Webb,2,1,1,John Bowker,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+6,top,0,[],Brandon Webb,3,1,0,Eugenio Velez,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+6,bottom,1,[],Kevin Correia,0,1,0,David Eckstein,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,3,1,N/A,N/A
+6,bottom,0,[],Kevin Correia,1,1,3,Brandon Webb,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,1,3,2,Stephen Drew,['Stephen Drew'],['N/A'],['N/A'],Single,N/A,7,3,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,2,2,2,Justin Upton,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,2,0,2,Conor Jackson,['Conor Jackson'],['Stephen Drew'],['N/A'],Single,N/A,7,3,N/A,N/A,N/A
+6,bottom,0,[],Geno Espineli,3,2,3,Adam Dunn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+7,top,0,[],Brandon Webb,1,0,2,Omar Vizquel,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+7,top,0,[],Brandon Webb,2,0,0,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+7,top,0,[],Brandon Webb,2,4,0,Dave Roberts,['Dave Roberts'],['N/A'],['N/A'],Walk,N/A,7,3,N/A,N/A,N/A
+7,top,0,[],N/A,2,1,1,Randy Winn,['N/A'],['Dave Roberts'],['N/A'],Stolen Base 2B,N/A,7,3,N/A,N/A,N/A
+7,top,0,[],Brandon Webb,3,1,3,Randy Winn,['N/A'],['Dave Roberts'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Billy Sadler,0,4,1,Mark Reynolds,['Mark Reynolds'],['N/A'],['N/A'],Walk,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Billy Sadler,1,2,0,Chris Snyder,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Billy Sadler,2,0,0,Chris Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,3,N/A,N/A,N/A
+7,bottom,0,[],Billy Sadler,3,1,0,David Eckstein,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Juan Cruz,1,1,2,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Juan Cruz,2,0,2,Bengie Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Juan Cruz,3,1,0,Travis Ishikawa,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Billy Sadler,0,4,2,Jeff Salazar,['Jeff Salazar'],['N/A'],['N/A'],Walk,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Billy Sadler,0,2,1,Stephen Drew,['N/A'],['Jeff Salazar'],['N/A'],Wild Pitch,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Billy Sadler,1,2,3,Stephen Drew,['N/A'],['Jeff Salazar'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Billy Sadler,2,0,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Billy Sadler,2,4,2,Conor Jackson,['Conor Jackson'],['N/A'],['Jeff Salazar'],Walk,N/A,7,3,N/A,N/A,N/A
+8,bottom,0,[],Pat Misch,3,1,0,Adam Dunn,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,3,N/A,N/A,N/A
+9,top,0,[],Doug Slaten,0,4,2,Scott McClain,['Scott McClain'],['N/A'],['N/A'],Walk,N/A,7,3,N/A,N/A,N/A
+9,top,0,[],Doug Slaten,0,4,0,Eugenio Velez,['Eugenio Velez'],['Scott McClain'],['N/A'],Walk,N/A,7,3,N/A,N/A,N/A
+9,top,2,"['Scott McClain', 'Eugenio Velez']",Ramon Pena,0,1,1,Omar Vizquel,['N/A'],['N/A'],['Omar Vizquel'],Triple,N/A,7,5,2,N/A,N/A
+9,top,1,['Omar Vizquel'],Ramon Pena,1,0,1,Rich Aurilia,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,6,1,N/A,N/A
+9,top,0,[],Ramon Pena,2,2,2,Dave Roberts,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Ramon Pena,3,1,2,Randy Winn,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,6,N/A,N/A,N/A

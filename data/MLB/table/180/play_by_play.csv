@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],David Purcey,1,3,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],David Purcey,2,2,3,Placido Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],David Purcey,3,3,2,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Edwin Jackson,1,1,3,Marco Scutaro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Edwin Jackson,2,0,0,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Edwin Jackson,3,0,2,Alex Rios,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],David Purcey,0,4,2,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],David Purcey,1,0,1,Carlos Guillen,['Carlos Guillen'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],David Purcey,2,2,3,Gerald Laird,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],David Purcey,3,2,2,Marcus Thames,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Edwin Jackson,0,2,2,Vernon Wells,['N/A'],['Vernon Wells'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Edwin Jackson,1,1,2,Adam Lind,['N/A'],['N/A'],['Vernon Wells'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Edwin Jackson,2,0,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Edwin Jackson,3,0,1,Lyle Overbay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],David Purcey,0,0,1,Brandon Inge,['N/A'],['Brandon Inge'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],David Purcey,1,0,1,Adam Everett,['N/A'],['N/A'],['Brandon Inge'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Brandon Inge'],David Purcey,2,1,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,1,1,N/A,N/A
+3,top,0,[],David Purcey,3,0,1,Placido Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Edwin Jackson,1,1,1,Rod Barajas,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Edwin Jackson,2,0,1,Travis Snider,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Edwin Jackson,3,1,0,Marco Scutaro,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],David Purcey,1,0,1,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],David Purcey,1,4,0,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],David Purcey,3,3,1,Carlos Guillen,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Edwin Jackson,1,1,3,Aaron Hill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Edwin Jackson,2,1,3,Alex Rios,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Edwin Jackson,3,0,1,Vernon Wells,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],David Purcey,0,1,2,Gerald Laird,['Gerald Laird'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],David Purcey,1,0,0,Marcus Thames,['N/A'],['Gerald Laird'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],David Purcey,2,2,0,Brandon Inge,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],David Purcey,3,0,1,Adam Everett,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Edwin Jackson,1,2,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Edwin Jackson,2,0,0,Scott Rolen,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Edwin Jackson,3,1,2,Lyle Overbay,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],David Purcey,1,1,0,Curtis Granderson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],David Purcey,1,0,1,Placido Polanco,['Placido Polanco'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],David Purcey,3,3,3,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Edwin Jackson,0,4,1,Rod Barajas,['Rod Barajas'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Edwin Jackson,1,1,0,Travis Snider,['Travis Snider'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Edwin Jackson,2,3,2,Marco Scutaro,['N/A'],['Travis Snider'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Edwin Jackson,3,0,0,Aaron Hill,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],David Purcey,0,1,0,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],David Purcey,0,4,2,Carlos Guillen,['Carlos Guillen'],['Miguel Cabrera'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],David Purcey,1,1,3,Gerald Laird,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Miguel Cabrera'],David Purcey,1,0,0,Marcus Thames,['N/A'],['Marcus Thames'],['Carlos Guillen'],Double,N/A,0,2,1,N/A,N/A
+7,top,1,['Carlos Guillen'],N/A,1,1,0,N/A,['N/A'],['N/A'],['Marcus Thames'],Runner Advance,Error,0,3,N/A,N/A,David Purcey
+7,top,0,[],David Purcey,2,3,3,Brandon Inge,['N/A'],['N/A'],['Marcus Thames'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],David Purcey,3,0,0,Adam Everett,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Edwin Jackson,1,0,0,Alex Rios,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Edwin Jackson,2,2,2,Vernon Wells,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Edwin Jackson,3,0,2,Adam Lind,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Camp,1,3,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Camp,2,0,0,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Camp,2,4,2,Magglio Ordonez,['Magglio Ordonez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Camp,2,0,0,Miguel Cabrera,['N/A'],['Miguel Cabrera'],['Magglio Ordonez'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Camp,2,4,0,Carlos Guillen,['Carlos Guillen'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Camp,3,3,2,Gerald Laird,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,[],Edwin Jackson,0,3,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+8,bottom,0,[],Edwin Jackson,0,3,2,Lyle Overbay,['Lyle Overbay'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Brandon Inge
+8,bottom,0,[],Edwin Jackson,1,2,0,Rod Barajas,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Bobby Seay,2,1,1,Travis Snider,['Travis Snider'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Brandon Lyon,2,2,2,Marco Scutaro,['Marco Scutaro'],['Travis Snider'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,3,"['Travis Snider', 'Marco Scutaro']",Brandon Lyon,2,0,0,Aaron Hill,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,3,3,N/A,N/A
+8,bottom,0,[],Brandon Lyon,3,2,2,Alex Rios,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],B.J. Ryan,1,2,3,Marcus Thames,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,1,[],B.J. Ryan,1,0,0,Brandon Inge,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,1,N/A,N/A
+9,top,0,[],B.J. Ryan,2,2,1,Adam Everett,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],B.J. Ryan,2,0,0,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],B.J. Ryan,3,1,2,Placido Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,1,1,1,Vernon Wells,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,1,4,2,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,1,2,1,Scott Rolen,['Scott Rolen'],['N/A'],['Jose Bautista'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Brandon Lyon,1,4,0,Lyle Overbay,['Lyle Overbay'],['Scott Rolen'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,1,['Jose Bautista'],Brandon Lyon,2,2,2,Rod Barajas,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,5,4,1,N/A,N/A

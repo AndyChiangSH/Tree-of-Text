@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mark Rogers,0,0,1,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,0,3,2,Ozzie Martinez,['N/A'],['Cameron Maybin'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mark Rogers,0,4,2,Ozzie Martinez,['Ozzie Martinez'],['Cameron Maybin'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mark Rogers,1,3,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mark Rogers,1,4,2,Dan Uggla,['Dan Uggla'],['Ozzie Martinez'],['Cameron Maybin'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mark Rogers,2,2,3,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mark Rogers,3,0,3,Chad Tracy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Andrew Miller,1,2,1,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Andrew Miller,1,1,2,Corey Hart,['Corey Hart'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Andrew Miller,2,1,0,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Andrew Miller,2,2,2,Prince Fielder,['N/A'],['Ryan Braun'],['N/A'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Andrew Miller,3,2,2,Prince Fielder,['N/A'],['Ryan Braun'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mark Rogers,1,2,2,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mark Rogers,2,1,1,Brad Davis,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mark Rogers,3,2,1,Andrew Miller,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Andrew Miller,0,1,0,Casey McGehee,['Casey McGehee'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Andrew Miller,1,1,3,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Andrew Miller,3,0,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mark Rogers,1,3,3,Cameron Maybin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mark Rogers,2,0,1,Ozzie Martinez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mark Rogers,3,3,2,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,1,1,0,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,1,1,1,Mark Rogers,['Mark Rogers'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,1,2,1,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['Mark Rogers'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Andrew Miller,1,1,1,Corey Hart,['Corey Hart'],['Rickie Weeks Jr.'],['Mark Rogers'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,['Mark Rogers'],Andrew Miller,2,1,2,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,2,0,2,N/A,N/A
+3,bottom,0,[],Andrew Miller,3,1,3,Prince Fielder,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Jeremy Jeffress,1,2,2,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Jeremy Jeffress,2,1,2,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Jeremy Jeffress,2,3,1,Chad Tracy,['Chad Tracy'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Jeremy Jeffress,3,0,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Andrew Miller,0,2,1,Casey McGehee,['Casey McGehee'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Andrew Miller,1,3,2,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Andrew Miller,2,1,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Andrew Miller,3,1,3,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jeremy Jeffress,1,2,3,Brad Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jeremy Jeffress,2,1,1,Andrew Miller,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jeremy Jeffress,2,4,1,Cameron Maybin,['Cameron Maybin'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jeremy Jeffress,2,4,0,Ozzie Martinez,['Ozzie Martinez'],['Cameron Maybin'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Jeremy Jeffress,3,3,1,Logan Morrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Andrew Miller,1,3,3,Mat Gamel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Andrew Miller,1,4,0,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+5,bottom,0,[],Andrew Miller,1,4,1,Corey Hart,['Corey Hart'],['Rickie Weeks Jr.'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+5,bottom,1,['Rickie Weeks Jr.'],Andrew Miller,1,0,1,Ryan Braun,['N/A'],['Ryan Braun'],['Corey Hart'],Double,N/A,3,0,1,N/A,N/A
+5,bottom,1,['Corey Hart'],Andrew Miller,1,1,1,Prince Fielder,['Prince Fielder'],['N/A'],['Ryan Braun'],Single,N/A,4,0,1,N/A,N/A
+5,bottom,0,[],Jorge Sosa,2,0,2,Casey McGehee,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,0,N/A,N/A,N/A
+5,bottom,0,[],Jorge Sosa,3,2,2,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,0,N/A,N/A,N/A
+6,top,0,[],Mike McClendon,1,0,1,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,0,N/A,N/A,N/A
+6,top,0,[],Mike McClendon,2,0,3,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+6,top,0,[],Mike McClendon,3,3,3,Chad Tracy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+6,bottom,0,[],Jorge Sosa,1,2,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,0,N/A,N/A,N/A
+6,bottom,0,[],Jorge Sosa,2,0,1,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+6,bottom,0,[],Jorge Sosa,2,2,2,Mike McClendon,['Mike McClendon'],['N/A'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+6,bottom,0,[],Jorge Sosa,2,4,0,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['Mike McClendon'],['N/A'],Walk,N/A,4,0,N/A,N/A,N/A
+6,bottom,0,[],Jorge Sosa,3,3,2,Corey Hart,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+7,top,0,[],Mike McClendon,0,1,0,Giancarlo Stanton,['N/A'],['Giancarlo Stanton'],['N/A'],Double,N/A,4,0,N/A,N/A,N/A
+7,top,0,[],Mike McClendon,1,3,3,Brad Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+7,top,0,[],Mike McClendon,2,2,3,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,0,N/A,N/A,N/A
+7,top,0,[],Mike McClendon,2,2,2,Cameron Maybin,['Cameron Maybin'],['N/A'],['Giancarlo Stanton'],Single,N/A,4,0,N/A,N/A,N/A
+7,top,1,['Giancarlo Stanton'],Mike McClendon,2,0,0,Ozzie Martinez,['Ozzie Martinez'],['Cameron Maybin'],['N/A'],Single,N/A,4,1,1,N/A,N/A
+7,top,0,[],Zach Braddock,3,1,3,Logan Morrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Burke Badenhop,1,0,0,Ryan Braun,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Burke Badenhop,2,0,2,Prince Fielder,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Burke Badenhop,2,3,2,Casey McGehee,['Casey McGehee'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Burke Badenhop,3,1,1,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+8,top,0,[],Kameron Loe,0,2,2,Dan Uggla,['Dan Uggla'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+8,top,0,[],Kameron Loe,1,1,1,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+8,top,0,[],Kameron Loe,2,0,0,Chad Tracy,['Chad Tracy'],['N/A'],['N/A'],Forceout,N/A,4,1,N/A,N/A,N/A
+8,top,0,[],Kameron Loe,3,2,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,1,N/A,N/A,N/A
+8,bottom,0,[],Burke Badenhop,1,0,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,1,N/A,N/A,N/A
+8,bottom,0,[],Burke Badenhop,1,1,0,Luis Alfonso Cruz,['Luis Alfonso Cruz'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+8,bottom,1,['Luis Alfonso Cruz'],Burke Badenhop,1,0,0,Joe Inglett,['N/A'],['N/A'],['Joe Inglett'],Triple,N/A,5,1,1,N/A,N/A
+8,bottom,1,['Joe Inglett'],Burke Badenhop,1,2,1,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Single,N/A,6,1,1,N/A,N/A
+8,bottom,0,[],Burke Badenhop,3,0,0,Corey Hart,['N/A'],['N/A'],['N/A'],Double Play,N/A,6,1,N/A,N/A,N/A
+9,top,0,[],Trevor Hoffman,0,0,2,Scott Cousins,['N/A'],['N/A'],['Scott Cousins'],Triple,N/A,6,1,N/A,N/A,N/A
+9,top,1,['Scott Cousins'],Trevor Hoffman,1,0,2,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,6,2,1,N/A,N/A
+9,top,0,[],Trevor Hoffman,2,2,1,Cameron Maybin,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+9,top,0,[],Trevor Hoffman,3,2,1,Wes Helms,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,2,N/A,N/A,N/A

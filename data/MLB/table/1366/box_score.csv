@@ -1,0 +1,62 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Ortiz,,0,,DH,0,,0,0,4,David Ortiz,,,.000,,.338,,,3,David,,,,,0,,,0,1.124,,400,,0,,,0,,1,,1,,,0,0,3,0,0,Red Sox,0,.704,0,.420
+,Ramirez,,0,,1B,1,,0,0,3,Hanley Ramirez,,1,1.000,,.270,,,0,Hanley,,,,,10,,,1,.718,,500,,0,,,0,,0,,1,,,0,0,0,0,1,Red Sox,0,.378,0,.340
+,Hanigan,,,,,,,,,,Ryan Hanigan,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Wright,,,,,,,,,,Steven Wright,,,,,,,,,Steven,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Buchholz,,,,,,,,,,Clay Buchholz,,,,,,,,,Clay,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Young,,0,,LF,1,,0,0,4,Chris Young,,,.000,,.287,,,2,Chris,,,,,0,,,0,.931,,700,,0,,,0,,0,,0,,,0,0,3,0,0,Red Sox,0,.574,0,.357
+,Pedroia,,0,,2B,1,,0,0,4,Dustin Pedroia,,,1.000,,.314,,,1,Dustin,,,,,0,,,0,.851,,200,,0,,,3,,1,,2,,,0,0,1,0,0,Red Sox,0,.478,0,.373
+4,Price,5,0,0,P,0,29,0,0,0,David Price,7,,1.000,0,.000,3,75,0,David,0,11,,2,0,8,,0,.167,0,,true,0,68,,2,4.52,0,24,0,3,105,0,0,0,0,0,Red Sox,0,.000,0,.167
+,Sandoval,,,,,,,,,,Pablo Sandoval,,,,,,,,,Pablo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Uehara,,,,,,,,,,Koji Uehara,,,,,,,,,Koji,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Leon,,,,,,,,,,Sandy Leon,,,,,,,,,Sandy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+2,Kimbrel,0,0,0,P,0,3,0,0,0,Craig Kimbrel,0,,.000,2,.000,0,8,0,Craig,14,2,,0,0,1,,0,.000,0,,,0,48,,0,2.22,0,3,0,0,12,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Layne,,,,,,,,,,Tommy Layne,,,,,,,,,Tommy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Porcello,,,,,,,,,,Rick Porcello,,,,,,,,,Rick,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Workman,,,,,,,,,,Brandon Workman,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Ross,,,,,,,,,,Robbie Ross,,,,,,,,,Robbie,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Shaw,,0,,3B,1,,0,0,2,Travis Shaw,,,1.000,,.268,,,0,Travis,,,,,0,,,1,.788,,800,,0,,,2,,0,,1,,,0,0,0,0,0,Red Sox,0,.455,0,.333
+,Vazquez,,0,,C,1,,0,0,3,Christian Vazquez,,2,1.000,,.215,,,4,Christian,,,,,12,,,0,.563,,900,,0,,,1,,0,,0,,,0,0,0,0,0,Red Sox,0,.308,0,.255
+,Tazawa,,,,,,,,,,Junichi Tazawa,,,,,,,,,Junichi,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Holt,,,,,,,,,,Brock Holt,,,,,,,,,Brock,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Hembree,,,,,,,,,,Heath Hembree,,,,,,,,,Heath,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Rutledge,,0,,PH,0,,0,0,1,Josh Rutledge,,,.000,,.265,,,0,Josh,,,,,0,,,0,.733,,801,,0,,,0,,0,,0,,,0,0,1,0,0,Red Sox,0,.388,0,.345
+,Bogaerts,,0,,SS,0,,0,0,3,Xander Bogaerts,,4,1.000,,.355,,,2,Xander,,,,,2,,,1,.924,,300,,0,,,2,,0,,0,,,0,0,0,0,0,Red Sox,0,.521,0,.403
+,Hernandez,,,,,,,,,,Marco Hernandez,,,,,,,,,Marco,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Rodriguez,,,,,,,,,,Eduardo Rodriguez,,,,,,,,,Eduardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Swihart,,,,,,,,,,Blake Swihart,,,,,,,,,Blake,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Barnes,,,,,,,,,,Matt Barnes,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Bradley,,0,,CF,0,,0,0,4,Jackie Bradley,,1,1.000,,.310,,,4,Jackie,,,,,2,,,0,.975,,600,,0,,,0,,0,,1,,,1,1,2,0,1,Red Sox,0,.587,0,.388
+,Betts,,0,,RF,2,,0,0,4,Mookie Betts,,1,1.000,,.289,,,0,Mookie,,,,,1,,,0,.861,,100,,0,,,0,,1,,1,,,0,1,0,0,0,Red Sox,0,.523,0,.338
+,Smith,,,,,,,,,,Carson Smith,,,,,,,,,Carson,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Castillo,,0,,PH,0,,0,0,1,Rusney Castillo,,,.000,,.400,,,0,Rusney,,,,,0,,,0,1.000,,901,,0,,,0,,0,,0,,,0,0,1,0,0,Red Sox,0,.600,0,.400
+,Hardy,,,,,,,,,,J.J. Hardy,,,,,,,,,J.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Jones,,0,,CF,1,,0,0,4,Adam Jones,,,.000,,.238,,,0,Adam,,,,,0,,,0,.710,,100,,0,,,0,,0,,1,,,0,0,2,0,0,Orioles,0,.420,0,.290
+,Jimenez,,,,,,,,,,Ubaldo Jimenez,,,,,,,,,Ubaldo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Trumbo,,0,,DH,0,,0,0,4,Mark Trumbo,,1,.000,,.285,,,0,Mark,,,,,0,,,0,.914,,500,,0,,,0,,0,,1,,,0,0,2,0,0,Orioles,0,.578,0,.336
+,Wieters,,0,,C,0,,0,0,3,Matt Wieters,,3,1.000,,.261,,,1,Matt,,,,,11,,,0,.732,,600,,0,,,0,,0,,0,,,0,0,0,0,0,Orioles,0,.420,0,.312
+,Davis,,0,,1B,1,,0,0,4,Chris Davis,,,1.000,,.224,,,0,Chris,,,,,8,,,0,.834,,400,,0,,,0,,0,,0,,,0,0,3,0,0,Orioles,0,.489,0,.345
+,Gallardo,,,,,,,,,,Yovani Gallardo,,,,,,,,,Yovani,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Janish,,,,,,,,,,Paul Janish,,,,,,,,,Paul,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Reimold,,0,,LF,1,,0,0,3,Nolan Reimold,,,.000,,.268,,,0,Nolan,,,,,0,,,0,.797,,800,,0,,,0,,0,,0,,,0,0,2,0,0,Orioles,0,.464,0,.333
+,Worley,,,,,,,,,,Vance Worley,,,,,,,,,Vance,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Flaherty,,0,,3B,0,,0,0,3,Ryan Flaherty,,2,1.000,,.216,,,0,Ryan,,,,,0,,,0,.584,,900,,0,,,1,,0,,0,,,0,0,1,0,0,Orioles,0,.278,0,.306
+,Alvarez,,,,,,,,,,Pedro Alvarez,,,,,,,,,Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Duensing,,,,,,,,,,Brian Duensing,,,,,,,,,Brian,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+1,Tillman,5,0,2,P,0,27,0,0,0,Chris Tillman,9,,1.000,0,.000,1,74,0,Chris,0,7,,1,1,7,,0,.000,0,,,0,66,true,1,2.87,0,21,0,1,120,0,0,0,0,0,Orioles,0,.000,0,.000
+1,Britton,1,0,0,P,0,6,0,0,0,Zach Britton,2,,1.000,0,.000,0,15,0,Zach,20,4,true,0,0,1,2/3,0,.000,0,,,0,52,,1,0.96,0,5,0,0,22,0,0,0,0,0,Orioles,0,.000,0,.000
+,O'Day,,,,,,,,,,Darren O'Day,,,,,,,,,Darren,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Pena,,,,,,,,,,Francisco Pena,,,,,,,,,Francisco,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,McFarland,,,,,,,,,,T.J. McFarland,,,,,,,,,T.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Brach,,,,,,,,,,Brad Brach,,,,,,,,,Brad,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Joseph,,,,,,,,,,Caleb Joseph,,,,,,,,,Caleb,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Kim,,,,,,,,,,Hyun Soo Kim,,,,,,,,,Hyun Soo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Schoop,,0,,2B,1,,0,0,3,Jonathan Schoop,,1,1.000,,.269,,,0,Jonathan,,,,,2,,,0,.767,,700,,0,,,2,,0,,1,,,1,1,0,0,1,Orioles,0,.467,0,.300
+0,Givens,1,0,1,P,0,3,0,0,0,Mychal Givens,5,,.000,1,.000,1,6,0,Mychal,0,0,,0,0,0,1/3,0,.000,7,,,0,35,,0,2.87,0,1,0,1,10,0,0,0,0,0,Orioles,0,.000,0,.000
+,Rickard,,0,,RF,0,,0,0,4,Joey Rickard,,2,1.000,,.251,,,1,Joey,,,,,5,,,0,.669,,200,,0,,,0,,0,,1,,,0,1,1,0,0,Orioles,0,.364,0,.305
+,Gausman,,,,,,,,,,Kevin Gausman,,,,,,,,,Kevin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Machado,,0,,SS,0,,0,0,4,Manny Machado,,1,1.000,,.307,,,0,Manny,,,,,0,,,0,.981,,300,,0,,,2,,0,,1,,,1,1,2,0,2,Orioles,0,.606,0,.375
+,Wilson,,,,,,,,,,Tyler Wilson,,,,,,,,,Tyler,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Bundy,,,,,,,,,,Dylan Bundy,,,,,,,,,Dylan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Wright Jr.,,,,,,,,,,Mike Wright Jr.,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,
+,Despaigne,,,,,,,,,,Odrisamer Despaigne,,,,,,,,,Odrisamer,,,,,,,,,,,,,,,,,,,,,,,,,,,,Orioles,,,,

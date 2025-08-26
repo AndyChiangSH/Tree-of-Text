@@ -1,0 +1,72 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Trevor Cahill,1,0,1,Aaron Rowand,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Trevor Cahill,2,1,2,Freddy Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Trevor Cahill,3,3,1,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Barry Zito,1,3,2,Coco Crisp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Barry Zito,2,3,2,Daric Barton,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Barry Zito,3,3,2,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Trevor Cahill,1,2,0,Aubrey Huff,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Trevor Cahill,2,2,1,Bengie Molina,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Trevor Cahill,2,4,2,Juan Uribe,['Juan Uribe'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Trevor Cahill,3,1,3,John Bowker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Barry Zito,1,1,2,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Barry Zito,2,3,1,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Barry Zito,3,1,3,Jack Cust,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Trevor Cahill,0,2,1,Andres Torres,['N/A'],['Andres Torres'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Trevor Cahill,1,1,2,Eli Whiteside,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Trevor Cahill,2,1,1,Aaron Rowand,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Trevor Cahill,3,2,2,Freddy Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Barry Zito,0,1,1,Adam Rosales,['Adam Rosales'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Barry Zito,0,0,2,Cliff Pennington,['N/A'],['Cliff Pennington'],['Adam Rosales'],Double,N/A,0,0,N/A,N/A,N/A
+3,bottom,2,"['Adam Rosales', 'Cliff Pennington']",Barry Zito,0,0,1,Rajai Davis,['N/A'],['Rajai Davis'],['N/A'],Double,N/A,2,0,2,N/A,N/A
+3,bottom,0,[],N/A,0,1,0,Coco Crisp,['N/A'],['N/A'],['Rajai Davis'],Stolen Base 3B,N/A,2,0,N/A,N/A,N/A
+3,bottom,1,['Rajai Davis'],Barry Zito,1,1,0,Coco Crisp,['N/A'],['N/A'],['Rajai Davis'],Sac Fly,N/A,3,0,1,N/A,N/A
+3,bottom,0,[],Barry Zito,2,3,1,Daric Barton,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+3,bottom,0,[],Barry Zito,3,2,3,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Trevor Cahill,0,1,0,Pablo Sandoval,['Pablo Sandoval'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Trevor Cahill,0,0,1,Aubrey Huff,['Aubrey Huff'],['Pablo Sandoval'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Trevor Cahill,1,0,1,Bengie Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+4,top,0,[],Trevor Cahill,3,0,0,Ryan Rohlinger,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Barry Zito,0,2,2,Kurt Suzuki,['Kurt Suzuki'],['N/A'],['N/A'],Hit By Pitch,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Barry Zito,2,1,2,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Barry Zito,2,0,0,Jack Cust,['Jack Cust'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+4,bottom,0,[],Barry Zito,3,1,3,Adam Rosales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Trevor Cahill,1,3,2,John Bowker,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Trevor Cahill,2,0,0,Andres Torres,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,0,N/A,N/A,N/A
+5,top,0,[],Trevor Cahill,3,2,3,Eli Whiteside,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+5,bottom,0,[],Barry Zito,1,3,2,Cliff Pennington,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+5,bottom,0,[],Barry Zito,2,0,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,0,N/A,N/A,N/A
+5,bottom,0,[],Barry Zito,2,1,1,Coco Crisp,['Coco Crisp'],['N/A'],['N/A'],Single,N/A,3,0,N/A,N/A,N/A
+5,bottom,0,[],Barry Zito,3,2,0,Daric Barton,['N/A'],['N/A'],['N/A'],Runner Out,N/A,3,0,N/A,N/A,N/A
+6,top,0,[],Trevor Cahill,1,2,3,Aaron Rowand,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+6,top,0,[],Trevor Cahill,1,1,0,Freddy Sanchez,['N/A'],['Freddy Sanchez'],['N/A'],Double,N/A,3,0,N/A,N/A,N/A
+6,top,0,[],Trevor Cahill,2,3,1,Pablo Sandoval,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,0,N/A,N/A,N/A
+6,top,0,[],Trevor Cahill,3,2,3,Aubrey Huff,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,0,N/A,N/A,N/A
+6,bottom,0,[],Barry Zito,0,2,1,Daric Barton,['N/A'],['Daric Barton'],['N/A'],Double,N/A,3,0,N/A,N/A,N/A
+6,bottom,1,['Daric Barton'],Barry Zito,0,0,1,Ryan Sweeney,['Ryan Sweeney'],['N/A'],['N/A'],Single,N/A,4,0,1,N/A,N/A
+6,bottom,0,[],Barry Zito,2,0,0,Kurt Suzuki,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,0,N/A,N/A,N/A
+6,bottom,0,[],Barry Zito,3,1,0,Kevin Kouzmanoff,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,0,N/A,N/A,N/A
+7,top,0,[],Trevor Cahill,1,0,1,Bengie Molina,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,0,N/A,N/A,N/A
+7,top,0,[],Trevor Cahill,2,2,2,Ryan Rohlinger,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,0,N/A,N/A,N/A
+7,top,0,[],Trevor Cahill,2,1,1,John Bowker,['John Bowker'],['N/A'],['N/A'],Single,N/A,4,0,N/A,N/A,N/A
+7,top,1,['John Bowker'],Trevor Cahill,2,3,2,Andres Torres,['N/A'],['Andres Torres'],['N/A'],Double,N/A,4,1,1,N/A,N/A
+7,top,0,[],Brad Ziegler,3,1,0,Eli Whiteside,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Barry Zito,0,4,1,Jack Cust,['Jack Cust'],['N/A'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Barry Zito,1,0,0,Adam Rosales,['Adam Rosales'],['N/A'],['N/A'],Forceout,N/A,4,1,N/A,N/A,N/A
+7,bottom,0,[],Barry Zito,1,1,2,Cliff Pennington,['Cliff Pennington'],['N/A'],['Adam Rosales'],Single,N/A,4,1,N/A,N/A,N/A
+7,bottom,1,['Adam Rosales'],Barry Zito,2,1,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,5,1,1,N/A,N/A
+7,bottom,1,['Cliff Pennington'],Barry Zito,2,0,0,Coco Crisp,['N/A'],['Coco Crisp'],['N/A'],Double,N/A,6,1,1,N/A,N/A
+7,bottom,0,[],Santiago Casilla,3,1,3,Daric Barton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+8,top,0,[],Brad Ziegler,1,3,2,Aaron Rowand,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+8,top,0,[],Brad Ziegler,2,0,1,Freddy Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+8,top,0,[],Brad Ziegler,2,3,1,Pablo Sandoval,['Pablo Sandoval'],['N/A'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+8,top,0,[],Brad Ziegler,2,1,2,Aubrey Huff,['Aubrey Huff'],['Pablo Sandoval'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+8,top,0,[],Brad Ziegler,3,1,1,Bengie Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+8,bottom,0,[],Denny Bautista,1,0,2,Ryan Sweeney,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,1,N/A,N/A,N/A
+8,bottom,0,[],Denny Bautista,1,1,2,Kurt Suzuki,['Kurt Suzuki'],['N/A'],['N/A'],Single,N/A,6,1,N/A,N/A,N/A
+8,bottom,0,[],Denny Bautista,1,3,1,Kevin Kouzmanoff,['Kevin Kouzmanoff'],['N/A'],['Kurt Suzuki'],Single,N/A,6,1,N/A,N/A,N/A
+8,bottom,0,[],Denny Bautista,2,2,3,Eric Patterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+8,bottom,0,[],Denny Bautista,3,2,3,Adam Rosales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,1,N/A,N/A,N/A
+9,top,0,[],Craig Breslow,1,1,2,Ryan Rohlinger,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,1,N/A,N/A,N/A
+9,top,0,[],Craig Breslow,2,2,2,John Bowker,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,1,N/A,N/A,N/A
+9,top,0,[],Craig Breslow,3,1,1,Andres Torres,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,1,N/A,N/A,N/A

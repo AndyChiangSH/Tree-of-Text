@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Juan Nicasio,1,1,3,Jordan Schafer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Juan Nicasio,2,0,2,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Juan Nicasio,3,2,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tim Hudson,0,2,1,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tim Hudson,1,0,1,Mark Ellis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,2,['Carlos Gonzalez'],Tim Hudson,1,0,0,Todd Helton,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,2,N/A,N/A
+1,bottom,0,[],Tim Hudson,2,0,3,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Tim Hudson,3,1,0,Seth Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Juan Nicasio,1,3,2,Dan Uggla,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Juan Nicasio,1,2,2,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Single,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Juan Nicasio,2,3,2,Alex Gonzalez,['N/A'],['Jason Heyward'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,1,['Jason Heyward'],Juan Nicasio,2,2,2,David Ross,['N/A'],['David Ross'],['N/A'],Double,N/A,2,1,1,N/A,N/A
+2,top,0,[],Juan Nicasio,2,4,0,Nate McLouth,['Nate McLouth'],['N/A'],['N/A'],Intent Walk,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Juan Nicasio,3,0,0,Tim Hudson,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Tim Hudson,1,1,2,Eliezer Alfonzo,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Tim Hudson,2,0,1,Ian Stewart,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Tim Hudson,2,3,1,Dexter Fowler,['N/A'],['Dexter Fowler'],['N/A'],Double,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Tim Hudson,3,0,3,Juan Nicasio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Juan Nicasio,0,1,1,Jordan Schafer,['Jordan Schafer'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],N/A,0,1,0,Martin Prado,['N/A'],['Jordan Schafer'],['N/A'],Stolen Base 2B,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Juan Nicasio,1,2,0,Martin Prado,['N/A'],['Jordan Schafer'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Juan Nicasio,2,1,0,Freddie Freeman,['N/A'],['N/A'],['Jordan Schafer'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Juan Nicasio,3,0,1,Dan Uggla,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Tim Hudson,1,0,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Tim Hudson,2,2,2,Mark Ellis,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Tim Hudson,3,1,0,Todd Helton,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Juan Nicasio,1,3,2,Jason Heyward,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Juan Nicasio,2,0,0,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Juan Nicasio,3,3,3,David Ross,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Tim Hudson,1,2,2,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Tim Hudson,2,2,2,Seth Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Tim Hudson,3,2,3,Eliezer Alfonzo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Juan Nicasio,1,1,1,Nate McLouth,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Juan Nicasio,1,1,1,Tim Hudson,['Tim Hudson'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Juan Nicasio,3,1,1,Jordan Schafer,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Tim Hudson,1,2,1,Ian Stewart,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Tim Hudson,1,1,1,Dexter Fowler,['Dexter Fowler'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Tim Hudson,2,1,1,Juan Nicasio,['N/A'],['Dexter Fowler'],['N/A'],Sac Bunt,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Tim Hudson,3,2,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Juan Nicasio,0,1,1,Martin Prado,['Martin Prado'],['N/A'],['N/A'],Field Error,N/A,2,1,N/A,N/A,Juan Nicasio
+6,top,0,[],Juan Nicasio,0,1,0,Freddie Freeman,['N/A'],['Freddie Freeman'],['Martin Prado'],Double,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Juan Nicasio,1,1,0,Dan Uggla,['Dan Uggla'],['N/A'],['N/A'],Fielders Choice Out,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Juan Nicasio,2,0,0,Jason Heyward,['N/A'],['Dan Uggla'],['Freddie Freeman'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Juan Nicasio,3,0,1,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Tim Hudson,0,1,1,Mark Ellis,['Mark Ellis'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Tim Hudson,0,3,2,Todd Helton,['Todd Helton'],['Mark Ellis'],['N/A'],Hit By Pitch,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Tim Hudson,1,0,1,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['Mark Ellis'],Forceout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Tim Hudson,2,3,3,Seth Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Tim Hudson,2,4,1,Eliezer Alfonzo,['Eliezer Alfonzo'],['Troy Tulowitzki'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Tim Hudson,3,1,1,Ian Stewart,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Juan Nicasio,1,2,2,David Ross,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Juan Nicasio,2,2,3,Nate McLouth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Juan Nicasio,3,1,3,Tim Hudson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Tim Hudson,0,1,2,Dexter Fowler,['Dexter Fowler'],['N/A'],['N/A'],Hit By Pitch,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Tim Hudson,2,2,2,Jonathan Herrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Tim Hudson,3,1,0,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Rex Brothers,0,1,2,Jordan Schafer,['Jordan Schafer'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Rex Brothers,1,0,0,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Rex Brothers,2,0,1,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],N/A,2,0,1,Dan Uggla,['N/A'],['Jordan Schafer'],['N/A'],Stolen Base 2B,N/A,2,1,N/A,N/A,N/A
+8,top,1,['Jordan Schafer'],Matt Lindstrom,2,0,1,Dan Uggla,['Dan Uggla'],['Jordan Schafer'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+8,top,0,[],Matt Lindstrom,2,1,1,Jason Heyward,['Jason Heyward'],['Julio Lugo'],['N/A'],Catcher Interference,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Matt Lindstrom,3,1,1,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Jonny Venters,1,1,1,Mark Ellis,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Jonny Venters,2,0,2,Todd Helton,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Jonny Venters,2,4,1,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],Jonny Venters,3,0,3,Seth Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Huston Street,1,0,0,David Ross,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Huston Street,2,3,3,Nate McLouth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+9,top,0,[],Huston Street,3,2,1,Brian McCann,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Eric O'Flaherty,1,0,0,Eliezer Alfonzo,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Eric O'Flaherty,2,1,1,Ian Stewart,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+9,bottom,0,[],Eric O'Flaherty,2,3,1,Dexter Fowler,['N/A'],['Dexter Fowler'],['N/A'],Field Error,N/A,2,2,N/A,N/A,Martin Prado
+9,bottom,0,[],Eric O'Flaherty,2,4,0,Ty Wigginton,['Ty Wigginton'],['N/A'],['N/A'],Intent Walk,N/A,2,2,N/A,N/A,N/A
+9,bottom,1,['Dexter Fowler'],Eric O'Flaherty,2,0,0,Carlos Gonzalez,['Carlos Gonzalez'],['Ty Wigginton'],['N/A'],Single,N/A,3,2,1,N/A,N/A

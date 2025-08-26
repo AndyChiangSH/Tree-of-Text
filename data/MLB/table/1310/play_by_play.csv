@@ -1,0 +1,81 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Max Scherzer,1,0,3,Mallex Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Max Scherzer,2,0,0,Nick Markakis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Max Scherzer,2,4,0,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Max Scherzer,2,1,2,Adonis Garcia,['Adonis Garcia'],['Freddie Freeman'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Freddie Freeman', 'Adonis Garcia']",Max Scherzer,2,0,0,A.J. Pierzynski,['N/A'],['A.J. Pierzynski'],['N/A'],Double,N/A,0,2,2,N/A,N/A
+1,top,0,[],Max Scherzer,3,2,1,Hector Olivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Bud Norris,0,1,1,Michael A. Taylor,['Michael A. Taylor'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],N/A,0,2,2,Anthony Rendon,['N/A'],[],['N/A'],Stolen Base 2B,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Bud Norris,1,3,3,Anthony Rendon,['N/A'],['Michael A. Taylor'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Bud Norris,1,4,1,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],N/A,1,0,1,Ryan Zimmerman,['N/A'],['Bryce Harper'],[],Stolen Base 2B,N/A,0,2,N/A,N/A,N/A
+1,bottom,1,['Michael A. Taylor'],Bud Norris,2,0,2,Ryan Zimmerman,['N/A'],['Bryce Harper'],['Michael A. Taylor'],Sac Fly,N/A,1,2,1,N/A,N/A
+1,bottom,2,['Bryce Harper'],Bud Norris,2,0,1,Daniel Murphy,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,2,N/A,N/A
+1,bottom,0,[],Bud Norris,2,4,2,Jayson Werth,['Jayson Werth'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+1,bottom,0,[],Bud Norris,2,0,1,Wilson Ramos,['Wilson Ramos'],['Jayson Werth'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+1,bottom,0,[],Bud Norris,3,2,3,Danny Espinosa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,1,2,3,Erick Aybar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,1,1,0,Jace Peterson,['Jace Peterson'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,2,0,0,Bud Norris,['N/A'],['Jace Peterson'],['N/A'],Sac Bunt,N/A,3,2,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,2,0,0,Mallex Smith,['Mallex Smith'],['N/A'],['Jace Peterson'],Single,N/A,3,2,N/A,N/A,N/A
+2,top,2,"['Jace Peterson', 'Mallex Smith']",Max Scherzer,2,3,2,Nick Markakis,['N/A'],['Nick Markakis'],['N/A'],Double,N/A,3,4,2,N/A,N/A
+2,top,0,[],Max Scherzer,2,4,0,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Intent Walk,N/A,3,4,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,3,2,2,Adonis Garcia,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,4,N/A,N/A,N/A
+2,bottom,0,[],Bud Norris,1,2,3,Max Scherzer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+2,bottom,0,[],Bud Norris,2,2,2,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+2,bottom,0,[],Bud Norris,2,1,1,Anthony Rendon,['Anthony Rendon'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+2,bottom,0,[],Bud Norris,3,0,0,Bryce Harper,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,1,1,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,2,0,3,Hector Olivera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,3,0,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+3,bottom,0,[],Bud Norris,0,1,2,Ryan Zimmerman,['Ryan Zimmerman'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+3,bottom,0,[],Bud Norris,0,0,1,Daniel Murphy,['Daniel Murphy'],['Ryan Zimmerman'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+3,bottom,0,[],Bud Norris,1,3,2,Jayson Werth,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+3,bottom,0,[],Bud Norris,1,0,0,Wilson Ramos,['Wilson Ramos'],['Daniel Murphy'],['Ryan Zimmerman'],Single,N/A,3,4,N/A,N/A,N/A
+3,bottom,1,['Ryan Zimmerman'],Bud Norris,2,0,0,Danny Espinosa,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,4,1,N/A,N/A
+3,bottom,0,[],Bud Norris,3,1,3,Max Scherzer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,1,0,1,Jace Peterson,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,1,4,1,Bud Norris,['Bud Norris'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,2,1,2,Mallex Smith,['Mallex Smith'],['N/A'],['N/A'],Forceout,N/A,4,4,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,3,2,2,Nick Markakis,['N/A'],['N/A'],['N/A'],Runner Out,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Bud Norris,1,1,1,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Bud Norris,2,0,0,Anthony Rendon,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,4,N/A,N/A,N/A
+4,bottom,0,[],Bud Norris,3,1,0,Bryce Harper,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,0,1,0,Nick Markakis,['N/A'],['Nick Markakis'],['N/A'],Double,N/A,4,4,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,1,1,2,Freddie Freeman,['N/A'],['N/A'],['Nick Markakis'],Groundout,N/A,4,4,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,2,1,3,Adonis Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,3,3,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+5,bottom,0,[],Bud Norris,0,1,2,Ryan Zimmerman,['N/A'],['Ryan Zimmerman'],['N/A'],Double,N/A,4,4,N/A,N/A,N/A
+5,bottom,0,[],Bud Norris,1,0,1,Daniel Murphy,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,4,N/A,N/A,N/A
+5,bottom,0,[],Bud Norris,2,2,2,Jayson Werth,['N/A'],['N/A'],['Ryan Zimmerman'],Pop Out,N/A,4,4,N/A,N/A,N/A
+5,bottom,1,['Ryan Zimmerman'],Bud Norris,2,1,0,Wilson Ramos,['Wilson Ramos'],['N/A'],['N/A'],Single,N/A,5,4,1,N/A,N/A
+5,bottom,0,[],Bud Norris,3,2,1,Danny Espinosa,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,4,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,1,0,0,Hector Olivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,2,1,3,Erick Aybar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,3,1,3,Jace Peterson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+6,bottom,0,[],Jason Grilli,1,2,2,Stephen Drew,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,4,N/A,N/A,N/A
+6,bottom,0,[],Jason Grilli,2,2,3,Michael A. Taylor,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+6,bottom,0,[],Jason Grilli,3,2,1,Anthony Rendon,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Matt Belisle,1,1,2,Kelly Johnson,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Matt Belisle,1,0,1,Drew Stubbs,['Drew Stubbs'],['N/A'],['N/A'],Single,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Felipe Vazquez,3,0,0,Nick Markakis,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Eric O'Flaherty,1,2,3,Bryce Harper,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Eric O'Flaherty,1,4,1,Ryan Zimmerman,['Ryan Zimmerman'],['N/A'],['N/A'],Walk,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Eric O'Flaherty,2,0,1,Daniel Murphy,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Alexi Ogando,2,4,1,Jayson Werth,['Jayson Werth'],['Ryan Zimmerman'],['N/A'],Walk,N/A,5,4,N/A,N/A,N/A
+7,bottom,1,['Ryan Zimmerman'],Alexi Ogando,2,1,1,Wilson Ramos,['Wilson Ramos'],['Jayson Werth'],['N/A'],Single,N/A,6,4,1,N/A,N/A
+7,bottom,0,[],Alexi Ogando,3,2,0,Danny Espinosa,['N/A'],['N/A'],['N/A'],Forceout,N/A,6,4,N/A,N/A,N/A
+8,top,0,[],Felipe Vazquez,1,1,2,Freddie Freeman,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+8,top,0,[],Blake Treinen,1,0,1,Adonis Garcia,['Adonis Garcia'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+8,top,0,[],Blake Treinen,2,0,0,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+8,top,0,[],Blake Treinen,3,1,0,Hector Olivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Alexi Ogando,1,0,3,Matthew den Dekker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Alexi Ogando,1,1,0,Michael A. Taylor,['N/A'],['N/A'],['Michael A. Taylor'],Single,Error,6,4,N/A,N/A,Adonis Garcia
+8,bottom,0,[],Alexi Ogando,2,1,2,Anthony Rendon,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Alexi Ogando,2,4,0,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Intent Walk,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,0,1,Ryan Zimmerman,['N/A'],['Bryce Harper'],['N/A'],Stolen Base 2B,N/A,6,4,N/A,N/A,N/A
+8,bottom,0,[],Alexi Ogando,3,0,2,Ryan Zimmerman,['N/A'],['Bryce Harper'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,1,3,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,2,2,1,Jace Peterson,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,4,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,3,3,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,4,N/A,N/A,N/A

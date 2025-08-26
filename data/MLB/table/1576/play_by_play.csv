@@ -1,0 +1,72 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Brett Anderson,1,1,1,Rajai Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brett Anderson,1,1,2,Eduardo Nunez,['N/A'],['Eduardo Nunez'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brett Anderson,2,2,1,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Brett Anderson,3,2,2,Mookie Betts,['N/A'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Sale,1,1,3,Steve Pearce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Sale,2,1,1,Josh Donaldson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Sale,3,3,1,Justin Smoak,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brett Anderson,1,1,3,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brett Anderson,1,3,2,Rafael Devers,['Rafael Devers'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Brett Anderson,3,1,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Sale,1,1,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Sale,1,3,1,Kendrys Morales,['N/A'],['Kendrys Morales'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Sale,2,0,3,Kevin Pillar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Sale,3,0,1,Darwin Barney,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brett Anderson,1,3,1,Chris Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brett Anderson,2,2,3,Sandy Leon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Brett Anderson,3,2,3,Rajai Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Chris Sale,1,1,3,Miguel Montero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Chris Sale,2,3,3,Ryan Goins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Chris Sale,3,3,3,Steve Pearce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Brett Anderson,1,1,1,Eduardo Nunez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Brett Anderson,2,0,2,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Brett Anderson,3,0,2,Mookie Betts,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Chris Sale,1,3,2,Josh Donaldson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Chris Sale,2,0,1,Justin Smoak,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Chris Sale,3,2,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Brett Anderson,1,1,2,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Brett Anderson,2,0,0,Rafael Devers,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Brett Anderson,3,1,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Chris Sale,1,3,2,Kendrys Morales,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Chris Sale,2,0,2,Kevin Pillar,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+5,bottom,0,[],Chris Sale,3,0,3,Darwin Barney,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Brett Anderson,1,2,2,Chris Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Brett Anderson,2,0,1,Sandy Leon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],Brett Anderson,2,1,2,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+6,top,0,[],N/A,2,0,2,Eduardo Nunez,['N/A'],['Rajai Davis'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+6,top,1,['Rajai Davis'],Brett Anderson,2,2,2,Eduardo Nunez,['N/A'],"['Rajai Davis', 'Eduardo Nunez']",['N/A'],Double,N/A,0,1,1,N/A,N/A
+6,top,0,[],Brett Anderson,2,1,0,Andrew Benintendi,['Andrew Benintendi'],['N/A'],['Eduardo Nunez'],Single,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],N/A,2,1,0,Mookie Betts,['N/A'],['Andrew Benintendi'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Dominic Leone,3,2,2,Mookie Betts,['N/A'],['Andrew Benintendi'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Sale,1,0,0,Miguel Montero,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Sale,2,2,3,Ryan Goins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Chris Sale,3,1,3,Steve Pearce,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Dominic Leone,1,1,3,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Dominic Leone,2,1,3,Rafael Devers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,top,1,[],Dominic Leone,2,1,2,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,1,N/A,N/A
+7,top,0,[],Dominic Leone,3,1,3,Chris Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],Chris Sale,1,0,0,Josh Donaldson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],Chris Sale,2,2,2,Justin Smoak,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+7,bottom,0,[],Chris Sale,3,1,3,Jose Bautista,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+8,top,0,[],Ryan Tepera,1,2,3,Sandy Leon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+8,top,0,[],Ryan Tepera,1,0,0,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+8,top,0,[],N/A,1,3,0,Eduardo Nunez,['N/A'],['Rajai Davis'],['N/A'],Stolen Base 2B,N/A,0,2,N/A,N/A,N/A
+8,top,0,[],Ryan Tepera,1,4,1,Eduardo Nunez,['Eduardo Nunez'],['Rajai Davis'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+8,top,1,['Rajai Davis'],Ryan Tepera,1,3,2,Andrew Benintendi,['Andrew Benintendi'],['Eduardo Nunez'],"['Rajai Davis', 'Eduardo Nunez']",Single,N/A,0,3,1,N/A,N/A
+8,top,0,[],N/A,1,1,0,Mookie Betts,['N/A'],['Andrew Benintendi'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Ryan Tepera,2,2,0,Mookie Betts,['Mookie Betts'],['Andrew Benintendi'],['Andrew Benintendi'],Fielders Choice Out,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],N/A,2,1,0,Xander Bogaerts,['N/A'],['Mookie Betts'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Ryan Tepera,3,2,3,Xander Bogaerts,['N/A'],['Mookie Betts'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Chris Sale,0,1,1,Kendrys Morales,['Kendrys Morales'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Chris Sale,0,0,2,Kevin Pillar,['Kevin Pillar'],['Kendrys Morales'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Addison Reed,1,0,3,Ezequiel Carrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Addison Reed,2,1,3,Miguel Montero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Addison Reed,2,2,1,Ryan Goins,['Ryan Goins'],['Kevin Pillar'],['Kendrys Morales'],Single,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Addison Reed,3,2,2,Steve Pearce,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Roberto Osuna,1,3,2,Rafael Devers,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Roberto Osuna,2,0,1,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Roberto Osuna,3,2,1,Chris Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Craig Kimbrel,1,2,3,Josh Donaldson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Craig Kimbrel,2,2,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Craig Kimbrel,3,1,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A

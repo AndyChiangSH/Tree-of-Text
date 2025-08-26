@@ -1,0 +1,74 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Homer Bailey,1,0,3,Seth Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Homer Bailey,2,0,2,Clint Barmes,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Homer Bailey,3,3,1,Todd Helton,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,0,2,1,Drew Sutton,['N/A'],['Drew Sutton'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,1,1,0,Alex Gonzalez,['N/A'],['N/A'],['Drew Sutton'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,1,['Drew Sutton'],Ubaldo Jimenez,2,0,2,Joey Votto,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Ubaldo Jimenez,3,3,2,Brandon Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Homer Bailey,1,3,1,Brad Hawpe,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Homer Bailey,1,4,2,Troy Tulowitzki,['Troy Tulowitzki'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Homer Bailey,3,2,3,Ian Stewart,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,1,2,2,Scott Rolen,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,[],Ubaldo Jimenez,1,1,0,Jonny Gomes,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,1,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,2,1,3,Laynce Nix,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ubaldo Jimenez,3,3,2,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Homer Bailey,0,1,1,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Homer Bailey,1,1,2,Yorvit Torrealba,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Homer Bailey,2,0,0,Ubaldo Jimenez,['N/A'],['Carlos Gonzalez'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Homer Bailey,3,0,2,Seth Smith,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,1,3,3,Homer Bailey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,2,2,3,Drew Sutton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ubaldo Jimenez,3,0,1,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Homer Bailey,1,2,3,Clint Barmes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Homer Bailey,1,0,1,Todd Helton,['N/A'],['Todd Helton'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Homer Bailey,1,4,1,Brad Hawpe,['Brad Hawpe'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Homer Bailey,1,3,1,Troy Tulowitzki,['Troy Tulowitzki'],['Brad Hawpe'],['Todd Helton'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,2,"['Todd Helton', 'Brad Hawpe']",Homer Bailey,1,2,2,Ian Stewart,['Ian Stewart'],['N/A'],['Troy Tulowitzki'],Single,N/A,2,2,2,N/A,N/A
+4,top,1,['Troy Tulowitzki'],Homer Bailey,2,3,2,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,3,1,N/A,N/A
+4,top,0,[],Homer Bailey,3,0,3,Yorvit Torrealba,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,1,2,2,Joey Votto,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,1,2,1,Brandon Phillips,['Brandon Phillips'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,2,0,0,Scott Rolen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ubaldo Jimenez,3,1,3,Jonny Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Homer Bailey,1,0,2,Ubaldo Jimenez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,[],Homer Bailey,1,1,2,Seth Smith,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,1,N/A,N/A
+5,top,0,[],Homer Bailey,2,0,1,Clint Barmes,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Homer Bailey,3,1,1,Todd Helton,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,1,2,0,Laynce Nix,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,2,1,2,Ryan Hanigan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ubaldo Jimenez,3,1,3,Homer Bailey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Homer Bailey,0,1,2,Brad Hawpe,['Brad Hawpe'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,1,['Brad Hawpe'],Homer Bailey,0,3,2,Troy Tulowitzki,['N/A'],['Troy Tulowitzki'],['N/A'],Double,N/A,2,5,1,N/A,N/A
+6,top,0,[],Homer Bailey,1,1,1,Ian Stewart,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Daniel Herrera,2,0,3,Carlos Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Daniel Herrera,2,4,0,Yorvit Torrealba,['Yorvit Torrealba'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Daniel Herrera,3,1,0,Ubaldo Jimenez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,1,0,2,Drew Sutton,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,2,0,1,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,2,0,0,Joey Votto,['Joey Votto'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ubaldo Jimenez,3,1,1,Brandon Phillips,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Daniel Herrera,1,3,3,Seth Smith,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Daniel Herrera,1,0,2,Clint Barmes,['Clint Barmes'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Daniel Herrera,3,0,2,Todd Helton,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Ubaldo Jimenez,1,1,2,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Ubaldo Jimenez,2,1,3,Jonny Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Ubaldo Jimenez,3,0,3,Laynce Nix,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Daniel Herrera,0,0,2,Brad Hawpe,['Brad Hawpe'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Carlos Fisher,1,1,3,Troy Tulowitzki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Carlos Fisher,1,2,0,Ian Stewart,['N/A'],['Brad Hawpe'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Carlos Fisher,2,3,3,Ian Stewart,['N/A'],['Brad Hawpe'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Carlos Fisher,2,4,0,Carlos Gonzalez,['Carlos Gonzalez'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Carlos Fisher,3,0,0,Yorvit Torrealba,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Ubaldo Jimenez,0,1,1,Ryan Hanigan,['Ryan Hanigan'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Ubaldo Jimenez,1,1,2,Wladimir Balentien,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Ubaldo Jimenez,2,2,3,Drew Sutton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Ubaldo Jimenez,3,2,2,Alex Gonzalez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Carlos Fisher,0,4,2,Dexter Fowler,['Dexter Fowler'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Carlos Fisher,0,1,0,Seth Smith,['N/A'],['Dexter Fowler'],['N/A'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Carlos Fisher,1,2,1,Seth Smith,['N/A'],['Dexter Fowler'],['Dexter Fowler'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,1,['Dexter Fowler'],Carlos Fisher,2,1,1,Clint Barmes,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,6,1,N/A,N/A
+9,top,0,[],Carlos Fisher,3,2,1,Todd Helton,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joe Beimel,1,1,3,Joey Votto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joe Beimel,2,1,0,Brandon Phillips,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Joe Beimel,3,1,1,Scott Rolen,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

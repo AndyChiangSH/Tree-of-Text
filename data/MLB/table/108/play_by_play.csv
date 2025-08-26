@@ -1,0 +1,80 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Zach Jackson,1,2,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Zach Jackson,2,1,2,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Zach Jackson,3,1,1,Raul Ibanez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ryan Rowland-Smith,1,1,1,Grady Sizemore,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ryan Rowland-Smith,2,3,2,Jamey Carroll,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ryan Rowland-Smith,2,3,1,Victor Martinez,['N/A'],['Victor Martinez'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Ryan Rowland-Smith,3,1,1,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,1,[],Zach Jackson,0,3,1,Adrian Beltre,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],Zach Jackson,1,1,3,Jose Lopez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Zach Jackson,2,0,2,Wladimir Balentien,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Zach Jackson,3,3,2,Kenji Johjima,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ryan Rowland-Smith,1,0,2,Ryan Garko,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,[],Ryan Rowland-Smith,1,0,0,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],Ryan Rowland-Smith,2,2,0,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Ryan Rowland-Smith,3,3,2,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Zach Jackson,1,3,3,Jeff Clement,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Zach Jackson,1,0,2,Miguel Cairo,['N/A'],['Miguel Cairo'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Zach Jackson,2,2,0,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Zach Jackson,3,3,3,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ryan Rowland-Smith,1,2,2,Andy Marte,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ryan Rowland-Smith,1,2,0,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ryan Rowland-Smith,1,2,2,Jamey Carroll,['Jamey Carroll'],['Grady Sizemore'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Ryan Rowland-Smith,3,3,3,Victor Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Zach Jackson,1,1,3,Raul Ibanez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Zach Jackson,1,0,1,Adrian Beltre,['Adrian Beltre'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Zach Jackson,2,2,1,Jose Lopez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Zach Jackson,3,1,0,Wladimir Balentien,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ryan Rowland-Smith,1,2,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ryan Rowland-Smith,2,0,1,Ryan Garko,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Ryan Rowland-Smith,3,0,1,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Zach Jackson,1,2,1,Kenji Johjima,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Zach Jackson,1,2,1,Jeff Clement,['Jeff Clement'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Zach Jackson,1,0,0,Miguel Cairo,['N/A'],['Miguel Cairo'],['Jeff Clement'],Single,Error,N/A,N/A,N/A,N/A,Zach Jackson
+5,top,1,['Jeff Clement'],Zach Jackson,1,3,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['Miguel Cairo'],Single,N/A,1,2,1,N/A,N/A
+5,top,1,['Miguel Cairo'],N/A,1,1,0,Yuniesky Betancourt,['N/A'],['Ichiro Suzuki'],['N/A'],Pickoff Error 1B,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Zach Jackson,2,1,0,Yuniesky Betancourt,['N/A'],['Ichiro Suzuki'],['Ichiro Suzuki'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['Ichiro Suzuki'],Zach Jackson,2,0,0,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Single,N/A,1,4,1,N/A,N/A
+5,top,2,['Raul Ibanez'],Zach Jackson,2,0,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,6,2,N/A,N/A
+5,top,0,[],Zach Jackson,2,4,1,Jose Lopez,['Jose Lopez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Zach Jackson,3,3,3,Wladimir Balentien,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ryan Rowland-Smith,1,1,2,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ryan Rowland-Smith,1,2,2,Kelly Shoppach,['N/A'],['Kelly Shoppach'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ryan Rowland-Smith,2,0,0,Andy Marte,['N/A'],['N/A'],['Kelly Shoppach'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Ryan Rowland-Smith,3,1,2,Grady Sizemore,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Masa Kobayashi,1,1,1,Kenji Johjima,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Masa Kobayashi,2,1,2,Jeff Clement,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Masa Kobayashi,3,0,0,Miguel Cairo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ryan Rowland-Smith,1,1,1,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ryan Rowland-Smith,2,2,2,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ryan Rowland-Smith,2,4,2,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Ryan Rowland-Smith,3,0,1,Ryan Garko,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Juan Rincon,1,1,0,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Juan Rincon,2,2,2,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Juan Rincon,2,4,2,Raul Ibanez,['Raul Ibanez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Juan Rincon,3,1,3,Adrian Beltre,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Ryan Rowland-Smith,1,1,3,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Ryan Rowland-Smith,1,2,1,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Adrian Beltre
+7,bottom,0,[],Ryan Rowland-Smith,1,2,2,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['Franklin Gutierrez'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,1,['Franklin Gutierrez'],Ryan Rowland-Smith,1,3,2,Andy Marte,['Andy Marte'],['Kelly Shoppach'],['N/A'],Single,N/A,2,6,1,N/A,N/A
+7,bottom,0,[],Jake Woods,2,0,1,Grady Sizemore,['N/A'],['Andy Marte'],['Kelly Shoppach'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Randy Messenger,2,4,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Randy Messenger,3,2,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Juan Rincon,1,1,3,Jose Lopez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Juan Rincon,2,0,0,Wladimir Balentien,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Juan Rincon,3,1,1,Kenji Johjima,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Randy Messenger,0,2,0,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Randy Messenger,0,4,2,Ryan Garko,['Ryan Garko'],['Jhonny Peralta'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Randy Messenger,0,1,0,Shin-Soo Choo,['Shin-Soo Choo'],['Ryan Garko'],['Jhonny Peralta'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,2,"['Jhonny Peralta', 'Ryan Garko']",Miguel Batista,1,1,0,Franklin Gutierrez,['N/A'],['Franklin Gutierrez'],['N/A'],Forceout,Error,4,6,1,1,Jose Lopez
+8,bottom,0,[],Miguel Batista,2,1,0,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Miguel Batista,3,2,1,Andy Marte,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Rafael Perez,1,1,3,Jeff Clement,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Rafael Perez,2,2,3,Miguel Cairo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Rafael Perez,3,1,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Roy Corcoran,0,4,0,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Roy Corcoran,0,4,0,Jamey Carroll,['Jamey Carroll'],['Grady Sizemore'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Roy Corcoran,1,1,3,Victor Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Roy Corcoran,1,4,2,Jhonny Peralta,['Jhonny Peralta'],['Jamey Carroll'],['Grady Sizemore'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Roy Corcoran,3,2,1,Ryan Garko,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A

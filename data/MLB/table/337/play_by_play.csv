@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mark Buehrle,1,2,3,Jason Bartlett,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mark Buehrle,2,2,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mark Buehrle,3,3,3,Evan Longoria,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Wade Davis,0,1,0,Juan Pierre,['Juan Pierre'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Wade Davis,1,4,2,Gordon Beckham,['Gordon Beckham'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Wade Davis,2,2,3,Carlos Quentin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Wade Davis,2,4,0,Paul Konerko,['Paul Konerko'],['Gordon Beckham'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Wade Davis,3,0,0,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mark Buehrle,1,1,1,Carlos Pena,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mark Buehrle,1,1,0,Melvin Upton,['N/A'],['Melvin Upton'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mark Buehrle,2,0,2,Pat Burrell,['N/A'],['Pat Burrell'],['N/A'],Fielders Choice Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mark Buehrle,3,1,0,Gabe Kapler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,0,4,2,Andruw Jones,['Andruw Jones'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],N/A,0,0,1,Alex Rios,['N/A'],['Andruw Jones'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,1,1,3,Alex Rios,['N/A'],['Andruw Jones'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,2,1,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Wade Davis,3,2,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mark Buehrle,1,2,1,Dioner Navarro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mark Buehrle,1,1,1,Sean Rodriguez,['N/A'],['Sean Rodriguez'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+3,top,1,['Sean Rodriguez'],Mark Buehrle,1,2,1,Jason Bartlett,['Jason Bartlett'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+3,top,0,[],Mark Buehrle,3,2,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Wade Davis,1,0,0,Juan Pierre,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Wade Davis,2,0,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Wade Davis,3,1,3,Carlos Quentin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Mark Buehrle,0,0,0,Evan Longoria,['N/A'],['Evan Longoria'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Mark Buehrle,0,4,2,Carlos Pena,['Carlos Pena'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,top,1,['Evan Longoria'],Mark Buehrle,0,1,1,Melvin Upton,['N/A'],['Melvin Upton'],['Carlos Pena'],Single,N/A,0,2,1,N/A,N/A
+4,top,1,['Carlos Pena'],Mark Buehrle,1,3,0,Pat Burrell,['N/A'],['N/A'],['Melvin Upton'],Sac Fly,N/A,0,3,1,N/A,N/A
+4,top,1,['Melvin Upton'],Mark Buehrle,1,2,1,Gabe Kapler,['Gabe Kapler'],['N/A'],['N/A'],Single,N/A,0,4,1,N/A,N/A
+4,top,0,[],Mark Buehrle,2,0,0,Dioner Navarro,['N/A'],['Gabe Kapler'],['N/A'],Sac Bunt,N/A,0,4,N/A,N/A,N/A
+4,top,1,['Gabe Kapler'],Mark Buehrle,2,0,0,Sean Rodriguez,['Sean Rodriguez'],['N/A'],['N/A'],Single,N/A,0,5,1,N/A,N/A
+4,top,0,[],Mark Buehrle,3,0,0,Jason Bartlett,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Wade Davis,1,0,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Wade Davis,2,1,1,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Wade Davis,3,3,3,Andruw Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Mark Buehrle,0,2,2,Jason Bartlett,['Jason Bartlett'],['N/A'],['N/A'],Single,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Mark Buehrle,1,0,2,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Mark Buehrle,1,1,1,Evan Longoria,['N/A'],['Evan Longoria'],['Jason Bartlett'],Double,N/A,0,5,N/A,N/A,N/A
+5,top,1,['Jason Bartlett'],Mark Buehrle,2,1,1,Carlos Pena,['N/A'],['N/A'],['Evan Longoria'],Sac Fly,N/A,0,6,1,N/A,N/A
+5,top,0,[],Ramon Pena,3,1,3,Melvin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+5,bottom,0,[],Wade Davis,1,1,2,Alex Rios,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+5,bottom,0,[],Wade Davis,2,1,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,6,N/A,N/A,N/A
+5,bottom,0,[],Wade Davis,3,2,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Ramon Pena,1,0,1,Pat Burrell,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Ramon Pena,1,4,2,Gabe Kapler,['Gabe Kapler'],['N/A'],['N/A'],Walk,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Ramon Pena,1,3,1,Dioner Navarro,['N/A'],['Gabe Kapler'],['N/A'],Wild Pitch,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Ramon Pena,1,4,1,Dioner Navarro,['Dioner Navarro'],['Gabe Kapler'],['N/A'],Walk,N/A,0,6,N/A,N/A,N/A
+6,top,3,"['Gabe Kapler', 'Dioner Navarro']",Ramon Pena,1,2,2,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,9,3,N/A,N/A
+6,top,0,[],Ramon Pena,1,3,2,Jason Bartlett,['Jason Bartlett'],['N/A'],['N/A'],Single,N/A,0,9,N/A,N/A,N/A
+6,top,0,[],Randy Williams,1,4,0,Carl Crawford,['Carl Crawford'],['Jason Bartlett'],['N/A'],Walk,N/A,0,9,N/A,N/A,N/A
+6,top,1,['Jason Bartlett'],Randy Williams,1,1,1,Evan Longoria,['Evan Longoria'],['Carl Crawford'],['N/A'],Single,N/A,0,10,1,N/A,N/A
+6,top,0,[],Randy Williams,1,0,1,Carlos Pena,['Carlos Pena'],['Evan Longoria'],['Carl Crawford'],Field Error,N/A,0,10,N/A,N/A,Paul Konerko
+6,top,1,['Carl Crawford'],Randy Williams,1,4,0,Melvin Upton,['Melvin Upton'],['Carlos Pena'],['Evan Longoria'],Walk,N/A,0,11,1,N/A,N/A
+6,top,1,['Evan Longoria'],Randy Williams,1,4,0,Pat Burrell,['Pat Burrell'],['Melvin Upton'],['Carlos Pena'],Walk,N/A,0,12,1,N/A,N/A
+6,top,0,[],Scott Linebrink,2,1,3,Gabe Kapler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+6,top,0,[],Scott Linebrink,3,1,1,Dioner Navarro,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,12,N/A,N/A,N/A
+6,bottom,0,[],Wade Davis,0,0,1,Juan Pierre,['Juan Pierre'],['N/A'],['N/A'],Single,N/A,0,12,N/A,N/A,N/A
+6,bottom,0,[],Wade Davis,1,1,0,Gordon Beckham,['Gordon Beckham'],['N/A'],['N/A'],Forceout,N/A,0,12,N/A,N/A,N/A
+6,bottom,0,[],Wade Davis,1,1,0,Carlos Quentin,['Carlos Quentin'],['Gordon Beckham'],['N/A'],Field Error,N/A,0,12,N/A,N/A,Jason Bartlett
+6,bottom,0,[],Wade Davis,3,1,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,12,N/A,N/A,N/A
+7,top,0,[],Scott Linebrink,1,0,3,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+7,top,0,[],Scott Linebrink,1,4,2,Jason Bartlett,['Jason Bartlett'],['N/A'],['N/A'],Walk,N/A,0,12,N/A,N/A,N/A
+7,top,0,[],Scott Linebrink,1,2,1,Carl Crawford,['Carl Crawford'],['Jason Bartlett'],['N/A'],Single,N/A,0,12,N/A,N/A,N/A
+7,top,0,[],Scott Linebrink,2,2,3,Evan Longoria,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+7,top,0,[],Scott Linebrink,3,2,3,Carlos Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+7,bottom,0,[],Mike Ekstrom,0,4,2,Donny Lucy,['Donny Lucy'],['N/A'],['N/A'],Walk,N/A,0,12,N/A,N/A,N/A
+7,bottom,0,[],Mike Ekstrom,1,1,1,Andruw Jones,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,12,N/A,N/A,N/A
+7,bottom,0,[],Mike Ekstrom,2,1,1,Alex Rios,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,12,N/A,N/A,N/A
+7,bottom,0,[],Mike Ekstrom,3,2,3,Mark Teahen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+8,top,0,[],Sergio Santos,1,2,3,Reid Brignac,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+8,top,0,[],Sergio Santos,1,4,1,John Jaso,['John Jaso'],['N/A'],['N/A'],Walk,N/A,0,12,N/A,N/A,N/A
+8,top,0,[],Sergio Santos,2,1,1,Gabe Kapler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,12,N/A,N/A,N/A
+8,top,0,[],Sergio Santos,3,3,2,Dioner Navarro,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,12,N/A,N/A,N/A
+8,bottom,0,[],Mike Ekstrom,0,1,2,Jayson Nix,['Jayson Nix'],['N/A'],['N/A'],Single,N/A,0,12,N/A,N/A,N/A
+8,bottom,0,[],Mike Ekstrom,1,1,1,Juan Pierre,['Juan Pierre'],['N/A'],['N/A'],Forceout,N/A,0,12,N/A,N/A,N/A
+8,bottom,0,[],Mike Ekstrom,1,2,2,Gordon Beckham,['Gordon Beckham'],['Juan Pierre'],['N/A'],Single,N/A,0,12,N/A,N/A,N/A
+8,bottom,0,[],Mike Ekstrom,2,1,3,Carlos Quentin,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+8,bottom,0,[],Mike Ekstrom,3,3,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,12,N/A,N/A,N/A
+9,top,0,[],J.J. Putz,1,0,1,Sean Rodriguez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,12,N/A,N/A,N/A
+9,top,0,[],J.J. Putz,2,0,0,Jason Bartlett,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,12,N/A,N/A,N/A
+9,top,0,[],J.J. Putz,3,0,0,Carl Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,12,N/A,N/A,N/A
+9,bottom,0,[],Andy Sonnanstine,1,1,3,Donny Lucy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+9,bottom,0,[],Andy Sonnanstine,2,1,3,Andruw Jones,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,12,N/A,N/A,N/A
+9,bottom,0,[],Andy Sonnanstine,3,1,0,Alex Rios,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,12,N/A,N/A,N/A

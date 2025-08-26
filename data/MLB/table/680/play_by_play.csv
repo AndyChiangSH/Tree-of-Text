@@ -1,0 +1,71 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Gio Gonzalez,1,2,2,Jose Tabata,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Gio Gonzalez,2,1,1,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Gio Gonzalez,2,0,1,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Gio Gonzalez,3,1,3,Casey McGehee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Erik Bedard,1,0,0,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Erik Bedard,1,1,1,Bryce Harper,['N/A'],['N/A'],['Bryce Harper'],Triple,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Bryce Harper'],Erik Bedard,2,0,0,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Erik Bedard,2,0,1,Adam LaRoche,['Adam LaRoche'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Erik Bedard,2,4,1,Xavier Nady,['Xavier Nady'],['Adam LaRoche'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Erik Bedard,3,2,2,Danny Espinosa,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Gio Gonzalez,1,2,3,Yamaico Navarro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Gio Gonzalez,2,2,3,Rod Barajas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Gio Gonzalez,3,2,3,Clint Barmes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Erik Bedard,1,0,1,Tyler Moore,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Erik Bedard,2,2,0,Jesus Flores,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Erik Bedard,3,2,2,Gio Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Gio Gonzalez,1,0,0,Josh Harrison,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Gio Gonzalez,2,1,3,Erik Bedard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Gio Gonzalez,3,0,1,Jose Tabata,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,bottom,1,[],Erik Bedard,0,1,2,Ian Desmond,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,0,1,N/A,N/A
+3,bottom,0,[],Erik Bedard,1,3,3,Bryce Harper,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Erik Bedard,2,1,0,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+3,bottom,0,[],Erik Bedard,3,1,3,Adam LaRoche,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Gio Gonzalez,1,3,2,Neil Walker,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Gio Gonzalez,2,1,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+4,top,0,[],Gio Gonzalez,3,1,1,Casey McGehee,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Erik Bedard,1,2,2,Xavier Nady,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Erik Bedard,2,1,3,Danny Espinosa,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+4,bottom,0,[],Erik Bedard,3,2,2,Tyler Moore,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Gio Gonzalez,0,4,2,Yamaico Navarro,['Yamaico Navarro'],['N/A'],['N/A'],Walk,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Gio Gonzalez,0,0,1,Rod Barajas,['Rod Barajas'],['N/A'],['Yamaico Navarro'],Single,N/A,2,0,N/A,N/A,N/A
+5,top,0,[],Gio Gonzalez,1,1,3,Clint Barmes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,0,N/A,N/A,N/A
+5,top,1,['Yamaico Navarro'],Gio Gonzalez,1,2,0,Josh Harrison,['Josh Harrison'],['Rod Barajas'],['N/A'],Single,N/A,2,1,1,N/A,N/A
+5,top,0,[],Gio Gonzalez,2,1,3,Erik Bedard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Gio Gonzalez,3,0,1,Jose Tabata,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Erik Bedard,1,1,1,Jesus Flores,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Erik Bedard,2,0,3,Gio Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Erik Bedard,3,2,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Gio Gonzalez,1,2,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Gio Gonzalez,2,0,0,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Gio Gonzalez,3,3,3,Casey McGehee,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Erik Bedard,1,1,3,Bryce Harper,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,bottom,0,[],Erik Bedard,2,0,3,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+6,bottom,1,[],Erik Bedard,2,1,2,Adam LaRoche,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,1,1,N/A,N/A
+6,bottom,1,[],Erik Bedard,2,0,1,Xavier Nady,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,1,1,N/A,N/A
+6,bottom,0,[],Erik Bedard,2,0,1,Danny Espinosa,['Danny Espinosa'],['N/A'],['N/A'],Single,N/A,4,1,N/A,N/A,N/A
+6,bottom,0,[],Erik Bedard,3,3,1,Tyler Moore,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],Gio Gonzalez,1,0,0,Yamaico Navarro,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],Gio Gonzalez,1,4,0,Rod Barajas,['Rod Barajas'],['N/A'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+7,top,0,[],Gio Gonzalez,2,1,2,Clint Barmes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,1,N/A,N/A,N/A
+7,top,2,['Rod Barajas'],Gio Gonzalez,2,2,1,Josh Harrison,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,3,2,N/A,N/A
+7,top,0,[],Gio Gonzalez,3,2,3,Nate McLouth,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+7,bottom,0,[],Evan Meek,0,0,2,Jesus Flores,['Jesus Flores'],['N/A'],['N/A'],Hit By Pitch,N/A,4,3,N/A,N/A,N/A
+7,bottom,0,[],Evan Meek,1,0,1,Roger Bernadina,['N/A'],['Jesus Flores'],['N/A'],Sac Bunt,N/A,4,3,N/A,N/A,N/A
+7,bottom,0,[],Evan Meek,2,1,3,Ian Desmond,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+7,bottom,0,[],Evan Meek,2,4,0,Bryce Harper,['Bryce Harper'],['N/A'],['N/A'],Walk,N/A,4,3,N/A,N/A,N/A
+7,bottom,0,[],Evan Meek,2,4,1,Ryan Zimmerman,['Ryan Zimmerman'],['Bryce Harper'],['Jesus Flores'],Walk,N/A,4,3,N/A,N/A,N/A
+7,bottom,3,"['Jesus Flores', 'Bryce Harper', 'Ryan Zimmerman']",Evan Meek,2,0,0,Adam LaRoche,['N/A'],['Adam LaRoche'],['N/A'],Double,N/A,7,3,3,N/A,N/A
+7,bottom,0,[],Evan Meek,3,1,3,Xavier Nady,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Tyler Clippard,0,1,2,Jose Tabata,['Jose Tabata'],['N/A'],['N/A'],Single,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Tyler Clippard,1,1,3,Neil Walker,['N/A'],['Jose Tabata'],['N/A'],Strikeout,N/A,7,3,N/A,N/A,N/A
+8,top,0,[],Tyler Clippard,1,0,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['Jose Tabata'],Single,N/A,7,3,N/A,N/A,N/A
+8,top,1,['Jose Tabata'],Tyler Clippard,2,3,2,Casey McGehee,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,7,4,1,N/A,N/A
+8,top,0,[],Tyler Clippard,3,0,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],Jared Hughes,1,3,2,Danny Espinosa,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],Jared Hughes,2,2,0,Rick Ankiel,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+8,bottom,0,[],Jared Hughes,3,1,2,Jesus Flores,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,4,N/A,N/A,N/A
+9,top,0,[],Henry Alberto Rodriguez,0,1,0,Rod Barajas,['Rod Barajas'],['N/A'],['N/A'],Field Error,N/A,7,4,N/A,N/A,Ian Desmond
+9,top,0,[],Henry Alberto Rodriguez,1,2,3,Clint Barmes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,7,4,N/A,N/A,N/A
+9,top,0,[],Henry Alberto Rodriguez,3,1,2,Josh Harrison,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,7,4,N/A,N/A,N/A

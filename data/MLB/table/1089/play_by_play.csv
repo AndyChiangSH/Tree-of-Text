@@ -1,0 +1,83 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,1,[],Chris Capuano,0,0,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Chris Capuano,1,0,1,Carlos Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Chris Capuano,2,3,1,Jose Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Chris Capuano,3,1,3,Avisail Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chris Sale,1,3,1,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chris Sale,2,1,3,Martin Prado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Chris Sale,3,0,0,Mark Teixeira,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,1,2,0,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,2,3,2,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,2,3,2,Dayan Viciedo,['Dayan Viciedo'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,2,1,2,Tyler Flowers,['Tyler Flowers'],['Dayan Viciedo'],['N/A'],Hit By Pitch,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,3,1,2,Jordan Danks,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chris Sale,1,2,2,Carlos Beltran,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chris Sale,1,3,1,Chase Headley,['N/A'],['Chase Headley'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chris Sale,2,1,3,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Chris Sale,3,1,3,Zelous Wheeler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Chris Capuano,1,3,2,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Chris Capuano,1,2,2,Carlos Sanchez,['Carlos Sanchez'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Chris Capuano,2,0,1,Jose Abreu,['N/A'],['Jose Abreu'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Chris Capuano,3,2,3,Avisail Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Sale,0,0,0,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Sale,1,2,3,Brendan Ryan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Sale,2,0,1,Derek Jeter,['Derek Jeter'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Chris Sale,3,1,2,Martin Prado,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Chris Capuano,1,2,1,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Chris Capuano,2,0,3,Paul Konerko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Chris Capuano,3,0,1,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Sale,1,1,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Sale,2,0,2,Carlos Beltran,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Sale,2,4,2,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Chris Sale,3,2,3,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Chris Capuano,1,1,2,Tyler Flowers,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Chris Capuano,2,2,0,Jordan Danks,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Chris Capuano,3,0,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Chris Sale,1,2,3,Zelous Wheeler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Chris Sale,2,2,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Chris Sale,3,0,0,Brendan Ryan,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Chris Capuano,1,2,2,Carlos Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Chris Capuano,1,1,2,Jose Abreu,['Jose Abreu'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Chris Capuano,2,2,3,Avisail Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,top,2,['Jose Abreu'],Chris Capuano,2,2,0,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,3,2,N/A,N/A
+6,top,0,[],Chris Capuano,3,3,3,Paul Konerko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Chris Sale,1,0,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Chris Sale,1,2,2,Martin Prado,['N/A'],['Martin Prado'],['N/A'],Field Error,N/A,0,3,N/A,N/A,Dayan Viciedo
+6,bottom,1,['Martin Prado'],Chris Sale,1,0,1,Mark Teixeira,['N/A'],['Mark Teixeira'],['N/A'],Double,N/A,1,3,1,N/A,N/A
+6,bottom,0,[],Chris Sale,1,4,0,Carlos Beltran,['Carlos Beltran'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Chris Sale,2,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Chris Sale,2,4,1,Francisco Cervelli,['Francisco Cervelli'],['Carlos Beltran'],['Mark Teixeira'],Walk,N/A,1,3,N/A,N/A,N/A
+6,bottom,1,['Mark Teixeira'],Chris Sale,2,0,0,Zelous Wheeler,['Zelous Wheeler'],['Francisco Cervelli'],['Carlos Beltran'],Hit By Pitch,N/A,2,3,1,N/A,N/A
+6,bottom,2,"['Carlos Beltran', 'Francisco Cervelli']",Chris Sale,2,0,0,Ichiro Suzuki,['Ichiro Suzuki'],['Zelous Wheeler'],['N/A'],Single,N/A,4,3,2,N/A,N/A
+6,bottom,0,[],Chris Sale,3,2,1,Brendan Ryan,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+7,top,0,[],Esmil Rogers,1,1,1,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+7,top,0,[],Esmil Rogers,2,2,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+7,top,0,[],Rich Hill,3,1,1,Jordan Danks,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+7,bottom,0,[],Zach Putnam,1,1,1,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+7,bottom,0,[],Zach Putnam,1,3,2,Martin Prado,['Martin Prado'],['N/A'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+7,bottom,0,[],Zach Putnam,3,2,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Adam Warren,1,1,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Adam Warren,2,0,1,Carlos Sanchez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Adam Warren,3,3,3,Jose Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Javy Guerra,1,2,1,Carlos Beltran,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Javy Guerra,2,0,1,Chase Headley,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Javy Guerra,3,3,3,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+9,top,1,[],David Robertson,0,0,0,Avisail Garcia,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,4,1,N/A,N/A
+9,top,0,[],David Robertson,1,2,1,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],David Robertson,2,2,3,Paul Konerko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+9,top,0,[],David Robertson,3,0,0,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Javy Guerra,0,1,1,Jacoby Ellsbury,['Jacoby Ellsbury'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Javy Guerra,1,0,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],N/A,1,0,1,Stephen Drew,['N/A'],['Jacoby Ellsbury'],['N/A'],Stolen Base 2B,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Javy Guerra,1,4,1,Stephen Drew,['Stephen Drew'],['Jacoby Ellsbury'],['N/A'],Intent Walk,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Jake Petricka,3,0,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],David Huff,1,0,1,Tyler Flowers,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],David Huff,1,2,2,Jordan Danks,['Jordan Danks'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],David Huff,2,1,3,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],David Huff,2,0,0,Carlos Sanchez,['Carlos Sanchez'],['Jordan Danks'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],David Huff,3,1,3,Jose Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Jake Petricka,1,2,3,Martin Prado,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Jake Petricka,2,2,3,Mark Teixeira,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Jake Petricka,2,1,1,Carlos Beltran,['N/A'],['Carlos Beltran'],['N/A'],Double,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Jake Petricka,2,4,0,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Intent Walk,N/A,4,4,N/A,N/A,N/A
+10,bottom,3,"['Carlos Beltran', 'Chase Headley']",Jake Petricka,2,3,2,Brian McCann,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,4,3,N/A,N/A

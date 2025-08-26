@@ -1,0 +1,80 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jon Lester,1,2,2,Matt Carpenter,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Jon Lester,1,1,0,Jason Heyward,['N/A'],['Jason Heyward'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Jason Heyward'],Jon Lester,1,2,0,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Jon Lester,2,0,3,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Jon Lester,3,1,3,Matt Adams,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Adam Wainwright,0,1,0,Dexter Fowler,['N/A'],['Dexter Fowler'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Adam Wainwright,1,1,2,Jorge Soler,['N/A'],['N/A'],['Dexter Fowler'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Adam Wainwright,2,2,3,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Adam Wainwright,3,2,1,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jon Lester,1,1,3,Yadier Molina,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jon Lester,1,4,2,Kolten Wong,['Kolten Wong'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jon Lester,1,0,2,Jon Jay,['Jon Jay'],['N/A'],['Kolten Wong'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Jon Lester,2,0,3,Adam Wainwright,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,1,['Kolten Wong'],Jon Lester,2,0,0,Matt Carpenter,['Matt Carpenter'],['N/A'],['Jon Jay'],Single,N/A,0,2,1,N/A,N/A
+2,top,0,[],Jon Lester,3,1,0,Jason Heyward,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Adam Wainwright,0,2,0,Chris Coghlan,['N/A'],['Chris Coghlan'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Adam Wainwright,1,3,3,Mike Olt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Adam Wainwright,2,0,1,David Ross,['N/A'],['N/A'],['Chris Coghlan'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Adam Wainwright,3,0,3,Jon Lester,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jon Lester,0,0,0,Jason Heyward,['N/A'],['Jason Heyward'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jon Lester,1,2,2,Matt Holliday,['N/A'],['N/A'],['Jason Heyward'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jon Lester,2,1,3,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Jon Lester,3,2,0,Matt Adams,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Adam Wainwright,0,3,2,Tommy La Stella,['Tommy La Stella'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Adam Wainwright,1,3,2,Dexter Fowler,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],N/A,1,0,1,Jorge Soler,['N/A'],['Tommy La Stella'],['N/A'],Stolen Base 2B,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Adam Wainwright,2,3,3,Jorge Soler,['N/A'],['Tommy La Stella'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Adam Wainwright,3,3,3,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Jon Lester,0,4,1,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Jon Lester,1,1,2,Kolten Wong,['Kolten Wong'],['N/A'],['N/A'],Forceout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],N/A,1,1,1,Jon Jay,['N/A'],['Kolten Wong'],['N/A'],Stolen Base 2B,Error,0,2,N/A,N/A,David Ross
+4,top,0,[],Jon Lester,2,2,3,Jon Jay,['N/A'],['N/A'],['Kolten Wong'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Jon Lester,3,1,0,Adam Wainwright,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+4,bottom,0,[],Adam Wainwright,1,0,0,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+4,bottom,0,[],Adam Wainwright,2,1,0,Chris Coghlan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+4,bottom,0,[],Adam Wainwright,3,3,2,Mike Olt,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+5,top,0,[],Jon Lester,0,3,2,Matt Carpenter,['Matt Carpenter'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+5,top,0,[],Jon Lester,0,3,2,Jason Heyward,['Jason Heyward'],['N/A'],['Matt Carpenter'],Single,N/A,0,2,N/A,N/A,N/A
+5,top,1,['Matt Carpenter'],Jon Lester,0,0,0,Matt Holliday,['Matt Holliday'],['Jason Heyward'],['N/A'],Single,N/A,0,3,1,N/A,N/A
+5,top,0,[],N/A,0,1,0,Jhonny Peralta,['N/A'],['Matt Holliday'],['Jason Heyward'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Jon Lester,1,1,0,Jhonny Peralta,['N/A'],['Matt Holliday'],['Jason Heyward'],Pop Out,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Phil Coke,2,0,3,Matt Adams,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Phil Coke,2,4,0,Yadier Molina,['Yadier Molina'],['N/A'],['N/A'],Intent Walk,N/A,0,3,N/A,N/A,N/A
+5,top,0,[],Phil Coke,3,1,3,Kolten Wong,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Adam Wainwright,0,2,2,David Ross,['N/A'],['David Ross'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Adam Wainwright,1,1,0,Miguel Montero,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Adam Wainwright,2,3,2,Tommy La Stella,['N/A'],['N/A'],['David Ross'],Flyout,N/A,0,3,N/A,N/A,N/A
+5,bottom,0,[],Adam Wainwright,3,1,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Jason Motte,1,0,2,Jon Jay,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Jason Motte,2,0,2,Adam Wainwright,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+6,top,0,[],Jason Motte,3,2,2,Matt Carpenter,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Adam Wainwright,1,3,2,Jorge Soler,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Adam Wainwright,2,2,1,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Adam Wainwright,2,1,2,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+6,bottom,0,[],Adam Wainwright,3,1,1,Chris Coghlan,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Neil Ramirez,1,0,0,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Neil Ramirez,2,0,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Neil Ramirez,2,1,2,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+7,top,0,[],Neil Ramirez,3,1,0,Matt Adams,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+7,bottom,0,[],Carlos Martinez,1,0,0,Mike Olt,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+7,bottom,0,[],Carlos Martinez,1,4,2,Arismendy Alcantara,['Arismendy Alcantara'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+7,bottom,0,[],Carlos Martinez,2,3,3,Miguel Montero,['N/A'],['Arismendy Alcantara'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+7,bottom,0,[],Carlos Martinez,3,2,2,Tommy La Stella,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Pedro Strop,1,2,3,Yadier Molina,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Pedro Strop,2,1,0,Kolten Wong,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Pedro Strop,2,0,0,Jon Jay,['N/A'],['Jon Jay'],['N/A'],Double,N/A,0,3,N/A,N/A,N/A
+8,top,0,[],Pedro Strop,3,3,3,Mark Reynolds,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Jordan Walden,1,2,3,Dexter Fowler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Jordan Walden,2,0,2,Jorge Soler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Jordan Walden,2,4,2,Anthony Rizzo,['Anthony Rizzo'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+8,bottom,0,[],Jordan Walden,3,1,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Hector Rondon,1,3,2,Matt Carpenter,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Hector Rondon,2,1,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Hector Rondon,2,4,2,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Walk,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],N/A,2,0,1,Jhonny Peralta,['N/A'],['Peter Bourjos'],['N/A'],Stolen Base 2B,Error,0,3,N/A,N/A,Miguel Montero
+9,top,0,[],Hector Rondon,3,0,1,Jhonny Peralta,['N/A'],['N/A'],['Peter Bourjos'],Flyout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Trevor Rosenthal,1,2,3,Chris Coghlan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Trevor Rosenthal,2,2,3,Mike Olt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Trevor Rosenthal,3,3,3,Arismendy Alcantara,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A

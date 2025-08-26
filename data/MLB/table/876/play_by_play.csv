@@ -1,0 +1,72 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Kevin Slowey,0,1,1,Norichika Aoki,['Norichika Aoki'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kevin Slowey,1,0,2,Jean Segura,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kevin Slowey,1,0,0,Carlos Gomez,['Carlos Gomez'],['Norichika Aoki'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Kevin Slowey,1,0,1,Aramis Ramirez,['Aramis Ramirez'],['Carlos Gomez'],['Norichika Aoki'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,3,"['Norichika Aoki', 'Carlos Gomez', 'Aramis Ramirez']",Kevin Slowey,1,1,1,Jonathan Lucroy,['N/A'],['N/A'],['Jonathan Lucroy'],Triple,N/A,0,3,3,N/A,N/A
+1,top,0,[],Kevin Slowey,2,0,1,Logan Schafer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+1,top,0,[],Kevin Slowey,3,3,3,Juan Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Alfredo Figaro,1,1,0,Juan Pierre,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Alfredo Figaro,1,2,0,Ed Lucas,['Ed Lucas'],['N/A'],['N/A'],Single,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Alfredo Figaro,2,1,2,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+1,bottom,0,[],Alfredo Figaro,3,2,1,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Kevin Slowey,1,0,0,Scooter Gennett,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Kevin Slowey,2,0,3,Alfredo Figaro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+2,top,0,[],Kevin Slowey,3,0,3,Norichika Aoki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Alfredo Figaro,1,2,3,Derek Dietrich,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Alfredo Figaro,2,3,1,Greg Dobbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+2,bottom,0,[],Alfredo Figaro,3,1,0,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+3,top,1,[],Kevin Slowey,0,0,0,Jean Segura,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,1,N/A,N/A
+3,top,0,[],Kevin Slowey,0,1,1,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Kevin Slowey,0,2,0,Aramis Ramirez,['Aramis Ramirez'],['Carlos Gomez'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Kevin Slowey,2,0,3,Jonathan Lucroy,['N/A'],['N/A'],['Carlos Gomez'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,top,0,[],Kevin Slowey,3,2,3,Logan Schafer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Alfredo Figaro,1,0,0,Rob Brantly,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Alfredo Figaro,2,1,3,Kevin Slowey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+3,bottom,0,[],Alfredo Figaro,3,1,2,Juan Pierre,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Kevin Slowey,1,0,1,Juan Francisco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Kevin Slowey,1,2,0,Scooter Gennett,['Scooter Gennett'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Kevin Slowey,1,0,0,Alfredo Figaro,['N/A'],['Alfredo Figaro'],['Scooter Gennett'],Single,Error,0,4,N/A,N/A,Ed Lucas
+4,top,1,['Scooter Gennett'],Kevin Slowey,2,0,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,5,1,N/A,N/A
+4,top,0,[],Kevin Slowey,3,2,1,Jean Segura,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Alfredo Figaro,1,1,3,Ed Lucas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Alfredo Figaro,2,0,0,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+4,bottom,0,[],Alfredo Figaro,3,1,2,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Kevin Slowey,0,1,2,Carlos Gomez,['N/A'],['N/A'],['Carlos Gomez'],Triple,N/A,0,5,N/A,N/A,N/A
+5,top,0,[],Kevin Slowey,1,0,3,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,5,N/A,N/A,N/A
+5,top,1,['Carlos Gomez'],Kevin Slowey,2,0,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,0,6,1,N/A,N/A
+5,top,0,[],Kevin Slowey,3,0,2,Logan Schafer,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,6,N/A,N/A,N/A
+5,bottom,0,[],Alfredo Figaro,1,1,2,Derek Dietrich,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+5,bottom,0,[],Alfredo Figaro,2,1,2,Greg Dobbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,6,N/A,N/A,N/A
+5,bottom,0,[],Alfredo Figaro,3,2,1,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Edgar Olmos,1,0,0,Juan Francisco,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Edgar Olmos,2,1,1,Scooter Gennett,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Edgar Olmos,2,2,1,Alfredo Figaro,['Alfredo Figaro'],['N/A'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Edgar Olmos,2,1,1,Norichika Aoki,['Norichika Aoki'],['Alfredo Figaro'],['N/A'],Single,N/A,0,6,N/A,N/A,N/A
+6,top,0,[],Edgar Olmos,2,4,1,Jean Segura,['Jean Segura'],['Norichika Aoki'],['Alfredo Figaro'],Walk,N/A,0,6,N/A,N/A,N/A
+6,top,4,"['Alfredo Figaro', 'Norichika Aoki', 'Jean Segura', 'Carlos Gomez']",Edgar Olmos,2,0,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Triple,Error,0,10,3,1,Derek Dietrich
+6,top,0,[],Edgar Olmos,3,0,1,Aramis Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+6,bottom,0,[],Alfredo Figaro,1,1,0,Rob Brantly,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+6,bottom,0,[],Alfredo Figaro,2,1,3,Miguel Olivo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,10,N/A,N/A,N/A
+6,bottom,0,[],Alfredo Figaro,3,1,1,Juan Pierre,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+7,top,0,[],Dan Jennings,1,3,1,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+7,top,0,[],Dan Jennings,2,3,3,Logan Schafer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,10,N/A,N/A,N/A
+7,top,0,[],Dan Jennings,3,0,0,Juan Francisco,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+7,bottom,0,[],Alfredo Figaro,0,1,2,Ed Lucas,['Ed Lucas'],['N/A'],['N/A'],Single,N/A,0,10,N/A,N/A,N/A
+7,bottom,0,[],Alfredo Figaro,0,0,0,Giancarlo Stanton,['Giancarlo Stanton'],['Ed Lucas'],['N/A'],Single,N/A,0,10,N/A,N/A,N/A
+7,bottom,0,[],Alfredo Figaro,2,2,2,Marcell Ozuna,['N/A'],['N/A'],['Ed Lucas'],Grounded Into DP,N/A,0,10,N/A,N/A,N/A
+7,bottom,0,[],Alfredo Figaro,3,3,2,Derek Dietrich,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,10,N/A,N/A,N/A
+8,top,0,[],Dan Jennings,1,2,2,Scooter Gennett,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+8,top,0,[],Dan Jennings,1,4,2,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Walk,N/A,0,10,N/A,N/A,N/A
+8,top,0,[],Dan Jennings,3,0,0,Norichika Aoki,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,10,N/A,N/A,N/A
+8,bottom,0,[],Tom Gorzelanny,1,0,0,Greg Dobbs,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,10,N/A,N/A,N/A
+8,bottom,0,[],Tom Gorzelanny,2,3,1,Adeiny Hechavarria,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,10,N/A,N/A,N/A
+8,bottom,0,[],Tom Gorzelanny,3,1,1,Rob Brantly,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+9,top,0,[],A.J. Ramos,1,0,2,Jean Segura,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,10,N/A,N/A,N/A
+9,top,0,[],A.J. Ramos,2,0,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,10,N/A,N/A,N/A
+9,top,0,[],A.J. Ramos,3,0,2,Jeff Bianchi,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,10,N/A,N/A,N/A
+9,bottom,0,[],Burke Badenhop,0,2,2,Justin Ruggiano,['Justin Ruggiano'],['N/A'],['N/A'],Single,N/A,0,10,N/A,N/A,N/A
+9,bottom,0,[],Burke Badenhop,0,1,0,Juan Pierre,['Juan Pierre'],['Justin Ruggiano'],['N/A'],Single,N/A,0,10,N/A,N/A,N/A
+9,bottom,0,[],Burke Badenhop,1,2,0,Ed Lucas,['Ed Lucas'],['N/A'],['Justin Ruggiano'],Forceout,N/A,0,10,N/A,N/A,N/A
+9,bottom,1,['Justin Ruggiano'],Burke Badenhop,2,1,2,Giancarlo Stanton,['Giancarlo Stanton'],['N/A'],['N/A'],Forceout,N/A,1,10,1,N/A,N/A
+9,bottom,0,[],Burke Badenhop,3,0,1,Marcell Ozuna,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,10,N/A,N/A,N/A

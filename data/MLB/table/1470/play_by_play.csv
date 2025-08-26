@@ -1,0 +1,64 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Chris Sale,1,0,3,Jacoby Ellsbury,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chris Sale,2,1,3,Aaron Hicks,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chris Sale,3,0,1,Chase Headley,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Masahiro Tanaka,1,3,1,Dustin Pedroia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Masahiro Tanaka,2,1,0,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Masahiro Tanaka,3,0,1,Mookie Betts,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Chris Sale,1,2,3,Matt Holliday,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Chris Sale,2,1,1,Starlin Castro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Chris Sale,3,2,3,Aaron Judge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Masahiro Tanaka,0,2,2,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Masahiro Tanaka,1,0,0,Mitch Moreland,['N/A'],['Hanley Ramirez'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Masahiro Tanaka,2,1,1,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Masahiro Tanaka,3,1,2,Jackie Bradley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Chris Sale,1,1,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Chris Sale,2,1,3,Austin Romine,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Chris Sale,2,0,1,Ronald Torreyes,['Ronald Torreyes'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Chris Sale,3,0,3,Jacoby Ellsbury,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Masahiro Tanaka,1,0,1,Sandy Leon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Masahiro Tanaka,2,1,1,Marco Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Masahiro Tanaka,3,3,2,Dustin Pedroia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Chris Sale,0,1,2,Aaron Hicks,['Aaron Hicks'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Chris Sale,1,1,0,Chase Headley,['N/A'],['Aaron Hicks'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,1,['Aaron Hicks'],Chris Sale,2,3,2,Matt Holliday,['N/A'],['N/A'],['Aaron Hicks'],Sac Fly,N/A,0,1,1,N/A,N/A
+4,top,0,[],Chris Sale,3,0,3,Starlin Castro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Masahiro Tanaka,1,1,3,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Masahiro Tanaka,2,2,2,Mookie Betts,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Masahiro Tanaka,2,0,2,Hanley Ramirez,['Hanley Ramirez'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Masahiro Tanaka,3,0,1,Mitch Moreland,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Chris Sale,0,0,1,Aaron Judge,['Aaron Judge'],['N/A'],['N/A'],Hit By Pitch,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Chris Sale,2,1,2,Chris Carter,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Chris Sale,3,0,1,Austin Romine,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Masahiro Tanaka,0,1,1,Xander Bogaerts,['Xander Bogaerts'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Masahiro Tanaka,2,1,0,Jackie Bradley,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Masahiro Tanaka,3,0,0,Sandy Leon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Chris Sale,0,0,0,Ronald Torreyes,['Ronald Torreyes'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Chris Sale,1,0,0,Jacoby Ellsbury,['N/A'],['Ronald Torreyes'],['N/A'],Sac Bunt,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Chris Sale,2,1,2,Aaron Hicks,['N/A'],['N/A'],['Ronald Torreyes'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Chris Sale,3,3,2,Chase Headley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Masahiro Tanaka,1,0,3,Marco Hernandez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Masahiro Tanaka,2,0,3,Dustin Pedroia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Masahiro Tanaka,3,0,1,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Chris Sale,1,1,2,Matt Holliday,['N/A'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Chris Sale,1,2,1,Starlin Castro,['Starlin Castro'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Chris Sale,2,1,3,Aaron Judge,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Chris Sale,3,1,3,Chris Carter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Masahiro Tanaka,1,0,2,Mookie Betts,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Masahiro Tanaka,2,1,0,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Masahiro Tanaka,3,1,1,Mitch Moreland,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Chris Sale,1,1,2,Austin Romine,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Chris Sale,2,0,0,Ronald Torreyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Chris Sale,3,1,1,Jacoby Ellsbury,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Masahiro Tanaka,1,3,2,Xander Bogaerts,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Masahiro Tanaka,2,0,0,Jackie Bradley,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Masahiro Tanaka,3,1,2,Sandy Leon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],Chris Sale,0,0,0,Aaron Hicks,['Aaron Hicks'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],Chris Sale,0,1,2,Chase Headley,['Chase Headley'],['Aaron Hicks'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+9,top,1,['Aaron Hicks'],Chris Sale,0,0,0,Matt Holliday,['N/A'],['Matt Holliday'],['Chase Headley'],Single,N/A,0,2,1,N/A,N/A
+9,top,1,['Chase Headley'],Heath Hembree,0,2,1,Starlin Castro,['Starlin Castro'],['N/A'],['Brett Gardner'],Single,N/A,0,3,1,N/A,N/A
+9,top,0,[],Heath Hembree,1,3,2,Aaron Judge,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,3,N/A,N/A,N/A
+9,top,0,[],Heath Hembree,3,0,0,Chris Carter,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Masahiro Tanaka,1,0,2,Marco Hernandez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Masahiro Tanaka,2,2,1,Dustin Pedroia,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+9,bottom,0,[],Masahiro Tanaka,3,0,1,Andrew Benintendi,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A

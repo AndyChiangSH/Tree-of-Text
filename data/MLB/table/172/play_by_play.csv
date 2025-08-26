@@ -1,0 +1,83 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Jarrod Washburn,1,2,2,Chone Figgins,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jarrod Washburn,2,3,2,Howie Kendrick,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Jarrod Washburn,3,2,2,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jered Weaver,1,0,0,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jered Weaver,1,0,1,Endy Chavez,['Endy Chavez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jered Weaver,2,1,0,Ken Griffey,['Ken Griffey'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Jered Weaver,3,2,1,Adrian Beltre,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jarrod Washburn,1,0,1,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jarrod Washburn,2,3,2,Torii Hunter,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Jarrod Washburn,3,1,0,Robb Quinlan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jered Weaver,1,0,0,Russell Branyan,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jered Weaver,2,0,2,Jose Lopez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jered Weaver,2,2,2,Kenji Johjima,['Kenji Johjima'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Jered Weaver,3,2,3,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jarrod Washburn,1,1,1,Juan Rivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jarrod Washburn,2,3,3,Jeff Mathis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Jarrod Washburn,3,3,1,Erick Aybar,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jered Weaver,0,4,2,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jered Weaver,1,1,1,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],N/A,1,3,1,Endy Chavez,['N/A'],['Ichiro Suzuki'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jered Weaver,1,4,2,Endy Chavez,['Endy Chavez'],['Ichiro Suzuki'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jered Weaver,2,2,3,Ken Griffey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Jered Weaver,3,0,2,Adrian Beltre,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jarrod Washburn,1,3,2,Chone Figgins,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jarrod Washburn,2,0,0,Howie Kendrick,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Jarrod Washburn,3,2,3,Bobby Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jered Weaver,0,3,2,Russell Branyan,['N/A'],['Russell Branyan'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jered Weaver,1,0,0,Jose Lopez,['N/A'],['N/A'],['Russell Branyan'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,['Russell Branyan'],Jered Weaver,1,0,1,Kenji Johjima,['Kenji Johjima'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+4,bottom,0,[],Jered Weaver,1,0,1,Yuniesky Betancourt,['N/A'],['Yuniesky Betancourt'],['Kenji Johjima'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jered Weaver,2,0,0,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['Yuniesky Betancourt'],Fielders Choice Out,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Jered Weaver,3,2,0,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jarrod Washburn,0,1,1,Vladimir Guerrero,['Vladimir Guerrero'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,2,['Vladimir Guerrero'],Jarrod Washburn,0,3,1,Torii Hunter,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,2,2,N/A,N/A
+5,top,0,[],Jarrod Washburn,1,0,3,Robb Quinlan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jarrod Washburn,1,1,2,Juan Rivera,['N/A'],['Juan Rivera'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jarrod Washburn,2,1,1,Jeff Mathis,['N/A'],['N/A'],['Juan Rivera'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Jarrod Washburn,3,0,1,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,1,[],Jered Weaver,0,3,2,Endy Chavez,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,1,N/A,N/A
+5,bottom,1,[],Jered Weaver,0,2,1,Ken Griffey,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,1,N/A,N/A
+5,bottom,0,[],Jered Weaver,1,0,0,Adrian Beltre,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jered Weaver,2,0,1,Russell Branyan,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Jered Weaver,3,0,2,Jose Lopez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Jarrod Washburn,1,1,3,Chone Figgins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Jarrod Washburn,2,0,2,Howie Kendrick,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Jarrod Washburn,2,0,2,Bobby Abreu,['N/A'],['Bobby Abreu'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Jarrod Washburn,3,0,0,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jered Weaver,0,1,2,Rob Johnson,['N/A'],['Rob Johnson'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Jered Weaver,0,0,2,Yuniesky Betancourt,['Yuniesky Betancourt'],['N/A'],['Rob Johnson'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,1,['Rob Johnson'],Jered Weaver,0,0,0,Franklin Gutierrez,['Franklin Gutierrez'],['Yuniesky Betancourt'],['N/A'],Sac Bunt,Error,4,2,1,N/A,Jered Weaver
+6,bottom,0,[],Kevin Jepsen,2,1,2,Ichiro Suzuki,['N/A'],['N/A'],['Yuniesky Betancourt'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Kevin Jepsen,3,1,0,Endy Chavez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Miguel Batista,0,2,0,Torii Hunter,['N/A'],['Torii Hunter'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Miguel Batista,0,2,3,Kendrys Morales,['Kendrys Morales'],['N/A'],['Torii Hunter'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,1,['Torii Hunter'],Miguel Batista,0,0,0,Juan Rivera,['Juan Rivera'],['Kendrys Morales'],['N/A'],Single,N/A,4,3,1,N/A,N/A
+7,top,0,[],Shawn Kelley,1,0,1,Jeff Mathis,['N/A'],['Juan Rivera'],['Kendrys Morales'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Shawn Kelley,2,1,3,Erick Aybar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Shawn Kelley,3,1,3,Chone Figgins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Kevin Jepsen,0,1,2,Ken Griffey,['Ken Griffey'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Kevin Jepsen,0,4,0,Adrian Beltre,['Adrian Beltre'],['Ken Griffey'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Kevin Jepsen,0,4,2,Russell Branyan,['Russell Branyan'],['Adrian Beltre'],['Ken Griffey'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,1,['Ken Griffey'],Kevin Jepsen,1,0,0,Jose Lopez,['N/A'],['Russell Branyan'],['Adrian Beltre'],Sac Fly,N/A,5,3,1,N/A,N/A
+7,bottom,2,"['Adrian Beltre', 'Russell Branyan']",Jason Bulger,1,2,1,Rob Johnson,['Rob Johnson'],['N/A'],['N/A'],Single,N/A,7,3,2,N/A,N/A
+7,bottom,0,[],Jason Bulger,1,1,1,Yuniesky Betancourt,['Yuniesky Betancourt'],['Rob Johnson'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jason Bulger,1,3,0,Franklin Gutierrez,['N/A'],['Yuniesky Betancourt'],['Rob Johnson'],Wild Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Jason Bulger,1,4,0,Franklin Gutierrez,['Franklin Gutierrez'],['Yuniesky Betancourt'],['Rob Johnson'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,4,"['Rob Johnson', 'Yuniesky Betancourt', 'Franklin Gutierrez']",Jason Bulger,1,3,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Home Run,N/A,11,3,4,N/A,N/A
+7,bottom,0,[],Justin Speier,2,1,3,Endy Chavez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Speier,2,4,2,Ken Griffey,['Ken Griffey'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Justin Speier,3,0,3,Adrian Beltre,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Kelley,1,0,2,Howie Kendrick,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Kelley,1,2,1,Bobby Abreu,['Bobby Abreu'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Kelley,2,1,0,Vladimir Guerrero,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Kelley,2,0,2,Torii Hunter,['Torii Hunter'],['Bobby Abreu'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Shawn Kelley,3,0,1,Kendrys Morales,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Rafael Rodriguez,1,0,1,Russell Branyan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Rafael Rodriguez,1,0,1,Jose Lopez,['Jose Lopez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Rafael Rodriguez,2,1,0,Rob Johnson,['N/A'],['Jose Lopez'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Rafael Rodriguez,3,1,0,Yuniesky Betancourt,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mark Lowe,1,0,1,Juan Rivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mark Lowe,2,2,2,Jeff Mathis,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Mark Lowe,3,1,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

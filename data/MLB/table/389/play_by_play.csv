@@ -1,0 +1,82 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Max Scherzer,1,1,3,Cristian Guzman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Max Scherzer,1,1,1,Nyjer Morgan,['Nyjer Morgan'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],N/A,1,0,1,Ryan Zimmerman,['N/A'],['Nyjer Morgan'],['N/A'],Stolen Base 2B,Error,N/A,N/A,N/A,N/A,Gerald Laird
+1,top,1,['Nyjer Morgan'],Max Scherzer,2,0,1,Ryan Zimmerman,['N/A'],['N/A'],['Nyjer Morgan'],Sac Fly,N/A,0,1,1,N/A,N/A
+1,top,0,[],Max Scherzer,3,3,3,Adam Dunn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Lannan,1,2,3,Ryan Raburn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Lannan,2,0,1,Johnny Damon,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Lannan,2,2,2,Magglio Ordonez,['Magglio Ordonez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Lannan,2,4,1,Miguel Cabrera,['Miguel Cabrera'],['Magglio Ordonez'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],John Lannan,3,2,2,Brennan Boesch,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,0,4,2,Josh Willingham,['Josh Willingham'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,1,3,2,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,1,1,1,Roger Bernadina,['Roger Bernadina'],['N/A'],['Josh Willingham'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,2,2,3,Michael Morse,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Max Scherzer,3,0,0,Ian Desmond,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lannan,0,1,1,Carlos Guillen,['Carlos Guillen'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lannan,0,2,2,Brandon Inge,['Brandon Inge'],['Carlos Guillen'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lannan,0,0,1,Gerald Laird,['Gerald Laird'],['Brandon Inge'],['Carlos Guillen'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lannan,1,0,0,Danny Worth,['Danny Worth'],['Gerald Laird'],['Brandon Inge'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,['Brandon Inge'],John Lannan,1,4,2,Ryan Raburn,['Ryan Raburn'],['Danny Worth'],['Gerald Laird'],Walk,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],John Lannan,2,0,0,Johnny Damon,['Johnny Damon'],['Ryan Raburn'],['Danny Worth'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],John Lannan,3,1,0,Magglio Ordonez,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,1,1,3,Cristian Guzman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,1,1,2,Nyjer Morgan,['Nyjer Morgan'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,2,2,3,Ryan Zimmerman,['N/A'],['Nyjer Morgan'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Max Scherzer,2,4,0,Adam Dunn,['Adam Dunn'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,1,['Nyjer Morgan'],Max Scherzer,2,0,2,Josh Willingham,['Josh Willingham'],['N/A'],['Adam Dunn'],Single,N/A,1,2,1,N/A,N/A
+3,top,1,['Adam Dunn'],Max Scherzer,2,0,1,Ivan Rodriguez,['Ivan Rodriguez'],['Josh Willingham'],['N/A'],Single,N/A,1,3,1,N/A,N/A
+3,top,0,[],Max Scherzer,3,2,3,Roger Bernadina,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Lannan,0,1,1,Miguel Cabrera,['N/A'],['Miguel Cabrera'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Lannan,1,0,0,Brennan Boesch,['N/A'],['N/A'],['Miguel Cabrera'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Miguel Cabrera'],John Lannan,1,0,1,Carlos Guillen,['Carlos Guillen'],['N/A'],['N/A'],Fielders Choice,N/A,2,3,1,N/A,N/A
+3,bottom,0,[],John Lannan,2,2,2,Brandon Inge,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Lannan,2,1,0,Gerald Laird,['Gerald Laird'],['N/A'],['Carlos Guillen'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],John Lannan,3,2,2,Danny Worth,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,1,[],Max Scherzer,0,0,2,Michael Morse,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,4,1,N/A,N/A
+4,top,0,[],Max Scherzer,1,1,2,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,2,0,1,Cristian Guzman,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Max Scherzer,3,2,1,Nyjer Morgan,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Lannan,0,1,0,Ryan Raburn,['Ryan Raburn'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Lannan,1,2,2,Johnny Damon,['N/A'],['Ryan Raburn'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,['Ryan Raburn'],John Lannan,1,2,2,Magglio Ordonez,['N/A'],['Magglio Ordonez'],['N/A'],Double,N/A,3,4,1,N/A,N/A
+4,bottom,0,[],John Lannan,1,4,0,Miguel Cabrera,['Miguel Cabrera'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],John Lannan,1,4,2,Brennan Boesch,['Brennan Boesch'],['Miguel Cabrera'],['Magglio Ordonez'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,1,['Magglio Ordonez'],John Lannan,2,0,0,Carlos Guillen,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,4,4,1,N/A,N/A
+4,bottom,0,[],John Lannan,3,0,2,Brandon Inge,['N/A'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,1,2,3,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,2,2,3,Adam Dunn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,2,3,1,Josh Willingham,['Josh Willingham'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Max Scherzer,3,2,3,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Lannan,0,0,0,Gerald Laird,['Gerald Laird'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],John Lannan,0,2,1,Danny Worth,['Danny Worth'],['Gerald Laird'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Cristian Guzman
+5,bottom,3,"['Gerald Laird', 'Danny Worth']",John Lannan,0,1,0,Ryan Raburn,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,4,3,N/A,N/A
+5,bottom,0,[],John Lannan,1,1,2,Johnny Damon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Tyler Walker,1,1,0,Magglio Ordonez,['N/A'],['Magglio Ordonez'],['N/A'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Tyler Walker,2,3,1,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Tyler Walker,3,0,2,Brennan Boesch,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,1,1,2,Roger Bernadina,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,2,2,1,Michael Morse,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Max Scherzer,3,0,0,Ian Desmond,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Tyler Walker,1,0,0,Carlos Guillen,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Tyler Walker,2,2,2,Brandon Inge,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Tyler Walker,3,1,1,Gerald Laird,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Phil Coke,1,1,0,Cristian Guzman,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Phil Coke,2,1,3,Nyjer Morgan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Phil Coke,3,2,2,Ryan Zimmerman,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tyler Walker,1,2,0,Danny Worth,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tyler Walker,2,2,2,Ryan Raburn,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Tyler Walker,3,1,1,Johnny Damon,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Phil Coke,1,0,3,Adam Dunn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Joel Zumaya,2,2,1,Josh Willingham,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Joel Zumaya,3,1,2,Ivan Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Sean Burnett,0,1,0,Magglio Ordonez,['Magglio Ordonez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Sean Burnett,1,1,3,Miguel Cabrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Sean Burnett,2,0,3,Brennan Boesch,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Sean Burnett,3,1,1,Carlos Guillen,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,0,0,0,Roger Bernadina,['Roger Bernadina'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,1,1,3,Michael Morse,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,2,2,3,Ian Desmond,['N/A'],['Roger Bernadina'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,2,4,1,Cristian Guzman,['Cristian Guzman'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jose Valverde,3,2,1,Nyjer Morgan,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A

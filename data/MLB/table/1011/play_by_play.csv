@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Zach McAllister,1,3,3,Coco Crisp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Zach McAllister,2,0,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Zach McAllister,3,2,3,Josh Donaldson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Sonny Gray,1,1,0,Michael Bourn,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,[],Sonny Gray,1,0,0,Nick Swisher,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Sonny Gray,2,0,2,Michael Brantley,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Sonny Gray,3,2,1,Carlos Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Zach McAllister,0,0,0,Brandon Moss,['N/A'],['Brandon Moss'],['N/A'],Double,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],Zach McAllister,0,2,1,Yoenis Cespedes,['Yoenis Cespedes'],['N/A'],['Brandon Moss'],Single,N/A,1,0,N/A,N/A,N/A
+2,top,1,['Brandon Moss'],Zach McAllister,0,1,1,Jed Lowrie,['Jed Lowrie'],['Yoenis Cespedes'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+2,top,0,[],Zach McAllister,0,4,1,Derek Norris,['Derek Norris'],['Jed Lowrie'],['Yoenis Cespedes'],Walk,N/A,1,1,N/A,N/A,N/A
+2,top,4,"['Yoenis Cespedes', 'Jed Lowrie', 'Derek Norris']",Zach McAllister,0,1,0,Josh Reddick,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,5,4,N/A,N/A
+2,top,0,[],Zach McAllister,1,1,0,Eric Sogard,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,5,N/A,N/A,N/A
+2,top,0,[],Zach McAllister,1,4,2,Coco Crisp,['Coco Crisp'],['N/A'],['N/A'],Walk,N/A,1,5,N/A,N/A,N/A
+2,top,0,[],Zach McAllister,1,4,2,John Jaso,['John Jaso'],['Coco Crisp'],['N/A'],Walk,N/A,1,5,N/A,N/A,N/A
+2,top,3,"['Coco Crisp', 'John Jaso']",Zach McAllister,1,3,2,Josh Donaldson,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,8,3,N/A,N/A
+2,top,0,[],Kyle Crockett,1,4,1,Brandon Moss,['Brandon Moss'],['N/A'],['N/A'],Walk,N/A,1,8,N/A,N/A,N/A
+2,top,0,[],Kyle Crockett,3,2,0,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,8,N/A,N/A,N/A
+2,bottom,0,[],Sonny Gray,1,2,1,David Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,8,N/A,N/A,N/A
+2,bottom,0,[],Sonny Gray,1,4,0,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Walk,N/A,1,8,N/A,N/A,N/A
+2,bottom,0,[],Sonny Gray,2,1,3,Yan Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+2,bottom,0,[],Sonny Gray,2,4,0,Lonnie Chisenhall,['Lonnie Chisenhall'],['Asdrubal Cabrera'],['N/A'],Walk,N/A,1,8,N/A,N/A,N/A
+2,bottom,0,[],Sonny Gray,3,0,3,Jose Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,8,N/A,N/A,N/A
+3,top,1,[],Kyle Crockett,0,2,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,9,1,N/A,N/A
+3,top,0,[],Kyle Crockett,0,1,2,Derek Norris,['N/A'],['Derek Norris'],['N/A'],Single,Error,1,9,N/A,N/A,Carlos Santana
+3,top,0,[],Kyle Crockett,1,2,1,Josh Reddick,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+3,top,0,[],Kyle Crockett,2,1,2,Eric Sogard,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,9,N/A,N/A,N/A
+3,top,0,[],C.C. Lee,2,4,2,Coco Crisp,['Coco Crisp'],['N/A'],['N/A'],Walk,N/A,1,9,N/A,N/A,N/A
+3,top,0,[],C.C. Lee,3,1,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+3,bottom,0,[],Sonny Gray,1,0,2,Michael Bourn,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+3,bottom,0,[],Sonny Gray,2,2,3,Nick Swisher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+3,bottom,0,[],Sonny Gray,2,1,0,Michael Brantley,['Michael Brantley'],['N/A'],['N/A'],Single,N/A,1,9,N/A,N/A,N/A
+3,bottom,0,[],Sonny Gray,3,2,3,Carlos Santana,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+4,top,0,[],C.C. Lee,1,0,3,Josh Donaldson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+4,top,0,[],C.C. Lee,2,2,2,Brandon Moss,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+4,top,0,[],C.C. Lee,2,0,0,Yoenis Cespedes,['N/A'],['Yoenis Cespedes'],['N/A'],Double,N/A,1,9,N/A,N/A,N/A
+4,top,0,[],C.C. Lee,3,2,2,Jed Lowrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+4,bottom,0,[],Sonny Gray,1,2,2,David Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+4,bottom,0,[],Sonny Gray,1,4,0,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Walk,N/A,1,9,N/A,N/A,N/A
+4,bottom,0,[],Sonny Gray,2,2,3,Yan Gomes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+4,bottom,0,[],Sonny Gray,3,1,3,Lonnie Chisenhall,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+5,top,0,[],Josh Outman,1,2,1,Derek Norris,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,9,N/A,N/A,N/A
+5,top,0,[],Josh Outman,2,3,2,Josh Reddick,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,9,N/A,N/A,N/A
+5,top,0,[],Josh Outman,3,1,0,Eric Sogard,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+5,bottom,0,[],Sonny Gray,1,2,1,Jose Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+5,bottom,0,[],Sonny Gray,2,1,3,Michael Bourn,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+5,bottom,0,[],Sonny Gray,3,0,3,Nick Swisher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+6,top,0,[],Carlos Carrasco,0,3,2,Coco Crisp,['N/A'],['Coco Crisp'],['N/A'],Field Error,N/A,1,9,N/A,N/A,Nick Swisher
+6,top,0,[],Carlos Carrasco,1,1,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+6,top,0,[],Carlos Carrasco,2,1,3,Josh Donaldson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+6,top,0,[],Carlos Carrasco,3,2,3,Brandon Moss,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+6,bottom,0,[],Sonny Gray,1,1,3,Michael Brantley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+6,bottom,0,[],Sonny Gray,2,2,2,Carlos Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+6,bottom,0,[],Sonny Gray,3,1,0,David Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Carlos Carrasco,1,1,3,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Carlos Carrasco,2,0,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,9,N/A,N/A,N/A
+7,top,0,[],Carlos Carrasco,2,0,0,Derek Norris,['Derek Norris'],['N/A'],['N/A'],Single,N/A,1,9,N/A,N/A,N/A
+7,top,2,['Derek Norris'],Carlos Carrasco,2,1,1,Josh Reddick,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,11,2,N/A,N/A
+7,top,0,[],Carlos Carrasco,3,1,0,Eric Sogard,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,11,N/A,N/A,N/A
+7,bottom,0,[],Fernando Rodriguez,1,1,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,11,N/A,N/A,N/A
+7,bottom,0,[],Fernando Rodriguez,2,1,1,Yan Gomes,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,11,N/A,N/A,N/A
+7,bottom,0,[],Fernando Rodriguez,2,4,2,Lonnie Chisenhall,['Lonnie Chisenhall'],['N/A'],['N/A'],Walk,N/A,1,11,N/A,N/A,N/A
+7,bottom,0,[],Fernando Rodriguez,3,0,1,Jose Ramirez,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,11,N/A,N/A,N/A
+8,top,0,[],Carlos Carrasco,0,2,1,Craig Gentry,['Craig Gentry'],['N/A'],['N/A'],Single,N/A,1,11,N/A,N/A,N/A
+8,top,0,[],Carlos Carrasco,2,0,0,John Jaso,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,11,N/A,N/A,N/A
+8,top,0,[],Carlos Carrasco,2,1,2,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Single,N/A,1,11,N/A,N/A,N/A
+8,top,0,[],Carlos Carrasco,3,0,1,Brandon Moss,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,11,N/A,N/A,N/A
+8,bottom,0,[],Fernando Rodriguez,1,3,3,Mike Aviles,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,11,N/A,N/A,N/A
+8,bottom,0,[],Fernando Rodriguez,2,2,3,Nick Swisher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,11,N/A,N/A,N/A
+8,bottom,0,[],Fernando Rodriguez,3,3,2,Michael Brantley,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,11,N/A,N/A,N/A
+9,top,0,[],Carlos Carrasco,0,0,2,Kyle Blanks,['Kyle Blanks'],['N/A'],['N/A'],Single,N/A,1,11,N/A,N/A,N/A
+9,top,0,[],Carlos Carrasco,1,3,3,Jed Lowrie,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,11,N/A,N/A,N/A
+9,top,0,[],Carlos Carrasco,3,1,1,Derek Norris,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,11,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,1,3,2,Carlos Santana,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,11,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,1,1,2,David Murphy,['David Murphy'],['N/A'],['N/A'],Single,N/A,1,11,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,1,2,0,Asdrubal Cabrera,['N/A'],['David Murphy'],['N/A'],Wild Pitch,N/A,1,11,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,2,3,2,Asdrubal Cabrera,['N/A'],['David Murphy'],['David Murphy'],Groundout,N/A,1,11,N/A,N/A,N/A
+9,bottom,0,[],Jim Johnson,3,0,3,Jesus Aguilar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,11,N/A,N/A,N/A

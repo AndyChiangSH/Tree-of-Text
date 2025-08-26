@@ -1,0 +1,79 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Chad Billingsley,0,1,1,Bryan Petersen,['Bryan Petersen'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chad Billingsley,1,1,1,Justin Ruggiano,['N/A'],['Bryan Petersen'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,2,['Bryan Petersen'],Chad Billingsley,1,1,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+1,top,0,[],Chad Billingsley,1,4,1,Carlos Lee,['Carlos Lee'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Chad Billingsley,2,2,3,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Chad Billingsley,3,1,1,Greg Dobbs,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,1,0,2,Shane Victorino,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,1,4,2,Mark Ellis,['Mark Ellis'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,1,2,1,Matt Kemp,['Matt Kemp'],['Mark Ellis'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+1,bottom,3,"['Mark Ellis', 'Matt Kemp']",Nathan Eovaldi,1,0,0,Andre Ethier,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,3,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,2,2,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+1,bottom,0,[],Nathan Eovaldi,3,0,3,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+2,top,0,[],Chad Billingsley,0,0,1,Donovan Solano,['Donovan Solano'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+2,top,0,[],Chad Billingsley,0,2,0,Rob Brantly,['Rob Brantly'],['Donovan Solano'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+2,top,0,[],Chad Billingsley,1,0,2,Nathan Eovaldi,['N/A'],['Rob Brantly'],['Donovan Solano'],Sac Bunt,N/A,3,2,N/A,N/A,N/A
+2,top,1,['Donovan Solano'],Chad Billingsley,2,0,0,Bryan Petersen,['N/A'],['N/A'],['Rob Brantly'],Groundout,N/A,3,3,1,N/A,N/A
+2,top,0,[],Chad Billingsley,3,3,0,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,3,N/A,N/A,N/A
+2,bottom,1,[],Nathan Eovaldi,0,3,1,Juan Rivera,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,3,1,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,0,2,1,A.J. Ellis,['A.J. Ellis'],['N/A'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,1,3,2,Chad Billingsley,['N/A'],['A.J. Ellis'],['N/A'],Sac Bunt,N/A,4,3,N/A,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,2,2,1,Shane Victorino,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+2,bottom,0,[],Nathan Eovaldi,3,2,1,Mark Ellis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,3,N/A,N/A,N/A
+3,top,0,[],Chad Billingsley,1,2,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+3,top,0,[],Chad Billingsley,2,0,1,Carlos Lee,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+3,top,0,[],Chad Billingsley,3,2,1,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,3,N/A,N/A,N/A
+3,bottom,0,[],Nathan Eovaldi,1,1,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+3,bottom,0,[],Nathan Eovaldi,1,2,2,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+3,bottom,2,['Andre Ethier'],Nathan Eovaldi,1,1,0,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,3,2,N/A,N/A
+3,bottom,0,[],Nathan Eovaldi,1,1,1,Luis Alfonso Cruz,['N/A'],['Luis Alfonso Cruz'],['N/A'],Double,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Nathan Eovaldi,2,1,2,Juan Rivera,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Nathan Eovaldi,2,4,0,A.J. Ellis,['A.J. Ellis'],['N/A'],['N/A'],Intent Walk,N/A,6,3,N/A,N/A,N/A
+3,bottom,0,[],Nathan Eovaldi,3,0,2,Chad Billingsley,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Chad Billingsley,1,2,1,Greg Dobbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Chad Billingsley,1,4,2,Donovan Solano,['Donovan Solano'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Chad Billingsley,1,0,1,Rob Brantly,['N/A'],['Rob Brantly'],['Donovan Solano'],Double,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Jamey Wright,1,4,1,Gorkys Hernandez,['Gorkys Hernandez'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Jamey Wright,2,1,3,Bryan Petersen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,top,0,[],Jamey Wright,3,2,3,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,1,0,3,Shane Victorino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,2,2,2,Mark Ellis,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+4,bottom,0,[],Chad Gaudin,3,2,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Jamey Wright,1,2,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,3,N/A,N/A,N/A
+5,top,0,[],Jamey Wright,2,2,2,Carlos Lee,['N/A'],['N/A'],['N/A'],Single,N/A,6,3,N/A,N/A,N/A
+5,top,1,[],Jamey Wright,2,2,2,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,4,1,N/A,N/A
+5,top,0,[],Jamey Wright,2,2,2,Greg Dobbs,['Greg Dobbs'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+5,top,0,[],Jamey Wright,3,0,0,Donovan Solano,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,0,0,2,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,2,2,2,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,4,N/A,N/A,N/A
+5,bottom,0,[],Chad Gaudin,3,2,2,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+6,top,0,[],Scott Elbert,1,3,2,Rob Brantly,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,4,N/A,N/A,N/A
+6,top,0,[],Scott Elbert,2,2,2,Donnie Murphy,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+6,top,0,[],Scott Elbert,3,0,2,Bryan Petersen,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Carlos Zambrano,1,2,2,Juan Rivera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Carlos Zambrano,1,0,0,A.J. Ellis,['A.J. Ellis'],['N/A'],['N/A'],Single,N/A,6,4,N/A,N/A,N/A
+6,bottom,0,[],Carlos Zambrano,3,0,2,Adam Kennedy,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,6,4,N/A,N/A,N/A
+7,top,0,[],Brandon League,1,3,3,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+7,top,0,[],Brandon League,2,1,3,Jose Reyes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,4,N/A,N/A,N/A
+7,top,0,[],Brandon League,2,4,2,Carlos Lee,['Carlos Lee'],['N/A'],['N/A'],Walk,N/A,6,4,N/A,N/A,N/A
+7,top,0,[],Brandon League,3,0,2,Giancarlo Stanton,['N/A'],['N/A'],['N/A'],Forceout,N/A,6,4,N/A,N/A,N/A
+7,bottom,0,[],Carlos Zambrano,0,4,0,Shane Victorino,['Shane Victorino'],['N/A'],['N/A'],Walk,N/A,6,4,N/A,N/A,N/A
+7,bottom,0,[],Carlos Zambrano,0,3,2,Mark Ellis,['Mark Ellis'],['N/A'],['Shane Victorino'],Single,N/A,6,4,N/A,N/A,N/A
+7,bottom,1,['Shane Victorino'],Carlos Zambrano,0,2,0,Matt Kemp,['Matt Kemp'],['Mark Ellis'],['N/A'],Single,N/A,7,4,1,N/A,N/A
+7,bottom,1,['Mark Ellis'],Carlos Zambrano,0,3,2,Andre Ethier,['Andre Ethier'],['Matt Kemp'],['N/A'],Single,N/A,8,4,1,N/A,N/A
+7,bottom,0,[],Ryan Webb,1,2,3,Hanley Ramirez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,8,4,N/A,N/A,N/A
+7,bottom,3,"['Matt Kemp', 'Andre Ethier', 'Luis Alfonso Cruz']",Ryan Webb,1,3,2,Luis Alfonso Cruz,['N/A'],['N/A'],['N/A'],Single,Error,11,4,N/A,3,Giancarlo Stanton
+7,bottom,0,[],Ryan Webb,2,1,3,Juan Rivera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,4,N/A,N/A,N/A
+7,bottom,0,[],Ryan Webb,3,2,3,A.J. Ellis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,4,N/A,N/A,N/A
+8,top,0,[],Randy Choate,1,2,2,Greg Dobbs,['N/A'],['N/A'],['N/A'],Groundout,N/A,11,4,N/A,N/A,N/A
+8,top,0,[],Randy Choate,1,3,2,Donovan Solano,['Donovan Solano'],['N/A'],['N/A'],Single,N/A,11,4,N/A,N/A,N/A
+8,top,0,[],Randy Choate,2,1,1,Rob Brantly,['N/A'],['Donovan Solano'],['N/A'],Groundout,N/A,11,4,N/A,N/A,N/A
+8,top,0,[],Shawn Tolleson,3,1,3,Austin Kearns,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,4,N/A,N/A,N/A
+8,bottom,0,[],Chris Hatcher,1,3,3,Juan Uribe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,4,N/A,N/A,N/A
+8,bottom,0,[],Chris Hatcher,2,3,3,Alex Castellanos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,4,N/A,N/A,N/A
+8,bottom,0,[],Chris Hatcher,3,0,3,Mark Ellis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,11,4,N/A,N/A,N/A
+9,top,0,[],Shawn Tolleson,1,2,2,Bryan Petersen,['N/A'],['N/A'],['N/A'],Lineout,N/A,11,4,N/A,N/A,N/A
+9,top,0,[],Shawn Tolleson,2,2,2,Justin Ruggiano,['N/A'],['N/A'],['N/A'],Groundout,N/A,11,4,N/A,N/A,N/A
+9,top,0,[],Shawn Tolleson,2,1,2,Jose Reyes,['N/A'],['Jose Reyes'],['N/A'],Field Error,N/A,11,4,N/A,N/A,Juan Rivera
+9,top,0,[],Shawn Tolleson,3,0,0,Carlos Lee,['N/A'],['N/A'],['N/A'],Groundout,N/A,11,4,N/A,N/A,N/A

@@ -1,0 +1,71 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Sonny Gray,0,0,1,Norichika Aoki,['N/A'],['Norichika Aoki'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Sonny Gray,0,1,2,Omar Infante,['N/A'],['N/A'],['Norichika Aoki'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Sonny Gray,1,1,3,Omar Infante,['N/A'],['N/A'],['Norichika Aoki'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Sonny Gray,2,2,0,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Sonny Gray,3,2,3,Salvador Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jeremy Guthrie,1,0,2,Sam Fuld,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jeremy Guthrie,2,2,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jeremy Guthrie,3,0,2,Josh Donaldson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Sonny Gray,1,2,2,Mike Moustakas,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Sonny Gray,2,2,2,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Sonny Gray,3,3,3,Raul Ibanez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jeremy Guthrie,1,2,2,Brandon Moss,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jeremy Guthrie,2,0,3,Jed Lowrie,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jeremy Guthrie,3,1,2,Stephen Vogt,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Sonny Gray,1,1,0,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Sonny Gray,1,2,2,Jarrod Dyson,['Jarrod Dyson'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Sonny Gray,1,1,0,Norichika Aoki,['N/A'],['Jarrod Dyson'],['N/A'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Sonny Gray,2,2,0,Norichika Aoki,['N/A'],['Jarrod Dyson'],['Jarrod Dyson'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Sonny Gray,3,1,0,Omar Infante,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jeremy Guthrie,1,0,1,Josh Reddick,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jeremy Guthrie,2,2,2,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Jeremy Guthrie,3,1,1,Eric Sogard,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Sonny Gray,1,2,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Sonny Gray,2,1,3,Salvador Perez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Sonny Gray,3,2,3,Mike Moustakas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jeremy Guthrie,0,2,2,Sam Fuld,['N/A'],['Sam Fuld'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jeremy Guthrie,1,2,2,John Jaso,['N/A'],['N/A'],['Sam Fuld'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jeremy Guthrie,1,4,2,Josh Donaldson,['Josh Donaldson'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jeremy Guthrie,2,1,1,Brandon Moss,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Jeremy Guthrie,3,3,3,Jed Lowrie,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,0,[],Sonny Gray,1,0,3,Billy Butler,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+5,top,1,[],Sonny Gray,1,0,0,Raul Ibanez,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+5,top,0,[],Sonny Gray,2,1,0,Alcides Escobar,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Sonny Gray,3,2,2,Jarrod Dyson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jeremy Guthrie,1,1,1,Stephen Vogt,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jeremy Guthrie,1,2,2,Josh Reddick,['Josh Reddick'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jeremy Guthrie,2,0,2,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Jeremy Guthrie,3,0,0,Eric Sogard,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Sonny Gray,1,3,2,Norichika Aoki,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Sonny Gray,2,0,2,Omar Infante,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Sonny Gray,3,2,3,Alex Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Jeremy Guthrie,0,4,2,Sam Fuld,['Sam Fuld'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Jeremy Guthrie,1,2,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Jeremy Guthrie,1,0,0,Josh Donaldson,['Josh Donaldson'],['N/A'],['Sam Fuld'],Single,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Jeremy Guthrie,2,3,3,Brandon Moss,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Jeremy Guthrie,3,2,3,Jed Lowrie,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Sonny Gray,1,1,0,Salvador Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Sonny Gray,2,2,1,Mike Moustakas,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,top,0,[],Sonny Gray,3,0,2,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Kelvin Herrera,1,0,3,Stephen Vogt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Kelvin Herrera,1,2,2,Josh Reddick,['Josh Reddick'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Kelvin Herrera,2,0,1,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Kelvin Herrera,2,4,1,Eric Sogard,['Eric Sogard'],['Josh Reddick'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+7,bottom,0,[],Kelvin Herrera,3,1,3,Sam Fuld,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,1,2,2,Raul Ibanez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,2,3,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,2,1,1,Jarrod Dyson,['Jarrod Dyson'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],N/A,2,3,1,Norichika Aoki,['N/A'],['Jarrod Dyson'],['N/A'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Eric O'Flaherty,2,4,1,Norichika Aoki,['Norichika Aoki'],['Jarrod Dyson'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+8,top,0,[],Dan Otero,3,0,0,Omar Infante,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Wade Davis,1,2,2,John Jaso,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Wade Davis,2,3,3,Josh Donaldson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+8,bottom,0,[],Wade Davis,3,2,3,Brandon Moss,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],Dan Otero,1,1,3,Alex Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],Dan Otero,2,0,2,Salvador Perez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+9,top,0,[],Dan Otero,3,1,1,Mike Moustakas,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+9,bottom,0,[],Greg Holland,1,1,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+9,bottom,0,[],Greg Holland,2,2,3,Stephen Vogt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+9,bottom,0,[],Greg Holland,2,1,1,Josh Reddick,['N/A'],['Josh Reddick'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+9,bottom,0,[],Greg Holland,3,2,3,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A

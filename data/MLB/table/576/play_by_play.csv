@@ -1,0 +1,85 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Rubby De La Rosa,0,0,1,Willie Bloomquist,['Willie Bloomquist'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Rubby De La Rosa,1,3,2,Kelly Johnson,['N/A'],['Kelly Johnson'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Rubby De La Rosa,2,2,2,Justin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Rubby De La Rosa,3,2,3,Miguel Montero,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,1,2,3,Tony Gwynn Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,2,0,1,Aaron Miles,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,2,1,0,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,2,1,1,Matt Kemp,['Matt Kemp'],['N/A'],['Andre Ethier'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Joe Saunders,3,0,0,Juan Rivera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Rubby De La Rosa,1,0,2,Xavier Nady,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],Rubby De La Rosa,1,3,2,Ryan Roberts,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,1,[],Rubby De La Rosa,1,1,1,Gerardo Parra,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,1,N/A,N/A
+2,top,0,[],Rubby De La Rosa,1,4,2,Collin Cowgill,['Collin Cowgill'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Rubby De La Rosa,3,2,3,Joe Saunders,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Joe Saunders,1,3,2,Dioner Navarro,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Joe Saunders,2,3,3,Jamey Carroll,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Joe Saunders,3,0,1,Dee Gordon,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Rubby De La Rosa,1,3,2,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Rubby De La Rosa,2,2,3,Kelly Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Rubby De La Rosa,2,4,2,Justin Upton,['Justin Upton'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Rubby De La Rosa,2,4,1,Miguel Montero,['Miguel Montero'],['Justin Upton'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Rubby De La Rosa,3,2,3,Xavier Nady,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,1,0,2,Rubby De La Rosa,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,2,2,1,Tony Gwynn Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,2,2,2,Aaron Miles,['Aaron Miles'],['N/A'],['N/A'],Field Error,N/A,0,2,N/A,N/A,Ryan Roberts
+3,bottom,0,[],Joe Saunders,2,1,0,Andre Ethier,['Andre Ethier'],['Aaron Miles'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Joe Saunders,3,1,1,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Rubby De La Rosa,0,4,2,Ryan Roberts,['Ryan Roberts'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Rubby De La Rosa,1,0,0,Gerardo Parra,['Gerardo Parra'],['N/A'],['N/A'],Forceout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Rubby De La Rosa,1,2,0,Collin Cowgill,['N/A'],['N/A'],['Gerardo Parra'],Wild Pitch,N/A,0,2,N/A,N/A,N/A
+4,top,1,['Gerardo Parra'],Rubby De La Rosa,1,3,0,Collin Cowgill,['Collin Cowgill'],['N/A'],['Gerardo Parra'],Single,N/A,0,3,1,N/A,N/A
+4,top,0,[],Rubby De La Rosa,2,1,3,Joe Saunders,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],N/A,2,2,2,Willie Bloomquist,['N/A'],['Collin Cowgill'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+4,top,0,[],Rubby De La Rosa,3,2,3,Willie Bloomquist,['N/A'],['Collin Cowgill'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+4,bottom,0,[],Joe Saunders,1,3,2,Juan Rivera,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,3,N/A,N/A,N/A
+4,bottom,1,[],Joe Saunders,1,1,0,Dioner Navarro,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,1,N/A,N/A
+4,bottom,0,[],Joe Saunders,2,3,2,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Joe Saunders,3,0,2,Dee Gordon,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Josh Lindblom,0,3,2,Kelly Johnson,['N/A'],['Kelly Johnson'],['N/A'],Double,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Josh Lindblom,1,3,2,Justin Upton,['N/A'],['N/A'],['Kelly Johnson'],Flyout,N/A,1,3,N/A,N/A,N/A
+5,top,0,[],Josh Lindblom,1,4,0,Miguel Montero,['Miguel Montero'],['N/A'],['N/A'],Intent Walk,N/A,1,3,N/A,N/A,N/A
+5,top,1,['Kelly Johnson'],Josh Lindblom,2,1,0,Xavier Nady,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,4,1,N/A,N/A
+5,top,0,[],Josh Lindblom,2,4,2,Ryan Roberts,['Ryan Roberts'],['Miguel Montero'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+5,top,0,[],Josh Lindblom,3,0,0,Gerardo Parra,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Joe Saunders,1,1,2,Eugenio Velez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Joe Saunders,2,1,1,Tony Gwynn Jr.,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],Joe Saunders,3,0,2,Aaron Miles,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Blake Hawksworth,1,3,3,Collin Cowgill,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Blake Hawksworth,2,3,1,Joe Saunders,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Blake Hawksworth,3,2,2,Willie Bloomquist,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Joe Saunders,0,1,1,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Joe Saunders,1,0,1,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Joe Saunders,1,1,0,Juan Rivera,['Juan Rivera'],['Andre Ethier'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],Joe Saunders,3,1,2,Dioner Navarro,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Blake Hawksworth,1,1,0,Kelly Johnson,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Blake Hawksworth,2,1,1,Justin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Blake Hawksworth,3,1,2,Miguel Montero,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Joe Saunders,0,1,1,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Joe Saunders,2,0,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],Joe Saunders,3,1,0,Trent Oeltjen,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,1,0,0,Xavier Nady,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,1,2,1,Ryan Roberts,['Ryan Roberts'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+8,top,2,['Ryan Roberts'],Hung-Chih Kuo,1,2,1,Gerardo Parra,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,6,2,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,1,4,1,Collin Cowgill,['Collin Cowgill'],['N/A'],['N/A'],Walk,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,1,2,2,Joe Saunders,['Joe Saunders'],['Collin Cowgill'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],N/A,1,1,1,Willie Bloomquist,['N/A'],['Joe Saunders'],['Collin Cowgill'],Wild Pitch,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,2,1,3,Willie Bloomquist,['N/A'],['Joe Saunders'],['Collin Cowgill'],Strikeout,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Hung-Chih Kuo,3,2,3,Kelly Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+8,bottom,0,[],Joe Saunders,1,0,3,Tony Gwynn Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+8,bottom,0,[],Joe Saunders,2,1,1,Aaron Miles,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,6,N/A,N/A,N/A
+8,bottom,0,[],Joe Saunders,2,2,1,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+8,bottom,0,[],Ryan Cook,2,1,0,Matt Kemp,['Matt Kemp'],['N/A'],['Andre Ethier'],Single,N/A,1,6,N/A,N/A,N/A
+8,bottom,1,['Andre Ethier'],Ryan Cook,2,2,1,Juan Rivera,['Juan Rivera'],['N/A'],['Matt Kemp'],Single,N/A,2,6,1,N/A,N/A
+8,bottom,0,[],David Hernandez,3,1,3,Dioner Navarro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Mike MacDougal,0,3,1,Justin Upton,['Justin Upton'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Mike MacDougal,1,3,2,Miguel Montero,['N/A'],['Justin Upton'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Mike MacDougal,2,2,2,Xavier Nady,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Mike MacDougal,3,0,1,Ryan Roberts,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],David Hernandez,0,4,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Walk,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],David Hernandez,0,2,2,Dee Gordon,['Dee Gordon'],['Jamey Carroll'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],David Hernandez,1,2,1,James Loney,['N/A'],['N/A'],['Jamey Carroll'],Flyout,N/A,2,6,N/A,N/A,N/A
+9,bottom,1,['Jamey Carroll'],J.J. Putz,1,0,1,Tony Gwynn Jr.,['Tony Gwynn Jr.'],['Dee Gordon'],['N/A'],Single,N/A,3,6,1,N/A,N/A
+9,bottom,0,[],J.J. Putz,2,1,0,Aaron Miles,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,6,N/A,N/A,N/A
+9,bottom,0,[],J.J. Putz,3,1,2,Andre Ethier,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,6,N/A,N/A,N/A

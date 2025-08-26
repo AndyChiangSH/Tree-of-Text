@@ -1,0 +1,82 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Nick Blackburn,1,3,2,Kelly Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Nick Blackburn,2,2,3,Yunel Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,1,[],Nick Blackburn,2,1,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+1,top,0,[],Nick Blackburn,3,1,1,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,0,4,1,Denard Span,['Denard Span'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,1,1,1,Brian Dozier,['N/A'],['Denard Span'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,1,4,1,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,1,4,2,Josh Willingham,['Josh Willingham'],['Joe Mauer'],['Denard Span'],Walk,N/A,0,1,N/A,N/A,N/A
+1,bottom,2,"['Denard Span', 'Joe Mauer']",Kyle Drabek,1,3,2,Ryan Doumit,['N/A'],['Ryan Doumit'],['Josh Willingham'],Single,N/A,2,1,2,N/A,N/A
+1,bottom,0,[],Kyle Drabek,2,0,3,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,3,2,2,Chris Parmelee,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Nick Blackburn,1,0,1,Eric Thames,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Nick Blackburn,2,0,0,Brett Lawrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Nick Blackburn,3,3,2,Colby Rasmus,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,1,3,3,Darin Mastroianni,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,1,4,2,Jamey Carroll,['Jamey Carroll'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,1,3,2,Denard Span,['Denard Span'],['N/A'],['Jamey Carroll'],Single,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,3,1,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Nick Blackburn,0,4,2,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Nick Blackburn,0,0,0,J.P. Arencibia,['J.P. Arencibia'],['Adam Lind'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Nick Blackburn,1,0,0,Kelly Johnson,['Kelly Johnson'],['N/A'],['Adam Lind'],Forceout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Nick Blackburn,3,0,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,0,3,2,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,0,3,2,Josh Willingham,['N/A'],['Joe Mauer'],['N/A'],Wild Pitch,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,1,3,2,Josh Willingham,['N/A'],['Joe Mauer'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,2,3,3,Ryan Doumit,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,3,0,0,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Nick Blackburn,1,1,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Nick Blackburn,2,3,3,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Nick Blackburn,2,4,2,Eric Thames,['Eric Thames'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+4,top,0,[],Nick Blackburn,2,0,1,Brett Lawrie,['Brett Lawrie'],['N/A'],['Eric Thames'],Single,N/A,2,1,N/A,N/A,N/A
+4,top,1,['Eric Thames'],Nick Blackburn,3,2,1,Colby Rasmus,['N/A'],['N/A'],['N/A'],Single,N/A,2,2,1,N/A,N/A
+4,bottom,0,[],Kyle Drabek,1,1,1,Chris Parmelee,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Kyle Drabek,2,2,2,Darin Mastroianni,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Kyle Drabek,3,2,2,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Nick Blackburn,0,1,0,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Field Error,N/A,2,2,N/A,N/A,Brian Dozier
+5,top,0,[],Nick Blackburn,1,1,1,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Nick Blackburn,2,0,3,Kelly Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Nick Blackburn,3,2,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Kyle Drabek,0,3,2,Denard Span,['N/A'],['Denard Span'],['N/A'],Double,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Kyle Drabek,1,2,3,Brian Dozier,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Carlos Villanueva,1,2,1,Joe Mauer,['N/A'],['N/A'],['Denard Span'],Wild Pitch,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Carlos Villanueva,1,4,2,Joe Mauer,['Joe Mauer'],['N/A'],['Denard Span'],Walk,N/A,2,2,N/A,N/A,N/A
+5,bottom,1,['Denard Span'],Carlos Villanueva,1,1,0,Josh Willingham,['N/A'],['Josh Willingham'],['Joe Mauer'],Double,N/A,3,2,1,N/A,N/A
+5,bottom,0,[],Carlos Villanueva,1,4,0,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Intent Walk,N/A,3,2,N/A,N/A,N/A
+5,bottom,0,[],Carlos Villanueva,2,1,3,Trevor Plouffe,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+5,bottom,1,['Joe Mauer'],Carlos Villanueva,2,4,1,Chris Parmelee,['Chris Parmelee'],['Ryan Doumit'],['Josh Willingham'],Walk,N/A,4,2,1,N/A,N/A
+5,bottom,2,"['Josh Willingham', 'Ryan Doumit']",Carlos Villanueva,2,0,0,Darin Mastroianni,['Darin Mastroianni'],['Chris Parmelee'],['N/A'],Single,N/A,6,2,2,N/A,N/A
+5,bottom,0,[],Carlos Villanueva,3,1,1,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,2,N/A,N/A,N/A
+6,top,1,[],Nick Blackburn,0,2,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,3,1,N/A,N/A
+6,top,0,[],Nick Blackburn,0,4,1,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['N/A'],Walk,N/A,6,3,N/A,N/A,N/A
+6,top,2,['Edwin Encarnacion'],Nick Blackburn,0,0,0,Eric Thames,['N/A'],['N/A'],['N/A'],Home Run,N/A,6,5,2,N/A,N/A
+6,top,0,[],Alex Burnett,0,2,2,Brett Lawrie,['Brett Lawrie'],['N/A'],['N/A'],Single,N/A,6,5,N/A,N/A,N/A
+6,top,0,[],Alex Burnett,1,1,2,Colby Rasmus,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,5,N/A,N/A,N/A
+6,top,0,[],Alex Burnett,2,0,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+6,top,0,[],Alex Burnett,3,0,2,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,5,N/A,N/A,N/A
+6,bottom,0,[],Joel Carreno,1,3,2,Denard Span,['N/A'],['N/A'],['N/A'],Lineout,N/A,6,5,N/A,N/A,N/A
+6,bottom,0,[],Joel Carreno,2,0,1,Brian Dozier,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,6,5,N/A,N/A,N/A
+6,bottom,0,[],Joel Carreno,2,4,2,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Walk,N/A,6,5,N/A,N/A,N/A
+6,bottom,0,[],Joel Carreno,3,1,3,Josh Willingham,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Jared Burton,1,1,3,Kelly Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Jared Burton,2,3,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,6,5,N/A,N/A,N/A
+7,top,0,[],Jared Burton,3,1,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Groundout,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Joel Carreno,0,4,2,Ryan Doumit,['Ryan Doumit'],['N/A'],['N/A'],Walk,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Joel Carreno,1,0,0,Trevor Plouffe,['N/A'],['Erik Komatsu'],['N/A'],Flyout,N/A,6,5,N/A,N/A,N/A
+7,bottom,0,[],Joel Carreno,2,0,0,Chris Parmelee,['N/A'],['N/A'],['N/A'],Flyout,N/A,6,5,N/A,N/A,N/A
+7,bottom,1,['Erik Komatsu'],Joel Carreno,2,1,0,Darin Mastroianni,['N/A'],['Darin Mastroianni'],['N/A'],Single,N/A,7,5,1,N/A,N/A
+7,bottom,0,[],Joel Carreno,3,0,1,Jamey Carroll,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,5,N/A,N/A,N/A
+8,top,1,[],Glen Perkins,0,1,2,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Home Run,N/A,7,6,1,N/A,N/A
+8,top,0,[],Glen Perkins,0,0,0,Eric Thames,['Eric Thames'],['N/A'],['N/A'],Single,N/A,7,6,N/A,N/A,N/A
+8,top,0,[],Glen Perkins,0,2,1,Brett Lawrie,['Brett Lawrie'],['Eric Thames'],['N/A'],Single,N/A,7,6,N/A,N/A,N/A
+8,top,0,[],Glen Perkins,2,0,1,Colby Rasmus,['N/A'],['N/A'],['Eric Thames'],Grounded Into DP,N/A,7,6,N/A,N/A,N/A
+8,top,0,[],Glen Perkins,3,2,2,Ben Francisco,['N/A'],['N/A'],['N/A'],Flyout,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,1,1,1,Denard Span,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,2,0,0,Brian Dozier,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,6,N/A,N/A,N/A
+8,bottom,0,[],Darren Oliver,3,1,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Matt Capps,1,1,0,J.P. Arencibia,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Matt Capps,1,1,1,Kelly Johnson,['Kelly Johnson'],['N/A'],['N/A'],Single,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Matt Capps,1,1,1,Yunel Escobar,['N/A'],['Kelly Johnson'],['N/A'],Wild Pitch,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Matt Capps,2,2,1,Yunel Escobar,['N/A'],['Kelly Johnson'],['Kelly Johnson'],Groundout,N/A,7,6,N/A,N/A,N/A
+9,top,0,[],Matt Capps,3,1,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Pop Out,N/A,7,6,N/A,N/A,N/A

@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],A.J. Burnett,0,1,2,Rajai Davis,['N/A'],['N/A'],['Rajai Davis'],Triple,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Rajai Davis'],A.J. Burnett,1,1,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,1,N/A,N/A
+1,top,0,[],A.J. Burnett,2,0,0,Jose Bautista,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],A.J. Burnett,3,2,3,Adam Lind,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,1,1,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,2,3,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,2,2,0,Mark Teixeira,['N/A'],['Mark Teixeira'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Kyle Drabek,3,1,3,Robinson Cano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],A.J. Burnett,0,2,1,Juan Rivera,['Juan Rivera'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],A.J. Burnett,1,0,0,David Cooper,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],A.J. Burnett,1,1,1,Edwin Encarnacion,['Edwin Encarnacion'],['Juan Rivera'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],A.J. Burnett,2,1,3,Jose Molina,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],N/A,2,2,2,Mike McCoy,['N/A'],['Edwin Encarnacion'],['Juan Rivera'],Stolen Base 2B,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],A.J. Burnett,3,2,3,Mike McCoy,['N/A'],['Edwin Encarnacion'],['Juan Rivera'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,0,2,1,Nick Swisher,['Nick Swisher'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,0,4,1,Eric Chavez,['Eric Chavez'],['Nick Swisher'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Kyle Drabek,1,2,1,Jorge Posada,['Jorge Posada'],['N/A'],['Nick Swisher'],Forceout,N/A,0,1,N/A,N/A,N/A
+2,bottom,1,['Nick Swisher'],Kyle Drabek,1,0,0,Russell Martin,['Russell Martin'],['Jorge Posada'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+2,bottom,0,[],Kyle Drabek,1,4,2,Brett Gardner,['Brett Gardner'],['Russell Martin'],['Jorge Posada'],Walk,N/A,1,1,N/A,N/A,N/A
+2,bottom,1,['Jorge Posada'],Kyle Drabek,2,3,2,Derek Jeter,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,1,1,N/A,N/A
+2,bottom,1,['Russell Martin'],Kyle Drabek,2,0,2,Curtis Granderson,['Curtis Granderson'],['Brett Gardner'],['N/A'],Single,N/A,3,1,1,N/A,N/A
+2,bottom,0,[],Kyle Drabek,3,2,3,Mark Teixeira,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],A.J. Burnett,1,2,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],A.J. Burnett,1,3,1,Yunel Escobar,['Yunel Escobar'],['N/A'],['N/A'],Single,N/A,3,1,N/A,N/A,N/A
+3,top,0,[],A.J. Burnett,1,1,2,Jose Bautista,['N/A'],['Jose Bautista'],['Yunel Escobar'],Double,N/A,3,1,N/A,N/A,N/A
+3,top,1,['Yunel Escobar'],A.J. Burnett,2,0,0,Adam Lind,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,3,2,1,N/A,N/A
+3,top,0,[],N/A,2,1,0,Juan Rivera,['N/A'],['N/A'],['Jose Bautista'],Stolen Base 3B,N/A,3,2,N/A,N/A,N/A
+3,top,0,[],A.J. Burnett,3,2,0,Juan Rivera,['N/A'],['N/A'],['Jose Bautista'],Flyout,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,0,0,0,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Single,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,1,3,3,Nick Swisher,['N/A'],['Robinson Cano'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+3,bottom,1,['Robinson Cano'],Kyle Drabek,1,0,1,Eric Chavez,['Eric Chavez'],['N/A'],['N/A'],Single,N/A,4,2,1,N/A,N/A
+3,bottom,0,[],Kyle Drabek,1,3,2,Jorge Posada,['N/A'],['Eric Chavez'],['N/A'],Wild Pitch,N/A,4,2,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,1,4,2,Jorge Posada,['Jorge Posada'],['Eric Chavez'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+3,bottom,0,[],Kyle Drabek,1,4,2,Russell Martin,['Russell Martin'],['Jorge Posada'],['Eric Chavez'],Walk,N/A,4,2,N/A,N/A,N/A
+3,bottom,1,['Eric Chavez'],Kyle Drabek,1,3,2,Brett Gardner,['Brett Gardner'],['Russell Martin'],['Jorge Posada'],Single,N/A,5,2,1,N/A,N/A
+3,bottom,0,[],Jason Frasor,2,0,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+3,bottom,0,[],Jason Frasor,3,1,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+4,top,0,[],A.J. Burnett,1,2,1,David Cooper,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,2,N/A,N/A,N/A
+4,top,0,[],A.J. Burnett,2,3,2,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+4,top,0,[],A.J. Burnett,3,0,0,Jose Molina,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,2,N/A,N/A,N/A
+4,bottom,0,[],Jason Frasor,0,4,2,Mark Teixeira,['Mark Teixeira'],['N/A'],['N/A'],Walk,N/A,5,2,N/A,N/A,N/A
+4,bottom,0,[],Jason Frasor,1,2,3,Robinson Cano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,2,N/A,N/A,N/A
+4,bottom,0,[],Jason Frasor,3,2,2,Nick Swisher,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,2,N/A,N/A,N/A
+5,top,1,[],A.J. Burnett,0,1,0,Mike McCoy,['N/A'],['N/A'],['N/A'],Home Run,N/A,5,3,1,N/A,N/A
+5,top,0,[],A.J. Burnett,0,0,0,Rajai Davis,['Rajai Davis'],['N/A'],['N/A'],Single,N/A,5,3,N/A,N/A,N/A
+5,top,0,[],A.J. Burnett,2,2,1,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,3,N/A,N/A,N/A
+5,top,0,[],A.J. Burnett,3,2,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,3,N/A,N/A,N/A
+5,bottom,0,[],Shawn Camp,1,0,1,Eric Chavez,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,3,N/A,N/A,N/A
+5,bottom,0,[],Shawn Camp,2,3,2,Jorge Posada,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,3,N/A,N/A,N/A
+5,bottom,0,[],Shawn Camp,3,0,2,Russell Martin,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,3,N/A,N/A,N/A
+6,top,0,[],A.J. Burnett,0,0,0,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,5,3,N/A,N/A,N/A
+6,top,0,[],A.J. Burnett,0,3,1,Juan Rivera,['N/A'],['Juan Rivera'],['Adam Lind'],Double,N/A,5,3,N/A,N/A,N/A
+6,top,1,['Adam Lind'],A.J. Burnett,1,0,0,David Cooper,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,5,4,1,N/A,N/A
+6,top,0,[],A.J. Burnett,3,1,3,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,5,4,N/A,N/A,N/A
+6,bottom,0,[],Shawn Camp,1,1,3,Brett Gardner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+6,bottom,0,[],Shawn Camp,2,0,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,4,N/A,N/A,N/A
+6,bottom,0,[],Shawn Camp,3,3,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Joba Chamberlain,1,0,1,Jose Molina,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Joba Chamberlain,2,1,1,Mike McCoy,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+7,top,0,[],Joba Chamberlain,3,0,0,Rajai Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Marc Rzepczynski,1,0,1,Mark Teixeira,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Marc Rzepczynski,1,1,1,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Hit By Pitch,N/A,5,4,N/A,N/A,N/A
+7,bottom,0,[],Marc Rzepczynski,3,1,0,Nick Swisher,['N/A'],['N/A'],['N/A'],Double Play,N/A,5,4,N/A,N/A,N/A
+8,top,0,[],Rafael Soriano,1,0,0,Yunel Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+8,top,0,[],Rafael Soriano,2,2,2,Jose Bautista,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+8,top,0,[],Rafael Soriano,2,0,1,Adam Lind,['Adam Lind'],['N/A'],['N/A'],Single,N/A,5,4,N/A,N/A,N/A
+8,top,0,[],Rafael Soriano,3,2,2,Juan Rivera,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+8,bottom,0,[],Frank Francisco,1,2,2,Eric Chavez,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+8,bottom,0,[],Frank Francisco,2,2,1,Jorge Posada,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+8,bottom,0,[],Frank Francisco,3,0,2,Russell Martin,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],Mariano Rivera,1,0,1,David Cooper,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],Mariano Rivera,2,1,1,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],Mariano Rivera,2,1,2,Jose Molina,['N/A'],['Jose Molina'],['N/A'],Double,N/A,5,4,N/A,N/A,N/A
+9,top,0,[],Mariano Rivera,3,2,2,Mike McCoy,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,4,N/A,N/A,N/A

@@ -1,0 +1,82 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mike Bolsinger,0,1,2,Norichika Aoki,['Norichika Aoki'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Bolsinger,2,1,1,Joe Panik,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Bolsinger,3,1,2,Angel Pagan,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Heston,1,2,2,Yasiel Puig,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Heston,2,1,1,Joc Pederson,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Heston,2,0,2,Justin Turner,['Justin Turner'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Chris Heston,3,2,1,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Bolsinger,0,0,1,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Bolsinger,1,3,3,Brandon Belt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],N/A,1,2,0,Brandon Crawford,['N/A'],['Buster Posey'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Bolsinger,2,3,1,Brandon Crawford,['N/A'],['Buster Posey'],['Buster Posey'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Bolsinger,3,0,2,Matt Duffy,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Heston,0,0,2,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Heston,1,1,1,Andre Ethier,['N/A'],['Howie Kendrick'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,1,['Howie Kendrick'],Chris Heston,1,1,0,Yasmani Grandal,['Yasmani Grandal'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+2,bottom,0,[],Chris Heston,2,3,2,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Chris Heston,3,0,0,Mike Bolsinger,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Bolsinger,0,1,1,Gregor Blanco,['Gregor Blanco'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Bolsinger,1,0,3,Chris Heston,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Bolsinger,1,1,0,Norichika Aoki,['Norichika Aoki'],['N/A'],['Gregor Blanco'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Bolsinger,2,1,2,Joe Panik,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Mike Bolsinger,2,4,2,Angel Pagan,['Angel Pagan'],['Norichika Aoki'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+3,top,4,"['Gregor Blanco', 'Norichika Aoki', 'Angel Pagan']",Mike Bolsinger,2,2,2,Buster Posey,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,4,4,N/A,N/A
+3,top,0,[],Mike Bolsinger,3,2,0,Brandon Belt,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+3,bottom,0,[],Chris Heston,1,1,2,Yasiel Puig,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,4,N/A,N/A,N/A
+3,bottom,0,[],Chris Heston,1,0,0,Joc Pederson,['N/A'],['Joc Pederson'],['N/A'],Double,N/A,1,4,N/A,N/A,N/A
+3,bottom,1,['Joc Pederson'],Chris Heston,1,3,2,Justin Turner,['N/A'],['Justin Turner'],['N/A'],Double,N/A,2,4,1,N/A,N/A
+3,bottom,1,['Justin Turner'],Chris Heston,1,1,0,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Single,N/A,3,4,1,N/A,N/A
+3,bottom,0,[],Chris Heston,3,1,2,Howie Kendrick,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,4,N/A,N/A,N/A
+4,top,0,[],Mike Bolsinger,1,3,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+4,top,0,[],Mike Bolsinger,2,1,3,Matt Duffy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+4,top,0,[],Mike Bolsinger,3,2,3,Gregor Blanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+4,bottom,0,[],Chris Heston,0,1,2,Andre Ethier,['Andre Ethier'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+4,bottom,0,[],Chris Heston,1,0,0,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+4,bottom,0,[],Chris Heston,3,1,1,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,4,N/A,N/A,N/A
+5,top,0,[],Mike Bolsinger,0,0,1,Chris Heston,['Chris Heston'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+5,top,0,[],Mike Bolsinger,2,0,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,4,N/A,N/A,N/A
+5,top,0,[],Mike Bolsinger,2,4,0,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+5,top,0,[],Mike Bolsinger,3,3,3,Angel Pagan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+5,bottom,0,[],Chris Heston,1,0,3,Mike Bolsinger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+5,bottom,0,[],Chris Heston,2,0,0,Yasiel Puig,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,4,N/A,N/A,N/A
+5,bottom,0,[],Chris Heston,3,1,1,Joc Pederson,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+6,top,0,[],Mike Bolsinger,1,1,0,Buster Posey,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+6,top,0,[],Mike Bolsinger,1,0,0,Brandon Belt,['N/A'],['Brandon Belt'],['N/A'],Double,N/A,3,4,N/A,N/A,N/A
+6,top,1,['Brandon Belt'],Mike Bolsinger,1,3,0,Brandon Crawford,['N/A'],['Brandon Crawford'],['N/A'],Double,N/A,3,5,1,N/A,N/A
+6,top,0,[],Mike Bolsinger,1,4,0,Matt Duffy,['Matt Duffy'],['N/A'],['N/A'],Walk,N/A,3,5,N/A,N/A,N/A
+6,top,0,[],Danny Coulombe,2,0,0,Gregor Blanco,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,5,N/A,N/A,N/A
+6,top,0,[],Danny Coulombe,3,1,3,Chris Heston,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Chris Heston,0,0,1,Justin Turner,['N/A'],['Justin Turner'],['N/A'],Double,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Chris Heston,1,2,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Chris Heston,2,0,1,Howie Kendrick,['N/A'],['N/A'],['Justin Turner'],Groundout,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Jeremy Affeldt,3,1,1,Scott Van Slyke,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Danny Coulombe,1,1,2,Norichika Aoki,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Danny Coulombe,1,4,1,Joe Panik,['Joe Panik'],['N/A'],['N/A'],Walk,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Danny Coulombe,1,2,2,Angel Pagan,['Angel Pagan'],['Joe Panik'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Josh Ravin,1,0,1,Buster Posey,['Buster Posey'],['Angel Pagan'],['Joe Panik'],Single,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Josh Ravin,2,2,3,Brandon Belt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+7,top,1,['Joe Panik'],Josh Ravin,2,4,2,Brandon Crawford,['Brandon Crawford'],['Buster Posey'],['Angel Pagan'],Walk,N/A,3,6,1,N/A,N/A
+7,top,2,"['Angel Pagan', 'Buster Posey']",Josh Ravin,2,3,1,Matt Duffy,['Matt Duffy'],['N/A'],['Brandon Crawford'],Single,N/A,3,8,2,N/A,N/A
+7,top,1,['Brandon Crawford'],Josh Ravin,2,0,0,Gregor Blanco,['Gregor Blanco'],['Matt Duffy'],['N/A'],Single,N/A,3,9,1,N/A,N/A
+7,top,0,[],Josh Ravin,3,1,3,Jeremy Affeldt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,9,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Affeldt,1,2,3,Yasmani Grandal,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,9,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Affeldt,2,0,0,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,9,N/A,N/A,N/A
+7,bottom,0,[],Jeremy Affeldt,3,1,0,Alex Guerrero,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,9,N/A,N/A,N/A
+8,top,0,[],Juan Nicasio,1,2,1,Norichika Aoki,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,9,N/A,N/A,N/A
+8,top,0,[],Juan Nicasio,2,2,3,Joe Panik,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,9,N/A,N/A,N/A
+8,top,0,[],Juan Nicasio,3,1,1,Angel Pagan,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,9,N/A,N/A,N/A
+8,bottom,0,[],George Kontos,1,0,0,Yasiel Puig,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,9,N/A,N/A,N/A
+8,bottom,0,[],George Kontos,2,2,2,Joc Pederson,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,9,N/A,N/A,N/A
+8,bottom,1,[],George Kontos,2,2,1,Justin Turner,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,9,1,N/A,N/A
+8,bottom,0,[],George Kontos,3,2,3,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Juan Nicasio,0,4,2,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Walk,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Juan Nicasio,1,3,3,Brandon Belt,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Juan Nicasio,2,2,2,Brandon Crawford,['N/A'],['Buster Posey'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+9,top,0,[],Juan Nicasio,3,1,0,Matt Duffy,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,9,N/A,N/A,N/A
+9,bottom,0,[],Mike Broadway,1,0,1,Howie Kendrick,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,9,N/A,N/A,N/A
+9,bottom,0,[],Mike Broadway,1,4,1,Scott Van Slyke,['Scott Van Slyke'],['N/A'],['N/A'],Walk,N/A,4,9,N/A,N/A,N/A
+9,bottom,0,[],Mike Broadway,1,4,2,Yasmani Grandal,['Yasmani Grandal'],['Scott Van Slyke'],['N/A'],Walk,N/A,4,9,N/A,N/A,N/A
+9,bottom,0,[],Mike Broadway,2,1,0,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,9,N/A,N/A,N/A
+9,bottom,1,['Scott Van Slyke'],Mike Broadway,2,0,1,Alberto Callaspo,['Alberto Callaspo'],['Yasmani Grandal'],['N/A'],Single,N/A,5,9,1,N/A,N/A
+9,bottom,0,[],Santiago Casilla,3,3,3,Yasiel Puig,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,9,N/A,N/A,N/A

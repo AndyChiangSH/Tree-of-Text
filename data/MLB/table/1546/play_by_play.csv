@@ -1,0 +1,72 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Mike Pelfrey,1,1,2,Ben Zobrist,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Pelfrey,2,1,3,Kris Bryant,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Pelfrey,2,1,1,Anthony Rizzo,['Anthony Rizzo'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,2,3,2,Willson Contreras,['N/A'],['Anthony Rizzo'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Pelfrey,2,4,2,Willson Contreras,['Willson Contreras'],['Anthony Rizzo'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Mike Pelfrey,3,3,2,Kyle Schwarber,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jon Lester,1,0,1,Tim Anderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jon Lester,2,3,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Jon Lester,3,2,3,Jose Abreu,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,0,0,0,Jason Heyward,['Jason Heyward'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,1,2,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Mike Pelfrey,3,1,1,Addison Russell,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jon Lester,1,1,0,Matt Davidson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jon Lester,2,3,3,Tyler Saladino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Jon Lester,3,1,2,Yoan Moncada,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,1,0,1,Albert Almora,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,2,3,1,Ben Zobrist,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Mike Pelfrey,3,0,0,Kris Bryant,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,1,[],Jon Lester,0,3,2,Willy Garcia,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,0,1,N/A,N/A
+3,bottom,0,[],Jon Lester,1,0,1,Kevan Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Jon Lester,2,1,3,Adam Engel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,bottom,0,[],Jon Lester,3,1,2,Tim Anderson,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,0,N/A,N/A,N/A
+4,top,1,[],Mike Pelfrey,0,2,2,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,1,1,N/A,N/A
+4,top,0,[],Mike Pelfrey,0,4,1,Willson Contreras,['Willson Contreras'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+4,top,2,['Willson Contreras'],Mike Pelfrey,0,0,0,Kyle Schwarber,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,3,2,N/A,N/A
+4,top,0,[],Mike Pelfrey,1,1,0,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,2,1,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+4,top,0,[],Mike Pelfrey,3,3,2,Addison Russell,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+4,bottom,0,[],Jon Lester,1,0,1,Melky Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,3,N/A,N/A,N/A
+4,bottom,1,[],Jon Lester,1,0,0,Jose Abreu,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,3,1,N/A,N/A
+4,bottom,0,[],Jon Lester,2,1,1,Matt Davidson,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Jon Lester,2,0,0,Tyler Saladino,['Tyler Saladino'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Jon Lester,3,1,1,Yoan Moncada,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,0,0,0,Albert Almora,['N/A'],['Albert Almora'],['N/A'],Double,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Mike Pelfrey,1,1,0,Ben Zobrist,['N/A'],['N/A'],['Albert Almora'],Groundout,N/A,2,3,N/A,N/A,N/A
+5,top,1,['Albert Almora'],Mike Pelfrey,2,0,0,Kris Bryant,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,4,1,N/A,N/A
+5,top,0,[],Mike Pelfrey,3,2,2,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Jon Lester,1,2,1,Willy Garcia,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Jon Lester,2,0,0,Kevan Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Jon Lester,2,4,2,Adam Engel,['Adam Engel'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+5,bottom,0,[],Jon Lester,3,0,0,Tim Anderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Mike Pelfrey,0,0,0,Willson Contreras,['Willson Contreras'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,top,1,['Willson Contreras'],David Holmberg,0,0,2,Kyle Schwarber,['N/A'],['N/A'],['Kyle Schwarber'],Triple,N/A,2,5,1,N/A,N/A
+6,top,0,[],David Holmberg,1,1,2,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],David Holmberg,1,0,1,Jon Jay,['Jon Jay'],['N/A'],['N/A'],Hit By Pitch,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Juan Minaya,3,2,3,Addison Russell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Jon Lester,0,3,2,Melky Cabrera,['Melky Cabrera'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Jon Lester,1,2,1,Jose Abreu,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Jon Lester,2,2,1,Matt Davidson,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+6,bottom,0,[],Jon Lester,3,3,2,Tyler Saladino,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Tyler Clippard,1,2,0,Albert Almora,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Tyler Clippard,2,2,1,Ben Zobrist,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Tyler Clippard,3,3,3,Kris Bryant,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Jon Lester,1,0,0,Yoan Moncada,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Jon Lester,2,2,3,Willy Garcia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Jon Lester,3,1,2,Kevan Smith,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Aaron Bummer,1,1,3,Anthony Rizzo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],Aaron Bummer,2,1,1,Willson Contreras,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+8,top,1,[],Aaron Bummer,2,1,0,Kyle Schwarber,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,6,1,N/A,N/A
+8,top,0,[],Aaron Bummer,3,1,0,Jason Heyward,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Carl Edwards,1,1,1,Alen Hanson,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Carl Edwards,2,1,1,Tim Anderson,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,6,N/A,N/A,N/A
+8,bottom,0,[],Carl Edwards,3,2,2,Melky Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Jake Petricka,1,0,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Jake Petricka,2,2,1,Addison Russell,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Jake Petricka,2,0,0,Albert Almora,['Albert Almora'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+9,top,0,[],Jake Petricka,3,2,1,Ben Zobrist,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,6,N/A,N/A,N/A
+9,bottom,1,[],Koji Uehara,0,1,1,Jose Abreu,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,6,1,N/A,N/A
+9,bottom,0,[],Koji Uehara,1,1,3,Matt Davidson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+9,bottom,0,[],Koji Uehara,2,0,0,Yolmer Sanchez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,6,N/A,N/A,N/A
+9,bottom,0,[],Koji Uehara,3,1,3,Yoan Moncada,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A

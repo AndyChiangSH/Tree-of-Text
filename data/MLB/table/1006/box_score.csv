@@ -1,0 +1,60 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Buehrle,,,,,,,,,,Mark Buehrle,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+4,Dickey,5,0,1,P,0,31,0,0,0,R.A. Dickey,5,,1.000,0,.000,2,72,0,R.A.,0,4,,1,0,8,1/3,0,.000,0,,,0,68,true,1,3.95,0,25,0,2,113,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Reyes,,0,,SS,1,,0,0,4,Jose Reyes,,,1.000,,.237,,,1,Jose,,,,,1,,,0,.722,,100,,0,,,2,,1,,2,,,0,2,1,0,0,Blue Jays,0,.415,0,.307
+,Navarro,,,,,,,,,,Dioner Navarro,,,,,,,,,Dioner,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Encarnacion,,0,,DH,2,,0,0,4,Edwin Encarnacion,,1,.000,,.253,,,2,Edwin,,,,,0,,,0,.870,,500,,0,,,0,,0,,0,,,0,0,1,0,0,Blue Jays,0,.541,0,.329
+2,McGowan,1,0,0,P,0,1,0,0,0,Dustin McGowan,2,,.000,0,.000,0,4,0,Dustin,0,0,,0,0,0,,0,.000,1,,,0,48,,0,4.60,0,0,0,0,6,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Bautista,,0,,RF,2,,0,0,4,Jose Bautista,,4,1.000,,.291,,,3,Jose,,,,,2,,,0,.965,,300,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.536,0,.429
+,Izturis,,,,,,,,,,Maicer Izturis,,,,,,,,,Maicer,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Santos,,,,,,,,,,Sergio Santos,,,,,,,,,Sergio,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Janssen,,,,,,,,,,Casey Janssen,,,,,,,,,Casey,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Redmond,,,,,,,,,,Todd Redmond,,,,,,,,,Todd,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+3,Cecil,0,0,0,P,0,2,0,0,0,Brett Cecil,0,,.000,1,.000,0,4,0,Brett,3,1,true,0,0,0,2/3,0,.000,12,,,0,53,,0,3.86,0,2,0,0,8,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Delabar,,,,,,,,,,Steve Delabar,,,,,,,,,Steve,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lind,,0,,1B,1,,0,0,4,Adam Lind,,1,1.000,,.329,,,0,Adam,,,,,14,,,0,.953,,400,,0,,,0,,1,,2,,,0,0,0,0,0,Blue Jays,0,.539,0,.414
+,Morrow,,,,,,,,,,Brandon Morrow,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Kratz,,,,,,,,,,Erik Kratz,,,,,,,,,Erik,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Happ,,,,,,,,,,J.A. Happ,,,,,,,,,J.A.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Rasmus,,,,,,,,,,Colby Rasmus,,,,,,,,,Colby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Francisco,,0,,3B,0,,0,0,2,Juan Francisco,,1,1.000,,.280,,,1,Juan,,,,,1,,,1,.972,,600,,0,,,3,,0,,0,,,0,0,1,0,0,Blue Jays,0,.602,0,.370
+,Cabrera,,0,,LF,0,,0,0,4,Melky Cabrera,,2,1.000,,.317,,,0,Melky,,,,,1,,,0,.869,,200,,0,,,0,,0,,2,,,0,0,0,0,2,Blue Jays,0,.510,0,.359
+,Tolleson,,0,,PH-2B,0,,0,0,0,Steve Tolleson,,,1.000,,.275,,,0,Steve,,,,,0,,,1,.906,,601,,0,,,1,,0,,0,,,0,0,0,0,0,Blue Jays,0,.550,0,.356
+,Thole,,0,,C,0,,0,0,3,Josh Thole,,1,1.000,,.360,,,1,Josh,,,,,6,,,1,.829,,800,,0,,,0,,0,,1,,,0,0,1,0,0,Blue Jays,0,.400,0,.429
+,Rasmussen,,,,,,,,,,Rob Rasmussen,,,,,,,,,Rob,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Hendriks,,,,,,,,,,Liam Hendriks,,,,,,,,,Liam,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Gose,,0,,CF,1,,0,0,3,Anthony Gose,,1,1.000,,.308,,,4,Anthony,,,,,1,,,0,.894,,900,,0,,,0,,0,,1,,,0,2,0,0,0,Blue Jays,0,.423,0,.471
+,Lawrie,,0,,2B-3B,2,,0,0,4,Brett Lawrie,,,1.000,,.224,,,4,Brett,,,,,1,,,0,.687,,700,,0,,,5,,0,,1,,,1,1,1,0,1,Blue Jays,0,.412,0,.275
+,Hutchison,,,,,,,,,,Drew Hutchison,,,,,,,,,Drew,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Loup,,,,,,,,,,Aaron Loup,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Pillar,,0,,LF,0,,0,0,0,Kevin Pillar,,,.000,,.286,,,0,Kevin,,,,,0,,,0,.667,,201,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.381,0,.286
+,Punto,,,,,,,,,,Nick Punto,,,,,,,,,Nick,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Crisp,,0,,CF,0,,0,0,4,Coco Crisp,,3,1.000,,.246,,,1,Coco,,,,,2,,,0,.745,,100,,0,,,0,,0,,0,,,0,0,1,0,0,Athletics,0,.393,0,.352
+,Callaspo,,0,,2B,0,,0,0,4,Alberto Callaspo,,2,1.000,,.236,,,2,Alberto,,,,,3,,,0,.669,,700,,0,,,5,,0,,1,,,0,0,1,0,0,Athletics,0,.329,0,.340
+,Kazmir,,,,,,,,,,Scott Kazmir,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+1,Francis,0,0,1,P,0,4,0,0,0,Jeff Francis,0,,.000,0,.000,0,9,0,Jeff,0,1,,0,0,1,,0,.000,0,,,0,53,,0,4.50,0,3,0,0,14,0,0,0,0,0,Athletics,0,.000,0,.000
+,Jaso,,,,,,,,,,John Jaso,,,,,,,,,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+2,Chavez,8,0,1,P,0,24,0,0,0,Jesse Chavez,4,,1.000,0,.000,4,67,0,Jesse,0,4,,1,1,5,1/3,0,.000,0,,true,0,43,,0,2.61,0,16,0,2,95,0,0,0,0,0,Athletics,0,.000,0,.000
+,O'Flaherty,,,,,,,,,,Eric O'Flaherty,,,,,,,,,Eric,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Doolittle,,,,,,,,,,Sean Doolittle,,,,,,,,,Sean,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+0,Rodriguez,1,0,1,P,0,7,0,0,0,Fernando Rodriguez,0,,.000,0,.000,1,15,0,Fernando,0,0,,0,0,1,2/3,0,.000,1,,,0,48,,0,1.50,0,5,0,1,26,0,0,0,0,0,Athletics,0,.000,0,.000
+,Blanks,,,,,,,,,,Kyle Blanks,,,,,,,,,Kyle,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Griffin,,,,,,,,,,A.J. Griffin,,,,,,,,,A.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Moss,,0,,1B,1,,0,0,4,Brandon Moss,,1,.889,,.295,,,0,Brandon,,,,,7,,,0,.966,,400,,1,,,1,,0,,1,,,0,0,1,0,0,Athletics,0,.584,0,.382
+,Johnson,,,,,,,,,,Jim Johnson,,,,,,,,,Jim,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Abad,,,,,,,,,,Fernando Abad,,,,,,,,,Fernando,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Cook,,,,,,,,,,Ryan Cook,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Lowrie,,0,,PH,1,,0,0,0,Jed Lowrie,,,.000,,.251,,,0,Jed,,,,,0,,,0,.739,,601,,0,,,0,,0,,0,,,0,0,0,0,1,Athletics,0,.386,1,.353
+,Cespedes,,0,,DH,0,,0,0,4,Yoenis Cespedes,,,.000,,.254,,,0,Yoenis,,,,,0,,,0,.822,,500,,0,,,0,,0,,3,,,1,1,1,1,1,Athletics,0,.503,0,.319
+,Reddick,,0,,RF,1,,0,0,3,Josh Reddick,,1,1.000,,.216,,,1,Josh,,,,,2,,,0,.619,,600,,0,,,0,,0,,0,,,0,0,1,0,0,Athletics,0,.346,0,.273
+,Gentry,,0,,LF,2,,0,0,3,Craig Gentry,,1,.750,,.264,,,1,Craig,,,,,3,,,0,.666,,900,,1,,,0,,0,,0,,,0,0,0,0,0,Athletics,0,.333,0,.333
+,Gregerson,,,,,,,,,,Luke Gregerson,,,,,,,,,Luke,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Donaldson,,0,,3B,3,,0,0,3,Josh Donaldson,,,1.000,,.267,,,0,Josh,,,,,1,,,1,.854,,300,,0,,,1,,0,,0,,,0,1,0,0,0,Athletics,0,.492,0,.362
+,Elmore,,,,,,,,,,Jake Elmore,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Norris,,0,,C,1,,0,0,4,Derek Norris,,3,1.000,,.324,,,0,Derek,,,,,5,,,0,.930,,200,,0,,,0,,0,,0,,,0,0,0,0,0,Athletics,0,.500,0,.430
+,Otero,,,,,,,,,,Dan Otero,,,,,,,,,Dan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Parker,,,,,,,,,,Jarrod Parker,,,,,,,,,Jarrod,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Pomeranz,,,,,,,,,,Drew Pomeranz,,,,,,,,,Drew,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Sogard,,0,,SS,0,,0,0,3,Eric Sogard,,2,1.000,,.185,,,1,Eric,,,,,0,,,0,.480,,800,,0,,,3,,0,,1,,,0,0,0,0,0,Athletics,0,.222,0,.258
+,Gray,,,,,,,,,,Sonny Gray,,,,,,,,,Sonny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Milone,,,,,,,,,,Tommy Milone,,,,,,,,,Tommy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,

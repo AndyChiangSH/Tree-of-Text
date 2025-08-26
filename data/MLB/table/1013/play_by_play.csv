@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Wily Peralta,1,0,3,Travis Snider,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Wily Peralta,2,1,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Wily Peralta,3,2,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,1,2,3,Elian Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,2,2,3,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,2,2,1,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,3,1,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,1,2,0,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,2,1,1,Jose Tabata,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,2,1,0,Ike Davis,['N/A'],['Ike Davis'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Wily Peralta,3,1,1,Jordy Mercer,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,1,0,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,2,3,3,Khris Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,3,0,0,Jean Segura,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Wily Peralta,1,0,2,Chris Stewart,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Wily Peralta,2,2,3,Francisco Liriano,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Wily Peralta,2,3,2,Travis Snider,['Travis Snider'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Wily Peralta,3,1,1,Neil Walker,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,1,1,3,Jeff Bianchi,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,2,1,0,Wily Peralta,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,3,2,3,Elian Herrera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Wily Peralta,0,4,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Wily Peralta,0,0,1,Pedro Alvarez,['Pedro Alvarez'],['N/A'],['Andrew McCutchen'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,1,['Andrew McCutchen'],Wily Peralta,1,1,0,Jose Tabata,['Jose Tabata'],['N/A'],['N/A'],Forceout,N/A,0,1,1,N/A,N/A
+4,top,0,[],Wily Peralta,2,0,2,Ike Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Wily Peralta,3,0,3,Jordy Mercer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Francisco Liriano,0,1,0,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Francisco Liriano,1,0,3,Ryan Braun,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Francisco Liriano,1,4,1,Jonathan Lucroy,['Jonathan Lucroy'],['Rickie Weeks Jr.'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Francisco Liriano,3,0,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Wily Peralta,1,0,0,Chris Stewart,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Wily Peralta,1,1,2,Francisco Liriano,['Francisco Liriano'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Wily Peralta,2,0,1,Travis Snider,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Wily Peralta,3,3,2,Neil Walker,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Francisco Liriano,0,1,2,Khris Davis,['N/A'],['Khris Davis'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Francisco Liriano,0,0,1,Jean Segura,['Jean Segura'],['N/A'],['Khris Davis'],Field Error,N/A,0,1,N/A,N/A,Ike Davis
+5,bottom,1,['Khris Davis'],Francisco Liriano,1,0,2,Jeff Bianchi,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,1,1,N/A,N/A
+5,bottom,0,[],Francisco Liriano,2,0,3,Wily Peralta,['N/A'],['Jean Segura'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+5,bottom,0,[],Francisco Liriano,3,3,1,Elian Herrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Wily Peralta,1,2,0,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Wily Peralta,1,0,1,Pedro Alvarez,['Pedro Alvarez'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,top,0,[],Wily Peralta,3,2,2,Jose Tabata,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Francisco Liriano,1,2,1,Rickie Weeks Jr.,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Francisco Liriano,1,1,0,Ryan Braun,['Ryan Braun'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Francisco Liriano,2,1,2,Jonathan Lucroy,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+6,bottom,0,[],Francisco Liriano,3,1,1,Mark Reynolds,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Wily Peralta,1,0,1,Ike Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Wily Peralta,2,3,2,Jordy Mercer,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+7,top,0,[],Wily Peralta,3,0,0,Chris Stewart,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Bryan Morris,0,4,0,Khris Davis,['Khris Davis'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Bryan Morris,1,0,0,Jean Segura,['N/A'],['Khris Davis'],['N/A'],Sac Bunt,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Bryan Morris,2,0,0,Jeff Bianchi,['N/A'],['N/A'],['Khris Davis'],Groundout,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Bryan Morris,2,4,0,Scooter Gennett,['Scooter Gennett'],['N/A'],['N/A'],Intent Walk,N/A,1,1,N/A,N/A,N/A
+7,bottom,0,[],Bryan Morris,3,0,0,Elian Herrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Will Smith,1,2,3,Starling Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Will Smith,2,3,3,Gaby Sanchez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Will Smith,2,1,0,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Will Smith,2,3,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['Neil Walker'],Single,N/A,1,1,N/A,N/A,N/A
+8,top,0,[],Will Smith,3,0,3,Pedro Alvarez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Tony Watson,0,4,2,Rickie Weeks Jr.,['Rickie Weeks Jr.'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Tony Watson,2,0,1,Ryan Braun,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Tony Watson,2,1,2,Jonathan Lucroy,['Jonathan Lucroy'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,2,1,Mark Reynolds,['N/A'],['Jonathan Lucroy'],['N/A'],Stolen Base 2B,N/A,1,1,N/A,N/A,N/A
+8,bottom,0,[],Tony Watson,3,2,1,Mark Reynolds,['N/A'],['Jonathan Lucroy'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,1,0,1,Jose Tabata,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,1,2,0,Ike Davis,['Ike Davis'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,1,1,1,Jordy Mercer,['Jordy Mercer'],['Ike Davis'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+9,top,1,['Clint Barmes'],Francisco Rodriguez,1,0,2,Chris Stewart,['N/A'],"['Clint Barmes', 'Chris Stewart']",['Jordy Mercer'],Single,N/A,1,2,1,N/A,N/A
+9,top,2,"['Jordy Mercer', 'Chris Stewart']",Francisco Rodriguez,1,1,2,Starling Marte,['N/A'],['Starling Marte'],['N/A'],Double,N/A,1,4,2,N/A,N/A
+9,top,0,[],Francisco Rodriguez,2,0,1,Jaff Decker,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+9,top,0,[],Francisco Rodriguez,3,0,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Mark Melancon,1,1,2,Khris Davis,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Mark Melancon,2,0,1,Jean Segura,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Mark Melancon,2,1,2,Jeff Bianchi,['Jeff Bianchi'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+9,bottom,0,[],Mark Melancon,3,1,2,Logan Schafer,['N/A'],['Jeff Bianchi'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A

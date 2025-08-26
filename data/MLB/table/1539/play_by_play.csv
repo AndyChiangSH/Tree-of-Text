@@ -1,0 +1,76 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Robert Gsellman,1,0,2,Adam Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Robert Gsellman,2,2,1,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Robert Gsellman,3,0,3,Gregory Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tyler Glasnow,0,4,1,Michael Conforto,['Michael Conforto'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tyler Glasnow,1,3,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tyler Glasnow,2,2,1,Jay Bruce,['N/A'],['Michael Conforto'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Tyler Glasnow,2,1,0,Neil Walker,['N/A'],['N/A'],['Michael Conforto'],Wild Pitch,N/A,0,0,N/A,N/A,N/A
+1,bottom,2,['Michael Conforto'],Tyler Glasnow,2,3,1,Neil Walker,['N/A'],['N/A'],['Michael Conforto'],Home Run,N/A,2,0,2,N/A,N/A
+1,bottom,0,[],Tyler Glasnow,2,1,1,Lucas Duda,['N/A'],['Lucas Duda'],['N/A'],Double,N/A,2,0,N/A,N/A,N/A
+1,bottom,0,[],Tyler Glasnow,3,0,1,Wilmer Flores,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,0,N/A,N/A,N/A
+2,top,0,[],Robert Gsellman,1,3,2,David Freese,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,0,N/A,N/A,N/A
+2,top,1,[],Robert Gsellman,1,1,1,Josh Bell,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,1,1,N/A,N/A
+2,top,0,[],Robert Gsellman,1,4,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Robert Gsellman,2,0,3,Jordy Mercer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Robert Gsellman,2,0,1,Elias Diaz,['Elias Diaz'],['Andrew McCutchen'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+2,top,0,[],Robert Gsellman,3,2,3,Tyler Glasnow,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Tyler Glasnow,1,2,2,Curtis Granderson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Tyler Glasnow,2,3,2,Rene Rivera,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Tyler Glasnow,2,1,1,Robert Gsellman,['Robert Gsellman'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+2,bottom,0,[],Tyler Glasnow,3,1,3,Michael Conforto,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Robert Gsellman,0,1,0,Adam Frazier,['Adam Frazier'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],Robert Gsellman,0,3,2,Josh Harrison,['Josh Harrison'],['N/A'],['Adam Frazier'],Single,N/A,2,1,N/A,N/A,N/A
+3,top,1,['Adam Frazier'],Robert Gsellman,1,3,2,Gregory Polanco,['N/A'],['Josh Harrison'],['N/A'],Groundout,N/A,2,2,1,N/A,N/A
+3,top,0,[],Robert Gsellman,2,1,2,David Freese,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+3,top,0,[],Robert Gsellman,3,0,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+3,bottom,0,[],Tyler Glasnow,1,0,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+3,bottom,1,[],Tyler Glasnow,1,2,1,Jay Bruce,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,2,1,N/A,N/A
+3,bottom,0,[],Tyler Glasnow,1,4,0,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Walk,N/A,3,2,N/A,N/A,N/A
+3,bottom,0,[],Tyler Glasnow,3,3,3,Lucas Duda,['N/A'],['N/A'],['N/A'],Strikeout - DP,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Robert Gsellman,1,2,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Robert Gsellman,1,2,1,Jordy Mercer,['N/A'],['Jordy Mercer'],['N/A'],Double,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Robert Gsellman,1,2,1,Elias Diaz,['Elias Diaz'],['N/A'],['Jordy Mercer'],Single,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Robert Gsellman,2,1,3,Tyler Glasnow,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,2,N/A,N/A,N/A
+4,top,0,[],Robert Gsellman,3,1,1,Adam Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,2,N/A,N/A,N/A
+4,bottom,1,[],Tyler Glasnow,0,2,2,Wilmer Flores,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,2,1,N/A,N/A
+4,bottom,0,[],Tyler Glasnow,1,2,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Tyler Glasnow,2,1,3,Rene Rivera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Tyler Glasnow,3,2,3,Robert Gsellman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Robert Gsellman,1,0,2,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Robert Gsellman,2,1,2,Gregory Polanco,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Robert Gsellman,3,0,3,David Freese,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Tyler Glasnow,0,4,1,Michael Conforto,['Michael Conforto'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Tyler Glasnow,1,0,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Tyler Glasnow,3,0,0,Jay Bruce,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Robert Gsellman,1,2,1,Josh Bell,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Robert Gsellman,1,4,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Robert Gsellman,1,0,1,Jordy Mercer,['Jordy Mercer'],['N/A'],['Andrew McCutchen'],Single,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Fernando Salas,2,2,3,Elias Diaz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Fernando Salas,3,0,1,Jose Osuna,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Johnny Barbato,0,0,2,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Johnny Barbato,0,0,2,Lucas Duda,['Lucas Duda'],['N/A'],['Neil Walker'],Single,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Johnny Barbato,1,1,3,Wilmer Flores,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Johnny Barbato,2,0,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Johnny Barbato,3,1,3,Rene Rivera,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Jerry Blevins,1,0,0,Adam Frazier,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Jerry Blevins,2,1,3,Josh Harrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Jerry Blevins,2,1,2,Gregory Polanco,['Gregory Polanco'],['N/A'],['N/A'],Field Error,N/A,4,2,N/A,N/A,Asdrubal Cabrera
+7,top,0,[],Jerry Blevins,2,2,0,David Freese,['David Freese'],['Gregory Polanco'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Jerry Blevins,3,0,3,Josh Bell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Johnny Barbato,1,0,1,Juan Lagares,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Johnny Barbato,2,0,2,Michael Conforto,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Johnny Barbato,2,4,1,Asdrubal Cabrera,['Asdrubal Cabrera'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Johnny Barbato,3,3,2,Jay Bruce,['N/A'],['Asdrubal Cabrera'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Addison Reed,1,0,2,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Addison Reed,1,0,2,Jordy Mercer,['N/A'],['Jordy Mercer'],['N/A'],Double,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Addison Reed,1,4,2,Elias Diaz,['Elias Diaz'],['N/A'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Addison Reed,2,3,1,John Jaso,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Addison Reed,3,1,2,Adam Frazier,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Wade LeBlanc,1,2,2,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Wade LeBlanc,2,3,2,Lucas Duda,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Wade LeBlanc,3,1,0,Wilmer Flores,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Addison Reed,0,0,1,Josh Harrison,['Josh Harrison'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Addison Reed,1,1,2,Gregory Polanco,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Addison Reed,2,1,0,David Freese,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Addison Reed,3,1,1,Josh Bell,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A

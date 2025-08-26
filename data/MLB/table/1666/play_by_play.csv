@@ -1,0 +1,69 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Josh Lucas,0,0,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Josh Lucas,0,1,2,Guillermo Heredia,['Guillermo Heredia'],['N/A'],['Jean Segura'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Josh Lucas,0,4,2,Mitch Haniger,['Mitch Haniger'],['Guillermo Heredia'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Jean Segura'],Josh Lucas,2,3,2,Nelson Cruz,['N/A'],['N/A'],['Guillermo Heredia'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Josh Lucas,3,2,3,Kyle Seager,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,0,0,0,Matt Joyce,['Matt Joyce'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,0,3,2,Marcus Semien,['N/A'],['Marcus Semien'],['Matt Joyce'],Single,N/A,0,1,N/A,N/A,N/A
+1,bottom,1,['Matt Joyce'],Felix Hernandez,1,1,1,Jed Lowrie,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,1,1,1,N/A,N/A
+1,bottom,0,[],Felix Hernandez,2,3,3,Matt Olson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,2,4,2,Matt Chapman,['Matt Chapman'],['N/A'],['N/A'],Walk,N/A,1,1,N/A,N/A,N/A
+1,bottom,2,"['Marcus Semien', 'Matt Chapman']",Felix Hernandez,2,0,0,Stephen Piscotty,['N/A'],['Stephen Piscotty'],['N/A'],Double,N/A,3,1,2,N/A,N/A
+1,bottom,1,['Stephen Piscotty'],Felix Hernandez,2,0,2,Dustin Fowler,['Dustin Fowler'],['N/A'],['N/A'],Single,N/A,4,1,1,N/A,N/A
+1,bottom,0,[],Felix Hernandez,3,1,0,Mark Canha,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,1,N/A,N/A,N/A
+2,top,0,[],Josh Lucas,0,4,2,Daniel Vogelbach,['Daniel Vogelbach'],['N/A'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+2,top,0,[],Josh Lucas,2,1,0,Ben Gamel,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,1,N/A,N/A,N/A
+2,top,0,[],Josh Lucas,2,4,2,Andrew Romine,['Andrew Romine'],['N/A'],['N/A'],Walk,N/A,4,1,N/A,N/A,N/A
+2,top,0,[],N/A,2,0,2,David Freitas,['N/A'],['Andrew Romine'],['N/A'],Stolen Base 2B,N/A,4,1,N/A,N/A,N/A
+2,top,1,['Andrew Romine'],Josh Lucas,2,2,2,David Freitas,['David Freitas'],['Andrew Romine'],['N/A'],Single,N/A,4,2,1,N/A,N/A
+2,top,0,[],Josh Lucas,3,1,2,Jean Segura,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,1,0,0,Bruce Maxwell,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,2,1,1,Matt Joyce,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,3,3,1,Marcus Semien,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+3,top,0,[],Chris Hatcher,1,2,2,Guillermo Heredia,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+3,top,0,[],Chris Hatcher,2,3,2,Mitch Haniger,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+3,top,0,[],Chris Hatcher,3,0,1,Nelson Cruz,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,1,0,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,2,3,1,Matt Olson,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,3,3,2,Matt Chapman,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Chris Hatcher,0,3,1,Kyle Seager,['Kyle Seager'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Chris Hatcher,2,1,1,Daniel Vogelbach,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Chris Hatcher,2,1,2,Ben Gamel,['Ben Gamel'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+4,top,0,[],Chris Hatcher,3,3,3,Andrew Romine,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,1,1,0,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,1,1,0,Dustin Fowler,['Dustin Fowler'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],N/A,1,1,1,Mark Canha,['N/A'],['Dustin Fowler'],['N/A'],Stolen Base 2B,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,2,2,2,Mark Canha,['N/A'],['Dustin Fowler'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,3,3,2,Bruce Maxwell,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Yusmeiro Petit,1,2,1,David Freitas,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Yusmeiro Petit,1,0,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Yusmeiro Petit,2,2,3,Guillermo Heredia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+5,top,0,[],Yusmeiro Petit,3,1,3,Mitch Haniger,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,1,2,0,Matt Joyce,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,2,3,3,Marcus Semien,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,3,0,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Yusmeiro Petit,1,3,3,Nelson Cruz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Yusmeiro Petit,2,1,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+6,top,0,[],Yusmeiro Petit,3,0,1,Daniel Vogelbach,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,1,1,1,Matt Olson,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,2,1,1,Matt Chapman,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,3,1,1,Stephen Piscotty,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Yusmeiro Petit,1,0,3,Ben Gamel,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Yusmeiro Petit,1,0,0,Andrew Romine,['Andrew Romine'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+7,top,0,[],Yusmeiro Petit,3,0,0,David Freitas,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Ryan Cook,1,2,2,Dustin Fowler,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Ryan Cook,2,1,2,Mark Canha,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,2,N/A,N/A,N/A
+7,bottom,0,[],Ryan Cook,3,2,3,Bruce Maxwell,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Lou Trivino,0,0,2,Jean Segura,['Jean Segura'],['N/A'],['N/A'],Single,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Lou Trivino,0,4,1,Guillermo Heredia,['Guillermo Heredia'],['Jean Segura'],['N/A'],Walk,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Lou Trivino,2,0,2,Mitch Haniger,['Mitch Haniger'],['N/A'],['N/A'],Grounded Into DP,N/A,4,2,N/A,N/A,N/A
+8,top,0,[],Lou Trivino,2,1,2,Nelson Cruz,['Nelson Cruz'],['N/A'],['Mitch Haniger'],Single,N/A,4,2,N/A,N/A,N/A
+8,top,1,['Mitch Haniger'],Blake Treinen,2,1,2,Kyle Seager,['N/A'],['Kyle Seager'],['Nelson Cruz'],Double,N/A,4,3,1,N/A,N/A
+8,top,0,[],Blake Treinen,3,3,1,Daniel Vogelbach,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Marc Rzepczynski,1,0,0,Matt Joyce,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Chasen Bradford,2,2,3,Marcus Semien,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Chasen Bradford,3,2,3,Jed Lowrie,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Blake Treinen,1,0,1,Ben Gamel,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Blake Treinen,2,1,3,Ryon Healy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Blake Treinen,3,1,3,Mike Zunino,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A

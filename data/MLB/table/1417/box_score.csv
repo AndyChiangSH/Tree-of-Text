@@ -1,0 +1,59 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+3,Grilli,1,0,0,P,0,4,0,0,0,Jason Grilli,4,,.000,2,.000,0,12,0,Jason,4,3,,0,0,1,,0,.000,13,,,0,47,,0,3.24,0,3,0,0,21,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Benoit,,,,,,,,,,Joaquin Benoit,,,,,,,,,Joaquin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Dickey,,,,,,,,,,R.A. Dickey,,,,,,,,,R.A.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Upton,,0,,CF,0,,1,0,3,Melvin Upton,,1,1.000,,.243,,,2,Melvin,,,,,2,,,0,.693,,800,,0,,,0,,0,,1,,,0,0,1,0,0,Blue Jays,0,.404,0,.289
+,Floyd,,,,,,,,,,Gavin Floyd,,,,,,,,,Gavin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Encarnacion,,0,,DH,0,,0,0,3,Edwin Encarnacion,,,.000,,.268,,,0,Edwin,,,,,0,,,1,.908,,300,,0,,,0,,0,,2,,,0,1,1,0,0,Blue Jays,0,.550,0,.358
+,Bautista,,,,,,,,,,Jose Bautista,,,,,,,,,Jose,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Martin,,0,,C,1,,0,0,2,Russell Martin,,,1.000,,.228,,,0,Russell,,,,,10,,,1,.686,,600,,0,,,1,,0,,1,,,1,1,0,0,3,Blue Jays,0,.354,0,.332
+,Liriano,,,,,,,,,,Francisco Liriano,,,,,,,,,Francisco,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Feldman,,,,,,,,,,Scott Feldman,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Barney,,,,,,,,,,Darwin Barney,,,,,,,,,Darwin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Cecil,,,,,,,,,,Brett Cecil,,,,,,,,,Brett,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Tulowitzki,,0,,SS,1,,0,0,3,Troy Tulowitzki,,2,1.000,,.242,,,2,Troy,,,,,3,,,0,.765,,500,,0,,,2,,0,,0,,,0,0,0,0,0,Blue Jays,0,.451,0,.314
+,Happ,,,,,,,,,,J.A. Happ,,,,,,,,,J.A.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Saunders,,0,,RF,0,,0,0,4,Michael Saunders,,2,1.000,,.270,,,2,Michael,,,,,1,,,0,.864,,400,,0,,,0,,0,,1,,,0,1,2,0,0,Blue Jays,0,.509,0,.355
+,Estrada,,,,,,,,,,Marco Estrada,,,,,,,,,Marco,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Smoak,,0,,1B,0,,0,0,3,Justin Smoak,,1,1.000,,.225,,,0,Justin,,,,,8,,,0,.728,,700,,0,,,0,,0,,1,,,0,0,1,0,0,Blue Jays,0,.412,0,.316
+,Carrera,,,,,,,,,,Ezequiel Carrera,,,,,,,,,Ezequiel,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Thole,,,,,,,,,,Josh Thole,,,,,,,,,Josh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Lake,,0,,RF,0,,0,0,0,Junior Lake,,,1.000,,.206,,,0,Junior,,,,,1,,,0,.671,,401,,0,,,0,,0,,0,,,0,0,0,0,0,Blue Jays,0,.382,0,.289
+,Donaldson,,0,,3B,0,,0,0,4,Josh Donaldson,,2,1.000,,.294,,,0,Josh,,,,,0,,,0,.971,,200,,0,,,2,,0,,1,,,1,1,1,0,1,Blue Jays,0,.569,0,.402
+1,Osuna,1,0,0,P,0,4,0,0,0,Roberto Osuna,2,,.000,2,.000,0,10,0,Roberto,26,1,true,0,0,1,,0,.000,0,,,0,45,,0,1.89,0,3,0,0,12,0,0,0,0,0,Blue Jays,0,.000,0,.000
+,Ceciliani,,0,,LF,2,,0,0,3,Darrell Ceciliani,,,1.000,,.083,,,3,Darrell,,,,,1,,,0,.250,,900,,0,,,0,,0,,0,,,0,0,1,0,0,Blue Jays,0,.167,0,.083
+,Tepera,,,,,,,,,,Ryan Tepera,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Stroman,,,,,,,,,,Marcus Stroman,,,,,,,,,Marcus,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Travis,,0,,2B,2,,0,0,4,Devon Travis,,1,1.000,,.300,,,0,Devon,,,,,1,,,0,.822,,100,,0,,,3,,0,,0,,,0,0,1,0,0,Blue Jays,0,.486,0,.336
+2,Sanchez,5,0,3,P,0,27,0,0,0,Aaron Sanchez,12,,1.000,0,.000,2,58,0,Aaron,0,6,,0,0,7,,0,.100,0,,,0,66,true,2,2.84,0,21,0,2,95,0,0,0,0,0,Blue Jays,0,.000,0,.100
+,Biagini,,,,,,,,,,Joe Biagini,,,,,,,,,Joe,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Pillar,,,,,,,,,,Kevin Pillar,,,,,,,,,Kevin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Jays,,,,
+,Sipp,,,,,,,,,,Tony Sipp,,,,,,,,,Tony,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Neshek,,,,,,,,,,Pat Neshek,,,,,,,,,Pat,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Fister,,,,,,,,,,Doug Fister,,,,,,,,,Doug,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Rasmus,,,,,,,,,,Colby Rasmus,,,,,,,,,Colby,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Valbuena,,,,,,,,,,Luis Valbuena,,,,,,,,,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Castro,,,,,,,,,,Jason Castro,,,,,,,,,Jason,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Harris,,,,,,,,,,Will Harris,,,,,,,,,Will,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Gregerson,,,,,,,,,,Luke Gregerson,,,,,,,,,Luke,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Gonzalez,,0,,2B,0,,0,0,4,Marwin Gonzalez,,2,.000,,.257,,,2,Marwin,,,,,0,,,0,.709,,500,,0,,,0,,0,,1,,,0,0,1,0,0,Astros,0,.417,0,.292
+,Altuve,,0,,DH,0,,1,0,3,Jose Altuve,,1,.000,,.365,,,1,Jose,,,,,0,,,1,1.009,,300,,0,,,0,,1,,2,,,0,1,0,1,0,Astros,0,.578,0,.431
+10,McHugh,5,0,2,P,0,22,0,0,0,Collin McHugh,7,,.000,0,.000,3,59,0,Collin,0,6,,1,0,5,1/3,0,.000,0,,true,0,49,,0,4.70,0,16,0,3,95,0,0,0,0,0,Astros,0,.000,0,.000
+,Springer,,0,,RF,0,,0,0,3,George Springer,,,1.000,,.260,,,1,George,,,,,4,,,1,.825,,100,,0,,,0,,0,,0,,,0,0,3,0,0,Astros,0,.468,0,.357
+,Marisnick,,,,,,,,,,Jake Marisnick,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Fiers,,,,,,,,,,Mike Fiers,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Keuchel,,,,,,,,,,Dallas Keuchel,,,,,,,,,Dallas,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Feliz,,,,,,,,,,Michael Feliz,,,,,,,,,Michael,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+0,Gustave,1,0,0,P,0,6,0,0,0,Jandel Gustave,0,,1.000,0,.000,0,14,0,Jandel,0,2,,0,0,2,,0,.000,0,,,0,52,,1,3.00,0,6,0,0,20,0,0,0,0,0,Astros,0,.000,0,.000
+,Gattis,,0,,C,1,,0,0,4,Evan Gattis,,3,1.000,,.235,,,2,Evan,,,,,8,,,0,.752,,600,,0,,,0,,0,,0,,,0,0,1,0,0,Astros,0,.457,0,.295
+,Musgrove,,,,,,,,,,Joe Musgrove,,,,,,,,,Joe,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Tucker,,,,,,,,,,Preston Tucker,,,,,,,,,Preston,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Hernandez,,0,,CF,1,,0,0,4,Teoscar Hernandez,,,1.000,,.250,,,2,Teoscar,,,,,1,,,0,.958,,800,,0,,,0,,0,,0,,,0,0,3,0,0,Astros,0,.625,0,.333
+,Devenski,,,,,,,,,,Chris Devenski,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+,Reed,,0,,1B,2,,0,0,4,AJ Reed,,,1.000,,.171,,,0,AJ,,,,,8,,,0,.558,,700,,0,,,2,,2,,2,,,0,0,0,0,0,Astros,0,.286,0,.272
+,Bregman,,0,,3B,1,,0,0,4,Alex Bregman,,1,1.000,,.178,,,1,Alex,,,,,1,,,0,.494,,200,,0,,,5,,0,,1,,,0,1,1,0,0,Astros,0,.247,0,.247
+,Correa,,0,,SS,1,,0,0,3,Carlos Correa,,,1.000,,.273,,,1,Carlos,,,,,2,,,1,.847,,400,,0,,,2,,1,,1,,,0,0,1,0,2,Astros,0,.480,0,.367
+,McCullers,,,,,,,,,,Lance McCullers,,,,,,,,,Lance,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,
+0,Hoyt,1,0,0,P,0,3,0,0,0,James Hoyt,0,,.000,1,.000,1,9,0,James,0,0,,1,0,0,2/3,0,.000,0,,,0,33,,0,3.00,0,2,0,1,17,0,0,0,0,0,Astros,0,.000,0,.000
+,Kemp,,0,,LF,1,,0,0,3,Tony Kemp,,2,.000,,.254,,,1,Tony,,,,,0,,,0,.675,,900,,0,,,0,,0,,0,,,0,0,0,0,0,Astros,0,.333,0,.342
+,White,,,,,,,,,,Tyler White,,,,,,,,,Tyler,,,,,,,,,,,,,,,,,,,,,,,,,,,,Astros,,,,

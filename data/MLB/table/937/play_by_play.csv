@@ -1,0 +1,108 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Hector Santiago,0,0,0,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,2,['Brett Gardner'],Hector Santiago,0,1,1,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,2,2,N/A,N/A
+1,top,0,[],Hector Santiago,1,1,1,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Hector Santiago,2,1,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,top,0,[],Hector Santiago,3,1,0,Vernon Wells,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,1,0,0,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,2,0,2,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],CC Sabathia,3,1,1,Alex Rios,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,1,3,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,1,2,1,Eduardo Nunez,['N/A'],['Eduardo Nunez'],['N/A'],Double,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,2,0,0,Lyle Overbay,['N/A'],['N/A'],['Eduardo Nunez'],Groundout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Hector Santiago,3,0,3,Austin Romine,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],CC Sabathia,1,1,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],CC Sabathia,2,1,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],CC Sabathia,3,2,2,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,1,2,3,Brett Gardner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,1,4,1,Alfonso Soriano,['Alfonso Soriano'],['N/A'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,1,1,0,Alex Rodriguez,['Alex Rodriguez'],['Alfonso Soriano'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,2,1,1,Robinson Cano,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+3,top,1,['Alfonso Soriano'],Hector Santiago,2,1,0,Vernon Wells,['Vernon Wells'],['N/A'],['Alex Rodriguez'],Single,N/A,0,3,1,N/A,N/A
+3,top,0,[],N/A,2,1,2,Curtis Granderson,['N/A'],['Vernon Wells'],['N/A'],Stolen Base 2B,N/A,0,3,N/A,N/A,N/A
+3,top,0,[],Hector Santiago,3,3,2,Curtis Granderson,['N/A'],['Vernon Wells'],['N/A'],Flyout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,1,3,3,Casper Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,2,1,2,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+3,bottom,0,[],CC Sabathia,3,0,1,Tyler Flowers,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,3,N/A,N/A,N/A
+4,top,1,[],Hector Santiago,0,2,2,Eduardo Nunez,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,4,1,N/A,N/A
+4,top,0,[],Hector Santiago,1,2,3,Lyle Overbay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Hector Santiago,2,2,1,Austin Romine,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,4,N/A,N/A,N/A
+4,top,0,[],Hector Santiago,3,1,2,Brett Gardner,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,0,0,1,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Single,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,2,0,2,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,4,N/A,N/A,N/A
+4,bottom,0,[],CC Sabathia,3,2,1,Alex Rios,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Hector Santiago,1,1,0,Alfonso Soriano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Hector Santiago,2,2,0,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,4,N/A,N/A,N/A
+5,top,0,[],Hector Santiago,3,3,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,1,0,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,4,N/A,N/A,N/A
+5,bottom,1,[],CC Sabathia,1,0,2,Gordon Beckham,['N/A'],['N/A'],['N/A'],Home Run,N/A,1,4,1,N/A,N/A
+5,bottom,0,[],CC Sabathia,2,3,2,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Lineout,N/A,1,4,N/A,N/A,N/A
+5,bottom,0,[],CC Sabathia,3,0,0,Casper Wells,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Hector Santiago,0,0,1,Vernon Wells,['Vernon Wells'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Hector Santiago,1,2,1,Curtis Granderson,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Hector Santiago,1,4,0,Eduardo Nunez,['Eduardo Nunez'],['Vernon Wells'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Hector Santiago,2,1,3,Lyle Overbay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Ramon Troncoso,2,4,2,Austin Romine,['Austin Romine'],['Eduardo Nunez'],['Vernon Wells'],Walk,N/A,1,4,N/A,N/A,N/A
+6,top,0,[],Donnie Veal,3,0,1,Brett Gardner,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,1,0,2,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,2,1,0,Tyler Flowers,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,4,N/A,N/A,N/A
+6,bottom,0,[],CC Sabathia,3,0,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Matt Lindstrom,0,1,2,Alfonso Soriano,['Alfonso Soriano'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Matt Lindstrom,0,4,1,Alex Rodriguez,['Alex Rodriguez'],['Alfonso Soriano'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Matt Lindstrom,2,1,0,Robinson Cano,['N/A'],['N/A'],['Alfonso Soriano'],Grounded Into DP,N/A,1,4,N/A,N/A,N/A
+7,top,0,[],Matt Lindstrom,3,1,1,Vernon Wells,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],CC Sabathia,0,2,2,Alejandro De Aza,['Alejandro De Aza'],['N/A'],['N/A'],Single,N/A,1,4,N/A,N/A,N/A
+7,bottom,0,[],CC Sabathia,0,0,1,Alex Rios,['Alex Rios'],['N/A'],['Alejandro De Aza'],Single,N/A,1,4,N/A,N/A,N/A
+7,bottom,1,['Alejandro De Aza'],CC Sabathia,0,1,1,Paul Konerko,['N/A'],['Paul Konerko'],['Alex Rios'],Double,N/A,2,4,1,N/A,N/A
+7,bottom,1,['Alex Rios'],CC Sabathia,1,0,1,Gordon Beckham,['Gordon Beckham'],['N/A'],['N/A'],Fielders Choice Out,N/A,3,4,1,N/A,N/A
+7,bottom,0,[],CC Sabathia,2,0,1,Dayan Viciedo,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+7,bottom,0,[],CC Sabathia,3,1,1,Casper Wells,['N/A'],['N/A'],['N/A'],Forceout,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],David Purcey,0,4,1,Curtis Granderson,['Curtis Granderson'],['N/A'],['N/A'],Walk,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],David Purcey,0,0,0,Eduardo Nunez,['Eduardo Nunez'],['Curtis Granderson'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],David Purcey,2,2,1,Lyle Overbay,['N/A'],['Eduardo Nunez'],['N/A'],Grounded Into DP,N/A,3,4,N/A,N/A,N/A
+8,top,0,[],Nate Jones,3,3,3,Austin Romine,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],CC Sabathia,1,3,2,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],David Robertson,2,3,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],David Robertson,2,2,1,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,1,1,Alejandro De Aza,['N/A'],['Alexei Ramirez'],['N/A'],Stolen Base 2B,N/A,3,4,N/A,N/A,N/A
+8,bottom,0,[],David Robertson,3,3,1,Alejandro De Aza,['N/A'],['Alexei Ramirez'],['N/A'],Groundout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Nate Jones,1,3,2,Brett Gardner,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Nate Jones,1,0,2,Ichiro Suzuki,['Ichiro Suzuki'],['N/A'],['N/A'],Single,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Nate Jones,1,1,2,Alex Rodriguez,['N/A'],['Ichiro Suzuki'],['N/A'],Wild Pitch,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Nate Jones,2,2,3,Alex Rodriguez,['N/A'],['Ichiro Suzuki'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Nate Jones,2,4,0,Robinson Cano,['Robinson Cano'],['N/A'],['N/A'],Intent Walk,N/A,3,4,N/A,N/A,N/A
+9,top,0,[],Nate Jones,3,3,3,Vernon Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Mariano Rivera,1,0,2,Alex Rios,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Mariano Rivera,2,0,1,Paul Konerko,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,4,N/A,N/A,N/A
+9,bottom,0,[],Mariano Rivera,2,2,1,Gordon Beckham,['N/A'],['Gordon Beckham'],['N/A'],Double,N/A,3,4,N/A,N/A,N/A
+9,bottom,1,['Gordon Beckham'],Mariano Rivera,2,0,2,Adam Dunn,['Adam Dunn'],['N/A'],['N/A'],Single,N/A,4,4,1,N/A,N/A
+9,bottom,0,[],N/A,2,0,1,Casper Wells,['N/A'],['Jordan Danks'],['N/A'],Stolen Base 2B,N/A,4,4,N/A,N/A,N/A
+9,bottom,0,[],Mariano Rivera,3,1,3,Casper Wells,['N/A'],['Jordan Danks'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Addison Reed,1,0,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Addison Reed,2,1,1,Eduardo Nunez,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,4,N/A,N/A,N/A
+10,top,0,[],Addison Reed,3,2,3,Lyle Overbay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Mariano Rivera,1,2,1,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Mariano Rivera,2,2,3,Tyler Flowers,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+10,bottom,0,[],Mariano Rivera,3,1,1,Alexei Ramirez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Addison Reed,0,4,0,Austin Romine,['Austin Romine'],['N/A'],['N/A'],Walk,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Addison Reed,1,1,1,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Forceout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],N/A,1,1,1,Ichiro Suzuki,['N/A'],['Brett Gardner'],['N/A'],Stolen Base 2B,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Addison Reed,2,2,1,Ichiro Suzuki,['N/A'],['Brett Gardner'],['Brett Gardner'],Flyout,N/A,4,4,N/A,N/A,N/A
+11,top,0,[],Addison Reed,3,1,0,Alex Rodriguez,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],Adam Warren,1,0,3,Alejandro De Aza,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],Adam Warren,1,2,2,Alex Rios,['Alex Rios'],['N/A'],['N/A'],Single,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],N/A,1,0,1,Paul Konerko,['N/A'],['Alex Rios'],['N/A'],Stolen Base 2B,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],Adam Warren,2,0,3,Paul Konerko,['N/A'],['Alex Rios'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],Adam Warren,2,4,0,Gordon Beckham,['Gordon Beckham'],['N/A'],['N/A'],Intent Walk,N/A,4,4,N/A,N/A,N/A
+11,bottom,0,[],Adam Warren,3,1,3,Jordan Danks,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,4,N/A,N/A,N/A
+12,top,1,[],Dylan Axelrod,0,1,2,Robinson Cano,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,5,1,N/A,N/A
+12,top,0,[],Dylan Axelrod,1,1,2,Vernon Wells,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,5,N/A,N/A,N/A
+12,top,0,[],Dylan Axelrod,2,1,3,Curtis Granderson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+12,top,0,[],Dylan Axelrod,2,4,0,Eduardo Nunez,['Eduardo Nunez'],['N/A'],['N/A'],Walk,N/A,4,5,N/A,N/A,N/A
+12,top,0,[],N/A,2,0,1,Lyle Overbay,['N/A'],['Eduardo Nunez'],['N/A'],Stolen Base 2B,N/A,4,5,N/A,N/A,N/A
+12,top,0,[],Dylan Axelrod,3,1,3,Lyle Overbay,['N/A'],['Eduardo Nunez'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+12,bottom,0,[],Adam Warren,1,2,3,Casper Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,5,N/A,N/A,N/A
+12,bottom,0,[],Adam Warren,2,3,2,Conor Gillaspie,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,5,N/A,N/A,N/A
+12,bottom,0,[],Adam Warren,2,1,2,Tyler Flowers,['Tyler Flowers'],['N/A'],['N/A'],Single,N/A,4,5,N/A,N/A,N/A
+12,bottom,0,[],Adam Warren,2,0,0,Alexei Ramirez,['Alexei Ramirez'],['N/A'],['Tyler Flowers'],Single,N/A,4,5,N/A,N/A,N/A
+12,bottom,2,"['Tyler Flowers', 'Alexei Ramirez']",Adam Warren,2,1,0,Alejandro De Aza,['N/A'],['N/A'],['Alejandro De Aza'],Triple,N/A,6,5,2,N/A,N/A

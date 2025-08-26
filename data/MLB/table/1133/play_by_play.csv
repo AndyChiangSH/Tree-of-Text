@@ -1,0 +1,73 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],David Buchanan,1,0,1,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],David Buchanan,2,1,0,Starling Marte,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],David Buchanan,2,1,2,Andrew McCutchen,['Andrew McCutchen'],['N/A'],['N/A'],Hit By Pitch,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],David Buchanan,3,1,3,Neil Walker,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Edinson Volquez,1,1,2,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Edinson Volquez,1,2,1,Maikel Franco,['N/A'],['Maikel Franco'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,1,['Maikel Franco'],Edinson Volquez,1,2,0,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+1,bottom,0,[],Edinson Volquez,2,0,3,Ryan Howard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Edinson Volquez,2,4,1,Marlon Byrd,['Marlon Byrd'],['Chase Utley'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+1,bottom,0,[],Edinson Volquez,3,0,1,Domonic Brown,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],David Buchanan,1,3,1,Russell Martin,['N/A'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],David Buchanan,2,0,1,Ike Davis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+2,top,0,[],David Buchanan,2,4,2,Gregory Polanco,['Gregory Polanco'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+2,top,1,['Gregory Polanco'],David Buchanan,2,0,2,Jordy Mercer,['N/A'],['Jordy Mercer'],['N/A'],Double,N/A,1,1,1,N/A,N/A
+2,top,0,[],David Buchanan,3,0,1,Edinson Volquez,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Edinson Volquez,1,0,0,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+2,bottom,0,[],Edinson Volquez,1,2,2,Freddy Galvis,['N/A'],['Freddy Galvis'],['N/A'],Double,N/A,1,1,N/A,N/A,N/A
+2,bottom,1,['Freddy Galvis'],Edinson Volquez,1,1,0,David Buchanan,['David Buchanan'],['N/A'],['N/A'],Single,N/A,2,1,1,N/A,N/A
+2,bottom,0,[],Edinson Volquez,3,1,1,Ben Revere,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],David Buchanan,1,2,2,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],David Buchanan,1,4,2,Starling Marte,['Starling Marte'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],David Buchanan,2,3,3,Andrew McCutchen,['N/A'],['Starling Marte'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+3,top,0,[],David Buchanan,2,4,1,Neil Walker,['Neil Walker'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+3,top,2,"['Starling Marte', 'Neil Walker']",David Buchanan,2,0,1,Russell Martin,['N/A'],['Russell Martin'],['N/A'],Double,N/A,2,3,2,N/A,N/A
+3,top,0,[],David Buchanan,3,1,0,Ike Davis,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Edinson Volquez,1,1,3,Maikel Franco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Edinson Volquez,2,2,2,Chase Utley,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,3,N/A,N/A,N/A
+3,bottom,0,[],Edinson Volquez,3,0,0,Ryan Howard,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],David Buchanan,1,0,3,Gregory Polanco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],David Buchanan,2,0,2,Jordy Mercer,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],David Buchanan,3,0,3,Edinson Volquez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Edinson Volquez,0,0,1,Marlon Byrd,['Marlon Byrd'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Edinson Volquez,1,0,1,Domonic Brown,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Edinson Volquez,3,0,2,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],David Buchanan,1,0,1,Josh Harrison,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],David Buchanan,1,2,1,Starling Marte,['N/A'],['Starling Marte'],['N/A'],Fan interference,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],David Buchanan,2,1,0,Andrew McCutchen,['N/A'],['N/A'],['Starling Marte'],Groundout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],David Buchanan,3,1,0,Neil Walker,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+5,bottom,1,[],Edinson Volquez,0,1,0,Freddy Galvis,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,3,1,N/A,N/A
+5,bottom,0,[],Edinson Volquez,1,1,0,David Buchanan,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+5,bottom,0,[],Edinson Volquez,2,1,1,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+5,bottom,0,[],Edinson Volquez,3,1,2,Maikel Franco,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],David Buchanan,1,0,0,Russell Martin,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],David Buchanan,2,1,3,Ike Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],David Buchanan,3,1,1,Gregory Polanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Edinson Volquez,0,1,2,Chase Utley,['Chase Utley'],['N/A'],['N/A'],Hit By Pitch,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Edinson Volquez,1,1,3,Ryan Howard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Edinson Volquez,2,1,3,Marlon Byrd,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],N/A,2,0,2,Domonic Brown,['N/A'],['Chase Utley'],['N/A'],Stolen Base 2B,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Edinson Volquez,2,4,2,Domonic Brown,['Domonic Brown'],['Chase Utley'],['N/A'],Walk,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Edinson Volquez,3,2,3,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Justin De Fratus,1,1,1,Jordy Mercer,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Justin De Fratus,2,0,0,Travis Snider,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Justin De Fratus,2,3,2,Josh Harrison,['Josh Harrison'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Justin De Fratus,2,2,2,Starling Marte,['Starling Marte'],['Josh Harrison'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Justin De Fratus,3,1,3,Andrew McCutchen,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Justin Wilson,0,1,0,Freddy Galvis,['Freddy Galvis'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Justin Wilson,1,1,3,Cesar Hernandez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Justin Wilson,2,1,3,Ben Revere,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],N/A,2,2,1,Maikel Franco,['N/A'],['Freddy Galvis'],['N/A'],Stolen Base 2B,N/A,3,3,N/A,N/A,N/A
+7,bottom,1,['Freddy Galvis'],Justin Wilson,2,2,1,Maikel Franco,['N/A'],"['Freddy Galvis', 'Maikel Franco']",['N/A'],Single,N/A,4,3,1,N/A,N/A
+7,bottom,0,[],Justin Wilson,3,1,1,Chase Utley,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Ken Giles,1,2,2,Neil Walker,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Ken Giles,2,0,0,Russell Martin,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Ken Giles,3,2,3,Ike Davis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Jared Hughes,1,3,2,Ryan Howard,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Jared Hughes,2,2,3,Marlon Byrd,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Jared Hughes,3,1,0,Domonic Brown,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,0,1,1,Gregory Polanco,['Gregory Polanco'],['N/A'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,1,0,1,Jordy Mercer,['N/A'],['Gregory Polanco'],['N/A'],Sac Bunt,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,2,1,2,Andrew Lambo,['N/A'],['N/A'],['Gregory Polanco'],Groundout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,3,1,3,Josh Harrison,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A

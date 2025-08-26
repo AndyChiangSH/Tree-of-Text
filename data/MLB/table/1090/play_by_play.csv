@@ -1,0 +1,111 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],David Buchanan,1,2,2,Matt Carpenter,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],David Buchanan,1,2,2,Kolten Wong,['Kolten Wong'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],David Buchanan,1,0,2,Matt Holliday,['Matt Holliday'],['N/A'],['Kolten Wong'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],David Buchanan,3,1,0,Matt Adams,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Shelby Miller,1,1,1,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Shelby Miller,1,1,1,Jimmy Rollins,['Jimmy Rollins'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Shelby Miller,2,2,2,Chase Utley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],N/A,2,2,1,Ryan Howard,['N/A'],['Jimmy Rollins'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Shelby Miller,2,4,2,Ryan Howard,['Ryan Howard'],['Jimmy Rollins'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Shelby Miller,3,0,0,Marlon Byrd,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,1,[],David Buchanan,0,2,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Home Run,N/A,0,1,1,N/A,N/A
+2,top,0,[],David Buchanan,1,1,1,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],David Buchanan,1,4,2,Oscar Taveras,['Oscar Taveras'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],David Buchanan,1,1,0,Jon Jay,['Jon Jay'],['N/A'],['Oscar Taveras'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],David Buchanan,3,1,0,Shelby Miller,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Shelby Miller,1,2,1,Domonic Brown,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Shelby Miller,2,1,1,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Shelby Miller,2,4,1,Cody Asche,['Cody Asche'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Shelby Miller,3,1,1,David Buchanan,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],David Buchanan,0,1,2,Matt Carpenter,['Matt Carpenter'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],David Buchanan,1,1,2,Kolten Wong,['N/A'],['Matt Carpenter'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],David Buchanan,2,3,2,Matt Holliday,['N/A'],['N/A'],['Matt Carpenter'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],David Buchanan,3,2,0,Matt Adams,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Shelby Miller,1,0,1,Ben Revere,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Shelby Miller,2,0,0,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Shelby Miller,3,2,2,Chase Utley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],David Buchanan,1,1,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],David Buchanan,2,0,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],David Buchanan,2,0,1,Oscar Taveras,['Oscar Taveras'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],David Buchanan,3,3,2,Jon Jay,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Shelby Miller,1,3,3,Ryan Howard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Shelby Miller,1,1,1,Marlon Byrd,['Marlon Byrd'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Shelby Miller,1,2,2,Domonic Brown,['Domonic Brown'],['Marlon Byrd'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+4,bottom,2,"['Marlon Byrd', 'Domonic Brown']",Shelby Miller,1,1,1,Carlos Ruiz,['N/A'],['Carlos Ruiz'],['N/A'],Double,N/A,2,1,2,N/A,N/A
+4,bottom,0,[],Shelby Miller,2,1,3,Cody Asche,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+4,bottom,0,[],Shelby Miller,3,0,1,David Buchanan,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],David Buchanan,0,2,2,Shelby Miller,['Shelby Miller'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],David Buchanan,0,3,2,Matt Carpenter,['Matt Carpenter'],['Shelby Miller'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],David Buchanan,1,0,2,Kolten Wong,['N/A'],['Matt Carpenter'],['Shelby Miller'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,top,1,['Shelby Miller'],David Buchanan,2,0,0,Matt Holliday,['N/A'],['N/A'],['Matt Carpenter'],Groundout,N/A,2,2,1,N/A,N/A
+5,top,0,[],David Buchanan,2,4,2,Matt Adams,['Matt Adams'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],David Buchanan,3,1,1,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Shelby Miller,1,1,2,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Shelby Miller,2,0,2,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Shelby Miller,3,1,1,Chase Utley,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Mario Hollands,0,0,2,A.J. Pierzynski,['N/A'],['A.J. Pierzynski'],['N/A'],Double,N/A,2,2,N/A,N/A,N/A
+6,top,1,['A.J. Pierzynski'],Mario Hollands,0,1,1,Oscar Taveras,['N/A'],['N/A'],['Oscar Taveras'],Single,Error,2,3,N/A,1,Domonic Brown
+6,top,0,[],Mario Hollands,0,4,2,Jon Jay,['Jon Jay'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+6,top,2,"['Oscar Taveras', 'Jon Jay']",Mario Hollands,0,0,0,Shelby Miller,['N/A'],['Shelby Miller'],['N/A'],Sac Bunt,Error,2,5,1,1,Cody Asche
+6,top,0,[],Mario Hollands,1,1,0,Matt Carpenter,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Mario Hollands,2,2,1,Kolten Wong,['N/A'],['N/A'],['Shelby Miller'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,top,0,[],Justin De Fratus,3,1,0,Matt Holliday,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+6,bottom,1,[],Shelby Miller,0,2,2,Ryan Howard,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,5,1,N/A,N/A
+6,bottom,0,[],Shelby Miller,1,2,3,Marlon Byrd,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Shelby Miller,2,0,0,Domonic Brown,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,5,N/A,N/A,N/A
+6,bottom,0,[],Shelby Miller,3,3,2,Carlos Ruiz,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,1,1,1,Matt Adams,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,2,0,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,2,4,2,A.J. Pierzynski,['A.J. Pierzynski'],['N/A'],['N/A'],Walk,N/A,3,5,N/A,N/A,N/A
+7,top,0,[],Antonio Bastardo,3,3,1,Oscar Taveras,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,5,N/A,N/A,N/A
+7,bottom,0,[],Randy Choate,1,1,1,Cody Asche,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+7,bottom,0,[],Randy Choate,2,0,2,Grady Sizemore,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,5,N/A,N/A,N/A
+7,bottom,0,[],Randy Choate,3,2,2,Ben Revere,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Antonio Bastardo,1,2,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Antonio Bastardo,2,0,3,Peter Bourjos,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+8,top,0,[],Antonio Bastardo,3,1,3,Matt Carpenter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],Randy Choate,0,1,1,Jimmy Rollins,['Jimmy Rollins'],['N/A'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],Randy Choate,0,1,1,Chase Utley,['Chase Utley'],['Jimmy Rollins'],['N/A'],Single,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],N/A,0,1,0,Ryan Howard,['N/A'],['Chase Utley'],['Jimmy Rollins'],Stolen Base 2B,N/A,3,5,N/A,N/A,N/A
+8,bottom,0,[],Randy Choate,0,2,2,Ryan Howard,['Ryan Howard'],['Chase Utley'],['Jimmy Rollins'],Hit By Pitch,N/A,3,5,N/A,N/A,N/A
+8,bottom,2,"['Jimmy Rollins', 'Chase Utley']",Pat Neshek,0,0,2,Marlon Byrd,['Marlon Byrd'],['Ryan Howard'],['N/A'],Single,N/A,5,5,2,N/A,N/A
+8,bottom,0,[],Pat Neshek,1,0,0,Andres Blanco,['N/A'],['Marlon Byrd'],['Freddy Galvis'],Sac Bunt,N/A,5,5,N/A,N/A,N/A
+8,bottom,0,[],Pat Neshek,2,3,2,Carlos Ruiz,['Carlos Ruiz'],['N/A'],['Marlon Byrd'],Fielders Choice Out,N/A,5,5,N/A,N/A,N/A
+8,bottom,0,[],N/A,2,1,2,Cody Asche,['N/A'],['Carlos Ruiz'],['N/A'],Stolen Base 2B,N/A,5,5,N/A,N/A,N/A
+8,bottom,0,[],Pat Neshek,3,2,3,Cody Asche,['N/A'],['Carlos Ruiz'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,0,2,1,Kolten Wong,['N/A'],['Kolten Wong'],['N/A'],Double,N/A,5,5,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,0,1,0,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Hit By Pitch,N/A,5,5,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,1,3,3,Matt Adams,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,2,0,3,Jhonny Peralta,['N/A'],['Matt Holliday'],['Kolten Wong'],Strikeout,N/A,5,5,N/A,N/A,N/A
+9,top,0,[],Jonathan Papelbon,3,0,1,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,5,N/A,N/A,N/A
+9,bottom,0,[],Sam Freeman,1,0,0,Grady Sizemore,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,5,N/A,N/A,N/A
+9,bottom,0,[],Sam Freeman,1,0,0,Ben Revere,['Ben Revere'],['N/A'],['N/A'],Hit By Pitch,N/A,5,5,N/A,N/A,N/A
+9,bottom,0,[],Sam Freeman,2,0,3,Jimmy Rollins,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+9,bottom,0,[],Sam Freeman,3,2,2,Chase Utley,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,5,N/A,N/A,N/A
+10,top,0,[],Jake Diekman,0,4,0,Shane Robinson,['Shane Robinson'],['N/A'],['N/A'],Walk,N/A,5,5,N/A,N/A,N/A
+10,top,0,[],Jake Diekman,1,2,3,Jon Jay,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+10,top,0,[],Jake Diekman,2,3,2,Peter Bourjos,['N/A'],['Shane Robinson'],['N/A'],Groundout,N/A,5,5,N/A,N/A,N/A
+10,top,0,[],Jake Diekman,3,3,3,Matt Carpenter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+10,bottom,0,[],Seth Maness,1,3,2,Freddy Galvis,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,5,N/A,N/A,N/A
+10,bottom,0,[],Seth Maness,2,0,0,Marlon Byrd,['N/A'],['N/A'],['N/A'],Flyout,N/A,5,5,N/A,N/A,N/A
+10,bottom,0,[],Seth Maness,3,3,2,Andres Blanco,['N/A'],['N/A'],['N/A'],Groundout,N/A,5,5,N/A,N/A,N/A
+11,top,0,[],Jake Diekman,1,0,3,Kolten Wong,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+11,top,0,[],Jake Diekman,1,4,2,Matt Holliday,['Matt Holliday'],['N/A'],['N/A'],Walk,N/A,5,5,N/A,N/A,N/A
+11,top,0,[],Jake Diekman,1,1,0,Matt Adams,['Matt Adams'],['Matt Holliday'],['N/A'],Single,N/A,5,5,N/A,N/A,N/A
+11,top,0,[],Ken Giles,1,1,0,Jhonny Peralta,['N/A'],['Matt Adams'],['Matt Holliday'],Wild Pitch,N/A,5,5,N/A,N/A,N/A
+11,top,0,[],Ken Giles,1,4,2,Jhonny Peralta,['Jhonny Peralta'],['Matt Adams'],['Matt Holliday'],Walk,N/A,5,5,N/A,N/A,N/A
+11,top,0,[],Ken Giles,3,0,2,A.J. Pierzynski,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,5,N/A,N/A,N/A
+11,bottom,0,[],Seth Maness,0,2,2,Carlos Ruiz,['Carlos Ruiz'],['N/A'],['N/A'],Single,N/A,5,5,N/A,N/A,N/A
+11,bottom,0,[],Seth Maness,1,2,3,Darin Ruf,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,5,N/A,N/A,N/A
+11,bottom,0,[],Seth Maness,3,1,0,Grady Sizemore,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,5,5,N/A,N/A,N/A
+12,top,0,[],Ken Giles,0,4,1,Daniel Descalso,['Daniel Descalso'],['N/A'],['N/A'],Walk,N/A,5,5,N/A,N/A,N/A
+12,top,0,[],Ken Giles,1,0,0,Jon Jay,['N/A'],['Daniel Descalso'],['N/A'],Sac Bunt,N/A,5,5,N/A,N/A,N/A
+12,top,0,[],Ken Giles,1,0,2,Peter Bourjos,['Peter Bourjos'],['N/A'],['Daniel Descalso'],Single,N/A,5,5,N/A,N/A,N/A
+12,top,1,['Daniel Descalso'],Ken Giles,2,0,1,Matt Carpenter,['N/A'],['Peter Bourjos'],['N/A'],Sac Fly,N/A,5,6,1,N/A,N/A
+12,top,0,[],Ken Giles,2,4,2,Kolten Wong,['Kolten Wong'],['N/A'],['N/A'],Walk,N/A,5,6,N/A,N/A,N/A
+12,top,0,[],Cesar Jimenez,3,0,1,Matt Holliday,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,6,N/A,N/A,N/A
+12,bottom,0,[],Trevor Rosenthal,1,3,2,Ben Revere,['N/A'],['N/A'],['N/A'],Lineout,N/A,5,6,N/A,N/A,N/A
+12,bottom,0,[],Trevor Rosenthal,1,3,2,Jimmy Rollins,['Jimmy Rollins'],['N/A'],['N/A'],Field Error,N/A,5,6,N/A,N/A,Trevor Rosenthal
+12,bottom,0,[],Trevor Rosenthal,2,2,3,Chase Utley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,5,6,N/A,N/A,N/A
+12,bottom,0,[],Trevor Rosenthal,3,0,2,Freddy Galvis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,5,6,N/A,N/A,N/A

@@ -1,0 +1,54 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Garciaparra,,,,,,,,,,Nomar Garciaparra,,,,,,,,,Nomar,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Jones,,,,,,,,,,Andruw Jones,,,,,,,,,Andruw,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Kent,,0,,2B,1,,0,0,4,Jeff Kent,,2,1.000,,.251,,,1,Jeff,,,,,3,,,0,.695,,300,,0,,,0,,0,,0,,,0,0,1,0,0,Dodgers,0,.406,0,.289
+,Schmidt,,,,,,,,,,Jason Schmidt,,,,,,,,,Jason,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Sweeney,,,,,,,,,,Mark Sweeney,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Penny,,,,,,,,,,Brad Penny,,,,,,,,,Brad,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Furcal,,,,,,,,,,Rafael Furcal,,,,,,,,,Rafael,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Pierre,,0,,LF,0,,0,0,4,Juan Pierre,,3,1.000,,.279,,,3,Juan,,,,,3,,,0,.653,,100,,0,,,0,,0,,1,,,0,1,0,0,0,Dodgers,1,.322,0,.331
+,Berroa,,1,,SS,0,,0,0,2,Angel Berroa,,2,1.000,,.191,,,2,Angel,,,,,1,,,0,.482,,800,,0,,,2,,0,,0,,,0,0,1,0,0,Dodgers,0,.213,0,.269
+,Kuo,,,,,,,,,,Hung-Chih Kuo,,,,,,,,,Hung-Chih,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Loney,,0,,1B,1,,0,0,4,James Loney,,2,1.000,,.310,,,2,James,,,,,5,,,0,.831,,500,,0,,,1,,0,,1,,,0,1,0,0,0,Dodgers,1,.465,0,.366
+,Proctor,,,,,,,,,,Scott Proctor,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Martin,,0,,C,2,,0,0,4,Russell Martin,,1,1.000,,.313,,,0,Russell,,,,,4,,,0,.853,,400,,0,,,1,,0,,1,,,0,0,0,0,1,Dodgers,0,.445,0,.408
+,Young,,,,,,,,,,Delwyn Young,,,,,,,,,Delwyn,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Maza,,0,,2B,0,,0,0,0,Luis Maza,,,.000,,.226,,,0,Luis,,,,,0,,,0,.551,,301,,0,,,0,,0,,0,,,0,0,0,0,0,Dodgers,0,.283,0,.268
+,Ethier,,0,,RF,2,,0,0,4,Andre Ethier,,1,1.000,,.277,,,0,Andre,,,,,2,,,0,.759,,200,,0,,,0,,0,,1,,,0,1,0,0,1,Dodgers,0,.421,0,.338
+0,Stults,4,0,1,P,2,32,0,0,2,Eric Stults,2,,1.000,0,.200,0,81,3,Eric,0,3,,0,1,9,,0,.486,0,900,,0,81,true,1,0.60,0,27,0,0,116,0,0,1,0,1,Dodgers,0,.200,1,.286
+,LaRoche,,,,,,,,,,Andy LaRoche,,,,,,,,,Andy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Billingsley,,,,,,,,,,Chad Billingsley,,,,,,,,,Chad,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Broxton,,,,,,,,,,Jonathan Broxton,,,,,,,,,Jonathan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,DeWitt,,0,,3B,1,,0,0,3,Blake DeWitt,,,1.000,,.269,,,2,Blake,,,,,0,,,1,.732,,700,,0,,,3,,1,,1,,,0,1,1,0,2,Dodgers,0,.395,0,.337
+,Wade,,,,,,,,,,Cory Wade,,,,,,,,,Cory,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Kemp,,0,,CF,1,,0,0,3,Matt Kemp,,1,1.000,,.290,,,2,Matt,,,,,8,,,1,.784,,600,,0,,,0,,1,,1,,,0,1,0,0,0,Dodgers,1,.450,0,.334
+,Troncoso,,,,,,,,,,Ramon Troncoso,,,,,,,,,Ramon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Abreu,,,,,,,,,,Tony Abreu,,,,,,,,,Tony,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Kershaw,,,,,,,,,,Clayton Kershaw,,,,,,,,,Clayton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Kuroda,,,,,,,,,,Hiroki Kuroda,,,,,,,,,Hiroki,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Saito,,,,,,,,,,Takashi Saito,,,,,,,,,Takashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodgers,,,,
+,Cabrera,,0,,SS,2,,0,0,4,Orlando Cabrera,,1,1.000,,.272,,,1,Orlando,,,,,0,,,0,.690,,100,,0,,,3,,0,,0,,,0,0,1,0,0,White Sox,0,.369,0,.321
+,Dye,,0,,RF,2,,0,0,4,Jermaine Dye,,1,.800,,.295,,,1,Jermaine,,,,,4,,,0,.888,,400,,1,,,0,,0,,1,,,0,0,0,0,0,White Sox,0,.547,0,.341
+,Konerko,,,,,,,,,,Paul Konerko,,,,,,,,,Paul,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Thome,,,,,,,,,,Jim Thome,,,,,,,,,Jim,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Dotel,,,,,,,,,,Octavio Dotel,,,,,,,,,Octavio,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Pierzynski,,0,,C,2,,0,0,4,A.J. Pierzynski,,1,.875,,.295,,,0,A.J.,,,,,7,,,0,.761,,200,,1,,,0,,0,,1,,,0,0,0,0,0,White Sox,0,.428,0,.333
+,Crede,,,,,,,,,,Joe Crede,,,,,,,,,Joe,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Ozuna,,0,,3B,1,,0,0,3,Pablo Ozuna,,2,.500,,.279,,,1,Pablo,,,,,0,,,0,.624,,600,,1,,,1,,0,,0,,,0,0,0,0,0,White Sox,0,.311,0,.313
+,Linebrink,,,,,,,,,,Scott Linebrink,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Wise,,,,,,,,,,Dewayne Wise,,,,,,,,,Dewayne,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Buehrle,,,,,,,,,,Mark Buehrle,,,,,,,,,Mark,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Uribe,,0,,PH,1,,0,0,1,Juan Uribe,,,.000,,.212,,,0,Juan,,,,,0,,,0,.609,,903,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.341,0,.268
+1,Thornton,0,0,0,P,0,3,0,0,0,Matt Thornton,3,,.000,2,.000,0,7,0,Matt,0,1,,0,0,1,,0,.000,7,901,,0,54,,0,2.48,0,3,0,0,8,0,0,0,0,0,White Sox,0,.000,0,.000
+,Jenks,,,,,,,,,,Bobby Jenks,,,,,,,,,Bobby,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Contreras,,,,,,,,,,Jose Contreras,,,,,,,,,Jose,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+4,Floyd,6,1,2,P,0,26,0,0,1,Gavin Floyd,8,1,1.000,0,.000,5,49,0,Gavin,0,2,,0,2,5,1/3,0,.000,0,900,true,0,38,,2,3.39,0,16,0,4,86,0,0,1,0,0,White Sox,0,.000,0,.000
+,Swisher,,0,,1B,3,,0,0,4,Nick Swisher,,,1.000,,.233,,,3,Nick,,,,,7,,,0,.727,,500,,0,,,3,,0,,0,,,0,0,1,0,0,White Sox,0,.382,0,.345
+,Danks,,,,,,,,,,John Danks,,,,,,,,,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+0,Masset,0,0,0,P,0,2,0,0,0,Nick Masset,0,,.000,0,.000,0,3,0,Nick,1,0,,0,0,0,2/3,0,.000,1,902,,0,52,,0,3.34,0,2,0,0,6,0,0,0,0,0,White Sox,0,.000,0,.000
+,Sisco,,,,,,,,,,Andrew Sisco,,,,,,,,,Andrew,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Quentin,,0,,LF,2,,0,0,3,Carlos Quentin,,1,1.000,,.281,,,1,Carlos,,,,,2,,,1,.915,,300,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.524,0,.391
+,Anderson,,0,,CF,3,,0,0,3,Brian Anderson,,,1.000,,.229,,,2,Brian,,,,,1,,,0,.655,,800,,0,,,0,,0,,0,,,0,0,0,0,0,White Sox,0,.385,0,.270
+,Russell,,,,,,,,,,Adam Russell,,,,,,,,,Adam,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+1,Logan,0,0,0,P,0,3,0,0,0,Boone Logan,2,,.000,1,.000,0,8,0,Boone,0,1,,0,0,1,,0,.000,2,904,,0,54,,0,2.36,0,3,0,0,14,0,0,0,0,0,White Sox,0,.000,0,.000
+,Ramirez,,0,,2B,1,,0,0,3,Alexei Ramirez,,,1.000,,.291,,,0,Alexei,,,,,1,,,0,.736,,700,,0,,,2,,0,,2,,,0,0,0,0,0,White Sox,0,.419,0,.317

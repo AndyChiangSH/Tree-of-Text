@@ -1,0 +1,71 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Dan Haren,1,1,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dan Haren,1,2,2,Brendan Ryan,['Brendan Ryan'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],N/A,1,1,2,Dustin Ackley,['N/A'],['Brendan Ryan'],['N/A'],Stolen Base 2B,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dan Haren,1,4,2,Dustin Ackley,['Dustin Ackley'],['Brendan Ryan'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Dan Haren,2,2,1,Justin Smoak,['N/A'],['Dustin Ackley'],['Brendan Ryan'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,2,"['Brendan Ryan', 'Dustin Ackley']",Dan Haren,2,1,2,Adam Kennedy,['Adam Kennedy'],['N/A'],['N/A'],Single,N/A,0,2,2,N/A,N/A
+1,top,0,[],Dan Haren,3,0,2,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Runner Out,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,0,2,2,Erick Aybar,['Erick Aybar'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,1,2,3,Torii Hunter,['N/A'],['Erick Aybar'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,2,1,1,Bobby Abreu,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+1,bottom,0,[],Felix Hernandez,3,3,3,Vernon Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Dan Haren,1,1,1,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Dan Haren,2,2,3,Josh Bard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,top,0,[],Dan Haren,2,2,1,Kyle Seager,['N/A'],['N/A'],['Kyle Seager'],Single,Error,0,2,N/A,N/A,Mike Trout
+2,top,0,[],Dan Haren,3,0,3,Greg Halman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,1,2,0,Howie Kendrick,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,1,2,0,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,2,1,3,Mark Trumbo,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,2,0,1,Jeff Mathis,['Jeff Mathis'],['N/A'],['Alberto Callaspo'],Single,N/A,0,2,N/A,N/A,N/A
+2,bottom,0,[],Felix Hernandez,3,2,1,Mike Trout,['N/A'],['N/A'],['N/A'],Fielders Choice Out,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Dan Haren,1,0,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Dan Haren,2,0,3,Brendan Ryan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,top,0,[],Dan Haren,3,0,0,Dustin Ackley,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,1,2,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,1,2,2,Torii Hunter,['Torii Hunter'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,1,3,1,Bobby Abreu,['Bobby Abreu'],['Torii Hunter'],['N/A'],Walk,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,2,0,3,Vernon Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+3,bottom,0,[],Felix Hernandez,3,1,2,Howie Kendrick,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Dan Haren,1,0,1,Justin Smoak,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Dan Haren,2,0,3,Adam Kennedy,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,top,0,[],Dan Haren,3,2,3,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,2,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,0,2,1,Alberto Callaspo,['Alberto Callaspo'],['N/A'],['N/A'],Single,N/A,0,2,N/A,N/A,N/A
+4,bottom,2,['Alberto Callaspo'],Felix Hernandez,0,0,0,Mark Trumbo,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,2,2,N/A,N/A
+4,bottom,0,[],Felix Hernandez,1,0,3,Jeff Mathis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,2,0,3,Mike Trout,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+4,bottom,0,[],Felix Hernandez,3,1,2,Erick Aybar,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Dan Haren,0,0,0,Josh Bard,['N/A'],['Josh Bard'],['N/A'],Double,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Dan Haren,0,4,2,Kyle Seager,['Kyle Seager'],['N/A'],['N/A'],Walk,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Dan Haren,1,1,3,Greg Halman,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Dan Haren,2,0,3,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+5,top,0,[],Dan Haren,3,0,0,Brendan Ryan,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,1,2,2,Torii Hunter,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,2,0,0,Bobby Abreu,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+5,bottom,0,[],Felix Hernandez,3,1,1,Vernon Wells,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Dan Haren,1,0,1,Dustin Ackley,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Dan Haren,2,0,0,Justin Smoak,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,2,N/A,N/A,N/A
+6,top,0,[],Dan Haren,3,2,2,Adam Kennedy,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,1,0,0,Howie Kendrick,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,2,3,1,Alberto Callaspo,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+6,bottom,0,[],Felix Hernandez,3,2,2,Mark Trumbo,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Dan Haren,1,0,0,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Dan Haren,2,2,2,Josh Bard,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+7,top,0,[],Dan Haren,3,1,1,Kyle Seager,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,1,0,2,Jeff Mathis,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,2,2,1,Mike Trout,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+7,bottom,0,[],Felix Hernandez,3,2,0,Erick Aybar,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Dan Haren,1,1,0,Greg Halman,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Dan Haren,2,0,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,top,0,[],Dan Haren,3,2,2,Brendan Ryan,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],David Pauley,0,2,2,Torii Hunter,['Torii Hunter'],['N/A'],['N/A'],Single,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],David Pauley,1,2,0,Bobby Abreu,['N/A'],['Torii Hunter'],['N/A'],Groundout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],David Pauley,2,2,3,Vernon Wells,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,2,N/A,N/A,N/A
+8,bottom,0,[],David Pauley,2,4,0,Howie Kendrick,['Howie Kendrick'],['N/A'],['N/A'],Intent Walk,N/A,2,2,N/A,N/A,N/A
+8,bottom,2,"['Torii Hunter', 'Howie Kendrick']",David Pauley,2,2,1,Alberto Callaspo,['N/A'],['Alberto Callaspo'],['N/A'],Double,N/A,4,2,2,N/A,N/A
+8,bottom,0,[],David Pauley,2,4,0,Mark Trumbo,['Mark Trumbo'],['N/A'],['N/A'],Intent Walk,N/A,4,2,N/A,N/A,N/A
+8,bottom,0,[],Jamey Wright,3,0,0,Jeff Mathis,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Dan Haren,0,0,0,Dustin Ackley,['N/A'],['Dustin Ackley'],['N/A'],Double,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Dan Haren,1,2,3,Justin Smoak,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Dan Haren,2,1,2,Adam Kennedy,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,2,N/A,N/A,N/A
+9,top,0,[],Jordan Walden,3,3,3,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,2,N/A,N/A,N/A

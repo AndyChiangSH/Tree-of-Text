@@ -1,0 +1,75 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Clayton Richard,1,1,1,Eduardo Nunez,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Clayton Richard,2,2,0,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Clayton Richard,3,1,2,Buster Posey,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ty Blach,0,1,2,Manuel Margot,['N/A'],['Manuel Margot'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ty Blach,0,4,2,Wil Myers,['Wil Myers'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ty Blach,2,1,1,Yangervis Solarte,['N/A'],['N/A'],['Manuel Margot'],Grounded Into DP,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ty Blach,2,4,2,Alex Dickerson,['Alex Dickerson'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ty Blach,2,4,1,Adam Rosales,['Adam Rosales'],['Alex Dickerson'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Ty Blach,3,1,3,Ryan Schimpf,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,0,4,1,Hunter Pence,['Hunter Pence'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,1,1,2,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,2,0,0,Angel Pagan,['Angel Pagan'],['N/A'],['N/A'],Forceout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Clayton Richard,3,1,3,Brandon Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ty Blach,0,0,0,Austin Hedges,['Austin Hedges'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ty Blach,1,0,1,Clayton Richard,['N/A'],['Austin Hedges'],['N/A'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Ty Blach,2,0,2,Travis Jankowski,['N/A'],['N/A'],['Austin Hedges'],Groundout,N/A,0,0,N/A,N/A,N/A
+2,bottom,1,['Austin Hedges'],Ty Blach,2,2,2,Manuel Margot,['Manuel Margot'],['N/A'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+2,bottom,0,[],N/A,2,3,2,Wil Myers,['N/A'],['N/A'],['Manuel Margot'],Stolen Base 3B,N/A,1,0,N/A,N/A,N/A
+2,bottom,0,[],Ty Blach,3,3,3,Wil Myers,['N/A'],['Manuel Margot'],['Manuel Margot'],Strikeout,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Clayton Richard,0,1,0,Trevor Brown,['Trevor Brown'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,0,[],Clayton Richard,0,1,0,Ty Blach,['Ty Blach'],['Trevor Brown'],['N/A'],Field Error,N/A,1,0,N/A,N/A,Austin Hedges
+3,top,0,[],Clayton Richard,0,1,0,Eduardo Nunez,['Eduardo Nunez'],['Ty Blach'],['Trevor Brown'],Single,N/A,1,0,N/A,N/A,N/A
+3,top,1,['Trevor Brown'],Clayton Richard,1,1,2,Kelby Tomlinson,['N/A'],['Eduardo Nunez'],['Ty Blach'],Groundout,N/A,1,1,1,N/A,N/A
+3,top,2,"['Ty Blach', 'Eduardo Nunez']",Clayton Richard,1,2,1,Buster Posey,['Buster Posey'],['N/A'],['N/A'],Single,N/A,1,3,2,N/A,N/A
+3,top,0,[],Clayton Richard,3,0,1,Hunter Pence,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Ty Blach,1,2,0,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+3,bottom,0,[],Ty Blach,2,3,3,Alex Dickerson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+3,bottom,1,[],Ty Blach,2,3,2,Adam Rosales,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,3,1,N/A,N/A
+3,bottom,0,[],Ty Blach,3,2,2,Ryan Schimpf,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Clayton Richard,1,1,1,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Clayton Richard,2,1,2,Angel Pagan,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Clayton Richard,2,4,2,Brandon Crawford,['Brandon Crawford'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+4,top,0,[],Clayton Richard,3,1,2,Trevor Brown,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Derek Law,1,3,2,Austin Hedges,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Derek Law,2,2,3,Clayton Richard,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Derek Law,2,0,2,Travis Jankowski,['Travis Jankowski'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+4,bottom,0,[],Derek Law,3,0,1,Manuel Margot,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Clayton Richard,0,1,0,Mac Williamson,['Mac Williamson'],['N/A'],['N/A'],Single,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Clayton Richard,1,2,1,Eduardo Nunez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Clayton Richard,2,2,1,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Clayton Richard,2,4,0,Buster Posey,['Buster Posey'],['Mac Williamson'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+5,top,0,[],Clayton Richard,3,0,0,Hunter Pence,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],George Kontos,0,4,2,Wil Myers,['Wil Myers'],['N/A'],['N/A'],Walk,N/A,2,3,N/A,N/A,N/A
+5,bottom,0,[],N/A,0,2,1,Yangervis Solarte,['N/A'],['Wil Myers'],['N/A'],Stolen Base 2B,N/A,2,3,N/A,N/A,N/A
+5,bottom,1,['Wil Myers'],George Kontos,0,2,1,Yangervis Solarte,['Yangervis Solarte'],['Wil Myers'],['N/A'],Single,N/A,3,3,1,N/A,N/A
+5,bottom,0,[],George Kontos,2,0,2,Alex Dickerson,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,3,3,N/A,N/A,N/A
+5,bottom,0,[],George Kontos,3,3,3,Adam Rosales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Clayton Richard,0,2,2,Gorkys Hernandez,['Gorkys Hernandez'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Clayton Richard,1,0,1,Angel Pagan,['Angel Pagan'],['N/A'],['N/A'],Forceout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Clayton Richard,2,0,2,Brandon Crawford,['N/A'],['Angel Pagan'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,top,0,[],Clayton Richard,3,0,0,Trevor Brown,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Steven Okert,1,3,3,Ryan Schimpf,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Steven Okert,2,2,1,Austin Hedges,['N/A'],['N/A'],['N/A'],Flyout,N/A,3,3,N/A,N/A,N/A
+6,bottom,0,[],Steven Okert,3,0,2,Hunter Renfroe,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Buddy Baumann,1,2,2,Ehire Adrianza,['N/A'],['N/A'],['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Buddy Baumann,1,0,0,Eduardo Nunez,['Eduardo Nunez'],['N/A'],['N/A'],Single,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Buddy Baumann,2,1,0,Kelby Tomlinson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],N/A,2,1,1,Buster Posey,['N/A'],['Eduardo Nunez'],['N/A'],Stolen Base 2B,N/A,3,3,N/A,N/A,N/A
+7,top,0,[],Brandon Morrow,3,3,2,Buster Posey,['N/A'],"['Eduardo Nunez', 'Gregor Blanco']",['N/A'],Groundout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Cory Gearrin,1,1,3,Travis Jankowski,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,3,N/A,N/A,N/A
+7,bottom,0,[],Cory Gearrin,1,1,1,Manuel Margot,['N/A'],['N/A'],['Manuel Margot'],Triple,N/A,3,3,N/A,N/A,N/A
+7,bottom,1,['Manuel Margot'],Cory Gearrin,1,2,1,Wil Myers,['Wil Myers'],['N/A'],['N/A'],Single,N/A,4,3,1,N/A,N/A
+7,bottom,0,[],Will Smith,3,1,2,Yangervis Solarte,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Brandon Morrow,0,0,2,Hunter Pence,['Hunter Pence'],['N/A'],['N/A'],Single,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Brandon Morrow,1,3,3,Gorkys Hernandez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Brad Hand,2,0,1,Angel Pagan,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+8,top,0,[],Brad Hand,3,0,1,Brandon Crawford,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Will Smith,1,0,0,Alex Dickerson,['N/A'],['N/A'],['N/A'],Lineout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Will Smith,2,3,3,Adam Rosales,['N/A'],['N/A'],['N/A'],Strikeout,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Will Smith,2,4,1,Ryan Schimpf,['Ryan Schimpf'],['N/A'],['N/A'],Walk,N/A,4,3,N/A,N/A,N/A
+8,bottom,0,[],Santiago Casilla,3,0,0,Austin Hedges,['N/A'],['N/A'],['N/A'],Forceout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Brad Hand,1,1,1,Trevor Brown,['N/A'],['N/A'],['N/A'],Groundout,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Brad Hand,2,2,2,Brandon Belt,['N/A'],['N/A'],['N/A'],Pop Out,N/A,4,3,N/A,N/A,N/A
+9,top,0,[],Brad Hand,3,2,1,Joe Panik,['N/A'],['N/A'],['N/A'],Flyout,N/A,4,3,N/A,N/A,N/A

@@ -1,0 +1,77 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Julio Teheran,1,0,0,Dee Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Julio Teheran,2,0,2,Yasiel Puig,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Julio Teheran,3,1,2,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Correia,1,1,2,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Correia,2,1,0,Tommy La Stella,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,bottom,0,[],Kevin Correia,3,0,0,Freddie Freeman,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Julio Teheran,1,0,3,Matt Kemp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Julio Teheran,1,2,1,Carl Crawford,['Carl Crawford'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+2,top,0,[],Julio Teheran,3,2,3,Justin Turner,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Kevin Correia,1,2,2,Justin Upton,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Kevin Correia,2,1,3,Jason Heyward,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+2,bottom,0,[],Kevin Correia,3,1,3,Evan Gattis,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Julio Teheran,1,0,1,A.J. Ellis,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Julio Teheran,2,2,1,Miguel Rojas,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Julio Teheran,2,0,2,Kevin Correia,['Kevin Correia'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+3,top,0,[],Julio Teheran,3,0,1,Dee Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Kevin Correia,1,2,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Kevin Correia,2,3,2,Melvin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+3,bottom,0,[],Kevin Correia,3,0,0,Julio Teheran,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Julio Teheran,0,1,0,Yasiel Puig,['Yasiel Puig'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Julio Teheran,1,0,0,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,top,0,[],Julio Teheran,3,0,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Kevin Correia,0,1,2,Emilio Bonifacio,['Emilio Bonifacio'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Kevin Correia,1,0,1,Ramiro Pena,['N/A'],['Emilio Bonifacio'],['N/A'],Sac Bunt,N/A,0,0,N/A,N/A,N/A
+4,bottom,0,[],Kevin Correia,1,4,2,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Walk,N/A,0,0,N/A,N/A,N/A
+4,bottom,1,['Emilio Bonifacio'],Kevin Correia,1,3,2,Justin Upton,['Justin Upton'],['Freddie Freeman'],['N/A'],Single,N/A,1,0,1,N/A,N/A
+4,bottom,0,[],Kevin Correia,2,2,3,Jason Heyward,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+4,bottom,0,[],Kevin Correia,3,0,0,Evan Gattis,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Julio Teheran,1,0,3,Carl Crawford,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Julio Teheran,2,0,1,Justin Turner,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Julio Teheran,2,4,2,A.J. Ellis,['A.J. Ellis'],['N/A'],['N/A'],Walk,N/A,1,0,N/A,N/A,N/A
+5,top,0,[],Julio Teheran,3,2,3,Miguel Rojas,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,1,0,0,Chris Johnson,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,1,0,0,Melvin Upton,['Melvin Upton'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,2,0,0,Julio Teheran,['N/A'],['Melvin Upton'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+5,bottom,0,[],Kevin Correia,3,2,0,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Julio Teheran,0,2,2,Kevin Correia,['Kevin Correia'],['N/A'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Julio Teheran,0,2,1,Dee Gordon,['Dee Gordon'],['Kevin Correia'],['N/A'],Single,N/A,1,0,N/A,N/A,N/A
+6,top,0,[],Julio Teheran,0,0,0,Yasiel Puig,['Yasiel Puig'],['Dee Gordon'],['Kevin Correia'],Single,N/A,1,0,N/A,N/A,N/A
+6,top,1,['Kevin Correia'],Julio Teheran,0,1,1,Adrian Gonzalez,['Adrian Gonzalez'],['Yasiel Puig'],['Dee Gordon'],Single,N/A,1,1,1,N/A,N/A
+6,top,0,[],Julio Teheran,1,1,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,1,N/A,N/A,N/A
+6,top,1,['Dee Gordon'],Julio Teheran,1,0,0,Carl Crawford,['Carl Crawford'],['Adrian Gonzalez'],['Yasiel Puig'],Single,N/A,1,2,1,N/A,N/A
+6,top,1,['Yasiel Puig'],Julio Teheran,2,1,1,Justin Turner,['N/A'],['Carl Crawford'],['Adrian Gonzalez'],Groundout,N/A,1,3,1,N/A,N/A
+6,top,0,[],Julio Teheran,3,1,0,A.J. Ellis,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,1,2,3,Ramiro Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,1,1,1,Freddie Freeman,['N/A'],['Freddie Freeman'],['N/A'],Double,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,2,2,1,Justin Upton,['N/A'],['N/A'],['Freddie Freeman'],Groundout,N/A,1,3,N/A,N/A,N/A
+6,bottom,0,[],Kevin Correia,3,0,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Julio Teheran,1,0,1,Miguel Rojas,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Julio Teheran,2,0,1,Darwin Barney,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+7,top,0,[],Julio Teheran,3,2,3,Dee Gordon,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+7,bottom,0,[],Brian Wilson,1,0,0,Evan Gattis,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,3,N/A,N/A,N/A
+7,bottom,0,[],Brian Wilson,2,1,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+7,bottom,0,[],Brian Wilson,3,2,1,Melvin Upton,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,3,N/A,N/A,N/A
+8,top,0,[],Julio Teheran,0,4,0,Yasiel Puig,['Yasiel Puig'],['N/A'],['N/A'],Walk,N/A,1,3,N/A,N/A,N/A
+8,top,0,[],Julio Teheran,1,1,3,Adrian Gonzalez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,3,N/A,N/A,N/A
+8,top,0,[],Julio Teheran,1,2,2,Matt Kemp,['N/A'],['Matt Kemp'],['Yasiel Puig'],Double,N/A,1,3,N/A,N/A,N/A
+8,top,1,['Yasiel Puig'],James Russell,1,0,1,Carl Crawford,['Carl Crawford'],['N/A'],['Matt Kemp'],Single,N/A,1,4,1,N/A,N/A
+8,top,0,[],Juan Jaime,1,2,1,Justin Turner,['N/A'],['Carl Crawford'],['N/A'],Wild Pitch,N/A,1,4,N/A,N/A,N/A
+8,top,0,[],Juan Jaime,1,4,2,Justin Turner,['Justin Turner'],['Carl Crawford'],['N/A'],Walk,N/A,1,4,N/A,N/A,N/A
+8,top,2,"['Matt Kemp', 'Carl Crawford']",Juan Jaime,2,3,1,A.J. Ellis,['A.J. Ellis'],['N/A'],['N/A'],Forceout,Error,1,6,1,1,Ramiro Pena
+8,top,0,[],Juan Jaime,2,1,1,Miguel Rojas,['N/A'],[],['N/A'],Wild Pitch,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Juan Jaime,2,2,3,Miguel Rojas,['Miguel Rojas'],['A.J. Ellis'],['A.J. Ellis'],Strikeout,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Juan Jaime,2,4,2,Andre Ethier,['Andre Ethier'],['Miguel Rojas'],['N/A'],Walk,N/A,1,6,N/A,N/A,N/A
+8,top,0,[],Juan Jaime,3,1,1,Dee Gordon,['N/A'],['N/A'],['N/A'],Forceout,N/A,1,6,N/A,N/A,N/A
+8,bottom,0,[],Jamey Wright,1,3,3,Ryan Doumit,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+8,bottom,0,[],Jamey Wright,2,2,3,Emilio Bonifacio,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+8,bottom,0,[],Jamey Wright,3,1,3,Ramiro Pena,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+9,top,0,[],Anthony Varvaro,1,1,2,Yasiel Puig,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,6,N/A,N/A,N/A
+9,top,0,[],Anthony Varvaro,1,2,2,Adrian Gonzalez,['Adrian Gonzalez'],['N/A'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+9,top,0,[],Anthony Varvaro,3,2,2,Matt Kemp,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,1,6,N/A,N/A,N/A
+9,bottom,0,[],Carlos Frias,0,3,2,Freddie Freeman,['Freddie Freeman'],['N/A'],['N/A'],Single,N/A,1,6,N/A,N/A,N/A
+9,bottom,0,[],Carlos Frias,1,1,3,Justin Upton,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,6,N/A,N/A,N/A
+9,bottom,0,[],Carlos Frias,2,2,1,Jason Heyward,['N/A'],['N/A'],['N/A'],Pop Out,N/A,1,6,N/A,N/A,N/A
+9,bottom,1,['Freddie Freeman'],Carlos Frias,2,0,1,Evan Gattis,['N/A'],"['Freddie Freeman', 'Evan Gattis']",['N/A'],Double,N/A,2,6,1,N/A,N/A
+9,bottom,0,[],Carlos Frias,3,0,3,Chris Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,6,N/A,N/A,N/A

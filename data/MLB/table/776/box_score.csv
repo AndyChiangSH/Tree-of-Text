@@ -1,0 +1,57 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Konerko,,0,,1B,0,,0,0,4,Paul Konerko,,3,1.000,,.319,,,1,Paul,,,,,6,,,0,.900,,400,,0,,,1,,0,,1,,,1,1,0,0,1,White Sox,0,.509,0,.391
+,Pierzynski,,0,,C,0,,0,0,3,A.J. Pierzynski,,1,1.000,,.293,,,0,A.J.,,,,,7,,,0,.896,,600,,0,,,1,,1,,2,,,0,0,0,0,1,White Sox,0,.551,0,.345
+,Dunn,,0,,DH,1,,0,0,4,Adam Dunn,,,.000,,.205,,,1,Adam,,,,,0,,,0,.827,,300,,0,,,0,,0,,0,,,0,0,3,0,0,White Sox,0,.484,0,.343
+,Thornton,,,,,,,,,,Matt Thornton,,,,,,,,,Matt,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Hudson,,,,,,,,,,Orlando Hudson,,,,,,,,,Orlando,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Myers,,,,,,,,,,Brett Myers,,,,,,,,,Brett,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Olmedo,,,,,,,,,,Ray Olmedo,,,,,,,,,Ray,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Peavy,,,,,,,,,,Jake Peavy,,,,,,,,,Jake,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Rios,,0,,RF,1,,0,0,3,Alex Rios,,1,1.000,,.316,,,0,Alex,,,,,2,,,0,.890,,500,,0,,,0,,0,,1,,,0,1,0,1,0,White Sox,0,.542,0,.348
+,Floyd,,,,,,,,,,Gavin Floyd,,,,,,,,,Gavin,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Youkilis,,0,,3B,0,,0,0,4,Kevin Youkilis,,4,1.000,,.245,,,1,Kevin,,,,,0,,,0,.788,,200,,0,,,1,,1,,1,,,0,0,0,0,1,White Sox,0,.440,0,.348
+,Bruney,,,,,,,,,,Brian Bruney,,,,,,,,,Brian,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Crain,,,,,,,,,,Jesse Crain,,,,,,,,,Jesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Danks,,,,,,,,,,John Danks,,,,,,,,,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Liriano,,,,,,,,,,Francisco Liriano,,,,,,,,,Francisco,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Flowers,,,,,,,,,,Tyler Flowers,,,,,,,,,Tyler,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,De Aza,,,,,,,,,,Alejandro De Aza,,,,,,,,,Alejandro,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Danks,,0,,CF,2,,0,0,3,Jordan Danks,,,1.000,,.308,,,0,Jordan,,,,,3,,,1,.650,,100,,0,,,0,,0,,1,,,0,1,0,0,0,White Sox,0,.333,0,.317
+,Humber,,,,,,,,,,Philip Humber,,,,,,,,,Philip,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Septimo,,,,,,,,,,Leyson Septimo,,,,,,,,,Leyson,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Ramirez,,0,,SS,0,,0,1,2,Alexei Ramirez,,2,.833,,.267,,,1,Alexei,,,,,3,,,0,.644,,700,,1,,,2,,0,,0,,,0,0,0,0,0,White Sox,0,.354,0,.290
+,Viciedo,,0,,LF,0,,0,0,3,Dayan Viciedo,,2,1.000,,.248,,,3,Dayan,,,,,1,,,0,.708,,800,,0,,,0,,0,,0,,,0,0,2,0,0,White Sox,0,.421,0,.287
+,Beckham,,0,,2B,1,,0,0,3,Gordon Beckham,,,1.000,,.228,,,1,Gordon,,,,,3,,,0,.633,,900,,0,,,3,,0,,1,,,1,1,1,0,1,White Sox,0,.355,0,.278
+,Quintana,,,,,,,,,,Jose Quintana,,,,,,,,,Jose,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+,Jones,,,,,,,,,,Nate Jones,,,,,,,,,Nate,,,,,,,,,,,,,,,,,,,,,,,,,,,,White Sox,,,,
+3,Sale,8,0,0,P,0,30,0,0,0,Chris Sale,13,,1.000,1,.000,2,67,0,Chris,0,7,,2,1,8,,0,.000,0,,,0,65,true,0,2.59,0,24,0,2,101,0,0,0,0,0,White Sox,0,.000,0,.000
+1,Reed,1,0,0,P,0,4,0,0,0,Addison Reed,2,,1.000,3,.000,0,8,0,Addison,20,0,true,0,1,1,,0,.000,4,,,0,51,,0,3.83,0,3,0,0,8,0,0,0,0,0,White Sox,0,.000,0,.000
+,Chen,,,,,,,,,,Bruce Chen,,,,,,,,,Bruce,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Guthrie,,,,,,,,,,Jeremy Guthrie,,,,,,,,,Jeremy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Francoeur,,0,,RF,2,,0,0,4,Jeff Francoeur,,,1.000,,.241,,,1,Jeff,,,,,1,,,0,.660,,600,,0,,,0,,0,,2,,,1,1,0,0,1,Royals,0,.381,0,.279
+,Pena,,,,,,,,,,Brayan Pena,,,,,,,,,Brayan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+8,Mendoza,7,0,1,P,0,29,0,0,0,Luis Mendoza,5,,1.000,0,.000,4,65,0,Luis,0,5,,2,1,7,1/3,0,.000,0,,true,0,52,,1,4.36,0,22,0,4,103,0,0,0,0,0,Royals,0,.000,0,.000
+,Escobar,,0,,SS,0,,0,0,4,Alcides Escobar,,2,1.000,,.300,,,3,Alcides,,,,,0,,,0,.752,,200,,0,,,3,,0,,1,,,0,0,1,0,0,Royals,0,.412,0,.340
+,Butler,,0,,DH,1,,0,0,4,Billy Butler,,1,.000,,.300,,,0,Billy,,,,,0,,,0,.864,,400,,0,,,0,,0,,1,,,1,1,1,0,1,Royals,0,.495,0,.369
+,Cain,,0,,CF,1,,0,0,4,Lorenzo Cain,,1,1.000,,.284,,,4,Lorenzo,,,,,1,,,0,.761,,300,,0,,,0,,0,,0,,,0,0,2,0,0,Royals,0,.431,0,.330
+,Hochevar,,,,,,,,,,Luke Hochevar,,,,,,,,,Luke,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Getz,,0,,2B,0,,0,0,3,Chris Getz,,,1.000,,.288,,,0,Chris,,,,,2,,,0,.705,,900,,0,,,4,,0,,2,,,0,0,1,0,0,Royals,0,.381,0,.324
+,Gordon,,0,,LF,2,,1,0,4,Alex Gordon,,,.000,,.291,,,3,Alex,,,,,0,,,0,.803,,100,,0,,,0,,0,,1,,,0,0,1,0,0,Royals,0,.432,0,.371
+,Paulino,,,,,,,,,,Felipe Paulino,,,,,,,,,Felipe,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Soria,,,,,,,,,,Joakim Soria,,,,,,,,,Joakim,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Abreu,,0,,3B,1,,0,0,3,Tony Abreu,,1,1.000,,.333,,,0,Tony,,,,,3,,,0,1.000,,800,,0,,,5,,1,,1,,,0,0,0,0,0,Royals,0,.667,0,.333
+,Coleman,,,,,,,,,,Louis Coleman,,,,,,,,,Louis,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Bueno,,,,,,,,,,Francisley Bueno,,,,,,,,,Francisley,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Teaford,,,,,,,,,,Everett Teaford,,,,,,,,,Everett,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Jeffress,,,,,,,,,,Jeremy Jeffress,,,,,,,,,Jeremy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Wood,,,,,,,,,,Blake Wood,,,,,,,,,Blake,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Dyson,,,,,,,,,,Jarrod Dyson,,,,,,,,,Jarrod,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Herrera,,,,,,,,,,Kelvin Herrera,,,,,,,,,Kelvin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Duffy,,,,,,,,,,Danny Duffy,,,,,,,,,Danny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Holland,,,,,,,,,,Greg Holland,,,,,,,,,Greg,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Moustakas,,,,,,,,,,Mike Moustakas,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Smith,,,,,,,,,,Will Smith,,,,,,,,,Will,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Perez,,0,,C,2,,0,0,4,Salvador Perez,,1,1.000,,.319,,,0,Salvador,,,,,5,,,0,.840,,500,,0,,,1,,0,,1,,,0,0,0,0,0,Royals,0,.496,0,.344
+2,Collins,0,0,0,P,0,2,0,0,0,Tim Collins,4,,.000,1,.000,0,7,0,Tim,0,1,,0,0,0,2/3,0,.000,6,,,0,53,,0,3.09,0,2,0,0,12,0,0,0,0,0,Royals,0,.000,0,.000
+,Crow,,,,,,,,,,Aaron Crow,,,,,,,,,Aaron,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royals,,,,
+,Hosmer,,0,,1B,1,,0,0,4,Eric Hosmer,,3,1.000,,.231,,,2,Eric,,,,,11,,,0,.663,,700,,0,,,1,,0,,0,,,0,0,1,0,0,Royals,0,.362,0,.301

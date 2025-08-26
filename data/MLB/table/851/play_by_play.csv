@@ -1,0 +1,68 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Tommy Milone,1,1,2,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tommy Milone,2,3,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Tommy Milone,2,3,2,Alex Gordon,['N/A'],['Alex Gordon'],['N/A'],Double,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Alex Gordon'],Tommy Milone,2,0,1,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Tommy Milone,3,1,1,Eric Hosmer,['N/A'],['N/A'],['N/A'],Forceout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ervin Santana,1,3,3,Coco Crisp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ervin Santana,2,0,2,Jed Lowrie,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Ervin Santana,3,1,2,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tommy Milone,0,2,2,Salvador Perez,['Salvador Perez'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tommy Milone,0,4,2,Mike Moustakas,['Mike Moustakas'],['Salvador Perez'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tommy Milone,0,4,2,Jeff Francoeur,['Jeff Francoeur'],['Mike Moustakas'],['Salvador Perez'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tommy Milone,1,0,0,Elliot Johnson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tommy Milone,2,3,3,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Tommy Milone,3,1,3,Alcides Escobar,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ervin Santana,1,2,3,Brandon Moss,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ervin Santana,1,3,2,Josh Donaldson,['N/A'],['Josh Donaldson'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ervin Santana,2,3,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Ervin Santana,3,0,1,Chris Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tommy Milone,0,4,2,Alex Gordon,['Alex Gordon'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tommy Milone,2,2,0,Billy Butler,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Tommy Milone,3,0,2,Eric Hosmer,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Ervin Santana,1,2,0,Derek Norris,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Ervin Santana,2,0,1,Eric Sogard,['N/A'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Ervin Santana,3,1,0,Coco Crisp,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Tommy Milone,0,0,0,Salvador Perez,['N/A'],['Salvador Perez'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Tommy Milone,1,1,0,Mike Moustakas,['N/A'],['N/A'],['Salvador Perez'],Flyout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Tommy Milone,2,3,3,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,top,0,[],Tommy Milone,3,0,3,Elliot Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ervin Santana,1,0,0,Jed Lowrie,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ervin Santana,2,1,3,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ervin Santana,2,4,0,Brandon Moss,['Brandon Moss'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+4,bottom,0,[],Ervin Santana,3,1,0,Josh Donaldson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Tommy Milone,1,1,1,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Tommy Milone,2,2,1,Alcides Escobar,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+5,top,0,[],Tommy Milone,3,2,1,Alex Gordon,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Ervin Santana,1,0,0,John Jaso,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Ervin Santana,2,2,2,Chris Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+5,bottom,0,[],Ervin Santana,3,3,1,Derek Norris,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Tommy Milone,0,1,0,Billy Butler,['Billy Butler'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Tommy Milone,1,2,1,Eric Hosmer,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Tommy Milone,2,0,0,Salvador Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,top,0,[],Tommy Milone,3,3,2,Mike Moustakas,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Ervin Santana,0,0,2,Eric Sogard,['N/A'],['Eric Sogard'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Ervin Santana,0,3,2,Coco Crisp,['N/A'],['N/A'],['Eric Sogard'],Wild Pitch,N/A,0,1,N/A,N/A,N/A
+6,bottom,0,[],Ervin Santana,0,4,2,Coco Crisp,['Coco Crisp'],['N/A'],['Eric Sogard'],Walk,N/A,0,1,N/A,N/A,N/A
+6,bottom,1,['Eric Sogard'],Ervin Santana,1,1,1,Jed Lowrie,['N/A'],['Coco Crisp'],['N/A'],Sac Fly,N/A,1,1,1,N/A,N/A
+6,bottom,0,[],Ervin Santana,2,0,2,Yoenis Cespedes,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+6,bottom,1,['Coco Crisp'],Ervin Santana,2,0,2,Brandon Moss,['N/A'],['N/A'],['Brandon Moss'],Triple,N/A,2,1,1,N/A,N/A
+6,bottom,0,[],Ervin Santana,3,0,0,Josh Donaldson,['N/A'],['N/A'],['N/A'],Pop Out,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Ryan Cook,1,3,1,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Ryan Cook,2,3,3,Elliot Johnson,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,top,0,[],Ryan Cook,3,2,3,Lorenzo Cain,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Ervin Santana,1,1,3,John Jaso,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Ervin Santana,1,4,1,Chris Young,['Chris Young'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Ervin Santana,2,1,0,Derek Norris,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+7,bottom,0,[],Ervin Santana,3,2,2,Eric Sogard,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Sean Doolittle,1,0,2,Alcides Escobar,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Sean Doolittle,2,0,2,Alex Gordon,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,top,0,[],Sean Doolittle,3,0,2,Billy Butler,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Tim Collins,1,2,3,Coco Crisp,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Tim Collins,2,2,2,Jed Lowrie,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Tim Collins,2,0,2,Yoenis Cespedes,['Yoenis Cespedes'],['N/A'],['N/A'],Single,N/A,2,1,N/A,N/A,N/A
+8,bottom,0,[],Tim Collins,3,3,3,Brandon Moss,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,1,N/A,N/A,N/A
+9,top,0,[],Grant Balfour,0,4,1,Eric Hosmer,['Eric Hosmer'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+9,top,0,[],Grant Balfour,1,2,0,Salvador Perez,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+9,top,0,[],Grant Balfour,2,0,0,Mike Moustakas,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+9,top,0,[],Grant Balfour,3,3,1,Jeff Francoeur,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A

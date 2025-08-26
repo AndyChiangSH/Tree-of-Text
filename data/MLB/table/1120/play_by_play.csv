@@ -1,0 +1,86 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Chris Capuano,1,1,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,0,N/A,N/A,N/A
+1,top,0,[],Chris Capuano,1,0,2,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Single,N/A,0,0,N/A,N/A,N/A
+1,top,1,['Jose Bautista'],Chris Capuano,1,1,2,Edwin Encarnacion,['N/A'],['Edwin Encarnacion'],['N/A'],Double,N/A,0,1,1,N/A,N/A
+1,top,0,[],Chris Capuano,2,0,0,Dioner Navarro,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+1,top,0,[],Chris Capuano,3,2,2,Danny Valencia,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Marcus Stroman,0,1,1,Brett Gardner,['N/A'],['Brett Gardner'],['N/A'],Double,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Marcus Stroman,1,2,3,Derek Jeter,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Marcus Stroman,1,1,2,Brian McCann,['Brian McCann'],['N/A'],['Brett Gardner'],Field Error,N/A,0,1,N/A,N/A,Steve Tolleson
+1,bottom,0,[],Marcus Stroman,2,2,3,Mark Teixeira,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+1,bottom,0,[],Marcus Stroman,3,1,0,Chris Young,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,1,0,2,John Mayberry,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,2,2,3,Dalton Pompey,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,2,0,0,Steve Tolleson,['Steve Tolleson'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,2,3,2,Kevin Pillar,['N/A'],['Steve Tolleson'],['N/A'],Wild Pitch,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,2,4,2,Kevin Pillar,['Kevin Pillar'],['Steve Tolleson'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+2,top,0,[],Chris Capuano,3,0,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Pop Out,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Marcus Stroman,1,2,1,Chase Headley,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Marcus Stroman,2,2,3,Stephen Drew,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+2,bottom,0,[],Marcus Stroman,3,3,2,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Groundout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Chris Capuano,0,4,2,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Walk,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Chris Capuano,1,0,0,Edwin Encarnacion,['N/A'],['N/A'],['N/A'],Flyout,N/A,0,1,N/A,N/A,N/A
+3,top,0,[],Chris Capuano,3,1,1,Dioner Navarro,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Marcus Stroman,1,0,3,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Strikeout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Marcus Stroman,2,2,2,Brett Gardner,['N/A'],['N/A'],['N/A'],Lineout,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Marcus Stroman,2,0,0,Derek Jeter,['Derek Jeter'],['N/A'],['N/A'],Single,N/A,0,1,N/A,N/A,N/A
+3,bottom,0,[],Marcus Stroman,2,1,0,Brian McCann,['N/A'],['Derek Jeter'],['N/A'],Wild Pitch,N/A,0,1,N/A,N/A,N/A
+3,bottom,1,['Derek Jeter'],Marcus Stroman,2,1,0,Brian McCann,['Brian McCann'],['Derek Jeter'],['N/A'],Single,N/A,1,1,1,N/A,N/A
+3,bottom,0,[],Marcus Stroman,3,0,3,Mark Teixeira,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Chris Capuano,1,1,3,Danny Valencia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Chris Capuano,2,1,0,John Mayberry,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,top,0,[],Chris Capuano,3,0,1,Dalton Pompey,['N/A'],['N/A'],['N/A'],Groundout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Marcus Stroman,1,2,3,Chris Young,['N/A'],['N/A'],['N/A'],Strikeout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Marcus Stroman,1,1,2,Chase Headley,['Chase Headley'],['N/A'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Marcus Stroman,2,0,1,Stephen Drew,['N/A'],['N/A'],['N/A'],Flyout,N/A,1,1,N/A,N/A,N/A
+4,bottom,0,[],Marcus Stroman,2,1,2,Ichiro Suzuki,['Ichiro Suzuki'],['Chase Headley'],['N/A'],Single,N/A,1,1,N/A,N/A,N/A
+4,bottom,1,['Chase Headley'],Marcus Stroman,2,2,1,Francisco Cervelli,['Francisco Cervelli'],['Ichiro Suzuki'],['N/A'],Single,N/A,2,1,1,N/A,N/A
+4,bottom,0,[],Marcus Stroman,3,3,1,Brett Gardner,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Chris Capuano,1,2,2,Steve Tolleson,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Chris Capuano,2,0,0,Kevin Pillar,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,top,0,[],Chris Capuano,3,2,2,Jose Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Marcus Stroman,1,0,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Marcus Stroman,2,2,2,Brian McCann,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,1,N/A,N/A,N/A
+5,bottom,0,[],Marcus Stroman,3,1,0,Brendan Ryan,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Chris Capuano,0,4,1,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+6,top,0,[],Chris Capuano,0,2,2,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['Jose Bautista'],Single,Error,2,1,N/A,N/A,Stephen Drew
+6,top,0,[],Chris Capuano,0,4,0,Dioner Navarro,['Dioner Navarro'],['Edwin Encarnacion'],['N/A'],Walk,N/A,2,1,N/A,N/A,N/A
+6,top,2,"['Jose Bautista', 'Edwin Encarnacion']",Chris Capuano,0,0,0,Danny Valencia,['N/A'],['Danny Valencia'],['Dioner Navarro'],Double,N/A,2,3,2,N/A,N/A
+6,top,1,['Dioner Navarro'],Chris Capuano,1,0,0,John Mayberry,['N/A'],['N/A'],['N/A'],Sac Fly,N/A,2,4,1,N/A,N/A
+6,top,0,[],Chris Capuano,2,3,2,Dalton Pompey,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Chase Whitley,2,4,2,Munenori Kawasaki,['Munenori Kawasaki'],['N/A'],['N/A'],Walk,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Chase Whitley,2,0,0,Kevin Pillar,['Kevin Pillar'],['Munenori Kawasaki'],['Danny Valencia'],Single,N/A,2,4,N/A,N/A,N/A
+6,top,0,[],Chase Whitley,3,1,0,Jose Reyes,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Marcus Stroman,1,0,1,Chris Young,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Marcus Stroman,2,1,3,Chase Headley,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Marcus Stroman,2,1,1,Stephen Drew,['Stephen Drew'],['N/A'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Marcus Stroman,2,1,1,Ichiro Suzuki,['Ichiro Suzuki'],['Stephen Drew'],['N/A'],Single,N/A,2,4,N/A,N/A,N/A
+6,bottom,0,[],Marcus Stroman,3,1,0,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,4,N/A,N/A,N/A
+7,top,1,[],Chase Whitley,0,3,1,Jose Bautista,['N/A'],['N/A'],['N/A'],Home Run,N/A,2,5,1,N/A,N/A
+7,top,0,[],Esmil Rogers,0,1,1,Edwin Encarnacion,['Edwin Encarnacion'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Esmil Rogers,1,2,3,Dioner Navarro,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Esmil Rogers,2,0,3,Danny Valencia,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,top,0,[],Esmil Rogers,3,2,3,John Mayberry,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Aaron Sanchez,1,1,2,Brett Gardner,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Aaron Sanchez,2,2,0,Derek Jeter,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+7,bottom,0,[],Aaron Sanchez,3,0,0,Brian McCann,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],David Huff,1,0,0,Dalton Pompey,['N/A'],['N/A'],['N/A'],Flyout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],David Huff,2,2,3,Munenori Kawasaki,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],David Huff,2,0,1,Kevin Pillar,['Kevin Pillar'],['N/A'],['N/A'],Single,N/A,2,5,N/A,N/A,N/A
+8,top,0,[],David Huff,3,2,1,Jose Reyes,['N/A'],['N/A'],['N/A'],Lineout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],Aaron Sanchez,1,0,1,Brendan Ryan,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],Aaron Sanchez,1,0,0,Chris Young,['N/A'],['Chris Young'],['N/A'],Double,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],Aaron Sanchez,1,4,1,Chase Headley,['Chase Headley'],['N/A'],['Chris Young'],Walk,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],Brett Cecil,2,3,3,Stephen Drew,['N/A'],['N/A'],['N/A'],Strikeout,N/A,2,5,N/A,N/A,N/A
+8,bottom,0,[],Brett Cecil,3,0,1,Ichiro Suzuki,['N/A'],['N/A'],['N/A'],Forceout,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],David Phelps,0,4,2,Jose Bautista,['Jose Bautista'],['N/A'],['N/A'],Walk,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],David Phelps,0,1,0,Edwin Encarnacion,['N/A'],['Jose Bautista'],['N/A'],Wild Pitch,N/A,2,5,N/A,N/A,N/A
+9,top,0,[],David Phelps,1,3,1,Edwin Encarnacion,['N/A'],['Jose Bautista'],['N/A'],Groundout,N/A,2,5,N/A,N/A,N/A
+9,top,1,['Jose Bautista'],David Phelps,2,0,1,Dioner Navarro,['N/A'],['N/A'],['N/A'],Single,N/A,2,6,1,N/A,N/A
+9,top,0,[],David Phelps,3,1,0,Danny Valencia,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Brandon Morrow,1,0,2,Francisco Cervelli,['N/A'],['N/A'],['N/A'],Groundout,N/A,2,6,N/A,N/A,N/A
+9,bottom,0,[],Brandon Morrow,1,2,2,Brett Gardner,['Brett Gardner'],['N/A'],['N/A'],Single,N/A,2,6,N/A,N/A,N/A
+9,bottom,1,['Brett Gardner'],Brandon Morrow,1,2,1,Derek Jeter,['N/A'],"['Brett Gardner', 'Derek Jeter']",['N/A'],Double,N/A,3,6,1,N/A,N/A
+9,bottom,0,[],Casey Janssen,1,0,0,Brian McCann,['Brian McCann'],['N/A'],['N/A'],Hit By Pitch,N/A,3,6,N/A,N/A,N/A
+9,bottom,0,[],Casey Janssen,2,1,3,Brendan Ryan,['N/A'],['N/A'],['N/A'],Strikeout,N/A,3,6,N/A,N/A,N/A
+9,bottom,0,[],Casey Janssen,3,3,2,Chris Young,['N/A'],['N/A'],['N/A'],Lineout,N/A,3,6,N/A,N/A,N/A

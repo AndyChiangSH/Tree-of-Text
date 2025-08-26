@@ -1,0 +1,108 @@
+inning,top_down,runs,scorers,pitcher,o,b,s,batter,b1,b2,b3,event,event2,home_team_runs,away_team_runs,rbi,error_runs,fielder_error
+1,top,0,[],Zach Jackson,1,1,0,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Zach Jackson,1,0,0,Matt Tolbert,['N/A'],['Matt Tolbert'],['N/A'],Single,Error,N/A,N/A,N/A,N/A,Zach Jackson
+1,top,0,[],Zach Jackson,1,4,2,Joe Mauer,['Joe Mauer'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,0,[],Zach Jackson,2,2,0,Justin Morneau,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+1,top,1,['Matt Tolbert'],Zach Jackson,2,0,1,Michael Cuddyer,['Michael Cuddyer'],['N/A'],['Joe Mauer'],Single,N/A,0,1,1,N/A,N/A
+1,top,0,[],Zach Jackson,3,0,0,Delmon Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,1,0,1,Grady Sizemore,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,2,3,1,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+1,bottom,0,[],Francisco Liriano,3,2,3,Ben Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Zach Jackson,1,3,3,Brian Buscher,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Zach Jackson,2,0,0,Nick Punto,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,top,0,[],Zach Jackson,3,0,2,Carlos Gomez,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,1,3,3,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,1,4,1,Victor Martinez,['Victor Martinez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,0,[],Francisco Liriano,1,1,0,Kelly Shoppach,['Kelly Shoppach'],['Victor Martinez'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,3,"['Victor Martinez', 'Kelly Shoppach']",Francisco Liriano,1,1,0,Ryan Garko,['N/A'],['N/A'],['N/A'],Home Run,N/A,3,1,3,N/A,N/A
+2,bottom,0,[],Francisco Liriano,2,1,3,Andy Marte,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+2,bottom,1,[],Francisco Liriano,2,1,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Home Run,N/A,4,1,1,N/A,N/A
+2,bottom,0,[],Francisco Liriano,3,3,1,Grady Sizemore,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Zach Jackson,0,1,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Hit By Pitch,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Zach Jackson,2,1,0,Matt Tolbert,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+3,top,0,[],Zach Jackson,3,1,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,0,1,2,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,0,1,1,Ben Francisco,['Ben Francisco'],['N/A'],['Franklin Gutierrez'],Field Error,N/A,N/A,N/A,N/A,N/A,Nick Punto
+3,bottom,1,['Franklin Gutierrez'],Francisco Liriano,0,1,0,Jhonny Peralta,['N/A'],['Ben Francisco'],['N/A'],Wild Pitch,N/A,5,1,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,1,2,3,Jhonny Peralta,['N/A'],['Ben Francisco'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,1,2,2,Victor Martinez,['N/A'],['Victor Martinez'],['Ben Francisco'],Double,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Francisco Liriano,1,4,0,Kelly Shoppach,['Kelly Shoppach'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,1,['Ben Francisco'],Francisco Liriano,2,2,1,Ryan Garko,['N/A'],['N/A'],['Victor Martinez'],Sac Fly,N/A,6,1,1,N/A,N/A
+3,bottom,1,['Victor Martinez'],Francisco Liriano,2,0,2,Andy Marte,['Andy Marte'],['Kelly Shoppach'],['N/A'],Single,N/A,7,1,1,N/A,N/A
+3,bottom,1,['Kelly Shoppach'],Boof Bonser,2,1,1,Asdrubal Cabrera,['N/A'],['Asdrubal Cabrera'],['Andy Marte'],Single,Error,8,1,1,N/A,Carlos Gomez
+3,bottom,0,[],Boof Bonser,2,4,0,Grady Sizemore,['Grady Sizemore'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+3,bottom,0,[],Boof Bonser,3,2,3,Franklin Gutierrez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Zach Jackson,1,1,1,Justin Morneau,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,top,0,[],Zach Jackson,1,1,1,Michael Cuddyer,['Michael Cuddyer'],['N/A'],['N/A'],Field Error,N/A,N/A,N/A,N/A,N/A,Jhonny Peralta
+4,top,0,[],Zach Jackson,3,0,2,Delmon Young,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Boof Bonser,1,0,1,Ben Francisco,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Boof Bonser,2,3,2,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Boof Bonser,2,2,0,Victor Martinez,['Victor Martinez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+4,bottom,0,[],Boof Bonser,3,0,3,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Zach Jackson,0,3,2,Brian Buscher,['Brian Buscher'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,0,[],Zach Jackson,1,0,2,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Forceout,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['Nick Punto'],Zach Jackson,1,1,0,Carlos Gomez,['N/A'],['Carlos Gomez'],['N/A'],Double,N/A,8,2,1,N/A,N/A
+5,top,0,[],Zach Jackson,1,1,0,Denard Span,['Denard Span'],['N/A'],['Carlos Gomez'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,top,1,['Carlos Gomez'],Zach Jackson,1,1,0,Matt Tolbert,['Matt Tolbert'],['N/A'],['Denard Span'],Single,N/A,8,3,1,N/A,N/A
+5,top,1,['Denard Span'],Zach Jackson,1,3,2,Joe Mauer,['Joe Mauer'],['N/A'],['Matt Tolbert'],Single,N/A,8,4,1,N/A,N/A
+5,top,1,['Matt Tolbert'],Zach Jackson,2,0,0,Justin Morneau,['N/A'],['Joe Mauer'],['N/A'],Groundout,N/A,8,5,1,N/A,N/A
+5,top,0,[],Zach Jackson,3,1,3,Michael Cuddyer,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Boof Bonser,0,0,2,Ryan Garko,['Ryan Garko'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Boof Bonser,2,1,0,Andy Marte,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+5,bottom,0,[],Boof Bonser,3,0,1,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Zach Jackson,0,0,1,Delmon Young,['Delmon Young'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Zach Jackson,0,0,0,Brian Buscher,['Brian Buscher'],['Delmon Young'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Zach Jackson,1,0,0,Nick Punto,['N/A'],['Brian Buscher'],['Delmon Young'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,2,"['Delmon Young', 'Brian Buscher']",Juan Rincon,1,0,0,Carlos Gomez,['Carlos Gomez'],['N/A'],['N/A'],Single,N/A,8,7,2,N/A,N/A
+6,top,0,[],N/A,1,3,1,Denard Span,['N/A'],['Carlos Gomez'],['N/A'],Stolen Base 2B,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Juan Rincon,1,4,2,Denard Span,['Denard Span'],['Carlos Gomez'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Juan Rincon,2,1,3,Matt Tolbert,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Rich Rundles,2,4,1,Joe Mauer,['Joe Mauer'],['Denard Span'],['Carlos Gomez'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+6,top,0,[],Rich Rundles,3,2,2,Justin Morneau,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Boof Bonser,1,2,3,Grady Sizemore,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Boof Bonser,1,3,2,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+6,bottom,0,[],Boof Bonser,3,2,0,Ben Francisco,['N/A'],['N/A'],['N/A'],Grounded Into DP,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brendan Donnelly,0,4,1,Michael Cuddyer,['Michael Cuddyer'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brendan Donnelly,1,1,0,Delmon Young,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brendan Donnelly,1,0,2,Brian Buscher,['Brian Buscher'],['Jason Pridie'],['N/A'],Catcher Interference,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brendan Donnelly,1,4,1,Nick Punto,['Nick Punto'],['Brian Buscher'],['Jason Pridie'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,top,0,[],Brendan Donnelly,3,1,1,Carlos Gomez,['N/A'],['N/A'],['N/A'],Double Play,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Boof Bonser,0,0,1,Jhonny Peralta,['N/A'],['N/A'],['Jhonny Peralta'],Triple,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,1,0,0,Victor Martinez,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,2,1,3,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Matt Guerrier,2,4,2,Ryan Garko,['Ryan Garko'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+7,bottom,0,[],Craig Breslow,3,1,0,Shin-Soo Choo,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Rafael Betancourt,0,4,2,Denard Span,['Denard Span'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Rafael Betancourt,1,2,1,Matt Tolbert,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Rafael Betancourt,1,4,0,Joe Mauer,['Joe Mauer'],['Denard Span'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,1,['Denard Span'],Rafael Betancourt,1,2,1,Justin Morneau,['N/A'],['Justin Morneau'],['Joe Mauer'],Double,N/A,8,8,1,N/A,N/A
+8,top,0,[],Rafael Betancourt,1,4,0,Jason Kubel,['Jason Kubel'],['N/A'],['N/A'],Intent Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,1,['Joe Mauer'],Rafael Betancourt,2,0,2,Delmon Young,['N/A'],['N/A'],['Justin Morneau'],Sac Fly,N/A,8,9,1,N/A,N/A
+8,top,0,[],Rafael Betancourt,2,4,2,Brian Buscher,['Brian Buscher'],['Jason Kubel'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,top,0,[],Edward Mujica,3,0,1,Nick Punto,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Eddie Guardado,1,3,2,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,1,[],Eddie Guardado,1,2,2,Grady Sizemore,['N/A'],['N/A'],['N/A'],Home Run,N/A,9,9,1,N/A,N/A
+8,bottom,0,[],Eddie Guardado,1,4,1,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Eddie Guardado,2,1,3,Ben Francisco,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+8,bottom,0,[],Eddie Guardado,3,0,0,Jhonny Peralta,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jensen Lewis,1,0,0,Carlos Gomez,['N/A'],['N/A'],['N/A'],Bunt Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jensen Lewis,2,1,2,Denard Span,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jensen Lewis,2,0,0,Matt Tolbert,['Matt Tolbert'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+9,top,0,[],Jensen Lewis,3,1,1,Joe Mauer,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Dennys Reyes,1,1,3,Victor Martinez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Dennys Reyes,2,3,2,Kelly Shoppach,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+9,bottom,0,[],Dennys Reyes,3,3,3,Ryan Garko,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+10,top,0,[],Jensen Lewis,1,1,3,Justin Morneau,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+10,top,0,[],Jensen Lewis,2,1,1,Jason Kubel,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+10,top,0,[],Jensen Lewis,3,1,0,Delmon Young,['N/A'],['N/A'],['N/A'],Pop Out,N/A,N/A,N/A,N/A,N/A,N/A
+10,bottom,0,[],Jose Mijares,1,1,1,Jamey Carroll,['N/A'],['N/A'],['N/A'],Flyout,N/A,N/A,N/A,N/A,N/A,N/A
+10,bottom,0,[],Jose Mijares,2,1,0,Asdrubal Cabrera,['N/A'],['N/A'],['N/A'],Lineout,N/A,N/A,N/A,N/A,N/A,N/A
+10,bottom,0,[],Jose Mijares,3,1,0,Grady Sizemore,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+11,top,0,[],Tom Mastny,1,1,3,Alexi Casilla,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+11,top,0,[],Tom Mastny,1,2,1,Nick Punto,['Nick Punto'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+11,top,0,[],Tom Mastny,2,0,3,Carlos Gomez,['N/A'],['N/A'],['N/A'],Strikeout,N/A,N/A,N/A,N/A,N/A,N/A
+11,top,0,[],Tom Mastny,3,2,1,Denard Span,['N/A'],['N/A'],['N/A'],Groundout,N/A,N/A,N/A,N/A,N/A,N/A
+11,bottom,0,[],Joe Nathan,0,2,2,Franklin Gutierrez,['Franklin Gutierrez'],['N/A'],['N/A'],Single,N/A,N/A,N/A,N/A,N/A,N/A
+11,bottom,0,[],Joe Nathan,1,1,1,Ben Francisco,['N/A'],['Franklin Gutierrez'],['N/A'],Sac Bunt,N/A,N/A,N/A,N/A,N/A,N/A
+11,bottom,0,[],Joe Nathan,1,4,2,Jhonny Peralta,['Jhonny Peralta'],['N/A'],['N/A'],Walk,N/A,N/A,N/A,N/A,N/A,N/A
+11,bottom,3,"['Franklin Gutierrez', 'Jhonny Peralta']",Joe Nathan,1,1,1,Victor Martinez,['N/A'],['N/A'],['N/A'],Home Run,N/A,12,9,3,N/A,N/A

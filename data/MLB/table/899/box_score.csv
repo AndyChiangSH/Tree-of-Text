@@ -1,0 +1,62 @@
+p_l,last_name,p_h,sac,p_bb,pos,ao,p_bf,cs,hbp,ab,full_name,p_w,go,fldg,p_bs,avg,p_r,p_s,lob,first_name,p_sv,p_so,p_save,p_hr,po,p_ip1,p_ip2,bb,ops,p_hld,bo,p_loss,e,p_game_score,p_win,a,p_era,d,p_out,h,p_er,p_np,hr,r,so,t,rbi,team,sb,slg,sf,obp
+,Colon,,,,,,,,,,Bartolo Colon,,,,,,,,,Bartolo,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Balfour,,,,,,,,,,Grant Balfour,,,,,,,,,Grant,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Crisp,,0,,CF,0,,0,0,3,Coco Crisp,,2,1.000,,.264,,,0,Coco,,,,,4,,,1,.768,,100,,0,,,0,,0,,0,,,0,0,1,0,0,Athletics,0,.420,0,.348
+,Jaso,,0,,C,0,,0,0,3,John Jaso,,1,.833,,.273,,,0,John,,,,,5,,,1,.738,,200,,1,,,0,,0,,1,,,0,0,1,0,1,Athletics,0,.361,0,.377
+2,Chavez,1,0,1,P,0,5,0,0,0,Jesse Chavez,1,,.000,0,.000,0,16,0,Jesse,1,0,,0,0,1,,0,.000,0,,,0,50,,0,2.97,0,3,0,0,23,0,0,0,0,0,Athletics,0,.000,0,.000
+3,Doolittle,1,0,0,P,0,4,0,0,0,Sean Doolittle,3,,1.000,3,.000,2,9,0,Sean,0,0,,0,0,0,2/3,0,.000,13,,true,0,42,,1,3.66,0,2,0,2,16,0,0,0,0,0,Athletics,0,.000,0,.000
+,Neshek,,,,,,,,,,Pat Neshek,,,,,,,,,Pat,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Rodriguez,,,,,,,,,,Fernando Rodriguez,,,,,,,,,Fernando,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Smith,,0,,DH,0,,0,0,4,Seth Smith,,2,.000,,.270,,,2,Seth,,,,,0,,,0,.750,,800,,0,,,0,,1,,1,,,0,1,1,0,0,Athletics,0,.411,0,.339
+,Young,,,,,,,,,,Chris Young,,,,,,,,,Chris,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Griffin,,,,,,,,,,A.J. Griffin,,,,,,,,,A.J.,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Blevins,,,,,,,,,,Jerry Blevins,,,,,,,,,Jerry,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Moss,,0,,1B,1,,0,0,3,Brandon Moss,,1,1.000,,.230,,,1,Brandon,,,,,8,,,1,.777,,600,,0,,,2,,0,,0,,,0,0,1,0,0,Athletics,0,.464,0,.313
+,Freiman,,,,,,,,,,Nate Freiman,,,,,,,,,Nate,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Anderson,,,,,,,,,,Brett Anderson,,,,,,,,,Brett,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+2,Cook,1,0,0,P,0,2,0,0,0,Ryan Cook,1,,.000,3,.000,0,6,0,Ryan,1,1,,0,0,0,1/3,0,.000,14,,,0,50,,0,2.50,0,1,0,0,10,0,0,0,0,0,Athletics,0,.000,0,.000
+,Lowrie,,0,,SS,1,,0,0,4,Jed Lowrie,,,1.000,,.301,,,1,Jed,,,,,0,,,0,.802,,400,,0,,,3,,0,,1,,,1,1,2,0,1,Athletics,0,.433,0,.369
+,Cespedes,,0,,LF,0,,0,1,2,Yoenis Cespedes,,1,1.000,,.219,,,1,Yoenis,,,,,4,,,1,.704,,500,,0,,,0,,0,,0,,,0,0,1,0,0,Athletics,2,.419,0,.285
+,Sizemore,,,,,,,,,,Scott Sizemore,,,,,,,,,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Green,,,,,,,,,,Grant Green,,,,,,,,,Grant,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Reddick,,0,,RF,0,,0,0,3,Josh Reddick,,1,1.000,,.216,,,2,Josh,,,,,3,,,1,.647,,700,,0,,,0,,0,,0,,,0,0,2,0,0,Athletics,0,.347,0,.300
+,Donaldson,,0,,3B,2,,0,0,4,Josh Donaldson,,2,.667,,.310,,,3,Josh,,,,,0,,,0,.898,,300,,1,,,2,,0,,0,,,0,0,1,0,0,Athletics,0,.518,0,.380
+,Norris,,,,,,,,,,Derek Norris,,,,,,,,,Derek,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Otero,,,,,,,,,,Dan Otero,,,,,,,,,Dan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+6,Parker,3,0,0,P,0,25,0,0,0,Jarrod Parker,6,,1.000,0,.000,2,59,0,Jarrod,0,3,,0,1,7,,0,.000,0,,,0,66,,1,3.95,0,21,0,2,93,0,0,0,0,0,Athletics,0,.000,0,.000
+,Sogard,,0,,2B,1,,0,0,3,Eric Sogard,,2,1.000,,.259,,,1,Eric,,,,,2,,,0,.683,,900,,0,,,2,,0,,0,,,0,0,0,0,0,Athletics,0,.351,0,.332
+,Gray,,,,,,,,,,Sonny Gray,,,,,,,,,Sonny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Milone,,,,,,,,,,Tommy Milone,,,,,,,,,Tommy,,,,,,,,,,,,,,,,,,,,,,,,,,,,Athletics,,,,
+,Ortiz,,0,,DH,2,,0,0,4,David Ortiz,,1,.000,,.323,,,2,David,,,,,0,,,0,1.027,,400,,0,,,0,,0,,0,,,0,0,1,0,0,Red Sox,0,.620,0,.407
+,Dempster,,,,,,,,,,Ryan Dempster,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+6,Lackey,3,0,4,P,0,28,0,0,0,John Lackey,7,,1.000,0,.000,2,69,0,John,0,5,,1,1,7,,0,.000,0,,,0,64,true,0,2.78,0,21,0,2,113,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Ross,,,,,,,,,,David Ross,,,,,,,,,David,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Victorino,,0,,RF,3,,0,1,3,Shane Victorino,,,.500,,.286,,,0,Shane,,,,,1,,,0,.737,,200,,1,,,0,,0,,0,,,0,1,0,0,0,Red Sox,1,.402,0,.335
+,Gomes,,,,,,,,,,Jonny Gomes,,,,,,,,,Jonny,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Hanrahan,,,,,,,,,,Joel Hanrahan,,,,,,,,,Joel,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Napoli,,0,,1B,0,,0,0,4,Mike Napoli,,,1.000,,.257,,,0,Mike,,,,,10,,,0,.788,,500,,0,,,1,,0,,2,,,0,1,2,1,0,Red Sox,0,.445,0,.343
+,Breslow,,,,,,,,,,Craig Breslow,,,,,,,,,Craig,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Drew,,,,,,,,,,Stephen Drew,,,,,,,,,Stephen,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Lester,,,,,,,,,,Jon Lester,,,,,,,,,Jon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Ellsbury,,0,,CF,1,,0,0,4,Jacoby Ellsbury,,2,1.000,,.304,,,2,Jacoby,,,,,1,,,0,.793,,100,,0,,,0,,0,,0,,,0,0,1,0,0,Red Sox,0,.424,0,.369
+,Miller,,,,,,,,,,Andrew Miller,,,,,,,,,Andrew,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Wright,,,,,,,,,,Steven Wright,,,,,,,,,Steven,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Buchholz,,,,,,,,,,Clay Buchholz,,,,,,,,,Clay,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Carp,,,,,,,,,,Mike Carp,,,,,,,,,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Pedroia,,0,,2B,1,,0,0,4,Dustin Pedroia,,1,1.000,,.318,,,0,Dustin,,,,,0,,,0,.835,,300,,0,,,5,,0,,2,,,0,0,0,0,2,Red Sox,0,.438,0,.397
+,Saltalamacchia,,0,,C,3,,0,0,3,Jarrod Saltalamacchia,,,1.000,,.269,,,2,Jarrod,,,,,10,,,1,.801,,700,,0,,,0,,0,,0,,,0,0,0,0,0,Red Sox,0,.458,0,.343
+1,Bailey,0,0,1,P,0,4,0,0,0,Andrew Bailey,3,,.000,5,.000,0,11,0,Andrew,8,2,,0,0,1,,0,.000,8,,,0,54,,0,3.77,0,3,0,0,17,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Morales,,,,,,,,,,Franklin Morales,,,,,,,,,Franklin,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Doubront,,,,,,,,,,Felix Doubront,,,,,,,,,Felix,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Beato,,,,,,,,,,Pedro Beato,,,,,,,,,Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Snyder,,,,,,,,,,Brandon Snyder,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+0,Uehara,0,0,0,P,0,3,0,0,0,Koji Uehara,2,,.000,3,.000,0,10,0,Koji,8,3,true,0,0,1,,0,.000,13,,,0,56,,0,1.79,0,3,0,0,14,0,0,0,0,0,Red Sox,0,.000,0,.000
+,Kalish,,,,,,,,,,Ryan Kalish,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Workman,,,,,,,,,,Brandon Workman,,,,,,,,,Brandon,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Nava,,0,,LF-1B,0,,0,1,3,Daniel Nava,,3,1.000,,.290,,,1,Daniel,,,,,2,,,0,.814,,600,,0,,,0,,0,,0,,,0,1,0,0,0,Red Sox,0,.436,0,.378
+,Lavarnway,,,,,,,,,,Ryan Lavarnway,,,,,,,,,Ryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Wilson,,,,,,,,,,Alex Wilson,,,,,,,,,Alex,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Tazawa,,,,,,,,,,Junichi Tazawa,,,,,,,,,Junichi,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red Sox,,,,
+,Holt,,1,,3B,1,,0,0,3,Brock Holt,,2,1.000,,.318,,,2,Brock,,,,,0,,,0,.688,,900,,0,,,2,,0,,1,,,0,0,0,0,2,Red Sox,0,.318,0,.370
+,Iglesias,,0,,SS,1,,0,0,4,Jose Iglesias,,2,1.000,,.384,,,4,Jose,,,,,2,,,0,.918,,800,,0,,,3,,0,,1,,,0,1,0,0,0,Red Sox,0,.483,0,.435
+,Bradley,,0,,PR-LF,0,,0,0,0,Jackie Bradley,,,.000,,.155,,,0,Jackie,,,,,0,,,0,.568,,501,,0,,,0,,0,,0,,,0,0,0,0,0,Red Sox,0,.310,0,.258
