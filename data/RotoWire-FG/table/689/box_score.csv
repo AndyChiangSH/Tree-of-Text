@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,3,4,1,25,10,3,30,Al-Farouq,2,1,50,34,1,0,Al-Farouq Aminu,8,4,Aminu,F,1,Portland,3
+0,2,5,5,2,40,15,8,53,Maurice,0,0,0,34,2,4,Maurice Harkless,18,7,Harkless,F,1,Portland,2
+3,0,5,0,0,0,3,2,67,Mason,6,3,50,24,1,4,Mason Plumlee,7,6,Plumlee,C,2,Portland,3
+2,1,4,12,6,50,23,13,56,CJ,6,5,83,39,0,4,CJ McCollum,37,4,McCollum,G,1,Portland,1
+7,0,6,8,2,25,11,3,27,Damian,11,11,100,33,1,3,Damian Lillard,19,7,Lillard,G,1,Portland,3
+4,1,0,0,0,0,0,0,0,Evan,0,0,0,23,0,2,Evan Turner,0,0,Turner,N/A,1,Portland,2
+0,0,4,0,0,0,1,0,0,Ed,2,2,100,13,0,3,Ed Davis,2,4,Davis,N/A,0,Portland,0
+0,0,3,2,2,100,4,2,50,Allen,0,0,0,27,0,3,Allen Crabbe,6,3,Crabbe,N/A,0,Portland,1
+1,1,1,2,1,50,4,1,25,Meyers,0,0,0,11,0,2,Meyers Leonard,3,1,Leonard,N/A,0,Portland,0
+0,0,1,0,0,0,0,0,0,Noah,0,0,0,3,0,0,Noah Vonleh,0,1,Vonleh,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Portland,N/A
+0,1,2,3,0,0,8,0,0,Chandler,0,0,0,22,1,1,Chandler Parsons,0,3,Parsons,F,0,Memphis,2
+2,1,4,3,0,0,6,2,33,JaMychal,2,1,50,33,4,3,JaMychal Green,5,8,Green,F,0,Memphis,1
+2,0,3,2,1,50,14,7,50,Marc,8,6,75,28,0,2,Marc Gasol,21,3,Gasol,C,1,Memphis,2
+0,0,5,1,1,100,5,3,60,Tony,4,4,100,22,2,2,Tony Allen,11,7,Allen,G,4,Memphis,1
+7,2,4,5,1,20,11,5,46,Mike,5,5,100,31,0,1,Mike Conley,16,4,Conley,G,2,Memphis,2
+0,0,3,4,1,25,8,3,38,James,0,0,0,35,0,4,James Ennis III,7,3,Ennis,N/A,0,Memphis,1
+1,0,3,5,1,20,10,4,40,Vince,2,2,100,26,2,2,Vince Carter,11,5,Carter,N/A,1,Memphis,2
+2,0,6,1,1,100,11,6,55,Zach,2,2,100,20,1,1,Zach Randolph,15,7,Randolph,N/A,0,Memphis,1
+1,0,2,2,0,0,6,1,17,Andrew,5,3,60,17,0,2,Andrew Harrison,5,2,Harrison,N/A,1,Memphis,0
+0,1,0,0,0,0,2,0,0,Jarell,4,3,75,7,2,2,Jarell Martin,3,2,Martin,N/A,0,Memphis,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wade,N/A,N/A,N/A,N/A,N/A,N/A,Wade Baldwin IV,N/A,N/A,Baldwin,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Deyonta,N/A,N/A,N/A,N/A,N/A,N/A,Deyonta Davis,N/A,N/A,Davis,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Williams,N/A,N/A,Williams,N/A,N/A,Memphis,N/A

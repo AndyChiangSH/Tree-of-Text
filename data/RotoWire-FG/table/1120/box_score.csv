@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,0,1,1,100,2,1,50,Bruce,0,0,0,18,1,5,Bruce Brown,3,1,Brown,F,0,Detroit,1
+8,1,6,11,2,18,17,4,24,Blake,10,7,70,31,1,4,Blake Griffin,17,7,Griffin,F,1,Detroit,2
+1,1,8,0,0,0,18,7,39,Andre,3,2,67,32,11,4,Andre Drummond,16,19,Drummond,C,3,Detroit,1
+0,1,1,10,6,60,11,7,64,Wayne,5,3,60,31,0,0,Wayne Ellington,23,1,Ellington,G,1,Detroit,1
+3,0,2,7,3,43,11,5,46,Reggie,1,1,100,24,0,1,Reggie Jackson,14,2,Jackson,G,2,Detroit,4
+4,0,2,0,0,0,9,5,56,Ish,2,1,50,24,3,1,Ish Smith,11,5,Smith,N/A,1,Detroit,1
+2,0,2,4,2,50,6,2,33,Langston,3,2,67,22,3,5,Langston Galloway,8,5,Galloway,N/A,1,Detroit,0
+2,0,0,7,2,29,11,5,46,Luke,4,4,100,25,0,4,Luke Kennard,16,0,Kennard,N/A,1,Detroit,2
+0,3,6,2,1,50,4,2,50,Thon,6,5,83,28,0,1,Thon Maker,10,6,Maker,N/A,1,Detroit,1
+1,0,0,0,0,0,1,0,0,Zaza,0,0,0,4,0,1,Zaza Pachulia,0,0,Pachulia,N/A,0,Detroit,0
+0,0,0,0,0,0,0,0,0,Glenn,0,0,0,1,0,0,Glenn Robinson III,0,0,Robinson,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jose,N/A,N/A,N/A,N/A,N/A,N/A,Jose Calderon,N/A,N/A,Calderon,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Khyri,N/A,N/A,N/A,N/A,N/A,N/A,Khyri Thomas,N/A,N/A,Thomas,N/A,N/A,Detroit,N/A
+7,0,3,8,2,25,12,5,42,Mikal,1,1,100,39,0,1,Mikal Bridges,13,3,Bridges,F,1,Phoenix,2
+4,1,2,2,0,0,4,1,25,Dragan,0,0,0,32,0,5,Dragan Bender,2,2,Bender,F,0,Phoenix,2
+1,1,5,0,0,0,12,9,75,Deandre,3,2,67,25,3,5,Deandre Ayton,20,8,Ayton,C,0,Phoenix,2
+2,0,2,3,0,0,7,1,14,Josh,1,1,100,24,0,4,Josh Jackson,3,2,Jackson,G,0,Phoenix,3
+2,0,5,5,2,40,17,8,47,Devin,10,8,80,32,0,3,Devin Booker,26,5,Booker,G,3,Phoenix,5
+1,2,3,0,0,0,4,2,50,Richaun,8,6,75,21,2,2,Richaun Holmes,10,5,Holmes,N/A,2,Phoenix,0
+2,0,1,2,1,50,4,3,75,De'Anthony,0,0,0,21,2,0,De'Anthony Melton,7,3,Melton,N/A,0,Phoenix,2
+1,0,3,3,1,33,6,3,50,Troy,0,0,0,21,0,5,Troy Daniels,7,3,Daniels,N/A,0,Phoenix,1
+2,0,1,3,1,33,5,2,40,Jamal,3,3,100,15,0,2,Jamal Crawford,8,1,Crawford,N/A,0,Phoenix,2
+0,0,3,0,0,0,2,1,50,Ray,0,0,0,8,0,0,Ray Spalding,2,3,Spalding,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elie,N/A,N/A,N/A,N/A,N/A,N/A,Elie Okobo,N/A,N/A,Okobo,N/A,N/A,Phoenix,N/A

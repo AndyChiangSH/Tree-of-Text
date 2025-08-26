@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,1,1,100,5,2,40,Andrew,2,1,50,19,1,4,Andrew Wiggins,6,3,Wiggins,F,2,Minnesota,2
+4,0,2,3,2,67,18,10,56,Thaddeus,4,4,100,34,2,2,Thaddeus Young,26,4,Young,F,2,Minnesota,1
+1,1,4,0,0,0,9,2,22,Nikola,2,1,50,29,4,2,Nikola Pekovic,5,8,Pekovic,C,0,Minnesota,3
+0,0,2,2,0,0,7,2,29,Corey,2,2,100,27,2,3,Corey Brewer,6,4,Brewer,G,1,Minnesota,2
+7,0,3,0,0,0,12,5,42,Ricky,3,2,67,36,3,4,Ricky Rubio,12,6,Rubio,G,1,Minnesota,7
+1,3,4,0,0,0,4,3,75,Gorgui,0,0,0,19,4,1,Gorgui Dieng,6,8,Dieng,N/A,0,Minnesota,1
+4,0,0,3,2,67,9,6,67,Mo,4,4,100,26,0,3,Mo Williams,18,0,Williams,N/A,1,Minnesota,3
+1,0,4,2,1,50,10,5,50,Shabazz,4,2,50,23,3,1,Shabazz Muhammad,13,7,Muhammad,N/A,1,Minnesota,1
+1,0,3,0,0,0,8,4,50,Anthony,2,1,50,14,0,1,Anthony Bennett,9,3,Bennett,N/A,0,Minnesota,3
+0,0,4,1,0,0,4,0,0,Chase,0,0,0,15,0,0,Chase Budinger,0,4,Budinger,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robbie,N/A,N/A,N/A,N/A,N/A,N/A,Robbie Hummel,N/A,N/A,Hummel,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zach,N/A,N/A,N/A,N/A,N/A,N/A,Zach LaVine,N/A,N/A,LaVine,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Glenn,N/A,N/A,N/A,N/A,N/A,N/A,Glenn Robinson,N/A,N/A,Robinson,N/A,N/A,Minnesota,N/A
+5,0,3,0,0,0,8,4,50,Tony,0,0,0,33,0,4,Tony Allen,8,3,Allen,F,3,Memphis,3
+1,1,7,0,0,0,16,12,75,Zach,1,1,100,35,6,3,Zach Randolph,25,13,Randolph,F,1,Memphis,5
+3,2,7,0,0,0,17,12,71,Marc,10,8,80,37,2,1,Marc Gasol,32,9,Gasol,C,2,Memphis,3
+3,1,0,4,2,50,11,5,46,Courtney,2,2,100,36,1,2,Courtney Lee,14,1,Lee,G,2,Memphis,3
+6,0,0,4,1,25,14,7,50,Mike,3,1,33,34,1,3,Mike Conley,16,1,Conley,G,1,Memphis,1
+0,0,1,0,0,0,0,0,0,Kosta,0,0,0,5,0,0,Kosta Koufos,0,1,Koufos,N/A,0,Memphis,1
+1,0,1,1,0,0,3,1,33,Beno,0,0,0,14,0,2,Beno Udrih,2,1,Udrih,N/A,0,Memphis,1
+1,0,0,2,1,50,2,1,50,Quincy,2,1,50,11,0,1,Quincy Pondexter,4,0,Pondexter,N/A,0,Memphis,0
+1,0,1,4,0,0,7,1,14,Vince,2,2,100,16,0,4,Vince Carter,4,1,Carter,N/A,1,Memphis,0
+0,1,3,0,0,0,4,0,0,Jon,0,0,0,19,0,1,Jon Leuer,0,3,Leuer,N/A,0,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Adams,N/A,N/A,Adams,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tayshaun,N/A,N/A,N/A,N/A,N/A,N/A,Tayshaun Prince,N/A,N/A,Prince,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarnell,N/A,N/A,N/A,N/A,N/A,N/A,Jarnell Stokes,N/A,N/A,Stokes,N/A,N/A,Memphis,N/A

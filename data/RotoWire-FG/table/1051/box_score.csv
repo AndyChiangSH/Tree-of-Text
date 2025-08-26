@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,2,3,2,0,0,6,1,17,Joe,0,0,0,32,1,3,Joe Ingles,2,4,Ingles,F,1,Utah,2
+1,3,5,3,0,0,13,6,46,Derrick,2,0,0,27,2,2,Derrick Favors,12,7,Favors,F,1,Utah,1
+3,1,12,0,0,0,8,4,50,Rudy,10,6,60,39,3,3,Rudy Gobert,14,15,Gobert,C,2,Utah,2
+1,0,1,12,6,50,24,8,33,Donovan,4,4,100,40,2,4,Donovan Mitchell,26,3,Mitchell,G,1,Utah,7
+1,0,0,1,1,100,5,4,80,Ricky,0,0,0,5,0,1,Ricky Rubio,9,0,Rubio,G,1,Utah,1
+3,0,4,9,2,22,11,3,27,Jae,5,4,80,29,1,4,Jae Crowder,12,5,Crowder,N/A,0,Utah,0
+5,0,6,3,2,67,8,4,50,Raul,0,0,0,29,0,1,Raul Neto,10,6,Neto,N/A,0,Utah,2
+0,0,2,5,1,20,9,4,44,Kyle,0,0,0,25,0,1,Kyle Korver,9,2,Korver,N/A,0,Utah,0
+0,0,2,2,2,100,2,2,100,Royce,2,2,100,12,2,2,Royce O'Neale,8,4,O'Neale,N/A,0,Utah,0
+0,0,0,0,0,0,0,0,0,Georges,0,0,0,1,0,0,Georges Niang,0,0,Niang,N/A,0,Utah,0
+0,0,0,0,0,0,0,0,0,Tyler,0,0,0,1,0,0,Tyler Cavanaugh,0,0,Cavanaugh,N/A,0,Utah,0
+0,0,0,0,0,0,0,0,0,Naz,0,0,0,1,0,0,Naz Mitrou-Long,0,0,Mitrou-Long,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe Udoh,N/A,N/A,Udoh,N/A,N/A,Utah,N/A
+5,0,7,5,2,40,15,5,33,Khris,3,2,67,33,0,2,Khris Middleton,14,7,Middleton,F,1,Milwaukee,1
+2,2,7,4,0,0,30,13,43,Giannis,6,4,67,35,3,6,Giannis Antetokounmpo,30,10,Antetokounmpo,F,1,Milwaukee,1
+1,3,7,4,3,75,6,5,83,Brook,2,2,100,31,1,0,Brook Lopez,15,8,Lopez,C,0,Milwaukee,1
+5,0,3,1,1,100,14,8,57,Malcolm,4,4,100,31,2,1,Malcolm Brogdon,21,5,Brogdon,G,0,Milwaukee,1
+6,0,3,4,0,0,11,3,27,Eric,0,0,0,28,1,0,Eric Bledsoe,6,4,Bledsoe,G,3,Milwaukee,6
+3,0,3,1,0,0,2,1,50,Sterling,0,0,0,13,0,3,Sterling Brown,2,3,Brown,N/A,0,Milwaukee,0
+0,1,0,0,0,0,6,3,50,Ersan,0,0,0,11,0,1,Ersan Ilyasova,6,0,Ilyasova,N/A,1,Milwaukee,0
+3,0,1,0,0,0,1,0,0,George,0,0,0,23,0,2,George Hill,0,1,Hill,N/A,2,Milwaukee,0
+1,0,3,3,2,67,8,6,75,Thon,1,1,100,18,2,2,Thon Maker,15,5,Maker,N/A,2,Milwaukee,0
+1,0,2,3,1,33,5,2,40,Tony,0,0,0,18,1,2,Tony Snell,5,3,Snell,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trevon,N/A,N/A,N/A,N/A,N/A,N/A,Trevon Duval,N/A,N/A,Duval,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Smith,N/A,N/A,Smith,N/A,N/A,Milwaukee,N/A

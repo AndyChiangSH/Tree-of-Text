@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,2,3,2,67,6,4,67,Iman,2,2,100,29,1,5,Iman Shumpert,12,3,Shumpert,F,1,Sacramento,0
+2,1,5,3,3,100,9,7,78,Nemanja,1,1,100,25,3,4,Nemanja Bjelica,18,8,Bjelica,F,0,Sacramento,2
+1,0,7,0,0,0,15,11,73,Willie,4,1,25,34,0,6,Willie Cauley-Stein,23,7,Cauley-Stein,C,2,Sacramento,0
+4,0,7,5,2,40,12,4,33,Buddy,0,0,0,30,0,3,Buddy Hield,10,7,Hield,G,0,Sacramento,3
+13,0,5,3,1,33,14,6,43,De'Aaron,5,4,80,37,1,2,De'Aaron Fox,17,6,Fox,G,0,Sacramento,2
+0,2,6,0,0,0,9,5,56,Marvin,2,1,50,27,0,3,Marvin Bagley III,11,6,Bagley,N/A,2,Sacramento,1
+4,0,4,9,3,33,19,7,37,Bogdan,1,1,100,30,1,4,Bogdan Bogdanovic,18,5,Bogdanovic,N/A,0,Sacramento,1
+0,0,2,1,0,0,3,2,67,Justin,2,2,100,15,1,1,Justin Jackson,6,3,Jackson,N/A,0,Sacramento,0
+1,0,0,1,0,0,1,0,0,Frank,2,2,100,5,0,1,Frank Mason,2,0,Mason,N/A,0,Sacramento,0
+0,0,2,0,0,0,1,1,100,Harry,0,0,0,8,1,1,Harry Giles III,2,3,Giles,N/A,0,Sacramento,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Yogi,N/A,N/A,N/A,N/A,N/A,N/A,Yogi Ferrell,N/A,N/A,Ferrell,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Skal,N/A,N/A,N/A,N/A,N/A,N/A,Skal Labissiere,N/A,N/A,Labissiere,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Williams,N/A,N/A,Williams,N/A,N/A,Sacramento,N/A
+7,0,3,7,2,29,9,3,33,Joe,7,4,57,37,0,4,Joe Ingles,12,3,Ingles,F,2,Utah,3
+1,2,5,2,0,0,7,4,57,Derrick,0,0,0,22,7,2,Derrick Favors,8,12,Favors,F,1,Utah,3
+1,2,11,0,0,0,7,4,57,Rudy,8,5,62,35,4,2,Rudy Gobert,13,15,Gobert,C,1,Utah,0
+3,1,2,9,4,44,23,13,56,Donovan,5,5,100,32,0,5,Donovan Mitchell,35,2,Mitchell,G,0,Utah,1
+7,1,3,7,3,43,15,4,27,Ricky,3,2,67,30,0,2,Ricky Rubio,13,3,Rubio,G,1,Utah,1
+1,1,5,10,2,20,14,5,36,Jae,6,4,67,37,0,1,Jae Crowder,16,5,Crowder,N/A,1,Utah,1
+0,0,2,3,1,33,6,3,50,Alec,0,0,0,17,0,2,Alec Burks,7,2,Burks,N/A,0,Utah,0
+0,0,1,1,0,0,4,1,25,Dante,2,2,100,14,0,1,Dante Exum,4,1,Exum,N/A,0,Utah,1
+0,0,0,0,0,0,0,0,0,Raul,0,0,0,2,0,1,Raul Neto,0,0,Neto,N/A,0,Utah,0
+1,0,2,0,0,0,3,1,33,Royce,0,0,0,14,1,1,Royce O'Neale,2,3,O'Neale,N/A,1,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Georges,N/A,N/A,N/A,N/A,N/A,N/A,Georges Niang,N/A,N/A,Niang,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thabo,N/A,N/A,N/A,N/A,N/A,N/A,Thabo Sefolosha,N/A,N/A,Sefolosha,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe Udoh,N/A,N/A,Udoh,N/A,N/A,Utah,N/A

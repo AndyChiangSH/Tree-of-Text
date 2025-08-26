@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,2,2,0,0,6,3,50,Jonathon,1,1,100,21,2,2,Jonathon Simmons,7,4,Simmons,F,2,Orlando,0
+3,2,6,2,0,0,8,4,50,Jonathan,0,0,0,32,3,2,Jonathan Isaac,8,9,Isaac,F,1,Orlando,0
+2,2,11,3,1,33,23,12,52,Nikola,4,4,100,35,3,1,Nikola Vucevic,29,14,Vucevic,C,0,Orlando,0
+7,0,3,6,3,50,18,9,50,Evan,9,8,89,37,0,5,Evan Fournier,29,3,Fournier,G,0,Orlando,3
+4,0,0,6,4,67,8,4,50,D.J.,3,3,100,28,0,3,D.J. Augustin,15,0,Augustin,G,0,Orlando,3
+1,1,5,0,0,0,0,0,0,Wes,0,0,0,12,0,2,Wes Iwundu,0,5,Iwundu,N/A,1,Orlando,0
+3,0,2,0,0,0,5,1,20,Isaiah,1,0,0,20,0,4,Isaiah Briscoe,2,2,Briscoe,N/A,0,Orlando,0
+7,0,5,7,1,14,15,7,47,Terrence,1,1,100,27,0,0,Terrence Ross,16,5,Ross,N/A,3,Orlando,2
+0,1,1,3,2,67,5,3,60,Jarell,0,0,0,16,0,2,Jarell Martin,8,1,Martin,N/A,0,Orlando,1
+0,1,1,0,0,0,3,3,100,Mo,2,2,100,13,1,1,Mo Bamba,8,2,Bamba,N/A,1,Orlando,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Khem,N/A,N/A,N/A,N/A,N/A,N/A,Khem Birch,N/A,N/A,Birch,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Melvin,N/A,N/A,N/A,N/A,N/A,N/A,Melvin Frazier Jr.,N/A,N/A,Frazier,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerian,N/A,N/A,N/A,N/A,N/A,N/A,Jerian Grant,N/A,N/A,Grant,N/A,N/A,Orlando,N/A
+1,0,2,5,1,20,10,4,40,Taurean,0,0,0,25,0,3,Taurean Prince,9,2,Prince,F,0,Atlanta,0
+3,0,7,3,1,33,12,5,42,John,6,3,50,32,3,4,John Collins,14,10,Collins,F,0,Atlanta,3
+1,0,6,7,5,71,14,8,57,Dewayne,3,3,100,27,3,3,Dewayne Dedmon,24,9,Dedmon,C,0,Atlanta,1
+7,2,1,3,0,0,11,5,46,DeAndre',1,1,100,34,1,5,DeAndre' Bembry,11,2,Bembry,G,4,Atlanta,1
+6,0,3,3,0,0,13,8,62,Trae,6,5,83,29,0,2,Trae Young,21,3,Young,G,0,Atlanta,4
+1,1,4,3,0,0,7,1,14,Alex,2,0,0,14,0,0,Alex Len,2,4,Len,N/A,0,Atlanta,0
+0,0,3,1,0,0,1,0,0,Omari,0,0,0,17,0,1,Omari Spellman,0,3,Spellman,N/A,0,Atlanta,2
+2,0,1,3,1,33,9,5,56,Jeremy,5,4,80,30,0,4,Jeremy Lin,15,1,Lin,N/A,0,Atlanta,2
+1,0,5,0,0,0,4,1,25,Daniel,0,0,0,16,1,1,Daniel Hamilton,2,6,Hamilton,N/A,1,Atlanta,0
+0,0,2,1,1,100,3,2,67,Tyler,0,0,0,10,0,0,Tyler Dorsey,5,2,Dorsey,N/A,0,Atlanta,0
+1,0,1,1,0,0,2,0,0,Vince,0,0,0,7,1,1,Vince Carter,0,2,Carter,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Anderson,N/A,N/A,Anderson,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Huerter,N/A,N/A,Huerter,N/A,N/A,Atlanta,N/A

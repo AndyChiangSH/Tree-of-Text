@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,3,5,1,20,15,8,53,Joe,0,0,0,38,0,2,Joe Ingles,17,3,Ingles,F,0,Utah,1
+2,0,3,5,0,0,12,5,42,Joe,2,2,100,29,0,1,Joe Johnson,12,3,Johnson,F,0,Utah,0
+1,1,4,0,0,0,4,1,25,Ekpe,1,1,100,27,1,6,Ekpe Udoh,3,5,Udoh,C,1,Utah,0
+1,0,2,2,0,0,7,3,43,Donovan,0,0,0,21,0,4,Donovan Mitchell,6,2,Mitchell,G,4,Utah,1
+4,0,3,2,1,50,12,6,50,Ricky,2,1,50,36,0,2,Ricky Rubio,14,3,Rubio,G,2,Utah,1
+4,0,3,10,5,50,18,10,56,Rodney,1,1,100,31,0,0,Rodney Hood,26,3,Hood,N/A,2,Utah,0
+0,0,2,3,1,33,8,3,38,Thabo,0,0,0,23,1,3,Thabo Sefolosha,7,3,Sefolosha,N/A,0,Utah,2
+1,0,3,0,0,0,5,3,60,Jonas,0,0,0,17,2,4,Jonas Jerebko,6,5,Jerebko,N/A,3,Utah,0
+0,0,3,0,0,0,8,3,38,Alec,2,2,100,16,1,0,Alec Burks,8,4,Burks,N/A,0,Utah,1
+0,0,1,0,0,0,2,0,0,Royce,0,0,0,2,0,0,Royce O'Neale,0,1,O'Neale,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Bradley,N/A,N/A,Bradley,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rudy,N/A,N/A,N/A,N/A,N/A,N/A,Rudy Gobert,N/A,N/A,Gobert,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nate,N/A,N/A,N/A,N/A,N/A,N/A,Nate Wolters,N/A,N/A,Wolters,N/A,N/A,Utah,N/A
+0,0,4,5,3,60,9,5,56,Trevor,2,2,100,41,2,1,Trevor Ariza,15,6,Ariza,F,1,Houston,1
+4,0,1,1,0,0,2,0,0,Ryan,0,0,0,19,1,0,Ryan Anderson,0,2,Anderson,F,1,Houston,2
+3,2,14,0,0,0,12,10,83,Clint,5,4,80,35,5,4,Clint Capela,24,19,Capela,C,0,Houston,2
+6,1,6,12,4,33,17,6,35,James,10,10,100,38,0,2,James Harden,26,6,Harden,G,2,Houston,5
+10,2,8,9,3,33,13,6,46,Chris,4,3,75,35,2,3,Chris Paul,18,10,Paul,G,1,Houston,2
+1,1,0,12,7,58,18,12,67,Eric,3,2,67,36,0,2,Eric Gordon,33,0,Gordon,N/A,0,Houston,0
+1,1,7,4,0,0,6,1,17,PJ,3,2,67,34,2,1,PJ Tucker,4,9,Tucker,N/A,0,Houston,0
+0,0,0,0,0,0,0,0,0,Tarik,0,0,0,3,0,0,Tarik Black,0,0,Black,N/A,0,Houston,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Brown,N/A,N/A,Brown,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Briante,N/A,N/A,N/A,N/A,N/A,N/A,Briante Weber,N/A,N/A,Weber,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zhou,N/A,N/A,N/A,N/A,N/A,N/A,Zhou Qi,N/A,N/A,Qi,N/A,N/A,Houston,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,7,0,0,0,4,2,50,Larry,1,1,100,26,2,2,Larry Nance Jr.,5,9,Nance,F,0,Los Angeles,0
+5,1,4,1,0,0,12,2,17,Brandon,1,1,100,41,3,2,Brandon Ingram,5,7,Ingram,F,1,Los Angeles,5
+3,1,1,6,2,33,13,5,38,Brook,2,2,100,23,3,2,Brook Lopez,14,4,Lopez,C,0,Los Angeles,4
+3,0,2,14,4,29,20,8,40,Kentavious,4,4,100,38,2,1,Kentavious Caldwell-Pope,24,4,Caldwell-Pope,G,3,Los Angeles,1
+6,1,7,6,3,50,13,6,46,Lonzo,3,2,67,40,1,3,Lonzo Ball,17,8,Ball,G,2,Los Angeles,1
+1,2,3,6,3,50,17,8,47,Kyle,0,0,0,30,3,4,Kyle Kuzma,19,6,Kuzma,N/A,0,Los Angeles,0
+2,1,2,0,0,0,11,6,55,Julius,3,1,33,28,2,5,Julius Randle,13,4,Randle,N/A,0,Los Angeles,3
+3,0,2,2,1,50,11,5,46,Jordan,1,1,100,20,4,0,Jordan Clarkson,12,6,Clarkson,N/A,0,Los Angeles,1
+0,0,1,0,0,0,1,0,0,Corey,0,0,0,9,0,0,Corey Brewer,0,1,Brewer,N/A,0,Los Angeles,1
+0,0,3,0,0,0,0,0,0,Josh,0,0,0,10,0,0,Josh Hart,0,3,Hart,N/A,0,Los Angeles,0
+0,0,0,0,0,0,0,0,0,Andrew,0,0,0,0,0,0,Andrew Bogut,0,0,Bogut,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ennis,N/A,N/A,Ennis,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ivica,N/A,N/A,N/A,N/A,N/A,N/A,Ivica Zubac,N/A,N/A,Zubac,N/A,N/A,Los Angeles,N/A
+1,5,8,8,5,62,26,14,54,Kristaps,5,4,80,40,3,3,Kristaps Porzingis,37,11,Porzingis,F,1,New York,3
+0,0,3,2,1,50,2,1,50,Lance,2,2,100,23,0,0,Lance Thomas,5,3,Thomas,F,1,New York,1
+0,0,7,0,0,0,10,7,70,Enes,0,0,0,27,4,2,Enes Kanter,14,11,Kanter,C,0,New York,1
+4,0,2,4,0,0,17,5,29,Courtney,0,0,0,40,1,3,Courtney Lee,10,3,Lee,G,2,New York,1
+10,0,6,1,0,0,6,1,17,Jarrett,2,1,50,26,0,0,Jarrett Jack,3,6,Jack,G,0,New York,2
+0,0,1,2,0,0,11,5,46,Doug,0,0,0,33,1,1,Doug McDermott,10,2,McDermott,N/A,0,New York,2
+5,0,3,4,3,75,11,5,46,Frank,0,0,0,29,2,2,Frank Ntilikina,13,5,Ntilikina,N/A,1,New York,1
+2,1,2,0,0,0,4,4,100,Kyle,0,0,0,14,1,3,Kyle O'Quinn,8,3,O'Quinn,N/A,0,New York,2
+1,1,0,1,0,0,1,0,0,Ron,0,0,0,11,0,1,Ron Baker,0,0,Baker,N/A,1,New York,0
+2,0,2,0,0,0,13,6,46,Michael,2,1,50,22,3,1,Michael Beasley,13,5,Beasley,N/A,1,New York,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damyean,N/A,N/A,N/A,N/A,N/A,N/A,Damyean Dotson,N/A,N/A,Dotson,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willy,N/A,N/A,N/A,N/A,N/A,N/A,Willy Hernangomez,N/A,N/A,Hernangomez,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ramon,N/A,N/A,N/A,N/A,N/A,N/A,Ramon Sessions,N/A,N/A,Sessions,N/A,N/A,New York,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,1,0,0,0,1,0,0,Mike,0,0,0,21,0,4,Mike Miller,0,1,Miller,F,0,Cleveland,2
+1,1,5,4,3,75,15,9,60,Kevin,10,6,60,38,0,3,Kevin Love,27,5,Love,F,0,Cleveland,1
+0,3,8,0,0,0,10,5,50,Tristan,6,4,67,43,6,3,Tristan Thompson,14,14,Thompson,C,0,Cleveland,2
+4,0,6,2,1,50,4,1,25,Matthew,0,0,0,34,1,5,Matthew Dellavedova,3,7,Dellavedova,G,0,Cleveland,0
+3,0,3,2,0,0,27,8,30,Kyrie,8,7,88,42,1,1,Kyrie Irving,23,4,Irving,G,4,Cleveland,1
+2,0,2,4,0,0,21,8,38,Dion,2,1,50,34,3,2,Dion Waiters,17,5,Waiters,N/A,4,Cleveland,1
+2,1,8,2,0,0,7,2,29,Shawn,4,3,75,24,2,3,Shawn Marion,7,10,Marion,N/A,0,Cleveland,0
+0,0,0,0,0,0,0,0,0,Brendan,0,0,0,3,0,2,Brendan Haywood,0,0,Haywood,N/A,0,Cleveland,0
+0,0,0,1,0,0,2,0,0,James,0,0,0,3,0,0,James Jones,0,0,Jones,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lou,N/A,N/A,N/A,N/A,N/A,N/A,Lou Amundson,N/A,N/A,Amundson,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Harris,N/A,N/A,Harris,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alex,N/A,N/A,N/A,N/A,N/A,N/A,Alex Kirk,N/A,N/A,Kirk,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,A.J.,N/A,N/A,N/A,N/A,N/A,N/A,A.J. Price,N/A,N/A,Price,N/A,N/A,Cleveland,N/A
+1,0,6,0,0,0,11,5,46,Michael,5,2,40,29,4,4,Michael Kidd-Gilchrist,12,10,Kidd-Gilchrist,F,0,Charlotte,5
+3,3,5,0,0,0,7,4,57,Cody,0,0,0,20,2,2,Cody Zeller,8,7,Zeller,F,0,Charlotte,0
+0,0,6,0,0,0,0,0,0,Bismack,2,2,100,27,2,3,Bismack Biyombo,2,8,Biyombo,C,1,Charlotte,2
+4,0,5,1,0,0,17,6,35,Gerald,2,2,100,27,3,3,Gerald Henderson,14,8,Henderson,G,0,Charlotte,2
+5,2,2,8,1,13,16,4,25,Kemba,3,1,33,40,0,2,Kemba Walker,10,2,Walker,G,2,Charlotte,2
+3,0,1,7,1,14,16,5,31,Gary,0,0,0,24,0,1,Gary Neal,11,1,Neal,N/A,0,Charlotte,1
+0,1,4,0,0,0,4,1,25,Jason,10,6,60,17,1,2,Jason Maxiell,8,5,Maxiell,N/A,0,Charlotte,0
+2,0,4,7,2,29,7,2,29,Marvin,4,4,100,29,2,3,Marvin Williams,10,6,Williams,N/A,1,Charlotte,1
+1,0,1,4,2,50,6,3,50,PJ,0,0,0,17,1,4,PJ Hairston,8,2,Hairston,N/A,1,Charlotte,0
+1,0,1,1,0,0,3,2,67,Brian,0,0,0,10,0,0,Brian Roberts,4,1,Roberts,N/A,0,Charlotte,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lance,N/A,N/A,N/A,N/A,N/A,N/A,Lance Stephenson,N/A,N/A,Stephenson,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Noah,N/A,N/A,N/A,N/A,N/A,N/A,Noah Vonleh,N/A,N/A,Vonleh,N/A,N/A,Charlotte,N/A

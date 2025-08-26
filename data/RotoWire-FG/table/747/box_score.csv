@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,5,5,0,0,13,5,38,Caris,0,0,0,25,0,1,Caris LeVert,10,5,LeVert,F,1,Brooklyn,2
+1,1,6,0,0,0,7,2,29,Rondae,2,2,100,31,2,2,Rondae Hollis-Jefferson,6,8,Hollis-Jefferson,F,0,Brooklyn,2
+4,0,7,4,0,0,11,4,36,Justin,0,0,0,30,2,0,Justin Hamilton,8,9,Hamilton,C,1,Brooklyn,1
+2,0,1,6,0,0,10,1,10,Randy,0,0,0,20,0,1,Randy Foye,2,1,Foye,G,2,Brooklyn,1
+2,0,3,5,1,20,5,1,20,Spencer,2,2,100,31,1,4,Spencer Dinwiddie,5,4,Dinwiddie,G,1,Brooklyn,1
+2,0,3,4,1,25,10,2,20,Isaiah,0,0,0,26,0,3,Isaiah Whitehead,5,3,Whitehead,N/A,0,Brooklyn,3
+0,0,4,1,0,0,6,1,17,Andrew,0,0,0,23,1,2,Andrew Nicholson,2,5,Nicholson,N/A,2,Brooklyn,2
+4,1,3,2,0,0,11,7,64,Archie,10,6,60,29,4,3,Archie Goodwin,20,7,Goodwin,N/A,1,Brooklyn,5
+0,1,6,6,1,17,13,5,38,KJ,4,4,100,26,0,0,KJ McDaniels,15,6,McDaniels,N/A,0,Brooklyn,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trevor,N/A,N/A,N/A,N/A,N/A,N/A,Trevor Booker,N/A,N/A,Booker,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Lin,N/A,N/A,Lin,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brook,N/A,N/A,N/A,N/A,N/A,N/A,Brook Lopez,N/A,N/A,Lopez,N/A,N/A,Brooklyn,N/A
+4,2,5,3,1,33,19,8,42,Jimmy,9,8,89,35,1,1,Jimmy Butler,25,6,Butler,F,4,Chicago,1
+2,1,5,8,2,25,12,3,25,Nikola,2,1,50,23,4,4,Nikola Mirotic,9,9,Mirotic,F,3,Chicago,1
+1,1,6,0,0,0,4,2,50,Robin,6,5,83,23,2,2,Robin Lopez,9,8,Lopez,C,0,Chicago,1
+4,0,2,0,0,0,9,3,33,Dwyane,2,1,50,22,0,1,Dwyane Wade,7,2,Wade,G,0,Chicago,6
+5,0,2,2,2,100,9,4,44,Rajon,0,0,0,20,4,3,Rajon Rondo,10,6,Rondo,G,1,Chicago,1
+2,0,6,4,1,25,7,2,29,Jerian,0,0,0,22,0,0,Jerian Grant,5,6,Grant,N/A,2,Chicago,1
+2,0,6,7,5,71,13,8,62,Paul,0,0,0,28,0,3,Paul Zipser,21,6,Zipser,N/A,0,Chicago,0
+3,0,8,2,1,50,11,5,46,Bobby,2,1,50,25,2,1,Bobby Portis,12,10,Portis,N/A,2,Chicago,1
+1,0,4,0,0,0,3,1,33,Cristiano,0,0,0,19,0,2,Cristiano Felicio,2,4,Felicio,N/A,1,Chicago,0
+2,0,3,0,0,0,1,1,100,Joffrey,0,0,0,6,1,0,Joffrey Lauvergne,2,4,Lauvergne,N/A,0,Chicago,0
+1,0,0,0,0,0,0,0,0,Michael,0,0,0,6,0,0,Michael Carter-Williams,0,0,Carter-Williams,N/A,1,Chicago,0
+1,0,1,3,1,33,4,2,50,Denzel,0,0,0,6,0,1,Denzel Valentine,5,1,Valentine,N/A,1,Chicago,0
+0,0,0,1,1,100,3,2,67,Anthony,0,0,0,4,0,0,Anthony Morrow,5,0,Morrow,N/A,0,Chicago,0

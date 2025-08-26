@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,8,0,0,0,10,4,40,Taurean,2,2,100,26,2,2,Taurean Prince,10,10,Prince,F,0,Atlanta,1
+0,1,3,1,0,0,4,2,50,Ersan,2,2,100,24,3,5,Ersan Ilyasova,6,6,Ilyasova,F,1,Atlanta,0
+1,3,5,0,0,0,6,3,50,Dewayne,4,3,75,26,2,2,Dewayne Dedmon,9,7,Dedmon,C,0,Atlanta,4
+3,0,3,1,1,100,7,3,43,Kent,0,0,0,27,1,2,Kent Bazemore,7,4,Bazemore,G,1,Atlanta,1
+7,0,2,3,1,33,26,13,50,Dennis,2,1,50,34,0,1,Dennis Schroder,28,2,Schroder,G,2,Atlanta,2
+1,0,2,0,0,0,10,6,60,John,3,2,67,22,3,1,John Collins,14,5,Collins,N/A,2,Atlanta,1
+3,0,3,6,4,67,14,7,50,Marco,2,2,100,26,0,0,Marco Belinelli,20,3,Belinelli,N/A,3,Atlanta,1
+2,0,3,1,0,0,3,2,67,Mike,0,0,0,14,1,2,Mike Muscala,4,4,Muscala,N/A,0,Atlanta,0
+0,0,1,2,1,50,4,2,50,Malcolm,0,0,0,11,0,1,Malcolm Delaney,5,1,Delaney,N/A,0,Atlanta,1
+1,1,5,1,0,0,6,3,50,DeAndre',0,0,0,18,1,0,DeAndre' Bembry,6,6,Bembry,N/A,2,Atlanta,2
+1,0,1,1,1,100,1,1,100,Josh,0,0,0,4,0,2,Josh Magette,3,1,Magette,N/A,0,Atlanta,0
+0,0,0,2,1,50,3,2,67,Luke,0,0,0,9,1,0,Luke Babbitt,5,1,Babbitt,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Dorsey,N/A,N/A,Dorsey,N/A,N/A,Atlanta,N/A
+5,0,6,9,5,56,12,5,42,Wesley,0,0,0,37,2,4,Wesley Matthews,15,8,Matthews,F,1,Dallas,5
+3,0,6,6,0,0,13,3,23,Harrison,9,8,89,38,1,0,Harrison Barnes,14,7,Barnes,F,1,Dallas,2
+0,0,5,7,2,29,14,4,29,Dirk,1,0,0,24,1,3,Dirk Nowitzki,10,6,Nowitzki,C,0,Dallas,0
+2,0,0,4,3,75,7,3,43,Yogi,0,0,0,32,0,2,Yogi Ferrell,9,0,Ferrell,G,1,Dallas,0
+10,0,1,4,1,25,12,6,50,Dennis,4,3,75,30,2,2,Dennis Smith Jr.,16,3,Smith,G,0,Dallas,3
+0,3,9,0,0,0,6,6,100,Nerlens,4,4,100,20,2,2,Nerlens Noel,16,11,Noel,N/A,1,Dallas,0
+5,0,3,5,3,60,7,4,57,J.J.,2,2,100,18,0,1,J.J. Barea,13,3,Barea,N/A,0,Dallas,0
+2,0,0,5,1,20,9,4,44,Devin,1,1,100,16,0,1,Devin Harris,10,0,Harris,N/A,0,Dallas,2
+0,1,0,3,2,67,3,2,67,Dwight,0,0,0,14,0,2,Dwight Powell,6,0,Powell,N/A,1,Dallas,1
+0,0,2,2,0,0,3,1,33,Dorian,0,0,0,11,1,2,Dorian Finney-Smith,2,3,Finney-Smith,N/A,0,Dallas,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Maxi,N/A,N/A,N/A,N/A,N/A,N/A,Maxi Kleber,N/A,N/A,Kleber,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Salah,N/A,N/A,N/A,N/A,N/A,N/A,Salah Mejri,N/A,N/A,Mejri,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Withey,N/A,N/A,Withey,N/A,N/A,Dallas,N/A

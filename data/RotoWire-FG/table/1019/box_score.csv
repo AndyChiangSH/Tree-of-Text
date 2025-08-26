@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,3,3,0,0,8,3,38,Iman,0,0,0,23,1,0,Iman Shumpert,6,4,Shumpert,F,0,Sacramento,1
+2,0,3,2,1,50,8,6,75,Nemanja,0,0,0,30,1,2,Nemanja Bjelica,13,4,Bjelica,F,0,Sacramento,1
+3,0,4,0,0,0,5,5,100,Willie,2,0,0,27,2,3,Willie Cauley-Stein,10,6,Cauley-Stein,C,2,Sacramento,1
+2,2,3,8,5,62,17,9,53,Buddy,2,2,100,33,1,2,Buddy Hield,25,4,Hield,G,0,Sacramento,1
+12,0,2,5,4,80,16,12,75,De'Aaron,3,2,67,29,0,4,De'Aaron Fox,30,2,Fox,G,3,Sacramento,1
+2,0,6,0,0,0,5,3,60,Kosta,0,0,0,14,2,1,Kosta Koufos,6,8,Koufos,N/A,0,Sacramento,1
+4,0,3,5,1,20,18,7,39,Bogdan,0,0,0,23,1,3,Bogdan Bogdanovic,15,4,Bogdanovic,N/A,0,Sacramento,0
+1,1,0,1,1,100,9,8,89,Marvin,0,0,0,25,1,1,Marvin Bagley III,17,1,Bagley,N/A,1,Sacramento,2
+3,0,0,3,1,33,7,3,43,Justin,0,0,0,23,0,1,Justin Jackson,7,0,Jackson,N/A,0,Sacramento,0
+0,1,0,0,0,0,1,0,0,Troy,0,0,0,4,1,1,Troy Williams,0,1,Williams,N/A,0,Sacramento,0
+1,0,1,1,0,0,2,0,0,Frank,0,0,0,7,0,0,Frank Mason,0,1,Mason,N/A,0,Sacramento,1
+0,0,0,1,0,0,2,0,0,Yogi,0,0,0,3,0,0,Yogi Ferrell,0,0,Ferrell,N/A,0,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Harry,N/A,N/A,N/A,N/A,N/A,N/A,Harry Giles III,N/A,N/A,Giles,N/A,N/A,Sacramento,N/A
+3,0,4,6,1,17,13,4,31,Cedi,2,1,50,32,2,3,Cedi Osman,10,6,Osman,F,2,Cleveland,2
+0,0,5,0,0,0,5,4,80,Larry,4,3,75,31,2,5,Larry Nance Jr.,11,7,Nance,F,0,Cleveland,1
+2,0,5,0,0,0,3,2,67,Tristan,0,0,0,30,1,2,Tristan Thompson,4,6,Thompson,C,0,Cleveland,3
+1,0,0,2,0,0,3,1,33,Rodney,2,2,100,15,0,2,Rodney Hood,4,0,Hood,G,0,Cleveland,0
+2,0,0,2,0,0,16,9,56,Collin,6,5,83,35,1,4,Collin Sexton,23,1,Sexton,G,0,Cleveland,5
+1,0,4,7,4,57,19,11,58,Jordan,1,0,0,30,0,1,Jordan Clarkson,26,4,Clarkson,N/A,1,Cleveland,2
+9,0,7,6,3,50,14,8,57,Alec,4,3,75,38,0,0,Alec Burks,22,7,Burks,N/A,1,Cleveland,2
+0,0,0,1,0,0,3,1,33,Jaron,0,0,0,17,0,0,Jaron Blossomgame,2,0,Blossomgame,N/A,0,Cleveland,1
+0,0,2,0,0,0,2,1,50,Ante,0,0,0,5,1,0,Ante Zizic,2,3,Zizic,N/A,0,Cleveland,0
+2,0,1,0,0,0,1,0,0,Jalen,0,0,0,5,0,0,Jalen Jones,0,1,Jones,N/A,0,Cleveland,0
+0,0,0,2,2,100,2,2,100,Channing,0,0,0,4,0,0,Channing Frye,6,0,Frye,N/A,0,Cleveland,0

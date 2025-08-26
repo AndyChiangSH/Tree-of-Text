@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,9,3,1,33,10,7,70,Otto,2,1,50,41,2,2,Otto Porter Jr.,16,11,Porter,F,2,Washington,0
+0,1,2,1,0,0,7,2,29,Markieff,1,1,100,11,1,0,Markieff Morris,5,3,Morris,F,0,Washington,0
+4,1,5,0,0,0,13,7,54,Marcin,5,2,40,39,8,1,Marcin Gortat,16,13,Gortat,C,1,Washington,0
+4,1,1,7,4,57,19,9,47,Bradley,7,5,71,40,0,4,Bradley Beal,27,1,Beal,G,1,Washington,3
+16,2,4,5,1,20,20,9,45,John,2,1,50,39,0,1,John Wall,20,4,Wall,G,1,Washington,8
+0,2,1,4,2,50,8,5,62,Kelly,0,0,0,26,0,3,Kelly Oubre Jr.,12,1,Oubre,N/A,0,Washington,1
+1,0,1,0,0,0,2,0,0,Brandon,0,0,0,13,0,0,Brandon Jennings,0,1,Jennings,N/A,0,Washington,0
+1,0,3,3,2,67,5,3,60,Bojan,3,2,67,19,0,3,Bojan Bogdanovic,10,3,Bogdanovic,N/A,1,Washington,0
+0,0,0,0,0,0,3,2,67,Jason,2,1,50,10,1,0,Jason Smith,5,1,Smith,N/A,0,Washington,0
+0,0,0,0,0,0,0,0,0,Tomas,0,0,0,1,0,0,Tomas Satoransky,0,0,Satoransky,N/A,0,Washington,0
+0,0,0,0,0,0,0,0,0,Daniel,0,0,0,1,0,0,Daniel Ochefu,0,0,Ochefu,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Burke,N/A,N/A,Burke,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sheldon,N/A,N/A,N/A,N/A,N/A,N/A,Sheldon Mac,N/A,N/A,Mac,N/A,N/A,Washington,N/A
+0,0,0,0,0,0,0,0,0,Gerald,0,0,0,7,0,0,Gerald Green,0,0,Green,F,0,Boston,0
+1,0,4,8,6,75,14,8,57,Jae,2,2,100,35,2,3,Jae Crowder,24,6,Crowder,F,1,Boston,0
+10,1,4,3,1,33,13,10,77,Al,0,0,0,35,5,3,Al Horford,21,9,Horford,C,0,Boston,3
+4,0,2,9,3,33,20,7,35,Avery,1,1,100,39,3,5,Avery Bradley,18,5,Bradley,G,4,Boston,1
+9,1,1,11,5,46,23,11,48,Isaiah,7,6,86,38,0,0,Isaiah Thomas,33,1,Thomas,G,0,Boston,2
+0,1,0,0,0,0,1,0,0,Amir,0,0,0,9,0,2,Amir Johnson,0,0,Johnson,N/A,0,Boston,0
+4,3,3,3,1,33,5,2,40,Marcus,2,1,50,31,0,4,Marcus Smart,6,3,Smart,N/A,3,Boston,2
+2,0,4,2,2,100,7,5,71,Kelly,1,0,0,18,0,4,Kelly Olynyk,12,4,Olynyk,N/A,0,Boston,2
+1,1,6,2,0,0,3,1,33,Terry,2,2,100,15,2,4,Terry Rozier,4,8,Rozier,N/A,0,Boston,0
+0,0,0,0,0,0,1,0,0,Jonas,0,0,0,6,0,0,Jonas Jerebko,0,0,Jerebko,N/A,0,Boston,0
+1,0,2,1,1,100,3,2,67,Jaylen,0,0,0,6,0,0,Jaylen Brown,5,2,Brown,N/A,0,Boston,1
+0,0,0,0,0,0,0,0,0,James,0,0,0,1,0,0,James Young,0,0,Young,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Zeller,N/A,N/A,Zeller,N/A,N/A,Boston,N/A

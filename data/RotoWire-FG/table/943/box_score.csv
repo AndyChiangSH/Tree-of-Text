@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,2,8,3,1,33,20,9,45,Michael,5,3,60,35,0,0,Michael Beasley,22,8,Beasley,F,0,New York,1
+1,0,1,2,1,50,3,1,33,Lance,0,0,0,19,0,3,Lance Thomas,3,1,Thomas,F,0,New York,1
+1,1,11,0,0,0,11,5,46,Enes,9,7,78,31,3,5,Enes Kanter,17,14,Kanter,C,0,New York,3
+2,0,1,8,2,25,13,3,23,Tim,2,1,50,33,2,3,Tim Hardaway Jr.,9,3,Hardaway,G,0,New York,1
+6,0,1,5,2,40,15,7,47,Trey,2,2,100,28,1,0,Trey Burke,18,2,Burke,G,1,New York,3
+1,0,3,6,0,0,7,1,14,Luke,0,0,0,18,0,1,Luke Kornet,2,3,Kornet,N/A,0,New York,0
+1,0,6,3,1,33,6,1,17,Frank,0,0,0,24,0,3,Frank Ntilikina,3,6,Ntilikina,N/A,0,New York,3
+1,0,0,0,0,0,0,0,0,Isaiah,0,0,0,5,1,0,Isaiah Hicks,0,1,Hicks,N/A,0,New York,0
+2,2,3,2,1,50,15,8,53,Emmanuel,6,5,83,25,1,3,Emmanuel Mudiay,22,4,Mudiay,N/A,1,New York,3
+2,0,2,2,1,50,4,1,25,Troy,2,2,100,22,2,4,Troy Williams,5,4,Williams,N/A,2,New York,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damyean,N/A,N/A,N/A,N/A,N/A,N/A,Damyean Dotson,N/A,N/A,Dotson,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett Jack,N/A,N/A,Jack,N/A,N/A,New York,N/A
+1,1,3,8,2,25,16,7,44,Robert,1,1,100,33,1,4,Robert Covington,17,4,Covington,F,3,Philadelphia,1
+5,0,10,5,2,40,19,9,47,Dario,6,6,100,36,4,1,Dario Saric,26,14,Saric,F,2,Philadelphia,2
+0,0,1,1,0,0,6,2,33,Joel,2,1,50,9,2,1,Joel Embiid,5,3,Embiid,C,0,Philadelphia,1
+5,0,6,10,3,30,17,8,47,JJ,2,2,100,31,0,1,JJ Redick,21,6,Redick,G,1,Philadelphia,1
+10,1,6,0,0,0,7,6,86,Ben,4,1,25,34,2,1,Ben Simmons,13,8,Simmons,G,0,Philadelphia,4
+1,0,1,0,0,0,0,0,0,T.J.,0,0,0,10,0,0,T.J. McConnell,0,1,McConnell,N/A,0,Philadelphia,0
+2,0,2,3,2,67,7,4,57,Marco,4,4,100,25,0,4,Marco Belinelli,14,2,Belinelli,N/A,1,Philadelphia,1
+7,1,5,0,0,0,5,1,20,Markelle,2,1,50,14,0,2,Markelle Fultz,3,5,Fultz,N/A,1,Philadelphia,0
+1,0,4,0,0,0,11,6,55,Richaun,6,3,50,22,3,3,Richaun Holmes,15,7,Holmes,N/A,0,Philadelphia,0
+2,0,6,4,0,0,10,2,20,Ersan,0,0,0,26,2,2,Ersan Ilyasova,4,8,Ilyasova,N/A,1,Philadelphia,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd Bayless,N/A,N/A,Bayless,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Furkan,N/A,N/A,N/A,N/A,N/A,N/A,Furkan Korkmaz,N/A,N/A,Korkmaz,N/A,N/A,Philadelphia,N/A

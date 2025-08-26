@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,6,2,1,50,9,5,56,Solomon,4,3,75,37,2,5,Solomon Hill,14,8,Hill,F,1,Indiana,2
+3,1,7,0,0,0,6,3,50,Luis,0,0,0,23,0,3,Luis Scola,6,7,Scola,F,1,Indiana,0
+4,5,7,1,0,0,7,0,0,Roy,2,2,100,31,2,2,Roy Hibbert,2,9,Hibbert,C,0,Indiana,1
+2,0,2,4,0,0,13,2,15,CJ,2,2,100,27,1,3,CJ Miles,6,3,Miles,G,0,Indiana,2
+7,0,6,10,4,40,21,10,48,Donald,10,7,70,43,0,4,Donald Sloan,31,6,Sloan,G,0,Indiana,5
+4,0,9,9,3,33,21,8,38,Chris,0,0,0,37,3,1,Chris Copeland,19,12,Copeland,N/A,1,Indiana,4
+0,1,4,0,0,0,5,3,60,Ian,0,0,0,21,2,2,Ian Mahinmi,6,6,Mahinmi,N/A,0,Indiana,1
+0,1,1,1,0,0,3,2,67,Damjan,2,2,100,16,0,2,Damjan Rudez,6,1,Rudez,N/A,0,Indiana,1
+0,0,1,0,0,0,5,2,40,Lavoy,0,0,0,30,4,5,Lavoy Allen,4,5,Allen,N/A,0,Indiana,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rodney,N/A,N/A,N/A,N/A,N/A,N/A,Rodney Stuckey,N/A,N/A,Stuckey,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Watson,N/A,N/A,Watson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,David,N/A,N/A,N/A,N/A,N/A,N/A,David West,N/A,N/A,West,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shayne,N/A,N/A,N/A,N/A,N/A,N/A,Shayne Whittington,N/A,N/A,Whittington,N/A,N/A,Indiana,N/A
+2,1,4,4,0,0,15,3,20,Paul,5,5,100,37,0,2,Paul Pierce,11,4,Pierce,F,1,Washington,1
+3,1,6,0,0,0,7,3,43,Nene,2,2,100,35,1,4,Nene,8,7,N/A,F,0,Washington,2
+1,2,9,0,0,0,10,4,40,Marcin,7,6,86,39,1,2,Marcin Gortat,14,10,Gortat,C,1,Washington,0
+4,0,6,7,4,57,14,6,43,Garrett,0,0,0,43,1,3,Garrett Temple,16,7,Temple,G,2,Washington,1
+10,1,5,3,1,33,21,11,52,John,9,8,89,43,1,2,John Wall,31,6,Wall,G,3,Washington,5
+0,1,1,2,1,50,7,1,14,Drew,0,0,0,16,1,2,Drew Gooden,3,2,Gooden,N/A,0,Washington,0
+2,0,1,1,1,100,5,1,20,Otto,0,0,0,22,0,2,Otto Porter,3,1,Porter,N/A,0,Washington,0
+1,0,1,0,0,0,2,1,50,Andre,0,0,0,10,1,2,Andre Miller,2,2,Miller,N/A,0,Washington,0
+1,1,2,0,0,0,5,3,60,Kevin,0,0,0,14,0,3,Kevin Seraphin,6,2,Seraphin,N/A,0,Washington,3
+0,0,1,0,0,0,3,1,33,Glen,0,0,0,4,1,0,Glen Rice,2,2,Rice,N/A,0,Washington,0
+0,0,0,0,0,0,2,0,0,Kris,0,0,0,2,0,0,Kris Humphries,0,0,Humphries,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeJuan,N/A,N/A,N/A,N/A,N/A,N/A,DeJuan Blair,N/A,N/A,Blair,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rasual,N/A,N/A,N/A,N/A,N/A,N/A,Rasual Butler,N/A,N/A,Butler,N/A,N/A,Washington,N/A

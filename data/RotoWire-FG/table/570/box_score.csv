@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,3,4,1,25,13,4,31,Gordon,0,0,0,37,0,1,Gordon Hayward,9,3,Hayward,F,0,Utah,1
+2,2,4,0,0,0,18,11,61,Derrick,5,2,40,36,2,3,Derrick Favors,24,6,Favors,F,1,Utah,3
+1,1,5,0,0,0,4,1,25,Rudy,0,0,0,27,2,0,Rudy Gobert,2,7,Gobert,C,1,Utah,1
+1,0,2,10,3,30,17,5,29,Rodney,1,1,100,38,1,0,Rodney Hood,14,3,Hood,G,1,Utah,0
+8,0,3,3,2,67,11,5,46,Shelvin,4,3,75,34,2,0,Shelvin Mack,15,5,Mack,G,1,Utah,2
+1,0,2,1,0,0,3,1,33,Trevor,0,0,0,12,1,2,Trevor Booker,2,3,Booker,N/A,0,Utah,0
+2,1,4,5,1,20,7,1,14,Joe,0,0,0,18,2,3,Joe Ingles,3,6,Ingles,N/A,0,Utah,2
+1,0,1,1,1,100,5,4,80,Raul,0,0,0,13,0,1,Raul Neto,9,1,Neto,N/A,1,Utah,0
+1,0,1,2,0,0,5,2,40,Trey,0,0,0,14,2,1,Trey Lyles,4,3,Lyles,N/A,0,Utah,0
+0,0,0,1,0,0,3,1,33,Chris,2,1,50,12,3,3,Chris Johnson,3,3,Johnson,N/A,0,Utah,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Burke,N/A,N/A,Burke,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Withey,N/A,N/A,Withey,N/A,N/A,Utah,N/A
+1,0,3,3,0,0,3,0,0,Mike,1,1,100,26,0,1,Mike Dunleavy,1,3,Dunleavy,F,1,Chicago,2
+3,2,4,0,0,0,9,7,78,Taj,1,1,100,31,6,2,Taj Gibson,15,10,Gibson,F,2,Chicago,1
+0,0,2,0,0,0,3,2,67,Cristiano,0,0,0,12,0,1,Cristiano Felicio,4,2,Felicio,C,1,Chicago,1
+6,0,5,0,0,0,14,6,43,Jimmy,2,1,50,33,0,1,Jimmy Butler,13,5,Butler,G,0,Chicago,1
+4,0,2,2,2,100,15,10,67,Derrick,0,0,0,31,1,2,Derrick Rose,22,3,Rose,G,0,Chicago,3
+3,2,6,6,2,33,12,5,42,Nikola,4,3,75,33,0,2,Nikola Mirotic,15,6,Mirotic,N/A,0,Chicago,0
+2,0,1,2,0,0,4,2,50,Aaron,0,0,0,17,0,2,Aaron Brooks,4,1,Brooks,N/A,0,Chicago,2
+2,0,4,2,1,50,9,3,33,Doug,0,0,0,22,1,1,Doug McDermott,7,5,McDermott,N/A,0,Chicago,0
+1,0,2,2,0,0,4,1,25,Justin,0,0,0,15,0,0,Justin Holiday,2,2,Holiday,N/A,0,Chicago,1
+2,2,2,2,1,50,7,3,43,Bobby,3,2,67,20,3,0,Bobby Portis,9,5,Portis,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun Moore,N/A,N/A,Moore,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Snell,N/A,N/A,Snell,N/A,N/A,Chicago,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,6,0,0,19,9,47,Gordon,4,3,75,35,3,0,Gordon Hayward,21,8,Hayward,F,3,Utah,2
+3,3,4,0,0,0,14,8,57,Derrick,6,5,83,36,2,3,Derrick Favors,21,6,Favors,F,2,Utah,1
+2,0,18,0,0,0,10,6,60,Rudy,4,3,75,36,6,2,Rudy Gobert,15,24,Gobert,C,0,Utah,2
+1,0,3,4,2,50,5,3,60,Joe,0,0,0,35,0,1,Joe Ingles,8,3,Ingles,G,1,Utah,2
+7,2,3,3,1,33,5,1,20,Dante,0,0,0,27,0,3,Dante Exum,3,3,Exum,G,1,Utah,2
+3,0,0,5,0,0,11,2,18,Trey,0,0,0,22,0,2,Trey Burke,4,0,Burke,N/A,0,Utah,1
+0,0,0,2,0,0,3,0,0,Elijah,0,0,0,11,0,0,Elijah Millsap,0,0,Millsap,N/A,0,Utah,0
+0,0,1,1,0,0,5,2,40,Trevor,0,0,0,12,2,3,Trevor Booker,4,3,Booker,N/A,0,Utah,3
+1,1,1,4,2,50,5,3,60,Rodney,5,5,100,14,0,2,Rodney Hood,13,1,Hood,N/A,0,Utah,2
+0,1,6,0,0,0,3,2,67,Jeremy,0,0,0,12,1,1,Jeremy Evans,4,7,Evans,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jack,N/A,N/A,N/A,N/A,N/A,N/A,Jack Cooley,N/A,N/A,Cooley,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bryce,N/A,N/A,N/A,N/A,N/A,N/A,Bryce Cotton,N/A,N/A,Cotton,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Grant,N/A,N/A,N/A,N/A,N/A,N/A,Grant Jerrett,N/A,N/A,Jerrett,N/A,N/A,Utah,N/A
+4,1,4,1,0,0,13,3,23,Jeff,0,0,0,36,2,2,Jeff Green,6,6,Green,F,1,Memphis,1
+1,0,6,0,0,0,10,3,30,Kosta,2,0,0,34,4,3,Kosta Koufos,6,10,Koufos,F,0,Memphis,0
+3,0,5,0,0,0,15,6,40,Marc,6,5,83,34,3,2,Marc Gasol,17,8,Gasol,C,1,Memphis,0
+1,0,5,7,2,29,13,7,54,Courtney,2,2,100,38,0,1,Courtney Lee,18,5,Lee,G,1,Memphis,2
+4,1,1,2,0,0,11,4,36,Mike,4,3,75,36,0,1,Mike Conley,11,1,Conley,G,1,Memphis,2
+0,0,4,0,0,0,5,0,0,Jon,2,2,100,13,1,0,Jon Leuer,2,5,Leuer,N/A,0,Memphis,1
+0,1,0,1,1,100,8,6,75,Jordan,0,0,0,23,0,1,Jordan Adams,13,0,Adams,N/A,1,Memphis,1
+2,1,1,0,0,0,5,3,60,Nick,3,1,33,21,0,1,Nick Calathes,7,1,Calathes,N/A,2,Memphis,4
+0,0,0,0,0,0,2,1,50,JaMychal,0,0,0,6,1,1,JaMychal Green,2,1,Green,N/A,0,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Allen,N/A,N/A,Allen,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zach,N/A,N/A,N/A,N/A,N/A,N/A,Zach Randolph,N/A,N/A,Randolph,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Beno,N/A,N/A,N/A,N/A,N/A,N/A,Beno Udrih,N/A,N/A,Udrih,N/A,N/A,Memphis,N/A

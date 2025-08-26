@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,4,3,0,0,23,13,56,Giannis,6,4,67,39,5,4,Giannis Antetokounmpo,30,9,Antetokounmpo,F,3,Milwaukee,0
+2,0,1,3,2,67,17,11,65,Jabari,5,3,60,35,2,2,Jabari Parker,27,3,Parker,F,1,Milwaukee,2
+0,3,2,0,0,0,5,3,60,John,1,1,100,14,0,2,John Henson,7,2,Henson,C,0,Milwaukee,0
+4,0,5,5,2,40,6,3,50,Tony,0,0,0,29,0,1,Tony Snell,8,5,Snell,G,0,Milwaukee,0
+10,0,0,2,0,0,8,1,13,Matthew,0,0,0,28,0,2,Matthew Dellavedova,2,0,Dellavedova,G,0,Milwaukee,0
+0,0,1,0,0,0,5,5,100,Greg,1,1,100,16,1,2,Greg Monroe,11,2,Monroe,N/A,1,Milwaukee,1
+2,0,2,1,0,0,5,1,20,Michael,0,0,0,16,2,0,Michael Beasley,2,4,Beasley,N/A,0,Milwaukee,2
+1,0,7,5,0,0,7,2,29,Mirza,0,0,0,19,0,2,Mirza Teletovic,4,7,Teletovic,N/A,0,Milwaukee,2
+2,0,1,2,0,0,6,1,17,Malcolm,2,2,100,23,1,2,Malcolm Brogdon,4,2,Brogdon,N/A,3,Milwaukee,2
+0,0,0,3,0,0,5,1,20,Jason,0,0,0,9,0,2,Jason Terry,2,0,Terry,N/A,0,Milwaukee,0
+0,0,2,0,0,0,2,1,50,Thon,2,1,50,6,1,1,Thon Maker,3,3,Maker,N/A,0,Milwaukee,1
+1,0,0,0,0,0,0,0,0,Rashad,0,0,0,3,0,0,Rashad Vaughn,0,0,Vaughn,N/A,0,Milwaukee,0
+0,0,0,0,0,0,0,0,0,Miles,0,0,0,3,0,0,Miles Plumlee,0,0,Plumlee,N/A,0,Milwaukee,1
+2,0,4,7,3,43,12,5,42,DeMarre,0,0,0,29,2,3,DeMarre Carroll,13,6,Carroll,F,1,Toronto,0
+1,1,2,1,0,0,4,0,0,Pascal,0,0,0,16,1,4,Pascal Siakam,0,3,Siakam,F,0,Toronto,0
+1,0,8,0,0,0,9,4,44,Jonas,4,3,75,23,4,3,Jonas Valanciunas,11,12,Valanciunas,C,0,Toronto,1
+3,0,2,1,1,100,11,7,64,DeMar,15,15,100,32,1,0,DeMar DeRozan,30,3,DeRozan,G,0,Toronto,2
+7,0,3,7,4,57,9,5,56,Kyle,4,4,100,34,0,3,Kyle Lowry,18,3,Lowry,G,1,Toronto,5
+7,0,3,1,0,0,8,3,38,Cory,0,0,0,27,1,2,Cory Joseph,6,4,Joseph,N/A,2,Toronto,3
+3,0,3,1,1,100,2,2,100,Patrick,0,0,0,25,1,2,Patrick Patterson,5,4,Patterson,N/A,0,Toronto,2
+1,1,2,0,0,0,3,2,67,Lucas,2,1,50,20,3,1,Lucas Nogueira,5,5,Nogueira,N/A,1,Toronto,1
+0,0,5,6,4,67,17,10,59,Terrence,3,1,33,21,0,0,Terrence Ross,25,5,Ross,N/A,2,Toronto,0
+0,0,0,1,1,100,4,3,75,Norman,0,0,0,8,0,0,Norman Powell,7,0,Powell,N/A,0,Toronto,0
+0,0,0,0,0,0,1,1,100,Jakob,0,0,0,3,1,0,Jakob Poeltl,2,1,Poeltl,N/A,0,Toronto,0
+1,0,0,0,0,0,1,0,0,Fred,0,0,0,2,0,0,Fred VanVleet,0,0,VanVleet,N/A,0,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bruno,N/A,N/A,N/A,N/A,N/A,N/A,Bruno Caboclo,N/A,N/A,Caboclo,N/A,N/A,Toronto,N/A

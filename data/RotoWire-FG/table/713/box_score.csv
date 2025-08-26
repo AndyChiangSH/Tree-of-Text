@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,4,1,0,0,20,11,55,Andrew,5,4,80,39,4,4,Andrew Wiggins,26,8,Wiggins,F,0,Minnesota,3
+1,0,1,0,0,0,4,1,25,Adreian,0,0,0,13,0,3,Adreian Payne,2,1,Payne,F,0,Minnesota,0
+4,2,4,0,0,0,4,2,50,Justin,0,0,0,25,0,1,Justin Hamilton,4,4,Hamilton,C,3,Minnesota,1
+8,0,3,11,3,27,31,13,42,Kevin,11,8,73,44,2,3,Kevin Martin,37,5,Martin,G,1,Minnesota,1
+11,0,4,5,1,20,18,9,50,Zach,4,2,50,41,1,4,Zach LaVine,21,5,LaVine,G,1,Minnesota,2
+0,1,5,2,2,100,8,5,63,Chase,1,1,100,34,1,2,Chase Budinger,13,6,Budinger,N/A,1,Minnesota,2
+4,0,2,0,0,0,2,0,0,Lorenzo,0,0,0,12,0,1,Lorenzo Brown,0,2,Brown,N/A,0,Minnesota,0
+0,0,0,0,0,0,3,1,33,Robbie,0,0,0,17,0,4,Robbie Hummel,2,0,Hummel,N/A,0,Minnesota,0
+1,1,4,0,0,0,3,3,100,Arinze,0,0,0,16,1,2,Arinze Onuaku,6,5,Onuaku,N/A,0,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Bennett,N/A,N/A,Bennett,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Garnett,N/A,N/A,Garnett,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gary,N/A,N/A,N/A,N/A,N/A,N/A,Gary Neal,N/A,N/A,Neal,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ricky,N/A,N/A,N/A,N/A,N/A,N/A,Ricky Rubio,N/A,N/A,Rubio,N/A,N/A,Minnesota,N/A
+1,0,5,6,4,67,20,12,60,Omri,5,3,60,35,0,1,Omri Casspi,31,5,Casspi,F,1,Sacramento,0
+5,2,4,3,2,67,17,9,53,Rudy,15,13,87,38,3,0,Rudy Gay,33,7,Gay,F,1,Sacramento,5
+2,1,5,0,0,0,4,2,50,Reggie,0,0,0,17,3,3,Reggie Evans,4,8,Evans,C,0,Sacramento,2
+2,0,1,4,1,25,7,3,43,Ben,0,0,0,17,0,6,Ben McLemore,7,1,McLemore,G,1,Sacramento,2
+4,0,7,6,2,33,13,5,39,Ray,2,1,50,36,2,1,Ray McCallum,13,9,McCallum,G,2,Sacramento,2
+1,2,6,0,0,0,3,2,67,Jason,6,2,33,31,2,1,Jason Thompson,6,8,Thompson,N/A,0,Sacramento,0
+1,1,5,2,0,0,12,8,67,Derrick,4,2,50,31,3,1,Derrick Williams,18,8,Williams,N/A,0,Sacramento,1
+1,1,1,2,0,0,2,0,0,Nik,0,0,0,13,0,2,Nik Stauskas,0,1,Stauskas,N/A,0,Sacramento,2
+8,0,2,1,0,0,2,1,50,Andre,2,2,100,21,0,2,Andre Miller,4,2,Miller,N/A,0,Sacramento,0
+0,0,0,0,0,0,0,0,0,Sim,0,0,0,0,0,0,Sim Bhullar,0,0,Bhullar,N/A,0,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Hollins,N/A,N/A,Hollins,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Carl,N/A,N/A,N/A,N/A,N/A,N/A,Carl Landry,N/A,N/A,Landry,N/A,N/A,Sacramento,N/A

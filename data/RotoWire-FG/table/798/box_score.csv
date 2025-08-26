@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,0,3,1,33,7,3,43,Dante,0,0,0,26,1,2,Dante Cunningham,7,1,Cunningham,F,0,New Orleans,0
+2,0,4,1,0,0,11,7,64,Anthony,5,3,60,21,1,0,Anthony Davis,17,5,Davis,F,1,New Orleans,0
+4,0,4,3,0,0,16,6,38,DeMarcus,3,2,67,25,2,4,DeMarcus Cousins,14,6,Cousins,C,0,New Orleans,3
+6,0,3,5,1,20,12,6,50,Jrue,0,0,0,27,1,2,Jrue Holiday,13,4,Holiday,G,0,New Orleans,0
+6,0,3,2,1,50,8,6,75,Rajon,0,0,0,25,0,1,Rajon Rondo,13,3,Rondo,G,0,New Orleans,2
+3,0,1,3,2,67,11,7,64,E'Twaun,0,0,0,27,1,1,E'Twaun Moore,16,2,Moore,N/A,1,New Orleans,0
+9,0,3,4,2,50,6,4,67,Jameer,0,0,0,28,1,0,Jameer Nelson,10,4,Nelson,N/A,0,New Orleans,5
+1,0,0,5,2,40,6,2,33,Darius,0,0,0,28,0,2,Darius Miller,6,0,Miller,N/A,0,New Orleans,1
+0,0,2,0,0,0,5,4,80,Cheick,2,1,50,13,1,5,Cheick Diallo,9,3,Diallo,N/A,0,New Orleans,2
+1,0,0,6,2,33,7,2,29,Ian,0,0,0,14,0,1,Ian Clark,6,0,Clark,N/A,0,New Orleans,0
+0,0,1,1,1,100,2,1,50,Jalen,0,0,0,5,0,1,Jalen Jones,3,1,Jones,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Allen,N/A,N/A,Allen,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charles,N/A,N/A,N/A,N/A,N/A,N/A,Charles Cooke,N/A,N/A,Cooke,N/A,N/A,New Orleans,N/A
+4,0,10,5,2,40,8,5,62,Wilson,5,3,60,36,1,1,Wilson Chandler,15,11,Chandler,F,0,Denver,1
+7,2,6,6,3,50,14,8,57,Paul,3,1,33,27,0,3,Paul Millsap,20,6,Millsap,F,2,Denver,3
+6,1,8,2,1,50,5,3,60,Nikola,6,6,100,27,3,3,Nikola Jokic,13,11,Jokic,C,0,Denver,2
+5,0,2,6,4,67,11,9,82,Gary,0,0,0,31,1,2,Gary Harris,22,3,Harris,G,0,Denver,1
+4,0,1,7,3,43,18,13,72,Jamal,2,2,100,34,1,3,Jamal Murray,31,2,Murray,G,0,Denver,0
+2,1,2,1,0,0,5,2,40,Will,0,0,0,25,1,0,Will Barton,4,3,Barton,N/A,0,Denver,3
+2,0,4,0,0,0,5,3,60,Mason,1,0,0,19,2,1,Mason Plumlee,6,6,Plumlee,N/A,0,Denver,1
+6,0,1,6,3,50,11,7,64,Emmanuel,2,2,100,23,1,0,Emmanuel Mudiay,19,2,Mudiay,N/A,1,Denver,1
+0,0,0,0,0,0,6,3,50,Kenneth,0,0,0,7,2,2,Kenneth Faried,6,2,Faried,N/A,1,Denver,1
+1,0,0,1,1,100,4,2,50,Malik,2,2,100,5,0,0,Malik Beasley,7,0,Beasley,N/A,0,Denver,0
+0,0,1,0,0,0,1,0,0,Trey,0,0,0,4,1,0,Trey Lyles,0,2,Lyles,N/A,0,Denver,1
+0,0,0,1,1,100,1,1,100,Juancho,0,0,0,4,0,0,Juancho Hernangomez,3,0,Hernangomez,N/A,1,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A

@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,3,2,67,5,3,60,Danuel,9,9,100,39,0,3,Danuel House Jr.,17,4,House,F,1,Houston,1
+0,1,3,4,1,25,4,1,25,PJ,0,0,0,36,0,4,PJ Tucker,3,3,Tucker,F,1,Houston,1
+1,1,12,0,0,0,19,12,63,Clint,5,5,100,46,9,1,Clint Capela,29,21,Capela,C,2,Houston,1
+15,2,8,23,10,44,32,13,41,James,9,8,89,44,2,4,James Harden,44,10,Harden,G,1,Houston,7
+4,0,4,9,4,44,18,7,39,Austin,0,0,0,44,0,2,Austin Rivers,18,4,Rivers,G,1,Houston,0
+2,1,3,10,3,30,13,6,46,Gerald,1,1,100,30,1,3,Gerald Green,16,4,Green,N/A,1,Houston,0
+2,0,1,1,0,0,2,1,50,James,4,1,25,8,1,2,James Ennis III,3,2,Ennis,N/A,0,Houston,0
+2,0,0,3,1,33,5,2,40,Brandon,0,0,0,12,0,1,Brandon Knight,5,0,Knight,N/A,1,Houston,0
+1,0,0,1,0,0,1,0,0,Gary,0,0,0,6,0,0,Gary Clark,0,0,Clark,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Carter-Williams,N/A,N/A,Carter-Williams,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marquese,N/A,N/A,N/A,N/A,N/A,N/A,Marquese Chriss,N/A,N/A,Chriss,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,Houston,N/A
+3,1,7,5,1,20,23,10,44,Kevin,5,5,100,42,0,0,Kevin Durant,26,7,Durant,F,0,Golden State,2
+8,2,10,2,0,0,7,4,57,Draymond,1,1,100,37,1,5,Draymond Green,9,11,Green,F,2,Golden State,4
+2,1,2,0,0,0,9,5,56,Kevon,2,2,100,22,5,4,Kevon Looney,12,7,Looney,C,1,Golden State,1
+4,2,5,8,4,50,20,11,55,Klay,0,0,0,43,0,3,Klay Thompson,26,5,Thompson,G,3,Golden State,1
+6,0,3,15,5,33,27,14,52,Stephen,3,2,67,40,0,4,Stephen Curry,35,3,Curry,G,0,Golden State,5
+4,0,5,2,1,50,4,2,50,Andre,0,0,0,34,1,0,Andre Iguodala,5,6,Iguodala,N/A,0,Golden State,1
+1,0,1,2,1,50,4,2,50,Quinn,0,0,0,7,0,0,Quinn Cook,5,1,Cook,N/A,1,Golden State,0
+0,0,0,2,1,50,2,1,50,Jonas,2,2,100,11,0,1,Jonas Jerebko,5,0,Jerebko,N/A,0,Golden State,0
+2,0,2,0,0,0,4,2,50,Shaun,2,2,100,16,0,1,Shaun Livingston,6,2,Livingston,N/A,1,Golden State,0
+1,0,1,1,1,100,2,2,100,Alfonzo,0,0,0,5,1,0,Alfonzo McKinnie,5,2,McKinnie,N/A,0,Golden State,0
+2,0,2,0,0,0,0,0,0,Jordan,0,0,0,7,1,1,Jordan Bell,0,3,Bell,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jacob,N/A,N/A,N/A,N/A,N/A,N/A,Jacob Evans,N/A,N/A,Evans,N/A,N/A,Golden State,N/A

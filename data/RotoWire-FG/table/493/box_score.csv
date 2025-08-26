@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,4,1,1,100,5,4,80,Patrick,2,2,100,29,0,1,Patrick McCaw,11,4,McCaw,F,2,Golden State,0
+7,2,7,5,2,40,9,4,44,Draymond,2,2,100,35,1,4,Draymond Green,12,8,Green,F,1,Golden State,4
+0,0,3,0,0,0,7,4,57,Zaza,0,0,0,14,2,1,Zaza Pachulia,8,5,Pachulia,C,1,Golden State,0
+1,0,1,11,1,9,22,5,23,Klay,2,2,100,37,0,1,Klay Thompson,13,1,Thompson,G,0,Golden State,2
+5,0,5,11,2,18,27,10,37,Stephen,1,1,100,35,1,4,Stephen Curry,23,6,Curry,G,5,Golden State,4
+0,1,1,0,0,0,3,1,33,JaVale,2,2,100,10,0,1,JaVale McGee,4,1,McGee,N/A,0,Golden State,0
+2,0,7,2,0,0,6,4,67,Andre,3,2,67,26,0,3,Andre Iguodala,10,7,Iguodala,N/A,0,Golden State,1
+0,0,0,0,0,0,1,0,0,Ian,2,2,100,7,1,0,Ian Clark,2,1,Clark,N/A,0,Golden State,0
+1,1,3,0,0,0,3,0,0,Shaun,0,0,0,19,0,1,Shaun Livingston,0,3,Livingston,N/A,1,Golden State,1
+5,1,4,0,0,0,4,1,25,David,0,0,0,16,1,1,David West,2,5,West,N/A,0,Golden State,1
+0,0,0,0,0,0,1,1,100,Matt,0,0,0,12,0,1,Matt Barnes,2,0,Barnes,N/A,0,Golden State,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevon,N/A,N/A,N/A,N/A,N/A,N/A,Kevon Looney,N/A,N/A,Looney,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Michael McAdoo,N/A,N/A,Michael,N/A,N/A,Golden State,N/A
+6,1,5,1,0,0,14,6,43,Jimmy,10,10,100,35,0,1,Jimmy Butler,22,5,Butler,F,4,Chicago,2
+0,1,11,4,2,50,12,6,50,Bobby,4,3,75,31,2,1,Bobby Portis,17,13,Portis,F,0,Chicago,1
+0,1,1,0,0,0,15,5,33,Robin,0,0,0,22,2,1,Robin Lopez,10,3,Lopez,C,0,Chicago,0
+3,0,5,3,0,0,15,5,33,Dwyane,4,2,50,34,0,2,Dwyane Wade,12,5,Wade,G,2,Chicago,4
+1,0,1,1,1,100,2,2,100,Jerian,0,0,0,13,0,0,Jerian Grant,5,1,Grant,G,1,Chicago,0
+3,0,3,1,0,0,5,3,60,Rajon,3,2,67,13,0,3,Rajon Rondo,8,3,Rondo,N/A,0,Chicago,4
+2,0,1,1,0,0,1,0,0,Denzel,0,0,0,14,1,1,Denzel Valentine,0,2,Valentine,N/A,0,Chicago,1
+1,2,2,4,1,25,7,2,29,Nikola,0,0,0,16,0,0,Nikola Mirotic,5,2,Mirotic,N/A,0,Chicago,0
+1,0,9,0,0,0,1,1,100,Cristiano,0,0,0,26,2,2,Cristiano Felicio,2,11,Felicio,N/A,1,Chicago,2
+1,0,0,2,0,0,5,2,40,Cameron,0,0,0,13,0,0,Cameron Payne,4,0,Payne,N/A,0,Chicago,1
+1,0,4,2,1,50,5,4,80,Paul,0,0,0,23,0,4,Paul Zipser,9,4,Zipser,N/A,1,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah Canaan,N/A,N/A,Canaan,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey Lauvergne,N/A,N/A,Lauvergne,N/A,N/A,Chicago,N/A

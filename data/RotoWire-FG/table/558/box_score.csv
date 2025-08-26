@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,2,3,2,1,50,7,4,57,Rudy,1,0,0,34,1,3,Rudy Gay,9,4,Gay,F,2,Sacramento,2
+1,0,6,2,2,100,7,7,100,Quincy,0,0,0,31,1,4,Quincy Acy,16,7,Acy,F,1,Sacramento,1
+3,0,6,3,1,33,20,10,50,DeMarcus,15,10,67,36,3,5,DeMarcus Cousins,31,9,Cousins,C,1,Sacramento,4
+0,0,2,1,0,0,5,1,20,Ben,1,1,100,15,0,1,Ben McLemore,3,2,McLemore,G,0,Sacramento,1
+8,0,1,1,1,100,9,4,44,Rajon,0,0,0,36,0,2,Rajon Rondo,9,1,Rondo,G,2,Sacramento,6
+7,1,3,0,0,0,9,5,56,Darren,2,2,100,33,0,0,Darren Collison,12,3,Collison,N/A,2,Sacramento,1
+0,0,0,0,0,0,3,0,0,Willie,2,1,50,12,0,2,Willie Cauley-Stein,1,0,Cauley-Stein,N/A,0,Sacramento,0
+0,1,3,4,0,0,10,3,30,Omri,0,0,0,21,1,2,Omri Casspi,6,4,Casspi,N/A,3,Sacramento,2
+1,0,2,3,1,33,11,3,27,Marco,0,0,0,23,1,0,Marco Belinelli,7,3,Belinelli,N/A,2,Sacramento,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Anderson,N/A,N/A,Anderson,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caron,N/A,N/A,N/A,N/A,N/A,N/A,Caron Butler,N/A,N/A,Butler,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Seth,N/A,N/A,N/A,N/A,N/A,N/A,Seth Curry,N/A,N/A,Curry,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kosta,N/A,N/A,N/A,N/A,N/A,N/A,Kosta Koufos,N/A,N/A,Koufos,N/A,N/A,Sacramento,N/A
+6,1,8,5,1,20,24,9,38,Kawhi,7,6,86,36,5,1,Kawhi Leonard,25,13,Leonard,F,1,San Antonio,4
+6,2,2,3,1,33,9,5,56,Boris,0,0,0,30,1,4,Boris Diaw,11,3,Diaw,F,2,San Antonio,6
+3,0,3,0,0,0,9,5,56,David,3,2,67,27,0,6,David West,12,3,West,C,2,San Antonio,2
+2,0,2,1,0,0,2,0,0,Jonathon,0,0,0,15,0,2,Jonathon Simmons,0,2,Simmons,G,0,San Antonio,0
+7,1,2,1,0,0,6,1,17,Tony,0,0,0,32,0,0,Tony Parker,2,2,Parker,G,0,San Antonio,2
+1,0,7,0,0,0,4,3,75,Boban,4,3,75,19,2,2,Boban Marjanovic,9,9,Marjanovic,N/A,0,San Antonio,1
+1,0,0,3,1,33,11,8,73,Manu,5,5,100,15,1,3,Manu Ginobili,22,1,Ginobili,N/A,0,San Antonio,1
+3,0,3,6,3,50,8,3,38,Patty,0,0,0,24,1,2,Patty Mills,9,4,Mills,N/A,0,San Antonio,2
+2,1,6,1,0,0,3,2,67,Kyle,0,0,0,28,1,0,Kyle Anderson,4,7,Anderson,N/A,1,San Antonio,2
+0,0,2,3,2,67,3,2,67,Matt,0,0,0,6,0,0,Matt Bonner,6,2,Bonner,N/A,0,San Antonio,0
+0,0,0,0,0,0,2,2,100,Andre,0,0,0,7,0,1,Andre Miller,4,0,Miller,N/A,0,San Antonio,1
+0,0,0,0,0,0,0,0,0,Rasual,0,0,0,1,0,0,Rasual Butler,0,0,Butler,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Danny,N/A,N/A,N/A,N/A,N/A,N/A,Danny Green,N/A,N/A,Green,N/A,N/A,San Antonio,N/A

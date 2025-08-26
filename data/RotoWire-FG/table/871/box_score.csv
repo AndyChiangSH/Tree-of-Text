@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,0,0,0,0,2,0,0,Kyle,2,2,100,22,1,1,Kyle Anderson,2,1,Anderson,F,0,San Antonio,2
+3,2,7,1,0,0,24,13,54,LaMarcus,8,8,100,38,1,2,LaMarcus Aldridge,34,8,Aldridge,F,0,San Antonio,2
+7,0,11,1,1,100,8,5,62,Pau,4,2,50,30,1,1,Pau Gasol,13,12,Gasol,C,0,San Antonio,1
+1,1,2,2,1,50,6,2,33,Danny,7,4,57,27,0,3,Danny Green,9,2,Green,G,3,San Antonio,0
+2,0,3,2,0,0,12,3,25,Tony,2,2,100,25,0,2,Tony Parker,8,3,Parker,G,0,San Antonio,0
+1,0,2,2,0,0,9,2,22,Bryn,0,0,0,23,0,2,Bryn Forbes,4,2,Forbes,N/A,0,San Antonio,0
+2,0,2,8,7,88,10,7,70,Patty,6,4,67,26,0,3,Patty Mills,25,2,Mills,N/A,3,San Antonio,1
+2,0,1,2,0,0,3,1,33,Davis,0,0,0,22,0,2,Davis Bertans,2,1,Bertans,N/A,0,San Antonio,1
+3,0,5,0,0,0,5,1,20,Dejounte,2,1,50,23,4,4,Dejounte Murray,3,9,Murray,N/A,2,San Antonio,2
+1,0,2,1,0,0,3,0,0,Joffrey,0,0,0,5,0,0,Joffrey Lauvergne,0,2,Lauvergne,N/A,0,San Antonio,0
+0,0,0,0,0,0,0,0,0,Brandon,0,0,0,0,0,0,Brandon Paul,0,0,Paul,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Manu,N/A,N/A,N/A,N/A,N/A,N/A,Manu Ginobili,N/A,N/A,Ginobili,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick White,N/A,N/A,White,N/A,N/A,San Antonio,N/A
+1,0,8,3,2,67,9,3,33,DeMarre,4,3,75,34,3,1,DeMarre Carroll,11,11,Carroll,F,0,Brooklyn,2
+1,1,4,1,0,0,6,3,50,Rondae,2,1,50,19,0,0,Rondae Hollis-Jefferson,7,4,Hollis-Jefferson,F,0,Brooklyn,5
+0,0,3,0,0,0,5,2,40,Tyler,0,0,0,16,1,4,Tyler Zeller,4,4,Zeller,C,0,Brooklyn,0
+3,0,8,6,4,67,12,7,58,Allen,3,2,67,31,0,5,Allen Crabbe,20,8,Crabbe,G,0,Brooklyn,1
+13,0,1,5,0,0,13,3,23,Spencer,5,3,60,35,0,4,Spencer Dinwiddie,9,1,Dinwiddie,G,2,Brooklyn,0
+0,0,5,5,1,20,5,1,20,Quincy,0,0,0,19,1,4,Quincy Acy,3,6,Acy,N/A,0,Brooklyn,2
+0,0,1,9,4,44,13,7,54,Joe,0,0,0,32,0,1,Joe Harris,18,1,Harris,N/A,1,Brooklyn,0
+1,0,5,0,0,0,6,3,50,Jarrett,0,0,0,18,1,2,Jarrett Allen,6,6,Allen,N/A,0,Brooklyn,2
+2,0,2,7,2,29,11,4,36,Caris,4,3,75,21,0,3,Caris LeVert,13,2,LeVert,N/A,0,Brooklyn,2
+2,0,4,0,0,0,3,2,67,Jahlil,0,0,0,13,0,4,Jahlil Okafor,4,4,Okafor,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timofey,N/A,N/A,N/A,N/A,N/A,N/A,Timofey Mozgov,N/A,N/A,Mozgov,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nik,N/A,N/A,N/A,N/A,N/A,N/A,Nik Stauskas,N/A,N/A,Stauskas,N/A,N/A,Brooklyn,N/A

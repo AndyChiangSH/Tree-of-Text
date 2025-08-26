@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,2,7,7,4,57,12,8,67,Robert,5,4,80,39,0,4,Robert Covington,24,7,Covington,F,2,Minnesota,0
+2,0,4,0,0,0,6,2,33,Taj,4,3,75,30,4,4,Taj Gibson,7,8,Gibson,F,1,Minnesota,3
+1,0,8,7,2,29,19,9,47,Karl-Anthony,2,1,50,38,2,0,Karl-Anthony Towns,21,10,Towns,C,1,Minnesota,2
+3,2,3,4,1,25,11,4,36,Andrew,2,2,100,28,0,0,Andrew Wiggins,11,3,Wiggins,G,2,Minnesota,0
+6,3,2,2,0,0,12,5,42,Jeff,5,3,60,36,0,4,Jeff Teague,13,2,Teague,G,1,Minnesota,3
+4,1,1,2,0,0,13,6,46,Derrick,0,0,0,29,0,0,Derrick Rose,12,1,Rose,N/A,0,Minnesota,0
+0,0,5,3,0,0,10,4,40,Dario,1,1,100,18,1,3,Dario Saric,9,6,Saric,N/A,0,Minnesota,0
+1,0,0,1,1,100,1,1,100,Tyus,0,0,0,12,0,2,Tyus Jones,3,0,Jones,N/A,1,Minnesota,0
+0,0,1,0,0,0,2,1,50,Gorgui,0,0,0,10,1,1,Gorgui Dieng,2,2,Dieng,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luol,N/A,N/A,N/A,N/A,N/A,N/A,Luol Deng,N/A,N/A,Deng,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Nunnally,N/A,N/A,Nunnally,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Okogie,N/A,N/A,Okogie,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Tolliver,N/A,N/A,Tolliver,N/A,N/A,Minnesota,N/A
+2,0,6,6,2,33,12,3,25,Cedi,0,0,0,30,0,4,Cedi Osman,8,6,Osman,F,1,Cleveland,1
+7,2,6,2,0,0,10,5,50,Larry,2,2,100,38,2,4,Larry Nance Jr.,12,8,Nance,F,1,Cleveland,2
+3,1,7,0,0,0,10,7,70,Tristan,2,2,100,40,4,3,Tristan Thompson,16,11,Thompson,C,1,Cleveland,4
+3,0,1,7,2,29,16,8,50,Rodney,3,2,67,35,1,2,Rodney Hood,20,2,Hood,G,1,Cleveland,3
+4,0,6,3,0,0,19,5,26,Collin,1,1,100,39,1,2,Collin Sexton,11,7,Sexton,G,0,Cleveland,4
+2,0,2,4,0,0,5,1,20,Jordan,2,2,100,22,0,0,Jordan Clarkson,4,2,Clarkson,N/A,0,Cleveland,2
+1,0,0,0,0,0,1,0,0,Andrew,2,2,100,9,0,1,Andrew Harrison,2,0,Harrison,N/A,0,Cleveland,0
+2,0,2,9,6,67,12,7,58,Kyle,2,2,100,22,0,2,Kyle Korver,22,2,Korver,N/A,0,Cleveland,0
+0,0,1,0,0,0,1,0,0,Ante,0,0,0,5,1,0,Ante Zizic,0,2,Zizic,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Channing,N/A,N/A,N/A,N/A,N/A,N/A,Channing Frye,N/A,N/A,Frye,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,George,N/A,N/A,N/A,N/A,N/A,N/A,George Hill,N/A,N/A,Hill,N/A,N/A,Cleveland,N/A

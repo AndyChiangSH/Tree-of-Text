@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+11,1,4,3,2,67,13,8,62,Giannis,6,4,67,35,3,2,Giannis Antetokounmpo,22,7,Antetokounmpo,F,3,Milwaukee,0
+1,0,5,0,0,0,8,6,75,Jabari,0,0,0,27,2,2,Jabari Parker,12,7,Parker,F,1,Milwaukee,1
+0,2,4,0,0,0,10,4,40,John,2,2,100,20,0,2,John Henson,10,4,Henson,C,1,Milwaukee,1
+2,0,4,3,2,67,8,4,50,Tony,0,0,0,25,1,1,Tony Snell,10,5,Snell,G,0,Milwaukee,1
+3,0,2,1,0,0,3,0,0,Matthew,0,0,0,21,0,1,Matthew Dellavedova,0,2,Dellavedova,G,2,Milwaukee,1
+1,0,2,4,1,25,8,3,38,Malcolm,0,0,0,27,0,1,Malcolm Brogdon,7,2,Brogdon,N/A,0,Milwaukee,2
+2,1,8,8,3,38,10,5,50,Mirza,0,0,0,27,0,2,Mirza Teletovic,13,8,Teletovic,N/A,0,Milwaukee,0
+3,0,8,0,0,0,14,6,43,Greg,3,2,67,23,4,2,Greg Monroe,14,12,Monroe,N/A,0,Milwaukee,3
+3,0,1,4,2,50,5,2,40,Jason,0,0,0,19,0,1,Jason Terry,6,1,Terry,N/A,0,Milwaukee,0
+0,0,0,0,0,0,1,0,0,Miles,0,0,0,5,1,0,Miles Plumlee,0,1,Plumlee,N/A,0,Milwaukee,2
+0,0,2,1,0,0,1,0,0,Rashad,0,0,0,5,0,0,Rashad Vaughn,0,2,Vaughn,N/A,0,Milwaukee,0
+0,0,2,0,0,0,0,0,0,Thon,2,1,50,4,0,0,Thon Maker,1,2,Maker,N/A,0,Milwaukee,0
+0,0,0,1,0,0,1,0,0,Steve,0,0,0,3,0,0,Steve Novak,0,0,Novak,N/A,0,Milwaukee,0
+6,0,5,5,1,20,14,3,21,Jimmy,0,0,0,30,2,3,Jimmy Butler,7,7,Butler,F,1,Chicago,1
+0,1,1,0,0,0,10,4,40,Taj,0,0,0,20,3,3,Taj Gibson,8,4,Gibson,F,0,Chicago,1
+1,1,1,0,0,0,10,3,30,Robin,2,2,100,28,6,0,Robin Lopez,8,7,Lopez,C,0,Chicago,3
+1,0,5,2,1,50,14,5,36,Dwyane,2,1,50,24,0,0,Dwyane Wade,12,5,Wade,G,1,Chicago,0
+4,0,3,3,1,33,9,3,33,Rajon,2,0,0,26,1,2,Rajon Rondo,7,4,Rondo,G,1,Chicago,3
+0,0,2,3,0,0,8,2,25,Doug,1,1,100,24,1,0,Doug McDermott,5,3,McDermott,N/A,0,Chicago,0
+2,0,4,2,0,0,7,2,29,Denzel,2,2,100,22,0,1,Denzel Valentine,6,4,Valentine,N/A,1,Chicago,0
+0,0,6,2,2,100,8,4,50,Bobby,2,0,0,19,2,0,Bobby Portis,10,8,Portis,N/A,0,Chicago,1
+1,0,1,0,0,0,2,0,0,Cristiano,2,1,50,20,4,2,Cristiano Felicio,1,5,Felicio,N/A,0,Chicago,1
+1,0,0,2,0,0,4,0,0,Isaiah,0,0,0,12,0,1,Isaiah Canaan,0,0,Canaan,N/A,0,Chicago,0
+0,0,2,2,0,0,4,1,25,Paul,2,1,50,9,0,1,Paul Zipser,3,2,Zipser,N/A,1,Chicago,2
+1,0,1,0,0,0,2,1,50,Jerian,0,0,0,5,0,1,Jerian Grant,2,1,Grant,N/A,2,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nikola,N/A,N/A,N/A,N/A,N/A,N/A,Nikola Mirotic,N/A,N/A,Mirotic,N/A,N/A,Chicago,N/A

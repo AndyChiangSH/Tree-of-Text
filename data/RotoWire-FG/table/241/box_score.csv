@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,8,2,25,13,5,39,Kent,4,4,100,32,1,1,Kent Bazemore,16,6,Bazemore,F,1,Atlanta,1
+1,0,4,2,1,50,4,1,25,Thabo,0,0,0,22,0,4,Thabo Sefolosha,3,4,Sefolosha,F,2,Atlanta,0
+6,3,6,5,1,20,18,5,28,Paul,10,6,60,39,1,4,Paul Millsap,17,7,Millsap,C,3,Atlanta,3
+4,0,2,7,2,29,16,9,56,Tim,0,0,0,35,1,2,Tim Hardaway Jr.,20,3,Hardaway,G,1,Atlanta,1
+3,0,2,2,1,50,16,13,81,Dennis,1,1,100,34,1,0,Dennis Schroder,28,3,Schroder,G,0,Atlanta,2
+1,0,4,3,3,100,5,3,60,Kris,8,5,63,24,3,2,Kris Humphries,14,7,Humphries,N/A,1,Atlanta,1
+0,0,0,0,0,0,1,1,100,Taurean,0,0,0,7,0,1,Taurean Prince,2,0,Prince,N/A,0,Atlanta,0
+5,0,1,1,1,100,4,2,50,Malcolm,0,0,0,19,0,1,Malcolm Delaney,5,1,Delaney,N/A,2,Atlanta,1
+1,0,1,2,1,50,5,1,20,Mike,0,0,0,10,1,0,Mike Scott,3,2,Scott,N/A,0,Atlanta,0
+0,0,3,2,0,0,5,0,0,Mike,0,0,0,19,0,0,Mike Dunleavy,0,3,Dunleavy,N/A,1,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre',N/A,N/A,N/A,N/A,N/A,N/A,DeAndre' Bembry,N/A,N/A,Bembry,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwight,N/A,N/A,N/A,N/A,N/A,N/A,Dwight Howard,N/A,N/A,Howard,N/A,N/A,Atlanta,N/A
+2,0,5,4,2,50,16,10,63,Carmelo,11,8,73,35,2,5,Carmelo Anthony,30,7,Anthony,F,1,New York,5
+2,0,4,5,1,20,10,6,60,Mindaugas,1,1,100,38,1,3,Mindaugas Kuzminskas,14,5,Kuzminskas,F,2,New York,1
+3,2,10,0,0,0,3,2,67,Joakim,5,3,60,33,7,5,Joakim Noah,7,17,Noah,C,1,New York,1
+1,0,2,7,4,57,9,4,44,Ron,0,0,0,22,1,4,Ron Baker,12,3,Baker,G,2,New York,1
+9,1,3,0,0,0,16,8,50,Derrick,4,2,50,32,1,4,Derrick Rose,18,4,Rose,G,1,New York,6
+2,0,6,0,0,0,10,3,30,Kyle,0,0,0,16,2,1,Kyle O'Quinn,6,8,O'Quinn,N/A,0,New York,1
+1,0,2,4,1,25,7,3,43,Courtney,0,0,0,21,0,0,Courtney Lee,7,2,Lee,N/A,0,New York,1
+1,0,3,3,0,0,4,1,25,Brandon,0,0,0,20,0,0,Brandon Jennings,2,3,Jennings,N/A,1,New York,2
+0,0,3,3,0,0,10,5,50,Justin,2,1,50,23,1,0,Justin Holiday,11,4,Holiday,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willy,N/A,N/A,N/A,N/A,N/A,N/A,Willy Hernangomez,N/A,N/A,Hernangomez,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Maurice,N/A,N/A,N/A,N/A,N/A,N/A,Maurice Ndour,N/A,N/A,Ndour,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marshall,N/A,N/A,N/A,N/A,N/A,N/A,Marshall Plumlee,N/A,N/A,Plumlee,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Vujacic,N/A,N/A,Vujacic,N/A,N/A,New York,N/A

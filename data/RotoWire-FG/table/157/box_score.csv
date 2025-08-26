@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,8,7,3,43,13,7,54,DeMarre,2,2,100,37,1,3,DeMarre Carroll,19,9,Carroll,F,1,Atlanta,2
+4,1,5,1,1,100,20,11,55,Al,1,1,100,33,2,1,Al Horford,24,7,Horford,F,2,Atlanta,2
+2,1,0,2,0,0,6,4,67,Mike,2,1,50,24,1,2,Mike Muscala,9,1,Muscala,C,2,Atlanta,2
+6,1,4,4,3,75,6,3,50,Kyle,0,0,0,33,0,5,Kyle Korver,9,4,Korver,G,2,Atlanta,0
+12,1,4,2,0,0,11,4,36,Jeff,11,7,64,33,2,0,Jeff Teague,15,6,Teague,G,4,Atlanta,4
+0,0,2,1,0,0,4,1,25,Kent,3,2,67,17,1,1,Kent Bazemore,4,3,Bazemore,N/A,0,Atlanta,0
+2,0,5,6,2,33,14,7,50,Mike,6,4,67,31,3,2,Mike Scott,20,8,Scott,N/A,0,Atlanta,0
+1,0,1,0,0,0,2,1,50,Elton,0,0,0,8,0,0,Elton Brand,2,1,Brand,N/A,0,Atlanta,0
+3,0,1,4,1,25,9,4,44,Dennis,0,0,0,16,0,3,Dennis Schroder,9,1,Schroder,N/A,0,Atlanta,1
+0,0,0,1,1,100,1,1,100,Shelvin,0,0,0,8,0,1,Shelvin Mack,3,0,Mack,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pero,N/A,N/A,N/A,N/A,N/A,N/A,Pero Antic,N/A,N/A,Antic,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Austin,N/A,N/A,N/A,N/A,N/A,N/A,Austin Daye,N/A,N/A,Daye,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thabo,N/A,N/A,N/A,N/A,N/A,N/A,Thabo Sefolosha,N/A,N/A,Sefolosha,N/A,N/A,Atlanta,N/A
+3,0,8,9,3,33,15,9,60,Joe,0,0,0,37,0,2,Joe Johnson,21,8,Johnson,F,1,Brooklyn,2
+2,0,7,3,1,33,13,7,54,Thaddeus,0,0,0,35,4,6,Thaddeus Young,15,11,Young,F,2,Brooklyn,2
+2,3,3,0,0,0,17,8,47,Brook,10,10,100,39,7,1,Brook Lopez,26,10,Lopez,C,1,Brooklyn,1
+1,0,4,2,1,50,7,2,29,Markel,0,0,0,23,1,1,Markel Brown,5,5,Brown,G,0,Brooklyn,1
+13,0,4,5,1,20,10,4,40,Deron,2,1,50,36,0,1,Deron Williams,10,4,Williams,G,0,Brooklyn,5
+3,0,3,4,1,25,10,5,50,Bojan,1,1,100,34,0,2,Bojan Bogdanovic,12,3,Bogdanovic,N/A,1,Brooklyn,1
+0,0,1,0,0,0,4,2,50,Mason,4,2,50,9,2,3,Mason Plumlee,6,3,Plumlee,N/A,1,Brooklyn,0
+3,0,3,3,0,0,10,3,30,Jarrett,8,8,100,21,0,3,Jarrett Jack,14,3,Jack,N/A,1,Brooklyn,0
+0,1,0,0,0,0,1,1,100,Earl,0,0,0,6,0,1,Earl Clark,2,0,Clark,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Anderson,N/A,N/A,Anderson,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cory,N/A,N/A,N/A,N/A,N/A,N/A,Cory Jefferson,N/A,N/A,Jefferson,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerome,N/A,N/A,N/A,N/A,N/A,N/A,Jerome Jordan,N/A,N/A,Jordan,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darius,N/A,N/A,N/A,N/A,N/A,N/A,Darius Morris,N/A,N/A,Morris,N/A,N/A,Brooklyn,N/A

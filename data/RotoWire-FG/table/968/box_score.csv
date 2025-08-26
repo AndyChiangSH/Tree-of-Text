@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,4,1,0,0,3,2,67,Andre,8,7,88,28,0,4,Andre Iguodala,11,4,Iguodala,F,2,Golden State,2
+1,1,3,6,3,50,27,14,52,Kevin,6,6,100,40,0,2,Kevin Durant,37,3,Durant,F,0,Golden State,1
+9,2,9,1,0,0,5,1,20,Draymond,4,3,75,37,0,3,Draymond Green,5,9,Green,C,2,Golden State,3
+2,0,3,15,6,40,18,9,50,Klay,4,4,100,42,1,2,Klay Thompson,28,4,Thompson,G,2,Golden State,1
+8,1,5,5,1,20,15,8,53,Stephen,2,1,50,35,1,5,Stephen Curry,18,6,Curry,G,2,Golden State,1
+1,0,3,0,0,0,1,1,100,Kevon,0,0,0,25,1,0,Kevon Looney,2,4,Looney,N/A,1,Golden State,1
+0,0,1,5,3,60,5,3,60,Nick,0,0,0,15,0,0,Nick Young,9,1,Young,N/A,0,Golden State,0
+0,0,5,0,0,0,5,3,60,Shaun,1,1,100,14,0,0,Shaun Livingston,7,5,Livingston,N/A,0,Golden State,0
+2,0,1,0,0,0,1,1,100,David,0,0,0,4,0,1,David West,2,1,West,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Bell,N/A,N/A,Bell,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quinn,N/A,N/A,N/A,N/A,N/A,N/A,Quinn Cook,N/A,N/A,Cook,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaVale,N/A,N/A,N/A,N/A,N/A,N/A,JaVale McGee,N/A,N/A,McGee,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zaza,N/A,N/A,N/A,N/A,N/A,N/A,Zaza Pachulia,N/A,N/A,Pachulia,N/A,N/A,Golden State,N/A
+0,0,2,5,1,20,8,3,38,Trevor,1,1,100,23,0,5,Trevor Ariza,8,2,Ariza,F,1,Houston,1
+2,1,4,2,0,0,3,0,0,PJ,3,1,33,34,1,3,PJ Tucker,1,5,Tucker,F,1,Houston,1
+3,2,5,0,0,0,7,6,86,Clint,0,0,0,30,1,0,Clint Capela,12,6,Capela,C,1,Houston,0
+7,0,3,9,5,56,24,14,58,James,10,8,80,35,1,4,James Harden,41,4,Harden,G,1,Houston,4
+3,0,9,7,2,29,17,8,47,Chris,7,5,71,38,2,4,Chris Paul,23,11,Paul,G,1,Houston,1
+3,0,5,7,3,43,13,6,46,Eric,0,0,0,34,0,1,Eric Gordon,15,5,Gordon,N/A,0,Houston,4
+0,0,3,2,0,0,6,0,0,Luc,0,0,0,17,1,0,Luc Mbah a Moute,0,4,Mbah,N/A,0,Houston,1
+0,0,2,4,2,50,5,2,40,Gerald,0,0,0,17,1,4,Gerald Green,6,3,Green,N/A,0,Houston,1
+0,0,1,1,0,0,1,0,0,Ryan,0,0,0,5,0,1,Ryan Anderson,0,1,Anderson,N/A,0,Houston,0
+0,0,1,0,0,0,1,0,0,Nene,0,0,0,6,0,1,Nene,0,1,N/A,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Jackson,N/A,N/A,Jackson,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Johnson,N/A,N/A,Johnson,N/A,N/A,Houston,N/A

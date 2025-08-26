@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,3,4,2,1,50,6,2,33,Derrick,0,0,0,28,1,3,Derrick White,5,5,White,F,1,San Antonio,3
+5,0,8,4,2,50,9,4,44,Rudy,4,3,75,34,0,2,Rudy Gay,13,8,Gay,F,0,San Antonio,1
+0,1,4,0,0,0,18,9,50,LaMarcus,0,0,0,31,2,2,LaMarcus Aldridge,18,6,Aldridge,C,0,San Antonio,0
+8,2,6,0,0,0,24,12,50,DeMar,5,4,80,38,1,2,DeMar DeRozan,28,7,DeRozan,G,1,San Antonio,1
+1,0,5,5,2,40,10,5,50,Bryn,0,0,0,29,0,4,Bryn Forbes,12,5,Forbes,G,0,San Antonio,1
+3,0,0,4,1,25,5,2,40,Patty,0,0,0,20,0,1,Patty Mills,5,0,Mills,N/A,1,San Antonio,1
+1,1,5,5,3,60,7,4,57,Davis,0,0,0,23,0,0,Davis Bertans,11,5,Bertans,N/A,0,San Antonio,0
+0,0,3,4,1,25,6,1,17,Marco,0,0,0,21,0,3,Marco Belinelli,3,3,Belinelli,N/A,0,San Antonio,1
+1,2,3,0,0,0,3,3,100,Jakob,2,0,0,17,1,0,Jakob Poeltl,6,4,Poeltl,N/A,0,San Antonio,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dante,N/A,N/A,N/A,N/A,N/A,N/A,Dante Cunningham,N/A,N/A,Cunningham,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Drew,N/A,N/A,N/A,N/A,N/A,N/A,Drew Eubanks,N/A,N/A,Eubanks,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quincy,N/A,N/A,N/A,N/A,N/A,N/A,Quincy Pondexter,N/A,N/A,Pondexter,N/A,N/A,San Antonio,N/A
+1,0,3,2,0,0,4,2,50,Danuel,0,0,0,28,0,3,Danuel House Jr.,4,3,House,F,0,Houston,0
+3,0,11,3,2,67,5,2,40,PJ,0,0,0,35,5,4,PJ Tucker,6,16,Tucker,F,1,Houston,0
+2,1,15,0,0,0,11,8,73,Clint,8,5,62,35,8,2,Clint Capela,21,23,Capela,C,0,Houston,3
+6,1,1,12,4,33,20,7,35,Eric,0,0,0,37,1,0,Eric Gordon,18,2,Gordon,G,0,Houston,2
+10,0,2,19,7,37,34,12,35,James,9,8,89,41,2,4,James Harden,39,4,Harden,G,2,Houston,3
+0,1,2,13,5,38,14,5,36,Gerald,0,0,0,31,0,1,Gerald Green,15,2,Green,N/A,0,Houston,0
+0,0,3,0,0,0,2,0,0,Nene,4,2,50,13,1,1,Nene,2,4,N/A,N/A,1,Houston,0
+0,0,0,4,0,0,4,0,0,Brandon,0,0,0,12,1,2,Brandon Knight,0,1,Knight,N/A,0,Houston,1
+0,0,2,1,1,100,1,1,100,Gary,0,0,0,9,1,1,Gary Clark,3,3,Clark,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Carter-Williams,N/A,N/A,Carter-Williams,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marquese,N/A,N/A,N/A,N/A,N/A,N/A,Marquese Chriss,N/A,N/A,Chriss,N/A,N/A,Houston,N/A

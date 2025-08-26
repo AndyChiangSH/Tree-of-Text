@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,0,4,12,4,33,29,11,38,Kevin,6,5,83,40,2,1,Kevin Durant,31,6,Durant,F,0,Oklahoma City,5
+0,0,6,5,2,40,9,5,56,Serge,2,2,100,29,2,3,Serge Ibaka,14,8,Ibaka,F,2,Oklahoma City,1
+1,1,5,0,0,0,4,2,50,Steven,4,2,50,25,3,4,Steven Adams,6,8,Adams,C,1,Oklahoma City,1
+1,2,3,0,0,0,3,3,100,Andre,0,0,0,22,1,3,Andre Roberson,6,4,Roberson,G,1,Oklahoma City,0
+10,0,4,5,1,20,15,7,47,Russell,10,9,90,34,1,5,Russell Westbrook,24,5,Westbrook,G,1,Oklahoma City,8
+4,1,1,2,1,50,4,1,25,Dion,2,1,50,23,1,1,Dion Waiters,4,2,Waiters,N/A,0,Oklahoma City,0
+0,1,2,3,2,67,5,3,60,Kyle,0,0,0,16,1,3,Kyle Singler,8,3,Singler,N/A,0,Oklahoma City,2
+0,0,0,2,1,50,3,2,67,Randy,0,0,0,19,0,3,Randy Foye,5,0,Foye,N/A,0,Oklahoma City,2
+0,0,4,1,1,100,7,4,57,Enes,4,2,50,20,2,1,Enes Kanter,11,6,Kanter,N/A,1,Oklahoma City,2
+0,0,1,1,1,100,1,1,100,Anthony,0,0,0,6,0,0,Anthony Morrow,3,1,Morrow,N/A,0,Oklahoma City,0
+0,0,1,1,0,0,1,0,0,Cameron,0,0,0,5,0,1,Cameron Payne,0,1,Payne,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nazr,N/A,N/A,N/A,N/A,N/A,N/A,Nazr Mohammed,N/A,N/A,Mohammed,N/A,N/A,Oklahoma City,N/A
+3,2,4,6,1,17,19,9,47,Rudy,7,5,71,38,4,4,Rudy Gay,24,8,Gay,F,4,Sacramento,1
+3,1,4,3,0,0,24,7,29,DeMarcus,4,1,25,32,3,6,DeMarcus Cousins,15,7,Cousins,F,2,Sacramento,2
+2,0,1,0,0,0,2,2,100,Willie,2,0,0,21,3,1,Willie Cauley-Stein,4,4,Cauley-Stein,C,2,Sacramento,0
+0,0,1,4,1,25,7,2,29,James,0,0,0,24,0,2,James Anderson,5,1,Anderson,G,1,Sacramento,1
+8,0,5,6,4,67,16,10,63,Darren,3,3,100,37,0,2,Darren Collison,27,5,Collison,G,2,Sacramento,4
+1,1,2,0,0,0,5,4,80,Kosta,0,0,0,17,2,4,Kosta Koufos,8,4,Koufos,N/A,0,Sacramento,1
+3,0,1,10,6,60,13,7,54,Seth,0,0,0,33,1,2,Seth Curry,20,2,Curry,N/A,0,Sacramento,1
+0,0,5,1,0,0,5,3,60,Quincy,2,1,50,21,3,1,Quincy Acy,7,8,Acy,N/A,1,Sacramento,1
+2,0,1,2,1,50,3,1,33,Ben,2,1,50,17,0,1,Ben McLemore,4,1,McLemore,N/A,0,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caron,N/A,N/A,N/A,N/A,N/A,N/A,Caron Butler,N/A,N/A,Butler,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Duje,N/A,N/A,N/A,N/A,N/A,N/A,Duje Dukan,N/A,N/A,Dukan,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Moreland,N/A,N/A,Moreland,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rajon,N/A,N/A,N/A,N/A,N/A,N/A,Rajon Rondo,N/A,N/A,Rondo,N/A,N/A,Sacramento,N/A

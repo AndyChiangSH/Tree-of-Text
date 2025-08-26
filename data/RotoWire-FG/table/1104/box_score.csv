@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,2,7,3,43,8,3,38,Landry,3,3,100,36,0,3,Landry Shamet,12,2,Shamet,F,0,LA,0
+1,1,6,5,3,60,15,9,60,Danilo,3,2,67,28,0,2,Danilo Gallinari,23,6,Gallinari,F,0,LA,1
+1,0,3,0,0,0,4,3,75,Ivica,2,1,50,14,1,2,Ivica Zubac,7,4,Zubac,C,0,LA,0
+4,0,7,6,3,50,8,4,50,Patrick,2,2,100,36,2,2,Patrick Beverley,13,9,Beverley,G,5,LA,2
+4,2,1,2,1,50,9,5,56,Shai,3,3,100,24,0,1,Shai Gilgeous-Alexander,14,1,Gilgeous-Alexander,G,0,LA,0
+1,0,7,4,1,25,5,1,20,JaMychal,0,0,0,20,1,4,JaMychal Green,3,8,Green,N/A,1,LA,1
+5,0,10,0,0,0,15,7,47,Montrezl,2,0,0,34,1,5,Montrezl Harrell,14,11,Harrell,N/A,0,LA,4
+5,0,1,4,0,0,15,8,53,Lou,5,5,100,30,2,0,Lou Williams,21,3,Williams,N/A,1,LA,3
+1,0,2,1,0,0,1,0,0,Garrett,2,2,100,11,0,2,Garrett Temple,2,2,Temple,N/A,0,LA,0
+0,0,3,0,0,0,3,1,33,Tyrone,2,2,100,6,1,1,Tyrone Wallace,4,4,Wallace,N/A,0,LA,1
+0,0,0,0,0,0,0,0,0,Sindarius,0,0,0,0,0,0,Sindarius Thornwell,0,0,Thornwell,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan Motley,N/A,N/A,Motley,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerome,N/A,N/A,N/A,N/A,N/A,N/A,Jerome Robinson,N/A,N/A,Robinson,N/A,N/A,LA,N/A
+6,1,8,6,1,17,18,9,50,LeBron,12,8,67,42,0,3,LeBron James,27,8,James,F,1,Los Angeles,2
+1,0,4,5,1,20,15,5,33,Kyle,2,2,100,36,2,4,Kyle Kuzma,13,6,Kuzma,F,0,Los Angeles,3
+0,2,0,0,0,0,8,3,38,JaVale,1,1,100,13,3,2,JaVale McGee,7,3,McGee,C,0,Los Angeles,1
+1,1,5,7,0,0,10,3,30,Reggie,1,1,100,36,0,2,Reggie Bullock,7,5,Bullock,G,0,Los Angeles,1
+12,0,10,10,4,40,18,10,56,Rajon,0,0,0,38,0,5,Rajon Rondo,24,10,Rondo,G,1,Los Angeles,5
+0,0,1,2,1,50,4,1,25,Mike,4,3,75,15,0,3,Mike Muscala,6,1,Muscala,N/A,0,Los Angeles,0
+0,1,4,4,2,50,11,6,55,Josh,3,3,100,30,0,1,Josh Hart,17,4,Hart,N/A,0,Los Angeles,0
+1,1,1,3,1,33,5,1,20,Kentavious,1,1,100,20,0,0,Kentavious Caldwell-Pope,4,1,Caldwell-Pope,N/A,0,Los Angeles,0
+0,0,0,1,0,0,2,0,0,Moritz,0,0,0,4,2,0,Moritz Wagner,0,2,Wagner,N/A,0,Los Angeles,0
+1,0,0,0,0,0,0,0,0,Alex,0,0,0,5,0,1,Alex Caruso,0,0,Caruso,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaac,N/A,N/A,N/A,N/A,N/A,N/A,Isaac Bonga,N/A,N/A,Bonga,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Ingram,N/A,N/A,Ingram,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan Williams,N/A,N/A,Williams,N/A,N/A,Los Angeles,N/A

@@ -1,0 +1,34 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,4,00:26:13,0,1,LOH Kean Yew,rush,opponent wins by landing,wins by landing
+2,4,00:26:30,0,2,LOH Kean Yew,lob,hits the net,opponent hits the net
+3,18,00:26:56,0,3,LOH Kean Yew,drop,goes out of bounds,opponent goes out of bounds
+5,8,00:27:47,2,3,LEE Zii Jia,wrist smash,hits the net,opponent hits the net
+6,20,00:28:22,2,4,LOH Kean Yew,wrist smash,opponent wins by landing,wins by landing
+7,7,00:29:05,3,4,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+8,4,00:29:26,4,4,LEE Zii Jia,unknown,fails to clear the net,opponent fails to clear the net
+9,18,00:29:53,5,4,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+10,9,00:30:25,6,4,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+12,40,00:32:25,8,4,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+13,7,00:33:16,8,5,LOH Kean Yew,defensive return lob,goes out of bounds,opponent goes out of bounds
+14,6,00:33:34,8,6,LOH Kean Yew,smash,hits the net,opponent hits the net
+15,11,00:34:04,8,7,LOH Kean Yew,smash,opponent wins by landing,wins by landing
+16,7,00:34:27,9,7,LEE Zii Jia,push,goes out of bounds,opponent goes out of bounds
+18,5,00:34:59,10,8,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+19,14,00:35:25,11,8,LEE Zii Jia,defensive return drive,goes out of bounds,opponent goes out of bounds
+20,5,00:36:49,12,8,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+21,9,00:37:12,13,8,LEE Zii Jia,return net,landing judgment error,opponent landing judgment error
+22,17,00:37:50,13,9,LOH Kean Yew,smash,hits the net,opponent hits the net
+23,25,00:38:47,14,9,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+24,4,00:39:21,14,10,LOH Kean Yew,defensive return lob,landing judgment error,opponent landing judgment error
+25,14,00:39:47,14,11,LOH Kean Yew,return net,goes out of bounds,opponent goes out of bounds
+26,4,00:40:10,14,12,LOH Kean Yew,smash,hits the net,opponent hits the net
+27,2,00:40:26,14,13,LOH Kean Yew,net shot,hits the net,opponent hits the net
+28,7,00:40:46,14,14,LOH Kean Yew,lob,landing judgment error,opponent landing judgment error
+29,27,00:41:33,15,14,LEE Zii Jia,defensive return lob,fails to clear the net,opponent fails to clear the net
+30,4,00:42:14,16,14,LEE Zii Jia,unknown,hits the net,opponent hits the net
+31,5,00:42:37,17,14,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+32,22,00:43:43,18,14,LEE Zii Jia,net shot,hits the net,opponent hits the net
+33,6,00:44:32,18,15,LOH Kean Yew,smash,opponent wins by landing,wins by landing
+34,7,00:45:00,19,15,LEE Zii Jia,smash,hits the net,opponent hits the net
+35,8,00:45:22,20,15,LEE Zii Jia,push,goes out of bounds,opponent goes out of bounds
+36,5,00:46:02,21,15,LEE Zii Jia,rush,opponent wins by landing,wins by landing

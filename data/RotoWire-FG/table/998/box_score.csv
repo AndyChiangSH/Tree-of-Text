@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,1,7,0,0,0,5,3,60,Kyle,0,0,0,39,1,5,Kyle Anderson,6,8,Anderson,F,0,Memphis,2
+1,0,2,1,1,100,8,5,62,Jaren,3,2,67,16,0,5,Jaren Jackson Jr.,13,2,Jackson,F,2,Memphis,0
+2,1,4,12,6,50,18,10,56,Marc,5,3,60,38,1,1,Marc Gasol,29,5,Gasol,C,1,Memphis,5
+2,0,5,4,1,25,9,3,33,Garrett,4,4,100,38,0,4,Garrett Temple,11,5,Temple,G,2,Memphis,1
+4,0,2,6,2,33,16,9,56,Mike,8,6,75,36,0,2,Mike Conley,26,2,Conley,G,2,Memphis,2
+2,0,0,4,0,0,8,4,50,Wayne,1,1,100,21,2,1,Wayne Selden,9,2,Selden,N/A,0,Memphis,0
+5,0,6,6,3,50,12,5,42,Shelvin,3,2,67,29,0,1,Shelvin Mack,15,6,Mack,N/A,1,Memphis,0
+3,1,2,2,1,50,6,3,50,MarShon,0,0,0,16,0,1,MarShon Brooks,7,2,Brooks,N/A,0,Memphis,2
+0,1,2,1,0,0,1,0,0,Yuta,0,0,0,8,0,0,Yuta Watanabe,0,2,Watanabe,N/A,0,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jevon,N/A,N/A,N/A,N/A,N/A,N/A,Jevon Carter,N/A,N/A,Carter,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chandler,N/A,N/A,N/A,N/A,N/A,N/A,Chandler Parsons,N/A,N/A,Parsons,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ivan,N/A,N/A,N/A,N/A,N/A,N/A,Ivan Rabb,N/A,N/A,Rabb,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DJ,N/A,N/A,N/A,N/A,N/A,N/A,DJ Stephens,N/A,N/A,Stephens,N/A,N/A,Memphis,N/A
+3,0,4,7,2,29,16,8,50,Khris,7,7,100,32,1,1,Khris Middleton,25,5,Middleton,F,0,Milwaukee,2
+4,2,8,2,0,0,14,10,71,Giannis,12,11,92,34,1,4,Giannis Antetokounmpo,31,9,Antetokounmpo,F,1,Milwaukee,6
+3,0,2,5,2,40,5,2,40,Brook,0,0,0,25,0,2,Brook Lopez,6,2,Lopez,C,0,Milwaukee,0
+0,1,4,3,0,0,11,4,36,Malcolm,0,0,0,27,1,0,Malcolm Brogdon,8,5,Brogdon,G,0,Milwaukee,4
+7,0,5,3,1,33,11,6,55,Eric,4,2,50,30,1,5,Eric Bledsoe,15,6,Bledsoe,G,2,Milwaukee,1
+0,0,2,2,0,0,7,3,43,Ersan,0,0,0,25,3,3,Ersan Ilyasova,6,5,Ilyasova,N/A,0,Milwaukee,2
+0,0,0,2,1,50,2,1,50,Donte,0,0,0,6,0,2,Donte DiVincenzo,3,0,DiVincenzo,N/A,0,Milwaukee,0
+1,0,3,2,0,0,2,0,0,John,0,0,0,5,0,0,John Henson,0,3,Henson,N/A,0,Milwaukee,0
+1,2,1,2,0,0,2,0,0,Tony,0,0,0,18,0,2,Tony Snell,0,1,Snell,N/A,0,Milwaukee,0
+2,1,4,5,2,40,9,6,67,Pat,4,2,50,27,2,1,Pat Connaughton,16,6,Connaughton,N/A,2,Milwaukee,1
+1,2,2,2,1,50,2,1,50,Thon,0,0,0,9,0,2,Thon Maker,3,2,Maker,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Matthew,N/A,N/A,N/A,N/A,N/A,N/A,Matthew Dellavedova,N/A,N/A,Dellavedova,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen Morris,N/A,N/A,Morris,N/A,N/A,Milwaukee,N/A

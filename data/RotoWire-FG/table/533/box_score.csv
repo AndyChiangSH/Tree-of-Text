@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,5,1,0,0,10,5,50,Luol,0,0,0,21,1,1,Luol Deng,10,6,Deng,F,0,Los Angeles,1
+0,0,10,1,0,0,6,3,50,Julius,3,3,100,20,0,6,Julius Randle,9,10,Randle,F,1,Los Angeles,3
+0,0,2,1,0,0,7,3,43,Timofey,0,0,0,19,3,2,Timofey Mozgov,6,5,Mozgov,C,0,Los Angeles,1
+0,0,4,4,2,50,6,3,50,Nick,0,0,0,21,0,3,Nick Young,8,4,Young,G,0,Los Angeles,0
+3,0,0,4,0,0,10,3,30,D'Angelo,5,5,100,19,0,2,D'Angelo Russell,11,0,Russell,G,0,Los Angeles,2
+2,0,2,2,1,50,4,3,75,Jose,2,2,100,17,0,1,Jose Calderon,9,2,Calderon,N/A,1,Los Angeles,3
+1,1,1,1,0,0,10,4,40,Larry,4,3,75,30,4,3,Larry Nance Jr.,11,5,Nance,N/A,6,Los Angeles,3
+1,0,3,2,0,0,4,1,25,Brandon,0,0,0,15,0,2,Brandon Ingram,2,3,Ingram,N/A,0,Los Angeles,1
+0,0,0,4,0,0,16,7,44,Jordan,1,1,100,31,1,2,Jordan Clarkson,15,1,Clarkson,N/A,0,Los Angeles,0
+1,1,6,0,0,0,2,1,50,Tarik,4,4,100,19,2,3,Tarik Black,6,8,Black,N/A,0,Los Angeles,1
+5,0,0,8,3,38,14,7,50,Lou,2,2,100,27,0,0,Lou Williams,19,0,Williams,N/A,0,Los Angeles,4
+0,0,0,0,0,0,0,0,0,Metta,4,2,50,3,0,0,Metta World Peace,2,0,World,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo Huertas,N/A,N/A,Huertas,N/A,N/A,Los Angeles,N/A
+1,1,5,5,2,40,16,8,50,Paul,12,12,100,37,2,2,Paul George,30,7,George,F,4,Indiana,6
+3,1,5,4,2,50,8,6,75,Thaddeus,0,0,0,28,1,2,Thaddeus Young,14,6,Young,F,2,Indiana,0
+2,2,6,1,0,0,7,2,29,Myles,7,5,71,25,0,5,Myles Turner,9,6,Turner,C,0,Indiana,1
+3,2,2,5,2,40,14,6,43,Monta,4,3,75,38,0,2,Monta Ellis,17,2,Ellis,G,0,Indiana,2
+6,0,5,7,1,14,15,4,27,Jeff,2,0,0,33,1,2,Jeff Teague,9,6,Teague,G,2,Indiana,3
+0,1,1,3,2,67,9,6,67,CJ,2,2,100,23,1,1,CJ Miles,16,2,Miles,N/A,1,Indiana,1
+1,0,5,0,0,0,6,2,33,Al,0,0,0,14,2,4,Al Jefferson,4,7,Jefferson,N/A,0,Indiana,1
+1,0,1,0,0,0,3,2,67,Lavoy,0,0,0,19,2,1,Lavoy Allen,4,3,Allen,N/A,1,Indiana,0
+2,1,0,3,1,33,7,3,43,Aaron,2,1,50,16,1,1,Aaron Brooks,8,1,Brooks,N/A,0,Indiana,0
+0,0,2,0,0,0,2,2,100,Kevin,0,0,0,8,1,0,Kevin Seraphin,4,3,Seraphin,N/A,0,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Georges,N/A,N/A,N/A,N/A,N/A,N/A,Georges Niang,N/A,N/A,Niang,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Glenn,N/A,N/A,N/A,N/A,N/A,N/A,Glenn Robinson,N/A,N/A,Robinson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A

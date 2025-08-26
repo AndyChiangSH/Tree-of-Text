@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,3,4,1,25,9,2,22,Kevin,1,0,0,29,0,2,Kevin Huerter,5,3,Huerter,F,1,Atlanta,2
+0,2,3,0,0,0,0,0,0,Alex,0,0,0,11,0,1,Alex Poythress,0,3,Poythress,F,0,Atlanta,0
+2,0,2,1,0,0,7,1,14,Alex,4,3,75,20,2,2,Alex Len,5,4,Len,C,1,Atlanta,0
+4,1,4,4,2,50,14,5,36,Kent,2,1,50,31,1,3,Kent Bazemore,13,5,Bazemore,G,4,Atlanta,1
+4,0,1,5,0,0,11,3,27,Trae,4,3,75,24,0,2,Trae Young,9,1,Young,G,1,Atlanta,3
+4,0,4,3,2,67,11,7,64,Jeremy,0,0,0,24,0,5,Jeremy Lin,16,4,Lin,N/A,3,Atlanta,4
+1,1,7,2,1,50,5,4,80,Dewayne,3,3,100,23,0,3,Dewayne Dedmon,12,7,Dedmon,N/A,0,Atlanta,3
+2,0,4,3,0,0,10,3,30,DeAndre',2,2,100,23,0,1,DeAndre' Bembry,8,4,Bembry,N/A,1,Atlanta,1
+0,1,1,1,0,0,6,3,50,John,7,6,86,12,1,1,John Collins,12,2,Collins,N/A,0,Atlanta,3
+0,0,2,1,0,0,3,0,0,Tyler,0,0,0,14,0,0,Tyler Dorsey,0,2,Dorsey,N/A,1,Atlanta,1
+0,0,1,0,0,0,3,1,33,Omari,2,0,0,12,1,2,Omari Spellman,2,2,Spellman,N/A,2,Atlanta,0
+0,0,4,5,2,40,8,2,25,Vince,2,1,50,16,0,2,Vince Carter,7,4,Carter,N/A,1,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Miles,N/A,N/A,N/A,N/A,N/A,N/A,Miles Plumlee,N/A,N/A,Plumlee,N/A,N/A,Atlanta,N/A
+0,0,4,5,3,60,12,7,58,Bojan,5,5,100,28,0,2,Bojan Bogdanovic,22,4,Bogdanovic,F,0,Indiana,4
+2,0,5,1,0,0,11,4,36,Thaddeus,5,3,60,27,2,4,Thaddeus Young,11,7,Young,F,0,Indiana,0
+2,3,9,4,2,50,11,4,36,Myles,2,0,0,25,1,2,Myles Turner,10,10,Turner,C,0,Indiana,3
+1,0,2,0,0,0,1,0,0,Victor,2,2,100,5,0,0,Victor Oladipo,2,2,Oladipo,G,0,Indiana,1
+5,0,1,3,2,67,10,4,40,Darren,2,2,100,26,1,3,Darren Collison,12,2,Collison,G,2,Indiana,1
+0,0,2,7,2,29,12,4,33,Tyreke,2,1,50,24,0,1,Tyreke Evans,11,2,Evans,N/A,1,Indiana,3
+6,1,12,0,0,0,7,4,57,Domantas,1,1,100,28,4,4,Domantas Sabonis,9,16,Sabonis,N/A,1,Indiana,1
+5,0,3,2,0,0,8,2,25,Cory,0,0,0,30,0,3,Cory Joseph,4,3,Joseph,N/A,5,Indiana,7
+1,0,1,4,0,0,8,2,25,Doug,0,0,0,25,0,1,Doug McDermott,4,1,McDermott,N/A,1,Indiana,0
+1,1,0,0,0,0,0,0,0,TJ,0,0,0,4,0,1,TJ Leaf,0,0,Leaf,N/A,1,Indiana,0
+0,1,1,0,0,0,1,0,0,Kyle,0,0,0,3,2,1,Kyle O'Quinn,0,3,O'Quinn,N/A,0,Indiana,0
+2,0,3,4,3,75,6,4,67,Aaron,2,1,50,15,0,4,Aaron Holiday,12,3,Holiday,N/A,0,Indiana,2

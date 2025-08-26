@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,5,3,1,33,13,3,23,Harrison,5,4,80,39,1,2,Harrison Barnes,11,6,Barnes,F,2,Dallas,0
+0,0,2,1,0,0,2,0,0,Dorian,2,2,100,14,0,0,Dorian Finney-Smith,2,2,Finney-Smith,F,0,Dallas,0
+1,4,6,0,0,0,6,2,33,Andrew,0,0,0,34,2,2,Andrew Bogut,4,8,Bogut,C,0,Dallas,1
+2,0,4,6,3,50,11,4,36,Wesley,2,2,100,36,0,0,Wesley Matthews,13,4,Matthews,G,0,Dallas,2
+4,0,1,5,2,40,12,4,33,Seth,4,3,75,35,0,1,Seth Curry,13,1,Curry,G,2,Dallas,2
+0,0,4,0,0,0,6,0,0,Dwight,5,4,80,21,2,1,Dwight Powell,4,6,Powell,N/A,1,Dallas,0
+3,0,6,9,5,56,16,8,50,Jonathan,6,5,83,32,0,5,Jonathan Gibson,26,6,Gibson,N/A,2,Dallas,6
+0,1,0,3,1,33,8,3,38,Justin,3,2,67,23,0,3,Justin Anderson,9,0,Anderson,N/A,1,Dallas,1
+0,0,1,1,1,100,3,2,67,Nicolas,0,0,0,5,0,1,Nicolas Brussino,5,1,Brussino,N/A,0,Dallas,1
+0,0,0,0,0,0,0,0,0,Salah,0,0,0,2,0,1,Salah Mejri,0,0,Mejri,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,J.J.,N/A,N/A,N/A,N/A,N/A,N/A,J.J. Barea,N/A,N/A,Barea,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,AJ,N/A,N/A,N/A,N/A,N/A,N/A,AJ Hammons,N/A,N/A,Hammons,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Deron,N/A,N/A,N/A,N/A,N/A,N/A,Deron Williams,N/A,N/A,Williams,N/A,N/A,Dallas,N/A
+2,0,3,1,0,0,7,4,57,Jeff,0,0,0,22,0,3,Jeff Green,8,3,Green,F,1,Orlando,1
+1,3,6,3,2,67,12,6,50,Serge,2,1,50,31,3,3,Serge Ibaka,15,9,Ibaka,F,1,Orlando,4
+1,0,11,1,0,0,16,5,31,Nikola,2,2,100,26,1,0,Nikola Vucevic,12,12,Vucevic,C,0,Orlando,1
+2,0,5,6,2,33,13,3,23,Evan,3,3,100,32,2,2,Evan Fournier,11,7,Fournier,G,2,Orlando,4
+2,2,3,0,0,0,3,2,67,Elfrid,0,0,0,20,0,0,Elfrid Payton,4,3,Payton,G,1,Orlando,4
+1,0,3,2,1,50,5,2,40,Aaron,0,0,0,25,1,4,Aaron Gordon,5,4,Gordon,N/A,0,Orlando,2
+2,3,7,0,0,0,6,4,67,Bismack,7,5,71,23,3,4,Bismack Biyombo,13,10,Biyombo,N/A,0,Orlando,0
+6,0,2,5,2,40,11,6,55,D.J.,4,4,100,30,0,1,D.J. Augustin,18,2,Augustin,N/A,0,Orlando,3
+0,0,0,1,0,0,1,0,0,Damjan,0,0,0,12,0,3,Damjan Rudez,0,0,Rudez,N/A,1,Orlando,0
+0,0,0,2,1,50,4,2,50,CJ,4,4,100,19,0,1,CJ Watson,9,0,Watson,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mario,N/A,N/A,N/A,N/A,N/A,N/A,Mario Hezonja,N/A,N/A,Hezonja,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Arinze,N/A,N/A,N/A,N/A,N/A,N/A,Arinze Onuaku,N/A,N/A,Onuaku,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Wilcox,N/A,N/A,Wilcox,N/A,N/A,Orlando,N/A

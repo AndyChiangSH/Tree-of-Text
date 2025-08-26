@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,3,2,0,0,8,1,13,DeMarre,2,1,50,34,2,3,DeMarre Carroll,3,5,Carroll,F,0,Toronto,0
+1,0,10,2,1,50,13,9,69,Luis,0,0,0,31,2,2,Luis Scola,19,12,Scola,F,2,Toronto,0
+0,2,6,0,0,0,10,6,60,Jonas,5,4,80,34,2,3,Jonas Valanciunas,16,8,Valanciunas,C,0,Toronto,4
+2,0,3,0,0,0,13,6,46,DeMar,8,8,100,28,1,3,DeMar DeRozan,20,4,DeRozan,G,1,Toronto,3
+10,2,5,5,4,80,15,9,60,Kyle,5,5,100,37,0,4,Kyle Lowry,27,5,Lowry,G,3,Toronto,4
+2,0,1,4,0,0,8,2,25,Terrence,0,0,0,23,0,5,Terrence Ross,4,1,Ross,N/A,1,Toronto,1
+0,1,4,0,0,0,4,2,50,Bismack,2,1,50,14,2,3,Bismack Biyombo,5,6,Biyombo,N/A,0,Toronto,2
+2,0,0,0,0,0,3,1,33,Cory,4,4,100,20,0,1,Cory Joseph,6,0,Joseph,N/A,0,Toronto,2
+0,0,4,3,0,0,6,0,0,Patrick,0,0,0,17,1,1,Patrick Patterson,0,5,Patterson,N/A,1,Toronto,0
+0,0,1,1,0,0,2,1,50,Norman,0,0,0,3,0,1,Norman Powell,2,1,Powell,N/A,0,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Bennett,N/A,N/A,Bennett,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Johnson,N/A,N/A,Johnson,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Delon,N/A,N/A,N/A,N/A,N/A,N/A,Delon Wright,N/A,N/A,Wright,N/A,N/A,Toronto,N/A
+1,0,1,3,2,67,6,3,50,Chandler,4,1,25,14,1,1,Chandler Parsons,9,2,Parsons,F,0,Dallas,2
+2,1,6,4,3,75,10,6,60,Dirk,3,3,100,35,1,1,Dirk Nowitzki,18,7,Nowitzki,F,1,Dallas,2
+0,0,2,0,0,0,4,1,25,Zaza,2,2,100,28,5,5,Zaza Pachulia,4,7,Pachulia,C,0,Dallas,3
+3,0,2,3,1,33,7,3,43,Wesley,2,1,50,28,1,5,Wesley Matthews,8,3,Matthews,G,0,Dallas,2
+4,0,2,5,1,20,15,4,27,Deron,4,4,100,36,1,4,Deron Williams,13,3,Williams,G,0,Dallas,1
+0,0,2,0,0,0,6,3,50,Raymond,0,0,0,19,0,2,Raymond Felton,6,2,Felton,N/A,0,Dallas,3
+3,0,9,0,0,0,14,4,29,Dwight,2,2,100,26,1,2,Dwight Powell,10,10,Powell,N/A,2,Dallas,0
+1,2,4,3,0,0,8,3,38,Devin,6,3,50,24,2,2,Devin Harris,9,6,Harris,N/A,1,Dallas,1
+0,0,1,2,0,0,4,2,50,Charlie,0,0,0,5,1,2,Charlie Villanueva,4,2,Villanueva,N/A,0,Dallas,0
+6,0,1,3,0,0,10,3,30,J.J.,2,2,100,23,1,1,J.J. Barea,8,2,Barea,N/A,1,Dallas,1
+0,0,0,0,0,0,0,0,0,Salah,0,0,0,1,0,0,Salah Mejri,0,0,Mejri,N/A,0,Dallas,0
+0,0,0,0,0,0,2,1,50,Justin,0,0,0,1,0,0,Justin Anderson,2,0,Anderson,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Evans,N/A,N/A,Evans,N/A,N/A,Dallas,N/A

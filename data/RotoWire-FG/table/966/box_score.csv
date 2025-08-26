@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,0,4,0,0,5,0,0,Danny,0,0,0,16,1,1,Danny Green,0,1,Green,F,0,San Antonio,1
+2,0,3,4,1,25,15,4,27,Rudy,0,0,0,33,1,4,Rudy Gay,9,4,Gay,F,0,San Antonio,2
+4,0,9,2,0,0,18,8,44,LaMarcus,14,14,100,40,3,3,LaMarcus Aldridge,30,12,Aldridge,C,1,San Antonio,2
+0,0,3,10,4,40,15,7,47,Patty,0,0,0,36,2,3,Patty Mills,18,5,Mills,G,0,San Antonio,1
+0,0,7,1,0,0,6,2,33,Dejounte,3,2,67,18,1,2,Dejounte Murray,6,8,Murray,G,0,San Antonio,0
+7,0,5,4,1,25,7,3,43,Manu,3,3,100,25,0,3,Manu Ginobili,10,5,Ginobili,N/A,0,San Antonio,2
+0,0,1,0,0,0,5,5,100,Kyle,0,0,0,17,3,3,Kyle Anderson,10,4,Anderson,N/A,3,San Antonio,3
+3,0,4,0,0,0,3,0,0,Pau,2,1,50,18,2,0,Pau Gasol,1,6,Gasol,N/A,0,San Antonio,1
+1,0,1,1,0,0,7,2,29,Tony,0,0,0,14,0,1,Tony Parker,4,1,Parker,N/A,0,San Antonio,1
+3,0,2,3,1,33,3,1,33,Davis,0,0,0,16,0,1,Davis Bertans,3,2,Bertans,N/A,1,San Antonio,0
+1,0,0,1,0,0,2,0,0,Bryn,0,0,0,7,0,1,Bryn Forbes,0,0,Forbes,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey Lauvergne,N/A,N/A,Lauvergne,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick White,N/A,N/A,White,N/A,N/A,San Antonio,N/A
+5,2,6,8,1,12,19,8,42,Kevin,8,8,100,40,0,1,Kevin Durant,25,6,Durant,F,1,Golden State,5
+7,0,14,7,2,29,11,5,46,Draymond,7,5,71,40,5,5,Draymond Green,17,19,Green,F,0,Golden State,1
+1,1,4,0,0,0,5,2,40,JaVale,0,0,0,14,0,1,JaVale McGee,4,4,McGee,C,0,Golden State,0
+4,1,4,5,1,20,22,11,50,Klay,1,1,100,41,1,2,Klay Thompson,24,5,Thompson,G,0,Golden State,2
+3,0,2,4,1,25,8,3,38,Andre,0,0,0,31,0,3,Andre Iguodala,7,2,Iguodala,G,1,Golden State,0
+1,0,0,0,0,0,7,4,57,Shaun,0,0,0,18,1,0,Shaun Livingston,8,1,Livingston,N/A,0,Golden State,1
+1,0,3,1,0,0,5,2,40,Kevon,7,4,57,23,0,4,Kevon Looney,8,3,Looney,N/A,1,Golden State,0
+3,1,6,0,0,0,4,2,50,David,0,0,0,18,1,2,David West,4,7,West,N/A,2,Golden State,1
+0,0,0,1,0,0,1,0,0,Quinn,2,2,100,8,0,1,Quinn Cook,2,0,Cook,N/A,0,Golden State,0
+0,0,0,1,0,0,1,0,0,Nick,0,0,0,6,0,0,Nick Young,0,0,Young,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Bell,N/A,N/A,Bell,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damian,N/A,N/A,N/A,N/A,N/A,N/A,Damian Jones,N/A,N/A,Jones,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zaza,N/A,N/A,N/A,N/A,N/A,N/A,Zaza Pachulia,N/A,N/A,Pachulia,N/A,N/A,Golden State,N/A

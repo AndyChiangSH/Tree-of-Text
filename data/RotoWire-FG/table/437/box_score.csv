@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,2,4,0,0,16,7,44,Kawhi,10,7,70,31,1,5,Kawhi Leonard,21,3,Leonard,F,1,San Antonio,3
+1,1,9,1,1,100,15,5,33,LaMarcus,4,4,100,34,2,5,LaMarcus Aldridge,15,11,Aldridge,F,1,San Antonio,2
+3,4,10,0,0,0,3,2,67,Dewayne,0,0,0,24,2,2,Dewayne Dedmon,4,12,Dedmon,C,1,San Antonio,2
+2,0,2,3,1,33,4,1,25,Danny,0,0,0,28,1,4,Danny Green,3,3,Green,G,1,San Antonio,0
+3,0,2,2,1,50,12,5,42,Tony,6,6,100,31,0,0,Tony Parker,17,2,Parker,G,2,San Antonio,2
+4,0,0,4,1,25,5,2,40,Manu,1,1,100,22,2,1,Manu Ginobili,6,2,Ginobili,N/A,3,San Antonio,0
+1,0,1,7,2,29,10,5,50,Patty,3,2,67,21,0,0,Patty Mills,14,1,Mills,N/A,0,San Antonio,2
+2,1,7,3,3,100,7,5,71,Pau,4,4,100,27,5,3,Pau Gasol,17,12,Gasol,N/A,0,San Antonio,2
+1,0,0,2,0,0,5,2,40,Jonathon,2,2,100,10,0,0,Jonathon Simmons,6,0,Simmons,N/A,0,San Antonio,0
+0,1,3,0,0,0,5,1,20,David,0,0,0,11,2,1,David Lee,2,5,Lee,N/A,0,San Antonio,0
+0,0,0,0,0,0,0,0,0,Dejounte,0,0,0,0,0,0,Dejounte Murray,0,0,Murray,N/A,0,San Antonio,0
+0,0,0,0,0,0,0,0,0,Kyle,0,0,0,2,0,0,Kyle Anderson,0,0,Anderson,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Davis,N/A,N/A,N/A,N/A,N/A,N/A,Davis Bertans,N/A,N/A,Bertans,N/A,N/A,San Antonio,N/A
+0,0,1,0,0,0,1,0,0,Luc,0,0,0,19,0,4,Luc Mbah a Moute,0,1,Mbah,F,1,LA,0
+5,0,7,2,0,0,17,9,53,Blake,11,11,100,38,2,5,Blake Griffin,29,9,Griffin,F,1,LA,3
+0,0,6,0,0,0,9,7,78,DeAndre,1,0,0,33,2,4,DeAndre Jordan,14,8,Jordan,C,2,LA,2
+2,0,2,8,2,25,9,2,22,JJ,0,0,0,32,0,1,JJ Redick,6,2,Redick,G,1,LA,0
+5,0,6,3,2,67,14,6,43,Chris,4,3,75,33,0,4,Chris Paul,17,6,Paul,G,2,LA,4
+3,0,0,6,2,33,14,8,57,Austin,6,5,83,27,0,4,Austin Rivers,23,0,Rivers,N/A,0,LA,0
+0,0,0,0,0,0,2,0,0,Raymond,0,0,0,14,0,0,Raymond Felton,0,0,Felton,N/A,1,LA,1
+1,0,0,1,0,0,2,0,0,Jamal,0,0,0,19,0,1,Jamal Crawford,0,0,Crawford,N/A,0,LA,0
+2,1,3,3,1,33,6,1,17,Marreese,0,0,0,15,1,3,Marreese Speights,3,4,Speights,N/A,0,LA,2
+0,1,3,0,0,0,5,2,40,Brandon,2,1,50,10,3,0,Brandon Bass,5,6,Bass,N/A,1,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Anderson,N/A,N/A,Anderson,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wesley,N/A,N/A,N/A,N/A,N/A,N/A,Wesley Johnson,N/A,N/A,Johnson,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Pierce,N/A,N/A,Pierce,N/A,N/A,LA,N/A

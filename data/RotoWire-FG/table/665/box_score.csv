@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,2,4,3,0,0,12,3,25,Marcus,3,1,33,32,3,3,Marcus Morris,7,7,Morris,F,1,Detroit,0
+0,0,4,4,1,25,10,2,20,Ersan,2,1,50,29,2,2,Ersan Ilyasova,6,6,Ilyasova,F,0,Detroit,1
+3,0,13,0,0,0,18,8,44,Andre,2,1,50,41,4,5,Andre Drummond,17,17,Drummond,C,1,Detroit,2
+2,0,2,5,2,40,15,4,27,Kentavious,1,0,0,33,1,1,Kentavious Caldwell-Pope,10,3,Caldwell-Pope,G,2,Detroit,0
+3,0,4,4,1,25,11,4,36,Reggie,0,0,0,24,0,1,Reggie Jackson,9,4,Jackson,G,0,Detroit,5
+4,0,2,3,1,33,9,6,67,Spencer,5,4,80,24,0,4,Spencer Dinwiddie,17,2,Dinwiddie,N/A,0,Detroit,1
+1,0,0,5,1,20,6,1,17,Anthony,0,0,0,19,1,3,Anthony Tolliver,3,1,Tolliver,N/A,0,Detroit,0
+0,0,1,1,1,100,4,1,25,Reggie,0,0,0,15,1,0,Reggie Bullock,3,2,Bullock,N/A,1,Detroit,0
+0,0,1,0,0,0,5,4,80,Aron,2,1,50,7,0,1,Aron Baynes,9,1,Baynes,N/A,0,Detroit,0
+1,0,3,2,0,0,6,2,33,Stanley,0,0,0,16,0,5,Stanley Johnson,4,3,Johnson,N/A,2,Detroit,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Steve,N/A,N/A,N/A,N/A,N/A,N/A,Steve Blake,N/A,N/A,Blake,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrun,N/A,N/A,N/A,N/A,N/A,N/A,Darrun Hilliard,N/A,N/A,Hilliard,N/A,N/A,Detroit,N/A
+9,0,8,4,1,25,19,6,32,Kobe,4,4,100,36,0,3,Kobe Bryant,17,8,Bryant,F,2,Los Angeles,4
+2,1,5,0,0,0,8,3,38,Julius,3,2,67,31,3,2,Julius Randle,8,8,Randle,F,1,Los Angeles,2
+1,2,7,0,0,0,6,3,50,Roy,8,6,75,28,0,2,Roy Hibbert,12,7,Hibbert,C,0,Los Angeles,1
+3,0,6,4,2,50,10,5,50,Jordan,8,5,63,29,0,4,Jordan Clarkson,17,6,Clarkson,G,0,Los Angeles,5
+2,0,5,6,1,17,9,3,33,D'Angelo,2,2,100,21,0,0,D'Angelo Russell,9,5,Russell,G,0,Los Angeles,1
+1,0,0,2,0,0,3,0,0,Metta,7,5,71,12,1,3,Metta World Peace,5,1,World,N/A,0,Los Angeles,0
+4,0,2,1,0,0,4,1,25,Lou,4,2,50,20,0,2,Lou Williams,4,2,Williams,N/A,0,Los Angeles,1
+0,0,2,2,2,100,6,4,67,Nick,3,3,100,26,0,1,Nick Young,13,2,Young,N/A,1,Los Angeles,1
+2,2,2,0,0,0,5,3,60,Brandon,0,0,0,20,1,1,Brandon Bass,6,3,Bass,N/A,0,Los Angeles,1
+0,0,2,0,0,0,5,3,60,Larry,0,0,0,17,2,1,Larry Nance Jr.,6,4,Nance,N/A,1,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo Huertas,N/A,N/A,Huertas,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Los Angeles,N/A

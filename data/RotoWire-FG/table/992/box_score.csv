@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,1,3,7,3,43,14,8,57,Andrew,0,0,0,41,1,3,Andrew Wiggins,19,4,Wiggins,F,3,Minnesota,1
+3,0,7,5,3,60,14,6,43,Taj,2,1,50,37,4,3,Taj Gibson,16,11,Gibson,F,3,Minnesota,0
+1,3,7,6,1,17,16,5,31,Karl-Anthony,2,2,100,39,2,3,Karl-Anthony Towns,13,9,Towns,C,1,Minnesota,6
+5,1,3,8,5,62,18,9,50,Jimmy,1,1,100,43,2,2,Jimmy Butler,24,5,Butler,G,3,Minnesota,0
+5,0,2,9,7,78,17,11,65,Derrick,2,2,100,37,1,1,Derrick Rose,31,3,Rose,G,0,Minnesota,4
+3,0,1,0,0,0,2,0,0,Tyus,0,0,0,12,0,1,Tyus Jones,0,1,Jones,N/A,0,Minnesota,1
+0,0,1,2,1,50,2,1,50,Anthony,0,0,0,10,0,1,Anthony Tolliver,3,1,Tolliver,N/A,0,Minnesota,1
+0,0,2,1,0,0,3,0,0,Josh,0,0,0,12,0,1,Josh Okogie,0,2,Okogie,N/A,0,Minnesota,1
+0,0,3,2,0,0,5,1,20,Gorgui,2,2,100,9,1,2,Gorgui Dieng,4,4,Dieng,N/A,0,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Keita,N/A,N/A,N/A,N/A,N/A,N/A,Keita Bates-Diop,N/A,N/A,Bates-Diop,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luol,N/A,N/A,N/A,N/A,N/A,N/A,Luol Deng,N/A,N/A,Deng,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Nunnally,N/A,N/A,Nunnally,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,C.J.,N/A,N/A,N/A,N/A,N/A,N/A,C.J. Williams,N/A,N/A,Williams,N/A,N/A,Minnesota,N/A
+9,2,10,9,3,33,21,10,48,LeBron,2,1,50,39,1,1,LeBron James,24,11,James,F,0,Los Angeles,3
+1,0,2,7,4,57,15,8,53,Kyle,2,1,50,33,0,2,Kyle Kuzma,21,2,Kuzma,F,1,Los Angeles,2
+0,0,2,0,0,0,10,8,80,JaVale,0,0,0,25,2,1,JaVale McGee,16,4,McGee,C,0,Los Angeles,0
+6,2,4,3,2,67,14,8,57,Brandon,2,2,100,35,1,2,Brandon Ingram,20,5,Ingram,G,1,Los Angeles,3
+6,0,4,3,0,0,6,1,17,Lonzo,2,1,50,21,1,2,Lonzo Ball,3,5,Ball,G,3,Los Angeles,3
+0,0,4,0,0,0,4,1,25,Tyson,0,0,0,23,4,3,Tyson Chandler,2,8,Chandler,N/A,0,Los Angeles,1
+0,0,3,7,5,71,7,5,71,Josh,6,6,100,21,1,2,Josh Hart,21,4,Hart,N/A,1,Los Angeles,1
+10,0,4,1,0,0,7,1,14,Rajon,0,0,0,27,2,0,Rajon Rondo,2,6,Rondo,N/A,0,Los Angeles,3
+0,0,1,1,0,0,3,0,0,Lance,0,0,0,4,0,0,Lance Stephenson,0,1,Stephenson,N/A,0,Los Angeles,0
+0,0,1,3,1,33,4,2,50,Kentavious,0,0,0,13,0,1,Kentavious Caldwell-Pope,5,1,Caldwell-Pope,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Beasley,N/A,N/A,Beasley,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Svi,N/A,N/A,N/A,N/A,N/A,N/A,Svi Mykhailiuk,N/A,N/A,Mykhailiuk,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ivica,N/A,N/A,N/A,N/A,N/A,N/A,Ivica Zubac,N/A,N/A,Zubac,N/A,N/A,Los Angeles,N/A

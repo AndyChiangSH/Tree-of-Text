@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,6,2,33,9,3,33,DeMarre,2,2,100,20,2,0,DeMarre Carroll,10,3,Carroll,F,1,Toronto,1
+1,0,2,0,0,0,8,2,25,Pascal,0,0,0,15,3,4,Pascal Siakam,4,5,Siakam,F,2,Toronto,2
+1,1,6,0,0,0,11,6,55,Jonas,5,5,100,34,4,4,Jonas Valanciunas,17,10,Valanciunas,C,2,Toronto,3
+3,0,3,1,0,0,18,11,61,DeMar,11,9,82,30,2,1,DeMar DeRozan,31,5,DeRozan,G,0,Toronto,2
+7,0,3,10,5,50,12,6,50,Kyle,3,3,100,37,1,2,Kyle Lowry,20,4,Lowry,G,0,Toronto,0
+1,0,3,4,2,50,6,3,50,Patrick,2,1,50,28,2,1,Patrick Patterson,9,5,Patterson,N/A,0,Toronto,0
+7,0,4,1,0,0,9,5,56,Cory,4,3,75,29,1,1,Cory Joseph,13,5,Joseph,N/A,1,Toronto,1
+0,0,0,0,0,0,1,0,0,Jakob,0,0,0,7,0,3,Jakob Poeltl,0,0,Poeltl,N/A,0,Toronto,0
+0,0,2,5,1,20,8,3,38,Terrence,6,6,100,19,0,1,Terrence Ross,13,2,Ross,N/A,1,Toronto,0
+0,2,0,2,0,0,5,2,40,Norman,3,2,67,21,0,3,Norman Powell,6,0,Powell,N/A,2,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bruno,N/A,N/A,N/A,N/A,N/A,N/A,Bruno Caboclo,N/A,N/A,Caboclo,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,N/A,Lucas Nogueira,N/A,N/A,Nogueira,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Fred,N/A,N/A,N/A,N/A,N/A,N/A,Fred VanVleet,N/A,N/A,VanVleet,N/A,N/A,Toronto,N/A
+2,0,5,7,3,43,20,10,50,Robert,4,3,75,31,7,5,Robert Covington,26,12,Covington,F,0,Philadelphia,3
+5,2,5,2,0,0,6,3,50,Joel,5,3,60,27,1,5,Joel Embiid,9,6,Embiid,F,1,Philadelphia,4
+3,2,1,0,0,0,9,6,67,Jahlil,6,5,83,30,3,0,Jahlil Okafor,17,4,Okafor,C,0,Philadelphia,0
+2,0,0,3,2,67,7,6,86,Gerald,2,2,100,25,0,1,Gerald Henderson,16,0,Henderson,G,1,Philadelphia,2
+5,0,1,6,2,33,15,7,47,Sergio,0,0,0,29,0,3,Sergio Rodriguez,16,1,Rodriguez,G,0,Philadelphia,1
+1,0,7,5,1,20,13,5,39,Ersan,2,1,50,23,0,2,Ersan Ilyasova,12,7,Ilyasova,N/A,0,Philadelphia,0
+1,0,0,2,0,0,3,0,0,Nik,2,2,100,18,0,2,Nik Stauskas,2,0,Stauskas,N/A,0,Philadelphia,0
+8,0,3,0,0,0,2,1,50,T.J.,2,1,50,20,0,1,T.J. McConnell,3,3,McConnell,N/A,2,Philadelphia,3
+0,0,5,2,0,0,2,0,0,Dario,2,2,100,13,1,5,Dario Saric,2,6,Saric,N/A,0,Philadelphia,1
+1,0,0,0,0,0,5,3,60,Richaun,0,0,0,7,1,1,Richaun Holmes,6,1,Holmes,N/A,1,Philadelphia,0
+0,0,2,2,1,50,4,2,50,Hollis,0,0,0,11,1,0,Hollis Thompson,5,3,Thompson,N/A,0,Philadelphia,0
+1,0,0,0,0,0,0,0,0,Timothe,0,0,0,5,0,2,Timothe Luwawu-Cabarrot,0,0,Luwawu-Cabarrot,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens Noel,N/A,N/A,Noel,N/A,N/A,Philadelphia,N/A

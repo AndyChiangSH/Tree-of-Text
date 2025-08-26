@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,2,3,2,67,8,4,50,Thabo,2,2,100,29,2,1,Thabo Sefolosha,12,4,Sefolosha,F,4,Atlanta,0
+3,1,7,5,2,40,15,5,33,Paul,10,8,80,38,1,4,Paul Millsap,20,8,Millsap,F,1,Atlanta,1
+2,1,5,1,0,0,10,4,40,Kris,2,2,100,22,3,4,Kris Humphries,10,8,Humphries,C,0,Atlanta,1
+4,0,2,2,0,0,9,2,22,Kent,2,1,50,31,0,3,Kent Bazemore,5,2,Bazemore,G,2,Atlanta,2
+5,0,6,4,2,50,19,9,47,Dennis,7,7,100,36,0,2,Dennis Schroder,27,6,Schroder,G,1,Atlanta,3
+3,0,1,3,1,33,8,3,38,Malcolm,0,0,0,30,0,3,Malcolm Delaney,7,1,Delaney,N/A,0,Atlanta,1
+2,1,3,3,1,33,7,5,71,Mike,3,2,67,21,0,5,Mike Muscala,13,3,Muscala,N/A,0,Atlanta,0
+3,0,3,3,0,0,4,1,25,Mike,4,3,75,12,1,1,Mike Scott,5,4,Scott,N/A,1,Atlanta,0
+0,0,0,0,0,0,0,0,0,Taurean,2,1,50,1,0,0,Taurean Prince,1,0,Prince,N/A,0,Atlanta,0
+1,0,2,1,0,0,6,4,67,DeAndre',1,1,100,19,2,2,DeAndre' Bembry,9,4,Bembry,N/A,1,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Korver,N/A,N/A,Korver,N/A,N/A,Atlanta,N/A
+2,1,9,4,2,50,10,5,50,Danilo,10,9,90,33,2,3,Danilo Gallinari,21,11,Gallinari,F,0,Denver,3
+2,0,10,4,1,25,17,9,53,Wilson,3,0,0,27,1,5,Wilson Chandler,19,11,Chandler,F,1,Denver,0
+6,3,6,1,1,100,4,3,75,Nikola,2,1,50,19,1,6,Nikola Jokic,8,7,Jokic,C,0,Denver,5
+4,1,0,3,0,0,12,5,42,Gary,3,2,67,30,2,1,Gary Harris,12,2,Harris,G,1,Denver,0
+5,0,3,3,1,33,8,3,38,Emmanuel,10,10,100,28,0,1,Emmanuel Mudiay,17,3,Mudiay,G,0,Denver,2
+1,1,4,0,0,0,5,2,40,Kenneth,0,0,0,21,0,2,Kenneth Faried,4,4,Faried,N/A,0,Denver,1
+2,0,0,3,1,33,6,3,50,Jameer,2,1,50,21,1,2,Jameer Nelson,8,1,Nelson,N/A,1,Denver,1
+5,1,5,3,1,33,9,4,44,Will,5,3,60,34,0,3,Will Barton,12,5,Barton,N/A,0,Denver,0
+0,0,1,2,0,0,3,1,33,Jamal,0,0,0,17,0,2,Jamal Murray,2,1,Murray,N/A,0,Denver,1
+0,0,0,0,0,0,0,0,0,Juan,0,0,0,0,0,0,Juan Hernangomez,0,0,Hernangomez,N/A,0,Denver,0
+0,0,1,2,1,50,4,2,50,Darrell,0,0,0,11,0,4,Darrell Arthur,5,1,Arthur,N/A,0,Denver,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jusuf,N/A,N/A,N/A,N/A,N/A,N/A,Jusuf Nurkic,N/A,N/A,Nurkic,N/A,N/A,Denver,N/A

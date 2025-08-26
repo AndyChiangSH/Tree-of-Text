@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,6,5,2,40,20,8,40,Giannis,8,6,75,38,4,2,Giannis Antetokounmpo,24,10,Antetokounmpo,F,2,Milwaukee,2
+0,0,0,2,1,50,3,1,33,Thon,4,3,75,18,1,2,Thon Maker,6,1,Maker,F,1,Milwaukee,0
+0,1,7,0,0,0,6,4,67,John,4,3,75,22,2,3,John Henson,11,9,Henson,C,0,Milwaukee,2
+1,0,2,1,1,100,2,2,100,Tony,2,2,100,25,0,3,Tony Snell,7,2,Snell,G,0,Milwaukee,1
+7,0,2,3,2,67,8,5,63,Matthew,3,3,100,36,0,2,Matthew Dellavedova,15,2,Dellavedova,G,0,Milwaukee,1
+2,0,2,2,0,0,10,1,10,Malcolm,2,2,100,30,0,2,Malcolm Brogdon,4,2,Brogdon,N/A,1,Milwaukee,0
+0,0,3,0,0,0,7,3,43,Greg,4,3,75,17,3,1,Greg Monroe,9,6,Monroe,N/A,0,Milwaukee,2
+0,0,2,0,0,0,4,2,50,Michael,2,1,50,10,0,0,Michael Beasley,5,2,Beasley,N/A,0,Milwaukee,1
+0,0,0,1,0,0,1,0,0,Rashad,0,0,0,11,0,2,Rashad Vaughn,0,0,Vaughn,N/A,1,Milwaukee,0
+4,1,5,4,0,0,18,7,39,Jabari,3,2,67,32,2,1,Jabari Parker,16,7,Parker,N/A,1,Milwaukee,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Miles,N/A,N/A,N/A,N/A,N/A,N/A,Miles Plumlee,N/A,N/A,Plumlee,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mirza,N/A,N/A,N/A,N/A,N/A,N/A,Mirza Teletovic,N/A,N/A,Teletovic,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Terry,N/A,N/A,Terry,N/A,N/A,Milwaukee,N/A
+3,0,0,3,1,33,6,2,33,Rodney,2,1,50,18,0,3,Rodney McGruder,6,0,McGruder,F,0,Miami,0
+0,0,3,2,1,50,4,2,50,Luke,0,0,0,18,1,4,Luke Babbitt,5,4,Babbitt,F,2,Miami,0
+0,2,13,0,0,0,8,7,88,Hassan,4,2,50,30,2,3,Hassan Whiteside,16,15,Whiteside,C,1,Miami,1
+3,0,3,7,5,71,18,12,67,Dion,8,4,50,33,0,1,Dion Waiters,33,3,Waiters,G,1,Miami,3
+6,0,1,5,3,60,13,8,62,Goran,7,6,86,33,0,2,Goran Dragic,25,1,Dragic,G,1,Miami,3
+0,0,5,9,3,33,12,6,50,Wayne,0,0,0,35,0,1,Wayne Ellington,15,5,Ellington,N/A,1,Miami,0
+6,0,2,4,0,0,12,3,25,James,1,1,100,34,1,5,James Johnson,7,3,Johnson,N/A,1,Miami,2
+0,0,3,0,0,0,2,0,0,Okaro,0,0,0,19,0,2,Okaro White,0,3,White,N/A,1,Miami,1
+0,1,4,0,0,0,2,1,50,Willie,0,0,0,18,1,3,Willie Reed,2,5,Reed,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Johnson,N/A,N/A,Johnson,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Richardson,N/A,N/A,Richardson,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Williams,N/A,N/A,Williams,N/A,N/A,Miami,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,3,3,1,33,7,3,43,Aaron,2,1,50,26,0,3,Aaron Gordon,8,3,Gordon,F,3,Orlando,2
+1,0,4,0,0,0,12,7,58,Serge,7,5,71,31,3,4,Serge Ibaka,19,7,Ibaka,F,1,Orlando,1
+1,0,7,0,0,0,8,5,63,Nikola,2,1,50,25,2,2,Nikola Vucevic,11,9,Vucevic,C,0,Orlando,4
+6,0,2,6,2,33,16,9,56,Evan,2,2,100,38,0,5,Evan Fournier,22,2,Fournier,G,0,Orlando,3
+5,1,4,2,0,0,11,5,46,Elfrid,2,0,0,34,0,3,Elfrid Payton,10,4,Payton,G,0,Orlando,0
+2,1,9,6,2,33,9,2,22,Jeff,6,4,67,28,1,0,Jeff Green,10,10,Green,N/A,1,Orlando,3
+0,1,2,0,0,0,3,1,33,Bismack,4,1,25,19,7,3,Bismack Biyombo,3,9,Biyombo,N/A,0,Orlando,3
+3,0,2,6,2,33,12,5,42,D.J.,1,1,100,21,0,2,D.J. Augustin,13,2,Augustin,N/A,1,Orlando,1
+0,1,4,3,1,33,4,1,25,Mario,0,0,0,10,0,1,Mario Hezonja,3,4,Hezonja,N/A,0,Orlando,3
+1,0,0,2,0,0,2,0,0,CJ,0,0,0,9,0,0,CJ Wilcox,0,0,Wilcox,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Arinze,N/A,N/A,N/A,N/A,N/A,N/A,Arinze Onuaku,N/A,N/A,Onuaku,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damjan,N/A,N/A,N/A,N/A,N/A,N/A,Damjan Rudez,N/A,N/A,Rudez,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,C.J.,N/A,N/A,N/A,N/A,N/A,N/A,C.J. Watson,N/A,N/A,Watson,N/A,N/A,Orlando,N/A
+9,1,5,6,2,33,16,7,44,LeBron,11,7,64,39,1,2,LeBron James,23,6,James,F,1,Cleveland,2
+0,1,2,5,0,0,17,6,35,Kevin,7,7,100,33,3,6,Kevin Love,19,5,Love,F,0,Cleveland,4
+1,1,8,0,0,0,4,1,25,Tristan,2,0,0,27,4,1,Tristan Thompson,2,12,Thompson,C,1,Cleveland,0
+1,1,2,10,4,40,11,5,46,JR,2,2,100,28,3,4,JR Smith,16,5,Smith,G,1,Cleveland,0
+2,2,4,6,2,33,18,7,39,Kyrie,4,4,100,37,0,2,Kyrie Irving,20,4,Irving,G,0,Cleveland,1
+1,0,0,1,1,100,3,2,67,Iman,0,0,0,19,0,5,Iman Shumpert,5,0,Shumpert,N/A,3,Cleveland,1
+0,0,3,2,0,0,6,3,50,Richard,0,0,0,23,0,4,Richard Jefferson,6,3,Jefferson,N/A,1,Cleveland,1
+1,0,0,1,0,0,3,1,33,Kay,0,0,0,5,1,0,Kay Felder,2,1,Felder,N/A,0,Cleveland,0
+1,0,1,0,0,0,2,2,100,Chris,4,2,50,9,1,2,Chris Andersen,6,2,Andersen,N/A,1,Cleveland,0
+1,0,2,6,2,33,8,2,25,Mike,0,0,0,20,0,1,Mike Dunleavy,6,2,Dunleavy,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Jones,N/A,N/A,Jones,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre Liggins,N/A,N/A,Liggins,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan McRae,N/A,N/A,McRae,N/A,N/A,Cleveland,N/A

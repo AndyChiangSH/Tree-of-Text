@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,5,2,40,14,10,71,Joe,0,0,0,25,1,1,Joe Johnson,22,5,Johnson,F,2,Brooklyn,0
+2,0,1,0,0,0,17,8,47,Thaddeus,4,3,75,33,2,1,Thaddeus Young,19,3,Young,F,2,Brooklyn,3
+0,1,2,0,0,0,8,7,88,Brook,3,2,67,22,6,1,Brook Lopez,16,8,Lopez,C,1,Brooklyn,1
+1,0,3,0,0,0,4,1,25,Markel,0,0,0,27,1,3,Markel Brown,2,4,Brown,G,1,Brooklyn,1
+7,0,1,2,0,0,9,3,33,Deron,2,2,100,22,0,1,Deron Williams,8,1,Williams,G,1,Brooklyn,1
+5,1,4,1,0,0,10,6,60,Jarrett,4,4,100,24,1,0,Jarrett Jack,16,5,Jack,N/A,0,Brooklyn,4
+0,0,9,0,0,0,2,2,100,Mason,2,2,100,24,0,2,Mason Plumlee,6,9,Plumlee,N/A,0,Brooklyn,0
+0,0,0,0,0,0,6,2,33,Cory,2,0,0,15,1,4,Cory Jefferson,4,1,Jefferson,N/A,0,Brooklyn,1
+2,0,4,3,1,33,15,10,67,Bojan,0,0,0,27,0,0,Bojan Bogdanovic,21,4,Bogdanovic,N/A,1,Brooklyn,2
+0,0,2,2,2,100,4,2,50,Alan,0,0,0,17,0,2,Alan Anderson,6,2,Anderson,N/A,0,Brooklyn,0
+0,0,0,0,0,0,1,1,100,Jerome,0,0,0,2,0,0,Jerome Jordan,2,0,Jordan,N/A,0,Brooklyn,1
+1,0,0,0,0,0,0,0,0,Darius,0,0,0,2,1,0,Darius Morris,0,1,Morris,N/A,0,Brooklyn,0
+3,0,2,1,0,0,13,5,39,Andrew,4,3,75,38,4,1,Andrew Wiggins,13,6,Wiggins,F,0,Minnesota,3
+2,0,5,0,0,0,8,3,38,Adreian,0,0,0,24,0,5,Adreian Payne,6,5,Payne,F,1,Minnesota,1
+4,4,3,0,0,0,7,4,57,Gorgui,4,3,75,39,2,3,Gorgui Dieng,11,5,Dieng,C,2,Minnesota,1
+6,0,2,5,3,60,16,7,44,Kevin,6,6,100,32,1,2,Kevin Martin,23,3,Martin,G,0,Minnesota,4
+3,0,2,6,4,67,15,8,53,Zach,0,0,0,31,0,2,Zach LaVine,20,2,LaVine,G,1,Minnesota,6
+2,2,4,0,0,0,14,6,43,Justin,3,3,100,33,2,1,Justin Hamilton,15,6,Hamilton,N/A,1,Minnesota,0
+2,0,3,3,2,67,10,8,80,Chase,0,0,0,26,1,0,Chase Budinger,18,4,Budinger,N/A,1,Minnesota,0
+5,1,2,0,0,0,5,0,0,Lorenzo,0,0,0,18,3,1,Lorenzo Brown,0,5,Brown,N/A,0,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Garnett,N/A,N/A,Garnett,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gary,N/A,N/A,N/A,N/A,N/A,N/A,Gary Neal,N/A,N/A,Neal,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nikola,N/A,N/A,N/A,N/A,N/A,N/A,Nikola Pekovic,N/A,N/A,Pekovic,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ricky,N/A,N/A,N/A,N/A,N/A,N/A,Ricky Rubio,N/A,N/A,Rubio,N/A,N/A,Minnesota,N/A

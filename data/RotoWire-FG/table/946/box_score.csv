@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,4,6,3,50,11,5,46,Jonathan,2,2,100,20,0,0,Jonathan Isaac,15,4,Isaac,F,1,Orlando,1
+3,1,6,6,2,33,13,4,31,Aaron,0,0,0,37,1,1,Aaron Gordon,10,7,Gordon,F,1,Orlando,2
+3,3,12,3,0,0,19,3,16,Nikola,4,4,100,31,2,2,Nikola Vucevic,10,14,Vucevic,C,2,Orlando,0
+2,1,0,2,1,50,6,2,33,Wes,0,0,0,28,1,1,Wes Iwundu,5,1,Iwundu,G,1,Orlando,1
+3,0,5,5,1,20,14,8,57,D.J.,3,3,100,37,2,3,D.J. Augustin,20,7,Augustin,G,0,Orlando,0
+0,1,1,8,3,38,12,5,42,Mario,2,1,50,28,1,0,Mario Hezonja,14,2,Hezonja,N/A,3,Orlando,1
+5,0,0,4,0,0,10,3,30,Shelvin,2,2,100,24,1,0,Shelvin Mack,8,1,Mack,N/A,0,Orlando,0
+0,0,2,0,0,0,8,3,38,Bismack,0,0,0,17,3,1,Bismack Biyombo,6,5,Biyombo,N/A,0,Orlando,0
+1,0,0,0,0,0,1,0,0,Khem,0,0,0,7,0,1,Khem Birch,0,0,Birch,N/A,0,Orlando,0
+1,0,0,2,0,0,2,0,0,Rodney,0,0,0,11,0,1,Rodney Purvis,0,0,Purvis,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Arron,N/A,N/A,N/A,N/A,N/A,N/A,Arron Afflalo,N/A,N/A,Afflalo,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jamel,N/A,N/A,N/A,N/A,N/A,N/A,Jamel Artis,N/A,N/A,Artis,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marreese,N/A,N/A,N/A,N/A,N/A,N/A,Marreese Speights,N/A,N/A,Speights,N/A,N/A,Orlando,N/A
+8,0,4,3,1,33,6,2,33,Taurean,0,0,0,27,0,3,Taurean Prince,5,4,Prince,F,0,Atlanta,4
+1,2,11,3,0,0,9,5,56,John,0,0,0,33,0,0,John Collins,10,11,Collins,F,0,Atlanta,0
+3,1,9,7,3,43,16,7,44,Dewayne,0,0,0,34,1,2,Dewayne Dedmon,17,10,Dedmon,C,0,Atlanta,0
+2,0,3,2,0,0,7,2,29,Damion,0,0,0,23,1,0,Damion Lee,4,4,Lee,G,0,Atlanta,2
+5,0,1,2,0,0,11,4,36,Isaiah,1,1,100,29,1,2,Isaiah Taylor,9,2,Taylor,G,0,Atlanta,2
+2,0,0,5,3,60,11,8,73,Tyler,0,0,0,22,0,3,Tyler Dorsey,19,0,Dorsey,N/A,0,Atlanta,2
+1,0,5,0,0,0,5,4,80,Miles,0,0,0,15,1,1,Miles Plumlee,8,6,Plumlee,N/A,0,Atlanta,0
+3,0,9,9,3,33,11,5,46,Mike,0,0,0,25,1,0,Mike Muscala,13,10,Muscala,N/A,0,Atlanta,1
+5,0,2,4,1,25,6,2,33,Josh,0,0,0,19,0,1,Josh Magette,5,2,Magette,N/A,0,Atlanta,2
+3,0,3,1,0,0,3,2,67,DeAndre',0,0,0,14,0,3,DeAndre' Bembry,4,3,Bembry,N/A,0,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Cavanaugh,N/A,N/A,Cavanaugh,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Evans,N/A,N/A,Evans,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew White III,N/A,N/A,White,N/A,N/A,Atlanta,N/A

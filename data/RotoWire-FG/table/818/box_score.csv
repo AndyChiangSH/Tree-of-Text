@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+7,5,9,6,3,50,23,12,52,Kevin,10,9,90,39,1,3,Kevin Durant,36,10,Durant,F,1,Golden State,2
+13,6,6,5,0,0,6,1,17,Draymond,0,0,0,38,0,4,Draymond Green,2,6,Green,F,3,Golden State,2
+0,2,3,0,0,0,4,1,25,JaVale,0,0,0,15,1,2,JaVale McGee,2,4,McGee,C,0,Golden State,0
+5,0,4,9,2,22,18,8,44,Klay,3,3,100,36,0,2,Klay Thompson,21,4,Thompson,G,1,Golden State,3
+1,1,2,1,0,0,7,4,57,Shaun,4,2,50,25,1,2,Shaun Livingston,10,3,Livingston,G,0,Golden State,2
+1,1,1,0,0,0,2,2,100,Jordan,0,0,0,9,1,1,Jordan Bell,4,2,Bell,N/A,0,Golden State,1
+1,0,4,2,1,50,5,2,40,Andre,0,0,0,29,1,2,Andre Iguodala,5,5,Iguodala,N/A,0,Golden State,3
+1,0,1,2,1,50,4,3,75,Quinn,0,0,0,16,0,0,Quinn Cook,7,1,Cook,N/A,0,Golden State,0
+0,0,1,1,0,0,3,0,0,Nick,3,2,67,9,0,0,Nick Young,2,1,Young,N/A,0,Golden State,0
+0,0,2,0,0,0,1,1,100,Omri,0,0,0,7,0,0,Omri Casspi,2,2,Casspi,N/A,0,Golden State,0
+0,0,2,0,0,0,0,0,0,Kevon,0,0,0,4,0,1,Kevon Looney,0,2,Looney,N/A,0,Golden State,0
+0,0,5,0,0,0,8,5,62,David,2,1,50,14,0,2,David West,11,5,West,N/A,0,Golden State,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zaza,N/A,N/A,N/A,N/A,N/A,N/A,Zaza Pachulia,N/A,N/A,Pachulia,N/A,N/A,Golden State,N/A
+2,0,2,2,0,0,5,1,20,Stanley,0,0,0,23,2,3,Stanley Johnson,2,4,Johnson,F,4,Detroit,1
+2,1,5,5,2,40,12,4,33,Tobias,1,1,100,32,0,1,Tobias Harris,11,5,Harris,F,0,Detroit,0
+4,1,12,0,0,0,9,2,22,Andre,10,4,40,34,5,1,Andre Drummond,8,17,Drummond,C,1,Detroit,3
+0,0,2,7,4,57,17,9,53,Avery,4,3,75,31,2,1,Avery Bradley,25,4,Bradley,G,0,Detroit,1
+2,0,1,3,2,67,16,7,44,Reggie,2,0,0,27,2,1,Reggie Jackson,16,3,Jackson,G,0,Detroit,3
+4,0,1,0,0,0,7,3,43,Ish,0,0,0,21,0,1,Ish Smith,6,1,Smith,N/A,2,Detroit,1
+2,0,3,5,2,40,8,3,38,Anthony,2,2,100,28,0,5,Anthony Tolliver,10,3,Tolliver,N/A,0,Detroit,1
+1,0,2,1,0,0,4,2,50,Luke,0,0,0,15,1,1,Luke Kennard,4,3,Kennard,N/A,0,Detroit,0
+2,0,4,4,2,50,6,2,33,Langston,0,0,0,14,1,0,Langston Galloway,6,5,Galloway,N/A,1,Detroit,0
+1,0,2,0,0,0,8,5,62,Boban,0,0,0,14,2,3,Boban Marjanovic,10,4,Marjanovic,N/A,0,Detroit,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Bullock,N/A,N/A,Bullock,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Henry,N/A,N/A,N/A,N/A,N/A,N/A,Henry Ellenson,N/A,N/A,Ellenson,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Moreland,N/A,N/A,Moreland,N/A,N/A,Detroit,N/A

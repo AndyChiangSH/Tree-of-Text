@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,9,7,2,29,16,5,31,Jae,2,2,100,33,1,4,Jae Crowder,14,10,Crowder,F,0,Boston,2
+1,2,6,0,0,0,3,2,67,Amir,0,0,0,22,2,4,Amir Johnson,4,8,Johnson,F,0,Boston,1
+3,0,4,1,1,100,14,4,29,Jared,0,0,0,19,2,6,Jared Sullinger,9,6,Sullinger,C,1,Boston,0
+1,1,1,7,1,14,16,7,44,Avery,3,3,100,33,2,2,Avery Bradley,18,3,Bradley,G,1,Boston,1
+8,1,2,10,4,40,21,8,38,Isaiah,9,7,78,37,1,4,Isaiah Thomas,27,3,Thomas,G,1,Boston,3
+5,1,5,1,0,0,13,4,31,Evan,2,2,100,34,3,3,Evan Turner,10,8,Turner,N/A,1,Boston,1
+1,0,0,0,0,0,3,1,33,Kelly,0,0,0,12,1,2,Kelly Olynyk,2,1,Olynyk,N/A,0,Boston,1
+2,1,2,6,3,50,10,5,50,Marcus,3,2,67,29,3,4,Marcus Smart,15,5,Smart,N/A,2,Boston,1
+2,0,5,3,0,0,6,1,17,Jonas,0,0,0,17,0,3,Jonas Jerebko,2,5,Jerebko,N/A,0,Boston,0
+0,0,1,0,0,0,0,0,0,RJ,0,0,0,3,0,0,RJ Hunter,0,1,Hunter,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terry,N/A,N/A,N/A,N/A,N/A,N/A,Terry Rozier,N/A,N/A,Rozier,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Zeller,N/A,N/A,Zeller,N/A,N/A,Boston,N/A
+0,2,8,5,1,20,13,7,54,Kent,10,8,80,34,0,0,Kent Bazemore,23,8,Bazemore,F,1,Atlanta,0
+3,3,5,2,1,50,11,6,55,Paul,1,1,100,37,2,2,Paul Millsap,14,7,Millsap,F,1,Atlanta,0
+2,2,7,2,1,50,17,8,47,Al,8,7,88,37,5,3,Al Horford,24,12,Horford,C,0,Atlanta,2
+1,0,8,7,0,0,10,1,10,Kyle,0,0,0,32,1,2,Kyle Korver,2,9,Korver,G,0,Atlanta,2
+12,0,3,2,0,0,15,7,47,Jeff,11,9,82,36,1,4,Jeff Teague,23,4,Teague,G,1,Atlanta,2
+1,0,1,0,0,0,0,0,0,Mike,0,0,0,4,0,1,Mike Muscala,0,1,Muscala,N/A,0,Atlanta,0
+2,0,0,2,0,0,6,0,0,Dennis,0,0,0,11,0,2,Dennis Schroder,0,0,Schroder,N/A,0,Atlanta,1
+2,1,6,1,0,0,3,0,0,Thabo,4,2,50,22,1,2,Thabo Sefolosha,2,7,Sefolosha,N/A,1,Atlanta,3
+0,1,0,1,0,0,2,0,0,Tim,1,0,0,8,0,1,Tim Hardaway Jr.,0,0,Hardaway,N/A,0,Atlanta,0
+0,0,2,4,2,50,9,6,67,Mike,0,0,0,18,3,3,Mike Scott,14,5,Scott,N/A,0,Atlanta,1
+0,0,0,0,0,0,0,0,0,Kirk,0,0,0,0,0,0,Kirk Hinrich,0,0,Hinrich,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kris,N/A,N/A,N/A,N/A,N/A,N/A,Kris Humphries,N/A,N/A,Humphries,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lamar,N/A,N/A,N/A,N/A,N/A,N/A,Lamar Patterson,N/A,N/A,Patterson,N/A,N/A,Atlanta,N/A

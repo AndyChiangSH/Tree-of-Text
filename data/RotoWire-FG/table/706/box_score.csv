@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,1,6,3,50,12,7,58,DeMarre,0,0,0,39,1,1,DeMarre Carroll,17,2,Carroll,F,6,Toronto,1
+0,0,4,2,0,0,7,3,43,Luis,2,0,0,28,1,5,Luis Scola,6,5,Scola,F,1,Toronto,2
+0,0,6,0,0,0,9,3,33,Jonas,4,3,75,31,5,5,Jonas Valanciunas,9,11,Valanciunas,C,0,Toronto,3
+6,0,5,0,0,0,22,9,41,DeMar,13,10,77,39,0,3,DeMar DeRozan,28,5,DeRozan,G,1,Toronto,4
+3,1,3,7,2,29,15,7,47,Kyle,12,12,100,39,3,6,Kyle Lowry,28,6,Lowry,G,2,Toronto,2
+1,0,2,2,1,50,3,1,33,Patrick,0,0,0,20,0,0,Patrick Patterson,3,2,Patterson,N/A,0,Toronto,3
+0,1,2,0,0,0,0,0,0,Bismack,0,0,0,7,0,1,Bismack Biyombo,0,2,Biyombo,N/A,0,Toronto,0
+6,0,4,0,0,0,7,4,57,Cory,8,5,63,28,1,4,Cory Joseph,13,5,Joseph,N/A,1,Toronto,0
+0,0,1,1,0,0,4,3,75,James,0,0,0,9,1,0,James Johnson,6,2,Johnson,N/A,0,Toronto,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Bennett,N/A,N/A,Bennett,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Norman,N/A,N/A,N/A,N/A,N/A,N/A,Norman Powell,N/A,N/A,Powell,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terrence,N/A,N/A,N/A,N/A,N/A,N/A,Terrence Ross,N/A,N/A,Ross,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Delon,N/A,N/A,N/A,N/A,N/A,N/A,Delon Wright,N/A,N/A,Wright,N/A,N/A,Toronto,N/A
+1,0,3,2,1,50,5,3,60,Harrison,0,0,0,32,1,3,Harrison Barnes,7,4,Barnes,F,0,Golden State,0
+5,1,9,4,1,25,6,3,50,Draymond,2,2,100,35,0,4,Draymond Green,9,9,Green,F,1,Golden State,3
+2,1,4,0,0,0,6,5,83,Andrew,6,3,50,17,2,5,Andrew Bogut,13,6,Bogut,C,1,Golden State,2
+3,0,1,9,2,22,19,8,42,Klay,2,1,50,34,0,3,Klay Thompson,19,1,Thompson,G,0,Golden State,0
+9,0,2,10,5,50,23,13,56,Stephen,7,6,86,40,0,1,Stephen Curry,37,2,Curry,G,2,Golden State,7
+1,4,5,0,0,0,4,3,75,Festus,4,2,50,22,1,3,Festus Ezeli,8,6,Ezeli,N/A,2,Golden State,2
+7,0,0,1,1,100,3,3,100,Andre,1,0,0,32,3,4,Andre Iguodala,7,3,Iguodala,N/A,0,Golden State,1
+1,0,0,1,0,0,8,2,25,Leandro,2,2,100,16,1,3,Leandro Barbosa,6,1,Barbosa,N/A,3,Golden State,1
+2,0,0,2,1,50,3,1,33,Ian,2,1,50,6,0,0,Ian Clark,4,0,Clark,N/A,1,Golden State,2
+0,0,1,0,0,0,3,2,67,Marreese,1,1,100,5,1,3,Marreese Speights,5,2,Speights,N/A,0,Golden State,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Michael McAdoo,N/A,N/A,Michael,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Thompson,N/A,N/A,Thompson,N/A,N/A,Golden State,N/A

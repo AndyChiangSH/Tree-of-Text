@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,10,0,0,0,13,6,46,Rudy,1,1,100,25,2,3,Rudy Gay,13,12,Gay,F,1,Sacramento,1
+0,1,6,4,2,50,11,7,64,Omri,4,0,0,39,0,5,Omri Casspi,16,6,Casspi,F,1,Sacramento,4
+0,0,5,0,0,0,8,3,38,Kosta,2,0,0,25,2,3,Kosta Koufos,6,7,Koufos,C,0,Sacramento,1
+3,0,1,4,3,75,12,7,58,Ben,1,0,0,32,0,1,Ben McLemore,17,1,McLemore,G,0,Sacramento,4
+18,0,7,3,2,67,13,6,46,Rajon,0,0,0,40,2,5,Rajon Rondo,14,9,Rondo,G,1,Sacramento,3
+0,2,3,0,0,0,7,5,71,Willie,2,1,50,22,2,6,Willie Cauley-Stein,11,5,Cauley-Stein,N/A,0,Sacramento,3
+1,0,1,10,5,50,11,5,46,Marco,9,8,89,26,0,3,Marco Belinelli,23,1,Belinelli,N/A,0,Sacramento,2
+1,0,0,0,0,0,7,4,57,Darren,1,1,100,21,0,0,Darren Collison,9,0,Collison,N/A,0,Sacramento,0
+0,0,0,1,0,0,1,0,0,Caron,0,0,0,5,0,1,Caron Butler,0,0,Butler,N/A,0,Sacramento,0
+0,0,0,1,0,0,1,0,0,Quincy,0,0,0,5,1,0,Quincy Acy,0,1,Acy,N/A,0,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Anderson,N/A,N/A,Anderson,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeMarcus,N/A,N/A,N/A,N/A,N/A,N/A,DeMarcus Cousins,N/A,N/A,Cousins,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Seth,N/A,N/A,N/A,N/A,N/A,N/A,Seth Curry,N/A,N/A,Curry,N/A,N/A,Sacramento,N/A
+1,2,2,4,0,0,7,1,14,Luol,9,6,67,31,2,1,Luol Deng,8,4,Deng,F,2,Miami,0
+4,1,11,2,2,100,12,8,67,Chris,5,5,100,35,0,0,Chris Bosh,23,11,Bosh,F,0,Miami,1
+0,4,3,0,0,0,7,4,57,Hassan,4,4,100,18,2,3,Hassan Whiteside,12,5,Whiteside,C,2,Miami,0
+6,0,4,2,0,0,23,10,44,Dwyane,6,4,67,31,1,1,Dwyane Wade,24,5,Wade,G,2,Miami,0
+6,0,0,4,1,25,11,4,36,Goran,1,0,0,32,1,2,Goran Dragic,9,1,Dragic,G,0,Miami,0
+1,0,1,0,0,0,5,4,80,Amar'e,2,2,100,8,0,0,Amar'e Stoudemire,10,1,Stoudemire,N/A,0,Miami,1
+1,0,0,4,0,0,9,3,33,Justise,0,0,0,27,1,2,Justise Winslow,6,1,Winslow,N/A,2,Miami,3
+3,0,2,4,3,75,8,6,75,Tyler,4,4,100,25,1,1,Tyler Johnson,19,3,Johnson,N/A,1,Miami,1
+1,0,5,4,1,25,6,2,33,Gerald,0,0,0,16,1,3,Gerald Green,5,6,Green,N/A,0,Miami,1
+2,0,1,0,0,0,1,0,0,Josh,2,0,0,17,3,2,Josh McRoberts,0,4,McRoberts,N/A,2,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Richardson,N/A,N/A,Richardson,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Beno,N/A,N/A,N/A,N/A,N/A,N/A,Beno Udrih,N/A,N/A,Udrih,N/A,N/A,Miami,N/A

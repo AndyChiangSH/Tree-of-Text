@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,4,3,75,16,7,44,Kevin,3,2,67,35,2,3,Kevin Knox,19,3,Knox,F,1,New York,1
+1,0,2,3,0,0,5,1,20,Lance,4,3,75,22,0,1,Lance Thomas,5,2,Thomas,F,1,New York,0
+2,1,12,3,0,0,7,2,29,Noah,2,1,50,35,0,3,Noah Vonleh,5,12,Vonleh,C,0,New York,1
+4,0,10,4,2,50,12,7,58,Tim,2,1,50,31,0,1,Tim Hardaway Jr.,17,10,Hardaway,G,0,New York,1
+3,1,2,2,1,50,11,4,36,Trey,0,0,0,25,0,1,Trey Burke,9,2,Burke,G,0,New York,1
+2,1,4,2,0,0,11,4,36,Mario,2,1,50,26,0,0,Mario Hezonja,9,4,Hezonja,N/A,1,New York,3
+3,0,3,3,0,0,7,0,0,Allonzo,8,7,88,21,1,1,Allonzo Trier,7,4,Trier,N/A,0,New York,1
+0,3,0,0,0,0,5,4,80,Mitchell,4,2,50,13,2,1,Mitchell Robinson,10,2,Robinson,N/A,1,New York,0
+0,0,1,1,1,100,3,1,33,Damyean,1,0,0,14,1,2,Damyean Dotson,3,2,Dotson,N/A,2,New York,0
+3,0,3,1,0,0,8,4,50,Kadeem,0,0,0,18,2,2,Kadeem Allen,8,5,Allen,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enes,N/A,N/A,N/A,N/A,N/A,N/A,Enes Kanter,N/A,N/A,Kanter,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Courtney,N/A,N/A,N/A,N/A,N/A,N/A,Courtney Lee,N/A,N/A,Lee,N/A,N/A,New York,N/A
+2,4,5,3,1,33,6,2,33,Nicolas,2,1,50,31,1,0,Nicolas Batum,6,6,Batum,F,0,Charlotte,1
+3,1,7,8,1,12,12,3,25,Marvin,0,0,0,36,0,0,Marvin Williams,7,7,Williams,F,0,Charlotte,0
+0,0,1,0,0,0,3,2,67,Bismack,2,2,100,13,0,1,Bismack Biyombo,6,1,Biyombo,C,0,Charlotte,0
+3,1,7,4,1,25,12,6,50,Jeremy,2,2,100,27,2,1,Jeremy Lamb,15,9,Lamb,G,1,Charlotte,0
+5,2,5,6,2,33,16,5,31,Kemba,2,2,100,36,0,2,Kemba Walker,14,5,Walker,G,0,Charlotte,1
+2,0,0,1,0,0,4,1,25,Michael,0,0,0,10,3,6,Michael Kidd-Gilchrist,2,3,Kidd-Gilchrist,N/A,1,Charlotte,0
+0,1,4,1,0,0,11,5,46,Willy,2,1,50,21,6,2,Willy Hernangomez,11,10,Hernangomez,N/A,0,Charlotte,2
+4,0,0,3,1,33,13,6,46,Tony,3,2,67,19,1,0,Tony Parker,15,1,Parker,N/A,0,Charlotte,1
+3,1,7,1,1,100,5,4,80,Miles,3,2,67,24,0,4,Miles Bridges,11,7,Bridges,N/A,2,Charlotte,2
+3,0,2,7,4,57,12,5,42,Malik,0,0,0,22,0,4,Malik Monk,14,2,Monk,N/A,0,Charlotte,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwayne,N/A,N/A,N/A,N/A,N/A,N/A,Dwayne Bacon,N/A,N/A,Bacon,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Devonte',N/A,N/A,N/A,N/A,N/A,N/A,Devonte' Graham,N/A,N/A,Graham,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Frank,N/A,N/A,N/A,N/A,N/A,N/A,Frank Kaminsky,N/A,N/A,Kaminsky,N/A,N/A,Charlotte,N/A

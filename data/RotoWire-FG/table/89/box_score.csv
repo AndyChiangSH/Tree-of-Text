@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,8,6,1,17,10,2,20,Kent,0,0,0,40,0,1,Kent Bazemore,5,8,Bazemore,F,2,Atlanta,1
+3,4,8,6,3,50,31,19,61,Paul,6,4,67,46,5,5,Paul Millsap,45,13,Millsap,F,2,Atlanta,3
+5,1,7,2,1,50,8,2,25,Al,0,0,0,38,2,3,Al Horford,5,9,Horford,C,1,Atlanta,0
+0,0,8,9,3,33,11,3,27,Kyle,1,1,100,47,0,2,Kyle Korver,10,8,Korver,G,1,Atlanta,1
+5,0,2,9,3,33,17,4,24,Jeff,3,2,67,34,0,3,Jeff Teague,13,2,Teague,G,1,Atlanta,3
+2,0,2,6,1,17,13,3,23,Dennis,0,0,0,20,2,2,Dennis Schroder,7,4,Schroder,N/A,1,Atlanta,3
+1,0,1,1,0,0,2,1,50,Mike,3,2,67,17,1,2,Mike Scott,4,2,Scott,N/A,0,Atlanta,2
+0,0,1,3,0,0,4,0,0,Thabo,0,0,0,17,1,1,Thabo Sefolosha,0,2,Sefolosha,N/A,0,Atlanta,1
+0,0,0,0,0,0,0,0,0,Tim,0,0,0,0,0,0,Tim Hardaway Jr.,0,0,Hardaway,N/A,0,Atlanta,0
+0,0,0,0,0,0,3,3,100,Mike,0,0,0,5,1,1,Mike Muscala,6,1,Muscala,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kirk,N/A,N/A,N/A,N/A,N/A,N/A,Kirk Hinrich,N/A,N/A,Hinrich,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kris,N/A,N/A,N/A,N/A,N/A,N/A,Kris Humphries,N/A,N/A,Humphries,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lamar,N/A,N/A,N/A,N/A,N/A,N/A,Lamar Patterson,N/A,N/A,Patterson,N/A,N/A,Atlanta,N/A
+2,0,4,9,2,22,11,4,36,Jae,3,2,67,41,1,0,Jae Crowder,12,5,Crowder,F,2,Boston,1
+1,0,9,6,3,50,9,6,67,Jonas,2,1,50,31,1,3,Jonas Jerebko,16,10,Jerebko,F,0,Boston,1
+1,3,7,0,0,0,6,4,67,Amir,2,1,50,28,2,3,Amir Johnson,9,9,Johnson,C,1,Boston,2
+6,2,5,2,1,50,19,7,37,Evan,4,2,50,45,2,4,Evan Turner,17,7,Turner,G,1,Boston,4
+6,2,4,7,2,29,23,11,48,Isaiah,5,4,80,43,0,2,Isaiah Thomas,28,4,Thomas,G,1,Boston,1
+5,0,6,8,3,38,15,7,47,Marcus,3,3,100,42,2,2,Marcus Smart,20,8,Smart,N/A,2,Boston,4
+2,0,0,1,0,0,3,0,0,Terry,0,0,0,15,1,1,Terry Rozier,0,1,Rozier,N/A,0,Boston,0
+2,0,4,0,0,0,7,1,14,Jared,0,0,0,17,2,3,Jared Sullinger,2,6,Sullinger,N/A,0,Boston,1
+0,0,1,0,0,0,1,0,0,Kelly,0,0,0,4,1,1,Kelly Olynyk,0,2,Olynyk,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Young,N/A,N/A,Young,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Zeller,N/A,N/A,Zeller,N/A,N/A,Boston,N/A

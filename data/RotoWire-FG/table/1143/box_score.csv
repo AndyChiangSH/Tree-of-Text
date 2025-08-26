@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,1,8,2,25,10,4,40,Nikola,2,1,50,25,0,3,Nikola Mirotic,11,1,Mirotic,F,1,Milwaukee,4
+5,3,8,3,1,33,17,9,53,Giannis,10,6,60,34,2,3,Giannis Antetokounmpo,25,10,Antetokounmpo,F,1,Milwaukee,4
+3,1,2,3,2,67,5,3,60,Brook,0,0,0,25,0,5,Brook Lopez,8,2,Lopez,C,1,Milwaukee,1
+7,0,5,7,4,57,15,11,73,Khris,5,4,80,36,1,3,Khris Middleton,30,6,Middleton,G,0,Milwaukee,0
+2,0,2,2,0,0,7,2,29,Eric,2,1,50,20,1,0,Eric Bledsoe,5,3,Bledsoe,G,0,Milwaukee,0
+3,0,4,2,1,50,2,1,50,George,2,2,100,27,1,1,George Hill,5,5,Hill,N/A,2,Milwaukee,0
+1,0,0,2,0,0,5,3,60,Ersan,2,1,50,18,2,4,Ersan Ilyasova,7,2,Ilyasova,N/A,3,Milwaukee,1
+3,0,5,3,0,0,11,2,18,Malcolm,1,0,0,28,0,2,Malcolm Brogdon,4,5,Brogdon,N/A,0,Milwaukee,0
+2,1,2,3,1,33,4,1,25,Pat,0,0,0,14,0,0,Pat Connaughton,3,2,Connaughton,N/A,0,Milwaukee,1
+1,0,0,1,0,0,2,1,50,Sterling,0,0,0,4,0,0,Sterling Brown,2,0,Brown,N/A,0,Milwaukee,0
+0,1,1,0,0,0,0,0,0,D.J.,0,0,0,4,0,1,D.J. Wilson,0,1,Wilson,N/A,0,Milwaukee,1
+0,1,1,0,0,0,1,0,0,Tony,0,0,0,3,0,0,Tony Snell,0,1,Snell,N/A,0,Milwaukee,0
+1,0,2,1,0,0,1,0,0,Tim,2,2,100,3,0,0,Tim Frazier,2,2,Frazier,N/A,0,Milwaukee,0
+1,2,5,3,1,33,13,6,46,Kawhi,8,6,75,34,2,2,Kawhi Leonard,19,7,Leonard,F,4,Toronto,2
+6,0,3,2,0,0,6,3,50,Pascal,1,1,100,23,1,5,Pascal Siakam,7,4,Siakam,F,0,Toronto,2
+7,2,5,6,3,50,11,6,55,Marc,2,2,100,31,0,3,Marc Gasol,17,5,Gasol,C,1,Toronto,0
+1,1,0,2,0,0,5,2,40,Danny,0,0,0,25,1,4,Danny Green,4,1,Green,G,1,Toronto,1
+6,0,3,7,3,43,11,6,55,Kyle,10,10,100,34,2,3,Kyle Lowry,25,5,Lowry,G,0,Toronto,1
+2,0,9,3,0,0,12,7,58,Serge,3,3,100,24,4,3,Serge Ibaka,17,13,Ibaka,N/A,1,Toronto,1
+3,0,5,13,4,31,18,6,33,Norman,3,2,67,32,0,3,Norman Powell,18,5,Powell,N/A,1,Toronto,3
+6,0,1,3,3,100,6,5,83,Fred,0,0,0,25,0,0,Fred VanVleet,13,1,VanVleet,N/A,1,Toronto,1
+0,0,1,1,0,0,2,0,0,Jodie,0,0,0,3,0,0,Jodie Meeks,0,1,Meeks,N/A,0,Toronto,0
+0,0,1,0,0,0,0,0,0,Eric,0,0,0,2,0,0,Eric Moreland,0,1,Moreland,N/A,0,Toronto,0
+0,0,1,1,0,0,2,0,0,Chris,0,0,0,2,0,0,Chris Boucher,0,1,Boucher,N/A,0,Toronto,0
+0,0,0,0,0,0,1,0,0,Jeremy,0,0,0,2,0,0,Jeremy Lin,0,0,Lin,N/A,0,Toronto,0
+0,0,0,0,0,0,0,0,0,Malcolm,0,0,0,2,0,0,Malcolm Miller,0,0,Miller,N/A,0,Toronto,0

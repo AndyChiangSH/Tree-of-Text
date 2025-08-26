@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,2,9,3,1,33,12,5,42,Kevin,5,4,80,29,1,1,Kevin Durant,15,10,Durant,F,3,Golden State,1
+4,0,6,4,0,0,7,1,14,Draymond,4,4,100,33,4,3,Draymond Green,6,10,Green,F,1,Golden State,3
+1,0,3,0,0,0,8,7,88,Zaza,2,0,0,20,2,2,Zaza Pachulia,14,5,Pachulia,C,2,Golden State,1
+1,1,5,9,7,78,14,7,50,Klay,0,0,0,34,0,1,Klay Thompson,21,5,Thompson,G,0,Golden State,3
+6,0,3,13,7,54,15,8,53,Stephen,4,4,100,30,1,2,Stephen Curry,27,4,Curry,G,0,Golden State,3
+1,0,1,0,0,0,7,6,86,JaVale,2,1,50,13,3,1,JaVale McGee,13,4,McGee,N/A,0,Golden State,0
+5,0,6,4,1,25,5,1,20,Andre,2,2,100,29,0,0,Andre Iguodala,5,6,Iguodala,N/A,1,Golden State,3
+2,0,2,4,1,25,8,3,38,Ian,0,0,0,14,1,0,Ian Clark,7,3,Clark,N/A,0,Golden State,2
+0,0,3,0,0,0,1,0,0,Kevon,0,0,0,6,0,2,Kevon Looney,0,3,Looney,N/A,0,Golden State,0
+1,0,0,5,2,40,11,4,36,Patrick,0,0,0,20,1,0,Patrick McCaw,10,1,McCaw,N/A,0,Golden State,1
+0,0,1,0,0,0,1,0,0,Damian,0,0,0,7,0,2,Damian Jones,0,1,Jones,N/A,1,Golden State,1
+0,1,0,0,0,0,0,0,0,James,0,0,0,4,0,1,James Michael McAdoo,0,0,Michael,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anderson,N/A,N/A,N/A,N/A,N/A,N/A,Anderson Varejao,N/A,N/A,Varejao,N/A,N/A,Golden State,N/A
+5,1,2,6,0,0,14,4,29,Aaron,0,0,0,34,1,3,Aaron Gordon,8,3,Gordon,F,1,Orlando,1
+1,1,3,4,2,50,9,4,44,Serge,0,0,0,21,0,3,Serge Ibaka,10,3,Ibaka,F,1,Orlando,1
+1,1,3,0,0,0,8,6,75,Nikola,0,0,0,24,1,2,Nikola Vucevic,12,4,Vucevic,C,2,Orlando,0
+4,0,1,5,1,20,10,4,40,C.J.,5,3,60,36,1,3,C.J. Watson,12,2,Watson,G,2,Orlando,4
+10,0,4,2,1,50,19,11,58,Elfrid,0,0,0,39,0,4,Elfrid Payton,23,4,Payton,G,1,Orlando,2
+1,1,1,3,2,67,12,4,33,Jeff,3,2,67,27,2,1,Jeff Green,12,3,Green,N/A,0,Orlando,2
+1,0,1,0,0,0,2,0,0,D.J.,0,0,0,5,0,0,D.J. Augustin,0,1,Augustin,N/A,0,Orlando,0
+0,3,9,0,0,0,8,5,63,Bismack,7,2,29,24,4,1,Bismack Biyombo,12,13,Biyombo,N/A,0,Orlando,0
+0,0,4,7,1,14,11,3,27,Mario,1,0,0,21,1,3,Mario Hezonja,7,5,Hezonja,N/A,2,Orlando,2
+2,0,0,1,0,0,1,0,0,Damjan,0,0,0,4,0,0,Damjan Rudez,0,0,Rudez,N/A,0,Orlando,0
+0,0,1,0,0,0,2,1,50,Anthony,0,0,0,4,2,1,Anthony Brown,2,3,Brown,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Evan,N/A,N/A,N/A,N/A,N/A,N/A,Evan Fournier,N/A,N/A,Fournier,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Wilcox,N/A,N/A,Wilcox,N/A,N/A,Orlando,N/A

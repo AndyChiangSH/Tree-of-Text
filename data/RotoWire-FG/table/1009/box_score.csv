@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,2,3,1,33,5,1,20,Trevor,2,2,100,36,0,3,Trevor Ariza,5,2,Ariza,F,3,Phoenix,2
+0,0,2,2,0,0,8,3,38,T.J.,0,0,0,15,0,3,T.J. Warren,6,2,Warren,F,2,Phoenix,1
+2,3,9,0,0,0,13,11,85,Deandre,4,3,75,32,4,3,Deandre Ayton,25,13,Ayton,C,0,Phoenix,3
+3,0,3,3,0,0,8,1,12,Mikal,0,0,0,34,4,0,Mikal Bridges,2,7,Bridges,G,0,Phoenix,2
+5,0,4,9,3,33,24,14,58,Devin,6,6,100,37,0,2,Devin Booker,37,4,Booker,G,0,Phoenix,4
+1,0,3,4,1,25,8,4,50,Josh,2,1,50,24,1,3,Josh Jackson,10,4,Jackson,N/A,1,Phoenix,2
+2,0,2,0,0,0,2,0,0,Isaiah,0,0,0,20,0,1,Isaiah Canaan,0,2,Canaan,N/A,0,Phoenix,1
+0,3,5,0,0,0,6,4,67,Richaun,5,2,40,16,1,5,Richaun Holmes,10,6,Holmes,N/A,0,Phoenix,1
+5,0,2,4,3,75,8,4,50,Jamal,2,1,50,26,0,2,Jamal Crawford,12,2,Crawford,N/A,0,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Anderson,N/A,N/A,Anderson,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dragan,N/A,N/A,N/A,N/A,N/A,N/A,Dragan Bender,N/A,N/A,Bender,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Daniels,N/A,N/A,Daniels,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elie,N/A,N/A,N/A,N/A,N/A,N/A,Elie Okobo,N/A,N/A,Okobo,N/A,N/A,Phoenix,N/A
+1,0,1,0,0,0,2,2,100,Glenn,0,0,0,14,0,0,Glenn Robinson III,4,1,Robinson,F,0,Detroit,0
+11,0,3,8,2,25,16,7,44,Blake,0,0,0,35,0,2,Blake Griffin,16,3,Griffin,F,0,Detroit,5
+1,0,9,0,0,0,14,9,64,Andre,8,1,12,31,7,4,Andre Drummond,19,16,Drummond,C,5,Detroit,3
+2,0,0,5,2,40,10,5,50,Reggie,1,1,100,31,0,1,Reggie Bullock,13,0,Bullock,G,0,Detroit,2
+8,0,2,15,4,27,20,6,30,Reggie,3,3,100,31,0,4,Reggie Jackson,19,2,Jackson,G,2,Detroit,1
+1,0,1,6,4,67,6,4,67,Langston,3,3,100,27,0,2,Langston Galloway,15,1,Galloway,N/A,0,Detroit,0
+4,0,1,4,2,50,10,3,30,Ish,2,1,50,17,0,0,Ish Smith,9,1,Smith,N/A,0,Detroit,0
+0,0,3,3,2,67,9,5,56,Stanley,2,2,100,25,1,1,Stanley Johnson,14,4,Johnson,N/A,2,Detroit,1
+0,0,1,0,0,0,3,1,33,Bruce,0,0,0,16,2,1,Bruce Brown,2,3,Brown,N/A,0,Detroit,0
+2,0,7,0,0,0,3,1,33,Zaza,6,5,83,13,3,4,Zaza Pachulia,7,10,Pachulia,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jose,N/A,N/A,N/A,N/A,N/A,N/A,Jose Calderon,N/A,N/A,Calderon,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jon,N/A,N/A,N/A,N/A,N/A,N/A,Jon Leuer,N/A,N/A,Leuer,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Khyri,N/A,N/A,N/A,N/A,N/A,N/A,Khyri Thomas,N/A,N/A,Thomas,N/A,N/A,Detroit,N/A

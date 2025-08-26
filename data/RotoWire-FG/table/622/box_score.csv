@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,3,4,2,50,7,2,29,Tony,0,0,0,16,0,2,Tony Snell,6,3,Snell,F,1,Chicago,1
+2,1,5,4,2,50,14,8,57,Nikola,8,7,88,29,2,4,Nikola Mirotic,25,7,Mirotic,F,0,Chicago,2
+4,0,8,1,0,0,16,4,25,Pau,2,1,50,27,3,4,Pau Gasol,9,11,Gasol,C,0,Chicago,1
+5,2,5,4,2,50,10,4,40,Jimmy,6,6,100,40,0,2,Jimmy Butler,16,5,Butler,G,2,Chicago,4
+5,1,5,5,2,40,16,4,25,Derrick,0,0,0,31,1,1,Derrick Rose,10,6,Rose,G,1,Chicago,3
+2,0,1,4,3,75,7,3,43,Kirk,2,2,100,22,0,3,Kirk Hinrich,11,1,Hinrich,N/A,0,Chicago,1
+2,0,1,0,0,0,7,3,43,E'Twaun,2,1,50,27,0,3,E'Twaun Moore,7,1,Moore,N/A,3,Chicago,0
+0,2,4,0,0,0,2,0,0,Joakim,0,0,0,19,1,2,Joakim Noah,0,5,Noah,N/A,0,Chicago,2
+1,1,5,1,0,0,5,2,40,Taj,0,0,0,19,1,2,Taj Gibson,4,6,Gibson,N/A,0,Chicago,1
+0,0,0,2,0,0,4,0,0,Doug,0,0,0,6,1,0,Doug McDermott,0,1,McDermott,N/A,0,Chicago,0
+0,0,0,0,0,0,1,1,100,Cristiano,0,0,0,2,0,0,Cristiano Felicio,2,0,Felicio,N/A,0,Chicago,0
+0,0,1,1,0,0,3,1,33,Bobby,0,0,0,2,0,0,Bobby Portis,2,1,Portis,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Chicago,N/A
+1,0,3,8,3,38,12,6,50,CJ,1,1,100,32,0,4,CJ Miles,16,3,Miles,F,0,Indiana,0
+2,0,8,10,4,40,24,11,46,Paul,7,7,100,39,0,4,Paul George,33,8,George,F,0,Indiana,5
+4,1,6,0,0,0,8,4,50,Ian,10,7,70,27,3,4,Ian Mahinmi,15,9,Mahinmi,C,1,Indiana,2
+5,0,3,3,0,0,13,5,39,Monta,6,4,67,30,2,0,Monta Ellis,14,5,Ellis,G,3,Indiana,0
+3,1,8,2,0,0,8,3,38,George,1,0,0,32,2,1,George Hill,6,10,Hill,G,1,Indiana,1
+0,2,9,0,0,0,10,6,60,Lavoy,0,0,0,27,1,1,Lavoy Allen,12,10,Allen,N/A,0,Indiana,1
+0,0,3,1,1,100,6,2,33,Rodney,4,3,75,28,0,4,Rodney Stuckey,8,3,Stuckey,N/A,2,Indiana,3
+0,0,0,2,0,0,2,0,0,Chase,0,0,0,11,0,0,Chase Budinger,0,0,Budinger,N/A,0,Indiana,1
+3,0,3,1,0,0,1,0,0,Solomon,0,0,0,12,0,0,Solomon Hill,0,3,Hill,N/A,1,Indiana,0
+0,0,0,0,0,0,0,0,0,Glenn,0,0,0,2,0,0,Glenn Robinson,0,0,Robinson,N/A,0,Indiana,0
+0,0,0,1,0,0,3,0,0,Joe,0,0,0,2,0,0,Joe Young,0,0,Young,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Myles,N/A,N/A,N/A,N/A,N/A,N/A,Myles Turner,N/A,N/A,Turner,N/A,N/A,Indiana,N/A

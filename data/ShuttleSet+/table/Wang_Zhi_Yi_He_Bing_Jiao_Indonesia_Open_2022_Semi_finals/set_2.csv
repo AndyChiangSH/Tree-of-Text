@@ -1,0 +1,32 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,15,00:27:42,1,0,WANG Zhi Yi,net shot,opponent wins by landing,wins by landing
+2,6,00:28:03,2,0,WANG Zhi Yi,return net,fails to clear the net,opponent fails to clear the net
+3,4,00:28:24,2,1,HE Bingjiao,wrist smash,opponent wins by landing,wins by landing
+4,19,00:30:17,3,1,WANG Zhi Yi,cross-court net shot,fails to clear the net,opponent fails to clear the net
+5,20,00:30:52,4,1,WANG Zhi Yi,return net,fails to clear the net,opponent fails to clear the net
+6,6,00:31:22,4,2,HE Bingjiao,smash,goes out of bounds,opponent goes out of bounds
+7,16,00:32:07,5,2,WANG Zhi Yi,net shot,opponent wins by landing,wins by landing
+8,10,00:32:37,6,2,WANG Zhi Yi,push,goes out of bounds,opponent goes out of bounds
+9,7,00:32:59,6,3,HE Bingjiao,lob,goes out of bounds,opponent goes out of bounds
+10,2,00:33:18,7,3,WANG Zhi Yi,push,opponent wins by landing,wins by landing
+11,9,00:33:40,7,4,HE Bingjiao,push,goes out of bounds,opponent goes out of bounds
+12,26,00:34:26,7,5,HE Bingjiao,smash,hits the net,opponent hits the net
+13,23,00:35:21,7,6,HE Bingjiao,rush,opponent wins by landing,wins by landing
+14,19,00:36:07,8,6,WANG Zhi Yi,net shot,goes out of bounds,opponent goes out of bounds
+15,14,00:36:44,9,6,WANG Zhi Yi,unknown,goes out of bounds,opponent goes out of bounds
+16,3,00:37:08,10,6,WANG Zhi Yi,wrist smash,opponent wins by landing,wins by landing
+17,26,00:37:52,11,6,WANG Zhi Yi,lob,goes out of bounds,opponent goes out of bounds
+18,8,00:39:22,12,6,WANG Zhi Yi,drop,goes out of bounds,opponent goes out of bounds
+19,26,00:40:04,13,6,WANG Zhi Yi,net shot,hits the net,opponent hits the net
+20,6,00:40:30,14,6,WANG Zhi Yi,smash,hits the net,opponent hits the net
+21,24,00:41:10,15,6,WANG Zhi Yi,lob,goes out of bounds,opponent goes out of bounds
+22,18,00:42:15,15,7,HE Bingjiao,wrist smash,opponent wins by landing,wins by landing
+23,13,00:42:57,15,8,HE Bingjiao,rush,opponent wins by landing,wins by landing
+24,10,00:43:29,16,8,WANG Zhi Yi,drop,opponent wins by landing,wins by landing
+25,16,00:44:03,17,8,WANG Zhi Yi,smash,goes out of bounds,opponent goes out of bounds
+26,13,00:44:33,18,8,WANG Zhi Yi,wrist smash,opponent wins by landing,wins by landing
+27,9,00:45:00,18,9,HE Bingjiao,clear,goes out of bounds,opponent goes out of bounds
+28,24,00:45:44,19,9,WANG Zhi Yi,rush,opponent wins by landing,wins by landing
+29,9,00:46:15,19,10,HE Bingjiao,return net,fails to clear the net,opponent fails to clear the net
+30,8,00:46:51,20,10,WANG Zhi Yi,lob,landing judgment error,opponent landing judgment error
+31,40,00:47:52,21,10,WANG Zhi Yi,unknown,goes out of bounds,opponent goes out of bounds

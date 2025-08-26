@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,5,7,3,43,15,6,40,Khris,6,6,100,34,0,3,Khris Middleton,21,5,Middleton,F,0,Milwaukee,1
+2,1,8,0,0,0,11,5,46,Giannis,2,2,100,34,1,5,Giannis Antetokounmpo,12,9,Antetokounmpo,F,0,Milwaukee,4
+1,2,11,0,0,0,15,7,47,Greg,0,0,0,33,2,2,Greg Monroe,14,13,Monroe,C,2,Milwaukee,1
+4,0,5,4,0,0,13,5,39,O.J.,3,3,100,34,0,6,O.J. Mayo,13,5,Mayo,G,1,Milwaukee,2
+5,0,3,5,1,20,9,4,44,Jerryd,1,0,0,26,0,1,Jerryd Bayless,9,3,Bayless,G,0,Milwaukee,0
+0,0,2,0,0,0,8,4,50,Jabari,2,2,100,19,3,5,Jabari Parker,10,5,Parker,N/A,0,Milwaukee,0
+5,0,7,2,0,0,8,3,38,Michael,0,0,0,27,0,4,Michael Carter-Williams,6,7,Carter-Williams,N/A,0,Milwaukee,3
+0,0,0,0,0,0,2,0,0,Rashad,0,0,0,11,0,3,Rashad Vaughn,0,0,Vaughn,N/A,1,Milwaukee,0
+0,3,0,0,0,0,5,4,80,John,0,0,0,15,3,3,John Henson,8,3,Henson,N/A,1,Milwaukee,2
+1,0,1,0,0,0,1,1,100,Johnny,0,0,0,9,0,1,Johnny O'Bryant III,2,1,O'Bryant,N/A,1,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Copeland,N/A,N/A,Copeland,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ennis,N/A,N/A,Ennis,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Miles,N/A,N/A,N/A,N/A,N/A,N/A,Miles Plumlee,N/A,N/A,Plumlee,N/A,N/A,Milwaukee,N/A
+3,0,2,2,1,50,14,7,50,Marcus,9,8,89,39,2,1,Marcus Morris,23,4,Morris,F,1,Detroit,2
+0,0,7,5,1,20,10,4,40,Ersan,5,4,80,25,1,1,Ersan Ilyasova,13,8,Ilyasova,F,0,Detroit,0
+1,2,19,0,0,0,18,7,39,Andre,10,3,30,36,4,2,Andre Drummond,17,23,Drummond,C,3,Detroit,2
+3,0,2,3,0,0,6,1,17,Kentavious,6,6,100,33,0,2,Kentavious Caldwell-Pope,8,2,Caldwell-Pope,G,0,Detroit,2
+5,0,1,4,1,25,14,8,57,Reggie,7,6,86,33,0,1,Reggie Jackson,23,1,Jackson,G,1,Detroit,2
+1,0,1,4,2,50,10,4,40,Stanley,0,0,0,23,0,2,Stanley Johnson,10,1,Johnson,N/A,1,Detroit,0
+1,2,4,3,2,67,5,3,60,Anthony,2,0,0,23,1,0,Anthony Tolliver,8,5,Tolliver,N/A,1,Detroit,0
+3,0,1,2,0,0,3,0,0,Steve,0,0,0,15,0,1,Steve Blake,0,1,Blake,N/A,1,Detroit,1
+1,0,1,0,0,0,2,0,0,Aron,0,0,0,12,0,1,Aron Baynes,0,1,Baynes,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Bullock,N/A,N/A,Bullock,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Spencer,N/A,N/A,N/A,N/A,N/A,N/A,Spencer Dinwiddie,N/A,N/A,Dinwiddie,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrun,N/A,N/A,N/A,N/A,N/A,N/A,Darrun Hilliard,N/A,N/A,Hilliard,N/A,N/A,Detroit,N/A

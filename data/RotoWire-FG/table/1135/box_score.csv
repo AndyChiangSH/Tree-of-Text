@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,5,5,1,20,11,4,36,Joe,0,0,0,29,2,0,Joe Harris,9,7,Harris,F,1,Brooklyn,3
+2,0,1,2,0,0,3,0,0,Jared,0,0,0,18,0,2,Jared Dudley,0,1,Dudley,F,1,Brooklyn,1
+0,1,7,0,0,0,8,4,50,Jarrett,0,0,0,24,2,2,Jarrett Allen,8,9,Allen,C,0,Brooklyn,1
+4,0,2,3,1,33,12,6,50,Caris,8,5,62,31,1,1,Caris LeVert,18,3,LeVert,G,1,Brooklyn,4
+3,0,2,6,1,17,16,3,19,D'Angelo,2,1,50,27,0,0,D'Angelo Russell,8,2,Russell,G,2,Brooklyn,1
+1,1,2,1,0,0,1,0,0,Treveon,0,0,0,12,0,0,Treveon Graham,0,2,Graham,N/A,0,Brooklyn,0
+4,0,0,2,0,0,7,1,14,Spencer,2,1,50,22,1,0,Spencer Dinwiddie,3,1,Dinwiddie,N/A,1,Brooklyn,1
+1,2,2,1,1,100,13,9,69,Rondae,2,2,100,15,0,4,Rondae Hollis-Jefferson,21,2,Hollis-Jefferson,N/A,0,Brooklyn,1
+0,0,2,4,2,50,7,2,29,DeMarre,2,2,100,17,0,0,DeMarre Carroll,8,2,Carroll,N/A,0,Brooklyn,0
+1,0,5,3,2,67,8,4,50,Rodions,5,4,80,15,2,3,Rodions Kurucs,14,7,Kurucs,N/A,1,Brooklyn,0
+10,0,3,2,1,50,5,3,60,Shabazz,4,4,100,16,1,0,Shabazz Napier,11,4,Napier,N/A,1,Brooklyn,0
+0,0,1,1,0,0,1,0,0,Theo,0,0,0,9,0,0,Theo Pinson,0,1,Pinson,N/A,1,Brooklyn,1
+0,0,0,1,0,0,1,0,0,Dzanan,0,0,0,5,0,1,Dzanan Musa,0,0,Musa,N/A,1,Brooklyn,1
+5,1,3,2,1,50,9,4,44,Jimmy,0,0,0,27,2,1,Jimmy Butler,9,5,Butler,F,3,Philadelphia,4
+4,0,7,4,2,50,8,5,62,Tobias,0,0,0,27,1,0,Tobias Harris,12,8,Harris,F,3,Philadelphia,0
+2,0,11,5,2,40,18,9,50,Joel,3,3,100,20,2,2,Joel Embiid,23,13,Embiid,C,1,Philadelphia,2
+2,0,0,6,3,50,8,4,50,JJ,0,0,0,26,1,1,JJ Redick,11,1,Redick,G,0,Philadelphia,0
+6,0,4,0,0,0,10,6,60,Ben,3,1,33,27,0,0,Ben Simmons,13,4,Simmons,G,0,Philadelphia,2
+4,0,5,1,0,0,5,3,60,Boban,1,1,100,14,2,2,Boban Marjanovic,7,7,Marjanovic,N/A,0,Philadelphia,3
+0,0,4,2,0,0,3,1,33,Mike,0,0,0,13,0,0,Mike Scott,2,4,Scott,N/A,0,Philadelphia,2
+3,0,2,3,1,33,8,5,62,James,0,0,0,20,1,5,James Ennis III,11,3,Ennis,N/A,1,Philadelphia,1
+7,1,3,0,0,0,8,3,38,T.J.,0,0,0,23,1,2,T.J. McConnell,6,4,McConnell,N/A,1,Philadelphia,0
+0,1,1,4,2,50,4,2,50,Jonah,0,0,0,14,0,4,Jonah Bolden,6,1,Bolden,N/A,0,Philadelphia,2
+2,0,1,1,1,100,6,3,50,Furkan,1,0,0,12,0,3,Furkan Korkmaz,7,1,Korkmaz,N/A,0,Philadelphia,1
+0,0,2,4,2,50,9,4,44,Jonathon,0,0,0,11,0,0,Jonathon Simmons,10,2,Simmons,N/A,0,Philadelphia,0
+0,0,2,1,0,0,4,2,50,Greg,1,1,100,6,1,1,Greg Monroe,5,3,Monroe,N/A,1,Philadelphia,2

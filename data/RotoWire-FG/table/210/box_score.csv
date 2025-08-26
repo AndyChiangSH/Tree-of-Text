@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,9,5,2,40,14,6,43,Glenn,2,2,100,45,2,4,Glenn Robinson,16,11,Robinson,F,0,Indiana,2
+1,0,7,5,2,40,18,9,50,Thaddeus,3,0,0,38,4,0,Thaddeus Young,20,11,Young,F,2,Indiana,1
+0,2,7,1,0,0,8,2,25,Myles,12,11,92,38,2,4,Myles Turner,15,9,Turner,C,1,Indiana,1
+7,0,4,2,1,50,10,5,50,Monta,1,1,100,42,0,2,Monta Ellis,12,4,Ellis,G,2,Indiana,8
+9,0,5,4,3,75,16,9,56,Jeff,9,9,100,40,0,2,Jeff Teague,30,5,Teague,G,6,Indiana,3
+1,0,1,2,1,50,9,3,33,Rodney,4,1,25,17,1,0,Rodney Stuckey,8,2,Stuckey,N/A,1,Indiana,1
+1,0,2,0,0,0,5,1,20,Al,0,0,0,14,3,4,Al Jefferson,2,5,Jefferson,N/A,0,Indiana,2
+1,0,0,3,2,67,6,4,67,Aaron,0,0,0,13,1,1,Aaron Brooks,10,1,Brooks,N/A,0,Indiana,2
+1,0,1,0,0,0,2,1,50,Lavoy,0,0,0,15,2,2,Lavoy Allen,2,3,Allen,N/A,1,Indiana,1
+0,0,0,0,0,0,1,0,0,Georges,0,0,0,2,0,1,Georges Niang,0,0,Niang,N/A,0,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Miles,N/A,N/A,Miles,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Seraphin,N/A,N/A,Seraphin,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+1,1,5,4,2,50,5,2,40,Andre,0,0,0,36,1,3,Andre Roberson,6,6,Roberson,F,1,Oklahoma City,0
+0,0,3,5,1,20,10,3,30,Domantas,0,0,0,20,3,2,Domantas Sabonis,7,6,Sabonis,F,2,Oklahoma City,2
+0,0,4,0,0,0,7,3,43,Steven,2,2,100,34,4,5,Steven Adams,8,8,Adams,C,1,Oklahoma City,4
+6,0,5,6,2,33,14,6,43,Victor,0,0,0,38,0,2,Victor Oladipo,14,5,Oladipo,G,2,Oklahoma City,4
+15,0,6,8,2,25,34,13,38,Russell,5,3,60,40,5,3,Russell Westbrook,31,11,Westbrook,G,2,Oklahoma City,7
+1,0,0,4,0,0,9,4,44,Alex,0,0,0,23,0,0,Alex Abrines,8,0,Abrines,N/A,1,Oklahoma City,1
+2,1,5,3,1,33,5,3,60,Joffrey,1,0,0,26,2,1,Joffrey Lauvergne,7,7,Lauvergne,N/A,0,Oklahoma City,0
+3,3,4,2,1,50,9,5,56,Enes,6,5,83,25,0,3,Enes Kanter,16,4,Kanter,N/A,1,Oklahoma City,2
+0,2,1,1,1,100,3,3,100,Jerami,2,2,100,15,0,4,Jerami Grant,9,1,Grant,N/A,0,Oklahoma City,0
+0,0,1,3,0,0,5,2,40,Anthony,2,1,50,7,0,0,Anthony Morrow,5,1,Morrow,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Huestis,N/A,N/A,Huestis,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Singler,N/A,N/A,Singler,N/A,N/A,Oklahoma City,N/A

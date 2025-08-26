@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,0,10,2,20,12,4,33,Matt,0,0,0,32,2,3,Matt Barnes,10,2,Barnes,F,1,Los Angeles,2
+7,0,2,0,0,0,12,6,50,Blake,5,0,0,25,2,5,Blake Griffin,12,4,Griffin,F,1,Los Angeles,3
+2,3,15,0,0,0,6,3,50,DeAndre,14,8,57,34,7,1,DeAndre Jordan,14,22,Jordan,C,0,Los Angeles,1
+3,0,3,10,4,40,17,8,47,JJ,6,5,83,32,1,1,JJ Redick,25,4,Redick,G,0,Los Angeles,1
+9,0,4,4,4,100,10,6,60,Chris,8,7,88,32,1,4,Chris Paul,23,5,Paul,G,2,Los Angeles,1
+1,0,1,0,0,0,2,0,0,Austin,4,3,75,22,0,2,Austin Rivers,3,1,Rivers,N/A,1,Los Angeles,2
+1,2,2,0,0,0,4,2,50,Glen,1,0,0,16,0,4,Glen Davis,4,2,Davis,N/A,0,Los Angeles,0
+0,1,2,3,0,0,5,1,20,Spencer,0,0,0,11,0,1,Spencer Hawes,2,2,Hawes,N/A,0,Los Angeles,0
+1,0,3,1,0,0,5,1,20,Lester,2,2,100,15,0,1,Lester Hudson,4,3,Hudson,N/A,3,Los Angeles,1
+0,1,0,5,3,60,5,3,60,Hedo,0,0,0,14,0,2,Hedo Turkoglu,9,0,Turkoglu,N/A,1,Los Angeles,0
+0,0,0,0,0,0,0,0,0,Dahntay,0,0,0,0,0,0,Dahntay Jones,0,0,Jones,N/A,0,Los Angeles,0
+0,0,1,1,0,0,1,0,0,Jordan,0,0,0,3,0,2,Jordan Hamilton,0,1,Hamilton,N/A,0,Los Angeles,0
+0,0,1,0,0,0,0,0,0,Ekpe,2,1,50,3,0,1,Ekpe Udoh,1,1,Udoh,N/A,0,Los Angeles,1
+3,0,4,5,1,20,15,5,33,Wilson,8,6,75,34,2,3,Wilson Chandler,17,6,Chandler,F,0,Denver,1
+3,0,10,0,0,0,12,4,33,Kenneth,3,2,67,34,4,3,Kenneth Faried,10,14,Faried,F,1,Denver,4
+0,0,3,0,0,0,6,3,50,JJ,2,1,50,24,3,2,JJ Hickson,7,6,Hickson,C,0,Denver,2
+5,1,5,7,3,43,13,5,39,Randy,1,1,100,35,0,3,Randy Foye,14,5,Foye,G,1,Denver,2
+2,0,0,3,0,0,4,1,25,Jameer,0,0,0,13,2,2,Jameer Nelson,2,2,Nelson,G,1,Denver,3
+2,0,2,3,0,0,9,3,33,Will,4,3,75,20,0,1,Will Barton,9,2,Barton,N/A,1,Denver,0
+1,0,2,0,0,0,9,3,33,Jusuf,6,4,67,22,4,5,Jusuf Nurkic,10,6,Nurkic,N/A,1,Denver,1
+1,0,0,1,0,0,4,1,25,Gary,2,1,50,19,0,5,Gary Harris,3,0,Harris,N/A,1,Denver,1
+0,0,2,1,0,0,5,3,60,Joffrey,1,1,100,9,0,4,Joffrey Lauvergne,7,2,Lauvergne,N/A,0,Denver,1
+3,0,0,2,2,100,7,4,57,Erick,2,1,50,25,0,2,Erick Green,11,0,Green,N/A,1,Denver,0
+1,0,1,0,0,0,1,0,0,Ian,2,2,100,4,0,1,Ian Clark,2,1,Clark,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Danilo,N/A,N/A,N/A,N/A,N/A,N/A,Danilo Gallinari,N/A,N/A,Gallinari,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ty,N/A,N/A,N/A,N/A,N/A,N/A,Ty Lawson,N/A,N/A,Lawson,N/A,N/A,Denver,N/A

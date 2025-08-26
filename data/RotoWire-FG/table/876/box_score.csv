@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,7,2,29,15,6,40,DeMarre,2,2,100,34,1,0,DeMarre Carroll,16,5,Carroll,F,1,Brooklyn,1
+7,1,7,4,2,50,15,8,53,Rondae,4,3,75,31,1,2,Rondae Hollis-Jefferson,21,8,Hollis-Jefferson,F,0,Brooklyn,1
+1,0,8,0,0,0,4,2,50,Tyler,1,1,100,16,1,1,Tyler Zeller,5,9,Zeller,C,0,Brooklyn,0
+0,2,4,3,2,67,5,2,40,Allen,0,0,0,28,0,1,Allen Crabbe,6,4,Crabbe,G,0,Brooklyn,0
+5,0,4,6,4,67,13,9,69,Spencer,0,0,0,31,0,1,Spencer Dinwiddie,22,4,Dinwiddie,G,0,Brooklyn,5
+0,0,2,0,0,0,1,1,100,Jarrett,0,0,0,12,2,4,Jarrett Allen,2,4,Allen,N/A,0,Brooklyn,4
+1,0,3,3,1,33,7,4,57,Joe,4,3,75,23,0,2,Joe Harris,12,3,Harris,N/A,0,Brooklyn,1
+1,0,0,3,1,33,5,1,20,D'Angelo,0,0,0,14,0,3,D'Angelo Russell,3,0,Russell,N/A,0,Brooklyn,2
+3,0,3,2,0,0,7,2,29,Caris,9,5,56,22,1,2,Caris LeVert,9,4,LeVert,N/A,0,Brooklyn,0
+1,0,3,3,1,33,5,1,20,Quincy,0,0,0,22,1,2,Quincy Acy,3,4,Acy,N/A,0,Brooklyn,0
+1,0,1,0,0,0,3,1,33,Jahlil,0,0,0,7,0,0,Jahlil Okafor,2,1,Okafor,N/A,0,Brooklyn,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timofey,N/A,N/A,N/A,N/A,N/A,N/A,Timofey Mozgov,N/A,N/A,Mozgov,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nik,N/A,N/A,N/A,N/A,N/A,N/A,Nik Stauskas,N/A,N/A,Stauskas,N/A,N/A,Brooklyn,N/A
+1,0,0,3,1,33,5,3,60,Reggie,0,0,0,22,0,0,Reggie Bullock,7,0,Bullock,F,0,Detroit,0
+5,1,7,4,1,25,18,8,44,Tobias,3,3,100,36,0,2,Tobias Harris,20,7,Harris,F,0,Detroit,1
+4,1,10,1,0,0,8,3,38,Andre,2,1,50,26,3,5,Andre Drummond,7,13,Drummond,C,0,Detroit,0
+1,0,1,3,0,0,12,3,25,Avery,1,1,100,26,0,0,Avery Bradley,7,1,Bradley,G,0,Detroit,1
+3,1,2,2,1,50,11,4,36,Ish,2,2,100,27,0,1,Ish Smith,11,2,Smith,G,1,Detroit,0
+0,0,2,3,1,33,11,6,55,Stanley,5,5,100,26,2,4,Stanley Johnson,18,4,Johnson,N/A,0,Detroit,1
+5,0,4,3,1,33,9,3,33,Langston,2,1,50,21,0,2,Langston Galloway,8,4,Galloway,N/A,2,Detroit,2
+1,1,0,6,3,50,9,5,56,Luke,0,0,0,22,0,2,Luke Kennard,13,0,Kennard,N/A,0,Detroit,1
+1,0,3,4,1,25,5,2,40,Anthony,2,2,100,23,0,2,Anthony Tolliver,7,3,Tolliver,N/A,0,Detroit,0
+0,0,7,0,0,0,2,1,50,Eric,0,0,0,11,2,1,Eric Moreland,2,9,Moreland,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwight,N/A,N/A,N/A,N/A,N/A,N/A,Dwight Buycks,N/A,N/A,Buycks,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Henry,N/A,N/A,N/A,N/A,N/A,N/A,Henry Ellenson,N/A,N/A,Ellenson,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,Detroit,N/A

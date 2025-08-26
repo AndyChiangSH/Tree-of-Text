@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,6,2,1,50,3,1,33,PJ,4,4,100,31,1,1,PJ Tucker,7,7,Tucker,F,0,Phoenix,0
+1,0,2,5,2,40,7,2,29,Marquese,2,0,0,20,0,3,Marquese Chriss,6,2,Chriss,F,0,Phoenix,3
+1,2,5,0,0,0,7,4,57,Alex,6,1,17,25,2,2,Alex Len,9,7,Len,C,1,Phoenix,0
+0,0,1,2,0,0,13,4,31,Devin,3,2,67,18,0,0,Devin Booker,10,1,Booker,G,2,Phoenix,5
+6,0,3,4,1,25,24,12,50,Eric,2,2,100,30,2,3,Eric Bledsoe,27,5,Bledsoe,G,0,Phoenix,4
+1,0,1,4,1,25,7,3,43,Jared,0,0,0,23,2,3,Jared Dudley,7,3,Dudley,N/A,1,Phoenix,0
+2,0,1,2,1,50,9,3,33,Brandon,6,5,83,21,1,1,Brandon Knight,12,2,Knight,N/A,1,Phoenix,0
+0,4,7,0,0,0,8,5,63,Alan,4,2,50,23,4,4,Alan Williams,12,11,Williams,N/A,2,Phoenix,1
+0,0,0,0,0,0,3,1,33,Leandro,0,0,0,10,0,0,Leandro Barbosa,2,0,Barbosa,N/A,0,Phoenix,0
+0,1,1,2,0,0,3,1,33,Dragan,1,0,0,12,0,1,Dragan Bender,2,1,Bender,N/A,0,Phoenix,2
+5,0,4,0,0,0,7,3,43,Tyler,4,3,75,22,0,1,Tyler Ulis,9,4,Ulis,N/A,4,Phoenix,0
+0,0,0,0,0,0,0,0,0,Derrick,0,0,0,3,0,0,"Derrick Jones, Jr.",0,0,"Jones,",N/A,0,Phoenix,0
+0,0,1,0,0,0,1,0,0,John,2,2,100,4,0,0,John Jenkins,2,1,Jenkins,N/A,0,Phoenix,0
+2,2,5,4,1,25,5,1,20,Robert,2,0,0,18,0,1,Robert Covington,3,5,Covington,F,2,Philadelphia,3
+1,0,2,4,1,25,9,5,56,Ersan,0,0,0,24,0,2,Ersan Ilyasova,11,2,Ilyasova,F,1,Philadelphia,0
+2,2,7,5,3,60,14,9,64,Joel,6,5,83,20,0,4,Joel Embiid,26,7,Embiid,C,0,Philadelphia,3
+1,0,3,1,0,0,8,4,50,Gerald,4,3,75,22,2,3,Gerald Henderson,11,5,Henderson,G,3,Philadelphia,0
+11,0,8,6,2,33,10,3,30,Sergio,0,0,0,29,0,0,Sergio Rodriguez,8,8,Rodriguez,G,2,Philadelphia,4
+2,3,0,0,0,0,4,3,75,Jahlil,0,0,0,19,1,2,Jahlil Okafor,6,1,Okafor,N/A,0,Philadelphia,1
+0,1,2,6,5,83,9,8,89,Nik,0,0,0,26,0,2,Nik Stauskas,21,2,Stauskas,N/A,0,Philadelphia,2
+5,1,7,4,2,50,7,3,43,Dario,2,2,100,25,0,2,Dario Saric,10,7,Saric,N/A,0,Philadelphia,2
+6,0,1,0,0,0,6,2,33,TJ,2,1,50,19,1,1,TJ McConnell,5,2,McConnell,N/A,3,Philadelphia,2
+1,0,2,5,3,60,9,5,56,Hollis,2,1,50,26,2,3,Hollis Thompson,14,4,Thompson,N/A,0,Philadelphia,1
+1,0,1,0,0,0,2,1,50,Richaun,2,1,50,7,0,2,Richaun Holmes,3,1,Holmes,N/A,0,Philadelphia,0
+1,0,0,0,0,0,3,1,33,Timothe,0,0,0,5,0,1,Timothe Luwawu-Cabarrot,2,0,Luwawu-Cabarrot,N/A,0,Philadelphia,0

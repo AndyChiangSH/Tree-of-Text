@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,0,1,0,0,19,8,42,Andrew,7,4,57,32,0,1,Andrew Wiggins,20,0,Wiggins,F,1,Minnesota,1
+2,2,6,1,0,0,7,3,43,Gorgui,8,7,88,35,1,1,Gorgui Dieng,13,7,Dieng,F,4,Minnesota,0
+0,0,4,2,0,0,11,6,55,Karl-Anthony,5,4,80,31,1,1,Karl-Anthony Towns,16,5,Towns,C,0,Minnesota,2
+0,0,2,0,0,0,1,0,0,Brandon,0,0,0,15,0,1,Brandon Rush,0,2,Rush,G,0,Minnesota,0
+4,0,2,1,1,100,12,6,50,Ricky,3,3,100,25,2,3,Ricky Rubio,16,4,Rubio,G,1,Minnesota,2
+1,0,1,2,0,0,2,0,0,Omri,0,0,0,18,0,0,Omri Casspi,0,1,Casspi,N/A,0,Minnesota,0
+1,0,3,2,1,50,13,8,62,Kris,0,0,0,29,1,4,Kris Dunn,17,4,Dunn,N/A,2,Minnesota,0
+0,0,2,1,0,0,6,4,67,Shabazz,7,5,71,20,0,0,Shabazz Muhammad,13,2,Muhammad,N/A,0,Minnesota,1
+4,1,0,0,0,0,2,0,0,Tyus,2,1,50,23,1,0,Tyus Jones,1,1,Jones,N/A,1,Minnesota,1
+1,0,1,0,0,0,2,1,50,Adreian,0,0,0,8,0,3,Adreian Payne,2,1,Payne,N/A,1,Minnesota,0
+0,0,0,0,0,0,1,1,100,Cole,0,0,0,5,0,0,Cole Aldrich,2,0,Aldrich,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nemanja,N/A,N/A,N/A,N/A,N/A,N/A,Nemanja Bjelica,N/A,N/A,Bjelica,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+2,0,0,1,0,0,3,2,67,Maurice,0,0,0,27,1,1,Maurice Harkless,4,1,Harkless,F,0,Portland,0
+1,0,3,0,0,0,1,1,100,Noah,2,1,50,23,0,4,Noah Vonleh,3,3,Vonleh,F,0,Portland,0
+4,1,7,0,0,0,14,7,50,Jusuf,2,0,0,23,2,1,Jusuf Nurkic,14,9,Nurkic,C,0,Portland,0
+4,0,3,5,4,80,13,11,85,CJ,6,6,100,29,1,2,CJ McCollum,32,4,McCollum,G,1,Portland,4
+8,0,6,6,3,50,13,8,62,Damian,3,2,67,29,0,0,Damian Lillard,21,6,Lillard,G,2,Portland,3
+0,2,3,4,2,50,7,4,57,Allen,0,0,0,21,0,3,Allen Crabbe,10,3,Crabbe,N/A,0,Portland,1
+0,0,6,0,0,0,5,4,80,Al-Farouq,2,0,0,27,0,2,Al-Farouq Aminu,8,6,Aminu,N/A,2,Portland,1
+2,0,2,0,0,0,5,4,80,Evan,0,0,0,21,0,3,Evan Turner,8,2,Turner,N/A,0,Portland,2
+2,0,0,4,1,25,4,1,25,Meyers,0,0,0,21,0,4,Meyers Leonard,3,0,Leonard,N/A,0,Portland,1
+1,0,1,1,0,0,5,2,40,Shabazz,2,2,100,14,0,0,Shabazz Napier,6,1,Napier,N/A,0,Portland,1
+0,0,0,1,1,100,1,1,100,Pat,0,0,0,3,0,0,Pat Connaughton,3,0,Connaughton,N/A,0,Portland,1
+0,0,0,0,0,0,0,0,0,Jake,0,0,0,3,0,0,Jake Layman,0,0,Layman,N/A,0,Portland,0

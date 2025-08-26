@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,5,12,5,42,12,5,42,Trevor,0,0,0,35,0,1,Trevor Ariza,15,5,Ariza,F,2,Houston,2
+0,0,5,4,1,25,7,2,29,Ryan,0,0,0,33,4,0,Ryan Anderson,5,9,Anderson,F,0,Houston,0
+1,1,16,0,0,0,12,9,75,Clint,3,2,67,32,1,5,Clint Capela,20,17,Capela,C,0,Houston,2
+4,1,1,11,3,27,16,6,38,Eric,8,6,75,31,0,3,Eric Gordon,21,1,Gordon,G,2,Houston,3
+15,0,5,12,3,25,21,9,43,James,5,5,100,34,0,1,James Harden,26,5,Harden,G,2,Houston,3
+2,0,0,5,3,60,8,4,50,Luc,0,0,0,25,1,3,Luc Mbah a Moute,11,1,Mbah,N/A,2,Houston,1
+0,1,2,0,0,0,4,4,100,Tarik,0,0,0,16,1,4,Tarik Black,8,3,Black,N/A,2,Houston,2
+1,0,2,2,1,50,7,3,43,PJ,2,2,100,25,3,2,PJ Tucker,9,5,Tucker,N/A,0,Houston,0
+0,0,0,0,0,0,1,0,0,Demetrius,0,0,0,4,0,0,Demetrius Jackson,0,0,Jackson,N/A,0,Houston,0
+0,0,0,1,1,100,2,1,50,Bobby,0,0,0,4,0,0,Bobby Brown,3,0,Brown,N/A,0,Houston,0
+0,2,1,0,0,0,0,0,0,Zhou,0,0,0,4,0,1,Zhou Qi,0,1,Qi,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,Houston,N/A
+1,1,2,4,1,25,10,2,20,Bojan,0,0,0,29,0,1,Bojan Bogdanovic,5,2,Bogdanovic,F,1,Indiana,1
+2,0,5,2,0,0,7,0,0,Thaddeus,0,0,0,24,0,0,Thaddeus Young,0,5,Young,F,1,Indiana,1
+2,3,7,1,0,0,11,6,55,Myles,2,1,50,26,1,4,Myles Turner,13,8,Turner,C,0,Indiana,0
+2,0,3,5,2,40,17,11,65,Victor,6,4,67,36,1,3,Victor Oladipo,28,4,Oladipo,G,1,Indiana,3
+2,0,2,2,2,100,6,3,50,Darren,3,1,33,23,0,0,Darren Collison,9,2,Collison,G,1,Indiana,2
+3,2,1,2,0,0,4,1,25,Cory,0,0,0,26,0,3,Cory Joseph,2,1,Joseph,N/A,0,Indiana,2
+2,0,2,1,1,100,10,7,70,Domantas,2,2,100,23,3,1,Domantas Sabonis,17,5,Sabonis,N/A,1,Indiana,2
+3,0,8,1,0,0,7,2,29,Lance,6,4,67,24,2,2,Lance Stephenson,8,10,Stephenson,N/A,0,Indiana,1
+0,1,1,3,2,67,5,3,60,TJ,2,1,50,19,0,1,TJ Leaf,9,1,Leaf,N/A,0,Indiana,1
+0,0,1,1,0,0,3,1,33,Joe,0,0,0,4,0,0,Joe Young,2,1,Young,N/A,0,Indiana,0
+0,0,1,0,0,0,2,0,0,Ike,0,0,0,4,0,0,Ike Anigbogu,0,1,Anigbogu,N/A,0,Indiana,0
+1,0,1,0,0,0,1,1,100,Damien,0,0,0,4,0,0,Damien Wilkins,2,1,Wilkins,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Al,N/A,N/A,N/A,N/A,N/A,N/A,Al Jefferson,N/A,N/A,Jefferson,N/A,N/A,Indiana,N/A

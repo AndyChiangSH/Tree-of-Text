@@ -1,0 +1,35 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,6,00:31:33,1,0,Carolina MARIN,push,goes out of bounds,opponent goes out of bounds
+2,3,00:31:51,1,1,Pornpawee CHOCHUWONG,drive,fails to clear the net,opponent fails to clear the net
+3,13,00:32:26,2,1,Carolina MARIN,push,goes out of bounds,opponent goes out of bounds
+4,14,00:33:00,2,2,Pornpawee CHOCHUWONG,defensive return drive,opponent wins by landing,wins by landing
+5,5,00:33:34,3,2,Carolina MARIN,net shot,fails to clear the net,opponent fails to clear the net
+6,10,00:34:00,4,2,Carolina MARIN,drive,hits the net,opponent hits the net
+7,3,00:34:30,5,2,Carolina MARIN,smash,opponent wins by landing,wins by landing
+8,2,00:34:58,6,2,Carolina MARIN,net shot,fails to clear the net,opponent fails to clear the net
+9,10,00:35:19,7,2,Carolina MARIN,net shot,fails to clear the net,opponent fails to clear the net
+10,14,00:35:50,8,2,Carolina MARIN,unknown,hits the net,opponent hits the net
+11,5,00:36:29,8,3,Pornpawee CHOCHUWONG,lob,goes out of bounds,opponent goes out of bounds
+12,11,00:36:59,9,3,Carolina MARIN,net shot,hits the net,opponent hits the net
+13,9,00:37:29,10,3,Carolina MARIN,smash,opponent wins by landing,wins by landing
+14,2,00:38:04,11,3,Carolina MARIN,lob,goes out of bounds,opponent goes out of bounds
+15,3,00:39:26,11,4,Pornpawee CHOCHUWONG,drop,hits the net,opponent hits the net
+16,8,00:39:49,12,4,Carolina MARIN,clear,opponent wins by landing,wins by landing
+17,4,00:40:14,13,4,Carolina MARIN,lob,goes out of bounds,opponent goes out of bounds
+18,15,00:40:39,13,5,Pornpawee CHOCHUWONG,return net,fails to clear the net,opponent fails to clear the net
+19,5,00:41:20,14,5,Carolina MARIN,net shot,fails to clear the net,opponent fails to clear the net
+20,9,00:41:45,14,6,Pornpawee CHOCHUWONG,drop,hits the net,opponent hits the net
+21,7,00:42:12,14,7,Pornpawee CHOCHUWONG,smash,opponent wins by landing,wins by landing
+22,4,00:42:54,14,8,Pornpawee CHOCHUWONG,back-court drive,hits the net,opponent hits the net
+23,12,00:43:21,15,8,Carolina MARIN,return net,opponent wins by landing,wins by landing
+24,17,00:44:15,15,9,Pornpawee CHOCHUWONG,clear,goes out of bounds,opponent goes out of bounds
+25,5,00:44:46,15,10,Pornpawee CHOCHUWONG,smash,opponent wins by landing,wins by landing
+26,6,00:45:13,16,10,Carolina MARIN,net shot,opponent wins by landing,wins by landing
+27,4,00:45:36,16,11,Pornpawee CHOCHUWONG,smash,opponent wins by landing,wins by landing
+28,31,00:46:28,17,11,Carolina MARIN,unknown,hits the net,opponent hits the net
+29,2,00:47:08,18,11,Carolina MARIN,push,goes out of bounds,opponent goes out of bounds
+30,6,00:47:34,19,11,Carolina MARIN,return net,hits the net,opponent hits the net
+31,11,00:48:04,19,12,Pornpawee CHOCHUWONG,clear,goes out of bounds,opponent goes out of bounds
+32,4,00:48:34,19,13,Pornpawee CHOCHUWONG,net shot,goes out of bounds,opponent goes out of bounds
+33,11,00:49:03,20,13,Carolina MARIN,wrist smash,hits the net,opponent hits the net
+34,10,00:49:46,21,13,Carolina MARIN,net shot,fails to clear the net,opponent fails to clear the net

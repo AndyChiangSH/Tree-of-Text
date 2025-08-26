@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,3,2,0,0,4,0,0,Otto,0,0,0,19,0,2,Otto Porter Jr.,0,3,Porter,F,1,Washington,0
+5,0,6,3,1,33,14,6,43,Markieff,0,0,0,33,2,2,Markieff Morris,13,8,Morris,F,0,Washington,0
+1,0,7,0,0,0,8,6,75,Marcin,0,0,0,18,1,3,Marcin Gortat,12,8,Gortat,C,0,Washington,1
+3,1,1,6,1,17,17,9,53,Bradley,4,4,100,32,0,2,Bradley Beal,23,1,Beal,G,2,Washington,1
+13,1,3,2,0,0,12,4,33,John,4,4,100,34,1,1,John Wall,12,4,Wall,G,0,Washington,3
+3,3,3,0,0,0,4,0,0,Ian,2,1,50,21,2,3,Ian Mahinmi,1,5,Mahinmi,N/A,1,Washington,0
+0,0,2,7,6,86,12,9,75,Bojan,3,3,100,25,0,2,Bojan Bogdanovic,27,2,Bogdanovic,N/A,0,Washington,2
+2,1,3,4,1,25,7,2,29,Kelly,2,2,100,24,0,3,Kelly Oubre Jr.,7,3,Oubre,N/A,0,Washington,4
+3,0,4,1,0,0,2,0,0,Tomas,2,1,50,18,1,1,Tomas Satoransky,1,5,Satoransky,N/A,1,Washington,1
+2,0,5,0,0,0,4,4,100,Jason,0,0,0,10,0,1,Jason Smith,8,5,Smith,N/A,1,Washington,0
+0,0,0,0,0,0,0,0,0,Daniel,0,0,0,2,0,1,Daniel Ochefu,0,0,Ochefu,N/A,0,Washington,0
+0,0,0,0,0,0,0,0,0,Chris,2,1,50,2,0,0,Chris McCullough,1,0,McCullough,N/A,0,Washington,0
+0,0,0,0,0,0,0,0,0,Sheldon,0,0,0,2,0,0,Sheldon McClellan,0,0,McClellan,N/A,0,Washington,0
+1,0,2,0,0,0,3,0,0,DeMarre,0,0,0,30,2,1,DeMarre Carroll,0,4,Carroll,F,2,Toronto,1
+0,2,9,6,4,67,17,8,47,Serge,2,2,100,36,4,3,Serge Ibaka,22,13,Ibaka,F,1,Toronto,4
+1,0,4,0,0,0,12,3,25,Jonas,1,1,100,21,7,2,Jonas Valanciunas,7,11,Valanciunas,C,0,Toronto,1
+2,0,3,0,0,0,20,7,35,DeMar,11,10,91,34,0,3,DeMar DeRozan,24,3,DeRozan,G,1,Toronto,2
+1,1,4,4,1,25,11,5,46,Cory,0,0,0,28,0,0,Cory Joseph,11,4,Joseph,G,0,Toronto,0
+1,1,3,1,0,0,3,2,67,PJ,0,0,0,21,2,1,PJ Tucker,4,5,Tucker,N/A,1,Toronto,1
+0,0,4,4,0,0,6,0,0,Patrick,0,0,0,21,0,1,Patrick Patterson,0,4,Patterson,N/A,0,Toronto,0
+2,0,1,0,0,0,2,1,50,Delon,4,4,100,20,0,2,Delon Wright,6,1,Wright,N/A,2,Toronto,1
+0,0,1,0,0,0,1,1,100,Jakob,0,0,0,7,1,0,Jakob Poeltl,2,2,Poeltl,N/A,0,Toronto,0
+2,0,2,4,1,25,12,5,42,Norman,8,6,75,16,0,3,Norman Powell,17,2,Powell,N/A,0,Toronto,0
+0,0,0,1,1,100,3,1,33,Fred,0,0,0,5,0,2,Fred VanVleet,3,0,VanVleet,N/A,0,Toronto,1
+1,0,1,0,0,0,0,0,0,Pascal,0,0,0,2,0,0,Pascal Siakam,0,1,Siakam,N/A,1,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,N/A,Lucas Nogueira,N/A,N/A,Nogueira,N/A,N/A,Toronto,N/A

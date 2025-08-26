@@ -1,0 +1,34 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,10,00:27:32,1,0,Kento MOMOTA,net shot,hits the net,opponent hits the net
+2,5,00:27:51,2,0,Kento MOMOTA,lob,opponent wins by landing,wins by landing
+3,8,00:28:19,3,0,Kento MOMOTA,lob,goes out of bounds,opponent goes out of bounds
+4,4,00:28:35,3,1,Kunlavut VITIDSARN,drop,opponent wins by landing,wins by landing
+5,20,00:29:08,4,1,Kento MOMOTA,rush,opponent wins by landing,wins by landing
+6,13,00:29:40,5,1,Kento MOMOTA,wrist smash,opponent wins by landing,wins by landing
+7,8,00:30:12,6,1,Kento MOMOTA,return net,goes out of bounds,opponent goes out of bounds
+8,4,00:31:04,7,1,Kento MOMOTA,smash,goes out of bounds,opponent goes out of bounds
+9,38,00:32:20,8,1,Kento MOMOTA,net shot,hits the net,opponent hits the net
+10,10,00:32:55,9,1,Kento MOMOTA,drop,goes out of bounds,opponent goes out of bounds
+11,15,00:33:24,9,2,Kunlavut VITIDSARN,return net,hits the net,opponent hits the net
+12,22,00:34:30,10,2,Kento MOMOTA,smash,opponent wins by landing,wins by landing
+13,14,00:35:02,10,3,Kunlavut VITIDSARN,wrist smash,opponent wins by landing,wins by landing
+14,10,00:35:37,11,3,Kento MOMOTA,smash,opponent wins by landing,wins by landing
+15,12,00:37:21,11,4,Kunlavut VITIDSARN,net shot,opponent wins by landing,wins by landing
+16,3,00:37:48,12,4,Kento MOMOTA,smash,hits the net,opponent hits the net
+17,5,00:38:08,12,5,Kunlavut VITIDSARN,drop,hits the net,opponent hits the net
+18,20,00:38:42,12,6,Kunlavut VITIDSARN,net shot,fails to clear the net,opponent fails to clear the net
+19,25,00:39:33,12,7,Kunlavut VITIDSARN,rush,opponent wins by landing,wins by landing
+20,15,00:40:15,13,7,Kento MOMOTA,return net,fails to clear the net,opponent fails to clear the net
+21,11,00:41:17,13,8,Kunlavut VITIDSARN,return net,hits the net,opponent hits the net
+22,11,00:41:44,13,9,Kunlavut VITIDSARN,rush,opponent wins by landing,wins by landing
+23,9,00:42:18,14,9,Kento MOMOTA,smash,hits the net,opponent hits the net
+24,30,00:43:10,15,9,Kento MOMOTA,lob,goes out of bounds,opponent goes out of bounds
+25,8,00:43:59,15,10,Kunlavut VITIDSARN,rush,opponent wins by landing,wins by landing
+26,9,00:44:33,16,10,Kento MOMOTA,net shot,hits the net,opponent hits the net
+27,25,00:45:15,17,10,Kento MOMOTA,unknown,opponent wins by landing,wins by landing
+28,5,00:45:41,18,10,Kento MOMOTA,net shot,opponent wins by landing,wins by landing
+29,12,00:46:22,19,10,Kento MOMOTA,net shot,goes out of bounds,opponent goes out of bounds
+30,12,00:46:50,20,10,Kento MOMOTA,smash,goes out of bounds,opponent goes out of bounds
+31,10,00:47:19,20,11,Kunlavut VITIDSARN,clear,opponent wins by landing,wins by landing
+32,6,00:47:43,20,12,Kunlavut VITIDSARN,wrist smash,goes out of bounds,opponent goes out of bounds
+33,33,00:48:32,21,12,Kento MOMOTA,net shot,hits the net,opponent hits the net

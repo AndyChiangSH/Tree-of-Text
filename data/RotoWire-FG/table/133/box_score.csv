@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,8,8,4,50,12,7,58,Jae,0,0,0,33,1,1,Jae Crowder,18,9,Crowder,F,0,Boston,1
+0,1,2,0,0,0,0,0,0,Amir,0,0,0,14,2,4,Amir Johnson,0,4,Johnson,F,1,Boston,2
+6,1,6,5,2,40,8,4,50,Al,2,0,0,35,0,1,Al Horford,10,6,Horford,C,1,Boston,1
+4,0,0,4,1,25,13,2,15,Marcus,6,4,67,37,2,3,Marcus Smart,9,2,Smart,G,4,Boston,2
+9,0,3,13,5,39,21,9,43,Isaiah,5,5,100,36,1,1,Isaiah Thomas,28,4,Thomas,G,0,Boston,5
+3,0,6,5,4,80,11,9,82,Kelly,4,4,100,32,2,4,Kelly Olynyk,26,8,Olynyk,N/A,0,Boston,0
+0,1,3,1,0,0,5,3,60,Terry,2,1,50,23,1,1,Terry Rozier,7,4,Rozier,N/A,1,Boston,0
+0,0,3,2,0,0,5,1,20,Jaylen,0,0,0,8,0,0,Jaylen Brown,2,3,Brown,N/A,0,Boston,0
+0,0,2,2,0,0,2,0,0,Jonas,0,0,0,13,0,1,Jonas Jerebko,0,2,Jerebko,N/A,0,Boston,1
+0,0,1,4,1,25,6,1,17,Gerald,0,0,0,8,0,0,Gerald Green,3,1,Green,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Boston,N/A
+1,1,3,2,0,0,3,0,0,Thabo,4,3,75,24,0,1,Thabo Sefolosha,3,3,Sefolosha,F,0,Atlanta,0
+6,1,2,3,1,33,15,8,53,Paul,7,6,86,40,3,1,Paul Millsap,23,5,Millsap,F,1,Atlanta,3
+0,1,6,0,0,0,4,4,100,Dwight,3,3,100,24,2,2,Dwight Howard,11,8,Howard,C,1,Atlanta,3
+3,1,3,6,2,33,11,4,36,Kent,2,2,100,29,0,2,Kent Bazemore,12,3,Bazemore,G,0,Atlanta,2
+3,0,2,3,0,0,11,2,18,Dennis,0,0,0,23,1,4,Dennis Schroder,4,3,Schroder,G,0,Atlanta,1
+2,1,1,7,3,43,17,9,53,Tim,3,2,67,29,1,2,Tim Hardaway Jr.,23,2,Hardaway,N/A,3,Atlanta,1
+6,0,4,4,3,75,12,6,50,Malcolm,2,2,100,27,0,2,Malcolm Delaney,17,4,Delaney,N/A,0,Atlanta,1
+0,0,1,2,0,0,7,0,0,Mike,0,0,0,18,5,2,Mike Muscala,0,6,Muscala,N/A,0,Atlanta,0
+0,0,0,0,0,0,0,0,0,Taurean,0,0,0,2,0,0,Taurean Prince,0,0,Prince,N/A,0,Atlanta,0
+0,0,3,0,0,0,0,0,0,DeAndre',0,0,0,6,0,0,DeAndre' Bembry,0,3,Bembry,N/A,0,Atlanta,0
+0,0,1,0,0,0,1,1,100,Kris,0,0,0,4,0,0,Kris Humphries,2,1,Humphries,N/A,0,Atlanta,1
+1,0,5,3,2,67,3,2,67,Mike,0,0,0,15,0,1,Mike Dunleavy,6,5,Dunleavy,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Scott,N/A,N/A,Scott,N/A,N/A,Atlanta,N/A

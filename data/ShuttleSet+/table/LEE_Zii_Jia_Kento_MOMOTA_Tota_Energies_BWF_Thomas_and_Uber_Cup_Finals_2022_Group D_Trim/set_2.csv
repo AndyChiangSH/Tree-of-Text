@@ -1,0 +1,30 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,10,00:32:30,1,0,LEE Zii Jia,unknown,hits the net,opponent hits the net
+2,5,00:33:05,2,0,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+3,25,00:33:54,3,0,LEE Zii Jia,drop,opponent wins by landing,wins by landing
+4,11,00:34:45,4,0,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+5,10,00:35:20,5,0,LEE Zii Jia,cross-court net shot,fails to clear the net,opponent fails to clear the net
+6,11,00:35:50,6,0,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+7,3,00:36:38,7,0,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+8,58,00:38:17,8,0,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+9,8,00:38:54,9,0,LEE Zii Jia,drive,hits the net,opponent hits the net
+10,6,00:39:24,10,0,LEE Zii Jia,cross-court net shot,hits the net,opponent hits the net
+11,15,00:39:56,11,0,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+12,3,00:41:17,11,1,Kento MOMOTA,unknown,hits the net,opponent hits the net
+13,7,00:41:38,11,2,Kento MOMOTA,smash,opponent wins by landing,wins by landing
+14,5,00:42:06,11,3,Kento MOMOTA,smash,opponent wins by landing,wins by landing
+15,19,00:42:41,12,3,LEE Zii Jia,rush,goes out of bounds,opponent goes out of bounds
+16,21,00:43:24,13,3,LEE Zii Jia,drop,opponent wins by landing,wins by landing
+17,2,00:44:07,14,3,LEE Zii Jia,cross-court net shot,fails to clear the net,opponent fails to clear the net
+18,40,00:45:21,14,4,Kento MOMOTA,drop,opponent wins by landing,wins by landing
+19,9,00:46:19,15,4,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+20,5,00:46:46,15,5,Kento MOMOTA,return net,goes out of bounds,opponent goes out of bounds
+21,11,00:47:12,15,6,Kento MOMOTA,return net,opponent wins by landing,wins by landing
+22,16,00:47:46,15,7,Kento MOMOTA,lob,goes out of bounds,opponent goes out of bounds
+23,5,00:48:19,16,7,LEE Zii Jia,return net,hits the net,opponent hits the net
+24,10,00:48:50,17,7,LEE Zii Jia,drop,hits the net,opponent hits the net
+25,2,00:49:14,18,7,LEE Zii Jia,cross-court net shot,goes out of bounds,opponent goes out of bounds
+26,14,00:49:40,19,7,LEE Zii Jia,clear,goes out of bounds,opponent goes out of bounds
+27,7,00:50:00,19,8,Kento MOMOTA,net shot,hits the net,opponent hits the net
+28,8,00:50:23,20,8,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+29,12,00:51:19,21,8,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net

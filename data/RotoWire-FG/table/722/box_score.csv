@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,1,2,0,0,12,7,58,Brandon,0,0,0,27,0,3,Brandon Ingram,14,1,Ingram,F,1,Los Angeles,1
+2,1,6,2,1,50,8,3,38,Julius,0,0,0,24,2,2,Julius Randle,7,8,Randle,F,0,Los Angeles,2
+1,1,7,0,0,0,15,12,80,Ivica,4,1,25,30,4,1,Ivica Zubac,25,11,Zubac,C,0,Los Angeles,1
+0,1,2,0,0,0,2,1,50,David,0,0,0,19,0,2,David Nwaba,2,2,Nwaba,G,1,Los Angeles,1
+3,0,2,7,3,43,18,7,39,Jordan,3,2,67,33,0,1,Jordan Clarkson,19,2,Clarkson,G,0,Los Angeles,3
+1,0,2,0,0,0,8,3,38,Corey,2,1,50,17,2,1,Corey Brewer,7,4,Brewer,N/A,2,Los Angeles,1
+3,0,1,6,2,33,14,4,29,D'Angelo,2,0,0,28,1,3,D'Angelo Russell,10,2,Russell,N/A,3,Los Angeles,2
+2,0,5,1,0,0,8,1,13,Larry,0,0,0,23,3,2,Larry Nance Jr.,2,8,Nance,N/A,3,Los Angeles,1
+0,0,1,0,0,0,5,2,40,Tarik,1,1,100,14,2,3,Tarik Black,5,3,Black,N/A,0,Los Angeles,3
+2,0,1,1,0,0,6,2,33,Tyler,3,3,100,20,2,3,Tyler Ennis,7,3,Ennis,N/A,0,Los Angeles,1
+1,0,2,1,0,0,1,0,0,Metta,4,3,75,5,0,0,Metta World Peace,3,2,World,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thomas,N/A,N/A,N/A,N/A,N/A,N/A,Thomas Robinson,N/A,N/A,Robinson,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Los Angeles,N/A
+5,1,2,6,3,50,10,5,50,Danilo,5,5,100,29,1,1,Danilo Gallinari,18,3,Gallinari,F,0,Denver,0
+2,2,9,0,0,0,9,6,67,Mason,4,3,75,36,1,3,Mason Plumlee,15,10,Plumlee,F,1,Denver,1
+4,0,8,3,0,0,13,8,62,Nikola,2,2,100,24,1,2,Nikola Jokic,18,9,Jokic,C,1,Denver,1
+7,0,2,6,1,17,15,4,27,Gary,4,3,75,35,2,2,Gary Harris,12,4,Harris,G,3,Denver,2
+6,1,4,4,1,25,5,2,40,Jameer,0,0,0,29,0,2,Jameer Nelson,5,4,Nelson,G,1,Denver,1
+3,1,1,8,5,63,13,8,62,Jamal,1,1,100,30,1,3,Jamal Murray,22,2,Murray,N/A,2,Denver,4
+6,1,2,6,4,67,12,7,58,Will,5,4,80,30,0,3,Will Barton,22,2,Barton,N/A,1,Denver,4
+1,0,6,5,3,60,5,3,60,Juan,4,4,100,19,0,0,Juan Hernangomez,13,6,Hernangomez,N/A,0,Denver,1
+1,1,0,0,0,0,1,1,100,Roy,0,0,0,3,0,2,Roy Hibbert,2,0,Hibbert,N/A,0,Denver,0
+1,0,0,0,0,0,0,0,0,Emmanuel,0,0,0,3,0,0,Emmanuel Mudiay,0,0,Mudiay,N/A,0,Denver,0
+0,0,2,0,0,0,1,1,100,Malik,0,0,0,3,0,0,Malik Beasley,2,2,Beasley,N/A,0,Denver,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Denver,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,8,5,2,40,16,8,50,Tobias,9,8,89,38,1,1,Tobias Harris,26,9,Harris,F,1,LA,1
+1,1,5,4,1,25,15,8,53,Danilo,7,7,100,35,1,3,Danilo Gallinari,24,6,Gallinari,F,1,LA,0
+1,0,2,0,0,0,4,0,0,Marcin,0,0,0,12,1,2,Marcin Gortat,0,3,Gortat,C,0,LA,1
+0,0,1,2,0,0,8,1,12,Avery,0,0,0,28,1,3,Avery Bradley,2,2,Bradley,G,0,LA,1
+8,0,10,3,1,33,10,5,50,Patrick,3,1,33,27,0,5,Patrick Beverley,12,10,Beverley,G,0,LA,2
+1,2,5,0,0,0,6,5,83,Montrezl,2,2,100,23,1,2,Montrezl Harrell,12,6,Harrell,N/A,2,LA,2
+2,1,2,1,1,100,8,3,38,Shai,2,2,100,22,2,4,Shai Gilgeous-Alexander,9,4,Gilgeous-Alexander,N/A,1,LA,3
+1,0,1,0,0,0,1,1,100,Mike,0,0,0,11,0,1,Mike Scott,2,1,Scott,N/A,0,LA,0
+1,0,2,3,0,0,15,8,53,Lou,2,1,50,26,1,0,Lou Williams,17,3,Williams,N/A,0,LA,4
+0,0,2,2,0,0,4,2,50,Luc,2,1,50,16,1,4,Luc Mbah a Moute,5,3,Mbah,N/A,0,LA,1
+0,0,0,0,0,0,0,0,0,Boban,0,0,0,1,0,1,Boban Marjanovic,0,0,Marjanovic,N/A,0,LA,1
+0,0,0,0,0,0,0,0,0,Tyrone,0,0,0,0,0,0,Tyrone Wallace,0,0,Wallace,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Milos,N/A,N/A,N/A,N/A,N/A,N/A,Milos Teodosic,N/A,N/A,Teodosic,N/A,N/A,LA,N/A
+2,1,2,5,2,40,13,6,46,E'Twaun,0,0,0,34,0,2,E'Twaun Moore,14,2,Moore,F,0,New Orleans,0
+2,5,8,3,2,67,21,11,52,Anthony,15,10,67,40,5,3,Anthony Davis,34,13,Davis,F,1,New Orleans,0
+0,1,10,6,0,0,18,7,39,Nikola,5,4,80,30,2,3,Nikola Mirotic,18,12,Mirotic,C,0,New Orleans,1
+9,0,4,4,0,0,15,2,13,Jrue,6,4,67,38,1,4,Jrue Holiday,8,5,Holiday,G,2,New Orleans,3
+6,0,5,1,1,100,11,7,64,Elfrid,7,5,71,36,2,4,Elfrid Payton,20,7,Payton,G,3,New Orleans,2
+0,0,3,2,1,50,9,5,56,Julius,7,7,100,22,2,6,Julius Randle,18,5,Randle,N/A,2,New Orleans,2
+1,0,0,1,0,0,2,1,50,Darius,0,0,0,13,0,0,Darius Miller,2,0,Miller,N/A,0,New Orleans,0
+2,1,3,2,0,0,4,1,25,Solomon,0,0,0,23,0,1,Solomon Hill,2,3,Hill,N/A,4,New Orleans,0
+0,0,1,0,0,0,0,0,0,Ian,0,0,0,4,0,1,Ian Clark,0,1,Clark,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Frazier,N/A,N/A,Frazier,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Frank,N/A,N/A,N/A,N/A,N/A,N/A,Frank Jackson,N/A,N/A,Jackson,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wesley,N/A,N/A,N/A,N/A,N/A,N/A,Wesley Johnson,N/A,N/A,Johnson,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil Okafor,N/A,N/A,Okafor,N/A,N/A,New Orleans,N/A

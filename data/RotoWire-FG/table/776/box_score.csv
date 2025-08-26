@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,1,4,2,50,7,4,57,Wesley,1,1,100,27,0,2,Wesley Matthews,11,1,Matthews,F,0,Dallas,0
+2,0,4,4,1,25,11,6,55,Harrison,2,1,50,31,0,3,Harrison Barnes,14,4,Barnes,F,2,Dallas,2
+3,1,7,3,1,33,11,5,46,Dirk,2,2,100,21,1,0,Dirk Nowitzki,13,8,Nowitzki,C,0,Dallas,1
+2,1,1,4,3,75,7,4,57,Devin,2,1,50,19,1,3,Devin Harris,12,2,Harris,G,0,Dallas,1
+2,0,2,5,2,40,15,6,40,Dennis,5,4,80,28,0,1,Dennis Smith Jr.,18,2,Smith,G,1,Dallas,6
+2,0,4,4,1,25,12,4,33,Yogi,0,0,0,25,0,3,Yogi Ferrell,9,4,Ferrell,N/A,1,Dallas,2
+0,0,2,0,0,0,3,1,33,Nerlens,2,2,100,17,2,2,Nerlens Noel,4,4,Noel,N/A,0,Dallas,0
+3,0,2,4,0,0,9,0,0,J.J.,2,2,100,19,0,4,J.J. Barea,2,2,Barea,N/A,0,Dallas,0
+0,0,2,1,1,100,4,4,100,Maxi,2,2,100,21,1,2,Maxi Kleber,11,3,Kleber,N/A,2,Dallas,0
+1,0,3,5,0,0,7,0,0,Dwight,0,0,0,17,1,2,Dwight Powell,0,4,Powell,N/A,2,Dallas,2
+1,2,0,0,0,0,0,0,0,Salah,2,1,50,10,3,0,Salah Mejri,1,3,Mejri,N/A,0,Dallas,0
+0,1,1,2,1,50,3,1,33,Jeff,0,0,0,5,0,0,Jeff Withey,3,1,Withey,N/A,0,Dallas,0
+4,0,6,7,3,43,10,5,50,Danilo,1,1,100,26,0,2,Danilo Gallinari,14,6,Gallinari,F,1,LA,0
+7,0,6,4,2,50,12,7,58,Blake,4,4,100,28,0,1,Blake Griffin,20,6,Griffin,F,1,LA,2
+0,2,6,0,0,0,6,4,67,DeAndre,8,5,62,24,3,2,DeAndre Jordan,13,9,Jordan,C,1,LA,3
+3,0,0,4,2,50,12,7,58,Austin,3,3,100,25,0,2,Austin Rivers,19,0,Rivers,G,1,LA,2
+3,0,1,5,2,40,5,2,40,Patrick,2,2,100,23,0,2,Patrick Beverley,8,1,Beverley,G,3,LA,0
+1,0,4,2,0,0,6,3,50,Wesley,4,3,75,26,1,1,Wesley Johnson,9,5,Johnson,N/A,1,LA,0
+0,1,6,0,0,0,2,1,50,Willie,0,0,0,11,0,2,Willie Reed,2,6,Reed,N/A,0,LA,1
+4,0,4,3,2,67,8,5,62,Lou,5,5,100,18,0,0,Lou Williams,17,4,Williams,N/A,0,LA,1
+3,1,0,1,0,0,4,1,25,Sindarius,2,1,50,23,1,4,Sindarius Thornwell,3,1,Thornwell,N/A,0,LA,0
+1,1,6,0,0,0,6,4,67,Montrezl,0,0,0,13,2,0,Montrezl Harrell,8,8,Harrell,N/A,0,LA,1
+1,0,1,1,1,100,2,1,50,Sam,0,0,0,10,0,0,Sam Dekker,3,1,Dekker,N/A,0,LA,3
+0,0,2,1,1,100,4,1,25,Jawun,0,0,0,8,0,1,Jawun Evans,3,2,Evans,N/A,0,LA,2
+0,0,0,0,0,0,1,0,0,Brice,0,0,0,5,0,3,Brice Johnson,0,0,Johnson,N/A,1,LA,1

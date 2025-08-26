@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,2,5,4,1,25,11,3,27,Trevor,0,0,0,34,1,4,Trevor Ariza,7,6,Ariza,F,3,Houston,2
+3,1,4,2,0,0,14,8,57,Donatas,0,0,0,27,2,4,Donatas Motiejunas,16,6,Motiejunas,F,1,Houston,1
+1,1,10,0,0,0,13,6,46,Dwight,1,0,0,41,4,3,Dwight Howard,12,14,Howard,C,0,Houston,4
+4,2,2,8,3,38,22,7,32,James,3,3,100,38,0,4,James Harden,20,2,Harden,G,1,Houston,2
+6,2,1,1,0,0,12,7,58,Patrick,0,0,0,31,5,5,Patrick Beverley,14,6,Beverley,G,1,Houston,0
+2,0,2,5,1,20,20,10,50,Josh,0,0,0,26,4,3,Josh Smith,21,6,Smith,N/A,3,Houston,4
+0,0,0,0,0,0,1,0,0,Kostas,0,0,0,7,0,1,Kostas Papanikolaou,0,0,Papanikolaou,N/A,0,Houston,0
+1,0,1,3,1,33,6,3,50,Corey,0,0,0,19,0,1,Corey Brewer,7,1,Brewer,N/A,0,Houston,1
+3,0,0,2,2,100,3,3,100,Jason,1,0,0,17,0,2,Jason Terry,8,0,Terry,N/A,0,Houston,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah Canaan,N/A,N/A,Canaan,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joey,N/A,N/A,N/A,N/A,N/A,N/A,Joey Dorsey,N/A,N/A,Dorsey,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alexey,N/A,N/A,N/A,N/A,N/A,N/A,Alexey Shved,N/A,N/A,Shved,N/A,N/A,Houston,N/A
+1,1,4,4,2,50,17,7,41,Jimmy,7,6,86,41,1,0,Jimmy Butler,22,5,Butler,F,3,Chicago,1
+3,2,9,0,0,0,16,10,63,Pau,7,7,100,34,5,1,Pau Gasol,27,14,Gasol,F,0,Chicago,2
+3,6,5,0,0,0,7,3,43,Joakim,3,2,67,34,5,4,Joakim Noah,8,10,Noah,C,2,Chicago,3
+2,1,1,3,1,33,6,4,67,Kirk,1,1,100,24,0,1,Kirk Hinrich,10,1,Hinrich,G,1,Chicago,2
+9,0,2,4,1,25,17,6,35,Derrick,6,6,100,34,1,1,Derrick Rose,19,3,Rose,G,2,Chicago,3
+4,0,3,0,0,0,6,3,50,Taj,4,3,75,27,3,1,Taj Gibson,9,6,Gibson,N/A,1,Chicago,3
+4,0,0,1,0,0,3,1,33,Aaron,0,0,0,15,0,2,Aaron Brooks,2,0,Brooks,N/A,1,Chicago,2
+1,2,6,4,1,25,12,7,58,Nikola,2,2,100,27,2,3,Nikola Mirotic,17,8,Mirotic,N/A,0,Chicago,1
+0,0,0,1,0,0,1,0,0,E'Twaun,0,0,0,2,0,0,E'Twaun Moore,0,0,Moore,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nazr,N/A,N/A,N/A,N/A,N/A,N/A,Nazr Mohammed,N/A,N/A,Mohammed,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Snell,N/A,N/A,Snell,N/A,N/A,Chicago,N/A

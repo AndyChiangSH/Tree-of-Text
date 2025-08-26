@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,5,4,3,75,10,5,50,Denzel,0,0,0,27,0,2,Denzel Valentine,13,5,Valentine,F,2,Chicago,2
+2,0,2,6,3,50,9,4,44,Lauri,2,2,100,25,3,2,Lauri Markkanen,13,5,Markkanen,F,0,Chicago,2
+0,1,0,0,0,0,5,4,80,Robin,2,2,100,20,2,1,Robin Lopez,10,2,Lopez,C,0,Chicago,2
+1,1,3,9,1,11,14,2,14,Justin,1,1,100,27,1,0,Justin Holiday,6,4,Holiday,G,0,Chicago,2
+8,0,3,2,0,0,10,4,40,Kris,0,0,0,28,1,2,Kris Dunn,8,4,Dunn,G,0,Chicago,4
+0,0,0,1,0,0,3,2,67,David,2,1,50,17,1,1,David Nwaba,5,1,Nwaba,N/A,1,Chicago,0
+0,0,2,3,2,67,4,2,50,Nikola,2,2,100,23,0,1,Nikola Mirotic,8,2,Mirotic,N/A,0,Chicago,1
+2,3,4,2,1,50,7,4,57,Bobby,7,6,86,22,0,1,Bobby Portis,15,4,Portis,N/A,0,Chicago,1
+1,0,2,4,0,0,11,0,0,Jerian,4,2,50,20,0,1,Jerian Grant,2,2,Grant,N/A,1,Chicago,0
+0,0,2,1,0,0,4,2,50,Paul,0,0,0,21,1,2,Paul Zipser,4,3,Zipser,N/A,0,Chicago,2
+0,0,1,0,0,0,3,1,33,Quincy,0,0,0,9,0,2,Quincy Pondexter,2,1,Pondexter,N/A,0,Chicago,0
+1,1,2,6,3,50,8,3,38,Damien,2,2,100,22,0,1,Damien Wilkins,11,2,Wilkins,F,0,Indiana,0
+2,1,2,0,0,0,8,3,38,Thaddeus,0,0,0,24,1,0,Thaddeus Young,6,3,Young,F,0,Indiana,0
+1,0,5,3,1,33,10,5,50,Myles,2,2,100,20,0,4,Myles Turner,13,5,Turner,C,0,Indiana,3
+9,0,4,3,2,67,11,9,82,Victor,4,3,75,24,2,0,Victor Oladipo,23,6,Oladipo,G,5,Indiana,1
+2,0,3,5,3,60,8,4,50,Darren,2,2,100,27,0,1,Darren Collison,13,3,Collison,G,0,Indiana,0
+4,1,9,2,1,50,8,3,38,Cory,0,0,0,26,1,2,Cory Joseph,7,10,Joseph,N/A,1,Indiana,1
+0,1,3,2,1,50,12,9,75,Domantas,6,3,50,27,2,3,Domantas Sabonis,22,5,Sabonis,N/A,0,Indiana,2
+4,0,4,3,0,0,8,2,25,Lance,0,0,0,24,2,4,Lance Stephenson,4,6,Stephenson,N/A,1,Indiana,2
+1,0,2,3,1,33,6,4,67,Joe,2,2,100,21,0,1,Joe Young,11,2,Young,N/A,2,Indiana,2
+0,0,4,3,3,100,6,6,100,TJ,0,0,0,20,2,1,TJ Leaf,15,6,Leaf,N/A,0,Indiana,1
+0,0,1,1,0,0,1,0,0,Alex,0,0,0,5,0,2,Alex Poythress,0,1,Poythress,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Al,N/A,N/A,N/A,N/A,N/A,N/A,Al Jefferson,N/A,N/A,Jefferson,N/A,N/A,Indiana,N/A

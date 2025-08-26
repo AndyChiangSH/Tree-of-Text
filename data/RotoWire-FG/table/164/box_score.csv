@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,3,8,3,38,13,5,39,Kobe,4,4,100,28,0,1,Kobe Bryant,17,3,Bryant,F,0,Los Angeles,1
+1,0,11,1,0,0,14,7,50,Julius,5,5,100,31,4,5,Julius Randle,19,15,Randle,F,1,Los Angeles,4
+0,1,2,0,0,0,6,1,17,Roy,2,1,50,23,3,2,Roy Hibbert,3,5,Hibbert,C,1,Los Angeles,0
+2,0,1,5,1,20,14,5,36,Jordan,2,2,100,30,1,4,Jordan Clarkson,13,2,Clarkson,G,0,Los Angeles,1
+3,2,0,5,1,20,18,6,33,D'Angelo,2,1,50,31,3,4,D'Angelo Russell,14,3,Russell,G,1,Los Angeles,2
+5,0,0,5,2,40,7,3,43,Lou,4,3,75,20,2,1,Lou Williams,11,2,Williams,N/A,1,Los Angeles,2
+0,1,5,1,0,0,5,2,40,Larry,0,0,0,18,0,1,Larry Nance Jr.,4,5,Nance,N/A,0,Los Angeles,0
+0,0,2,0,0,0,4,4,100,Marcelo,0,0,0,15,0,3,Marcelo Huertas,8,2,Huertas,N/A,0,Los Angeles,0
+0,1,2,0,0,0,5,4,80,Brandon,2,2,100,25,1,0,Brandon Bass,10,3,Bass,N/A,1,Los Angeles,0
+0,0,1,2,0,0,7,2,29,Metta,5,4,80,19,0,3,Metta World Peace,8,1,World,N/A,1,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Sacre,N/A,N/A,Sacre,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Los Angeles,N/A
+6,0,7,3,0,0,9,3,33,PJ,3,0,0,43,6,2,PJ Tucker,6,13,Tucker,F,1,Phoenix,0
+0,1,10,4,2,50,15,8,53,Jon,4,4,100,41,4,2,Jon Leuer,22,14,Leuer,F,1,Phoenix,4
+4,0,5,0,0,0,13,5,39,Alex,1,0,0,29,3,4,Alex Len,10,8,Len,C,1,Phoenix,3
+7,1,3,4,1,25,22,12,55,Devin,4,3,75,41,0,4,Devin Booker,28,3,Booker,G,1,Phoenix,2
+7,2,6,7,2,29,19,9,47,Brandon,8,5,63,36,2,2,Brandon Knight,25,8,Knight,G,1,Phoenix,1
+3,0,1,6,5,83,8,6,75,Mirza,0,0,0,26,0,4,Mirza Teletovic,17,1,Teletovic,N/A,1,Phoenix,0
+3,0,3,3,2,67,3,2,67,Ronnie,0,0,0,12,0,0,Ronnie Price,6,3,Price,N/A,0,Phoenix,1
+0,0,1,0,0,0,0,0,0,Chase,0,0,0,5,0,1,Chase Budinger,0,1,Budinger,N/A,0,Phoenix,1
+1,0,1,1,1,100,4,2,50,John,0,0,0,7,0,2,John Jenkins,5,1,Jenkins,N/A,0,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyson,N/A,N/A,N/A,N/A,N/A,N/A,Tyson Chandler,N/A,N/A,Chandler,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Archie,N/A,N/A,N/A,N/A,N/A,N/A,Archie Goodwin,N/A,N/A,Goodwin,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Williams,N/A,N/A,Williams,N/A,N/A,Phoenix,N/A

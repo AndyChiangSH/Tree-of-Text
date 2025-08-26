@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,2,2,100,14,10,71,Carmelo,8,7,88,36,1,4,Carmelo Anthony,29,4,Anthony,F,1,New York,4
+3,0,7,6,1,17,19,7,37,Kristaps,7,7,100,38,1,4,Kristaps Porzingis,22,8,Porzingis,F,2,New York,0
+0,0,3,0,0,0,4,1,25,Joakim,0,0,0,11,2,2,Joakim Noah,2,5,Noah,C,0,New York,1
+1,0,0,3,2,67,11,4,36,Courtney,0,0,0,36,1,6,Courtney Lee,10,1,Lee,G,0,New York,0
+7,0,0,5,2,40,8,2,25,Brandon,8,8,100,36,0,2,Brandon Jennings,14,0,Jennings,G,3,New York,3
+0,1,0,1,0,0,1,0,0,Kyle,0,0,0,7,0,0,Kyle O'Quinn,0,0,O'Quinn,N/A,0,New York,0
+2,2,7,0,0,0,8,5,63,Willy,8,7,88,28,2,4,Willy Hernangomez,17,9,Hernangomez,N/A,0,New York,1
+1,0,4,3,0,0,7,2,29,Ron,0,0,0,12,1,0,Ron Baker,4,5,Baker,N/A,0,New York,1
+0,1,0,0,0,0,2,1,50,Lance,2,2,100,11,0,1,Lance Thomas,4,0,Thomas,N/A,0,New York,0
+1,0,1,3,1,33,6,3,50,Justin,4,3,75,20,0,3,Justin Holiday,10,1,Holiday,N/A,0,New York,1
+0,0,1,0,0,0,0,0,0,Maurice,2,2,100,2,1,0,Maurice Ndour,2,2,Ndour,N/A,0,New York,0
+0,0,0,0,0,0,0,0,0,Mindaugas,0,0,0,2,0,1,Mindaugas Kuzminskas,0,0,Kuzminskas,N/A,0,New York,0
+0,0,0,0,0,0,0,0,0,Sasha,0,0,0,2,0,0,Sasha Vujacic,0,0,Vujacic,N/A,0,New York,0
+3,0,3,7,2,29,9,4,44,Danilo,4,3,75,28,0,5,Danilo Gallinari,13,3,Gallinari,F,0,Denver,0
+3,0,0,7,2,29,14,5,36,Wilson,0,0,0,27,1,5,Wilson Chandler,12,1,Chandler,F,1,Denver,1
+5,0,7,0,0,0,8,5,63,Nikola,0,0,0,20,2,5,Nikola Jokic,10,9,Jokic,C,0,Denver,1
+2,0,2,1,0,0,9,6,67,Gary,6,4,67,30,0,2,Gary Harris,16,2,Harris,G,1,Denver,0
+5,0,7,3,2,67,15,10,67,Emmanuel,0,0,0,32,0,2,Emmanuel Mudiay,22,7,Mudiay,G,1,Denver,1
+2,3,2,0,0,0,11,10,91,Kenneth,10,5,50,29,5,4,Kenneth Faried,25,7,Faried,N/A,0,Denver,2
+2,1,8,3,2,67,10,6,60,Will,5,3,60,32,0,1,Will Barton,17,8,Barton,N/A,2,Denver,2
+4,0,0,1,0,0,3,0,0,Jameer,0,0,0,16,0,1,Jameer Nelson,0,0,Nelson,N/A,0,Denver,3
+0,1,0,0,0,0,5,2,40,Jusuf,2,1,50,8,1,0,Jusuf Nurkic,5,1,Nurkic,N/A,1,Denver,0
+0,1,1,4,2,50,5,2,40,Jamal,0,0,0,13,2,1,Jamal Murray,6,3,Murray,N/A,0,Denver,0
+0,1,0,1,0,0,1,0,0,Darrell,0,0,0,4,0,1,Darrell Arthur,0,0,Arthur,N/A,0,Denver,0
+0,0,0,0,0,0,0,0,0,Juan,2,1,50,2,0,0,Juan Hernangomez,1,0,Hernangomez,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Denver,N/A

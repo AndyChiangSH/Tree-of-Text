@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,3,8,3,38,11,4,36,Danny,2,2,100,28,3,2,Danny Green,13,6,Green,F,0,San Antonio,3
+0,0,3,0,0,0,6,3,50,Kyle,0,0,0,24,3,0,Kyle Anderson,6,6,Anderson,F,1,San Antonio,2
+2,1,3,0,0,0,21,12,57,LaMarcus,12,10,83,32,4,3,LaMarcus Aldridge,34,7,Aldridge,C,0,San Antonio,0
+2,0,0,4,1,25,6,1,17,Patty,1,1,100,32,0,1,Patty Mills,4,0,Mills,G,0,San Antonio,1
+3,0,9,1,0,0,9,4,44,Dejounte,2,2,100,29,0,3,Dejounte Murray,10,9,Murray,G,2,San Antonio,1
+0,0,3,0,0,0,5,1,20,Tony,0,0,0,18,0,1,Tony Parker,2,3,Parker,N/A,0,San Antonio,2
+2,0,0,1,0,0,2,0,0,Bryn,0,0,0,17,0,2,Bryn Forbes,0,0,Forbes,N/A,0,San Antonio,0
+3,0,1,1,0,0,5,1,20,Manu,0,0,0,16,0,2,Manu Ginobili,2,1,Ginobili,N/A,0,San Antonio,1
+0,0,4,1,0,0,12,5,42,Rudy,0,0,0,18,3,1,Rudy Gay,10,7,Gay,N/A,1,San Antonio,0
+2,0,6,1,0,0,15,10,67,Pau,4,2,50,24,7,2,Pau Gasol,22,13,Gasol,N/A,0,San Antonio,2
+0,0,1,0,0,0,0,0,0,Davis,0,0,0,1,0,0,Davis Bertans,0,1,Bertans,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey Lauvergne,N/A,N/A,Lauvergne,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Paul,N/A,N/A,Paul,N/A,N/A,San Antonio,N/A
+4,1,6,5,2,40,15,8,53,Khris,1,1,100,37,1,2,Khris Middleton,19,7,Middleton,F,2,Milwaukee,0
+3,0,8,4,3,75,16,9,56,Giannis,5,4,80,38,2,3,Giannis Antetokounmpo,25,10,Antetokounmpo,F,1,Milwaukee,3
+4,3,3,0,0,0,8,5,62,John,0,0,0,29,3,3,John Henson,10,6,Henson,C,1,Milwaukee,3
+2,0,0,5,1,20,6,1,17,Jason,0,0,0,29,0,1,Jason Terry,3,0,Terry,G,1,Milwaukee,0
+5,0,3,3,1,33,15,9,60,Eric,6,4,67,32,0,2,Eric Bledsoe,23,3,Bledsoe,G,1,Milwaukee,3
+2,0,1,0,0,0,1,0,0,Tony,0,0,0,13,0,1,Tony Snell,0,1,Snell,N/A,0,Milwaukee,0
+3,2,2,2,1,50,6,3,50,Jabari,2,1,50,18,0,2,Jabari Parker,8,2,Parker,N/A,0,Milwaukee,0
+0,0,1,1,0,0,5,2,40,Thon,2,1,50,13,1,1,Thon Maker,5,2,Maker,N/A,0,Milwaukee,1
+2,0,2,4,1,25,6,2,33,Brandon,0,0,0,15,0,1,Brandon Jennings,5,2,Jennings,N/A,0,Milwaukee,0
+1,0,2,3,0,0,7,3,43,Shabazz,2,2,100,10,2,0,Shabazz Muhammad,8,4,Muhammad,N/A,0,Milwaukee,0
+1,0,0,0,0,0,1,0,0,Tyler,0,0,0,6,0,2,Tyler Zeller,0,0,Zeller,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sterling,N/A,N/A,N/A,N/A,N/A,N/A,Sterling Brown,N/A,N/A,Brown,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,D.J.,N/A,N/A,N/A,N/A,N/A,N/A,D.J. Wilson,N/A,N/A,Wilson,N/A,N/A,Milwaukee,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,7,3,43,18,9,50,Kawhi,11,11,100,37,1,2,Kawhi Leonard,32,6,Leonard,F,0,San Antonio,2
+0,2,8,1,0,0,10,5,50,LaMarcus,6,5,83,36,2,2,LaMarcus Aldridge,15,10,Aldridge,F,0,San Antonio,2
+3,1,9,0,0,0,5,4,80,Dewayne,3,2,67,26,2,3,Dewayne Dedmon,10,11,Dedmon,C,0,San Antonio,0
+0,2,4,4,3,75,8,4,50,Danny,0,0,0,25,0,1,Danny Green,11,4,Green,G,1,San Antonio,2
+5,0,1,1,1,100,12,7,58,Tony,3,3,100,30,0,2,Tony Parker,18,1,Parker,G,0,San Antonio,0
+2,0,3,3,1,33,5,2,40,Patty,0,0,0,18,0,1,Patty Mills,5,3,Mills,N/A,0,San Antonio,0
+4,0,6,0,0,0,2,1,50,David,0,0,0,14,0,3,David Lee,2,6,Lee,N/A,0,San Antonio,3
+2,0,0,2,1,50,3,1,33,Manu,0,0,0,18,0,2,Manu Ginobili,3,0,Ginobili,N/A,1,San Antonio,2
+1,0,1,4,2,50,5,3,60,Davis,2,1,50,15,0,1,Davis Bertans,9,1,Bertans,N/A,0,San Antonio,1
+1,1,2,0,0,0,1,1,100,Kyle,0,0,0,6,0,2,Kyle Anderson,2,2,Anderson,N/A,0,San Antonio,0
+1,0,2,0,0,0,3,1,33,Jonathon,0,0,0,11,0,2,Jonathon Simmons,2,2,Simmons,N/A,0,San Antonio,2
+0,0,1,0,0,0,2,1,50,Joel,0,0,0,3,1,1,Joel Anthony,2,2,Anthony,N/A,0,San Antonio,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dejounte,N/A,N/A,N/A,N/A,N/A,N/A,Dejounte Murray,N/A,N/A,Murray,N/A,N/A,San Antonio,N/A
+1,0,5,7,2,29,14,6,43,Robert,4,4,100,38,1,4,Robert Covington,18,6,Covington,F,2,Philadelphia,0
+3,0,2,6,2,33,11,4,36,Ersan,3,1,33,28,0,3,Ersan Ilyasova,11,2,Ilyasova,F,1,Philadelphia,0
+0,2,4,0,0,0,10,5,50,Jahlil,11,10,91,25,4,1,Jahlil Okafor,20,8,Okafor,C,0,Philadelphia,0
+1,0,3,3,1,33,6,1,17,Gerald,4,3,75,23,0,2,Gerald Henderson,6,3,Henderson,G,0,Philadelphia,1
+5,0,1,0,0,0,10,3,30,T.J.,0,0,0,31,0,1,T.J. McConnell,6,1,McConnell,G,3,Philadelphia,0
+7,0,7,7,4,57,10,5,50,Nik,2,2,100,32,0,0,Nik Stauskas,16,7,Stauskas,N/A,0,Philadelphia,0
+3,0,1,5,4,80,11,8,73,Dario,0,0,0,21,0,2,Dario Saric,20,1,Saric,N/A,0,Philadelphia,2
+1,0,3,0,0,0,4,1,25,Nerlens,5,2,40,22,2,4,Nerlens Noel,4,5,Noel,N/A,1,Philadelphia,2
+1,0,1,5,0,0,7,1,14,Sergio,0,0,0,17,0,2,Sergio Rodriguez,2,1,Rodriguez,N/A,1,Philadelphia,0
+1,0,1,1,0,0,1,0,0,Timothe,0,0,0,4,0,0,Timothe Luwawu-Cabarrot,0,1,Luwawu-Cabarrot,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Embiid,N/A,N/A,Embiid,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chasson,N/A,N/A,N/A,N/A,N/A,N/A,Chasson Randle,N/A,N/A,Randle,N/A,N/A,Philadelphia,N/A

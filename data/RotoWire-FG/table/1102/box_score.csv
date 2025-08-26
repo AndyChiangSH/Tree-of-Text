@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,3,3,2,67,8,5,62,Jonathan,1,0,0,28,5,1,Jonathan Isaac,12,8,Isaac,F,1,Orlando,1
+6,1,7,3,1,33,15,5,33,Aaron,0,0,0,36,1,2,Aaron Gordon,11,8,Gordon,F,0,Orlando,2
+3,1,5,3,0,0,19,11,58,Nikola,7,5,71,32,3,2,Nikola Vucevic,27,8,Vucevic,C,2,Orlando,0
+8,0,5,4,3,75,12,7,58,Evan,2,2,100,35,0,4,Evan Fournier,19,5,Fournier,G,0,Orlando,3
+4,0,2,2,0,0,5,1,20,D.J.,1,1,100,17,0,1,D.J. Augustin,3,2,Augustin,G,1,Orlando,0
+1,0,3,0,0,0,5,2,40,Wes,0,0,0,17,0,2,Wes Iwundu,4,3,Iwundu,N/A,0,Orlando,0
+0,0,1,1,0,0,4,2,50,Isaiah,0,0,0,18,0,4,Isaiah Briscoe,4,1,Briscoe,N/A,1,Orlando,2
+1,0,3,11,3,27,17,8,47,Terrence,4,4,100,27,0,2,Terrence Ross,23,3,Ross,N/A,1,Orlando,0
+1,1,1,0,0,0,3,3,100,Khem,2,1,50,16,2,1,Khem Birch,7,3,Birch,N/A,0,Orlando,0
+2,1,0,1,1,100,3,2,67,Jerian,2,2,100,12,0,1,Jerian Grant,7,0,Grant,N/A,1,Orlando,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Melvin,N/A,N/A,N/A,N/A,N/A,N/A,Melvin Frazier Jr.,N/A,N/A,Frazier,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Amile,N/A,N/A,N/A,N/A,N/A,N/A,Amile Jefferson,N/A,N/A,Jefferson,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarell,N/A,N/A,N/A,N/A,N/A,N/A,Jarell Martin,N/A,N/A,Martin,N/A,N/A,Orlando,N/A
+3,0,3,7,2,29,17,8,47,Bojan,8,7,88,31,0,0,Bojan Bogdanovic,25,3,Bogdanovic,F,1,Indiana,1
+5,1,5,2,1,50,8,6,75,Thaddeus,0,0,0,37,1,1,Thaddeus Young,13,6,Young,F,2,Indiana,0
+1,4,5,3,0,0,9,4,44,Myles,2,2,100,31,1,4,Myles Turner,10,6,Turner,C,1,Indiana,3
+4,0,5,7,2,29,8,3,38,Wesley,4,4,100,32,0,4,Wesley Matthews,12,5,Matthews,G,1,Indiana,1
+10,0,3,4,2,50,12,8,67,Darren,6,5,83,33,0,2,Darren Collison,23,3,Collison,G,0,Indiana,3
+3,0,3,1,0,0,9,6,67,Cory,3,2,67,22,0,1,Cory Joseph,14,3,Joseph,N/A,0,Indiana,0
+0,0,3,2,0,0,5,1,20,Tyreke,1,1,100,13,0,1,Tyreke Evans,3,3,Evans,N/A,0,Indiana,2
+1,0,2,0,0,0,1,0,0,TJ,0,0,0,11,0,0,TJ Leaf,0,2,Leaf,N/A,0,Indiana,0
+4,1,3,0,0,0,4,3,75,Kyle,0,0,0,17,1,2,Kyle O'Quinn,6,4,O'Quinn,N/A,0,Indiana,1
+0,0,1,1,0,0,4,3,75,Doug,0,0,0,13,0,2,Doug McDermott,6,1,McDermott,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Holiday,N/A,N/A,Holiday,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Davon,N/A,N/A,N/A,N/A,N/A,N/A,Davon Reed,N/A,N/A,Reed,N/A,N/A,Indiana,N/A

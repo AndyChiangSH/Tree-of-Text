@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,5,1,20,11,4,36,Wesley,4,2,50,30,1,3,Wesley Matthews,11,3,Matthews,F,0,Dallas,0
+1,0,4,9,2,22,15,6,40,Harrison,2,1,50,32,0,0,Harrison Barnes,15,4,Barnes,F,0,Dallas,2
+1,0,10,0,0,0,5,5,100,DeAndre,7,4,57,32,5,0,DeAndre Jordan,14,15,Jordan,C,1,Dallas,5
+1,0,7,1,0,0,6,2,33,Dennis,0,0,0,27,1,2,Dennis Smith Jr.,4,8,Smith,G,3,Dallas,5
+6,0,5,5,1,20,12,6,50,Luka,2,0,0,31,0,0,Luka Doncic,13,5,Doncic,G,1,Dallas,4
+1,0,1,3,1,33,10,4,40,Jalen,6,4,67,21,0,3,Jalen Brunson,13,1,Brunson,N/A,0,Dallas,0
+0,3,3,1,0,0,5,0,0,Dorian,2,1,50,18,2,2,Dorian Finney-Smith,1,5,Finney-Smith,N/A,0,Dallas,0
+1,1,4,3,0,0,4,1,25,Dwight,4,4,100,16,4,3,Dwight Powell,6,8,Powell,N/A,0,Dallas,3
+0,0,1,1,0,0,2,1,50,Dirk,0,0,0,6,0,1,Dirk Nowitzki,2,1,Nowitzki,N/A,0,Dallas,0
+2,0,1,3,0,0,6,2,33,Devin,2,2,100,17,0,3,Devin Harris,6,1,Harris,N/A,1,Dallas,3
+0,0,1,2,0,0,2,0,0,Maxi,4,4,100,10,1,2,Maxi Kleber,4,2,Kleber,N/A,1,Dallas,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Broekhoff,N/A,N/A,Broekhoff,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Salah,N/A,N/A,N/A,N/A,N/A,N/A,Salah Mejri,N/A,N/A,Mejri,N/A,N/A,Dallas,N/A
+5,0,8,6,3,50,7,4,57,Trevor,2,2,100,37,0,1,Trevor Ariza,13,8,Ariza,F,4,Phoenix,0
+3,0,2,4,3,75,17,11,65,T.J.,6,5,83,36,1,5,T.J. Warren,30,3,Warren,F,0,Phoenix,2
+1,1,4,0,0,0,13,3,23,Deandre,2,1,50,26,1,4,Deandre Ayton,7,5,Ayton,C,2,Phoenix,4
+0,0,3,3,1,33,8,3,38,Mikal,0,0,0,22,1,0,Mikal Bridges,7,4,Bridges,G,1,Phoenix,0
+1,2,1,2,0,0,4,0,0,De'Anthony,0,0,0,21,0,3,De'Anthony Melton,0,1,Melton,G,3,Phoenix,3
+1,1,4,0,0,0,7,5,71,Richaun,1,1,100,22,3,5,Richaun Holmes,11,7,Holmes,N/A,2,Phoenix,0
+3,0,3,6,3,50,18,5,28,Josh,2,1,50,34,5,2,Josh Jackson,14,8,Jackson,N/A,1,Phoenix,2
+5,1,1,3,0,0,14,6,43,Jamal,5,5,100,27,1,3,Jamal Crawford,17,2,Crawford,N/A,1,Phoenix,2
+0,0,1,1,0,0,1,0,0,Jawun,0,0,0,3,0,3,Jawun Evans,0,1,Evans,N/A,0,Phoenix,0
+1,0,1,2,0,0,3,0,0,Troy,0,0,0,11,0,1,Troy Daniels,0,1,Daniels,N/A,1,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Anderson,N/A,N/A,Anderson,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dragan,N/A,N/A,N/A,N/A,N/A,N/A,Dragan Bender,N/A,N/A,Bender,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Moreland,N/A,N/A,Moreland,N/A,N/A,Phoenix,N/A

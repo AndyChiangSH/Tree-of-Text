@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,3,4,3,75,22,12,55,Paul,6,5,83,37,1,4,Paul George,32,4,George,F,1,Indiana,3
+1,0,3,1,0,0,10,4,40,Thaddeus,2,1,50,31,2,3,Thaddeus Young,9,5,Young,F,3,Indiana,0
+0,2,5,2,1,50,14,10,71,Myles,2,2,100,36,2,2,Myles Turner,23,7,Turner,C,1,Indiana,3
+1,0,6,4,3,75,5,3,60,CJ,0,0,0,29,0,4,CJ Miles,9,6,Miles,G,1,Indiana,0
+13,1,8,5,3,60,13,7,54,Jeff,3,3,100,35,0,2,Jeff Teague,20,8,Teague,G,1,Indiana,6
+0,1,4,0,0,0,1,0,0,Lavoy,2,2,100,17,0,2,Lavoy Allen,2,4,Allen,N/A,0,Indiana,1
+0,0,1,1,0,0,6,0,0,Monta,0,0,0,14,0,2,Monta Ellis,0,1,Ellis,N/A,0,Indiana,2
+0,0,3,1,0,0,2,0,0,Aaron,0,0,0,13,0,1,Aaron Brooks,0,3,Brooks,N/A,0,Indiana,0
+0,0,0,0,0,0,2,2,100,Glenn,2,2,100,17,0,2,Glenn Robinson III,6,0,Robinson,N/A,0,Indiana,1
+1,0,5,0,0,0,6,4,67,Al,0,0,0,12,1,0,Al Jefferson,8,6,Jefferson,N/A,0,Indiana,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rakeem,N/A,N/A,N/A,N/A,N/A,N/A,Rakeem Christmas,N/A,N/A,Christmas,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Georges,N/A,N/A,N/A,N/A,N/A,N/A,Georges Niang,N/A,N/A,Niang,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+2,0,4,4,1,25,17,7,41,Andrew,7,6,86,39,1,3,Andrew Wiggins,21,5,Wiggins,F,1,Minnesota,3
+1,2,8,0,0,0,6,3,50,Gorgui,3,2,67,34,1,2,Gorgui Dieng,8,9,Dieng,F,2,Minnesota,1
+4,0,8,6,4,67,23,13,56,Karl-Anthony,4,3,75,38,2,2,Karl-Anthony Towns,33,10,Towns,C,2,Minnesota,2
+5,1,3,9,3,33,17,7,41,Zach,7,6,86,42,0,3,Zach LaVine,23,3,LaVine,G,1,Minnesota,2
+12,0,1,2,0,0,6,2,33,Ricky,0,0,0,33,1,3,Ricky Rubio,4,2,Rubio,G,4,Minnesota,3
+0,0,1,0,0,0,5,2,40,Shabazz,4,4,100,20,1,1,Shabazz Muhammad,8,2,Muhammad,N/A,1,Minnesota,0
+0,1,3,5,1,20,6,1,17,Nemanja,0,0,0,16,0,2,Nemanja Bjelica,3,3,Bjelica,N/A,1,Minnesota,0
+3,0,0,1,1,100,1,1,100,Kris,2,0,0,15,0,2,Kris Dunn,3,0,Dunn,N/A,0,Minnesota,0
+0,1,0,0,0,0,0,0,0,Cole,0,0,0,5,0,2,Cole Aldrich,0,0,Aldrich,N/A,1,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyus,N/A,N/A,N/A,N/A,N/A,N/A,Tyus Jones,N/A,N/A,Jones,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Minnesota,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,2,1,50,15,10,67,Jimmy,6,5,83,31,1,1,Jimmy Butler,26,4,Butler,F,1,Chicago,0
+1,2,6,0,0,0,5,4,80,Taj,5,4,80,22,0,2,Taj Gibson,12,6,Gibson,F,0,Chicago,3
+1,1,2,0,0,0,11,4,36,Robin,2,2,100,23,3,1,Robin Lopez,10,5,Lopez,C,0,Chicago,2
+2,1,4,3,1,33,18,11,61,Dwyane,5,3,60,29,1,2,Dwyane Wade,26,5,Wade,G,3,Chicago,1
+10,0,8,0,0,0,5,2,40,Rajon,3,2,67,26,0,2,Rajon Rondo,6,8,Rondo,G,2,Chicago,1
+2,0,2,3,1,33,5,2,40,Nikola,3,1,33,25,1,0,Nikola Mirotic,6,3,Mirotic,N/A,2,Chicago,2
+1,0,5,7,2,29,9,2,22,Isaiah,2,2,100,26,0,1,Isaiah Canaan,8,5,Canaan,N/A,1,Chicago,2
+0,0,3,5,1,20,9,2,22,Denzel,0,0,0,22,0,2,Denzel Valentine,5,3,Valentine,N/A,1,Chicago,0
+3,0,3,1,0,0,6,3,50,Bobby,0,0,0,19,2,3,Bobby Portis,6,5,Portis,N/A,0,Chicago,0
+0,0,1,0,0,0,2,0,0,Jerian,0,0,0,7,0,2,Jerian Grant,0,1,Grant,N/A,0,Chicago,1
+1,1,2,0,0,0,5,0,0,Cristiano,0,0,0,7,3,1,Cristiano Felicio,0,5,Felicio,N/A,0,Chicago,0
+0,0,1,0,0,0,0,0,0,RJ,0,0,0,4,0,0,RJ Hunter,0,1,Hunter,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Zipser,N/A,N/A,Zipser,N/A,N/A,Chicago,N/A
+0,1,0,3,0,0,4,0,0,Robert,2,2,100,20,1,3,Robert Covington,2,1,Covington,F,2,Philadelphia,2
+2,0,6,2,1,50,8,5,63,Ersan,4,3,75,26,1,1,Ersan Ilyasova,14,7,Ilyasova,F,0,Philadelphia,1
+1,1,5,0,0,0,11,5,46,Jahlil,2,0,0,27,1,3,Jahlil Okafor,10,6,Okafor,C,1,Philadelphia,1
+0,0,1,3,1,33,7,2,29,Gerald,0,0,0,19,0,3,Gerald Henderson,5,1,Henderson,G,0,Philadelphia,1
+2,0,3,1,1,100,10,4,40,Jerryd,2,2,100,26,1,1,Jerryd Bayless,11,4,Bayless,G,0,Philadelphia,2
+3,3,5,4,2,50,9,5,56,Nik,2,1,50,24,0,1,Nik Stauskas,13,5,Stauskas,N/A,0,Philadelphia,3
+3,0,2,2,0,0,4,0,0,Sergio,0,0,0,14,1,2,Sergio Rodriguez,0,3,Rodriguez,N/A,0,Philadelphia,3
+3,0,7,0,0,0,6,1,17,Dario,2,2,100,22,0,2,Dario Saric,4,7,Saric,N/A,0,Philadelphia,3
+0,3,2,2,1,50,8,4,50,Richaun,4,4,100,21,3,1,Richaun Holmes,13,5,Holmes,N/A,1,Philadelphia,2
+2,0,5,3,3,100,5,4,80,Hollis,0,0,0,21,0,3,Hollis Thompson,11,5,Thompson,N/A,2,Philadelphia,0
+1,0,1,0,0,0,2,0,0,T.J.,0,0,0,12,0,0,T.J. McConnell,0,1,McConnell,N/A,1,Philadelphia,1
+1,0,3,2,0,0,4,1,25,Timothe,4,4,100,10,0,1,Timothe Luwawu-Cabarrot,6,3,Luwawu-Cabarrot,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Embiid,N/A,N/A,Embiid,N/A,N/A,Philadelphia,N/A

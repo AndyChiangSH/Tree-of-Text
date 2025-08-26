@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,3,1,33,21,9,43,Rudy,6,6,100,38,4,2,Rudy Gay,25,9,Gay,F,2,Sacramento,1
+0,0,0,0,0,0,4,2,50,Jason,0,0,0,13,1,4,Jason Thompson,4,1,Thompson,F,0,Sacramento,1
+4,2,10,0,0,0,12,9,75,DeMarcus,9,6,67,37,3,4,DeMarcus Cousins,24,13,Cousins,C,1,Sacramento,5
+2,0,2,7,3,43,9,4,44,Ben,0,0,0,32,0,4,Ben McLemore,11,2,McLemore,G,1,Sacramento,2
+8,0,3,2,2,100,7,5,71,Darren,5,4,80,31,0,5,Darren Collison,16,3,Collison,G,0,Sacramento,4
+0,0,0,1,0,0,3,1,33,Derrick,0,0,0,8,0,0,Derrick Williams,2,0,Williams,N/A,1,Sacramento,1
+1,0,4,3,0,0,5,0,0,Ray,0,0,0,17,0,0,Ray McCallum,0,4,McCallum,N/A,0,Sacramento,3
+0,0,3,0,0,0,2,0,0,Reggie,0,0,0,8,2,1,Reggie Evans,0,5,Evans,N/A,0,Sacramento,2
+1,0,0,2,2,100,5,3,60,Nik,0,0,0,17,0,3,Nik Stauskas,8,0,Stauskas,N/A,0,Sacramento,1
+1,0,4,2,1,50,5,1,20,Omri,0,0,0,20,1,1,Omri Casspi,3,5,Casspi,N/A,0,Sacramento,0
+0,0,1,0,0,0,3,3,100,Carl,0,0,0,12,0,1,Carl Landry,6,1,Landry,N/A,0,Sacramento,0
+0,1,1,0,0,0,0,0,0,Ryan,0,0,0,7,0,1,Ryan Hollins,0,1,Hollins,N/A,0,Sacramento,1
+6,0,1,6,2,33,13,6,46,Joe,2,2,100,34,1,0,Joe Johnson,16,2,Johnson,F,1,Brooklyn,0
+2,0,7,0,0,0,10,5,50,Kevin,0,0,0,21,1,3,Kevin Garnett,10,8,Garnett,F,4,Brooklyn,0
+1,1,1,0,0,0,7,6,86,Mason,16,10,63,33,3,2,Mason Plumlee,22,4,Plumlee,C,3,Brooklyn,3
+3,0,2,3,1,33,5,1,20,Sergey,4,2,50,30,3,1,Sergey Karasev,5,5,Karasev,G,2,Brooklyn,1
+2,0,2,1,1,100,12,4,33,Jarrett,8,7,88,32,1,2,Jarrett Jack,16,3,Jack,G,1,Brooklyn,2
+0,1,7,7,3,43,11,4,36,Mirza,0,0,0,29,0,4,Mirza Teletovic,11,7,Teletovic,N/A,0,Brooklyn,3
+3,1,1,1,1,100,3,1,33,Alan,6,3,50,25,2,1,Alan Anderson,6,3,Anderson,N/A,1,Brooklyn,0
+3,0,0,2,0,0,6,2,33,Deron,2,2,100,17,0,0,Deron Williams,6,0,Williams,N/A,0,Brooklyn,0
+0,0,4,0,0,0,10,5,50,Brook,1,1,100,12,2,5,Brook Lopez,11,6,Lopez,N/A,0,Brooklyn,0
+0,0,1,1,0,0,3,2,67,Bojan,0,0,0,7,1,0,Bojan Bogdanovic,4,2,Bogdanovic,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Davies,N/A,N/A,Davies,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerome,N/A,N/A,N/A,N/A,N/A,N/A,Jerome Jordan,N/A,N/A,Jordan,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darius,N/A,N/A,N/A,N/A,N/A,N/A,Darius Morris,N/A,N/A,Morris,N/A,N/A,Brooklyn,N/A

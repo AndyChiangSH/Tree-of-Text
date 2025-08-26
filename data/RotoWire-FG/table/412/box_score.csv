@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,3,0,0,0,7,3,43,Michael,2,1,50,29,5,4,Michael Kidd-Gilchrist,7,8,Kidd-Gilchrist,F,6,Charlotte,3
+0,1,3,3,3,100,9,5,56,Marvin,8,6,75,29,1,2,Marvin Williams,19,4,Williams,F,1,Charlotte,1
+0,0,1,6,2,33,14,7,50,Frank,0,0,0,32,0,3,Frank Kaminsky,16,1,Kaminsky,C,2,Charlotte,2
+5,0,3,9,2,22,15,3,20,Nicolas,4,4,100,35,0,1,Nicolas Batum,12,3,Batum,G,0,Charlotte,3
+8,0,4,11,3,27,24,10,42,Kemba,4,3,75,36,0,4,Kemba Walker,26,4,Walker,G,2,Charlotte,1
+3,0,5,0,0,0,5,3,60,Cody,0,0,0,24,3,3,Cody Zeller,6,8,Zeller,N/A,2,Charlotte,1
+0,0,3,0,0,0,3,1,33,Jeremy,2,2,100,13,0,1,Jeremy Lamb,4,3,Lamb,N/A,1,Charlotte,0
+1,0,3,1,0,0,3,0,0,Brian,3,2,67,12,0,1,Brian Roberts,2,3,Roberts,N/A,0,Charlotte,1
+1,0,0,3,0,0,7,2,29,Marco,3,3,100,24,0,1,Marco Belinelli,7,0,Belinelli,N/A,0,Charlotte,3
+0,0,0,0,0,0,0,0,0,Briante,2,2,100,2,0,0,Briante Weber,2,0,Weber,N/A,0,Charlotte,0
+0,0,0,0,0,0,1,1,100,Johnny,0,0,0,2,0,0,Johnny O'Bryant III,2,0,O'Bryant,N/A,0,Charlotte,1
+0,0,0,1,0,0,1,0,0,Christian,0,0,0,2,0,0,Christian Wood,0,0,Wood,N/A,0,Charlotte,0
+0,0,0,0,0,0,0,0,0,Treveon,0,0,0,2,0,0,Treveon Graham,0,0,Graham,N/A,0,Charlotte,0
+1,2,5,1,0,0,11,8,73,TJ,0,0,0,27,3,0,TJ Warren,16,8,Warren,F,0,Phoenix,1
+1,0,1,4,3,75,9,6,67,Marquese,2,2,100,22,0,3,Marquese Chriss,17,1,Chriss,F,0,Phoenix,1
+1,0,5,0,0,0,3,2,67,Alex,1,1,100,16,0,1,Alex Len,5,5,Len,C,0,Phoenix,0
+9,0,6,4,1,25,12,5,42,Devin,5,4,80,30,0,3,Devin Booker,15,6,Booker,G,0,Phoenix,5
+7,1,4,1,1,100,4,3,75,Eric,8,7,88,25,0,2,Eric Bledsoe,14,4,Bledsoe,G,1,Phoenix,4
+2,1,1,5,1,20,7,2,29,Jared,0,0,0,27,0,3,Jared Dudley,5,1,Dudley,N/A,0,Phoenix,1
+0,1,11,0,0,0,9,7,78,Alan,4,2,50,24,1,3,Alan Williams,16,12,Williams,N/A,1,Phoenix,1
+0,2,0,0,0,0,4,3,75,Derrick,2,2,100,22,0,2,"Derrick Jones, Jr.",8,0,"Jones,",N/A,2,Phoenix,0
+8,0,1,0,0,0,7,3,43,Tyler,2,2,100,23,0,0,Tyler Ulis,8,1,Ulis,N/A,2,Phoenix,1
+1,0,4,4,1,25,11,7,64,Leandro,1,1,100,23,0,6,Leandro Barbosa,16,4,Barbosa,N/A,2,Phoenix,4
+0,0,0,0,0,0,0,0,0,Ronnie,0,0,0,1,0,0,Ronnie Price,0,0,Price,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyson,N/A,N/A,N/A,N/A,N/A,N/A,Tyson Chandler,N/A,N/A,Chandler,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Knight,N/A,N/A,Knight,N/A,N/A,Phoenix,N/A

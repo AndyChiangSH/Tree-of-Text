@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,1,2,0,0,4,1,25,Marvin,0,0,0,30,0,2,Marvin Williams,2,1,Williams,F,1,Charlotte,0
+1,1,3,0,0,0,5,3,60,Cody,1,0,0,18,2,3,Cody Zeller,6,5,Zeller,F,0,Charlotte,2
+2,1,5,0,0,0,12,5,42,Al,2,0,0,26,0,1,Al Jefferson,10,5,Jefferson,C,3,Charlotte,0
+0,0,6,4,1,25,9,1,11,Nicolas,2,1,50,35,0,2,Nicolas Batum,4,6,Batum,G,0,Charlotte,1
+1,1,4,5,2,40,21,12,57,Kemba,8,5,63,38,0,0,Kemba Walker,31,4,Walker,G,3,Charlotte,1
+1,2,4,1,0,0,5,1,20,Frank,0,0,0,24,1,2,Frank Kaminsky,2,5,Kaminsky,N/A,0,Charlotte,0
+1,1,2,4,2,50,10,4,40,Spencer,4,4,100,17,3,2,Spencer Hawes,14,5,Hawes,N/A,0,Charlotte,1
+3,0,5,2,0,0,7,5,71,Jeremy,2,2,100,23,1,2,Jeremy Lamb,12,6,Lamb,N/A,0,Charlotte,0
+3,0,4,2,0,0,9,4,44,Jeremy,6,5,83,28,1,2,Jeremy Lin,13,5,Lin,N/A,0,Charlotte,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Daniels,N/A,N/A,Daniels,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Hansbrough,N/A,N/A,Hansbrough,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Harrison,N/A,N/A,Harrison,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brian,N/A,N/A,N/A,N/A,N/A,N/A,Brian Roberts,N/A,N/A,Roberts,N/A,N/A,Charlotte,N/A
+5,2,9,4,1,25,18,6,33,Carmelo,6,5,83,37,2,2,Carmelo Anthony,18,11,Anthony,F,0,New York,1
+0,1,9,2,2,100,17,10,59,Kristaps,7,7,100,31,2,2,Kristaps Porzingis,29,11,Porzingis,F,0,New York,1
+1,0,3,0,0,0,4,1,25,Robin,2,2,100,18,4,3,Robin Lopez,4,7,Lopez,C,1,New York,3
+3,0,3,5,2,40,15,7,47,Arron,0,0,0,36,0,1,Arron Afflalo,16,3,Afflalo,G,0,New York,1
+3,0,3,3,2,67,6,2,33,Jose,2,2,100,31,0,1,Jose Calderon,8,3,Calderon,G,1,New York,1
+4,2,3,0,0,0,10,5,50,Kevin,0,0,0,21,2,2,Kevin Seraphin,10,5,Seraphin,N/A,0,New York,2
+0,0,0,0,0,0,4,1,25,Jerian,2,2,100,13,0,1,Jerian Grant,4,0,Grant,N/A,0,New York,0
+5,0,4,5,3,60,8,3,38,Langston,0,0,0,28,0,3,Langston Galloway,9,4,Galloway,N/A,1,New York,1
+0,1,0,0,0,0,3,1,33,Derrick,2,2,100,6,0,1,Derrick Williams,4,0,Williams,N/A,0,New York,0
+0,0,0,0,0,0,2,0,0,Lance,0,0,0,10,0,1,Lance Thomas,0,0,Thomas,N/A,0,New York,0
+1,0,1,0,0,0,1,0,0,Lou,0,0,0,7,0,3,Lou Amundson,0,1,Amundson,N/A,0,New York,0
+0,0,0,1,0,0,1,0,0,Sasha,0,0,0,3,0,0,Sasha Vujacic,0,0,Vujacic,N/A,1,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle O'Quinn,N/A,N/A,O'Quinn,N/A,N/A,New York,N/A

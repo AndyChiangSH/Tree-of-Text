@@ -1,0 +1,30 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,11,00:40:16,1,0,Busanan ONGBAMRUNGPHAN,push,opponent wins by landing,wins by landing
+2,6,00:40:42,2,0,Busanan ONGBAMRUNGPHAN,return net,fails to clear the net,opponent fails to clear the net
+3,2,00:41:00,3,0,Busanan ONGBAMRUNGPHAN,clear,goes out of bounds,opponent goes out of bounds
+4,11,00:41:32,3,1,Aakarshi KASHYAP,net shot,goes out of bounds,opponent goes out of bounds
+5,2,00:41:58,4,1,Busanan ONGBAMRUNGPHAN,clear,opponent wins by landing,wins by landing
+6,6,00:42:22,4,2,Aakarshi KASHYAP,drop,opponent wins by landing,wins by landing
+7,3,00:42:42,5,2,Busanan ONGBAMRUNGPHAN,net shot,hits the net,opponent hits the net
+8,15,00:43:13,5,3,Aakarshi KASHYAP,return net,fails to clear the net,opponent fails to clear the net
+9,9,00:43:46,6,3,Busanan ONGBAMRUNGPHAN,drop,hits the net,opponent hits the net
+10,17,00:44:32,7,3,Busanan ONGBAMRUNGPHAN,lob,landing judgment error,opponent landing judgment error
+11,11,00:45:33,8,3,Busanan ONGBAMRUNGPHAN,push,opponent wins by landing,wins by landing
+12,4,00:46:02,9,3,Busanan ONGBAMRUNGPHAN,unknown,goes out of bounds,opponent goes out of bounds
+13,18,00:46:42,10,3,Busanan ONGBAMRUNGPHAN,rush,goes out of bounds,opponent goes out of bounds
+14,18,00:47:27,11,3,Busanan ONGBAMRUNGPHAN,net shot,hits the net,opponent hits the net
+15,3,00:48:51,11,4,Aakarshi KASHYAP,wrist smash,goes out of bounds,opponent goes out of bounds
+16,6,00:49:14,11,5,Aakarshi KASHYAP,return net,hits the net,opponent hits the net
+17,19,00:50:03,11,6,Aakarshi KASHYAP,smash,opponent wins by landing,wins by landing
+18,16,00:50:47,11,7,Aakarshi KASHYAP,clear,goes out of bounds,opponent goes out of bounds
+20,6,00:52:02,12,8,Busanan ONGBAMRUNGPHAN,rush,opponent wins by landing,wins by landing
+21,8,00:52:36,13,8,Busanan ONGBAMRUNGPHAN,net shot,hits the net,opponent hits the net
+22,29,00:53:29,14,8,Busanan ONGBAMRUNGPHAN,clear,opponent wins by landing,wins by landing
+23,14,00:54:55,15,8,Busanan ONGBAMRUNGPHAN,clear,goes out of bounds,opponent goes out of bounds
+24,11,00:55:32,16,8,Busanan ONGBAMRUNGPHAN,smash,opponent wins by landing,wins by landing
+25,9,00:56:16,16,9,Aakarshi KASHYAP,defensive return drive,goes out of bounds,opponent goes out of bounds
+26,11,00:56:53,17,9,Busanan ONGBAMRUNGPHAN,clear,goes out of bounds,opponent goes out of bounds
+27,6,00:57:25,18,9,Busanan ONGBAMRUNGPHAN,clear,goes out of bounds,opponent goes out of bounds
+28,23,00:58:13,19,9,Busanan ONGBAMRUNGPHAN,smash,opponent wins by landing,wins by landing
+29,3,00:58:52,20,9,Busanan ONGBAMRUNGPHAN,smash,opponent wins by landing,wins by landing
+30,10,00:59:20,21,9,Busanan ONGBAMRUNGPHAN,drop,hits the net,opponent hits the net

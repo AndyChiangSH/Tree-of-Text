@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,8,4,50,13,7,54,Andrew,2,1,50,40,0,3,Andrew Wiggins,19,2,Wiggins,F,0,Minnesota,2
+2,2,3,0,0,0,8,4,50,Taj,1,1,100,35,2,1,Taj Gibson,9,5,Gibson,F,0,Minnesota,0
+1,2,9,6,6,100,12,10,83,Karl-Anthony,4,4,100,37,1,2,Karl-Anthony Towns,30,10,Towns,C,1,Minnesota,3
+6,0,5,5,4,80,21,14,67,Jimmy,3,3,100,46,0,2,Jimmy Butler,35,5,Butler,G,2,Minnesota,2
+15,0,3,4,2,50,12,6,50,Jeff,0,0,0,39,0,4,Jeff Teague,14,3,Teague,G,1,Minnesota,1
+1,0,3,0,0,0,7,4,57,Gorgui,2,2,100,16,1,3,Gorgui Dieng,10,4,Dieng,N/A,1,Minnesota,2
+0,0,0,5,2,40,13,7,54,Jamal,0,0,0,20,0,1,Jamal Crawford,16,0,Crawford,N/A,0,Minnesota,1
+2,0,6,4,1,25,5,2,40,Nemanja,0,0,0,17,0,2,Nemanja Bjelica,5,6,Bjelica,N/A,0,Minnesota,0
+5,0,0,1,0,0,2,0,0,Tyus,0,0,0,14,0,1,Tyus Jones,0,0,Jones,N/A,2,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Muhammad,N/A,N/A,Muhammad,N/A,N/A,Minnesota,N/A
+15,1,9,7,5,71,22,16,73,LeBron,2,0,0,48,1,3,LeBron James,37,10,James,F,1,Cleveland,5
+2,0,2,2,1,50,5,3,60,Jae,4,3,75,24,0,4,Jae Crowder,10,2,Crowder,F,1,Cleveland,0
+2,0,3,0,0,0,9,7,78,Tristan,5,3,60,29,2,1,Tristan Thompson,17,5,Thompson,C,1,Cleveland,0
+1,0,3,11,6,55,14,7,50,JR,0,0,0,36,0,2,JR Smith,20,3,Smith,G,0,Cleveland,0
+7,0,3,5,3,60,8,4,50,Isaiah,2,2,100,31,0,1,Isaiah Thomas,13,3,Thomas,G,0,Cleveland,3
+0,0,5,6,0,0,9,2,22,Channing,0,0,0,20,1,1,Channing Frye,4,6,Frye,N/A,1,Cleveland,2
+2,0,5,0,0,0,6,4,67,Jeff,6,5,83,29,1,3,Jeff Green,13,6,Green,N/A,0,Cleveland,2
+0,0,3,4,2,50,5,3,60,Cedi,2,1,50,21,1,3,Cedi Osman,9,4,Osman,N/A,1,Cleveland,2
+3,0,0,0,0,0,3,1,33,Derrick,2,1,50,7,0,0,Derrick Rose,3,0,Rose,N/A,0,Cleveland,0
+1,0,1,6,4,67,7,5,71,Kyle,0,0,0,19,1,3,Kyle Korver,14,2,Korver,N/A,0,Cleveland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jose,N/A,N/A,N/A,N/A,N/A,N/A,Jose Calderon,N/A,N/A,Calderon,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Holland,N/A,N/A,Holland,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ante,N/A,N/A,N/A,N/A,N/A,N/A,Ante Zizic,N/A,N/A,Zizic,N/A,N/A,Cleveland,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,5,4,2,50,5,2,40,Al-Farouq,0,0,0,29,3,1,Al-Farouq Aminu,6,8,Aminu,F,1,Portland,1
+1,1,2,3,1,33,3,1,33,Jake,0,0,0,17,1,0,Jake Layman,3,3,Layman,F,0,Portland,0
+4,2,7,1,0,0,14,6,43,Jusuf,4,1,25,31,4,2,Jusuf Nurkic,13,11,Nurkic,C,2,Portland,1
+8,0,5,9,3,33,22,9,41,Damian,10,8,80,36,1,2,Damian Lillard,29,6,Lillard,G,2,Portland,4
+2,1,3,9,5,56,23,13,56,CJ,0,0,0,38,1,3,CJ McCollum,31,4,McCollum,G,0,Portland,1
+4,0,4,0,0,0,9,5,56,Evan,0,0,0,34,2,4,Evan Turner,10,6,Turner,N/A,1,Portland,3
+1,0,1,1,0,0,4,1,25,Zach,0,0,0,13,0,5,Zach Collins,2,1,Collins,N/A,0,Portland,1
+2,0,2,4,3,75,9,5,56,Meyers,2,2,100,17,1,0,Meyers Leonard,15,3,Leonard,N/A,1,Portland,0
+0,0,0,0,0,0,0,0,0,Wade,0,0,0,7,0,1,Wade Baldwin IV,0,0,Baldwin,N/A,0,Portland,0
+3,0,0,4,2,50,6,3,50,Nik,1,1,100,18,1,1,Nik Stauskas,9,1,Stauskas,N/A,1,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anfernee,N/A,N/A,N/A,N/A,N/A,N/A,Anfernee Simons,N/A,N/A,Simons,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caleb,N/A,N/A,N/A,N/A,N/A,N/A,Caleb Swanigan,N/A,N/A,Swanigan,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gary,N/A,N/A,N/A,N/A,N/A,N/A,Gary Trent Jr.,N/A,N/A,Trent,N/A,N/A,Portland,N/A
+1,0,2,0,0,0,5,1,20,Mario,0,0,0,17,1,2,Mario Hezonja,2,3,Hezonja,F,1,New York,1
+2,1,12,5,2,40,8,4,50,Noah,8,4,50,37,2,1,Noah Vonleh,14,14,Vonleh,F,3,New York,0
+6,1,5,1,1,100,7,3,43,Enes,0,0,0,27,0,2,Enes Kanter,7,5,Kanter,C,1,New York,2
+4,0,3,6,3,50,21,10,48,Tim,9,9,100,37,2,2,Tim Hardaway Jr.,32,5,Hardaway,G,1,New York,2
+4,0,2,4,2,50,9,6,67,Emmanuel,2,2,100,24,0,2,Emmanuel Mudiay,16,2,Mudiay,G,0,New York,2
+1,0,4,5,1,20,7,3,43,Frank,0,0,0,28,0,3,Frank Ntilikina,7,4,Ntilikina,N/A,0,New York,1
+3,0,2,5,3,60,15,8,53,Trey,0,0,0,26,1,1,Trey Burke,19,3,Burke,N/A,0,New York,2
+1,2,1,0,0,0,3,3,100,Mitchell,1,0,0,18,4,2,Mitchell Robinson,6,5,Robinson,N/A,2,New York,2
+0,1,1,2,0,0,3,1,33,Kevin,0,0,0,13,0,0,Kevin Knox,2,1,Knox,N/A,0,New York,0
+0,0,0,1,1,100,5,3,60,Allonzo,2,2,100,15,0,0,Allonzo Trier,9,0,Trier,N/A,0,New York,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ron,N/A,N/A,N/A,N/A,N/A,N/A,Ron Baker,N/A,N/A,Baker,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damyean,N/A,N/A,N/A,N/A,N/A,N/A,Damyean Dotson,N/A,N/A,Dotson,N/A,N/A,New York,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,0,3,1,33,7,2,29,Marcus,0,0,0,22,1,0,Marcus Morris,5,1,Morris,F,1,Phoenix,0
+3,2,4,1,0,0,8,5,63,Markieff,0,0,0,29,0,4,Markieff Morris,10,4,Morris,F,2,Phoenix,2
+1,0,9,0,0,0,3,1,33,Miles,0,0,0,23,1,5,Miles Plumlee,2,10,Plumlee,C,1,Phoenix,2
+4,0,3,1,0,0,11,6,55,Goran,0,0,0,31,0,2,Goran Dragic,12,3,Dragic,G,0,Phoenix,3
+4,1,6,2,0,0,11,6,55,Eric,9,6,67,36,0,3,Eric Bledsoe,18,6,Bledsoe,G,2,Phoenix,3
+1,0,3,0,0,0,3,3,100,Alex,0,0,0,16,1,5,Alex Len,6,4,Len,N/A,1,Phoenix,2
+1,0,6,4,2,50,8,6,75,PJ,2,2,100,30,1,2,PJ Tucker,16,7,Tucker,N/A,0,Phoenix,0
+2,0,3,1,1,100,9,1,11,Isaiah,2,2,100,23,0,0,Isaiah Thomas,5,3,Thomas,N/A,1,Phoenix,2
+4,1,2,3,0,0,13,6,46,Gerald,0,0,0,22,1,1,Gerald Green,12,3,Green,N/A,1,Phoenix,2
+0,0,0,0,0,0,2,1,50,TJ,0,0,0,6,0,0,TJ Warren,2,0,Warren,N/A,1,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Archie,N/A,N/A,N/A,N/A,N/A,N/A,Archie Goodwin,N/A,N/A,Goodwin,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shavlik,N/A,N/A,N/A,N/A,N/A,N/A,Shavlik Randolph,N/A,N/A,Randolph,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Tolliver,N/A,N/A,Tolliver,N/A,N/A,Phoenix,N/A
+3,0,2,0,0,0,5,2,40,Josh,3,1,33,23,2,1,Josh Smith,5,4,Smith,F,0,Detroit,2
+3,0,8,0,0,0,17,7,41,Greg,5,4,80,34,4,2,Greg Monroe,18,12,Monroe,F,1,Detroit,3
+1,0,10,0,0,0,10,2,20,Andre,2,0,0,25,3,3,Andre Drummond,4,13,Drummond,C,0,Detroit,3
+2,0,1,7,3,43,13,6,46,Kentavious,0,0,0,28,1,3,Kentavious Caldwell-Pope,15,2,Caldwell-Pope,G,3,Detroit,1
+7,0,0,9,1,11,19,7,37,Brandon,5,4,80,35,1,2,Brandon Jennings,19,1,Jennings,G,2,Detroit,2
+0,0,2,5,1,20,7,2,29,Caron,0,0,0,22,0,1,Caron Butler,5,2,Butler,N/A,0,Detroit,0
+1,0,1,2,0,0,3,0,0,Spencer,2,2,100,14,0,1,Spencer Dinwiddie,2,1,Dinwiddie,N/A,0,Detroit,1
+2,0,1,0,0,0,5,2,40,D.J.,2,2,100,22,0,0,D.J. Augustin,6,1,Augustin,N/A,2,Detroit,2
+1,1,2,1,1,100,5,3,60,Jonas,0,0,0,21,4,3,Jonas Jerebko,7,6,Jerebko,N/A,1,Detroit,0
+1,0,1,1,1,100,3,2,67,Kyle,0,0,0,17,0,0,Kyle Singler,5,1,Singler,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,N/A,Cartier Martin,N/A,N/A,Martin,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Mitchell,N/A,N/A,Mitchell,N/A,N/A,Detroit,N/A

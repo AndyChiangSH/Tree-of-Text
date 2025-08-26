@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,5,6,0,0,15,4,27,Kent,0,0,0,28,2,5,Kent Bazemore,8,7,Bazemore,F,2,Atlanta,2
+3,0,9,5,2,40,11,3,27,Paul,7,6,86,35,5,2,Paul Millsap,14,14,Millsap,F,1,Atlanta,3
+0,1,12,0,0,0,8,5,63,Dwight,8,4,50,37,4,4,Dwight Howard,14,16,Howard,C,1,Atlanta,3
+3,0,1,4,1,25,6,1,17,Kyle,0,0,0,30,0,2,Kyle Korver,3,1,Korver,G,1,Atlanta,3
+6,1,1,4,1,25,19,10,53,Dennis,4,3,75,34,0,2,Dennis Schroder,24,1,Schroder,G,2,Atlanta,5
+1,0,2,2,1,50,5,4,80,Mike,1,0,0,20,2,2,Mike Muscala,9,4,Muscala,N/A,1,Atlanta,1
+0,0,1,6,1,17,8,3,38,Tim,4,3,75,14,0,1,Tim Hardaway Jr.,10,1,Hardaway,N/A,1,Atlanta,0
+2,1,5,0,0,0,8,3,38,Thabo,4,3,75,26,0,3,Thabo Sefolosha,9,5,Sefolosha,N/A,2,Atlanta,1
+4,0,1,2,1,50,5,3,60,Malcolm,2,2,100,15,0,1,Malcolm Delaney,9,1,Delaney,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre',N/A,N/A,N/A,N/A,N/A,N/A,DeAndre' Bembry,N/A,N/A,Bembry,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kris,N/A,N/A,N/A,N/A,N/A,N/A,Kris Humphries,N/A,N/A,Humphries,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Taurean,N/A,N/A,N/A,N/A,N/A,N/A,Taurean Prince,N/A,N/A,Prince,N/A,N/A,Atlanta,N/A
+3,2,14,3,1,33,16,8,50,Kevin,8,8,100,36,0,1,Kevin Durant,25,14,Durant,F,1,Golden State,4
+7,4,2,3,0,0,9,2,22,Draymond,0,0,0,39,1,4,Draymond Green,4,3,Green,F,1,Golden State,2
+1,1,4,0,0,0,2,2,100,Zaza,0,0,0,16,2,2,Zaza Pachulia,4,6,Pachulia,C,0,Golden State,2
+2,1,2,6,3,50,18,8,44,Klay,1,1,100,37,2,3,Klay Thompson,20,4,Thompson,G,1,Golden State,2
+3,0,3,11,4,36,17,6,35,Stephen,11,9,82,38,0,2,Stephen Curry,25,3,Curry,G,2,Golden State,3
+5,1,5,6,2,33,9,5,56,Andre,2,0,0,28,0,2,Andre Iguodala,12,5,Iguodala,N/A,0,Golden State,0
+1,0,0,0,0,0,1,0,0,JaVale,0,0,0,5,2,1,JaVale McGee,0,2,McGee,N/A,0,Golden State,0
+0,0,0,1,0,0,1,0,0,Patrick,2,1,50,4,0,1,Patrick McCaw,1,0,McCaw,N/A,0,Golden State,0
+1,1,0,0,0,0,1,0,0,David,0,0,0,9,0,1,David West,0,0,West,N/A,0,Golden State,0
+1,0,2,0,0,0,5,3,60,Shaun,0,0,0,16,0,1,Shaun Livingston,6,2,Livingston,N/A,1,Golden State,1
+1,0,2,5,2,40,6,3,50,Ian,0,0,0,11,0,2,Ian Clark,8,2,Clark,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevon,N/A,N/A,N/A,N/A,N/A,N/A,Kevon Looney,N/A,N/A,Looney,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anderson,N/A,N/A,N/A,N/A,N/A,N/A,Anderson Varejao,N/A,N/A,Varejao,N/A,N/A,Golden State,N/A

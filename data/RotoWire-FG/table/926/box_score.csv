@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+7,1,6,7,3,43,16,7,44,Nemanja,0,0,0,39,2,4,Nemanja Bjelica,17,8,Bjelica,F,1,Minnesota,3
+0,1,5,0,0,0,8,5,62,Taj,2,0,0,27,3,3,Taj Gibson,10,8,Gibson,F,1,Minnesota,2
+3,2,7,3,3,100,17,13,76,Karl-Anthony,8,8,100,41,3,5,Karl-Anthony Towns,37,10,Towns,C,1,Minnesota,1
+1,2,1,2,0,0,14,7,50,Andrew,2,2,100,37,0,2,Andrew Wiggins,16,1,Wiggins,G,1,Minnesota,2
+5,1,1,3,0,0,11,6,55,Jeff,1,1,100,29,1,0,Jeff Teague,13,2,Teague,G,2,Minnesota,1
+1,0,3,3,1,33,10,4,40,Jamal,2,2,100,28,0,3,Jamal Crawford,11,3,Crawford,N/A,1,Minnesota,1
+1,0,0,0,0,0,2,1,50,Gorgui,2,2,100,8,2,0,Gorgui Dieng,4,2,Dieng,N/A,0,Minnesota,0
+5,0,2,2,0,0,6,3,50,Tyus,2,2,100,19,0,4,Tyus Jones,8,2,Jones,N/A,2,Minnesota,0
+0,0,1,1,0,0,2,0,0,Derrick,0,0,0,11,0,0,Derrick Rose,0,1,Rose,N/A,1,Minnesota,0
+0,0,0,0,0,0,1,0,0,Cole,0,0,0,1,0,0,Cole Aldrich,0,0,Aldrich,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcus,N/A,N/A,N/A,N/A,N/A,N/A,Marcus Georges-Hunt,N/A,N/A,Georges-Hunt,N/A,N/A,Minnesota,N/A
+2,1,5,3,0,0,14,4,29,Otto,0,0,0,35,2,2,Otto Porter Jr.,8,7,Porter,F,0,Washington,1
+2,0,4,5,3,60,15,10,67,Markieff,4,4,100,33,0,2,Markieff Morris,27,4,Morris,F,0,Washington,0
+1,2,0,0,0,0,3,2,67,Marcin,2,2,100,24,2,3,Marcin Gortat,6,2,Gortat,C,0,Washington,0
+5,0,3,4,1,25,16,8,50,Bradley,3,2,67,34,1,0,Bradley Beal,19,4,Beal,G,0,Washington,4
+7,0,6,1,1,100,7,4,57,Tomas,6,6,100,32,2,3,Tomas Satoransky,15,8,Satoransky,G,3,Washington,1
+2,0,0,1,1,100,7,3,43,Ramon,4,2,50,16,1,3,Ramon Sessions,9,1,Sessions,N/A,1,Washington,1
+1,0,1,3,1,33,5,2,40,Kelly,4,3,75,16,0,0,Kelly Oubre Jr.,8,1,Oubre,N/A,0,Washington,2
+0,1,4,0,0,0,7,5,71,Ian,0,0,0,23,5,3,Ian Mahinmi,10,9,Mahinmi,N/A,2,Washington,1
+2,0,1,1,1,100,3,2,67,Jodie,0,0,0,14,0,1,Jodie Meeks,5,1,Meeks,N/A,0,Washington,1
+4,0,1,2,0,0,5,2,40,Mike,2,0,0,13,1,0,Mike Scott,4,2,Scott,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Frazier,N/A,N/A,Frazier,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Smith,N/A,N/A,Smith,N/A,N/A,Washington,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,2,7,3,43,12,6,50,Paul,4,4,100,36,1,3,Paul George,19,3,George,F,3,Indiana,4
+2,0,3,0,0,0,3,2,67,Lavoy,0,0,0,20,1,5,Lavoy Allen,4,4,Allen,F,0,Indiana,1
+1,0,2,0,0,0,5,4,80,Jordan,2,1,50,19,1,4,Jordan Hill,9,3,Hill,C,1,Indiana,2
+0,1,0,3,1,33,8,2,25,Glenn,4,3,75,17,0,1,Glenn Robinson,8,0,Robinson,G,1,Indiana,0
+5,1,2,3,2,67,17,10,59,Monta,5,2,40,32,0,4,Monta Ellis,24,2,Ellis,G,1,Indiana,4
+2,2,4,0,0,0,13,11,85,Myles,6,3,50,29,3,3,Myles Turner,25,7,Turner,N/A,1,Indiana,1
+1,0,4,4,1,25,5,2,40,CJ,8,7,88,25,1,3,CJ Miles,12,5,Miles,N/A,1,Indiana,1
+7,0,1,0,0,0,11,7,64,Joe,1,1,100,18,0,1,Joe Young,15,1,Young,N/A,0,Indiana,1
+2,2,5,3,2,67,5,2,40,Solomon,0,0,0,28,1,3,Solomon Hill,6,6,Hill,N/A,1,Indiana,1
+2,0,1,0,0,0,3,2,67,Chase,0,0,0,17,1,2,Chase Budinger,4,2,Budinger,N/A,1,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,George,N/A,N/A,N/A,N/A,N/A,N/A,George Hill,N/A,N/A,Hill,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ian,N/A,N/A,N/A,N/A,N/A,N/A,Ian Mahinmi,N/A,N/A,Mahinmi,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rodney,N/A,N/A,N/A,N/A,N/A,N/A,Rodney Stuckey,N/A,N/A,Stuckey,N/A,N/A,Indiana,N/A
+2,0,2,4,1,25,11,6,55,Danilo,10,10,100,23,2,6,Danilo Gallinari,23,4,Gallinari,F,2,Denver,4
+1,0,3,0,0,0,7,5,71,Kenneth,5,3,60,27,6,1,Kenneth Faried,13,9,Faried,F,1,Denver,0
+3,0,0,3,1,33,11,6,55,Nikola,6,5,83,24,2,2,Nikola Jokic,18,2,Jokic,C,4,Denver,1
+2,0,4,3,1,33,12,8,67,Gary,3,3,100,38,0,2,Gary Harris,20,4,Harris,G,0,Denver,2
+6,1,4,1,0,0,10,4,40,Emmanuel,8,2,25,37,0,5,Emmanuel Mudiay,10,4,Mudiay,G,3,Denver,7
+2,0,3,1,1,100,8,3,38,Darrell,0,0,0,23,2,2,Darrell Arthur,7,5,Arthur,N/A,2,Denver,0
+6,1,3,4,2,50,8,4,50,Randy,4,2,50,17,0,1,Randy Foye,12,3,Foye,N/A,0,Denver,0
+0,1,2,2,1,50,5,2,40,Joffrey,0,0,0,15,2,2,Joffrey Lauvergne,5,4,Lauvergne,N/A,0,Denver,1
+3,1,4,6,3,50,17,8,47,Will,2,2,100,31,2,3,Will Barton,21,6,Barton,N/A,0,Denver,1
+0,0,0,2,0,0,2,0,0,Sean,0,0,0,5,1,2,Sean Kilpatrick,0,1,Kilpatrick,N/A,0,Denver,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jameer,N/A,N/A,N/A,N/A,N/A,N/A,Jameer Nelson,N/A,N/A,Nelson,N/A,N/A,Denver,N/A

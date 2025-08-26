@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,4,8,1,13,16,7,44,Kawhi,1,1,100,40,1,5,Kawhi Leonard,16,5,Leonard,F,1,San Antonio,3
+2,5,8,0,0,0,11,4,36,Tim,8,7,88,34,0,4,Tim Duncan,15,8,Duncan,F,0,San Antonio,1
+3,0,2,0,0,0,5,1,20,Aron,0,0,0,18,0,1,Aron Baynes,2,2,Baynes,C,0,San Antonio,1
+0,1,2,4,2,50,9,6,67,Danny,2,2,100,34,0,3,Danny Green,16,2,Green,G,1,San Antonio,0
+6,0,2,2,1,50,12,5,42,Tony,0,0,0,36,0,1,Tony Parker,11,2,Parker,G,1,San Antonio,2
+5,0,4,7,1,14,15,7,47,Manu,7,6,86,26,0,2,Manu Ginobili,21,4,Ginobili,N/A,1,San Antonio,3
+1,0,4,1,1,100,6,3,50,Boris,0,0,0,23,4,4,Boris Diaw,7,8,Diaw,N/A,1,San Antonio,2
+2,0,1,0,0,0,2,0,0,Cory,0,0,0,16,0,0,Cory Joseph,0,1,Joseph,N/A,1,San Antonio,1
+0,0,1,0,0,0,1,0,0,Jeff,0,0,0,3,2,2,Jeff Ayres,0,3,Ayres,N/A,0,San Antonio,1
+1,1,3,2,1,50,3,1,33,Matt,0,0,0,10,0,3,Matt Bonner,3,3,Bonner,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Anderson,N/A,N/A,Anderson,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marco,N/A,N/A,N/A,N/A,N/A,N/A,Marco Belinelli,N/A,N/A,Belinelli,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Austin,N/A,N/A,N/A,N/A,N/A,N/A,Austin Daye,N/A,N/A,Daye,N/A,N/A,San Antonio,N/A
+6,1,3,3,0,0,20,7,35,Rudy,4,4,100,38,0,1,Rudy Gay,18,3,Gay,F,1,Sacramento,2
+4,1,9,0,0,0,5,2,40,Jason,0,0,0,32,0,2,Jason Thompson,4,9,Thompson,F,0,Sacramento,1
+0,1,6,0,0,0,19,10,53,DeMarcus,6,5,83,27,4,5,DeMarcus Cousins,25,10,Cousins,C,0,Sacramento,1
+1,0,2,3,0,0,8,3,38,Ben,2,2,100,40,2,2,Ben McLemore,8,4,McLemore,G,0,Sacramento,2
+5,0,2,2,0,0,13,7,54,Darren,6,5,83,39,0,2,Darren Collison,19,2,Collison,G,2,Sacramento,3
+0,0,0,1,0,0,2,1,50,Derrick,2,1,50,5,0,0,Derrick Williams,3,0,Williams,N/A,0,Sacramento,0
+0,1,4,1,0,0,6,3,50,Omri,4,3,75,22,1,3,Omri Casspi,9,5,Casspi,N/A,1,Sacramento,0
+1,0,3,0,0,0,2,0,0,Ramon,0,0,0,9,0,1,Ramon Sessions,0,3,Sessions,N/A,0,Sacramento,0
+0,0,0,2,0,0,2,0,0,Nik,0,0,0,8,0,0,Nik Stauskas,0,0,Stauskas,N/A,0,Sacramento,0
+2,2,5,0,0,0,9,4,44,Carl,0,0,0,20,1,2,Carl Landry,8,6,Landry,N/A,1,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Evans,N/A,N/A,Evans,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Hollins,N/A,N/A,Hollins,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ray,N/A,N/A,N/A,N/A,N/A,N/A,Ray McCallum,N/A,N/A,McCallum,N/A,N/A,Sacramento,N/A

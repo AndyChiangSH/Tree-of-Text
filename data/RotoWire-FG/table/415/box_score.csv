@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,4,4,1,25,7,3,43,Paul,0,0,0,22,0,2,Paul Pierce,7,4,Pierce,F,0,LA,0
+0,0,3,0,0,0,1,0,0,Luc,2,2,100,20,0,1,Luc Mbah a Moute,2,3,Mbah,F,1,LA,0
+3,3,9,0,0,0,4,3,75,DeAndre,14,3,21,35,2,3,DeAndre Jordan,9,11,Jordan,C,0,LA,0
+1,0,1,2,1,50,11,5,46,JJ,3,3,100,32,0,3,JJ Redick,14,1,Redick,G,2,LA,2
+7,0,2,6,2,33,23,8,35,Chris,4,4,100,34,0,2,Chris Paul,22,2,Paul,G,1,LA,1
+0,0,6,3,2,67,5,4,80,Wesley,0,0,0,18,1,5,Wesley Johnson,10,7,Johnson,N/A,2,LA,0
+2,0,1,7,2,29,19,7,37,Jamal,5,4,80,34,0,1,Jamal Crawford,20,1,Crawford,N/A,0,LA,1
+1,0,1,1,1,100,5,4,80,Lance,0,0,0,18,0,4,Lance Stephenson,9,1,Stephenson,N/A,1,LA,1
+2,0,0,2,0,0,3,1,33,Pablo,0,0,0,14,1,2,Pablo Prigioni,2,1,Prigioni,N/A,1,LA,0
+1,2,8,0,0,0,3,2,67,Cole,5,1,20,13,3,2,Cole Aldrich,5,11,Aldrich,N/A,0,LA,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Ayres,N/A,N/A,Ayres,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Branden,N/A,N/A,N/A,N/A,N/A,N/A,Branden Dawson,N/A,N/A,Dawson,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Wilcox,N/A,N/A,Wilcox,N/A,N/A,LA,N/A
+1,0,4,2,1,50,9,5,56,Luol,5,4,80,40,4,3,Luol Deng,15,8,Deng,F,0,Miami,0
+2,0,4,5,3,60,17,5,29,Chris,7,4,57,32,1,4,Chris Bosh,17,5,Bosh,F,0,Miami,2
+1,0,7,0,0,0,2,1,50,Amar'e,0,0,0,16,1,1,Amar'e Stoudemire,2,8,Stoudemire,C,0,Miami,1
+3,0,2,0,0,0,20,7,35,Dwyane,5,3,60,32,1,3,Dwyane Wade,17,3,Wade,G,1,Miami,4
+5,0,4,5,3,60,13,7,54,Goran,0,0,0,35,1,3,Goran Dragic,17,5,Dragic,G,0,Miami,4
+0,0,9,2,0,0,5,0,0,Justise,2,2,100,27,1,3,Justise Winslow,2,10,Winslow,N/A,0,Miami,0
+0,0,2,3,0,0,8,3,38,Gerald,2,1,50,29,1,1,Gerald Green,7,3,Green,N/A,1,Miami,1
+0,0,8,0,0,0,5,3,60,Hassan,6,4,67,17,2,2,Hassan Whiteside,10,10,Whiteside,N/A,0,Miami,0
+2,0,0,0,0,0,4,2,50,Beno,2,2,100,13,1,1,Beno Udrih,6,1,Udrih,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh McRoberts,N/A,N/A,McRoberts,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Richardson,N/A,N/A,Richardson,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarnell,N/A,N/A,N/A,N/A,N/A,N/A,Jarnell Stokes,N/A,N/A,Stokes,N/A,N/A,Miami,N/A

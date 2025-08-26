@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+11,1,4,2,0,0,9,1,11,Brandon,6,6,100,38,1,1,Brandon Ingram,8,5,Ingram,F,0,Los Angeles,4
+4,0,7,12,7,58,20,11,55,Kyle,3,3,100,36,1,4,Kyle Kuzma,32,8,Kuzma,F,3,Los Angeles,4
+0,1,4,0,0,0,6,3,50,Tyson,0,0,0,16,3,1,Tyson Chandler,6,7,Chandler,C,0,Los Angeles,1
+1,0,2,4,3,75,7,5,71,Kentavious,0,0,0,23,0,0,Kentavious Caldwell-Pope,13,2,Caldwell-Pope,G,2,Los Angeles,2
+10,0,6,10,4,40,17,7,41,Lonzo,0,0,0,33,0,5,Lonzo Ball,18,6,Ball,G,1,Los Angeles,4
+0,1,1,0,0,0,2,2,100,JaVale,0,0,0,9,1,1,JaVale McGee,4,2,McGee,N/A,0,Los Angeles,0
+5,1,9,4,2,50,6,3,50,Josh,5,4,80,33,1,2,Josh Hart,12,10,Hart,N/A,3,Los Angeles,1
+2,0,2,1,0,0,6,2,33,Michael,1,1,100,9,0,1,Michael Beasley,5,2,Beasley,N/A,1,Los Angeles,2
+1,0,6,0,0,0,14,12,86,Ivica,3,2,67,28,6,3,Ivica Zubac,26,12,Zubac,N/A,0,Los Angeles,4
+1,0,3,6,2,33,7,2,29,Svi,1,1,100,19,1,3,Svi Mykhailiuk,7,4,Mykhailiuk,N/A,0,Los Angeles,0
+2,0,3,0,0,0,2,1,50,Lance,0,0,0,13,0,2,Lance Stephenson,2,3,Stephenson,N/A,1,Los Angeles,1
+0,1,2,1,1,100,3,1,33,Moritz,2,2,100,8,0,1,Moritz Wagner,5,2,Wagner,N/A,0,Los Angeles,0
+8,0,5,12,5,42,19,9,47,Paul,6,4,67,44,2,2,Paul George,27,7,George,F,3,Oklahoma City,3
+2,3,2,6,2,33,13,5,38,Jerami,2,2,100,39,1,3,Jerami Grant,14,3,Grant,F,0,Oklahoma City,1
+1,0,8,0,0,0,9,6,67,Steven,6,5,83,41,7,3,Steven Adams,17,15,Adams,C,4,Oklahoma City,2
+2,0,2,12,6,50,13,6,46,Terrance,5,3,60,37,1,4,Terrance Ferguson,21,3,Ferguson,G,1,Oklahoma City,2
+13,1,7,12,5,42,30,7,23,Russell,10,7,70,43,2,5,Russell Westbrook,26,9,Westbrook,G,1,Oklahoma City,3
+2,0,1,5,1,20,7,3,43,Dennis,2,2,100,16,0,1,Dennis Schroder,9,1,Schroder,N/A,0,Oklahoma City,3
+0,0,1,2,0,0,3,0,0,Abdel,2,1,50,11,0,0,Abdel Nader,1,1,Nader,N/A,0,Oklahoma City,0
+1,0,0,4,3,75,4,3,75,Patrick,1,0,0,10,0,2,Patrick Patterson,9,0,Patterson,N/A,0,Oklahoma City,0
+1,0,1,0,0,0,3,2,67,Nerlens,0,0,0,12,1,2,Nerlens Noel,4,2,Noel,N/A,1,Oklahoma City,1
+1,0,2,1,0,0,3,0,0,Hamidou,2,0,0,11,1,0,Hamidou Diallo,0,3,Diallo,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Raymond,N/A,N/A,N/A,N/A,N/A,N/A,Raymond Felton,N/A,N/A,Felton,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timothe,N/A,N/A,N/A,N/A,N/A,N/A,Timothe Luwawu-Cabarrot,N/A,N/A,Luwawu-Cabarrot,N/A,N/A,Oklahoma City,N/A

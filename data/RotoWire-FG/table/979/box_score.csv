@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,10,4,40,12,4,33,Justin,0,0,0,37,2,3,Justin Holiday,12,5,Holiday,F,5,Chicago,1
+0,0,3,0,0,0,5,2,40,Chandler,0,0,0,18,1,4,Chandler Hutchison,4,4,Hutchison,F,2,Chicago,1
+1,2,8,2,0,0,9,4,44,Wendell,2,2,100,22,2,1,Wendell Carter Jr.,10,10,Carter,C,1,Chicago,1
+3,0,11,5,1,20,19,9,47,Zach,10,8,80,35,0,0,Zach LaVine,27,11,LaVine,G,1,Chicago,9
+5,0,1,2,0,0,2,0,0,Cameron,2,2,100,18,1,4,Cameron Payne,2,2,Payne,G,1,Chicago,1
+3,2,6,6,3,50,16,7,44,Jabari,2,1,50,34,2,1,Jabari Parker,18,8,Parker,N/A,1,Chicago,3
+2,1,8,0,0,0,2,1,50,Cristiano,0,0,0,26,0,1,Cristiano Felicio,2,8,Felicio,N/A,1,Chicago,2
+7,1,2,6,3,50,10,5,50,Ryan,0,0,0,31,0,4,Ryan Arcidiacono,13,2,Arcidiacono,N/A,2,Chicago,1
+0,0,2,2,1,50,8,4,50,Antonio,0,0,0,15,0,2,Antonio Blakeney,9,2,Blakeney,N/A,0,Chicago,1
+1,0,0,0,0,0,0,0,0,Shaquille,0,0,0,4,0,1,Shaquille Harrison,0,0,Harrison,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robin,N/A,N/A,N/A,N/A,N/A,N/A,Robin Lopez,N/A,N/A,Lopez,N/A,N/A,Chicago,N/A
+3,1,5,5,2,40,14,5,36,Taurean,4,4,100,35,0,1,Taurean Prince,16,5,Prince,F,2,Atlanta,6
+1,1,2,7,4,57,9,4,44,Vince,0,0,0,23,0,5,Vince Carter,12,2,Carter,F,1,Atlanta,1
+0,0,4,1,0,0,6,2,33,Alex,0,0,0,17,0,1,Alex Len,4,4,Len,C,0,Atlanta,1
+1,0,2,4,1,25,9,3,33,Kent,2,1,50,31,0,3,Kent Bazemore,8,2,Bazemore,G,0,Atlanta,4
+4,0,2,6,0,0,12,3,25,Trae,9,7,78,30,1,0,Trae Young,13,3,Young,G,2,Atlanta,5
+2,1,1,5,2,40,9,3,33,DeAndre',0,0,0,27,0,3,DeAndre' Bembry,8,1,Bembry,N/A,3,Atlanta,2
+3,0,4,2,0,0,5,0,0,Jeremy,4,3,75,19,0,0,Jeremy Lin,3,4,Lin,N/A,0,Atlanta,2
+0,5,8,3,1,33,10,5,50,Dewayne,2,2,100,27,5,0,Dewayne Dedmon,13,13,Dedmon,N/A,0,Atlanta,0
+2,0,5,4,2,50,5,2,40,Kevin,0,0,0,17,1,0,Kevin Huerter,6,6,Huerter,N/A,1,Atlanta,0
+4,0,4,3,0,0,5,0,0,Omari,2,2,100,15,4,0,Omari Spellman,2,8,Spellman,N/A,0,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen Adams,N/A,N/A,Adams,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Dorsey,N/A,N/A,Dorsey,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Miles,N/A,N/A,N/A,N/A,N/A,N/A,Miles Plumlee,N/A,N/A,Plumlee,N/A,N/A,Atlanta,N/A

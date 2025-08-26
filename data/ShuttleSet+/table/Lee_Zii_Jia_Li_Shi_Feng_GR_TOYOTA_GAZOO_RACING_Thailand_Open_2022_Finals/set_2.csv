@@ -1,0 +1,28 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,30,00:31:10,1,0,LEE Zii Jia,drop,opponent wins by landing,wins by landing
+2,12,00:31:48,2,0,LEE Zii Jia,clear,goes out of bounds,opponent goes out of bounds
+3,3,00:32:10,2,1,LI Shi Feng,lob,goes out of bounds,opponent goes out of bounds
+4,12,00:32:37,2,2,LI Shi Feng,lob,hits the net,opponent hits the net
+5,10,00:33:07,3,2,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+6,6,00:33:39,4,2,LEE Zii Jia,clear,goes out of bounds,opponent goes out of bounds
+7,2,00:33:54,5,2,LEE Zii Jia,net shot,hits the net,opponent hits the net
+8,2,00:34:07,6,2,LEE Zii Jia,net shot,hits the net,opponent hits the net
+10,6,00:34:35,7,3,LI Shi Feng,smash,opponent wins by landing,wins by landing
+11,8,00:35:05,7,4,LI Shi Feng,net shot,hits the net,opponent hits the net
+12,9,00:35:28,8,4,LEE Zii Jia,return net,fails to clear the net,opponent fails to clear the net
+14,27,00:36:54,9,5,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+15,4,00:37:50,10,5,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+16,2,00:38:14,11,5,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+17,10,00:39:39,11,6,LI Shi Feng,clear,goes out of bounds,opponent goes out of bounds
+18,22,00:40:49,11,7,LI Shi Feng,net shot,goes out of bounds,opponent goes out of bounds
+19,13,00:41:28,11,8,LI Shi Feng,lob,landing judgment error,opponent landing judgment error
+20,15,00:42:04,12,8,LEE Zii Jia,return net,fails to clear the net,opponent fails to clear the net
+21,6,00:42:39,13,8,LEE Zii Jia,smash,hits the net,opponent hits the net
+23,4,00:43:27,15,8,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+24,16,00:43:58,15,9,LI Shi Feng,wrist smash,opponent wins by landing,wins by landing
+25,4,00:44:21,16,9,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+27,2,00:44:56,17,10,LI Shi Feng,lob,landing judgment error,opponent landing judgment error
+28,7,00:45:15,18,10,LEE Zii Jia,net shot,goes out of bounds,opponent goes out of bounds
+29,7,00:45:59,19,10,LEE Zii Jia,lob,landing judgment error,opponent landing judgment error
+30,4,00:46:17,19,11,LI Shi Feng,clear,landing judgment error,opponent landing judgment error
+32,2,00:46:46,21,11,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds

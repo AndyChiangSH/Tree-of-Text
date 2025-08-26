@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,4,1,25,16,7,44,Gordon,2,2,100,26,1,0,Gordon Hayward,17,5,Hayward,F,1,Utah,0
+2,0,5,1,0,0,7,5,71,Derrick,2,2,100,25,2,3,Derrick Favors,12,7,Favors,F,1,Utah,2
+3,2,9,0,0,0,10,4,40,Rudy,2,2,100,30,7,3,Rudy Gobert,10,16,Gobert,C,0,Utah,1
+2,0,2,3,1,33,3,1,33,Joe,0,0,0,22,0,1,Joe Ingles,3,2,Ingles,G,1,Utah,0
+3,0,1,6,2,33,11,6,55,George,8,5,63,25,0,3,George Hill,19,1,Hill,G,1,Utah,0
+0,0,1,4,2,50,7,3,43,Trey,0,0,0,14,0,0,Trey Lyles,8,1,Lyles,N/A,0,Utah,1
+5,0,3,2,1,50,7,5,71,Dante,0,0,0,23,0,4,Dante Exum,11,3,Exum,N/A,1,Utah,3
+0,0,5,3,1,33,8,4,50,Alec,4,4,100,23,0,2,Alec Burks,13,5,Burks,N/A,2,Utah,0
+1,0,2,8,6,75,14,10,71,Joe,1,1,100,24,1,1,Joe Johnson,27,3,Johnson,N/A,0,Utah,0
+3,0,2,0,0,0,2,1,50,Boris,0,0,0,15,1,0,Boris Diaw,2,3,Diaw,N/A,2,Utah,1
+3,0,1,1,0,0,2,1,50,Shelvin,2,1,50,5,0,0,Shelvin Mack,3,1,Mack,N/A,0,Utah,0
+0,0,1,0,0,0,1,1,100,Jeff,0,0,0,5,0,1,Jeff Withey,2,1,Withey,N/A,0,Utah,0
+0,0,0,0,0,0,0,0,0,Raul,0,0,0,3,0,1,Raul Neto,0,0,Neto,N/A,0,Utah,0
+1,0,0,3,1,33,3,1,33,Solomon,0,0,0,25,0,1,Solomon Hill,3,0,Hill,F,1,New Orleans,1
+1,0,6,1,0,0,16,9,56,Terrence,3,3,100,35,2,0,Terrence Jones,21,8,Jones,F,1,New Orleans,2
+2,6,6,0,0,0,12,4,33,Anthony,5,4,80,30,3,1,Anthony Davis,12,9,Davis,C,0,New Orleans,1
+0,0,2,6,2,33,7,3,43,Buddy,0,0,0,19,0,3,Buddy Hield,8,2,Hield,G,1,New Orleans,0
+2,0,5,4,1,25,12,7,58,Jrue,3,0,0,31,1,2,Jrue Holiday,15,6,Holiday,G,1,New Orleans,4
+2,0,0,4,1,25,11,6,55,E'Twaun,0,0,0,19,0,1,E'Twaun Moore,13,0,Moore,N/A,0,New Orleans,4
+2,0,4,1,0,0,4,2,50,Dante,0,0,0,24,0,2,Dante Cunningham,4,4,Cunningham,N/A,1,New Orleans,0
+4,0,3,1,0,0,4,1,25,Tim,10,9,90,24,0,4,Tim Frazier,11,3,Frazier,N/A,0,New Orleans,1
+2,0,4,1,0,0,3,1,33,Donatas,2,1,50,20,1,3,Donatas Motiejunas,3,5,Motiejunas,N/A,1,New Orleans,0
+1,0,0,3,0,0,5,1,20,Langston,2,2,100,12,0,0,Langston Galloway,4,0,Galloway,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alexis,N/A,N/A,N/A,N/A,N/A,N/A,Alexis Ajinca,N/A,N/A,Ajinca,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omer,N/A,N/A,N/A,N/A,N/A,N/A,Omer Asik,N/A,N/A,Asik,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyreke,N/A,N/A,N/A,N/A,N/A,N/A,Tyreke Evans,N/A,N/A,Evans,N/A,N/A,New Orleans,N/A

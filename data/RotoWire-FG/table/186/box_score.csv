@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,7,2,1,50,16,5,31,Gordon,3,0,0,32,0,3,Gordon Hayward,11,7,Hayward,F,2,Utah,1
+3,2,3,0,0,0,11,9,82,Derrick,4,2,50,36,3,3,Derrick Favors,20,6,Favors,F,2,Utah,3
+2,1,3,4,2,50,11,7,64,Enes,0,0,0,29,2,1,Enes Kanter,16,5,Kanter,C,1,Utah,0
+3,0,2,5,1,20,15,9,60,Alec,3,3,100,37,0,2,Alec Burks,22,2,Burks,G,1,Utah,3
+11,0,3,5,1,20,15,5,33,Trey,0,0,0,35,0,3,Trey Burke,11,3,Burke,G,3,Utah,2
+2,1,1,2,0,0,5,1,20,Dante,0,0,0,19,0,4,Dante Exum,2,1,Exum,N/A,0,Utah,0
+2,1,1,1,0,0,7,5,71,Trevor,1,0,0,19,2,1,Trevor Booker,10,3,Booker,N/A,1,Utah,1
+0,3,2,1,0,0,2,1,50,Rudy,1,1,100,12,1,0,Rudy Gobert,3,3,Gobert,N/A,1,Utah,1
+4,0,0,2,0,0,2,0,0,Joe,0,0,0,17,0,0,Joe Ingles,0,0,Ingles,N/A,1,Utah,0
+0,0,0,1,0,0,2,1,50,Ian,0,0,0,4,0,0,Ian Clark,2,0,Clark,N/A,0,Utah,0
+0,0,0,0,0,0,0,0,0,Steve,0,0,0,0,0,0,Steve Novak,0,0,Novak,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Evans,N/A,N/A,Evans,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Toure',N/A,N/A,N/A,N/A,N/A,N/A,Toure' Murry,N/A,N/A,Murry,N/A,N/A,Utah,N/A
+1,0,4,1,0,0,8,5,63,Thabo,1,0,0,35,1,1,Thabo Sefolosha,10,5,Sefolosha,F,1,Atlanta,1
+3,2,11,8,4,50,23,13,56,Paul,0,0,0,40,6,2,Paul Millsap,30,17,Millsap,F,2,Atlanta,2
+1,1,1,0,0,0,10,4,40,Al,0,0,0,29,3,1,Al Horford,8,4,Horford,C,0,Atlanta,2
+6,0,9,7,4,57,10,5,50,Kyle,3,3,100,38,1,1,Kyle Korver,17,10,Korver,G,0,Atlanta,2
+8,0,2,1,0,0,12,7,58,Jeff,8,6,75,34,0,2,Jeff Teague,20,2,Teague,G,3,Atlanta,4
+0,0,4,3,1,33,5,2,40,Pero,2,1,50,19,1,0,Pero Antic,6,5,Antic,N/A,0,Atlanta,2
+0,0,0,0,0,0,0,0,0,Kent,0,0,0,9,0,3,Kent Bazemore,0,0,Bazemore,N/A,2,Atlanta,1
+3,0,0,0,0,0,4,2,50,Dennis,2,1,50,18,0,0,Dennis Schroder,5,0,Schroder,N/A,0,Atlanta,3
+0,1,1,0,0,0,3,1,33,Mike,2,2,100,8,1,2,Mike Muscala,4,2,Muscala,N/A,0,Atlanta,0
+1,0,1,0,0,0,1,0,0,Shelvin,0,0,0,10,0,0,Shelvin Mack,0,1,Mack,N/A,0,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elton,N/A,N/A,N/A,N/A,N/A,N/A,Elton Brand,N/A,N/A,Brand,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Jenkins,N/A,N/A,Jenkins,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Atlanta,N/A

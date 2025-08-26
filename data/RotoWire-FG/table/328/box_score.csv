@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,5,3,1,33,18,8,44,Kawhi,2,2,100,34,0,2,Kawhi Leonard,19,5,Leonard,F,2,San Antonio,2
+5,1,10,1,0,0,18,8,44,LaMarcus,10,8,80,35,4,1,LaMarcus Aldridge,24,14,Aldridge,F,1,San Antonio,2
+5,1,8,1,0,0,9,3,33,Tim,2,1,50,29,1,4,Tim Duncan,7,9,Duncan,C,0,San Antonio,4
+1,1,5,5,0,0,10,2,20,Danny,2,0,0,29,1,1,Danny Green,4,6,Green,G,4,San Antonio,0
+1,0,3,0,0,0,6,3,50,Tony,0,0,0,27,1,2,Tony Parker,6,4,Parker,G,0,San Antonio,3
+4,0,1,1,0,0,8,4,50,Boris,3,2,67,24,0,1,Boris Diaw,10,1,Diaw,N/A,0,San Antonio,0
+1,0,1,2,2,100,3,3,100,Patty,0,0,0,21,0,1,Patty Mills,8,1,Mills,N/A,0,San Antonio,2
+3,0,7,4,2,50,8,4,50,Manu,4,3,75,24,1,2,Manu Ginobili,13,8,Ginobili,N/A,3,San Antonio,3
+0,0,0,0,0,0,0,0,0,Kyle,0,0,0,1,0,0,Kyle Anderson,0,0,Anderson,N/A,0,San Antonio,0
+0,2,1,2,0,0,2,0,0,Rasual,2,2,100,8,0,0,Rasual Butler,2,1,Butler,N/A,0,San Antonio,0
+0,0,0,0,0,0,1,1,100,David,0,0,0,9,2,2,David West,2,2,West,N/A,0,San Antonio,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Matt,N/A,N/A,N/A,N/A,N/A,N/A,Matt Bonner,N/A,N/A,Bonner,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ray,N/A,N/A,N/A,N/A,N/A,N/A,Ray McCallum,N/A,N/A,McCallum,N/A,N/A,San Antonio,N/A
+1,1,3,5,1,20,9,3,33,Jae,0,0,0,23,1,4,Jae Crowder,7,4,Crowder,F,3,Boston,4
+1,0,5,0,0,0,7,1,14,David,0,0,0,21,3,1,David Lee,2,8,Lee,F,0,Boston,2
+1,0,1,0,0,0,2,0,0,Tyler,0,0,0,6,0,0,Tyler Zeller,0,1,Zeller,C,0,Boston,1
+3,0,2,4,1,25,18,7,39,Avery,4,3,75,30,2,2,Avery Bradley,18,4,Bradley,G,0,Boston,1
+3,1,1,5,1,20,12,7,58,Marcus,4,2,50,39,1,3,Marcus Smart,17,2,Smart,G,4,Boston,1
+5,0,1,5,1,20,18,4,22,Isaiah,6,6,100,27,0,1,Isaiah Thomas,15,1,Thomas,N/A,1,Boston,2
+3,1,3,1,0,0,4,1,25,Evan,0,0,0,16,1,2,Evan Turner,2,4,Turner,N/A,0,Boston,1
+2,0,4,4,2,50,12,4,33,Jared,0,0,0,24,4,3,Jared Sullinger,10,8,Sullinger,N/A,1,Boston,1
+1,1,1,2,0,0,10,5,50,Amir,0,0,0,28,3,4,Amir Johnson,10,4,Johnson,N/A,0,Boston,0
+0,0,2,0,0,0,3,3,100,Jonas,0,0,0,14,0,3,Jonas Jerebko,6,2,Jerebko,N/A,0,Boston,1
+1,1,6,3,0,0,3,0,0,Kelly,0,0,0,13,1,0,Kelly Olynyk,0,7,Olynyk,N/A,1,Boston,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terry,N/A,N/A,N/A,N/A,N/A,N/A,Terry Rozier,N/A,N/A,Rozier,N/A,N/A,Boston,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,2,5,1,20,8,3,38,Joe,0,0,0,34,1,1,Joe Johnson,7,3,Johnson,F,1,Brooklyn,1
+3,0,2,0,0,0,7,5,71,Thaddeus,6,6,100,27,2,2,Thaddeus Young,16,4,Young,F,1,Brooklyn,1
+2,5,9,1,0,0,18,7,39,Brook,12,10,83,39,6,3,Brook Lopez,24,15,Lopez,C,3,Brooklyn,2
+3,0,5,6,1,17,17,9,53,Bojan,1,1,100,38,1,3,Bojan Bogdanovic,20,6,Bogdanovic,G,0,Brooklyn,1
+10,0,5,4,0,0,11,2,18,Jarrett,1,1,100,33,0,2,Jarrett Jack,5,5,Jack,G,2,Brooklyn,3
+0,0,1,4,1,25,6,3,50,Wayne,2,2,100,17,0,1,Wayne Ellington,9,1,Ellington,N/A,0,Brooklyn,2
+5,0,2,0,0,0,3,0,0,Shane,0,0,0,24,0,2,Shane Larkin,0,2,Larkin,N/A,2,Brooklyn,2
+0,1,0,0,0,0,4,2,50,Thomas,0,0,0,4,0,2,Thomas Robinson,4,0,Robinson,N/A,2,Brooklyn,0
+0,0,0,0,0,0,5,3,60,Willie,0,0,0,9,1,2,Willie Reed,6,1,Reed,N/A,0,Brooklyn,0
+0,0,0,0,0,0,4,1,25,Andrea,0,0,0,14,0,0,Andrea Bargnani,2,0,Bargnani,N/A,1,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Markel,N/A,N/A,N/A,N/A,N/A,N/A,Markel Brown,N/A,N/A,Brown,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sergey,N/A,N/A,N/A,N/A,N/A,N/A,Sergey Karasev,N/A,N/A,Karasev,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Donald,N/A,N/A,N/A,N/A,N/A,N/A,Donald Sloan,N/A,N/A,Sloan,N/A,N/A,Brooklyn,N/A
+2,0,6,3,0,0,13,5,39,Tobias,3,2,67,37,2,0,Tobias Harris,12,8,Harris,F,1,Orlando,2
+1,0,5,5,2,40,7,3,43,Channing,0,0,0,22,1,1,Channing Frye,8,6,Frye,F,0,Orlando,1
+3,0,4,0,0,0,18,9,50,Nikola,2,2,100,35,5,4,Nikola Vucevic,20,9,Vucevic,C,0,Orlando,2
+5,0,2,8,3,38,12,5,42,Evan,4,4,100,40,1,2,Evan Fournier,17,3,Fournier,G,2,Orlando,2
+1,0,0,0,0,0,0,0,0,Elfrid,0,0,0,5,0,0,Elfrid Payton,0,0,Payton,G,0,Orlando,1
+5,0,2,2,1,50,4,2,50,Shabazz,2,2,100,17,1,3,Shabazz Napier,7,3,Napier,N/A,1,Orlando,2
+0,0,0,1,0,0,5,3,60,Andrew,0,0,0,7,1,0,Andrew Nicholson,6,1,Nicholson,N/A,0,Orlando,1
+0,1,3,0,0,0,3,2,67,Jason,2,2,100,7,0,4,Jason Smith,6,3,Smith,N/A,0,Orlando,0
+3,0,5,5,2,40,11,3,27,Victor,4,4,100,29,2,2,Victor Oladipo,12,7,Oladipo,N/A,1,Orlando,5
+0,2,4,1,1,100,5,3,60,Aaron,4,3,75,26,3,2,Aaron Gordon,10,7,Gordon,N/A,1,Orlando,0
+1,1,0,1,0,0,1,0,0,Mario,0,0,0,8,0,0,Mario Hezonja,0,0,Hezonja,N/A,0,Orlando,0
+0,0,2,0,0,0,3,1,33,Dewayne,0,0,0,6,1,0,Dewayne Dedmon,2,3,Dedmon,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Devyn,N/A,N/A,N/A,N/A,N/A,N/A,Devyn Marble,N/A,N/A,Marble,N/A,N/A,Orlando,N/A

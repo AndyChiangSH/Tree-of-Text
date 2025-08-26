@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,5,5,2,40,16,6,38,Josh,0,0,0,35,2,5,Josh Richardson,14,7,Richardson,F,2,Miami,0
+6,0,5,4,1,25,11,3,27,James,4,2,50,29,2,4,James Johnson,9,7,Johnson,F,0,Miami,1
+0,6,13,0,0,0,12,10,83,Hassan,9,7,78,32,1,3,Hassan Whiteside,27,14,Whiteside,C,0,Miami,2
+1,1,0,1,0,0,3,1,33,Derrick,4,3,75,22,1,1,Derrick Jones Jr.,5,1,Jones,G,1,Miami,0
+5,0,4,3,1,33,13,6,46,Goran,3,2,67,33,0,2,Goran Dragic,15,4,Dragic,G,0,Miami,6
+4,0,4,6,3,50,7,3,43,Wayne,2,2,100,28,1,4,Wayne Ellington,11,5,Ellington,N/A,0,Miami,1
+3,0,1,2,2,100,5,2,40,Justise,0,0,0,27,0,2,Justise Winslow,6,1,Winslow,N/A,0,Miami,0
+5,0,3,0,0,0,6,2,33,Bam,0,0,0,19,3,4,Bam Adebayo,4,6,Adebayo,N/A,1,Miami,2
+1,0,1,3,1,33,9,5,56,Kelly,5,4,80,16,0,3,Kelly Olynyk,15,1,Olynyk,N/A,0,Miami,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Walton Jr.,N/A,N/A,Walton,N/A,N/A,Miami,N/A
+3,0,5,8,3,38,22,11,50,Khris,0,0,0,41,0,3,Khris Middleton,25,5,Middleton,F,1,Milwaukee,1
+6,2,8,3,2,67,15,6,40,Giannis,15,8,53,38,2,3,Giannis Antetokounmpo,22,10,Antetokounmpo,F,2,Milwaukee,1
+1,1,9,0,0,0,7,4,57,John,2,2,100,33,1,4,John Henson,10,10,Henson,C,0,Milwaukee,2
+1,0,3,2,0,0,7,2,29,Malcolm,4,4,100,29,0,3,Malcolm Brogdon,8,3,Brogdon,G,1,Milwaukee,1
+5,0,2,6,0,0,13,2,15,Eric,8,7,88,30,1,4,Eric Bledsoe,11,3,Bledsoe,G,1,Milwaukee,2
+0,0,1,0,0,0,1,1,100,Thon,0,0,0,14,1,3,Thon Maker,2,2,Maker,N/A,0,Milwaukee,0
+2,1,2,5,4,80,5,4,80,Tony,0,0,0,24,0,2,Tony Snell,12,2,Snell,N/A,0,Milwaukee,0
+1,0,3,2,0,0,3,1,33,Sterling,1,1,100,12,0,1,Sterling Brown,3,3,Brown,N/A,0,Milwaukee,0
+4,0,0,2,2,100,3,2,67,Matthew,2,2,100,18,0,2,Matthew Dellavedova,8,0,Dellavedova,N/A,1,Milwaukee,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sean,N/A,N/A,N/A,N/A,N/A,N/A,Sean Kilpatrick,N/A,N/A,Kilpatrick,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Terry,N/A,N/A,Terry,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rashad,N/A,N/A,N/A,N/A,N/A,N/A,Rashad Vaughn,N/A,N/A,Vaughn,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,D.J.,N/A,N/A,N/A,N/A,N/A,N/A,D.J. Wilson,N/A,N/A,Wilson,N/A,N/A,Milwaukee,N/A

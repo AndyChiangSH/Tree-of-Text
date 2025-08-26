@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,1,2,1,50,5,2,40,OG,0,0,0,27,2,2,OG Anunoby,5,3,Anunoby,F,0,Toronto,1
+1,1,4,7,4,57,13,8,62,Serge,0,0,0,29,0,5,Serge Ibaka,20,4,Ibaka,F,0,Toronto,0
+0,0,7,1,1,100,3,3,100,Jonas,2,2,100,22,1,1,Jonas Valanciunas,9,8,Valanciunas,C,1,Toronto,3
+9,0,3,1,0,0,15,9,60,DeMar,11,7,64,35,0,1,DeMar DeRozan,25,3,DeRozan,G,0,Toronto,1
+6,0,10,12,3,25,17,4,24,Kyle,6,4,67,35,2,1,Kyle Lowry,15,12,Lowry,G,1,Toronto,2
+0,1,2,1,1,100,5,4,80,Jakob,0,0,0,22,2,1,Jakob Poeltl,9,4,Poeltl,N/A,0,Toronto,1
+1,0,2,8,1,12,14,5,36,CJ,0,0,0,21,0,0,CJ Miles,11,2,Miles,N/A,5,Toronto,0
+3,0,1,2,0,0,7,1,14,Pascal,0,0,0,19,4,3,Pascal Siakam,2,5,Siakam,N/A,0,Toronto,2
+2,0,1,2,0,0,5,2,40,Fred,0,0,0,21,1,1,Fred VanVleet,4,2,VanVleet,N/A,1,Toronto,1
+0,0,1,1,0,0,3,1,33,Norman,0,0,0,9,0,2,Norman Powell,2,1,Powell,N/A,0,Toronto,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lorenzo,N/A,N/A,N/A,N/A,N/A,N/A,Lorenzo Brown,N/A,N/A,Brown,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alfonzo,N/A,N/A,N/A,N/A,N/A,N/A,Alfonzo McKinnie,N/A,N/A,McKinnie,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm Miller,N/A,N/A,Miller,N/A,N/A,Toronto,N/A
+0,0,0,0,0,0,0,0,0,Garrett,0,0,0,11,0,4,Garrett Temple,0,0,Temple,F,1,Sacramento,0
+1,0,3,0,0,0,6,2,33,Skal,3,2,67,14,3,1,Skal Labissiere,6,6,Labissiere,F,1,Sacramento,2
+1,0,10,3,1,33,11,9,82,Zach,2,0,0,34,1,1,Zach Randolph,19,11,Randolph,C,1,Sacramento,3
+1,0,1,8,4,50,10,5,50,Bogdan,2,1,50,30,0,2,Bogdan Bogdanovic,15,1,Bogdanovic,G,0,Sacramento,0
+2,0,1,0,0,0,8,3,38,De'Aaron,2,0,0,23,0,4,De'Aaron Fox,6,1,Fox,G,2,Sacramento,7
+3,1,3,3,1,33,7,1,14,Justin,0,0,0,33,2,2,Justin Jackson,3,5,Jackson,N/A,0,Sacramento,0
+0,3,4,1,1,100,5,5,100,JaKarr,0,0,0,19,0,1,JaKarr Sampson,11,4,Sampson,N/A,1,Sacramento,1
+2,1,7,0,0,0,2,2,100,Kosta,0,0,0,14,1,0,Kosta Koufos,4,8,Koufos,N/A,0,Sacramento,2
+2,0,3,5,3,60,13,7,54,Buddy,0,0,0,28,0,0,Buddy Hield,17,3,Hield,N/A,1,Sacramento,6
+3,0,2,2,0,0,10,1,10,Frank,5,4,80,25,0,2,Frank Mason,6,2,Mason,N/A,0,Sacramento,0
+0,1,1,1,0,0,1,0,0,Vince,0,0,0,8,0,0,Vince Carter,0,1,Carter,N/A,0,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Georgios,N/A,N/A,N/A,N/A,N/A,N/A,Georgios Papagiannis,N/A,N/A,Papagiannis,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malachi,N/A,N/A,N/A,N/A,N/A,N/A,Malachi Richardson,N/A,N/A,Richardson,N/A,N/A,Sacramento,N/A

@@ -1,0 +1,30 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,37,00:06:29,1,0,Lakshya SEN,lob,goes out of bounds,opponent goes out of bounds
+2,27,00:07:22,1,1,LEE Zii Jia,clear,goes out of bounds,opponent goes out of bounds
+3,3,00:07:51,2,1,Lakshya SEN,smash,fails to clear the net,opponent fails to clear the net
+4,11,00:08:13,2,2,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+5,4,00:08:30,2,3,LEE Zii Jia,net shot,hits the net,opponent hits the net
+6,9,00:08:49,3,3,Lakshya SEN,smash,goes out of bounds,opponent goes out of bounds
+7,3,00:09:06,3,4,LEE Zii Jia,net shot,hits the net,opponent hits the net
+8,18,00:09:35,4,4,Lakshya SEN,rush,opponent wins by landing,wins by landing
+9,20,00:10:16,5,4,Lakshya SEN,smash,goes out of bounds,opponent goes out of bounds
+10,20,00:11:01,6,4,Lakshya SEN,wrist smash,goes out of bounds,opponent goes out of bounds
+11,7,00:11:28,6,5,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+12,12,00:11:55,6,6,LEE Zii Jia,return net,goes out of bounds,opponent goes out of bounds
+13,11,00:12:34,7,6,Lakshya SEN,return net,goes out of bounds,opponent goes out of bounds
+15,30,00:13:36,9,6,Lakshya SEN,drive,fails to clear the net,opponent fails to clear the net
+17,25,00:15:03,10,7,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+18,7,00:15:41,11,7,Lakshya SEN,push,goes out of bounds,opponent goes out of bounds
+19,9,00:17:06,11,8,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+20,41,00:18:00,11,9,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+21,16,00:19:17,12,9,Lakshya SEN,wrist smash,opponent wins by landing,wins by landing
+23,57,00:21:20,13,10,Lakshya SEN,wrist smash,goes out of bounds,opponent goes out of bounds
+24,7,00:22:23,13,11,LEE Zii Jia,return net,hits the net,opponent hits the net
+25,4,00:22:40,13,12,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+26,19,00:23:39,14,12,Lakshya SEN,push,goes out of bounds,opponent goes out of bounds
+29,17,00:25:32,17,12,Lakshya SEN,defensive return drive,opponent wins by landing,wins by landing
+30,4,00:26:04,18,12,Lakshya SEN,net shot,hits the net,opponent hits the net
+31,16,00:26:31,19,12,Lakshya SEN,smash,goes out of bounds,opponent goes out of bounds
+32,7,00:26:57,19,13,LEE Zii Jia,return net,hits the net,opponent hits the net
+33,9,00:27:29,20,13,Lakshya SEN,defensive return drive,goes out of bounds,opponent goes out of bounds
+34,3,00:27:45,21,13,Lakshya SEN,push,opponent wins by landing,wins by landing

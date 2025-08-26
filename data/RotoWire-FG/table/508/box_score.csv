@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,5,3,1,33,7,2,29,PJ,0,0,0,32,3,2,PJ Tucker,5,8,Tucker,F,1,Phoenix,0
+1,0,2,2,0,0,5,2,40,Jon,0,0,0,15,0,1,Jon Leuer,4,2,Leuer,F,0,Phoenix,1
+0,0,4,0,0,0,6,1,17,Tyson,0,0,0,20,1,1,Tyson Chandler,2,5,Chandler,C,0,Phoenix,1
+1,0,4,3,0,0,13,5,39,Devin,1,0,0,22,0,3,Devin Booker,10,4,Booker,G,1,Phoenix,2
+9,0,3,6,1,17,25,10,40,Brandon,4,4,100,44,0,0,Brandon Knight,25,3,Knight,G,0,Phoenix,2
+0,1,0,0,0,0,3,0,0,TJ,0,0,0,21,0,0,TJ Warren,0,0,Warren,N/A,0,Phoenix,1
+2,3,9,0,0,0,6,3,50,Alex,0,0,0,27,0,3,Alex Len,6,9,Len,N/A,1,Phoenix,2
+2,0,3,4,1,25,6,2,33,Ronnie,0,0,0,27,2,6,Ronnie Price,5,5,Price,N/A,4,Phoenix,1
+0,0,0,0,0,0,0,0,0,Sonny,0,0,0,4,0,0,Sonny Weems,0,0,Weems,N/A,0,Phoenix,1
+1,0,6,9,3,33,14,6,43,Mirza,2,1,50,23,2,2,Mirza Teletovic,16,8,Teletovic,N/A,0,Phoenix,2
+0,0,0,0,0,0,4,1,25,Archie,2,2,100,4,1,2,Archie Goodwin,4,1,Goodwin,N/A,1,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bryce,N/A,N/A,N/A,N/A,N/A,N/A,Bryce Cotton,N/A,N/A,Cotton,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Markieff,N/A,N/A,N/A,N/A,N/A,N/A,Markieff Morris,N/A,N/A,Morris,N/A,N/A,Phoenix,N/A
+2,1,3,3,1,33,7,2,29,Anthony,0,0,0,30,0,0,Anthony Brown,5,3,Brown,F,1,Los Angeles,3
+0,0,10,0,0,0,10,7,70,Larry,2,1,50,32,4,2,Larry Nance Jr.,15,14,Nance,F,1,Los Angeles,2
+3,3,6,0,0,0,11,6,55,Roy,1,1,100,29,0,1,Roy Hibbert,13,6,Hibbert,C,0,Los Angeles,0
+4,0,7,7,6,86,17,11,65,Lou,3,2,67,34,0,1,Lou Williams,30,7,Williams,G,2,Los Angeles,2
+7,1,4,2,0,0,11,5,46,Jordan,2,2,100,34,1,4,Jordan Clarkson,12,5,Clarkson,G,3,Los Angeles,2
+4,0,3,3,0,0,8,2,25,D'Angelo,4,3,75,22,0,3,D'Angelo Russell,7,3,Russell,N/A,1,Los Angeles,2
+2,2,1,0,0,0,6,3,50,Brandon,3,2,67,19,1,1,Brandon Bass,8,2,Bass,N/A,0,Los Angeles,1
+3,0,10,1,0,0,4,0,0,Julius,2,2,100,16,2,3,Julius Randle,2,12,Randle,N/A,0,Los Angeles,2
+0,0,1,4,1,25,7,1,14,Nick,0,0,0,18,0,1,Nick Young,3,1,Young,N/A,0,Los Angeles,0
+1,0,0,2,0,0,3,1,33,Marcelo,0,0,0,6,1,0,Marcelo Huertas,2,1,Huertas,N/A,0,Los Angeles,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Metta,N/A,N/A,N/A,N/A,N/A,N/A,Metta World Peace,N/A,N/A,World,N/A,N/A,Los Angeles,N/A

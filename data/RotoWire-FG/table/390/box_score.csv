@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,3,0,0,0,3,0,0,Andre,2,1,50,22,0,2,Andre Roberson,1,3,Roberson,F,0,Oklahoma City,1
+0,0,3,2,0,0,6,3,50,Domantas,0,0,0,26,2,1,Domantas Sabonis,6,5,Sabonis,F,1,Oklahoma City,0
+1,2,2,0,0,0,10,7,70,Steven,1,1,100,23,6,5,Steven Adams,15,8,Adams,C,0,Oklahoma City,4
+1,0,0,5,1,20,7,3,43,Anthony,2,2,100,20,0,0,Anthony Morrow,9,0,Morrow,G,0,Oklahoma City,0
+11,0,17,1,0,0,22,11,50,Russell,10,7,70,37,0,0,Russell Westbrook,29,17,Westbrook,G,0,Oklahoma City,7
+0,1,1,7,4,57,9,5,56,Alex,0,0,0,22,1,4,Alex Abrines,14,2,Abrines,N/A,0,Oklahoma City,0
+2,0,3,1,0,0,16,9,56,Enes,4,1,25,33,5,1,Enes Kanter,19,8,Kanter,N/A,1,Oklahoma City,4
+1,1,0,3,0,0,7,3,43,Jerami,4,4,100,24,0,5,Jerami Grant,10,0,Grant,N/A,0,Oklahoma City,0
+1,0,2,0,0,0,2,1,50,Joffrey,2,1,50,11,0,2,Joffrey Lauvergne,3,2,Lauvergne,N/A,0,Oklahoma City,0
+3,0,1,0,0,0,0,0,0,Semaj,0,0,0,11,0,1,Semaj Christon,0,1,Christon,N/A,0,Oklahoma City,1
+0,0,0,0,0,0,0,0,0,Kyle,0,0,0,10,0,0,Kyle Singler,0,0,Singler,N/A,1,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+5,1,3,2,0,0,10,2,20,Justise,3,3,100,35,0,3,Justise Winslow,7,3,Winslow,F,2,Miami,3
+0,0,2,1,1,100,4,4,100,Derrick,0,0,0,15,0,0,Derrick Williams,9,2,Williams,F,1,Miami,1
+1,0,4,0,0,0,11,4,36,Hassan,6,4,67,31,4,4,Hassan Whiteside,12,8,Whiteside,C,2,Miami,4
+1,0,0,2,1,50,5,3,60,Rodney,0,0,0,36,1,2,Rodney McGruder,7,1,McGruder,G,0,Miami,0
+3,0,5,6,2,33,16,9,56,Josh,2,2,100,37,0,4,Josh Richardson,22,5,Richardson,G,1,Miami,0
+0,2,4,1,0,0,7,3,43,Willie,0,0,0,12,2,2,Willie Reed,6,6,Reed,N/A,0,Miami,1
+2,0,3,5,1,20,13,6,46,James,6,3,50,25,2,5,James Johnson,16,5,Johnson,N/A,2,Miami,3
+2,1,2,3,2,67,13,5,39,Tyler,4,3,75,30,0,2,Tyler Johnson,15,2,Johnson,N/A,1,Miami,0
+0,0,0,3,0,0,3,0,0,Wayne,0,0,0,13,0,1,Wayne Ellington,0,0,Ellington,N/A,1,Miami,0
+0,0,0,0,0,0,0,0,0,Udonis,0,0,0,5,0,0,Udonis Haslem,0,0,Haslem,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luke,N/A,N/A,N/A,N/A,N/A,N/A,Luke Babbitt,N/A,N/A,Babbitt,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Goran,N/A,N/A,N/A,N/A,N/A,N/A,Goran Dragic,N/A,N/A,Dragic,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh McRoberts,N/A,N/A,McRoberts,N/A,N/A,Miami,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,4,0,0,0,7,5,71,Michael,2,2,100,26,1,1,Michael Kidd-Gilchrist,12,5,Kidd-Gilchrist,F,0,Charlotte,1
+3,3,10,3,1,33,8,5,63,Marvin,4,3,75,37,2,2,Marvin Williams,14,12,Williams,F,0,Charlotte,3
+2,2,2,0,0,0,8,4,50,Cody,0,0,0,42,2,4,Cody Zeller,8,4,Zeller,C,0,Charlotte,1
+2,0,6,3,0,0,14,5,36,Nicolas,6,6,100,31,1,3,Nicolas Batum,16,7,Batum,G,4,Charlotte,1
+1,1,4,11,5,46,24,11,46,Kemba,6,6,100,38,0,2,Kemba Walker,33,4,Walker,G,1,Charlotte,3
+1,1,4,0,0,0,7,4,57,Jeremy,0,0,0,25,0,3,Jeremy Lamb,8,4,Lamb,N/A,0,Charlotte,1
+1,0,2,1,0,0,3,1,33,Brian,0,0,0,10,0,1,Brian Roberts,2,2,Roberts,N/A,1,Charlotte,1
+1,0,0,0,0,0,1,0,0,Johnny,0,0,0,4,0,1,Johnny O'Bryant III,0,0,O'Bryant,N/A,0,Charlotte,0
+2,0,1,3,1,33,8,2,25,Marco,3,3,100,27,0,0,Marco Belinelli,8,1,Belinelli,N/A,1,Charlotte,0
+0,0,0,0,0,0,0,0,0,Christian,0,0,0,2,0,0,Christian Wood,0,0,Wood,N/A,0,Charlotte,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Treveon,N/A,N/A,N/A,N/A,N/A,N/A,Treveon Graham,N/A,N/A,Graham,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Frank,N/A,N/A,N/A,N/A,N/A,N/A,Frank Kaminsky,N/A,N/A,Kaminsky,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Briante,N/A,N/A,N/A,N/A,N/A,N/A,Briante Weber,N/A,N/A,Weber,N/A,N/A,Charlotte,N/A
+1,0,1,2,0,0,3,1,33,Rodney,0,0,0,14,0,3,Rodney McGruder,2,1,McGruder,F,0,Miami,1
+0,0,4,8,4,50,8,4,50,Luke,0,0,0,18,0,0,Luke Babbitt,12,4,Babbitt,F,0,Miami,1
+0,4,10,0,0,0,7,4,57,Hassan,3,2,67,35,5,1,Hassan Whiteside,10,15,Whiteside,C,2,Miami,1
+5,0,2,10,5,50,16,8,50,Dion,4,3,75,27,1,3,Dion Waiters,24,3,Waiters,G,1,Miami,2
+10,0,3,3,1,33,13,6,46,Goran,9,9,100,34,3,3,Goran Dragic,22,6,Dragic,G,1,Miami,2
+0,0,1,4,2,50,6,2,33,Tyler,0,0,0,22,0,3,Tyler Johnson,6,1,Johnson,N/A,0,Miami,3
+0,0,1,1,0,0,8,2,25,Josh,2,2,100,25,2,2,Josh Richardson,6,3,Richardson,N/A,2,Miami,1
+0,0,1,8,3,38,10,3,30,Wayne,0,0,0,22,0,2,Wayne Ellington,9,1,Ellington,N/A,1,Miami,0
+5,3,6,5,2,40,9,4,44,James,2,0,0,30,0,0,James Johnson,10,6,Johnson,N/A,1,Miami,1
+1,0,4,0,0,0,5,3,60,Willie,4,1,25,13,2,1,Willie Reed,7,6,Reed,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Okaro,N/A,N/A,N/A,N/A,N/A,N/A,Okaro White,N/A,N/A,White,N/A,N/A,Miami,N/A

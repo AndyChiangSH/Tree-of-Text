@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,4,7,2,29,13,4,31,Stanley,0,0,0,30,3,2,Stanley Johnson,10,7,Johnson,F,0,Detroit,1
+5,1,8,7,5,71,23,12,52,Blake,6,4,67,35,4,1,Blake Griffin,33,12,Griffin,F,0,Detroit,0
+0,1,9,2,0,0,13,5,38,Andre,0,0,0,24,4,6,Andre Drummond,10,13,Drummond,C,0,Detroit,1
+1,1,1,4,1,25,13,5,38,Reggie,5,5,100,30,0,3,Reggie Bullock,16,1,Bullock,G,1,Detroit,2
+6,0,0,7,4,57,9,4,44,Reggie,6,6,100,28,1,4,Reggie Jackson,18,1,Jackson,G,0,Detroit,2
+5,0,3,5,3,60,11,6,55,Ish,0,0,0,28,0,3,Ish Smith,15,3,Smith,N/A,0,Detroit,2
+0,0,2,1,1,100,4,2,50,Glenn,0,0,0,13,0,0,Glenn Robinson III,5,2,Robinson,N/A,0,Detroit,1
+1,0,3,0,0,0,7,1,14,Zaza,6,3,50,23,5,3,Zaza Pachulia,5,8,Pachulia,N/A,2,Detroit,0
+3,0,0,7,2,29,7,2,29,Langston,0,0,0,26,1,0,Langston Galloway,6,1,Galloway,N/A,1,Detroit,0
+0,0,1,0,0,0,1,0,0,Jose,0,0,0,4,0,1,Jose Calderon,0,1,Calderon,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bruce,N/A,N/A,N/A,N/A,N/A,N/A,Bruce Brown,N/A,N/A,Brown,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Henry,N/A,N/A,N/A,N/A,N/A,N/A,Henry Ellenson,N/A,N/A,Ellenson,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luke,N/A,N/A,N/A,N/A,N/A,N/A,Luke Kennard,N/A,N/A,Kennard,N/A,N/A,Detroit,N/A
+2,0,6,3,2,67,8,6,75,Justin,5,5,100,38,0,1,Justin Holiday,19,6,Holiday,F,2,Chicago,0
+5,0,12,4,0,0,12,2,17,Bobby,4,2,50,29,2,3,Bobby Portis,6,14,Portis,F,1,Chicago,2
+1,2,2,0,0,0,6,4,67,Wendell,0,0,0,18,0,3,Wendell Carter Jr.,8,2,Carter,C,0,Chicago,2
+3,0,3,6,2,33,21,12,57,Zach,9,7,78,37,0,3,Zach LaVine,33,3,LaVine,G,0,Chicago,2
+4,0,2,3,0,0,12,6,50,Cameron,5,5,100,28,1,3,Cameron Payne,17,3,Payne,G,0,Chicago,1
+7,0,1,2,1,50,3,1,33,Ryan,0,0,0,20,0,0,Ryan Arcidiacono,3,1,Arcidiacono,N/A,0,Chicago,1
+1,0,4,3,2,67,13,5,38,Jabari,2,1,50,24,2,3,Jabari Parker,13,6,Parker,N/A,0,Chicago,0
+3,1,2,0,0,0,6,3,50,Robin,1,1,100,25,0,4,Robin Lopez,7,2,Lopez,N/A,0,Chicago,3
+0,0,4,0,0,0,6,5,83,Antonio,0,0,0,22,0,0,Antonio Blakeney,10,4,Blakeney,N/A,1,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rawle,N/A,N/A,N/A,N/A,N/A,N/A,Rawle Alkins,N/A,N/A,Alkins,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano Felicio,N/A,N/A,Felicio,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chandler,N/A,N/A,N/A,N/A,N/A,N/A,Chandler Hutchison,N/A,N/A,Hutchison,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ulis,N/A,N/A,Ulis,N/A,N/A,Chicago,N/A

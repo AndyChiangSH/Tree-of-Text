@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,4,5,2,40,7,3,43,Robert,2,2,100,34,1,4,Robert Covington,10,5,Covington,F,5,Philadelphia,3
+2,1,6,2,0,0,12,5,42,Luc,4,2,50,32,2,0,Luc Mbah a Moute,12,8,Mbah,F,3,Philadelphia,2
+0,2,2,0,0,0,6,2,33,Nerlens,0,0,0,22,4,2,Nerlens Noel,4,6,Noel,C,0,Philadelphia,0
+3,0,2,2,0,0,8,2,25,KJ,0,0,0,26,0,0,KJ McDaniels,4,2,McDaniels,G,0,Philadelphia,0
+5,0,4,4,1,25,20,8,40,Michael,0,0,0,35,3,4,Michael Carter-Williams,17,7,Carter-Williams,G,0,Philadelphia,3
+3,0,2,9,4,44,19,10,53,Tony,9,4,44,33,0,2,Tony Wroten,28,2,Wroten,N/A,3,Philadelphia,5
+2,2,2,0,0,0,7,6,86,Henry,4,4,100,18,3,0,Henry Sims,16,5,Sims,N/A,0,Philadelphia,1
+1,0,1,2,0,0,3,0,0,Jerami,2,2,100,24,3,3,Jerami Grant,2,4,Grant,N/A,0,Philadelphia,1
+2,0,2,1,0,0,2,0,0,Malcolm,2,1,50,11,0,0,Malcolm Thomas,1,2,Thomas,N/A,1,Philadelphia,0
+0,1,0,0,0,0,1,0,0,Furkan,0,0,0,2,0,0,Furkan Aldemir,0,0,Aldemir,N/A,0,Philadelphia,0
+0,0,0,1,0,0,2,1,50,JaKarr,2,0,0,2,0,0,JaKarr Sampson,2,0,Sampson,N/A,0,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Hollis,N/A,N/A,N/A,N/A,N/A,N/A,Hollis Thompson,N/A,N/A,Thompson,N/A,N/A,Philadelphia,N/A
+0,0,2,2,1,50,3,2,67,PJ,2,2,100,24,0,0,PJ Tucker,7,2,Tucker,F,0,Phoenix,2
+1,1,2,4,3,75,12,7,58,Markieff,4,4,100,22,1,4,Markieff Morris,21,3,Morris,F,2,Phoenix,1
+0,6,3,0,0,0,1,0,0,Alex,0,0,0,16,2,3,Alex Len,0,5,Len,C,0,Phoenix,4
+4,1,8,6,1,17,13,3,23,Goran,5,3,60,35,2,3,Goran Dragic,10,10,Dragic,G,3,Phoenix,3
+8,0,4,5,3,60,14,6,43,Eric,2,2,100,31,1,1,Eric Bledsoe,17,5,Bledsoe,G,1,Phoenix,0
+0,4,3,0,0,0,4,4,100,Miles,0,0,0,24,3,4,Miles Plumlee,8,6,Plumlee,N/A,2,Phoenix,1
+5,0,6,3,2,67,6,4,67,Isaiah,2,2,100,23,0,4,Isaiah Thomas,12,6,Thomas,N/A,0,Phoenix,1
+3,0,3,3,1,33,8,4,50,Marcus,0,0,0,25,2,2,Marcus Morris,9,5,Morris,N/A,0,Phoenix,3
+0,0,0,1,0,0,4,2,50,TJ,0,0,0,11,1,0,TJ Warren,4,1,Warren,N/A,0,Phoenix,1
+2,0,3,7,3,43,15,9,60,Gerald,0,0,0,22,1,1,Gerald Green,21,4,Green,N/A,1,Phoenix,2
+1,0,1,1,0,0,3,1,33,Zoran,1,1,100,3,0,1,Zoran Dragic,3,1,Dragic,N/A,0,Phoenix,0
+0,0,0,0,0,0,0,0,0,Shavlik,0,0,0,2,0,0,Shavlik Randolph,0,0,Randolph,N/A,0,Phoenix,1
+0,0,0,0,0,0,1,0,0,Archie,0,0,0,2,0,1,Archie Goodwin,0,0,Goodwin,N/A,0,Phoenix,0

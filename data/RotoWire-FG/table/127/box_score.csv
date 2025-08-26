@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,0,6,1,17,15,5,33,Evan,4,2,50,33,0,2,Evan Fournier,13,0,Fournier,F,2,Orlando,1
+0,0,5,2,1,50,14,6,43,Aaron,0,0,0,29,3,3,Aaron Gordon,13,8,Gordon,F,1,Orlando,0
+0,0,4,0,0,0,8,3,38,Dewayne,2,2,100,15,1,0,Dewayne Dedmon,8,5,Dedmon,C,1,Orlando,0
+1,1,7,4,1,25,17,10,59,Victor,4,4,100,39,1,4,Victor Oladipo,25,8,Oladipo,G,5,Orlando,5
+3,1,0,2,0,0,5,1,20,Brandon,0,0,0,17,1,2,Brandon Jennings,2,1,Jennings,G,0,Orlando,0
+2,1,1,1,0,0,8,2,25,Jason,2,2,100,27,2,3,Jason Smith,6,3,Smith,N/A,0,Orlando,0
+6,1,1,1,0,0,9,4,44,Elfrid,1,0,0,31,0,3,Elfrid Payton,8,1,Payton,N/A,0,Orlando,2
+0,1,2,1,1,100,4,2,50,Ersan,0,0,0,10,3,0,Ersan Ilyasova,5,5,Ilyasova,N/A,0,Orlando,0
+1,1,5,0,0,0,3,1,33,Mario,1,1,100,17,2,2,Mario Hezonja,3,7,Hezonja,N/A,0,Orlando,3
+0,0,1,0,0,0,2,0,0,Devyn,2,0,0,7,0,1,Devyn Marble,0,1,Marble,N/A,0,Orlando,0
+0,1,5,2,1,50,8,5,63,Andrew,3,2,67,15,1,0,Andrew Nicholson,13,6,Nicholson,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Watson,N/A,N/A,Watson,N/A,N/A,Orlando,N/A
+4,1,5,2,2,100,11,7,64,Evan,0,0,0,32,0,2,Evan Turner,16,5,Turner,F,0,Boston,2
+2,3,7,0,0,0,6,5,83,Amir,1,1,100,34,4,2,Amir Johnson,11,11,Johnson,F,0,Boston,2
+1,1,3,2,0,0,7,2,29,Jared,2,1,50,21,0,2,Jared Sullinger,5,3,Sullinger,C,1,Boston,1
+3,0,8,4,1,25,15,9,60,Avery,4,3,75,37,1,1,Avery Bradley,22,9,Bradley,G,1,Boston,3
+7,0,4,2,0,0,18,9,50,Isaiah,12,10,83,34,1,1,Isaiah Thomas,28,5,Thomas,G,1,Boston,4
+1,0,3,5,0,0,11,1,9,Marcus,1,1,100,27,0,2,Marcus Smart,3,3,Smart,N/A,1,Boston,1
+2,0,3,6,4,67,12,7,58,Kelly,4,4,100,21,2,5,Kelly Olynyk,22,5,Olynyk,N/A,2,Boston,0
+1,1,4,1,0,0,3,0,0,Jonas,0,0,0,19,1,1,Jonas Jerebko,0,5,Jerebko,N/A,1,Boston,1
+1,0,0,0,0,0,2,0,0,Terry,0,0,0,14,0,0,Terry Rozier,0,0,Rozier,N/A,1,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Young,N/A,N/A,Young,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Zeller,N/A,N/A,Zeller,N/A,N/A,Boston,N/A

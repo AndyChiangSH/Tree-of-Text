@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,9,4,44,11,4,36,Otto,4,4,100,33,2,4,Otto Porter Jr.,16,3,Porter,F,3,Washington,1
+2,3,3,3,1,33,8,3,38,Jason,2,1,50,27,1,1,Jason Smith,8,4,Smith,F,0,Washington,0
+0,1,14,0,0,0,7,2,29,Marcin,2,2,100,27,1,1,Marcin Gortat,6,15,Gortat,C,0,Washington,1
+2,1,3,7,2,29,14,6,43,Bradley,6,4,67,31,0,4,Bradley Beal,18,3,Beal,G,1,Washington,1
+8,2,3,4,1,25,16,5,31,John,11,8,73,35,1,1,John Wall,19,4,Wall,G,1,Washington,3
+5,0,2,4,0,0,6,1,17,Brandon,0,0,0,16,1,2,Brandon Jennings,2,3,Jennings,N/A,1,Washington,1
+1,0,3,5,2,40,9,4,44,Bojan,2,2,100,23,0,3,Bojan Bogdanovic,12,3,Bogdanovic,N/A,0,Washington,4
+1,0,5,0,0,0,5,2,40,Ian,4,3,75,21,2,3,Ian Mahinmi,7,7,Mahinmi,N/A,0,Washington,0
+0,0,1,1,1,100,3,2,67,Kelly,0,0,0,20,0,2,Kelly Oubre Jr.,5,1,Oubre,N/A,0,Washington,1
+1,0,1,0,0,0,0,0,0,Tomas,0,0,0,5,0,0,Tomas Satoransky,0,1,Satoransky,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Burke,N/A,N/A,Burke,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sheldon,N/A,N/A,N/A,N/A,N/A,N/A,Sheldon McClellan,N/A,N/A,McClellan,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Daniel,N/A,N/A,N/A,N/A,N/A,N/A,Daniel Ochefu,N/A,N/A,Ochefu,N/A,N/A,Washington,N/A
+0,4,3,0,0,0,8,4,50,Michael,0,0,0,27,1,4,Michael Kidd-Gilchrist,8,4,Kidd-Gilchrist,F,2,Charlotte,0
+3,0,7,3,2,67,7,5,71,Marvin,4,4,100,33,1,3,Marvin Williams,16,8,Williams,F,2,Charlotte,0
+0,2,4,0,0,0,10,8,80,Cody,5,3,60,33,1,3,Cody Zeller,19,5,Zeller,C,4,Charlotte,0
+5,0,9,3,0,0,9,4,44,Nicolas,0,0,0,27,1,2,Nicolas Batum,8,10,Batum,G,0,Charlotte,3
+6,0,2,9,4,44,18,5,28,Kemba,3,2,67,34,0,1,Kemba Walker,16,2,Walker,G,0,Charlotte,2
+2,0,1,1,1,100,9,3,33,Marco,5,4,80,28,0,2,Marco Belinelli,11,1,Belinelli,N/A,0,Charlotte,1
+2,1,3,7,2,29,14,4,29,Frank,8,4,50,30,1,2,Frank Kaminsky,14,4,Kaminsky,N/A,0,Charlotte,1
+2,0,1,0,0,0,3,1,33,Briante,0,0,0,14,1,0,Briante Weber,2,2,Weber,N/A,0,Charlotte,0
+3,1,5,1,0,0,4,1,25,Jeremy,2,2,100,14,0,3,Jeremy Lamb,4,5,Lamb,N/A,0,Charlotte,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Treveon,N/A,N/A,N/A,N/A,N/A,N/A,Treveon Graham,N/A,N/A,Graham,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnny,N/A,N/A,N/A,N/A,N/A,N/A,Johnny O'Bryant III,N/A,N/A,O'Bryant,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brian,N/A,N/A,N/A,N/A,N/A,N/A,Brian Roberts,N/A,N/A,Roberts,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Christian,N/A,N/A,N/A,N/A,N/A,N/A,Christian Wood,N/A,N/A,Wood,N/A,N/A,Charlotte,N/A

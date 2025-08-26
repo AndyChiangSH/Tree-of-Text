@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,1,2,1,50,3,1,33,JaMychal,3,1,33,20,1,2,JaMychal Green,4,2,Green,F,1,Memphis,1
+0,0,1,4,2,50,7,4,57,Chandler,0,0,0,16,0,2,Chandler Parsons,10,1,Parsons,F,1,Memphis,1
+3,0,4,2,0,0,18,9,50,Marc,5,5,100,41,1,3,Marc Gasol,23,5,Gasol,C,1,Memphis,0
+3,0,6,1,0,0,16,5,31,Tony,2,1,50,48,6,3,Tony Allen,11,12,Allen,G,6,Memphis,2
+12,0,4,9,3,33,19,10,53,Mike,5,4,80,41,0,1,Mike Conley,27,4,Conley,G,1,Memphis,2
+1,0,4,3,1,33,8,3,38,James,0,0,0,20,1,4,James Ennis III,7,5,Ennis,N/A,2,Memphis,2
+6,0,7,1,1,100,17,12,71,Zach,2,2,100,35,4,4,Zach Randolph,27,11,Randolph,N/A,0,Memphis,1
+1,0,2,4,1,25,6,1,17,Vince,0,0,0,14,0,6,Vince Carter,3,2,Carter,N/A,0,Memphis,0
+0,0,0,0,0,0,1,1,100,Andrew,0,0,0,5,1,2,Andrew Harrison,2,1,Harrison,N/A,0,Memphis,1
+1,0,1,7,4,57,8,4,50,Troy,0,0,0,21,0,0,Troy Daniels,12,1,Daniels,N/A,1,Memphis,2
+0,0,3,0,0,0,0,0,0,Jarell,2,2,100,5,0,1,Jarell Martin,2,3,Martin,N/A,0,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Deyonta,N/A,N/A,N/A,N/A,N/A,N/A,Deyonta Davis,N/A,N/A,Davis,N/A,N/A,Memphis,N/A
+4,3,11,5,0,0,17,7,41,Kevin,18,13,72,43,2,1,Kevin Durant,27,13,Durant,F,0,Golden State,4
+4,0,8,3,1,33,6,3,50,Draymond,5,4,80,40,0,6,Draymond Green,11,8,Green,F,3,Golden State,4
+2,0,5,0,0,0,4,3,75,Zaza,4,4,100,30,0,3,Zaza Pachulia,10,5,Pachulia,C,0,Golden State,0
+2,0,3,6,2,33,17,7,41,Klay,3,1,33,42,3,1,Klay Thompson,17,6,Thompson,G,0,Golden State,0
+6,1,3,13,5,39,27,15,56,Stephen,5,5,100,42,0,2,Stephen Curry,40,3,Curry,G,1,Golden State,4
+0,0,1,1,0,0,3,1,33,Andre,0,0,0,27,2,2,Andre Iguodala,2,3,Iguodala,N/A,0,Golden State,0
+0,0,0,0,0,0,2,2,100,JaVale,0,0,0,5,0,1,JaVale McGee,4,0,McGee,N/A,0,Golden State,1
+0,0,0,1,0,0,1,0,0,Patrick,0,0,0,3,0,1,Patrick McCaw,0,0,McCaw,N/A,0,Golden State,0
+3,1,4,0,0,0,1,0,0,David,2,1,50,11,0,2,David West,1,4,West,N/A,2,Golden State,0
+2,0,2,0,0,0,4,3,75,Shaun,2,1,50,16,0,2,Shaun Livingston,7,2,Livingston,N/A,1,Golden State,3
+0,0,0,1,0,0,1,0,0,Ian,0,0,0,6,0,0,Ian Clark,0,0,Clark,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevon,N/A,N/A,N/A,N/A,N/A,N/A,Kevon Looney,N/A,N/A,Looney,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anderson,N/A,N/A,N/A,N/A,N/A,N/A,Anderson Varejao,N/A,N/A,Varejao,N/A,N/A,Golden State,N/A

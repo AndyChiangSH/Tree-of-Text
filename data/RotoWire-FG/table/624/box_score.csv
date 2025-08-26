@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,3,5,3,60,12,5,42,Luol,7,6,86,35,1,0,Luol Deng,19,4,Deng,F,1,Miami,1
+1,1,4,6,5,83,11,8,73,Shawne,0,0,0,33,2,5,Shawne Williams,21,6,Williams,F,1,Miami,1
+2,1,8,3,0,0,19,7,37,Chris,6,6,100,38,0,1,Chris Bosh,20,8,Bosh,C,2,Miami,4
+0,0,0,0,0,0,1,0,0,James,2,1,50,6,1,1,James Ennis III,1,1,Ennis,G,1,Miami,0
+8,1,2,0,0,0,7,3,43,Norris,0,0,0,28,0,4,Norris Cole,6,2,Cole,G,4,Miami,2
+11,0,1,3,1,33,11,7,64,Mario,8,8,100,40,0,4,Mario Chalmers,23,1,Chalmers,N/A,0,Miami,3
+1,0,1,0,0,0,0,0,0,Chris,0,0,0,7,0,1,Chris Andersen,0,1,Andersen,N/A,0,Miami,0
+1,0,2,1,0,0,4,2,50,Shabazz,0,0,0,21,0,2,Shabazz Napier,4,2,Napier,N/A,0,Miami,3
+1,0,1,3,1,33,4,1,25,Shannon,0,0,0,13,0,0,Shannon Brown,3,1,Brown,N/A,0,Miami,0
+1,0,5,0,0,0,5,2,40,Udonis,2,2,100,19,1,2,Udonis Haslem,6,6,Haslem,N/A,1,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andre,N/A,N/A,N/A,N/A,N/A,N/A,Andre Dawkins,N/A,N/A,Dawkins,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Danny,N/A,N/A,N/A,N/A,N/A,N/A,Danny Granger,N/A,N/A,Granger,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh McRoberts,N/A,N/A,McRoberts,N/A,N/A,Miami,N/A
+1,3,5,2,1,50,7,4,57,Thabo,4,3,75,33,1,3,Thabo Sefolosha,12,6,Sefolosha,F,1,Atlanta,3
+2,1,8,5,2,40,15,7,47,Paul,6,3,50,34,1,1,Paul Millsap,19,9,Millsap,F,2,Atlanta,2
+4,1,6,1,1,100,10,8,80,Al,2,2,100,28,0,3,Al Horford,19,6,Horford,C,1,Atlanta,1
+7,0,6,5,4,80,7,4,57,Kyle,0,0,0,37,0,4,Kyle Korver,12,6,Korver,G,2,Atlanta,3
+9,0,1,6,1,17,11,5,46,Jeff,5,5,100,32,0,2,Jeff Teague,16,1,Teague,G,1,Atlanta,3
+1,0,2,1,0,0,2,1,50,Pero,1,1,100,13,1,4,Pero Antic,3,3,Antic,N/A,0,Atlanta,0
+6,0,2,3,0,0,10,4,40,Dennis,2,2,100,25,0,0,Dennis Schroder,10,2,Schroder,N/A,2,Atlanta,0
+2,0,1,2,2,100,5,5,100,Shelvin,0,0,0,17,0,1,Shelvin Mack,12,1,Mack,N/A,1,Atlanta,1
+1,0,2,3,0,0,8,4,50,Mike,3,3,100,17,0,2,Mike Scott,11,2,Scott,N/A,0,Atlanta,0
+0,0,0,0,0,0,0,0,0,Mike,0,0,0,4,0,0,Mike Muscala,0,0,Muscala,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kent,N/A,N/A,N/A,N/A,N/A,N/A,Kent Bazemore,N/A,N/A,Bazemore,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elton,N/A,N/A,N/A,N/A,N/A,N/A,Elton Brand,N/A,N/A,Brand,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Jenkins,N/A,N/A,Jenkins,N/A,N/A,Atlanta,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,8,5,3,60,14,8,57,Otto,2,1,50,36,1,3,Otto Porter,20,9,Porter,F,0,Washington,2
+3,0,2,6,3,50,10,6,60,Jared,3,2,67,36,1,4,Jared Dudley,17,3,Dudley,F,3,Washington,1
+1,3,6,0,0,0,15,5,33,Marcin,2,2,100,36,4,4,Marcin Gortat,12,10,Gortat,C,0,Washington,0
+2,0,3,1,1,100,6,1,17,Garrett,2,1,50,32,1,6,Garrett Temple,4,4,Temple,G,0,Washington,1
+11,1,7,6,0,0,23,8,35,John,4,3,75,41,0,3,John Wall,19,7,Wall,G,5,Washington,2
+1,0,0,1,0,0,3,1,33,Kelly,0,0,0,14,0,3,Kelly Oubre Jr.,2,0,Oubre,N/A,0,Washington,2
+4,0,6,1,1,100,8,3,38,Ramon,4,4,100,28,0,0,Ramon Sessions,11,6,Sessions,N/A,0,Washington,0
+0,0,2,1,0,0,6,3,50,Kris,0,0,0,12,1,2,Kris Humphries,6,3,Humphries,N/A,0,Washington,2
+0,0,2,1,0,0,2,0,0,Jarell,0,0,0,6,0,2,Jarell Eddie,0,2,Eddie,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeJuan,N/A,N/A,N/A,N/A,N/A,N/A,DeJuan Blair,N/A,N/A,Blair,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Drew,N/A,N/A,N/A,N/A,N/A,N/A,Drew Gooden,N/A,N/A,Gooden,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gary,N/A,N/A,N/A,N/A,N/A,N/A,Gary Neal,N/A,N/A,Neal,N/A,N/A,Washington,N/A
+0,1,5,5,1,20,10,2,20,DeMarre,5,2,40,26,2,1,DeMarre Carroll,7,7,Carroll,F,0,Toronto,0
+1,0,7,1,0,0,6,1,17,Luis,2,2,100,21,0,1,Luis Scola,4,7,Scola,F,0,Toronto,0
+1,1,4,0,0,0,7,4,57,Jonas,0,0,0,21,5,3,Jonas Valanciunas,8,9,Valanciunas,C,0,Toronto,0
+5,2,4,3,1,33,24,9,38,DeMar,15,15,100,37,2,2,DeMar DeRozan,34,6,DeRozan,G,2,Toronto,3
+6,0,3,8,2,25,12,2,17,Kyle,5,5,100,35,0,2,Kyle Lowry,11,3,Lowry,G,2,Toronto,6
+0,2,7,0,0,0,3,3,100,Bismack,9,6,67,27,5,2,Bismack Biyombo,12,12,Biyombo,N/A,0,Toronto,1
+0,0,5,4,2,50,12,6,50,Terrence,0,0,0,29,1,2,Terrence Ross,14,6,Ross,N/A,0,Toronto,1
+0,0,2,3,0,0,3,0,0,Patrick,0,0,0,20,0,1,Patrick Patterson,0,2,Patterson,N/A,0,Toronto,3
+1,0,3,0,0,0,5,1,20,Cory,3,2,67,24,0,2,Cory Joseph,4,3,Joseph,N/A,1,Toronto,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Bennett,N/A,N/A,Bennett,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Johnson,N/A,N/A,Johnson,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,N/A,Lucas Nogueira,N/A,N/A,Nogueira,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Delon,N/A,N/A,N/A,N/A,N/A,N/A,Delon Wright,N/A,N/A,Wright,N/A,N/A,Toronto,N/A

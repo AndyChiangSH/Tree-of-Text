@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,3,7,4,57,9,4,44,Josh,0,0,0,27,0,1,Josh Richardson,12,3,Richardson,F,1,Miami,0
+1,0,2,2,0,0,5,0,0,Derrick,0,0,0,14,0,0,Derrick Williams,0,2,Williams,F,1,Miami,0
+1,2,8,0,0,0,6,1,17,Hassan,5,2,40,27,4,6,Hassan Whiteside,4,12,Whiteside,C,0,Miami,1
+4,0,3,4,1,25,15,6,40,Dion,2,2,100,35,1,1,Dion Waiters,15,4,Waiters,G,3,Miami,2
+2,1,2,6,2,33,10,4,40,Rodney,0,0,0,32,1,4,Rodney McGruder,10,3,McGruder,G,1,Miami,3
+0,1,4,5,1,20,17,8,47,Tyler,7,5,71,33,1,2,Tyler Johnson,22,5,Johnson,N/A,2,Miami,0
+1,2,5,4,3,75,10,4,40,James,2,2,100,31,1,4,James Johnson,13,6,Johnson,N/A,0,Miami,2
+1,1,1,3,1,33,4,2,50,Luke,0,0,0,20,0,1,Luke Babbitt,5,1,Babbitt,N/A,0,Miami,0
+3,1,4,0,0,0,7,2,29,Josh,2,1,50,12,1,2,Josh McRoberts,5,5,McRoberts,N/A,0,Miami,0
+0,0,2,0,0,0,2,2,100,Udonis,0,0,0,9,1,0,Udonis Haslem,4,3,Haslem,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Goran,N/A,N/A,N/A,N/A,N/A,N/A,Goran Dragic,N/A,N/A,Dragic,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willie,N/A,N/A,N/A,N/A,N/A,N/A,Willie Reed,N/A,N/A,Reed,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justise,N/A,N/A,N/A,N/A,N/A,N/A,Justise Winslow,N/A,N/A,Winslow,N/A,N/A,Miami,N/A
+1,2,1,2,0,0,7,2,29,Tony,0,0,0,24,2,0,Tony Allen,4,3,Allen,F,0,Memphis,3
+1,0,3,0,0,0,9,5,56,JaMychal,4,4,100,32,3,3,JaMychal Green,14,6,Green,F,0,Memphis,2
+2,5,1,2,0,0,11,4,36,Marc,2,1,50,26,0,1,Marc Gasol,9,1,Gasol,C,0,Memphis,0
+0,0,2,4,1,25,5,1,20,Troy,0,0,0,19,1,1,Troy Daniels,3,3,Daniels,G,0,Memphis,2
+7,2,4,2,0,0,8,0,0,Andrew,4,4,100,35,1,2,Andrew Harrison,4,5,Harrison,G,0,Memphis,2
+0,2,2,0,0,0,3,2,67,Deyonta,0,0,0,15,3,1,Deyonta Davis,4,5,Davis,N/A,0,Memphis,1
+0,0,4,4,1,25,7,2,29,Vince,2,2,100,16,1,3,Vince Carter,7,5,Carter,N/A,1,Memphis,1
+0,1,11,0,0,0,4,2,50,Jarell,2,2,100,18,1,2,Jarell Martin,6,12,Martin,N/A,0,Memphis,1
+0,0,0,0,0,0,5,2,40,Wade,2,1,50,13,1,0,Wade Baldwin IV,5,1,Baldwin,N/A,0,Memphis,1
+3,1,2,4,1,25,15,5,33,Mike,5,5,100,23,2,1,Mike Conley,16,4,Conley,N/A,1,Memphis,3
+0,1,5,1,1,100,8,4,50,Troy,2,0,0,20,1,2,Troy Williams,9,6,Williams,N/A,1,Memphis,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Ennis III,N/A,N/A,Ennis,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zach,N/A,N/A,N/A,N/A,N/A,N/A,Zach Randolph,N/A,N/A,Randolph,N/A,N/A,Memphis,N/A

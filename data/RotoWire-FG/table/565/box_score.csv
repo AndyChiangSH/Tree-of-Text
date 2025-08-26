@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,2,7,0,0,0,10,4,40,Tim,5,3,60,30,4,4,Tim Duncan,11,11,Duncan,F,1,San Antonio,1
+3,0,4,2,1,50,12,7,58,Kawhi,6,3,50,33,2,3,Kawhi Leonard,18,6,Leonard,F,4,San Antonio,4
+1,0,0,0,0,0,5,2,40,Tiago,2,0,0,10,3,3,Tiago Splitter,4,3,Splitter,C,1,San Antonio,0
+2,0,1,7,1,14,11,2,18,Danny,2,1,50,22,2,0,Danny Green,6,3,Green,G,1,San Antonio,2
+1,0,2,2,0,0,11,4,36,Tony,2,2,100,29,0,1,Tony Parker,10,2,Parker,G,0,San Antonio,2
+6,0,6,6,2,33,10,3,30,Manu,4,2,50,19,1,2,Manu Ginobili,10,7,Ginobili,N/A,2,San Antonio,1
+1,0,3,0,0,0,7,2,29,Aron,1,1,100,20,2,3,Aron Baynes,5,5,Baynes,N/A,0,San Antonio,1
+5,1,4,5,0,0,12,2,17,Boris,2,1,50,28,2,2,Boris Diaw,5,6,Diaw,N/A,0,San Antonio,1
+0,0,1,0,0,0,2,1,50,Cory,2,1,50,12,0,2,Cory Joseph,3,1,Joseph,N/A,0,San Antonio,0
+0,0,1,1,0,0,1,0,0,Matt,0,0,0,4,0,1,Matt Bonner,0,1,Bonner,N/A,0,San Antonio,0
+1,0,2,6,3,50,7,4,57,Marco,0,0,0,19,0,0,Marco Belinelli,11,2,Belinelli,N/A,0,San Antonio,1
+1,0,1,4,3,75,5,3,60,Patty,0,0,0,11,1,2,Patty Mills,9,2,Mills,N/A,0,San Antonio,1
+0,0,0,0,0,0,0,0,0,Jeff,0,0,0,3,0,0,Jeff Ayres,0,0,Ayres,N/A,0,San Antonio,0
+1,0,4,3,2,67,5,3,60,Matt,0,0,0,32,1,5,Matt Barnes,8,5,Barnes,F,4,Los Angeles,2
+6,3,11,0,0,0,20,9,45,Blake,10,8,80,43,1,2,Blake Griffin,26,12,Griffin,F,3,Los Angeles,1
+1,4,11,0,0,0,5,2,40,DeAndre,12,5,42,38,3,3,DeAndre Jordan,9,14,Jordan,C,0,Los Angeles,2
+2,0,3,6,2,33,13,4,31,JJ,0,0,0,36,0,2,JJ Redick,10,3,Redick,G,0,Los Angeles,2
+6,0,7,5,3,60,20,13,65,Chris,4,3,75,38,0,3,Chris Paul,32,7,Paul,G,2,Los Angeles,3
+0,1,0,4,3,75,10,7,70,Jamal,0,0,0,23,0,1,Jamal Crawford,17,0,Crawford,N/A,0,Los Angeles,1
+0,0,4,0,0,0,2,1,50,Glen,2,1,50,12,0,3,Glen Davis,3,4,Davis,N/A,0,Los Angeles,1
+0,0,0,0,0,0,3,1,33,Austin,0,0,0,13,1,1,Austin Rivers,2,1,Rivers,N/A,0,Los Angeles,1
+0,0,0,0,0,0,0,0,0,Hedo,0,0,0,3,0,0,Hedo Turkoglu,0,0,Turkoglu,N/A,0,Los Angeles,0
+0,0,0,0,0,0,0,0,0,Spencer,0,0,0,3,0,1,Spencer Hawes,0,0,Hawes,N/A,0,Los Angeles,0
+0,0,0,0,0,0,0,0,0,Dahntay,0,0,0,0,0,0,Dahntay Jones,0,0,Jones,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lester,N/A,N/A,N/A,N/A,N/A,N/A,Lester Hudson,N/A,N/A,Hudson,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe Udoh,N/A,N/A,Udoh,N/A,N/A,Los Angeles,N/A

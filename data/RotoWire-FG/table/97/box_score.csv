@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,3,0,0,15,2,13,Andrew,4,4,100,37,0,2,Andrew Wiggins,8,4,Wiggins,F,1,Minnesota,4
+2,2,7,0,0,0,6,4,67,Gorgui,2,2,100,27,1,4,Gorgui Dieng,10,8,Dieng,F,1,Minnesota,1
+5,2,10,6,1,17,22,9,41,Karl-Anthony,4,4,100,37,6,2,Karl-Anthony Towns,23,16,Towns,C,0,Minnesota,3
+1,1,4,8,3,38,20,11,55,Zach,4,3,75,40,0,3,Zach LaVine,28,4,LaVine,G,1,Minnesota,3
+5,0,2,2,1,50,3,2,67,Ricky,0,0,0,30,1,2,Ricky Rubio,5,3,Rubio,G,2,Minnesota,3
+0,0,4,1,1,100,6,3,50,Shabazz,4,3,75,19,1,2,Shabazz Muhammad,10,5,Muhammad,N/A,1,Minnesota,2
+3,0,2,0,0,0,2,0,0,Kris,0,0,0,18,0,5,Kris Dunn,0,2,Dunn,N/A,0,Minnesota,1
+0,0,3,4,1,25,6,2,33,Nemanja,2,2,100,23,0,2,Nemanja Bjelica,7,3,Bjelica,N/A,1,Minnesota,0
+1,1,2,0,0,0,2,0,0,Cole,0,0,0,8,0,2,Cole Aldrich,0,2,Aldrich,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyus,N/A,N/A,N/A,N/A,N/A,N/A,Tyus Jones,N/A,N/A,Jones,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Minnesota,N/A
+2,1,9,9,1,11,14,4,29,Robert,4,4,100,39,1,4,Robert Covington,13,10,Covington,F,4,Philadelphia,2
+1,1,4,8,3,38,14,7,50,Ersan,2,2,100,32,1,3,Ersan Ilyasova,19,5,Ilyasova,F,0,Philadelphia,2
+3,2,3,3,1,33,20,8,40,Joel,11,8,73,30,5,3,Joel Embiid,25,8,Embiid,C,1,Philadelphia,3
+2,0,3,5,2,40,9,3,33,Nik,0,0,0,32,0,1,Nik Stauskas,8,3,Stauskas,G,0,Philadelphia,1
+8,0,7,3,0,0,9,3,33,T.J.,0,0,0,35,0,1,T.J. McConnell,6,7,McConnell,G,2,Philadelphia,2
+0,0,0,0,0,0,5,4,80,Nerlens,0,0,0,11,1,1,Nerlens Noel,8,1,Noel,N/A,1,Philadelphia,0
+1,1,2,1,0,0,2,0,0,Timothe,4,4,100,22,0,3,Timothe Luwawu-Cabarrot,4,2,Luwawu-Cabarrot,N/A,0,Philadelphia,2
+1,1,5,3,0,0,8,3,38,Dario,2,2,100,24,2,1,Dario Saric,8,7,Saric,N/A,2,Philadelphia,3
+1,0,1,0,0,0,1,0,0,Hollis,0,0,0,4,0,2,Hollis Thompson,0,1,Thompson,N/A,0,Philadelphia,0
+0,1,2,0,0,0,3,1,33,Jahlil,2,0,0,10,2,2,Jahlil Okafor,2,4,Okafor,N/A,0,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Henderson,N/A,N/A,Henderson,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sergio,N/A,N/A,N/A,N/A,N/A,N/A,Sergio Rodriguez,N/A,N/A,Rodriguez,N/A,N/A,Philadelphia,N/A

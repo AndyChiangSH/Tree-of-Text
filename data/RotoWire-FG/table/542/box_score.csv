@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,3,2,0,0,9,3,33,Joe,0,0,0,27,0,2,Joe Johnson,6,3,Johnson,F,0,Brooklyn,0
+0,0,3,3,1,33,8,4,50,Thaddeus,0,0,0,16,0,4,Thaddeus Young,9,3,Young,F,2,Brooklyn,3
+5,2,3,0,0,0,10,4,40,Brook,2,2,100,31,5,2,Brook Lopez,10,8,Lopez,C,0,Brooklyn,1
+5,0,3,2,1,50,9,4,44,Markel,2,1,50,28,0,2,Markel Brown,10,3,Brown,G,3,Brooklyn,1
+6,0,2,5,1,20,15,7,47,Deron,5,5,100,28,0,3,Deron Williams,20,2,Williams,G,1,Brooklyn,3
+1,0,2,4,2,50,9,5,56,Bojan,0,0,0,36,0,1,Bojan Bogdanovic,12,2,Bogdanovic,N/A,0,Brooklyn,0
+3,0,3,3,0,0,10,4,40,Jarrett,4,3,75,21,0,0,Jarrett Jack,11,3,Jack,N/A,0,Brooklyn,1
+1,1,3,0,0,0,3,3,100,Mason,8,4,50,24,2,2,Mason Plumlee,10,5,Plumlee,N/A,1,Brooklyn,1
+0,0,1,0,0,0,1,0,0,Alan,0,0,0,5,0,0,Alan Anderson,0,1,Anderson,N/A,0,Brooklyn,0
+1,2,1,0,0,0,2,2,100,Cory,0,0,0,14,1,2,Cory Jefferson,4,2,Jefferson,N/A,0,Brooklyn,0
+0,0,0,1,0,0,3,0,0,Darius,0,0,0,7,0,1,Darius Morris,0,0,Morris,N/A,0,Brooklyn,1
+0,0,0,0,0,0,1,0,0,Jerome,0,0,0,3,0,0,Jerome Jordan,0,0,Jordan,N/A,0,Brooklyn,0
+7,0,2,4,2,50,13,5,39,LeBron,6,4,67,35,1,1,LeBron James,16,3,James,F,1,Cleveland,2
+4,0,9,2,0,0,9,4,44,Kevin,3,2,67,27,2,1,Kevin Love,10,11,Love,F,0,Cleveland,3
+1,1,1,0,0,0,8,7,88,Timofey,5,3,60,17,2,3,Timofey Mozgov,17,3,Mozgov,C,0,Cleveland,1
+2,1,3,10,5,50,13,6,46,JR,0,0,0,27,0,1,JR Smith,17,3,Smith,G,0,Cleveland,1
+10,0,4,1,1,100,10,5,50,Kyrie,2,1,50,30,1,2,Kyrie Irving,12,5,Irving,G,0,Cleveland,1
+2,0,4,0,0,0,4,4,100,Tristan,4,2,50,24,2,1,Tristan Thompson,10,6,Thompson,N/A,1,Cleveland,0
+0,0,2,4,2,50,8,4,50,Iman,0,0,0,26,1,3,Iman Shumpert,10,3,Shumpert,N/A,0,Cleveland,0
+5,0,1,3,2,67,5,3,60,Matthew,0,0,0,26,0,3,Matthew Dellavedova,8,1,Dellavedova,N/A,0,Cleveland,2
+0,0,0,3,2,67,3,2,67,James,0,0,0,12,0,1,James Jones,6,0,Jones,N/A,0,Cleveland,0
+0,1,4,0,0,0,4,2,50,Kendrick,0,0,0,7,2,1,Kendrick Perkins,4,6,Perkins,N/A,0,Cleveland,1
+1,0,1,0,0,0,3,2,67,Shawn,0,0,0,5,0,0,Shawn Marion,4,1,Marion,N/A,0,Cleveland,0
+0,0,1,2,1,50,2,1,50,Mike,0,0,0,4,0,0,Mike Miller,3,1,Miller,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brendan,N/A,N/A,N/A,N/A,N/A,N/A,Brendan Haywood,N/A,N/A,Haywood,N/A,N/A,Cleveland,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,5,7,2,29,17,5,29,Dario,2,2,100,36,3,3,Dario Saric,14,8,Saric,F,1,Philadelphia,6
+2,1,7,6,2,33,17,8,47,Ersan,8,7,88,39,2,5,Ersan Ilyasova,25,9,Ilyasova,F,4,Philadelphia,3
+3,0,6,0,0,0,12,4,33,Jahlil,1,1,100,25,3,3,Jahlil Okafor,9,9,Okafor,C,0,Philadelphia,1
+1,1,3,5,2,40,10,2,20,Nik,2,2,100,28,1,3,Nik Stauskas,8,4,Stauskas,G,1,Philadelphia,1
+7,1,5,1,0,0,5,2,40,T.J.,0,0,0,32,0,3,T.J. McConnell,4,5,McConnell,G,2,Philadelphia,3
+1,1,1,3,1,33,10,3,30,Timothe,2,2,100,30,1,1,Timothe Luwawu-Cabarrot,9,2,Luwawu-Cabarrot,N/A,0,Philadelphia,3
+1,1,4,0,0,0,4,1,25,Richaun,6,2,33,19,2,1,Richaun Holmes,4,6,Holmes,N/A,0,Philadelphia,0
+1,0,1,2,1,50,6,2,33,Chasson,0,0,0,15,0,2,Chasson Randle,5,1,Randle,N/A,0,Philadelphia,0
+4,0,2,1,1,100,7,3,43,Sergio,2,1,50,17,0,2,Sergio Rodriguez,8,2,Rodriguez,N/A,2,Philadelphia,4
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Covington,N/A,N/A,Covington,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Embiid,N/A,N/A,Embiid,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Henderson,N/A,N/A,Henderson,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens Noel,N/A,N/A,Noel,N/A,N/A,Philadelphia,N/A
+5,2,4,2,0,0,17,8,47,Kawhi,5,3,60,25,4,1,Kawhi Leonard,19,8,Leonard,F,2,San Antonio,4
+3,0,4,8,2,25,14,5,36,Davis,0,0,0,30,2,2,Davis Bertans,12,6,Bertans,F,2,San Antonio,2
+1,2,8,0,0,0,7,5,71,Dewayne,3,3,100,22,2,4,Dewayne Dedmon,13,10,Dedmon,C,0,San Antonio,2
+0,0,3,5,2,40,10,5,50,Danny,0,0,0,29,1,3,Danny Green,12,4,Green,G,2,San Antonio,0
+6,0,4,0,0,0,5,0,0,Tony,2,1,50,26,0,1,Tony Parker,1,4,Parker,G,1,San Antonio,0
+2,0,4,1,0,0,3,0,0,Manu,3,2,67,9,0,2,Manu Ginobili,2,4,Ginobili,N/A,0,San Antonio,2
+4,0,2,3,2,67,9,5,56,Patty,0,0,0,18,0,1,Patty Mills,12,2,Mills,N/A,0,San Antonio,1
+1,2,6,0,0,0,7,4,57,David,6,4,67,17,3,1,David Lee,12,9,Lee,N/A,2,San Antonio,3
+0,1,2,0,0,0,3,2,67,Joel,0,0,0,13,2,1,Joel Anthony,4,4,Anthony,N/A,1,San Antonio,0
+3,1,5,0,0,0,3,1,33,Kyle,2,2,100,24,0,1,Kyle Anderson,4,5,Anderson,N/A,3,San Antonio,3
+0,1,3,1,0,0,8,3,38,Jonathon,6,5,83,19,0,2,Jonathon Simmons,11,3,Simmons,N/A,0,San Antonio,0
+1,0,0,1,0,0,2,0,0,Dejounte,0,0,0,5,0,1,Dejounte Murray,0,0,Murray,N/A,0,San Antonio,2
+0,0,0,0,0,0,1,0,0,Bryn,0,0,0,3,0,0,Bryn Forbes,0,0,Forbes,N/A,0,San Antonio,0

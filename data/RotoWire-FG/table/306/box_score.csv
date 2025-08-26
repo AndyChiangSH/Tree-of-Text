@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,2,3,0,0,6,2,33,Gordon,2,2,100,23,0,1,Gordon Hayward,6,2,Hayward,F,0,Utah,3
+0,0,2,0,0,0,8,3,38,Derrick,1,1,100,22,0,2,Derrick Favors,7,2,Favors,F,2,Utah,3
+0,1,5,0,0,0,2,1,50,Rudy,4,2,50,16,1,3,Rudy Gobert,4,6,Gobert,C,0,Utah,1
+1,0,2,5,2,40,9,4,44,Rodney,1,1,100,29,0,1,Rodney Hood,11,2,Hood,G,0,Utah,1
+4,0,2,3,0,0,9,3,33,Shelvin,0,0,0,24,0,3,Shelvin Mack,6,2,Mack,G,3,Utah,5
+2,0,0,2,1,50,6,4,67,Trevor,2,0,0,16,3,3,Trevor Booker,9,3,Booker,N/A,0,Utah,0
+2,1,2,2,0,0,12,6,50,Trey,2,2,100,26,1,2,Trey Lyles,14,3,Lyles,N/A,0,Utah,1
+2,0,6,2,0,0,2,0,0,Joe,0,0,0,19,1,1,Joe Ingles,0,7,Ingles,N/A,1,Utah,2
+2,0,2,1,1,100,2,2,100,Raul,2,0,0,21,0,1,Raul Neto,5,2,Neto,N/A,0,Utah,2
+0,1,2,0,0,0,6,4,67,Jeff,0,0,0,17,3,3,Jeff Withey,8,5,Withey,N/A,1,Utah,0
+0,0,1,1,0,0,2,1,50,Chris,2,2,100,15,0,1,Chris Johnson,4,1,Johnson,N/A,1,Utah,0
+0,0,1,3,1,33,9,5,56,Trey,7,6,86,12,0,1,Trey Burke,17,1,Burke,N/A,0,Utah,0
+9,1,7,4,2,50,11,7,64,Kevin,5,4,80,30,1,0,Kevin Durant,20,8,Durant,F,2,Oklahoma City,5
+2,1,2,4,2,50,6,4,67,Serge,0,0,0,27,1,2,Serge Ibaka,10,3,Ibaka,F,3,Oklahoma City,1
+0,0,5,0,0,0,11,7,64,Steven,0,0,0,22,2,0,Steven Adams,14,7,Adams,C,1,Oklahoma City,1
+0,1,4,1,0,0,3,1,33,Andre,0,0,0,22,0,1,Andre Roberson,2,4,Roberson,G,0,Oklahoma City,0
+9,0,6,3,1,33,15,6,40,Russell,3,2,67,27,1,1,Russell Westbrook,15,7,Westbrook,G,3,Oklahoma City,2
+0,0,3,0,0,0,10,5,50,Enes,5,4,80,22,4,4,Enes Kanter,14,7,Kanter,N/A,0,Oklahoma City,0
+3,0,1,4,1,25,16,8,50,Dion,2,0,0,29,1,2,Dion Waiters,17,2,Waiters,N/A,3,Oklahoma City,1
+1,0,1,1,1,100,4,3,75,Cameron,1,1,100,21,0,2,Cameron Payne,8,1,Payne,N/A,0,Oklahoma City,1
+2,0,0,3,1,33,4,2,50,Randy,2,1,50,23,0,1,Randy Foye,6,0,Foye,N/A,1,Oklahoma City,2
+1,1,0,1,0,0,2,1,50,Anthony,0,0,0,8,0,1,Anthony Morrow,2,0,Morrow,N/A,0,Oklahoma City,0
+0,0,0,1,1,100,1,1,100,Josh,2,0,0,5,0,1,Josh Huestis,3,0,Huestis,N/A,0,Oklahoma City,1
+0,0,0,0,0,0,0,0,0,Nazr,2,2,100,4,0,1,Nazr Mohammed,2,0,Mohammed,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A

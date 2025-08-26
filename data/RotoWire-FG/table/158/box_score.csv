@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,8,0,0,0,7,5,71,Lavoy,0,0,0,38,4,3,Lavoy Allen,10,12,Allen,F,1,Indiana,1
+4,0,4,9,3,33,20,7,35,Paul,3,2,67,42,1,3,Paul George,19,5,George,F,4,Indiana,5
+1,1,4,0,0,0,5,3,60,Ian,1,1,100,26,3,2,Ian Mahinmi,7,7,Mahinmi,C,1,Indiana,1
+5,0,1,5,1,20,19,4,21,Monta,4,4,100,35,0,3,Monta Ellis,13,1,Ellis,G,2,Indiana,3
+3,0,3,5,3,60,15,8,53,George,1,1,100,39,4,0,George Hill,20,7,Hill,G,4,Indiana,2
+1,1,1,1,0,0,12,5,42,Rodney,5,3,60,31,1,2,Rodney Stuckey,13,2,Stuckey,N/A,1,Indiana,0
+3,2,2,2,0,0,7,3,43,Solomon,2,2,100,20,2,2,Solomon Hill,8,4,Hill,N/A,1,Indiana,0
+0,0,3,0,0,0,4,0,0,Chase,2,2,100,11,0,2,Chase Budinger,2,3,Budinger,N/A,0,Indiana,0
+1,3,4,0,0,0,8,2,25,Myles,6,4,67,22,1,4,Myles Turner,8,5,Turner,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Miles,N/A,N/A,Miles,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Glenn,N/A,N/A,N/A,N/A,N/A,N/A,Glenn Robinson,N/A,N/A,Robinson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+2,1,8,0,0,0,7,3,43,Taj,0,0,0,37,6,4,Taj Gibson,6,14,Gibson,F,2,Chicago,1
+1,1,4,1,0,0,2,0,0,Nikola,0,0,0,20,0,0,Nikola Mirotic,0,4,Mirotic,F,0,Chicago,1
+1,3,9,1,0,0,14,4,29,Pau,6,5,83,37,2,2,Pau Gasol,13,11,Gasol,C,0,Chicago,4
+4,1,4,3,1,33,16,8,50,Jimmy,13,11,85,44,0,3,Jimmy Butler,28,4,Butler,G,2,Chicago,2
+0,1,0,2,1,50,3,1,33,Kirk,0,0,0,13,0,1,Kirk Hinrich,3,0,Hinrich,G,0,Chicago,2
+5,0,0,7,4,57,20,11,55,Aaron,4,3,75,41,1,3,Aaron Brooks,29,1,Brooks,N/A,1,Chicago,6
+0,1,4,1,0,0,12,7,58,Bobby,2,2,100,26,3,2,Bobby Portis,16,7,Portis,N/A,1,Chicago,3
+0,2,6,2,0,0,6,1,17,Tony,0,0,0,27,1,2,Tony Snell,2,7,Snell,N/A,0,Chicago,1
+2,0,4,1,0,0,6,2,33,Doug,2,1,50,20,1,2,Doug McDermott,5,5,McDermott,N/A,0,Chicago,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano Felicio,N/A,N/A,Felicio,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun Moore,N/A,N/A,Moore,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Rose,N/A,N/A,Rose,N/A,N/A,Chicago,N/A

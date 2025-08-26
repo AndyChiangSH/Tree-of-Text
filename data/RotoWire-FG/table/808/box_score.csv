@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,1,7,7,3,43,25,12,48,Kevin,4,2,50,42,0,4,Kevin Durant,29,7,Durant,F,1,Golden State,6
+9,0,7,3,1,33,10,5,50,Draymond,6,4,67,38,4,2,Draymond Green,15,11,Green,F,4,Golden State,4
+2,0,4,0,0,0,5,5,100,Zaza,1,1,100,14,2,2,Zaza Pachulia,11,6,Pachulia,C,1,Golden State,1
+2,0,3,8,4,50,12,6,50,Klay,4,4,100,39,0,1,Klay Thompson,20,3,Thompson,G,1,Golden State,0
+7,0,5,9,3,33,20,9,45,Stephen,8,7,88,39,0,4,Stephen Curry,28,5,Curry,G,0,Golden State,5
+0,1,3,0,0,0,4,3,75,Jordan,0,0,0,12,1,1,Jordan Bell,6,4,Bell,N/A,2,Golden State,3
+3,1,4,1,0,0,4,1,25,Andre,0,0,0,35,2,2,Andre Iguodala,2,6,Iguodala,N/A,0,Golden State,0
+0,0,1,2,1,50,5,3,60,Nick,3,2,67,14,1,0,Nick Young,9,2,Young,N/A,0,Golden State,1
+2,0,0,0,0,0,1,0,0,Patrick,0,0,0,8,0,1,Patrick McCaw,0,0,McCaw,N/A,0,Golden State,0
+0,0,1,0,0,0,2,2,100,Shaun,2,1,50,10,0,2,Shaun Livingston,5,1,Livingston,N/A,1,Golden State,2
+0,1,2,0,0,0,6,1,17,Kevon,0,0,0,13,2,0,Kevon Looney,2,4,Looney,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omri,N/A,N/A,N/A,N/A,N/A,N/A,Omri Casspi,N/A,N/A,Casspi,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaVale,N/A,N/A,N/A,N/A,N/A,N/A,JaVale McGee,N/A,N/A,McGee,N/A,N/A,Golden State,N/A
+3,2,5,2,2,100,21,12,57,Brandon,7,6,86,44,0,5,Brandon Ingram,32,5,Ingram,F,3,Los Angeles,7
+5,1,4,0,0,0,2,0,0,Larry,0,0,0,22,0,0,Larry Nance Jr.,0,4,Nance,F,4,Los Angeles,0
+1,1,1,2,0,0,5,2,40,Brook,3,2,67,17,0,1,Brook Lopez,6,1,Lopez,C,1,Los Angeles,2
+0,0,5,8,2,25,18,7,39,Kentavious,6,5,83,42,2,3,Kentavious Caldwell-Pope,21,7,Caldwell-Pope,G,1,Los Angeles,2
+10,0,1,7,3,43,12,5,42,Lonzo,2,2,100,43,1,2,Lonzo Ball,15,2,Ball,G,1,Los Angeles,2
+8,0,3,4,2,50,19,9,47,Jordan,1,1,100,36,3,3,Jordan Clarkson,21,6,Clarkson,N/A,0,Los Angeles,1
+2,1,3,0,0,0,13,9,69,Julius,4,2,50,31,1,4,Julius Randle,20,4,Randle,N/A,0,Los Angeles,1
+1,0,2,0,0,0,1,1,100,Andrew,0,0,0,5,0,0,Andrew Bogut,2,2,Bogut,N/A,0,Los Angeles,0
+0,0,0,1,0,0,1,0,0,Corey,0,0,0,12,0,3,Corey Brewer,0,0,Brewer,N/A,2,Los Angeles,1
+0,0,3,0,0,0,3,2,67,Josh,2,2,100,13,0,2,Josh Hart,6,3,Hart,N/A,0,Los Angeles,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thomas,N/A,N/A,N/A,N/A,N/A,N/A,Thomas Bryant,N/A,N/A,Bryant,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ennis,N/A,N/A,Ennis,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ivica,N/A,N/A,N/A,N/A,N/A,N/A,Ivica Zubac,N/A,N/A,Zubac,N/A,N/A,Los Angeles,N/A

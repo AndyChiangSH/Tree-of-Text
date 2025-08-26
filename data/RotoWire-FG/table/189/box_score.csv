@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,2,3,0,0,8,3,38,Tony,2,2,100,23,0,0,Tony Snell,8,2,Snell,F,0,Chicago,0
+8,4,10,1,0,0,12,7,58,Pau,4,4,100,41,6,2,Pau Gasol,18,16,Gasol,F,0,Chicago,3
+6,0,8,0,0,0,12,7,58,Joakim,4,4,100,40,7,3,Joakim Noah,18,15,Noah,C,2,Chicago,2
+1,0,1,6,1,17,8,2,25,Kirk,0,0,0,38,1,2,Kirk Hinrich,5,2,Hinrich,G,2,Chicago,1
+1,1,5,12,4,33,33,13,39,Derrick,0,0,0,43,2,1,Derrick Rose,30,7,Rose,G,0,Chicago,11
+1,1,6,0,0,0,9,3,33,Taj,4,4,100,24,3,2,Taj Gibson,10,9,Gibson,N/A,0,Chicago,1
+0,0,1,1,0,0,2,1,50,E'Twaun,0,0,0,11,0,2,E'Twaun Moore,2,1,Moore,N/A,1,Chicago,0
+1,0,7,4,2,50,6,3,50,Nikola,5,4,80,31,0,5,Nikola Mirotic,12,7,Mirotic,N/A,1,Chicago,2
+1,0,2,2,1,50,8,3,38,Aaron,4,3,75,14,0,1,Aaron Brooks,10,2,Brooks,N/A,0,Chicago,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Doug,N/A,N/A,N/A,N/A,N/A,N/A,Doug McDermott,N/A,N/A,McDermott,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nazr,N/A,N/A,N/A,N/A,N/A,N/A,Nazr Mohammed,N/A,N/A,Mohammed,N/A,N/A,Chicago,N/A
+2,0,4,4,2,50,9,5,56,Harrison,2,0,0,40,1,1,Harrison Barnes,12,5,Barnes,F,1,Golden State,1
+6,2,5,6,1,17,14,4,29,Draymond,2,1,50,39,4,2,Draymond Green,10,9,Green,F,1,Golden State,2
+0,0,5,0,0,0,14,5,36,Marreese,0,0,0,21,3,1,Marreese Speights,10,8,Speights,C,0,Golden State,2
+2,0,7,10,4,40,27,13,48,Klay,1,0,0,44,3,2,Klay Thompson,30,10,Thompson,G,1,Golden State,4
+9,0,4,9,2,22,23,9,39,Stephen,1,1,100,43,0,3,Stephen Curry,21,4,Curry,G,3,Golden State,3
+6,0,5,0,0,0,17,10,59,David,4,4,100,30,4,4,David Lee,24,9,Lee,N/A,0,Golden State,0
+0,0,1,1,0,0,2,1,50,Justin,0,0,0,9,0,2,Justin Holiday,2,1,Holiday,N/A,0,Golden State,0
+3,0,1,3,0,0,4,0,0,Andre,2,0,0,27,0,0,Andre Iguodala,0,1,Iguodala,N/A,3,Golden State,1
+3,0,1,0,0,0,3,1,33,Shaun,0,0,0,10,0,0,Shaun Livingston,2,1,Livingston,N/A,0,Golden State,0
+0,0,0,0,0,0,0,0,0,James,0,0,0,1,0,0,James Michael McAdoo,0,0,Michael,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Leandro,N/A,N/A,N/A,N/A,N/A,N/A,Leandro Barbosa,N/A,N/A,Barbosa,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Bogut,N/A,N/A,Bogut,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Golden State,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,2,8,3,1,33,13,9,69,Giannis,4,4,100,35,0,5,Giannis Antetokounmpo,23,8,Antetokounmpo,F,2,Milwaukee,5
+4,1,10,7,2,29,20,10,50,Jabari,5,5,100,35,1,3,Jabari Parker,27,11,Parker,F,2,Milwaukee,3
+0,4,5,0,0,0,12,7,58,John,2,2,100,31,0,6,John Henson,16,5,Henson,C,1,Milwaukee,0
+0,0,0,1,0,0,3,1,33,Tony,3,2,67,19,0,2,Tony Snell,4,0,Snell,G,1,Milwaukee,0
+12,0,2,1,0,0,5,2,40,Matthew,0,0,0,31,2,1,Matthew Dellavedova,4,4,Dellavedova,G,1,Milwaukee,3
+1,1,1,3,1,33,4,2,50,Mirza,0,0,0,9,1,1,Mirza Teletovic,5,2,Teletovic,N/A,0,Milwaukee,2
+1,0,1,0,0,0,6,3,50,Greg,4,2,50,13,1,1,Greg Monroe,8,2,Monroe,N/A,0,Milwaukee,0
+1,2,2,4,3,75,4,3,75,Jason,0,0,0,26,0,1,Jason Terry,9,2,Terry,N/A,0,Milwaukee,1
+2,1,1,2,0,0,7,3,43,Malcolm,1,1,100,24,0,1,Malcolm Brogdon,7,1,Brogdon,N/A,2,Milwaukee,2
+0,1,2,1,0,0,7,3,43,Michael,4,2,50,14,1,2,Michael Beasley,8,3,Beasley,N/A,0,Milwaukee,1
+0,1,0,2,2,100,2,2,100,Thon,0,0,0,4,0,3,Thon Maker,6,0,Maker,N/A,0,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rashad,N/A,N/A,N/A,N/A,N/A,N/A,Rashad Vaughn,N/A,N/A,Vaughn,N/A,N/A,Milwaukee,N/A
+3,4,5,5,0,0,14,5,36,Wilson,17,13,77,41,3,4,Wilson Chandler,23,8,Chandler,F,2,Denver,2
+1,1,5,0,0,0,8,6,75,Kenneth,12,7,58,25,6,1,Kenneth Faried,19,11,Faried,F,0,Denver,1
+11,0,6,4,2,50,15,8,53,Nikola,2,2,100,32,6,0,Nikola Jokic,20,12,Jokic,C,1,Denver,2
+2,0,2,6,2,33,13,6,46,Gary,0,0,0,27,0,4,Gary Harris,14,2,Harris,G,2,Denver,1
+4,0,3,3,1,33,6,2,33,Jameer,2,1,50,30,0,1,Jameer Nelson,6,3,Nelson,G,0,Denver,1
+4,0,2,4,1,25,10,3,30,Will,4,2,50,25,0,0,Will Barton,9,2,Barton,N/A,2,Denver,3
+3,0,2,1,0,0,5,1,20,Emmanuel,0,0,0,18,1,0,Emmanuel Mudiay,2,3,Mudiay,N/A,0,Denver,0
+1,0,2,2,1,50,9,5,56,Jamal,7,7,100,21,1,0,Jamal Murray,18,3,Murray,N/A,1,Denver,3
+2,0,2,3,2,67,9,4,44,Darrell,0,0,0,17,1,3,Darrell Arthur,10,3,Arthur,N/A,0,Denver,1
+0,0,1,0,0,0,0,0,0,Juan,0,0,0,3,0,0,Juan Hernangomez,0,1,Hernangomez,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malik,N/A,N/A,N/A,N/A,N/A,N/A,Malik Beasley,N/A,N/A,Beasley,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jusuf,N/A,N/A,N/A,N/A,N/A,N/A,Jusuf Nurkic,N/A,N/A,Nurkic,N/A,N/A,Denver,N/A

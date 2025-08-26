@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,6,5,1,20,8,2,25,Mike,3,2,67,29,0,3,Mike Dunleavy,7,6,Dunleavy,F,0,Chicago,1
+1,0,2,0,0,0,7,3,43,Taj,2,2,100,22,3,4,Taj Gibson,8,5,Gibson,F,1,Chicago,2
+4,2,8,1,1,100,16,8,50,Pau,4,4,100,35,4,0,Pau Gasol,21,12,Gasol,C,0,Chicago,7
+4,1,6,5,4,80,12,8,67,E'Twaun,0,0,0,36,0,2,E'Twaun Moore,20,6,Moore,G,1,Chicago,3
+6,0,1,2,1,50,21,9,43,Derrick,2,2,100,36,2,0,Derrick Rose,21,3,Rose,G,0,Chicago,2
+2,0,2,1,0,0,4,1,25,Doug,2,2,100,22,0,1,Doug McDermott,4,2,McDermott,N/A,0,Chicago,0
+2,1,9,5,2,40,7,3,43,Nikola,0,0,0,28,1,3,Nikola Mirotic,8,10,Mirotic,N/A,2,Chicago,3
+1,1,1,3,2,67,8,5,63,Justin,0,0,0,21,1,3,Justin Holiday,12,2,Holiday,N/A,1,Chicago,3
+0,0,4,0,0,0,3,0,0,Bobby,0,0,0,11,0,2,Bobby Portis,0,4,Portis,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jimmy,N/A,N/A,N/A,N/A,N/A,N/A,Jimmy Butler,N/A,N/A,Butler,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano Felicio,N/A,N/A,Felicio,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Snell,N/A,N/A,Snell,N/A,N/A,Chicago,N/A
+2,2,6,5,4,80,15,10,67,Kawhi,5,5,100,39,1,1,Kawhi Leonard,29,7,Leonard,F,2,San Antonio,1
+1,1,9,0,0,0,19,10,53,LaMarcus,6,6,100,33,1,2,LaMarcus Aldridge,26,10,Aldridge,F,2,San Antonio,1
+4,0,2,0,0,0,7,3,43,Tim,3,1,33,28,1,1,Tim Duncan,7,3,Duncan,C,2,San Antonio,0
+1,0,1,2,0,0,6,2,33,Danny,0,0,0,24,1,2,Danny Green,4,2,Green,G,2,San Antonio,0
+12,0,4,1,0,0,16,10,63,Tony,1,0,0,32,0,1,Tony Parker,20,4,Parker,G,1,San Antonio,2
+4,0,0,5,1,20,9,2,22,Patty,0,0,0,17,0,0,Patty Mills,5,0,Mills,N/A,0,San Antonio,1
+2,0,1,2,0,0,6,2,33,Manu,0,0,0,20,0,1,Manu Ginobili,4,1,Ginobili,N/A,2,San Antonio,1
+0,0,2,1,0,0,2,1,50,Boris,0,0,0,3,1,0,Boris Diaw,2,3,Diaw,N/A,0,San Antonio,1
+1,1,2,0,0,0,8,3,38,David,2,2,100,19,4,3,David West,8,6,West,N/A,0,San Antonio,1
+2,0,4,1,1,100,4,1,25,Kyle,0,0,0,14,0,1,Kyle Anderson,3,4,Anderson,N/A,2,San Antonio,0
+0,0,0,0,0,0,0,0,0,Kevin,2,1,50,8,0,0,Kevin Martin,1,0,Martin,N/A,1,San Antonio,0
+0,0,0,0,0,0,0,0,0,Andre,0,0,0,3,0,0,Andre Miller,0,0,Miller,N/A,0,San Antonio,0
+0,0,0,0,0,0,1,0,0,Boban,0,0,0,1,0,0,Boban Marjanovic,0,0,Marjanovic,N/A,0,San Antonio,0

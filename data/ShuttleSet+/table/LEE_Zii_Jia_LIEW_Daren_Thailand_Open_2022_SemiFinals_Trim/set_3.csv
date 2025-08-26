@@ -1,0 +1,36 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,5,00:42:41,1,0,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+2,9,00:42:59,2,0,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+3,12,00:43:36,3,0,LEE Zii Jia,return net,hits the net,opponent hits the net
+4,11,00:44:07,3,1,LIEW Daren,return net,hits the net,opponent hits the net
+5,4,00:44:33,3,2,LIEW Daren,drop,hits the net,opponent hits the net
+6,22,00:45:13,3,3,LIEW Daren,net shot,hits the net,opponent hits the net
+7,3,00:45:42,4,3,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+8,4,00:46:07,5,3,LEE Zii Jia,wrist smash,hits the net,opponent hits the net
+9,3,00:46:24,6,3,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+10,5,00:46:48,7,3,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+11,10,00:47:11,8,3,LEE Zii Jia,return net,fails to clear the net,opponent fails to clear the net
+12,8,00:47:33,8,4,LIEW Daren,smash,opponent wins by landing,wins by landing
+13,3,00:48:04,9,4,LEE Zii Jia,clear,goes out of bounds,opponent goes out of bounds
+14,5,00:48:21,10,4,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+15,6,00:48:43,10,5,LIEW Daren,net shot,opponent wins by landing,wins by landing
+16,15,00:49:23,10,6,LIEW Daren,net shot,opponent wins by landing,wins by landing
+17,6,00:49:50,10,7,LIEW Daren,lob,goes out of bounds,opponent goes out of bounds
+18,5,00:50:13,11,7,LEE Zii Jia,return net,hits the net,opponent hits the net
+19,5,00:51:27,11,8,LIEW Daren,lob,goes out of bounds,opponent goes out of bounds
+20,8,00:51:46,12,8,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+21,14,00:52:24,13,8,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+22,10,00:52:48,14,8,LEE Zii Jia,net shot,hits the net,opponent hits the net
+23,5,00:53:08,15,8,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+24,8,00:53:40,16,8,LEE Zii Jia,wrist smash,hits the net,opponent hits the net
+25,11,00:54:06,17,8,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+26,4,00:54:38,17,9,LIEW Daren,smash,opponent wins by landing,wins by landing
+27,8,00:55:02,17,10,LIEW Daren,clear,goes out of bounds,opponent goes out of bounds
+28,18,00:55:46,17,11,LIEW Daren,clear,goes out of bounds,opponent goes out of bounds
+29,9,00:56:13,18,11,LEE Zii Jia,return net,fails to clear the net,opponent fails to clear the net
+30,2,00:56:44,18,12,LIEW Daren,lob,opponent wins by landing,wins by landing
+31,9,00:57:04,19,12,LEE Zii Jia,net shot,hits the net,opponent hits the net
+32,3,00:57:20,19,13,LIEW Daren,net shot,fails to clear the net,opponent fails to clear the net
+33,13,00:57:44,19,14,LIEW Daren,smash,opponent wins by landing,wins by landing
+34,5,00:58:38,20,14,LEE Zii Jia,push,hits the net,opponent hits the net
+35,9,00:58:58,21,14,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing

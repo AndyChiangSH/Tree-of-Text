@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,6,1,0,0,8,4,50,DeMarre,6,3,50,33,3,1,DeMarre Carroll,11,9,Carroll,F,2,Atlanta,1
+0,1,3,1,0,0,17,11,65,Paul,7,5,71,37,3,3,Paul Millsap,27,6,Millsap,F,1,Atlanta,4
+4,1,5,0,0,0,12,6,50,Al,4,1,25,33,0,5,Al Horford,13,5,Horford,C,0,Atlanta,3
+1,1,8,9,4,44,11,5,46,Kyle,0,0,0,36,0,1,Kyle Korver,14,8,Korver,G,1,Atlanta,0
+6,0,2,2,0,0,16,8,50,Jeff,6,6,100,35,1,0,Jeff Teague,22,3,Teague,G,2,Atlanta,1
+0,1,2,3,1,33,8,4,50,Pero,1,1,100,22,1,3,Pero Antic,10,3,Antic,N/A,0,Atlanta,1
+3,0,10,1,1,100,4,3,75,Thabo,6,6,100,28,2,2,Thabo Sefolosha,13,12,Sefolosha,N/A,2,Atlanta,2
+2,0,0,0,0,0,5,2,40,Dennis,1,1,100,13,0,0,Dennis Schroder,5,0,Schroder,N/A,1,Atlanta,2
+0,0,0,0,0,0,3,0,0,Mike,0,0,0,4,0,0,Mike Scott,0,0,Scott,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kent,N/A,N/A,N/A,N/A,N/A,N/A,Kent Bazemore,N/A,N/A,Bazemore,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elton,N/A,N/A,N/A,N/A,N/A,N/A,Elton Brand,N/A,N/A,Brand,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shelvin,N/A,N/A,N/A,N/A,N/A,N/A,Shelvin Mack,N/A,N/A,Mack,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Muscala,N/A,N/A,Muscala,N/A,N/A,Atlanta,N/A
+3,1,4,8,2,25,14,7,50,Nicolas,0,0,0,37,0,1,Nicolas Batum,16,4,Batum,F,2,Portland,3
+4,2,7,0,0,0,25,14,56,LaMarcus,2,2,100,39,5,1,LaMarcus Aldridge,30,12,Aldridge,F,1,Portland,4
+1,3,3,0,0,0,3,1,33,Joel,2,2,100,18,2,4,Joel Freeland,4,5,Freeland,C,0,Portland,0
+3,0,0,10,4,40,14,5,36,Wesley,5,5,100,34,1,2,Wesley Matthews,19,1,Matthews,G,1,Portland,0
+7,1,6,6,2,33,18,7,39,Damian,1,0,0,39,2,5,Damian Lillard,16,8,Lillard,G,0,Portland,2
+3,0,7,0,0,0,4,1,25,Chris,0,0,0,15,0,1,Chris Kaman,2,7,Kaman,N/A,0,Portland,3
+2,0,1,2,1,50,4,2,50,Steve,0,0,0,23,0,3,Steve Blake,5,1,Blake,N/A,0,Portland,3
+0,0,0,0,0,0,1,0,0,Allen,0,0,0,8,1,0,Allen Crabbe,0,1,Crabbe,N/A,0,Portland,0
+0,0,0,4,3,75,5,3,60,Dorell,2,1,50,10,0,4,Dorell Wright,10,0,Wright,N/A,1,Portland,1
+0,0,0,3,1,33,5,2,40,CJ,0,0,0,8,0,1,CJ McCollum,5,0,McCollum,N/A,1,Portland,0
+1,0,5,0,0,0,0,0,0,Thomas,0,0,0,10,0,1,Thomas Robinson,0,5,Robinson,N/A,0,Portland,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Will,N/A,N/A,N/A,N/A,N/A,N/A,Will Barton,N/A,N/A,Barton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Meyers,N/A,N/A,N/A,N/A,N/A,N/A,Meyers Leonard,N/A,N/A,Leonard,N/A,N/A,Portland,N/A

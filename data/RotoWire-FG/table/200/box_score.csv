@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,1,5,1,20,20,10,50,Andrew,11,8,73,37,0,2,Andrew Wiggins,29,1,Wiggins,F,1,Minnesota,3
+2,2,9,1,0,0,9,5,56,Gorgui,4,4,100,35,4,4,Gorgui Dieng,14,13,Dieng,F,0,Minnesota,1
+4,1,4,2,1,50,12,7,58,Karl-Anthony,2,0,0,37,2,5,Karl-Anthony Towns,15,6,Towns,C,2,Minnesota,1
+2,0,5,7,3,43,14,7,50,Zach,4,4,100,37,0,3,Zach LaVine,21,5,LaVine,G,0,Minnesota,1
+5,0,1,1,0,0,4,2,50,Ricky,1,1,100,28,0,3,Ricky Rubio,5,1,Rubio,G,3,Minnesota,1
+0,0,1,2,1,50,3,2,67,Brandon,0,0,0,12,0,0,Brandon Rush,5,1,Rush,N/A,0,Minnesota,0
+4,0,1,1,1,100,2,1,50,Kris,4,1,25,20,0,2,Kris Dunn,4,1,Dunn,N/A,0,Minnesota,1
+1,1,2,3,0,0,3,0,0,Nemanja,2,1,50,13,0,3,Nemanja Bjelica,1,2,Bjelica,N/A,0,Minnesota,2
+0,0,4,0,0,0,0,0,0,Cole,0,0,0,12,1,3,Cole Aldrich,0,5,Aldrich,N/A,0,Minnesota,1
+1,0,1,0,0,0,3,3,100,Shabazz,3,3,100,11,0,0,Shabazz Muhammad,9,1,Muhammad,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyus,N/A,N/A,N/A,N/A,N/A,N/A,Tyus Jones,N/A,N/A,Jones,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+2,2,4,0,0,0,20,11,55,Rudy,8,6,75,33,2,3,Rudy Gay,28,6,Gay,F,1,Sacramento,2
+4,0,2,2,0,0,16,9,56,DeMarcus,14,11,79,33,5,6,DeMarcus Cousins,29,7,Cousins,F,1,Sacramento,3
+0,0,4,0,0,0,5,2,40,Kosta,0,0,0,20,3,3,Kosta Koufos,4,7,Koufos,C,0,Sacramento,2
+2,1,0,4,1,25,6,2,33,Arron,0,0,0,30,0,2,Arron Afflalo,5,0,Afflalo,G,0,Sacramento,0
+5,0,1,5,2,40,10,3,30,Ty,0,0,0,34,0,2,Ty Lawson,8,1,Lawson,G,3,Sacramento,2
+0,0,0,0,0,0,3,2,67,Willie,0,0,0,8,0,1,Willie Cauley-Stein,4,0,Cauley-Stein,N/A,0,Sacramento,0
+0,1,0,3,1,33,3,1,33,Garrett,0,0,0,14,0,0,Garrett Temple,3,0,Temple,N/A,0,Sacramento,1
+0,0,0,4,2,50,10,5,50,Ben,1,1,100,18,0,1,Ben McLemore,13,0,McLemore,N/A,0,Sacramento,1
+9,1,5,6,3,50,10,4,40,Matt,2,1,50,27,0,4,Matt Barnes,12,5,Barnes,N/A,1,Sacramento,2
+2,0,1,1,0,0,1,0,0,Anthony,0,0,0,13,1,1,Anthony Tolliver,0,2,Tolliver,N/A,0,Sacramento,0
+0,0,3,1,0,0,1,0,0,Omri,0,0,0,10,0,1,Omri Casspi,0,3,Casspi,N/A,0,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darren,N/A,N/A,N/A,N/A,N/A,N/A,Darren Collison,N/A,N/A,Collison,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malachi,N/A,N/A,N/A,N/A,N/A,N/A,Malachi Richardson,N/A,N/A,Richardson,N/A,N/A,Sacramento,N/A

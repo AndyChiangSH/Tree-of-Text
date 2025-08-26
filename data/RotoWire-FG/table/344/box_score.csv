@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,3,1,33,12,6,50,Tobias,1,1,100,31,1,3,Tobias Harris,14,4,Harris,F,1,Detroit,3
+1,0,1,4,0,0,12,5,42,Marcus,5,4,80,32,2,0,Marcus Morris,14,3,Morris,F,0,Detroit,1
+0,1,9,0,0,0,12,4,33,Andre,4,0,0,26,8,4,Andre Drummond,8,17,Drummond,C,0,Detroit,1
+1,0,1,2,1,50,4,2,50,Kentavious,0,0,0,30,0,2,Kentavious Caldwell-Pope,5,1,Caldwell-Pope,G,2,Detroit,2
+7,0,1,1,1,100,10,4,40,Ish,0,0,0,25,0,4,Ish Smith,9,1,Smith,G,3,Detroit,2
+1,0,2,1,1,100,8,5,63,Jon,3,2,67,17,4,0,Jon Leuer,13,6,Leuer,N/A,0,Detroit,0
+4,0,1,1,0,0,10,3,30,Reggie,0,0,0,20,0,0,Reggie Jackson,6,1,Jackson,N/A,0,Detroit,3
+1,0,2,0,0,0,1,1,100,Aron,2,2,100,14,1,2,Aron Baynes,4,3,Baynes,N/A,0,Detroit,1
+0,0,2,3,1,33,4,1,25,Reggie,0,0,0,15,0,0,Reggie Bullock,3,2,Bullock,N/A,0,Detroit,1
+0,0,3,4,2,50,10,5,50,Stanley,0,0,0,16,0,2,Stanley Johnson,12,3,Johnson,N/A,0,Detroit,1
+0,0,2,0,0,0,3,3,100,Boban,2,1,50,8,0,0,Boban Marjanovic,7,2,Marjanovic,N/A,0,Detroit,0
+0,0,0,1,0,0,2,0,0,Darrun,0,0,0,3,0,0,Darrun Hilliard,0,0,Hilliard,N/A,0,Detroit,0
+0,0,1,0,0,0,0,0,0,Beno,0,0,0,3,0,0,Beno Udrih,0,1,Udrih,N/A,0,Detroit,0
+2,1,4,6,4,67,15,12,80,Nikola,0,0,0,39,1,1,Nikola Mirotic,28,5,Mirotic,F,3,Chicago,1
+2,0,3,2,1,50,9,6,67,Paul,3,2,67,29,1,3,Paul Zipser,15,4,Zipser,F,1,Chicago,1
+3,0,6,3,1,33,13,7,54,Joffrey,4,2,50,28,1,2,Joffrey Lauvergne,17,7,Lauvergne,C,1,Chicago,1
+12,0,3,0,0,0,6,6,100,Jimmy,4,4,100,34,2,1,Jimmy Butler,16,5,Butler,G,2,Chicago,0
+9,0,2,2,1,50,5,2,40,Rajon,0,0,0,28,0,3,Rajon Rondo,5,2,Rondo,G,1,Chicago,2
+2,0,3,4,2,50,9,3,33,Denzel,0,0,0,22,1,3,Denzel Valentine,8,4,Valentine,N/A,1,Chicago,3
+2,0,5,1,0,0,9,5,56,Bobby,5,2,40,23,1,5,Bobby Portis,12,6,Portis,N/A,0,Chicago,1
+1,1,1,3,1,33,4,2,50,Jerian,2,2,100,15,0,1,Jerian Grant,7,1,Grant,N/A,0,Chicago,0
+3,0,2,0,0,0,7,3,43,Michael,1,0,0,17,0,1,Michael Carter-Williams,6,2,Carter-Williams,N/A,3,Chicago,2
+0,0,0,1,0,0,1,0,0,Isaiah,0,0,0,3,0,0,Isaiah Canaan,0,0,Canaan,N/A,0,Chicago,0
+0,0,0,1,1,100,2,1,50,Anthony,0,0,0,3,0,0,Anthony Morrow,3,0,Morrow,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robin,N/A,N/A,N/A,N/A,N/A,N/A,Robin Lopez,N/A,N/A,Lopez,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Payne,N/A,N/A,Payne,N/A,N/A,Chicago,N/A

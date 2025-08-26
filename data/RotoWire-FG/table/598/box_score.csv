@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,4,3,0,0,6,2,33,Jae,0,0,0,24,1,3,Jae Crowder,4,5,Crowder,F,0,Boston,3
+2,1,2,1,0,0,2,1,50,Amir,0,0,0,15,0,4,Amir Johnson,2,2,Johnson,F,0,Boston,0
+5,3,2,7,2,29,20,9,45,Al,0,0,0,36,4,2,Al Horford,20,6,Horford,C,1,Boston,0
+0,0,3,3,1,33,12,5,42,Avery,2,2,100,33,0,3,Avery Bradley,13,3,Bradley,G,0,Boston,1
+3,0,2,9,2,22,20,9,45,Isaiah,10,9,90,32,0,3,Isaiah Thomas,29,2,Thomas,G,1,Boston,1
+5,0,6,6,3,50,9,3,33,Marcus,0,0,0,31,0,1,Marcus Smart,9,6,Smart,N/A,1,Boston,6
+1,0,3,2,1,50,2,1,50,Kelly,0,0,0,13,0,2,Kelly Olynyk,3,3,Olynyk,N/A,0,Boston,0
+0,0,3,2,1,50,3,2,67,Jonas,0,0,0,19,0,2,Jonas Jerebko,5,3,Jerebko,N/A,1,Boston,0
+1,0,2,1,0,0,1,0,0,Jaylen,2,0,0,13,0,0,Jaylen Brown,0,2,Brown,N/A,0,Boston,0
+2,0,3,4,2,50,8,5,63,Terry,0,0,0,16,1,0,Terry Rozier,12,4,Rozier,N/A,1,Boston,0
+1,0,3,0,0,0,1,1,100,Tyler,0,0,0,9,0,1,Tyler Zeller,2,3,Zeller,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Green,N/A,N/A,Green,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Young,N/A,N/A,Young,N/A,N/A,Boston,N/A
+1,0,4,5,0,0,18,5,28,Andrew,6,4,67,39,0,1,Andrew Wiggins,14,4,Wiggins,F,0,Minnesota,2
+3,1,4,0,0,0,16,10,63,Gorgui,2,0,0,40,6,3,Gorgui Dieng,20,10,Dieng,F,1,Minnesota,5
+3,2,12,4,2,50,19,11,58,Karl-Anthony,6,3,50,38,6,3,Karl-Anthony Towns,27,18,Towns,C,0,Minnesota,1
+4,1,3,7,0,0,12,4,33,Zach,3,3,100,38,0,2,Zach LaVine,11,3,LaVine,G,1,Minnesota,2
+9,0,4,4,1,25,7,1,14,Ricky,4,4,100,38,4,3,Ricky Rubio,7,8,Rubio,G,1,Minnesota,0
+1,0,2,2,0,0,4,1,25,Shabazz,0,0,0,16,0,3,Shabazz Muhammad,2,2,Muhammad,N/A,0,Minnesota,3
+0,0,3,0,0,0,2,1,50,Cole,0,0,0,8,0,1,Cole Aldrich,2,3,Aldrich,N/A,0,Minnesota,0
+2,0,1,0,0,0,2,0,0,Kris,0,0,0,10,0,1,Kris Dunn,0,1,Dunn,N/A,1,Minnesota,1
+0,0,1,2,1,50,5,3,60,Nemanja,4,3,75,10,0,1,Nemanja Bjelica,10,1,Bjelica,N/A,1,Minnesota,1
+0,0,1,0,0,0,1,0,0,Brandon,0,0,0,2,0,1,Brandon Rush,0,1,Rush,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyus,N/A,N/A,N/A,N/A,N/A,N/A,Tyus Jones,N/A,N/A,Jones,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A

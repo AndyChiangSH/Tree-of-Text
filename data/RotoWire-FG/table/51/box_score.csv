@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,2,6,0,0,0,9,7,78,Ed,0,0,0,33,4,2,Ed Davis,14,10,Davis,F,0,Portland,1
+0,1,7,3,1,33,13,6,46,Maurice,4,2,50,34,1,3,Maurice Harkless,15,8,Harkless,F,1,Portland,3
+4,1,5,0,0,0,5,4,80,Mason,3,1,33,28,4,1,Mason Plumlee,9,9,Plumlee,C,0,Portland,4
+6,0,5,6,2,33,18,8,44,Damian,4,4,100,35,0,1,Damian Lillard,22,5,Lillard,G,2,Portland,5
+5,0,4,3,1,33,17,6,35,CJ,3,3,100,36,1,2,CJ McCollum,16,5,McCollum,G,0,Portland,1
+0,0,2,3,1,33,7,1,14,Allen,5,4,80,23,1,1,Allen Crabbe,7,3,Crabbe,N/A,0,Portland,0
+1,0,1,7,1,14,9,2,22,Meyers,2,2,100,19,0,3,Meyers Leonard,7,1,Leonard,N/A,1,Portland,0
+2,0,1,0,0,0,8,4,50,Evan,3,3,100,24,0,0,Evan Turner,11,1,Turner,N/A,1,Portland,0
+0,1,2,0,0,0,0,0,0,Noah,2,2,100,6,0,0,Noah Vonleh,2,2,Vonleh,N/A,0,Portland,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Quarterman,N/A,N/A,Quarterman,N/A,N/A,Portland,N/A
+0,1,4,9,3,33,22,7,32,Carmelo,0,0,0,36,2,3,Carmelo Anthony,17,6,Anthony,F,1,New York,1
+1,1,6,8,3,38,23,13,56,Kristaps,2,2,100,40,3,4,Kristaps Porzingis,31,9,Porzingis,F,0,New York,2
+1,0,4,0,0,0,6,2,33,Kyle,0,0,0,24,1,2,Kyle O'Quinn,4,5,O'Quinn,C,1,New York,2
+3,1,3,4,0,0,8,2,25,Courtney,1,1,100,27,1,1,Courtney Lee,5,4,Lee,G,1,New York,1
+5,1,2,0,0,0,15,8,53,Derrick,2,2,100,28,2,4,Derrick Rose,18,4,Rose,G,2,New York,1
+0,0,4,0,0,0,5,4,80,Willy,1,1,100,21,0,3,Willy Hernangomez,9,4,Hernangomez,N/A,0,New York,4
+4,0,5,1,1,100,4,3,75,Justin,0,0,0,19,0,2,Justin Holiday,7,5,Holiday,N/A,0,New York,1
+0,1,0,0,0,0,1,0,0,Maurice,2,2,100,3,0,1,Maurice Ndour,2,0,Ndour,N/A,0,New York,0
+11,0,2,4,0,0,6,2,33,Brandon,0,0,0,22,1,1,Brandon Jennings,4,3,Jennings,N/A,2,New York,0
+1,0,3,3,2,67,6,4,67,Mindaugas,0,0,0,21,0,2,Mindaugas Kuzminskas,10,3,Kuzminskas,N/A,1,New York,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ron,N/A,N/A,N/A,N/A,N/A,N/A,Ron Baker,N/A,N/A,Baker,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marshall,N/A,N/A,N/A,N/A,N/A,N/A,Marshall Plumlee,N/A,N/A,Plumlee,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Vujacic,N/A,N/A,Vujacic,N/A,N/A,New York,N/A

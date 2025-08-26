@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,2,1,1,100,6,1,17,Justise,2,1,50,16,1,2,Justise Winslow,4,3,Winslow,F,3,Miami,0
+3,2,3,2,0,0,14,7,50,Josh,1,1,100,38,4,1,Josh Richardson,15,7,Richardson,F,4,Miami,1
+1,1,11,0,0,0,12,9,75,Hassan,6,1,17,34,5,6,Hassan Whiteside,19,16,Whiteside,C,1,Miami,5
+3,0,2,2,1,50,10,6,60,Tyler,2,2,100,28,0,1,Tyler Johnson,15,2,Johnson,G,0,Miami,0
+8,0,7,3,2,67,22,12,55,Goran,4,4,100,37,2,3,Goran Dragic,30,9,Dragic,G,1,Miami,1
+4,2,4,3,1,33,15,5,33,James,2,1,50,35,0,1,James Johnson,12,4,Johnson,N/A,2,Miami,2
+0,0,3,5,1,20,6,1,17,Wayne,3,3,100,26,0,1,Wayne Ellington,6,3,Ellington,N/A,1,Miami,1
+1,0,4,1,0,0,20,7,35,Dwyane,2,2,100,26,1,2,Dwyane Wade,16,5,Wade,N/A,0,Miami,2
+2,0,8,0,0,0,2,2,100,Bam,4,2,50,19,0,4,Bam Adebayo,6,8,Adebayo,N/A,0,Miami,1
+0,0,1,1,0,0,1,0,0,Luke,0,0,0,6,0,2,Luke Babbitt,0,1,Babbitt,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kelly,N/A,N/A,N/A,N/A,N/A,N/A,Kelly Olynyk,N/A,N/A,Olynyk,N/A,N/A,Miami,N/A
+2,0,3,4,1,25,10,4,40,E'Twaun,0,0,0,30,1,1,E'Twaun Moore,9,4,Moore,F,0,New Orleans,1
+2,5,13,6,1,17,34,17,50,Anthony,11,10,91,41,4,2,Anthony Davis,45,17,Davis,F,5,New Orleans,2
+1,5,5,0,0,0,4,1,25,Emeka,0,0,0,18,2,1,Emeka Okafor,2,7,Okafor,C,0,New Orleans,1
+9,0,4,3,1,33,20,11,55,Jrue,6,6,100,38,3,3,Jrue Holiday,29,7,Holiday,G,1,New Orleans,5
+8,0,2,1,0,0,8,2,25,Rajon,0,0,0,26,1,1,Rajon Rondo,4,3,Rondo,G,0,New Orleans,3
+1,1,8,7,2,29,10,4,40,Nikola,2,0,0,35,1,2,Nikola Mirotic,10,9,Mirotic,N/A,0,New Orleans,0
+1,0,2,5,0,0,5,0,0,Darius,3,3,100,25,0,3,Darius Miller,3,2,Miller,N/A,0,New Orleans,2
+1,1,3,5,3,60,11,9,82,Ian,0,0,0,38,1,5,Ian Clark,21,4,Clark,N/A,2,New Orleans,1
+1,1,3,0,0,0,3,0,0,Cheick,2,1,50,10,0,0,Cheick Diallo,1,3,Diallo,N/A,1,New Orleans,0
+1,0,0,0,0,0,3,0,0,Walter,0,0,0,4,0,0,Walter Lemon Jr.,0,0,Lemon,N/A,0,New Orleans,0
+0,0,0,0,0,0,0,0,0,DeAndre,0,0,0,0,0,0,DeAndre Liggins,0,0,Liggins,N/A,0,New Orleans,0

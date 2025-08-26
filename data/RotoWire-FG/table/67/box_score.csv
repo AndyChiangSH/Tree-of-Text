@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,3,3,2,67,8,3,38,E'Twaun,0,0,0,25,0,0,E'Twaun Moore,8,3,Moore,F,1,New Orleans,1
+3,0,4,1,0,0,17,9,53,Anthony,3,1,33,23,1,0,Anthony Davis,19,5,Davis,F,0,New Orleans,1
+1,2,6,0,0,0,7,2,29,Alexis,5,4,80,22,2,4,Alexis Ajinca,8,8,Ajinca,C,1,New Orleans,3
+1,0,5,4,3,75,10,4,40,Buddy,0,0,0,26,0,4,Buddy Hield,11,5,Hield,G,0,New Orleans,2
+1,1,4,7,1,14,15,5,33,Jrue,0,0,0,35,1,1,Jrue Holiday,11,5,Holiday,G,0,New Orleans,2
+1,1,5,2,0,0,14,7,50,Terrence,6,2,33,29,3,2,Terrence Jones,16,8,Jones,N/A,0,New Orleans,1
+3,0,0,5,1,20,10,3,30,Langston,1,0,0,21,1,2,Langston Galloway,7,1,Galloway,N/A,0,New Orleans,0
+1,0,0,2,0,0,4,0,0,Reggie,2,1,50,12,1,1,Reggie Williams,1,1,Williams,N/A,2,New Orleans,0
+5,0,2,3,2,67,8,3,38,Tim,1,1,100,25,2,1,Tim Frazier,9,4,Frazier,N/A,0,New Orleans,0
+1,1,5,0,0,0,5,4,80,Cheick,2,2,100,22,2,1,Cheick Diallo,10,7,Diallo,N/A,0,New Orleans,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omer,N/A,N/A,N/A,N/A,N/A,N/A,Omer Asik,N/A,N/A,Asik,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dante,N/A,N/A,N/A,N/A,N/A,N/A,Dante Cunningham,N/A,N/A,Cunningham,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Solomon,N/A,N/A,N/A,N/A,N/A,N/A,Solomon Hill,N/A,N/A,Hill,N/A,N/A,New Orleans,N/A
+1,0,5,14,5,36,18,7,39,Trevor,2,1,50,30,0,1,Trevor Ariza,20,5,Ariza,F,3,Houston,0
+0,0,3,8,2,25,11,3,27,Ryan,0,0,0,27,0,1,Ryan Anderson,8,3,Anderson,F,0,Houston,0
+0,2,9,0,0,0,6,4,67,Clint,2,0,0,22,2,6,Clint Capela,8,11,Capela,C,0,Houston,2
+8,0,5,8,3,38,10,5,50,Patrick,0,0,0,34,6,4,Patrick Beverley,13,11,Beverley,G,1,Houston,4
+13,0,9,12,6,50,15,7,47,James,11,9,82,34,2,2,James Harden,29,11,Harden,G,0,Houston,4
+1,1,1,12,7,58,17,10,59,Eric,2,2,100,28,0,1,Eric Gordon,29,1,Gordon,N/A,1,Houston,2
+1,0,1,0,0,0,3,1,33,Nene,0,0,0,10,2,0,Nene,2,3,N/A,N/A,1,Houston,1
+1,1,4,5,1,20,8,1,13,Sam,2,2,100,23,0,0,Sam Dekker,5,4,Dekker,N/A,1,Houston,0
+1,0,0,1,0,0,2,1,50,Corey,0,0,0,16,0,1,Corey Brewer,2,0,Brewer,N/A,0,Houston,1
+1,0,7,1,0,0,4,3,75,Montrezl,0,0,0,16,1,2,Montrezl Harrell,6,8,Harrell,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ennis,N/A,N/A,Ennis,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,KJ,N/A,N/A,N/A,N/A,N/A,N/A,KJ McDaniels,N/A,N/A,McDaniels,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Wiltjer,N/A,N/A,Wiltjer,N/A,N/A,Houston,N/A

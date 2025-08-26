@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,3,8,1,0,0,12,7,58,Aaron,9,6,67,32,4,3,Aaron Gordon,20,12,Gordon,F,1,Orlando,4
+0,1,5,3,2,67,8,3,38,Jonathan,2,0,0,28,1,0,Jonathan Isaac,8,6,Isaac,F,2,Orlando,1
+12,0,9,4,4,100,15,10,67,Nikola,3,3,100,38,4,2,Nikola Vucevic,27,13,Vucevic,C,2,Orlando,2
+3,0,4,10,6,60,23,12,52,Evan,1,1,100,34,0,3,Evan Fournier,31,4,Fournier,G,1,Orlando,1
+9,0,2,2,0,0,7,2,29,D.J.,5,5,100,35,1,0,D.J. Augustin,9,3,Augustin,G,0,Orlando,2
+2,0,3,5,3,60,14,5,36,Terrence,2,2,100,29,1,2,Terrence Ross,15,4,Ross,N/A,1,Orlando,0
+0,0,2,2,0,0,4,0,0,Wes,0,0,0,18,2,2,Wes Iwundu,0,4,Iwundu,N/A,0,Orlando,0
+2,3,0,2,1,50,4,2,50,Mo,0,0,0,14,1,2,Mo Bamba,5,1,Bamba,N/A,0,Orlando,1
+0,0,2,0,0,0,1,0,0,Jerian,0,0,0,7,0,0,Jerian Grant,0,2,Grant,N/A,0,Orlando,2
+0,0,0,0,0,0,2,0,0,Isaiah,0,0,0,6,0,1,Isaiah Briscoe,0,0,Briscoe,N/A,0,Orlando,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Khem,N/A,N/A,N/A,N/A,N/A,N/A,Khem Birch,N/A,N/A,Birch,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Melvin,N/A,N/A,N/A,N/A,N/A,N/A,Melvin Frazier Jr.,N/A,N/A,Frazier,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarell,N/A,N/A,N/A,N/A,N/A,N/A,Jarell Martin,N/A,N/A,Martin,N/A,N/A,Orlando,N/A
+1,1,4,5,3,60,7,4,57,Robert,1,1,100,39,0,3,Robert Covington,12,4,Covington,F,2,Philadelphia,2
+5,1,6,7,3,43,12,4,33,Dario,2,2,100,38,3,3,Dario Saric,13,9,Saric,F,1,Philadelphia,2
+3,0,6,5,3,60,26,13,50,Joel,4,3,75,34,4,2,Joel Embiid,32,10,Embiid,C,0,Philadelphia,0
+7,0,2,0,0,0,11,4,36,Markelle,0,0,0,23,2,5,Markelle Fultz,8,4,Fultz,G,1,Philadelphia,1
+4,0,0,0,0,0,3,2,67,Ben,0,0,0,8,0,2,Ben Simmons,4,0,Simmons,G,0,Philadelphia,0
+3,1,4,0,0,0,4,4,100,Amir,0,0,0,14,2,1,Amir Johnson,8,6,Johnson,N/A,1,Philadelphia,2
+4,0,4,0,0,0,7,4,57,T.J.,0,0,0,25,0,2,T.J. McConnell,8,4,McConnell,N/A,1,Philadelphia,2
+4,0,4,13,8,62,20,10,50,JJ,3,3,100,32,0,1,JJ Redick,31,4,Redick,N/A,1,Philadelphia,0
+2,0,2,3,0,0,4,0,0,Landry,0,0,0,21,2,0,Landry Shamet,0,4,Shamet,N/A,0,Philadelphia,1
+0,0,1,0,0,0,0,0,0,Furkan,0,0,0,6,0,2,Furkan Korkmaz,0,1,Korkmaz,N/A,1,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jonah,N/A,N/A,N/A,N/A,N/A,N/A,Jonah Bolden,N/A,N/A,Bolden,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shake,N/A,N/A,N/A,N/A,N/A,N/A,Shake Milton,N/A,N/A,Milton,N/A,N/A,Philadelphia,N/A

@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,4,6,1,17,10,3,30,Joe,6,4,67,34,1,2,Joe Harris,11,5,Harris,F,0,Brooklyn,3
+1,0,4,5,4,80,7,5,71,Rodions,2,2,100,21,2,4,Rodions Kurucs,16,6,Kurucs,F,1,Brooklyn,1
+2,1,5,0,0,0,6,5,83,Jarrett,16,10,62,30,7,2,Jarrett Allen,20,12,Allen,C,1,Brooklyn,1
+0,1,3,7,1,14,11,2,18,Allen,7,5,71,28,1,4,Allen Crabbe,10,4,Crabbe,G,1,Brooklyn,1
+6,0,2,12,3,25,23,6,26,D'Angelo,5,3,60,31,1,2,D'Angelo Russell,18,3,Russell,G,1,Brooklyn,1
+0,0,5,5,2,40,8,4,50,DeMarre,4,3,75,28,0,3,DeMarre Carroll,13,5,Carroll,N/A,2,Brooklyn,3
+7,1,6,7,4,57,14,7,50,Spencer,8,5,62,30,0,5,Spencer Dinwiddie,23,6,Dinwiddie,N/A,0,Brooklyn,2
+1,0,4,2,0,0,6,1,17,Caris,0,0,0,21,1,0,Caris LeVert,2,5,LeVert,N/A,1,Brooklyn,2
+2,0,6,0,0,0,1,0,0,Ed,6,1,17,18,2,1,Ed Davis,1,8,Davis,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jared,N/A,N/A,N/A,N/A,N/A,N/A,Jared Dudley,N/A,N/A,Dudley,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rondae,N/A,N/A,N/A,N/A,N/A,N/A,Rondae Hollis-Jefferson,N/A,N/A,Hollis-Jefferson,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Theo,N/A,N/A,N/A,N/A,N/A,N/A,Theo Pinson,N/A,N/A,Pinson,N/A,N/A,Brooklyn,N/A
+4,0,2,6,3,50,11,5,46,Taurean,0,0,0,29,1,5,Taurean Prince,13,3,Prince,F,1,Atlanta,1
+2,1,13,1,0,0,20,13,65,John,9,7,78,30,6,5,John Collins,33,19,Collins,F,1,Atlanta,2
+0,1,2,7,1,14,14,7,50,Alex,0,0,0,29,2,5,Alex Len,15,4,Len,C,0,Atlanta,1
+1,0,4,2,0,0,8,1,12,Kevin,2,2,100,24,1,4,Kevin Huerter,4,5,Huerter,G,0,Atlanta,1
+11,0,7,4,2,50,14,4,29,Trae,16,13,81,29,3,3,Trae Young,23,10,Young,G,1,Atlanta,2
+1,0,1,6,0,0,13,4,31,Vince,3,2,67,26,1,3,Vince Carter,10,2,Carter,N/A,3,Atlanta,0
+3,0,2,6,1,17,6,1,17,Jaylen,0,0,0,19,1,1,Jaylen Adams,3,3,Adams,N/A,0,Atlanta,1
+0,0,4,3,1,33,6,1,17,Kent,2,2,100,19,0,5,Kent Bazemore,5,4,Bazemore,N/A,0,Atlanta,1
+0,0,1,2,0,0,8,3,38,DeAndre',0,0,0,18,1,1,DeAndre' Bembry,6,2,Bembry,N/A,1,Atlanta,0
+0,0,0,1,0,0,1,0,0,Justin,0,0,0,4,0,0,Justin Anderson,0,0,Anderson,N/A,0,Atlanta,0
+0,0,1,2,0,0,2,0,0,BJ,0,0,0,6,0,3,BJ Johnson,0,1,Johnson,N/A,0,Atlanta,1
+0,0,2,1,0,0,2,0,0,Tyler,0,0,0,7,2,2,Tyler Zeller,0,4,Zeller,N/A,0,Atlanta,0

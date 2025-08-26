@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,0,0,0,4,0,0,Quincy,2,1,50,25,4,1,Quincy Acy,1,8,Acy,F,0,New York,1
+0,1,5,2,0,0,11,6,55,Carmelo,3,2,67,18,2,0,Carmelo Anthony,14,7,Anthony,F,0,New York,1
+1,1,1,0,0,0,3,3,100,Samuel,0,0,0,15,0,2,Samuel Dalembert,6,1,Dalembert,C,1,New York,2
+5,0,1,3,1,33,7,3,43,Jose,2,2,100,26,0,0,Jose Calderon,9,1,Calderon,G,0,New York,0
+5,0,5,4,0,0,10,2,20,Iman,4,3,75,30,1,5,Iman Shumpert,7,6,Shumpert,G,1,New York,2
+1,3,7,0,0,0,8,4,50,Amar'e,0,0,0,26,1,5,Amar'e Stoudemire,8,8,Stoudemire,N/A,1,New York,4
+3,0,3,1,0,0,5,4,80,Shane,0,0,0,22,0,2,Shane Larkin,8,3,Larkin,N/A,3,New York,1
+1,0,0,0,0,0,3,1,33,Jason,2,1,50,11,0,1,Jason Smith,3,0,Smith,N/A,0,New York,2
+2,0,3,3,2,67,6,3,50,JR,0,0,0,19,0,2,JR Smith,8,3,Smith,N/A,1,New York,2
+1,0,0,4,1,25,7,2,29,Tim,0,0,0,15,0,0,Tim Hardaway Jr.,5,0,Hardaway,N/A,0,New York,0
+2,0,1,1,0,0,7,4,57,Travis,2,1,50,17,1,1,Travis Wear,9,2,Wear,N/A,0,New York,0
+1,0,1,4,2,50,5,3,60,Pablo,0,0,0,17,0,1,Pablo Prigioni,8,1,Prigioni,N/A,1,New York,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,New York,N/A
+3,0,4,6,2,33,10,3,30,Trevor,2,2,100,42,1,3,Trevor Ariza,10,5,Ariza,F,3,Houston,2
+0,1,7,2,1,50,12,6,50,Donatas,0,0,0,32,1,3,Donatas Motiejunas,13,8,Motiejunas,F,1,Houston,1
+0,0,3,0,0,0,5,3,60,Tarik,2,1,50,17,2,1,Tarik Black,7,5,Black,C,1,Houston,1
+6,1,5,12,7,58,22,11,50,James,7,7,100,40,1,2,James Harden,36,6,Harden,G,3,Houston,5
+3,0,0,5,1,20,8,2,25,Isaiah,2,2,100,26,0,4,Isaiah Canaan,7,0,Canaan,G,1,Houston,1
+3,2,3,3,0,0,6,2,33,Kostas,2,0,0,25,2,1,Kostas Papanikolaou,4,5,Papanikolaou,N/A,1,Houston,5
+0,0,1,0,0,0,2,0,0,Joey,4,1,25,13,2,3,Joey Dorsey,1,3,Dorsey,N/A,1,Houston,0
+3,0,2,3,1,33,4,2,50,Francisco,0,0,0,23,1,2,Francisco Garcia,5,3,Garcia,N/A,1,Houston,0
+1,0,3,5,2,40,7,3,43,Jason,0,0,0,22,0,0,Jason Terry,8,3,Terry,N/A,1,Houston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Daniels,N/A,N/A,Daniels,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwight,N/A,N/A,N/A,N/A,N/A,N/A,Dwight Howard,N/A,N/A,Howard,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Johnson,N/A,N/A,Johnson,N/A,N/A,Houston,N/A

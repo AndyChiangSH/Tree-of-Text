@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,2,4,2,0,0,7,0,0,Jerami,6,4,67,30,2,3,Jerami Grant,4,6,Grant,F,0,Philadelphia,1
+2,0,5,0,0,0,9,4,44,Nerlens,4,2,50,30,3,5,Nerlens Noel,10,8,Noel,F,2,Philadelphia,2
+1,3,9,0,0,0,20,8,40,Jahlil,0,0,0,34,2,2,Jahlil Okafor,16,11,Okafor,C,0,Philadelphia,3
+2,1,1,7,2,29,8,3,38,Nik,0,0,0,25,0,1,Nik Stauskas,8,1,Stauskas,G,0,Philadelphia,0
+5,0,3,1,0,0,6,3,50,TJ,0,0,0,30,2,4,TJ McConnell,6,5,McConnell,G,2,Philadelphia,5
+0,1,6,6,3,50,11,6,55,Robert,7,6,86,32,0,5,Robert Covington,21,6,Covington,N/A,2,Philadelphia,1
+2,0,0,12,5,42,17,7,41,Isaiah,3,3,100,28,0,2,Isaiah Canaan,22,0,Canaan,N/A,1,Philadelphia,2
+1,1,3,3,0,0,4,0,0,Hollis,0,0,0,21,1,5,Hollis Thompson,0,4,Thompson,N/A,0,Philadelphia,1
+0,0,2,0,0,0,0,0,0,JaKarr,4,4,100,10,0,3,JaKarr Sampson,4,2,Sampson,N/A,0,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Carl,N/A,N/A,N/A,N/A,N/A,N/A,Carl Landry,N/A,N/A,Landry,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Phil,N/A,N/A,N/A,N/A,N/A,N/A,Phil Pressey,N/A,N/A,Pressey,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Christian,N/A,N/A,N/A,N/A,N/A,N/A,Christian Wood,N/A,N/A,Wood,N/A,N/A,Philadelphia,N/A
+4,0,2,5,2,40,7,4,57,Luol,2,1,50,25,0,0,Luol Deng,11,2,Deng,F,0,Miami,1
+1,3,9,5,2,40,11,3,27,Chris,8,5,63,35,2,3,Chris Bosh,13,11,Bosh,F,1,Miami,2
+0,8,7,0,0,0,7,4,57,Hassan,8,5,63,29,2,1,Hassan Whiteside,13,9,Whiteside,C,1,Miami,3
+4,1,5,1,0,0,17,8,47,Dwyane,13,11,85,36,2,3,Dwyane Wade,27,7,Wade,G,3,Miami,1
+4,0,5,0,0,0,7,3,43,Goran,0,0,0,26,2,4,Goran Dragic,6,7,Dragic,G,1,Miami,3
+1,0,4,1,1,100,4,4,100,Justise,3,2,67,23,1,3,Justise Winslow,11,5,Winslow,N/A,0,Miami,3
+1,0,0,2,0,0,6,2,33,Tyler,1,0,0,17,0,1,Tyler Johnson,4,0,Johnson,N/A,0,Miami,1
+0,1,1,3,0,0,5,0,0,Gerald,8,6,75,23,0,3,Gerald Green,6,1,Green,N/A,0,Miami,0
+1,1,2,1,0,0,3,1,33,Josh,2,1,50,14,0,1,Josh McRoberts,3,2,McRoberts,N/A,1,Miami,0
+0,0,0,0,0,0,1,0,0,Josh,0,0,0,4,0,0,Josh Richardson,0,0,Richardson,N/A,0,Miami,1
+0,0,1,0,0,0,1,1,100,Beno,0,0,0,6,0,0,Beno Udrih,2,1,Udrih,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Andersen,N/A,N/A,Andersen,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A

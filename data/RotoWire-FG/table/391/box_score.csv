@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,5,4,1,25,11,4,36,Maurice,3,2,67,31,4,4,Maurice Harkless,11,9,Harkless,F,1,Portland,2
+0,1,5,0,0,0,3,2,67,Ed,2,1,50,30,2,5,Ed Davis,5,7,Davis,F,1,Portland,0
+2,2,4,0,0,0,9,4,44,Mason,2,2,100,23,1,1,Mason Plumlee,10,5,Plumlee,C,2,Portland,1
+5,0,1,7,4,57,19,10,53,CJ,0,0,0,30,1,2,CJ McCollum,24,2,McCollum,G,0,Portland,2
+7,3,3,6,3,50,24,11,46,Damian,5,5,100,34,0,2,Damian Lillard,30,3,Lillard,G,2,Portland,0
+4,0,2,1,0,0,6,5,83,Evan,0,0,0,29,0,2,Evan Turner,10,2,Turner,N/A,0,Portland,2
+1,0,3,4,1,25,15,7,47,Allen,2,2,100,33,2,3,Allen Crabbe,17,5,Crabbe,N/A,2,Portland,0
+2,1,3,0,0,0,3,1,33,Al-Farouq,4,1,25,17,0,2,Al-Farouq Aminu,3,3,Aminu,N/A,1,Portland,0
+2,0,2,2,0,0,3,1,33,Meyers,0,0,0,12,0,6,Meyers Leonard,2,2,Leonard,N/A,0,Portland,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Noah,N/A,N/A,N/A,N/A,N/A,N/A,Noah Vonleh,N/A,N/A,Vonleh,N/A,N/A,Portland,N/A
+5,2,5,4,2,50,16,8,50,Jimmy,8,8,100,37,2,1,Jimmy Butler,26,7,Butler,F,1,Chicago,2
+1,2,5,0,0,0,6,4,67,Taj,1,0,0,27,1,2,Taj Gibson,8,6,Gibson,F,0,Chicago,2
+2,2,7,0,0,0,6,2,33,Robin,4,3,75,33,7,0,Robin Lopez,7,14,Lopez,C,0,Chicago,1
+3,2,2,3,1,33,23,11,48,Dwyane,13,11,85,36,2,3,Dwyane Wade,34,4,Wade,G,1,Chicago,4
+1,0,3,4,1,25,7,1,14,Jerian,2,2,100,23,0,3,Jerian Grant,5,3,Grant,G,1,Chicago,1
+2,0,1,3,0,0,11,4,36,Isaiah,2,2,100,29,3,3,Isaiah Canaan,10,4,Canaan,N/A,2,Chicago,2
+0,2,7,4,3,75,8,4,50,Nikola,8,7,88,27,0,3,Nikola Mirotic,18,7,Mirotic,N/A,2,Chicago,2
+0,0,4,5,0,0,6,1,17,Denzel,0,0,0,22,0,2,Denzel Valentine,2,4,Valentine,N/A,0,Chicago,1
+2,1,1,0,0,0,0,0,0,Bobby,0,0,0,6,0,0,Bobby Portis,0,1,Portis,N/A,1,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano Felicio,N/A,N/A,Felicio,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rajon,N/A,N/A,N/A,N/A,N/A,N/A,Rajon Rondo,N/A,N/A,Rondo,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Zipser,N/A,N/A,Zipser,N/A,N/A,Chicago,N/A

@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,4,1,25,15,7,47,E'Twaun,2,2,100,38,3,1,E'Twaun Moore,17,4,Moore,F,0,New Orleans,1
+1,0,10,0,0,0,19,9,47,Anthony,8,8,100,37,5,2,Anthony Davis,26,15,Davis,F,2,New Orleans,4
+0,0,0,0,0,0,1,0,0,Emeka,0,0,0,4,1,0,Emeka Okafor,0,1,Okafor,C,0,New Orleans,0
+3,1,4,5,2,40,18,11,61,Jrue,3,1,33,36,0,4,Jrue Holiday,25,4,Holiday,G,0,New Orleans,2
+12,0,6,4,1,25,14,6,43,Rajon,1,0,0,32,2,2,Rajon Rondo,13,8,Rondo,G,1,New Orleans,1
+1,0,2,5,2,40,9,5,56,Nikola,1,1,100,20,0,3,Nikola Mirotic,13,2,Mirotic,N/A,1,New Orleans,2
+4,0,3,3,0,0,10,5,50,Ian,0,0,0,22,1,1,Ian Clark,10,4,Clark,N/A,1,New Orleans,1
+3,0,3,5,3,60,8,4,50,Darius,0,0,0,33,0,1,Darius Miller,11,3,Miller,N/A,1,New Orleans,0
+1,2,2,0,0,0,3,2,67,Cheick,0,0,0,12,0,2,Cheick Diallo,4,2,Diallo,N/A,1,New Orleans,1
+0,0,0,0,0,0,2,1,50,Walter,0,0,0,5,0,1,Walter Lemon Jr.,2,0,Lemon,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre Liggins,N/A,N/A,Liggins,N/A,N/A,New Orleans,N/A
+2,1,4,0,0,0,6,2,33,Kyle,0,0,0,28,4,1,Kyle Anderson,4,8,Anderson,F,1,San Antonio,0
+0,0,1,0,0,0,8,4,50,LaMarcus,0,0,0,13,2,1,LaMarcus Aldridge,8,3,Aldridge,F,0,San Antonio,0
+3,1,2,2,2,100,3,2,67,Davis,3,1,33,17,1,2,Davis Bertans,7,3,Bertans,C,1,San Antonio,0
+2,1,3,6,1,17,10,4,40,Patty,2,2,100,37,0,0,Patty Mills,11,3,Mills,G,0,San Antonio,1
+5,1,9,1,1,100,15,8,53,Dejounte,1,1,100,31,0,3,Dejounte Murray,18,9,Murray,G,1,San Antonio,2
+0,0,5,5,2,40,8,3,38,Danny,0,0,0,27,0,1,Danny Green,8,5,Green,N/A,2,San Antonio,0
+4,3,4,6,2,33,15,7,47,Rudy,4,3,75,24,1,1,Rudy Gay,19,5,Gay,N/A,1,San Antonio,2
+1,0,0,1,0,0,9,5,56,Tony,0,0,0,17,1,1,Tony Parker,10,1,Parker,N/A,0,San Antonio,0
+1,1,3,0,0,0,9,6,67,Joffrey,2,2,100,19,4,2,Joffrey Lauvergne,14,7,Lauvergne,N/A,0,San Antonio,1
+3,1,2,4,1,25,13,7,54,Manu,2,2,100,20,0,3,Manu Ginobili,17,2,Ginobili,N/A,1,San Antonio,5
+2,0,1,1,0,0,3,0,0,Bryn,0,0,0,8,0,0,Bryn Forbes,0,1,Forbes,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Paul,N/A,N/A,Paul,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick White,N/A,N/A,White,N/A,N/A,San Antonio,N/A

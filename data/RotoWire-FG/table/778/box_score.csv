@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,5,2,0,0,12,7,58,David,3,2,67,35,0,3,David Nwaba,16,5,Nwaba,F,2,Chicago,0
+3,0,7,4,3,75,10,5,50,Lauri,0,0,0,29,2,1,Lauri Markkanen,13,9,Markkanen,F,0,Chicago,2
+2,1,7,0,0,0,11,5,46,Robin,1,1,100,29,3,2,Robin Lopez,11,10,Lopez,C,0,Chicago,2
+1,0,2,6,2,33,12,7,58,Justin,3,3,100,29,0,1,Justin Holiday,19,2,Holiday,G,2,Chicago,1
+6,0,4,0,0,0,6,1,17,Jerian,5,5,100,22,1,0,Jerian Grant,7,5,Grant,G,0,Chicago,1
+2,0,2,5,3,60,9,4,44,Kris,0,0,0,24,0,3,Kris Dunn,11,2,Dunn,N/A,0,Chicago,4
+2,0,4,5,2,40,10,4,40,Paul,0,0,0,22,0,0,Paul Zipser,10,4,Zipser,N/A,0,Chicago,2
+4,0,4,6,3,50,8,4,50,Denzel,0,0,0,23,0,1,Denzel Valentine,11,4,Valentine,N/A,1,Chicago,0
+1,0,4,0,0,0,4,2,50,Cristiano,0,0,0,19,3,1,Cristiano Felicio,4,7,Felicio,N/A,0,Chicago,2
+1,0,0,1,1,100,2,1,50,Quincy,0,0,0,6,0,1,Quincy Pondexter,3,0,Pondexter,N/A,1,Chicago,0
+0,0,0,0,0,0,1,0,0,Kay,0,0,0,2,0,0,Kay Felder,0,0,Felder,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Portis,N/A,N/A,Portis,N/A,N/A,Chicago,N/A
+3,0,5,5,1,20,17,9,53,Evan,2,2,100,34,0,3,Evan Fournier,21,5,Fournier,F,1,Orlando,3
+2,0,6,5,3,60,10,4,40,Aaron,0,0,0,29,1,2,Aaron Gordon,11,7,Gordon,F,1,Orlando,2
+2,0,3,3,2,67,11,6,55,Nikola,0,0,0,29,0,2,Nikola Vucevic,14,3,Vucevic,C,1,Orlando,5
+0,0,2,3,1,33,7,2,29,Terrence,0,0,0,27,1,0,Terrence Ross,5,3,Ross,G,1,Orlando,0
+8,0,4,3,0,0,8,1,12,Shelvin,0,0,0,21,1,2,Shelvin Mack,2,5,Mack,G,1,Orlando,1
+3,1,3,3,0,0,6,3,50,Jonathon,1,0,0,25,0,0,Jonathon Simmons,6,3,Simmons,N/A,0,Orlando,3
+1,0,2,2,0,0,10,4,40,Jonathan,0,0,0,21,0,1,Jonathan Isaac,8,2,Isaac,N/A,0,Orlando,1
+0,1,3,0,0,0,1,0,0,Bismack,2,1,50,12,1,1,Bismack Biyombo,1,4,Biyombo,N/A,1,Orlando,0
+0,0,1,3,0,0,5,1,20,Arron,0,0,0,18,0,0,Arron Afflalo,2,1,Afflalo,N/A,0,Orlando,0
+2,0,2,4,2,50,5,3,60,Mario,0,0,0,10,1,0,Mario Hezonja,8,3,Hezonja,N/A,0,Orlando,0
+1,0,0,0,0,0,2,1,50,Wes,0,0,0,7,1,0,Wes Iwundu,2,1,Iwundu,N/A,0,Orlando,0
+1,0,0,4,1,25,4,1,25,Marreese,0,0,0,7,1,0,Marreese Speights,3,1,Speights,N/A,0,Orlando,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,D.J.,N/A,N/A,N/A,N/A,N/A,N/A,D.J. Augustin,N/A,N/A,Augustin,N/A,N/A,Orlando,N/A

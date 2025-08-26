@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,5,5,1,20,6,1,17,Nicolas,7,7,100,37,0,0,Nicolas Batum,10,5,Batum,F,1,Charlotte,1
+1,0,7,8,3,38,10,5,50,Marvin,2,1,50,29,0,2,Marvin Williams,14,7,Williams,F,1,Charlotte,0
+0,2,2,0,0,0,2,2,100,Bismack,0,0,0,15,4,1,Bismack Biyombo,4,6,Biyombo,C,0,Charlotte,1
+0,0,5,2,1,50,18,7,39,Jeremy,1,1,100,29,1,3,Jeremy Lamb,16,6,Lamb,G,0,Charlotte,0
+5,1,2,6,1,17,18,6,33,Kemba,0,0,0,31,2,2,Kemba Walker,13,4,Walker,G,1,Charlotte,2
+2,0,4,0,0,0,4,1,25,Willy,3,3,100,14,2,1,Willy Hernangomez,5,6,Hernangomez,N/A,0,Charlotte,2
+0,0,1,1,1,100,5,2,40,Michael,4,3,75,19,0,3,Michael Kidd-Gilchrist,8,1,Kidd-Gilchrist,N/A,1,Charlotte,0
+2,0,1,2,1,50,4,1,25,Devonte',0,0,0,13,0,4,Devonte' Graham,3,1,Graham,N/A,1,Charlotte,0
+4,0,0,0,0,0,7,4,57,Tony,6,4,67,15,1,0,Tony Parker,12,1,Parker,N/A,0,Charlotte,3
+2,1,5,2,0,0,2,0,0,Miles,0,0,0,14,0,3,Miles Bridges,0,5,Bridges,N/A,0,Charlotte,1
+0,0,1,7,4,57,14,7,50,Malik,6,6,100,21,0,1,Malik Monk,24,1,Monk,N/A,0,Charlotte,1
+0,0,0,0,0,0,0,0,0,Dwayne,0,0,0,4,0,0,Dwayne Bacon,0,0,Bacon,N/A,0,Charlotte,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Frank,N/A,N/A,N/A,N/A,N/A,N/A,Frank Kaminsky,N/A,N/A,Kaminsky,N/A,N/A,Charlotte,N/A
+3,0,6,7,4,57,18,9,50,Tobias,1,1,100,32,0,2,Tobias Harris,23,6,Harris,F,0,LA,1
+4,1,5,7,4,57,12,8,67,Danilo,0,0,0,31,0,3,Danilo Gallinari,20,5,Gallinari,F,1,LA,1
+0,2,4,0,0,0,4,2,50,Marcin,0,0,0,13,2,2,Marcin Gortat,4,6,Gortat,C,0,LA,1
+1,1,1,3,2,67,9,3,33,Avery,2,2,100,29,0,2,Avery Bradley,10,1,Bradley,G,0,LA,1
+2,4,3,0,0,0,6,3,50,Shai,2,2,100,21,0,2,Shai Gilgeous-Alexander,8,3,Gilgeous-Alexander,G,3,LA,2
+5,0,8,1,0,0,13,9,69,Montrezl,7,5,71,30,3,4,Montrezl Harrell,23,11,Harrell,N/A,2,LA,1
+10,1,3,3,2,67,14,9,64,Lou,7,7,100,25,0,1,Lou Williams,27,3,Williams,N/A,0,LA,0
+2,0,5,4,2,50,4,2,50,Patrick,0,0,0,22,0,3,Patrick Beverley,6,5,Beverley,N/A,0,LA,2
+0,2,2,2,0,0,5,0,0,Tyrone,0,0,0,18,0,4,Tyrone Wallace,0,2,Wallace,N/A,0,LA,0
+1,0,1,2,0,0,3,1,33,Mike,2,1,50,13,1,1,Mike Scott,3,2,Scott,N/A,0,LA,1
+0,0,0,1,0,0,3,1,33,Sindarius,0,0,0,3,1,0,Sindarius Thornwell,2,1,Thornwell,N/A,0,LA,0
+0,0,0,0,0,0,2,1,50,Johnathan,0,0,0,4,0,0,Johnathan Motley,2,0,Motley,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,LA,N/A

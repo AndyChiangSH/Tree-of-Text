@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,3,3,0,0,7,2,29,Mike,0,0,0,23,0,1,Mike Dunleavy,4,3,Dunleavy,F,0,Chicago,0
+1,2,12,0,0,0,12,9,75,Pau,8,7,88,33,1,2,Pau Gasol,25,13,Gasol,F,1,Chicago,2
+3,1,8,1,0,0,3,1,33,Joakim,4,1,25,32,2,5,Joakim Noah,3,10,Noah,C,1,Chicago,5
+5,0,4,3,1,33,12,7,58,Jimmy,13,11,85,39,0,1,Jimmy Butler,26,4,Butler,G,1,Chicago,0
+2,0,5,7,2,29,12,5,42,Derrick,3,2,67,26,1,1,Derrick Rose,14,6,Rose,G,0,Chicago,4
+2,1,0,2,1,50,4,2,50,Kirk,0,0,0,19,0,5,Kirk Hinrich,5,0,Hinrich,N/A,1,Chicago,0
+1,1,10,3,1,33,5,3,60,Nikola,5,5,100,27,2,5,Nikola Mirotic,12,12,Mirotic,N/A,1,Chicago,3
+3,0,0,5,2,40,11,4,36,Aaron,1,1,100,22,1,3,Aaron Brooks,11,1,Brooks,N/A,0,Chicago,5
+0,0,0,0,0,0,1,0,0,Doug,0,0,0,6,0,0,Doug McDermott,0,0,McDermott,N/A,0,Chicago,0
+0,0,0,0,0,0,0,0,0,Tony,0,0,0,6,0,1,Tony Snell,0,0,Snell,N/A,1,Chicago,0
+0,0,1,0,0,0,0,0,0,E'Twaun,0,0,0,2,0,0,E'Twaun Moore,0,1,Moore,N/A,0,Chicago,0
+0,0,0,0,0,0,2,1,50,Nazr,0,0,0,3,0,0,Nazr Mohammed,2,0,Mohammed,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+1,0,4,3,0,0,7,1,14,Joe,2,1,50,28,0,3,Joe Johnson,3,4,Johnson,F,1,Brooklyn,3
+3,0,7,0,0,0,7,3,43,Kevin,1,1,100,24,0,1,Kevin Garnett,7,7,Garnett,F,3,Brooklyn,0
+0,0,2,0,0,0,11,5,46,Brook,1,1,100,22,0,5,Brook Lopez,11,2,Lopez,C,0,Brooklyn,0
+2,0,3,4,1,25,12,6,50,Bojan,0,0,0,31,2,2,Bojan Bogdanovic,13,5,Bogdanovic,G,1,Brooklyn,1
+3,0,1,1,0,0,12,3,25,Deron,4,4,100,34,0,0,Deron Williams,10,1,Williams,G,1,Brooklyn,2
+0,0,1,0,0,0,5,2,40,Mason,10,5,50,16,2,3,Mason Plumlee,9,3,Plumlee,N/A,0,Brooklyn,1
+4,0,3,1,0,0,13,5,39,Jarrett,2,2,100,27,1,0,Jarrett Jack,12,4,Jack,N/A,1,Brooklyn,0
+0,0,2,3,0,0,6,1,17,Mirza,2,2,100,16,1,2,Mirza Teletovic,4,3,Teletovic,N/A,0,Brooklyn,2
+0,0,1,1,1,100,3,2,67,Alan,0,0,0,12,0,5,Alan Anderson,5,1,Anderson,N/A,1,Brooklyn,0
+1,0,1,1,0,0,2,0,0,Cory,0,0,0,7,1,1,Cory Jefferson,0,2,Jefferson,N/A,0,Brooklyn,0
+2,0,2,0,0,0,4,2,50,Jerome,0,0,0,13,0,3,Jerome Jordan,4,2,Jordan,N/A,1,Brooklyn,1
+0,0,0,0,0,0,1,0,0,Sergey,0,0,0,4,0,0,Sergey Karasev,0,0,Karasev,N/A,0,Brooklyn,0
+0,0,0,0,0,0,3,2,67,Jorge,2,2,100,4,0,0,Jorge Gutierrez,6,0,Gutierrez,N/A,0,Brooklyn,0

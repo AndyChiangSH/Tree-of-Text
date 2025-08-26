@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,5,6,3,50,25,12,48,Carmelo,4,2,50,35,1,2,Carmelo Anthony,29,6,Anthony,F,0,New York,3
+0,2,13,1,0,0,10,5,50,Kristaps,0,0,0,32,2,2,Kristaps Porzingis,10,15,Porzingis,F,0,New York,3
+2,1,7,0,0,0,3,0,0,Robin,0,0,0,31,2,1,Robin Lopez,0,9,Lopez,C,1,New York,2
+1,0,4,3,0,0,13,6,46,Arron,0,0,0,28,2,2,Arron Afflalo,12,6,Afflalo,G,0,New York,0
+5,0,2,4,1,25,9,6,67,Jose,0,0,0,28,0,1,Jose Calderon,13,2,Calderon,G,1,New York,2
+5,0,2,3,0,0,8,4,50,Jerian,0,0,0,19,0,3,Jerian Grant,8,2,Grant,N/A,0,New York,3
+0,0,0,1,0,0,6,2,33,Langston,0,0,0,19,0,2,Langston Galloway,4,0,Galloway,N/A,0,New York,0
+1,1,5,0,0,0,3,2,67,Kyle,2,2,100,12,1,3,Kyle O'Quinn,6,6,O'Quinn,N/A,0,New York,0
+1,1,3,0,0,0,4,4,100,Lou,1,1,100,14,1,5,Lou Amundson,9,4,Amundson,N/A,1,New York,0
+1,0,0,3,0,0,3,0,0,Lance,0,0,0,15,1,2,Lance Thomas,0,1,Thomas,N/A,0,New York,0
+0,0,0,0,0,0,1,0,0,Derrick,0,0,0,4,0,1,Derrick Williams,0,0,Williams,N/A,2,New York,2
+0,0,0,0,0,0,1,1,100,Kevin,0,0,0,3,1,0,Kevin Seraphin,2,1,Seraphin,N/A,0,New York,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Vujacic,N/A,N/A,Vujacic,N/A,N/A,New York,N/A
+2,1,3,5,1,20,8,2,25,PJ,0,0,0,26,0,3,PJ Hairston,5,3,Hairston,F,0,Charlotte,0
+1,3,1,3,1,33,6,3,50,Marvin,2,1,50,29,1,1,Marvin Williams,8,2,Williams,F,1,Charlotte,0
+2,0,3,0,0,0,10,2,20,Al,0,0,0,23,2,1,Al Jefferson,4,5,Jefferson,C,0,Charlotte,0
+1,0,4,5,2,40,18,10,56,Nicolas,5,2,40,36,1,0,Nicolas Batum,24,5,Batum,G,1,Charlotte,2
+3,0,2,2,1,50,11,2,18,Kemba,4,4,100,27,0,0,Kemba Walker,9,2,Walker,G,1,Charlotte,0
+3,1,2,0,0,0,6,2,33,Cody,15,8,53,25,2,1,Cody Zeller,12,4,Zeller,N/A,0,Charlotte,0
+5,0,3,2,0,0,2,0,0,Spencer,0,0,0,19,1,1,Spencer Hawes,0,4,Hawes,N/A,0,Charlotte,0
+0,0,4,4,2,50,10,6,60,Jeremy,0,0,0,24,0,0,Jeremy Lamb,14,4,Lamb,N/A,2,Charlotte,1
+3,0,2,1,1,100,11,7,64,Jeremy,2,2,100,21,0,2,Jeremy Lin,17,2,Lin,N/A,3,Charlotte,2
+1,0,2,1,0,0,2,1,50,Frank,0,0,0,10,0,0,Frank Kaminsky,2,2,Kaminsky,N/A,3,Charlotte,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Daniels,N/A,N/A,Daniels,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Hansbrough,N/A,N/A,Hansbrough,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brian,N/A,N/A,N/A,N/A,N/A,N/A,Brian Roberts,N/A,N/A,Roberts,N/A,N/A,Charlotte,N/A

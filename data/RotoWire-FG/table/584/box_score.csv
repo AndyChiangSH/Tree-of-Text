@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,4,1,0,0,26,9,35,DeMar,12,10,83,44,1,2,DeMar DeRozan,28,5,DeRozan,F,0,Toronto,1
+1,0,2,3,1,33,10,4,40,Luis,0,0,0,20,0,2,Luis Scola,9,2,Scola,F,0,Toronto,1
+0,2,16,0,0,0,6,5,83,Bismack,11,6,55,42,9,2,Bismack Biyombo,16,25,Biyombo,C,0,Toronto,0
+1,0,3,1,0,0,9,3,33,Norman,0,0,0,20,2,3,Norman Powell,6,5,Powell,G,0,Toronto,0
+4,0,8,11,4,36,21,8,38,Kyle,9,8,89,43,0,3,Kyle Lowry,28,8,Lowry,G,3,Toronto,8
+0,0,1,1,0,0,3,1,33,Patrick,0,0,0,33,2,3,Patrick Patterson,2,3,Patterson,N/A,0,Toronto,0
+1,0,4,0,0,0,5,0,0,Cory,0,0,0,30,0,2,Cory Joseph,0,4,Joseph,N/A,0,Toronto,1
+1,2,3,5,2,40,8,2,25,Terrence,2,2,100,21,0,1,Terrence Ross,8,3,Ross,N/A,2,Toronto,2
+0,0,1,0,0,0,0,0,0,Jason,4,4,100,11,1,3,Jason Thompson,4,2,Thompson,N/A,0,Toronto,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bruno,N/A,N/A,N/A,N/A,N/A,N/A,Bruno Caboclo,N/A,N/A,Caboclo,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Johnson,N/A,N/A,Johnson,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,N/A,Lucas Nogueira,N/A,N/A,Nogueira,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Delon,N/A,N/A,N/A,N/A,N/A,N/A,Delon Wright,N/A,N/A,Wright,N/A,N/A,Toronto,N/A
+4,1,8,9,1,11,24,7,29,Paul,6,3,50,42,1,4,Paul George,18,9,George,F,2,Indiana,4
+1,0,6,1,0,0,7,4,57,Myles,1,1,100,18,4,5,Myles Turner,9,10,Turner,F,0,Indiana,2
+0,3,4,0,0,0,10,5,50,Jordan,1,1,100,37,2,3,Jordan Hill,11,6,Hill,C,0,Indiana,1
+7,0,6,1,0,0,11,3,27,Monta,4,2,50,43,1,3,Monta Ellis,8,7,Ellis,G,4,Indiana,2
+2,1,2,5,3,60,10,6,60,George,4,3,75,41,0,3,George Hill,18,2,Hill,G,0,Indiana,0
+1,0,2,0,0,0,3,1,33,Lavoy,0,0,0,13,0,5,Lavoy Allen,2,2,Allen,N/A,0,Indiana,3
+3,0,1,0,0,0,5,1,20,Rodney,2,1,50,17,0,1,Rodney Stuckey,3,1,Stuckey,N/A,2,Indiana,1
+2,0,7,3,1,33,8,4,50,Solomon,3,3,100,33,0,5,Solomon Hill,12,7,Hill,N/A,1,Indiana,0
+0,2,2,7,3,43,9,4,44,CJ,2,2,100,12,0,1,CJ Miles,13,2,Miles,N/A,0,Indiana,0
+1,0,1,1,0,0,3,0,0,Joe,0,0,0,5,1,1,Joe Young,0,2,Young,N/A,0,Indiana,1
+0,0,0,1,0,0,1,0,0,Shayne,0,0,0,4,0,1,Shayne Whittington,0,0,Whittington,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ty,N/A,N/A,N/A,N/A,N/A,N/A,Ty Lawson,N/A,N/A,Lawson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Glenn,N/A,N/A,N/A,N/A,N/A,N/A,Glenn Robinson,N/A,N/A,Robinson,N/A,N/A,Indiana,N/A

@@ -1,0 +1,29 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,9,00:29:58,0,1,Kodai NARAOKA,lob,hits the net,opponent hits the net
+2,4,00:30:17,0,2,Kodai NARAOKA,net shot,hits the net,opponent hits the net
+3,8,00:30:37,1,2,SHI Yuqi,smash,opponent wins by landing,wins by landing
+4,6,00:31:21,2,2,SHI Yuqi,lob,fails to clear the net,opponent fails to clear the net
+5,12,00:31:48,2,3,Kodai NARAOKA,defensive return drive,opponent wins by landing,wins by landing
+6,26,00:32:38,3,3,SHI Yuqi,wrist smash,opponent wins by landing,wins by landing
+7,2,00:33:36,3,4,Kodai NARAOKA,push,opponent wins by landing,wins by landing
+8,3,00:33:54,4,4,SHI Yuqi,lob,goes out of bounds,opponent goes out of bounds
+9,7,00:34:16,4,5,Kodai NARAOKA,lob,goes out of bounds,opponent goes out of bounds
+10,11,00:34:43,4,6,Kodai NARAOKA,defensive return drive,opponent wins by landing,wins by landing
+11,4,00:35:15,5,6,SHI Yuqi,smash,opponent wins by landing,wins by landing
+12,21,00:35:54,5,7,Kodai NARAOKA,clear,goes out of bounds,opponent goes out of bounds
+13,10,00:36:34,6,7,SHI Yuqi,wrist smash,opponent wins by landing,wins by landing
+14,23,00:37:39,6,8,Kodai NARAOKA,clear,goes out of bounds,opponent goes out of bounds
+15,2,00:38:34,6,9,Kodai NARAOKA,lob,goes out of bounds,opponent goes out of bounds
+16,3,00:38:53,6,10,Kodai NARAOKA,lob,landing judgment error,opponent landing judgment error
+17,24,00:39:32,6,11,Kodai NARAOKA,smash,goes out of bounds,opponent goes out of bounds
+18,4,00:40:47,6,12,Kodai NARAOKA,drop,hits the net,opponent hits the net
+19,7,00:41:06,7,12,SHI Yuqi,lob,goes out of bounds,opponent goes out of bounds
+20,13,00:41:33,7,13,Kodai NARAOKA,net shot,hits the net,opponent hits the net
+21,2,00:41:53,7,14,Kodai NARAOKA,net shot,goes out of bounds,opponent goes out of bounds
+22,9,00:42:35,8,14,SHI Yuqi,clear,goes out of bounds,opponent goes out of bounds
+23,7,00:42:59,8,15,Kodai NARAOKA,smash,hits the net,opponent hits the net
+24,19,00:43:37,8,16,Kodai NARAOKA,drop,opponent wins by landing,wins by landing
+25,4,00:44:06,8,17,Kodai NARAOKA,return net,goes out of bounds,opponent goes out of bounds
+26,5,00:44:26,9,17,SHI Yuqi,back-court drive,hits the net,opponent hits the net
+27,5,00:44:49,9,18,Kodai NARAOKA,back-court drive,goes out of bounds,opponent goes out of bounds
+28,6,00:45:11,9,19,Kodai NARAOKA,wrist smash,goes out of bounds,opponent goes out of bounds

@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,2,5,1,20,14,6,43,Rodney,5,5,100,24,1,1,Rodney Hood,18,3,Hood,F,1,Cleveland,2
+1,0,8,6,2,33,17,8,47,Cedi,4,2,50,42,0,3,Cedi Osman,20,8,Osman,F,2,Cleveland,2
+1,2,10,0,0,0,14,7,50,Tristan,2,1,50,37,4,2,Tristan Thompson,15,14,Thompson,C,0,Cleveland,1
+4,0,12,5,2,40,10,4,40,Alec,8,7,88,33,1,5,Alec Burks,17,13,Burks,G,1,Cleveland,0
+3,0,3,2,1,50,14,7,50,Collin,4,2,50,33,0,3,Collin Sexton,17,3,Sexton,G,1,Cleveland,1
+2,0,1,2,1,50,11,4,36,Jordan,0,0,0,28,1,1,Jordan Clarkson,9,2,Clarkson,N/A,0,Cleveland,1
+2,0,1,1,1,100,4,1,25,Matthew,0,0,0,17,0,2,Matthew Dellavedova,3,1,Dellavedova,N/A,0,Cleveland,2
+1,0,3,0,0,0,1,0,0,Ante,0,0,0,10,1,2,Ante Zizic,0,4,Zizic,N/A,0,Cleveland,0
+0,0,1,0,0,0,3,1,33,Jaron,0,0,0,9,2,2,Jaron Blossomgame,2,3,Blossomgame,N/A,0,Cleveland,0
+1,0,1,0,0,0,1,0,0,Cameron,0,0,0,6,0,0,Cameron Payne,0,1,Payne,N/A,0,Cleveland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Channing,N/A,N/A,N/A,N/A,N/A,N/A,Channing Frye,N/A,N/A,Frye,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jalen,N/A,N/A,N/A,N/A,N/A,N/A,Jalen Jones,N/A,N/A,Jones,N/A,N/A,Cleveland,N/A
+2,0,4,2,1,50,14,8,57,Brandon,8,5,62,40,3,2,Brandon Ingram,22,7,Ingram,F,0,Los Angeles,2
+4,0,5,7,2,29,23,11,48,Kyle,9,5,56,36,3,5,Kyle Kuzma,29,8,Kuzma,F,0,Los Angeles,4
+0,1,8,0,0,0,3,1,33,JaVale,0,0,0,23,0,3,JaVale McGee,2,8,McGee,C,0,Los Angeles,0
+1,2,5,8,1,12,12,3,25,Josh,2,2,100,32,0,2,Josh Hart,9,5,Hart,G,1,Los Angeles,2
+8,0,6,8,2,25,14,5,36,Lonzo,2,1,50,41,3,4,Lonzo Ball,13,9,Ball,G,2,Los Angeles,1
+0,0,2,0,0,0,0,0,0,Tyson,0,0,0,4,0,0,Tyson Chandler,0,2,Chandler,N/A,0,Los Angeles,0
+4,0,3,6,0,0,9,2,22,Kentavious,0,0,0,26,1,2,Kentavious Caldwell-Pope,4,4,Caldwell-Pope,N/A,0,Los Angeles,0
+1,0,3,1,0,0,4,0,0,Lance,2,0,0,15,1,1,Lance Stephenson,0,4,Stephenson,N/A,0,Los Angeles,2
+0,0,0,0,0,0,7,3,43,Michael,3,2,67,7,1,2,Michael Beasley,8,1,Beasley,N/A,1,Los Angeles,0
+0,2,2,0,0,0,3,2,67,Ivica,1,1,100,11,0,0,Ivica Zubac,5,2,Zubac,N/A,0,Los Angeles,0
+1,0,0,2,1,50,2,1,50,Svi,0,0,0,5,1,1,Svi Mykhailiuk,3,1,Mykhailiuk,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Moritz,N/A,N/A,N/A,N/A,N/A,N/A,Moritz Wagner,N/A,N/A,Wagner,N/A,N/A,Los Angeles,N/A

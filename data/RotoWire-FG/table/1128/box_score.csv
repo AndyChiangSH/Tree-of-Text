@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,0,3,10,3,30,11,4,36,Joe,2,1,50,35,1,1,Joe Ingles,12,4,Ingles,F,1,Utah,3
+2,0,3,6,3,50,9,5,56,Thabo,0,0,0,25,1,0,Thabo Sefolosha,13,4,Sefolosha,F,5,Utah,1
+2,2,4,0,0,0,11,8,73,Rudy,8,5,62,36,6,3,Rudy Gobert,21,10,Gobert,C,0,Utah,2
+3,0,4,7,3,43,8,3,38,Royce,0,0,0,30,1,3,Royce O'Neale,9,5,O'Neale,G,1,Utah,0
+5,0,2,7,2,29,17,5,29,Donovan,8,7,88,37,0,4,Donovan Mitchell,19,2,Mitchell,G,2,Utah,1
+2,0,6,6,1,17,12,4,33,Jae,2,2,100,23,0,1,Jae Crowder,11,6,Crowder,N/A,0,Utah,1
+1,0,1,1,0,0,5,2,40,Grayson,2,1,50,15,0,2,Grayson Allen,5,1,Allen,N/A,0,Utah,0
+1,1,2,5,1,20,10,6,60,Georges,3,3,100,27,0,2,Georges Niang,16,2,Niang,N/A,1,Utah,3
+1,1,0,0,0,0,1,1,100,Ekpe,3,1,33,12,1,1,Ekpe Udoh,3,1,Udoh,N/A,1,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Bradley,N/A,N/A,Bradley,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Cavanaugh,N/A,N/A,Cavanaugh,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Naz,N/A,N/A,N/A,N/A,N/A,N/A,Naz Mitrou-Long,N/A,N/A,Mitrou-Long,N/A,N/A,Utah,N/A
+5,2,13,3,1,33,5,2,40,Jemerrio,0,0,0,38,3,3,Jemerrio Jones,5,16,Jones,F,1,Los Angeles,1
+1,0,5,6,4,67,10,6,60,Mike,0,0,0,38,3,1,Mike Muscala,16,8,Muscala,F,0,Los Angeles,2
+3,2,5,2,0,0,16,10,62,JaVale,2,2,100,26,3,3,JaVale McGee,22,8,McGee,C,1,Los Angeles,2
+6,0,4,8,2,25,22,13,59,Kentavious,6,4,67,42,2,1,Kentavious Caldwell-Pope,32,6,Caldwell-Pope,G,1,Los Angeles,3
+11,0,0,3,0,0,20,8,40,Alex,4,2,50,43,0,5,Alex Caruso,18,0,Caruso,G,1,Los Angeles,5
+2,0,1,1,0,0,4,0,0,Isaac,0,0,0,19,1,2,Isaac Bonga,0,2,Bonga,N/A,1,Los Angeles,2
+0,0,4,0,0,0,6,4,67,Johnathan,9,6,67,22,4,2,Johnathan Williams,14,8,Williams,N/A,0,Los Angeles,1
+0,1,1,2,0,0,6,3,50,Moritz,0,0,0,12,0,4,Moritz Wagner,6,1,Wagner,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Bullock,N/A,N/A,Bullock,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyson,N/A,N/A,N/A,N/A,N/A,N/A,Tyson Chandler,N/A,N/A,Chandler,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rajon,N/A,N/A,N/A,N/A,N/A,N/A,Rajon Rondo,N/A,N/A,Rondo,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lance,N/A,N/A,N/A,N/A,N/A,N/A,Lance Stephenson,N/A,N/A,Stephenson,N/A,N/A,Los Angeles,N/A

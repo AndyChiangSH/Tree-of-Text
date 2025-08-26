@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,2,4,1,0,0,20,11,55,TJ,2,2,100,40,4,5,TJ Warren,24,8,Warren,F,2,Phoenix,6
+1,1,1,5,1,20,11,2,18,Marquese,4,2,50,19,2,5,Marquese Chriss,7,3,Chriss,F,0,Phoenix,2
+0,1,5,1,0,0,9,3,33,Alex,10,6,60,25,2,4,Alex Len,12,7,Len,C,3,Phoenix,3
+0,0,1,2,1,50,11,6,55,Derrick,2,0,0,34,2,1,"Derrick Jones, Jr.",13,3,"Jones,",G,1,Phoenix,0
+10,0,4,5,1,20,16,6,38,Tyler,2,2,100,40,2,2,Tyler Ulis,15,6,Ulis,G,1,Phoenix,1
+0,0,6,0,0,0,5,2,40,Alan,0,0,0,15,2,5,Alan Williams,4,8,Williams,N/A,1,Phoenix,2
+7,2,8,6,1,17,11,2,18,Jared,2,1,50,35,0,6,Jared Dudley,6,8,Dudley,N/A,3,Phoenix,1
+0,0,2,8,2,25,9,2,22,Jarell,2,1,50,18,0,0,Jarell Eddie,7,2,Eddie,N/A,0,Phoenix,0
+4,0,3,3,1,33,4,1,25,Ronnie,0,0,0,14,0,3,Ronnie Price,3,3,Price,N/A,1,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Leandro,N/A,N/A,N/A,N/A,N/A,N/A,Leandro Barbosa,N/A,N/A,Barbosa,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Bledsoe,N/A,N/A,Bledsoe,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyson,N/A,N/A,N/A,N/A,N/A,N/A,Tyson Chandler,N/A,N/A,Chandler,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Knight,N/A,N/A,Knight,N/A,N/A,Phoenix,N/A
+1,2,6,4,1,25,10,5,50,Taurean,5,4,80,36,0,5,Taurean Prince,15,6,Prince,F,1,Atlanta,2
+1,0,9,7,2,29,15,6,40,Ersan,6,4,67,33,3,4,Ersan Ilyasova,18,12,Ilyasova,F,1,Atlanta,2
+4,4,9,0,0,0,8,6,75,Dwight,5,3,60,36,2,4,Dwight Howard,15,11,Howard,C,1,Atlanta,3
+3,0,3,4,0,0,9,1,11,Tim,0,0,0,32,0,2,Tim Hardaway Jr.,2,3,Hardaway,G,0,Atlanta,1
+9,0,6,8,2,25,27,12,44,Dennis,1,1,100,39,0,4,Dennis Schroder,27,6,Schroder,G,1,Atlanta,8
+1,0,3,2,1,50,4,1,25,Mike,0,0,0,18,1,1,Mike Dunleavy,3,4,Dunleavy,N/A,0,Atlanta,0
+1,0,1,0,0,0,2,1,50,Mike,0,0,0,11,0,0,Mike Muscala,2,1,Muscala,N/A,1,Atlanta,1
+2,0,3,0,0,0,3,0,0,Kris,8,7,88,10,2,2,Kris Humphries,7,5,Humphries,N/A,0,Atlanta,1
+2,0,1,2,0,0,5,2,40,Jose,2,2,100,18,0,1,Jose Calderon,6,1,Calderon,N/A,0,Atlanta,1
+0,0,1,0,0,0,2,0,0,DeAndre',2,0,0,5,1,0,DeAndre' Bembry,0,2,Bembry,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm Delaney,N/A,N/A,Delaney,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thabo,N/A,N/A,N/A,N/A,N/A,N/A,Thabo Sefolosha,N/A,N/A,Sefolosha,N/A,N/A,Atlanta,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,4,2,0,0,6,3,50,Chandler,3,3,100,23,0,2,Chandler Parsons,9,4,Parsons,F,0,Memphis,1
+0,2,2,0,0,0,6,2,33,JaMychal,4,4,100,27,4,2,JaMychal Green,8,6,Green,F,0,Memphis,1
+0,0,5,6,2,33,17,9,53,Marc,4,2,50,33,0,2,Marc Gasol,22,5,Gasol,C,1,Memphis,6
+1,0,2,1,0,0,2,0,0,James,0,0,0,22,1,5,James Ennis III,0,3,Ennis,G,0,Memphis,0
+7,0,3,5,2,40,14,7,50,Mike,2,2,100,31,0,0,Mike Conley,18,3,Conley,G,1,Memphis,0
+2,0,6,5,3,60,11,6,55,Vince,6,5,83,31,1,3,Vince Carter,20,7,Carter,N/A,1,Memphis,3
+2,0,2,2,1,50,4,1,25,Andrew,2,2,100,26,0,5,Andrew Harrison,5,2,Harrison,N/A,0,Memphis,1
+0,0,5,0,0,0,13,7,54,Zach,4,4,100,23,5,4,Zach Randolph,18,10,Randolph,N/A,0,Memphis,2
+0,0,1,0,0,0,3,1,33,Deyonta,1,0,0,13,2,3,Deyonta Davis,2,3,Davis,N/A,1,Memphis,1
+0,0,0,0,0,0,0,0,0,Jarell,0,0,0,11,1,0,Jarell Martin,0,1,Martin,N/A,0,Memphis,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wade,N/A,N/A,N/A,N/A,N/A,N/A,Wade Baldwin IV,N/A,N/A,Baldwin,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Daniels,N/A,N/A,Daniels,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Williams,N/A,N/A,Williams,N/A,N/A,Memphis,N/A
+3,0,4,7,1,14,14,4,29,Gordon,4,4,100,36,0,2,Gordon Hayward,13,4,Hayward,F,0,Utah,2
+0,0,2,0,0,0,6,2,33,Derrick,2,2,100,21,0,3,Derrick Favors,6,2,Favors,F,2,Utah,1
+2,1,5,0,0,0,3,2,67,Rudy,2,2,100,22,0,5,Rudy Gobert,6,5,Gobert,C,1,Utah,2
+2,0,4,7,4,57,11,7,64,Joe,2,2,100,33,0,4,Joe Ingles,20,4,Ingles,G,1,Utah,0
+2,0,2,3,0,0,9,4,44,Dante,2,1,50,30,1,4,Dante Exum,9,3,Exum,G,0,Utah,1
+2,0,4,6,1,17,12,6,50,Trey,6,5,83,32,1,2,Trey Lyles,18,5,Lyles,N/A,2,Utah,1
+4,0,1,3,2,67,9,7,78,Shelvin,2,1,50,28,2,2,Shelvin Mack,17,3,Mack,N/A,0,Utah,1
+1,0,0,1,0,0,4,0,0,Joe,2,1,50,15,1,0,Joe Johnson,1,1,Johnson,N/A,1,Utah,0
+1,0,0,0,0,0,4,3,75,Boris,0,0,0,21,1,5,Boris Diaw,6,1,Diaw,N/A,1,Utah,0
+0,0,1,1,0,0,1,0,0,Raul,0,0,0,2,0,0,Raul Neto,0,1,Neto,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Bolomboy,N/A,N/A,Bolomboy,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,George,N/A,N/A,N/A,N/A,N/A,N/A,George Hill,N/A,N/A,Hill,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Withey,N/A,N/A,Withey,N/A,N/A,Utah,N/A

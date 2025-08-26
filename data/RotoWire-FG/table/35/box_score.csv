@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,2,4,4,1,25,7,4,57,Andre,2,1,50,35,1,4,Andre Roberson,10,5,Roberson,F,1,Oklahoma City,0
+3,0,0,0,0,0,3,2,67,Domantas,0,0,0,15,0,2,Domantas Sabonis,4,0,Sabonis,F,1,Oklahoma City,1
+0,2,4,0,0,0,7,4,57,Steven,4,3,75,28,0,3,Steven Adams,11,4,Adams,C,0,Oklahoma City,0
+2,2,6,8,3,38,15,7,47,Victor,2,1,50,36,0,3,Victor Oladipo,18,6,Oladipo,G,1,Oklahoma City,2
+9,0,10,5,1,20,18,7,39,Russell,19,16,84,35,1,1,Russell Westbrook,31,11,Westbrook,G,2,Oklahoma City,3
+1,1,3,2,0,0,5,2,40,Jerami,4,2,50,32,0,2,Jerami Grant,6,3,Grant,N/A,1,Oklahoma City,0
+0,0,0,2,1,50,8,2,25,Anthony,3,3,100,19,0,1,Anthony Morrow,8,0,Morrow,N/A,0,Oklahoma City,0
+1,0,5,1,0,0,9,3,33,Enes,4,4,100,21,2,2,Enes Kanter,10,7,Kanter,N/A,1,Oklahoma City,0
+0,0,0,2,0,0,2,0,0,Alex,0,0,0,4,0,0,Alex Abrines,0,0,Abrines,N/A,0,Oklahoma City,1
+0,0,0,1,1,100,2,1,50,Joffrey,0,0,0,6,1,0,Joffrey Lauvergne,3,1,Lauvergne,N/A,0,Oklahoma City,2
+1,0,0,0,0,0,0,0,0,Semaj,0,0,0,8,0,3,Semaj Christon,0,0,Christon,N/A,0,Oklahoma City,0
+0,0,1,0,0,0,0,0,0,Kyle,0,0,0,1,0,0,Kyle Singler,0,1,Singler,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+4,0,7,6,3,50,15,6,40,Rudy,2,2,100,34,2,3,Rudy Gay,17,9,Gay,F,0,Sacramento,2
+5,1,3,3,0,0,3,0,0,Matt,0,0,0,29,1,2,Matt Barnes,0,4,Barnes,F,0,Sacramento,1
+2,0,11,5,3,60,28,14,50,DeMarcus,6,5,83,35,2,3,DeMarcus Cousins,36,13,Cousins,C,0,Sacramento,2
+4,0,1,1,0,0,7,3,43,Arron,2,2,100,30,0,1,Arron Afflalo,8,1,Afflalo,G,0,Sacramento,0
+6,0,0,5,3,60,12,7,58,Darren,4,4,100,31,0,0,Darren Collison,21,0,Collison,G,0,Sacramento,4
+4,0,3,0,0,0,4,3,75,Ty,2,2,100,21,1,3,Ty Lawson,8,4,Lawson,N/A,1,Sacramento,2
+0,0,6,0,0,0,7,4,57,Kosta,1,1,100,17,4,4,Kosta Koufos,9,10,Koufos,N/A,1,Sacramento,0
+0,0,2,3,1,33,10,4,40,Ben,0,0,0,17,0,3,Ben McLemore,9,2,McLemore,N/A,0,Sacramento,0
+1,0,2,5,2,40,8,3,38,Garrett,0,0,0,27,1,4,Garrett Temple,8,3,Temple,N/A,2,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omri,N/A,N/A,N/A,N/A,N/A,N/A,Omri Casspi,N/A,N/A,Casspi,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willie,N/A,N/A,N/A,N/A,N/A,N/A,Willie Cauley-Stein,N/A,N/A,Cauley-Stein,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Skal,N/A,N/A,N/A,N/A,N/A,N/A,Skal Labissiere,N/A,N/A,Labissiere,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Tolliver,N/A,N/A,Tolliver,N/A,N/A,Sacramento,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,1,7,5,2,40,15,8,53,LeBron,4,3,75,40,2,2,LeBron James,21,9,James,F,1,Cleveland,2
+0,2,9,5,1,20,14,7,50,Kevin,2,1,50,35,2,1,Kevin Love,16,11,Love,F,1,Cleveland,2
+1,1,4,0,0,0,2,1,50,Timofey,4,3,75,20,0,1,Timofey Mozgov,5,4,Mozgov,C,2,Cleveland,3
+2,0,1,8,2,25,12,5,42,JR,0,0,0,40,1,3,JR Smith,12,2,Smith,G,1,Cleveland,2
+9,0,1,8,4,50,13,7,54,Kyrie,11,9,82,41,3,3,Kyrie Irving,27,4,Irving,G,3,Cleveland,6
+1,0,2,2,1,50,5,1,20,Matthew,0,0,0,12,0,1,Matthew Dellavedova,3,2,Dellavedova,N/A,0,Cleveland,0
+1,0,0,4,1,25,8,4,50,Iman,0,0,0,22,2,4,Iman Shumpert,9,2,Shumpert,N/A,0,Cleveland,1
+1,0,9,0,0,0,3,3,100,Tristan,5,5,100,24,1,2,Tristan Thompson,11,10,Thompson,N/A,0,Cleveland,2
+0,1,0,2,0,0,2,0,0,James,0,0,0,5,0,0,James Jones,0,0,Jones,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brendan,N/A,N/A,N/A,N/A,N/A,N/A,Brendan Haywood,N/A,N/A,Haywood,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shawn,N/A,N/A,N/A,N/A,N/A,N/A,Shawn Marion,N/A,N/A,Marion,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kendrick,N/A,N/A,N/A,N/A,N/A,N/A,Kendrick Perkins,N/A,N/A,Perkins,N/A,N/A,Cleveland,N/A
+7,1,3,3,1,33,4,2,50,Jared,0,0,0,32,0,3,Jared Dudley,5,3,Dudley,F,1,Milwaukee,1
+2,0,2,2,0,0,7,1,14,Ersan,0,0,0,19,1,2,Ersan Ilyasova,2,3,Ilyasova,F,1,Milwaukee,0
+2,1,6,0,0,0,13,8,62,Zaza,5,3,60,31,4,3,Zaza Pachulia,19,10,Pachulia,C,5,Milwaukee,2
+1,0,4,2,2,100,10,7,70,Khris,0,0,0,37,0,1,Khris Middleton,16,4,Middleton,G,2,Milwaukee,1
+8,0,2,3,1,33,22,13,59,Michael,3,3,100,36,0,2,Michael Carter-Williams,30,2,Carter-Williams,G,1,Milwaukee,2
+2,0,2,5,1,20,12,4,33,O.J.,2,2,100,26,0,2,O.J. Mayo,11,2,Mayo,N/A,1,Milwaukee,2
+3,1,2,0,0,0,6,4,67,John,0,0,0,24,2,3,John Henson,8,4,Henson,N/A,1,Milwaukee,1
+4,0,2,1,0,0,4,1,25,Jerryd,3,1,33,21,0,4,Jerryd Bayless,3,2,Bayless,N/A,1,Milwaukee,3
+1,0,1,2,1,50,4,1,25,Tyler,0,0,0,7,0,2,Tyler Ennis,3,1,Ennis,N/A,0,Milwaukee,0
+0,0,1,0,0,0,2,1,50,Miles,0,0,0,6,0,0,Miles Plumlee,2,1,Plumlee,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Giannis,N/A,N/A,N/A,N/A,N/A,N/A,Giannis Antetokounmpo,N/A,N/A,Antetokounmpo,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jorge,N/A,N/A,N/A,N/A,N/A,N/A,Jorge Gutierrez,N/A,N/A,Gutierrez,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnny,N/A,N/A,N/A,N/A,N/A,N/A,Johnny O'Bryant III,N/A,N/A,O'Bryant,N/A,N/A,Milwaukee,N/A

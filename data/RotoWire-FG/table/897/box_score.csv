@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,5,2,0,0,2,0,0,DeAndre,0,0,0,19,0,0,DeAndre Liggins,0,5,Liggins,F,2,New Orleans,1
+2,0,1,7,2,29,15,5,33,Nikola,0,0,0,28,4,2,Nikola Mirotic,12,5,Mirotic,F,0,New Orleans,1
+0,0,8,3,0,0,19,6,32,Anthony,3,2,67,28,0,2,Anthony Davis,14,8,Davis,C,1,New Orleans,0
+1,0,1,2,0,0,7,2,29,E'Twaun,0,0,0,24,0,2,E'Twaun Moore,4,1,Moore,G,1,New Orleans,0
+0,2,1,3,1,33,11,3,27,Jrue,5,2,40,23,0,1,Jrue Holiday,9,1,Holiday,G,0,New Orleans,3
+10,0,4,0,0,0,5,2,40,Rajon,4,1,25,25,0,1,Rajon Rondo,5,4,Rondo,N/A,2,New Orleans,2
+1,0,6,8,3,38,12,5,42,Darius,0,0,0,32,0,2,Darius Miller,13,6,Miller,N/A,1,New Orleans,2
+0,0,6,0,0,0,8,3,38,Cheick,0,0,0,17,1,0,Cheick Diallo,6,7,Diallo,N/A,1,New Orleans,0
+0,0,1,6,2,33,13,6,46,Ian,2,1,50,22,0,1,Ian Clark,15,1,Clark,N/A,0,New Orleans,3
+2,4,5,0,0,0,3,1,33,Emeka,2,2,100,20,3,1,Emeka Okafor,4,8,Okafor,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike James,N/A,N/A,James,N/A,N/A,New Orleans,N/A
+1,2,2,4,0,0,9,4,44,Robert,0,0,0,25,1,1,Robert Covington,8,3,Covington,F,0,Philadelphia,0
+4,0,4,5,4,80,11,8,73,Dario,4,4,100,29,1,1,Dario Saric,24,5,Saric,F,0,Philadelphia,1
+0,1,13,4,2,50,18,11,61,Joel,0,0,0,24,3,1,Joel Embiid,24,16,Embiid,C,2,Philadelphia,3
+2,0,7,6,3,50,10,6,60,JJ,0,0,0,24,0,2,JJ Redick,15,7,Redick,G,2,Philadelphia,1
+8,1,7,0,0,0,11,3,27,Ben,4,4,100,25,2,1,Ben Simmons,10,9,Simmons,G,3,Philadelphia,4
+5,0,3,0,0,0,5,1,20,T.J.,0,0,0,24,0,2,T.J. McConnell,2,3,McConnell,N/A,0,Philadelphia,0
+1,0,5,0,0,0,0,0,0,Amir,0,0,0,18,0,5,Amir Johnson,0,5,Johnson,N/A,2,Philadelphia,2
+1,0,2,7,2,29,12,2,17,Timothe,0,0,0,20,0,1,Timothe Luwawu-Cabarrot,6,2,Luwawu-Cabarrot,N/A,0,Philadelphia,1
+1,0,1,2,1,50,3,1,33,Trevor,0,0,0,19,1,1,Trevor Booker,3,2,Booker,N/A,1,Philadelphia,1
+1,0,1,5,2,40,11,3,27,Justin,1,0,0,17,0,0,Justin Anderson,8,1,Anderson,N/A,0,Philadelphia,1
+1,0,1,1,0,0,1,0,0,Jerryd,0,0,0,8,0,1,Jerryd Bayless,0,1,Bayless,N/A,0,Philadelphia,0
+1,0,4,0,0,0,2,0,0,Richaun,0,0,0,6,0,0,Richaun Holmes,0,4,Holmes,N/A,0,Philadelphia,1

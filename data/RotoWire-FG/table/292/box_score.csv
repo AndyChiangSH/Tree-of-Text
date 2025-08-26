@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,4,3,1,33,9,4,44,Robert,3,3,100,25,0,1,Robert Covington,12,4,Covington,F,0,Philadelphia,1
+2,3,1,3,1,33,14,4,29,Dario,3,3,100,26,1,1,Dario Saric,12,2,Saric,F,1,Philadelphia,3
+2,0,2,0,0,0,6,3,50,Jahlil,0,0,0,17,0,0,Jahlil Okafor,6,2,Okafor,C,0,Philadelphia,0
+3,0,2,3,1,33,6,1,17,Timothe,0,0,0,29,0,3,Timothe Luwawu-Cabarrot,3,2,Luwawu-Cabarrot,G,1,Philadelphia,2
+4,0,0,0,0,0,3,1,33,T.J.,0,0,0,22,0,3,T.J. McConnell,2,0,McConnell,G,4,Philadelphia,0
+0,0,2,0,0,0,8,5,63,Richaun,2,1,50,16,0,5,Richaun Holmes,11,2,Holmes,N/A,0,Philadelphia,0
+1,0,0,8,5,63,12,7,58,Nik,1,1,100,30,0,1,Nik Stauskas,20,0,Stauskas,N/A,0,Philadelphia,1
+1,0,1,4,0,0,8,2,25,Gerald,0,0,0,16,1,2,Gerald Henderson,4,2,Henderson,N/A,1,Philadelphia,0
+4,0,1,1,0,0,5,3,60,Sergio,0,0,0,26,0,0,Sergio Rodriguez,6,1,Rodriguez,N/A,1,Philadelphia,1
+0,0,4,1,0,0,7,4,57,Shawn,6,5,83,15,2,5,Shawn Long,13,6,Long,N/A,0,Philadelphia,0
+2,0,2,2,0,0,9,3,33,Justin,2,2,100,19,2,2,Justin Anderson,8,4,Anderson,N/A,0,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd Bayless,N/A,N/A,Bayless,N/A,N/A,Philadelphia,N/A
+0,2,2,2,0,0,10,4,40,Andre,2,1,50,24,2,1,Andre Roberson,9,4,Roberson,F,2,Oklahoma City,0
+1,0,1,0,0,0,8,4,50,Taj,0,0,0,13,2,0,Taj Gibson,8,3,Gibson,F,0,Oklahoma City,2
+0,1,0,0,0,0,7,3,43,Steven,5,0,0,25,5,1,Steven Adams,6,5,Adams,C,1,Oklahoma City,1
+1,0,2,3,1,33,13,7,54,Victor,3,3,100,31,0,2,Victor Oladipo,18,2,Oladipo,G,1,Oklahoma City,4
+14,2,11,0,0,0,6,6,100,Russell,6,6,100,28,0,1,Russell Westbrook,18,11,Westbrook,G,0,Oklahoma City,5
+0,1,7,0,0,0,9,8,89,Enes,9,8,89,20,4,1,Enes Kanter,24,11,Kanter,N/A,1,Oklahoma City,0
+0,1,3,5,1,20,6,1,17,Alex,2,2,100,24,0,2,Alex Abrines,5,3,Abrines,N/A,1,Oklahoma City,1
+2,0,5,0,0,0,5,1,20,Domantas,2,1,50,18,1,4,Domantas Sabonis,3,6,Sabonis,N/A,1,Oklahoma City,2
+1,0,1,1,0,0,4,3,75,Semaj,0,0,0,18,0,1,Semaj Christon,6,1,Christon,N/A,0,Oklahoma City,1
+1,0,0,3,1,33,10,6,60,Doug,0,0,0,14,0,0,Doug McDermott,13,0,McDermott,N/A,0,Oklahoma City,0
+2,0,1,2,1,50,3,1,33,Jerami,0,0,0,11,2,1,Jerami Grant,3,3,Grant,N/A,0,Oklahoma City,0
+2,1,3,0,0,0,3,3,100,Nick,1,1,100,8,2,3,Nick Collison,7,5,Collison,N/A,0,Oklahoma City,0
+2,0,0,0,0,0,4,1,25,Norris,0,0,0,5,0,0,Norris Cole,2,0,Cole,N/A,0,Oklahoma City,0

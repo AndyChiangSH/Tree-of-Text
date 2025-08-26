@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,11,2,1,50,12,6,50,Robbie,2,2,100,43,2,3,Robbie Hummel,15,13,Hummel,F,0,Minnesota,2
+5,0,5,2,0,0,17,9,53,Thaddeus,4,4,100,42,1,3,Thaddeus Young,22,6,Young,F,3,Minnesota,0
+5,1,7,0,0,0,8,4,50,Gorgui,4,4,100,37,1,4,Gorgui Dieng,12,8,Dieng,C,1,Minnesota,4
+4,3,8,5,4,80,17,11,65,Andrew,6,5,83,40,1,1,Andrew Wiggins,31,9,Wiggins,G,1,Minnesota,2
+7,0,2,7,1,14,12,5,42,Mo,2,2,100,36,1,2,Mo Williams,13,3,Williams,G,0,Minnesota,4
+0,0,0,2,1,50,4,2,50,Chase,1,1,100,14,0,1,Chase Budinger,6,0,Budinger,N/A,0,Minnesota,0
+0,0,2,0,0,0,6,3,50,Anthony,2,1,50,16,1,1,Anthony Bennett,7,3,Bennett,N/A,0,Minnesota,0
+3,0,0,1,1,100,4,3,75,Zach,0,0,0,12,1,3,Zach LaVine,7,1,LaVine,N/A,1,Minnesota,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Daniels,N/A,N/A,Daniels,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Muhammad,N/A,N/A,Muhammad,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Miroslav,N/A,N/A,N/A,N/A,N/A,N/A,Miroslav Raduljica,N/A,N/A,Raduljica,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Glenn,N/A,N/A,N/A,N/A,N/A,N/A,Glenn Robinson,N/A,N/A,Robinson,N/A,N/A,Minnesota,N/A
+2,0,0,8,2,25,16,6,38,Wilson,1,0,0,33,0,5,Wilson Chandler,14,0,Chandler,F,1,Denver,0
+1,1,6,0,0,0,5,3,60,Kenneth,0,0,0,31,2,0,Kenneth Faried,6,8,Faried,F,3,Denver,2
+2,0,4,0,0,0,7,1,14,Jusuf,2,2,100,15,5,4,Jusuf Nurkic,4,9,Nurkic,C,0,Denver,0
+3,0,6,8,3,38,14,4,29,Arron,2,2,100,37,1,2,Arron Afflalo,13,7,Afflalo,G,1,Denver,2
+7,0,1,5,2,40,15,7,47,Ty,7,6,86,34,2,1,Ty Lawson,22,3,Lawson,G,2,Denver,1
+1,0,7,0,0,0,10,4,40,JJ,6,6,100,32,3,2,JJ Hickson,14,10,Hickson,N/A,0,Denver,0
+0,1,1,2,0,0,8,4,50,Darrell,0,0,0,17,0,2,Darrell Arthur,8,1,Arthur,N/A,3,Denver,3
+1,2,0,1,0,0,3,0,0,Randy,0,0,0,8,0,1,Randy Foye,0,0,Foye,N/A,0,Denver,0
+4,0,0,5,2,40,10,7,70,Jameer,0,0,0,19,0,2,Jameer Nelson,16,0,Nelson,N/A,0,Denver,2
+0,0,1,2,1,50,4,2,50,Alonzo,4,3,75,16,0,1,Alonzo Gee,8,1,Gee,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Erick,N/A,N/A,N/A,N/A,N/A,N/A,Erick Green,N/A,N/A,Green,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gary,N/A,N/A,N/A,N/A,N/A,N/A,Gary Harris,N/A,N/A,Harris,N/A,N/A,Denver,N/A

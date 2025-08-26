@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,4,3,0,0,15,5,33,Bojan,4,3,75,40,2,0,Bojan Bogdanovic,13,6,Bogdanovic,F,0,Indiana,0
+2,1,4,0,0,0,9,8,89,Thaddeus,2,0,0,41,2,4,Thaddeus Young,16,6,Young,F,2,Indiana,2
+1,0,1,2,2,100,4,3,75,Myles,1,0,0,26,0,4,Myles Turner,8,1,Turner,C,0,Indiana,1
+4,1,7,13,4,31,28,14,50,Victor,5,4,80,37,0,2,Victor Oladipo,36,7,Oladipo,G,3,Indiana,2
+2,0,1,3,2,67,5,2,40,Darren,0,0,0,25,0,3,Darren Collison,6,1,Collison,G,0,Indiana,2
+6,0,4,2,0,0,4,1,25,Cory,0,0,0,31,0,2,Cory Joseph,2,4,Joseph,N/A,0,Indiana,2
+3,0,8,0,0,0,13,9,69,Domantas,5,5,100,31,4,1,Domantas Sabonis,23,12,Sabonis,N/A,1,Indiana,2
+3,0,1,3,0,0,12,5,42,Tyreke,0,0,0,18,1,0,Tyreke Evans,10,2,Evans,N/A,1,Indiana,2
+0,1,1,2,1,50,3,2,67,Doug,0,0,0,16,0,1,Doug McDermott,5,1,McDermott,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Holiday,N/A,N/A,Holiday,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,TJ,N/A,N/A,N/A,N/A,N/A,N/A,TJ Leaf,N/A,N/A,Leaf,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle O'Quinn,N/A,N/A,O'Quinn,N/A,N/A,Indiana,N/A
+0,0,3,2,0,0,8,2,25,Chandler,0,0,0,26,0,2,Chandler Hutchison,4,3,Hutchison,F,0,Chicago,0
+2,0,8,9,4,44,20,11,55,Lauri,2,1,50,42,1,4,Lauri Markkanen,27,9,Markkanen,F,1,Chicago,6
+3,1,4,1,0,0,9,6,67,Wendell,4,3,75,42,4,1,Wendell Carter Jr.,15,8,Carter,C,3,Chicago,0
+3,0,4,9,5,56,21,12,57,Zach,2,2,100,35,1,4,Zach LaVine,31,5,LaVine,G,2,Chicago,4
+17,0,5,2,2,100,9,6,67,Kris,3,2,67,40,0,4,Kris Dunn,16,5,Dunn,G,0,Chicago,2
+1,0,3,1,0,0,8,2,25,Jabari,0,0,0,14,1,1,Jabari Parker,4,4,Parker,N/A,0,Chicago,1
+2,0,0,1,0,0,1,0,0,Ryan,0,0,0,14,0,1,Ryan Arcidiacono,0,0,Arcidiacono,N/A,1,Chicago,0
+0,0,3,3,1,33,9,5,56,Antonio,2,2,100,20,0,1,Antonio Blakeney,13,3,Blakeney,N/A,2,Chicago,0
+2,1,2,0,0,0,5,2,40,Shaquille,0,0,0,23,1,3,Shaquille Harrison,4,3,Harrison,N/A,1,Chicago,0
+0,0,0,0,0,0,1,1,100,Robin,0,0,0,7,0,2,Robin Lopez,2,0,Lopez,N/A,0,Chicago,4
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rawle,N/A,N/A,N/A,N/A,N/A,N/A,Rawle Alkins,N/A,N/A,Alkins,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano Felicio,N/A,N/A,Felicio,N/A,N/A,Chicago,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,0,0,0,0,2,0,0,Luc,0,0,0,9,0,1,Luc Mbah a Moute,0,0,Mbah,F,0,LA,0
+0,1,3,3,0,0,7,3,43,Paul,0,0,0,22,0,2,Paul Pierce,6,3,Pierce,F,0,LA,2
+1,3,8,0,0,0,5,5,100,Cole,4,4,100,25,2,2,Cole Aldrich,14,10,Aldrich,C,1,LA,1
+5,0,3,5,1,20,17,7,41,Austin,3,1,33,31,1,2,Austin Rivers,16,4,Rivers,G,2,LA,0
+9,0,5,7,0,0,15,4,27,Pablo,0,0,0,39,1,2,Pablo Prigioni,8,6,Prigioni,G,4,LA,6
+1,0,5,0,0,0,8,3,38,Jeff,2,2,100,19,0,3,Jeff Ayres,8,5,Ayres,N/A,0,LA,2
+0,1,1,8,5,63,16,7,44,Wesley,0,0,0,35,1,3,Wesley Johnson,19,2,Johnson,N/A,2,LA,1
+5,0,6,2,0,0,11,5,46,Jeff,2,2,100,25,1,2,Jeff Green,12,7,Green,N/A,0,LA,3
+1,1,3,6,3,50,13,8,62,CJ,0,0,0,29,0,3,CJ Wilcox,19,3,Wilcox,N/A,0,LA,0
+0,0,0,0,0,0,2,1,50,Branden,1,1,100,7,0,0,Branden Dawson,3,0,Dawson,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Blake,N/A,N/A,N/A,N/A,N/A,N/A,Blake Griffin,N/A,N/A,Griffin,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre Jordan,N/A,N/A,Jordan,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Paul,N/A,N/A,Paul,N/A,N/A,LA,N/A
+3,0,6,3,1,33,9,5,56,PJ,4,3,75,30,1,3,PJ Tucker,14,7,Tucker,F,1,Phoenix,2
+2,1,8,0,0,0,8,7,88,Jon,2,2,100,20,6,1,Jon Leuer,16,14,Leuer,F,2,Phoenix,1
+1,0,3,0,0,0,10,4,40,Alex,4,2,50,28,0,0,Alex Len,10,3,Len,C,0,Phoenix,1
+2,1,2,5,2,40,14,4,29,Devin,2,2,100,27,0,2,Devin Booker,12,2,Booker,G,1,Phoenix,5
+4,0,1,4,1,25,4,1,25,Ronnie,0,0,0,18,0,0,Ronnie Price,3,1,Price,G,1,Phoenix,2
+5,0,2,4,0,0,16,5,31,Archie,1,0,0,30,1,1,Archie Goodwin,10,3,Goodwin,N/A,2,Phoenix,1
+2,0,5,7,2,29,19,8,42,Mirza,4,4,100,28,4,3,Mirza Teletovic,22,9,Teletovic,N/A,0,Phoenix,2
+2,3,9,0,0,0,9,5,56,Alan,5,4,80,22,3,4,Alan Williams,14,12,Williams,N/A,1,Phoenix,2
+3,0,2,2,1,50,5,3,60,John,0,0,0,21,0,1,John Jenkins,7,2,Jenkins,N/A,0,Phoenix,0
+2,0,2,1,0,0,5,3,60,Chase,0,0,0,16,3,0,Chase Budinger,6,5,Budinger,N/A,2,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyson,N/A,N/A,N/A,N/A,N/A,N/A,Tyson Chandler,N/A,N/A,Chandler,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Knight,N/A,N/A,Knight,N/A,N/A,Phoenix,N/A

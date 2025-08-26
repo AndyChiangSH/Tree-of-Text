@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,6,7,2,29,18,5,28,Paul,10,10,100,34,0,4,Paul George,22,6,George,F,1,Indiana,3
+1,0,0,0,0,0,6,2,33,Thaddeus,0,0,0,11,2,2,Thaddeus Young,4,2,Young,F,0,Indiana,2
+1,0,4,1,0,0,11,7,64,Myles,2,2,100,32,2,3,Myles Turner,16,6,Turner,C,3,Indiana,1
+0,0,5,10,4,40,15,7,47,CJ,1,1,100,28,1,2,CJ Miles,19,6,Miles,G,0,Indiana,1
+9,0,4,2,1,50,6,2,33,Jeff,3,2,67,31,1,1,Jeff Teague,7,5,Teague,G,1,Indiana,1
+1,1,3,0,0,0,3,2,67,Lavoy,2,1,50,20,3,4,Lavoy Allen,5,6,Allen,N/A,1,Indiana,0
+2,0,2,1,0,0,9,5,56,Monta,4,1,25,24,1,2,Monta Ellis,11,3,Ellis,N/A,2,Indiana,3
+3,0,1,1,0,0,4,0,0,Rodney,0,0,0,17,0,0,Rodney Stuckey,0,1,Stuckey,N/A,0,Indiana,1
+1,0,0,0,0,0,1,0,0,Rakeem,2,1,50,13,1,4,Rakeem Christmas,1,1,Christmas,N/A,0,Indiana,3
+1,0,2,1,0,0,4,3,75,Glenn,1,0,0,16,0,0,Glenn Robinson III,6,2,Robinson,N/A,3,Indiana,0
+1,0,1,0,0,0,4,4,100,Kevin,0,0,0,15,2,4,Kevin Seraphin,8,3,Seraphin,N/A,2,Indiana,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Al,N/A,N/A,N/A,N/A,N/A,N/A,Al Jefferson,N/A,N/A,Jefferson,N/A,N/A,Indiana,N/A
+2,0,9,9,3,33,22,11,50,Kawhi,6,6,100,34,2,4,Kawhi Leonard,31,11,Leonard,F,3,San Antonio,2
+2,0,4,0,0,0,9,3,33,LaMarcus,0,0,0,32,1,0,LaMarcus Aldridge,6,5,Aldridge,F,1,San Antonio,2
+0,0,2,0,0,0,1,1,100,Dewayne,2,2,100,16,1,2,Dewayne Dedmon,4,3,Dedmon,C,0,San Antonio,1
+3,3,2,5,1,20,7,1,14,Danny,0,0,0,28,0,4,Danny Green,3,2,Green,G,2,San Antonio,1
+6,0,1,3,1,33,6,2,33,Dejounte,2,1,50,21,0,2,Dejounte Murray,6,1,Murray,G,1,San Antonio,3
+4,0,2,4,0,0,7,1,14,Patty,0,0,0,27,0,2,Patty Mills,2,2,Mills,N/A,0,San Antonio,0
+0,0,1,3,1,33,6,3,50,Manu,4,2,50,23,0,3,Manu Ginobili,9,1,Ginobili,N/A,0,San Antonio,3
+2,2,4,4,2,50,7,4,57,Pau,8,8,100,21,0,1,Pau Gasol,18,4,Gasol,N/A,0,San Antonio,3
+0,1,3,0,0,0,8,8,100,David,2,2,100,21,2,1,David Lee,18,5,Lee,N/A,0,San Antonio,0
+1,1,1,0,0,0,0,0,0,Jonathon,0,0,0,11,0,1,Jonathon Simmons,0,1,Simmons,N/A,0,San Antonio,1
+0,0,1,1,1,100,1,1,100,Davis,0,0,0,7,0,1,Davis Bertans,3,1,Bertans,N/A,1,San Antonio,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Anderson,N/A,N/A,Anderson,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,San Antonio,N/A

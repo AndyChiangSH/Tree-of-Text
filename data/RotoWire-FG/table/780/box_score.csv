@@ -1,0 +1,23 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,5,2,0,0,6,2,33,Dante,0,0,0,22,1,0,Dante Cunningham,4,6,Cunningham,F,1,New Orleans,1
+0,3,14,2,1,50,17,11,65,Anthony,4,4,100,41,2,1,Anthony Davis,27,16,Davis,F,0,New Orleans,2
+4,1,11,8,2,25,20,6,30,DeMarcus,13,11,85,43,0,3,DeMarcus Cousins,25,11,Cousins,C,1,New Orleans,3
+3,0,4,4,0,0,7,1,14,E'Twaun,2,2,100,30,0,0,E'Twaun Moore,4,4,Moore,G,2,New Orleans,0
+6,0,4,4,0,0,15,5,33,Jrue,0,0,0,41,1,2,Jrue Holiday,10,5,Holiday,G,0,New Orleans,3
+5,0,5,3,3,100,8,5,62,Jameer,0,0,0,35,0,0,Jameer Nelson,13,5,Nelson,N/A,4,New Orleans,3
+0,0,0,0,0,0,3,1,33,Tony,2,0,0,12,1,2,Tony Allen,2,1,Allen,N/A,1,New Orleans,0
+1,0,2,6,3,50,8,4,50,Darius,0,0,0,28,0,1,Darius Miller,11,2,Miller,N/A,0,New Orleans,1
+2,0,2,2,0,0,3,0,0,Ian,1,0,0,12,0,0,Ian Clark,0,2,Clark,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cheick,N/A,N/A,N/A,N/A,N/A,N/A,Cheick Diallo,N/A,N/A,Diallo,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Smith,N/A,N/A,Smith,N/A,N/A,New Orleans,N/A
+2,1,3,1,1,100,7,3,43,David,0,0,0,20,1,2,David Nwaba,7,4,Nwaba,F,1,Chicago,1
+4,1,6,11,2,18,16,5,31,Lauri,2,2,100,40,1,2,Lauri Markkanen,14,7,Markkanen,F,0,Chicago,1
+1,1,5,0,0,0,17,6,35,Robin,4,2,50,43,4,5,Robin Lopez,14,9,Lopez,C,0,Chicago,5
+1,1,8,10,3,30,20,7,35,Justin,2,1,50,43,1,0,Justin Holiday,18,9,Holiday,G,3,Chicago,1
+9,1,5,5,1,20,9,4,44,Jerian,4,4,100,36,3,1,Jerian Grant,13,8,Grant,G,1,Chicago,0
+3,0,5,7,4,57,10,6,60,Denzel,0,0,0,35,1,2,Denzel Valentine,16,6,Valentine,N/A,1,Chicago,3
+3,0,3,4,0,0,9,2,22,Kris,0,0,0,17,1,2,Kris Dunn,4,4,Dunn,N/A,3,Chicago,4
+0,0,4,3,0,0,8,2,25,Paul,0,0,0,18,1,0,Paul Zipser,4,5,Zipser,N/A,1,Chicago,1
+0,0,2,0,0,0,2,0,0,Cristiano,0,0,0,10,3,4,Cristiano Felicio,0,5,Felicio,N/A,0,Chicago,0
+0,0,1,1,0,0,1,0,0,Quincy,0,0,0,4,0,1,Quincy Pondexter,0,1,Pondexter,N/A,0,Chicago,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kay,N/A,N/A,N/A,N/A,N/A,N/A,Kay Felder,N/A,N/A,Felder,N/A,N/A,Chicago,N/A

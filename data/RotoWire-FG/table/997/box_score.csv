@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,7,2,1,50,8,3,38,Wes,0,0,0,32,1,3,Wes Iwundu,7,8,Iwundu,F,0,Orlando,2
+3,1,5,5,1,20,10,2,20,Jarell,2,2,100,28,1,2,Jarell Martin,7,6,Martin,F,2,Orlando,0
+1,1,10,3,1,33,17,10,59,Nikola,0,0,0,26,4,1,Nikola Vucevic,21,14,Vucevic,C,1,Orlando,2
+2,0,2,5,3,60,7,3,43,D.J.,0,0,0,24,0,0,D.J. Augustin,9,2,Augustin,G,3,Orlando,1
+4,0,2,6,2,33,13,5,38,Evan,0,0,0,19,0,2,Evan Fournier,12,2,Fournier,G,1,Orlando,0
+3,2,2,8,5,62,12,8,67,Terrence,1,1,100,22,0,4,Terrence Ross,22,2,Ross,N/A,0,Orlando,1
+7,2,1,3,0,0,9,3,33,Jonathon,3,3,100,28,1,1,Jonathon Simmons,9,2,Simmons,N/A,0,Orlando,1
+0,2,8,3,1,33,11,5,46,Mo,5,4,80,18,0,4,Mo Bamba,15,8,Bamba,N/A,0,Orlando,0
+8,0,2,6,3,50,6,3,50,Jerian,0,0,0,28,0,2,Jerian Grant,9,2,Grant,N/A,1,Orlando,1
+1,0,2,0,0,0,3,2,67,Khem,0,0,0,5,3,1,Khem Birch,4,5,Birch,N/A,2,Orlando,2
+0,0,0,1,0,0,1,0,0,Melvin,0,0,0,5,0,0,Melvin Frazier Jr.,0,0,Frazier,N/A,0,Orlando,1
+0,0,1,0,0,0,1,0,0,Isaiah,0,0,0,5,0,1,Isaiah Briscoe,0,1,Briscoe,N/A,0,Orlando,0
+0,0,1,2,1,50,4,2,50,Damyean,0,0,0,21,0,0,Damyean Dotson,5,1,Dotson,F,0,New York,2
+0,1,8,1,0,0,6,2,33,Noah,0,0,0,23,1,1,Noah Vonleh,4,9,Vonleh,F,0,New York,3
+0,9,4,0,0,0,3,2,67,Mitchell,0,0,0,22,0,2,Mitchell Robinson,4,4,Robinson,C,0,New York,0
+1,0,6,6,0,0,12,2,17,Tim,4,3,75,26,0,3,Tim Hardaway Jr.,7,6,Hardaway,G,1,New York,2
+0,1,1,2,0,0,3,0,0,Frank,0,0,0,6,0,1,Frank Ntilikina,0,1,Ntilikina,G,0,New York,2
+1,0,7,1,0,0,15,7,47,Enes,2,2,100,26,8,2,Enes Kanter,16,15,Kanter,N/A,0,New York,1
+1,1,5,3,2,67,9,3,33,Mario,6,4,67,27,0,4,Mario Hezonja,12,5,Hezonja,N/A,0,New York,0
+0,0,3,2,0,0,4,1,25,Emmanuel,3,1,33,17,0,1,Emmanuel Mudiay,3,3,Mudiay,N/A,0,New York,2
+0,0,0,6,2,33,11,4,36,Kevin,10,7,70,26,2,2,Kevin Knox,17,2,Knox,N/A,1,New York,2
+4,3,4,2,0,0,8,3,38,Allonzo,3,3,100,22,1,4,Allonzo Trier,9,5,Trier,N/A,1,New York,4
+5,0,1,3,0,0,13,5,38,Trey,0,0,0,20,0,1,Trey Burke,10,1,Burke,N/A,0,New York,1
+1,0,1,0,0,0,0,0,0,Ron,2,2,100,5,1,0,Ron Baker,2,2,Baker,N/A,1,New York,0

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,5,3,1,33,8,4,50,Aaron,4,3,75,28,0,2,Aaron Gordon,12,5,Gordon,F,0,Orlando,2
+2,1,6,5,4,80,15,8,53,Serge,0,0,0,40,3,5,Serge Ibaka,20,9,Ibaka,F,1,Orlando,1
+1,1,7,0,0,0,4,3,75,Bismack,4,0,0,31,2,3,Bismack Biyombo,6,9,Biyombo,C,0,Orlando,1
+4,0,5,5,3,60,22,11,50,Evan,2,1,50,44,0,4,Evan Fournier,26,5,Fournier,G,0,Orlando,1
+6,0,1,4,1,25,9,2,22,D.J.,3,2,67,26,0,2,D.J. Augustin,7,1,Augustin,G,0,Orlando,1
+3,2,11,1,1,100,20,11,55,Nikola,5,3,60,40,1,5,Nikola Vucevic,26,12,Vucevic,N/A,0,Orlando,4
+6,1,2,1,0,0,13,8,62,Elfrid,7,6,86,36,0,2,Elfrid Payton,22,2,Payton,N/A,1,Orlando,1
+1,0,3,1,0,0,9,4,44,Jeff,6,6,100,32,0,2,Jeff Green,14,3,Green,N/A,1,Orlando,0
+0,0,1,2,1,50,5,1,20,Jodie,0,0,0,13,0,0,Jodie Meeks,3,1,Meeks,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mario,N/A,N/A,N/A,N/A,N/A,N/A,Mario Hezonja,N/A,N/A,Hezonja,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Arinze,N/A,N/A,N/A,N/A,N/A,N/A,Arinze Onuaku,N/A,N/A,Onuaku,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damjan,N/A,N/A,N/A,N/A,N/A,N/A,Damjan Rudez,N/A,N/A,Rudez,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,C.J.,N/A,N/A,N/A,N/A,N/A,N/A,C.J. Watson,N/A,N/A,Watson,N/A,N/A,Orlando,N/A
+2,0,4,1,0,0,17,6,35,Justise,1,1,100,46,1,4,Justise Winslow,13,5,Winslow,F,0,Miami,1
+0,0,0,0,0,0,4,2,50,Josh,2,1,50,17,1,2,Josh McRoberts,5,1,McRoberts,F,0,Miami,1
+0,5,11,0,0,0,22,14,64,Hassan,6,4,67,47,4,5,Hassan Whiteside,32,15,Whiteside,C,1,Miami,1
+6,0,3,8,2,25,12,2,17,Josh,4,3,75,44,1,4,Josh Richardson,9,4,Richardson,G,0,Miami,2
+5,0,4,6,3,50,17,6,35,Goran,6,4,67,45,0,6,Goran Dragic,19,4,Dragic,G,0,Miami,4
+3,0,5,5,3,60,20,13,65,Tyler,5,3,60,38,0,6,Tyler Johnson,32,5,Johnson,N/A,3,Miami,0
+6,0,7,6,2,33,10,5,50,James,0,0,0,28,1,1,James Johnson,12,8,Johnson,N/A,0,Miami,1
+0,0,3,1,0,0,2,0,0,Willie,0,0,0,11,1,1,Willie Reed,0,4,Reed,N/A,0,Miami,0
+0,1,2,3,2,67,4,2,50,Luke,2,2,100,15,0,1,Luke Babbitt,8,2,Babbitt,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wayne,N/A,N/A,N/A,N/A,N/A,N/A,Wayne Ellington,N/A,N/A,Ellington,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rodney,N/A,N/A,N/A,N/A,N/A,N/A,Rodney McGruder,N/A,N/A,McGruder,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Williams,N/A,N/A,Williams,N/A,N/A,Miami,N/A

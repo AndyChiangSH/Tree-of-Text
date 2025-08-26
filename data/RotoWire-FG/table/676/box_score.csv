@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,7,2,29,12,4,33,Trevor,4,3,75,38,0,2,Trevor Ariza,13,3,Ariza,F,2,Houston,1
+0,0,1,0,0,0,1,1,100,Montrezl,4,3,75,13,1,3,Montrezl Harrell,5,2,Harrell,F,0,Houston,1
+1,1,7,0,0,0,6,4,67,Dwight,6,4,67,28,3,5,Dwight Howard,12,10,Howard,C,1,Houston,6
+5,2,8,5,1,20,19,9,47,James,11,9,82,38,0,4,James Harden,28,8,Harden,G,3,Houston,4
+7,1,0,2,0,0,7,0,0,Ty,0,0,0,34,0,2,Ty Lawson,0,0,Lawson,G,1,Houston,1
+1,0,0,1,0,0,2,0,0,Patrick,0,0,0,8,0,2,Patrick Beverley,0,0,Beverley,N/A,0,Houston,1
+0,4,3,4,3,75,12,9,75,Terrence,2,2,100,21,4,1,Terrence Jones,23,7,Jones,N/A,0,Houston,2
+0,0,3,0,0,0,2,1,50,Clint,4,2,50,13,0,0,Clint Capela,4,3,Capela,N/A,1,Houston,0
+1,0,4,4,0,0,8,2,25,Marcus,0,0,0,18,0,0,Marcus Thornton,4,4,Thornton,N/A,1,Houston,0
+1,0,3,0,0,0,2,0,0,Corey,0,0,0,14,0,4,Corey Brewer,0,3,Brewer,N/A,0,Houston,1
+0,0,0,6,3,50,6,3,50,Jason,0,0,0,16,0,2,Jason Terry,9,0,Terry,N/A,1,Houston,3
+3,0,0,4,3,75,9,7,78,Danilo,10,10,100,36,1,3,Danilo Gallinari,27,1,Gallinari,F,1,Denver,2
+1,2,7,0,0,0,16,6,38,Kenneth,2,2,100,30,4,3,Kenneth Faried,14,11,Faried,F,0,Denver,0
+2,0,4,0,0,0,9,5,56,JJ,2,0,0,23,2,4,JJ Hickson,10,6,Hickson,C,1,Denver,1
+0,0,3,1,1,100,3,1,33,Gary,0,0,0,11,1,4,Gary Harris,3,4,Harris,G,1,Denver,1
+11,2,3,3,0,0,10,1,10,Emmanuel,0,0,0,33,1,2,Emmanuel Mudiay,2,4,Mudiay,G,2,Denver,9
+3,0,1,4,1,25,6,3,50,Randy,4,2,50,26,0,1,Randy Foye,9,1,Foye,N/A,2,Denver,0
+1,0,3,0,0,0,2,0,0,Darrell,0,0,0,12,0,2,Darrell Arthur,0,3,Arthur,N/A,1,Denver,0
+0,0,3,1,0,0,3,1,33,Nikola,2,1,50,6,2,2,Nikola Jokic,3,5,Jokic,N/A,0,Denver,1
+3,0,4,1,0,0,8,5,63,Jameer,5,3,60,28,1,2,Jameer Nelson,13,5,Nelson,N/A,0,Denver,1
+1,0,5,5,4,80,14,8,57,Will,7,6,86,31,0,0,Will Barton,26,5,Barton,N/A,2,Denver,2
+0,0,1,1,0,0,1,0,0,Kostas,0,0,0,4,0,0,Kostas Papanikolaou,0,1,Papanikolaou,N/A,0,Denver,1
+0,0,0,0,0,0,0,0,0,Mike,0,0,0,0,0,0,Mike Miller,0,0,Miller,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey Lauvergne,N/A,N/A,Lauvergne,N/A,N/A,Denver,N/A

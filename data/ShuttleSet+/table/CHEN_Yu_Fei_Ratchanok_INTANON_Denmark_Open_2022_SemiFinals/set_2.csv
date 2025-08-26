@@ -1,0 +1,30 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,17,00:27:07,1,0,CHEN Yufei,drop,hits the net,opponent hits the net
+2,2,00:27:25,2,0,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+3,5,00:27:42,3,0,CHEN Yufei,smash,opponent wins by landing,wins by landing
+4,16,00:28:13,4,0,CHEN Yufei,net shot,hits the net,opponent hits the net
+5,7,00:28:38,4,1,Ratchanok INTANON,net shot,goes out of bounds,opponent goes out of bounds
+6,10,00:29:16,5,1,CHEN Yufei,wrist smash,opponent wins by landing,wins by landing
+7,3,00:29:36,5,2,Ratchanok INTANON,clear,goes out of bounds,opponent goes out of bounds
+8,6,00:29:59,5,3,Ratchanok INTANON,lob,goes out of bounds,opponent goes out of bounds
+9,3,00:30:20,6,3,CHEN Yufei,clear,goes out of bounds,opponent goes out of bounds
+10,8,00:30:43,6,4,Ratchanok INTANON,lob,landing judgment error,opponent landing judgment error
+11,8,00:31:44,6,5,Ratchanok INTANON,return net,fails to clear the net,opponent fails to clear the net
+12,6,00:32:09,7,5,CHEN Yufei,smash,opponent wins by landing,wins by landing
+13,13,00:32:37,8,5,CHEN Yufei,push,opponent wins by landing,wins by landing
+14,4,00:33:10,9,5,CHEN Yufei,smash,goes out of bounds,opponent goes out of bounds
+16,3,00:33:47,10,6,Ratchanok INTANON,smash,goes out of bounds,opponent goes out of bounds
+17,15,00:34:17,11,6,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+18,4,00:35:28,11,7,Ratchanok INTANON,drop,opponent wins by landing,wins by landing
+19,10,00:35:53,12,7,CHEN Yufei,smash,opponent wins by landing,wins by landing
+20,6,00:36:21,13,7,CHEN Yufei,return net,fails to clear the net,opponent fails to clear the net
+21,6,00:36:42,14,7,CHEN Yufei,clear,goes out of bounds,opponent goes out of bounds
+22,4,00:37:00,14,8,Ratchanok INTANON,clear,landing judgment error,opponent landing judgment error
+23,13,00:37:35,15,8,CHEN Yufei,net shot,fails to clear the net,opponent fails to clear the net
+24,6,00:37:55,16,8,CHEN Yufei,net shot,hits the net,opponent hits the net
+25,14,00:38:27,17,8,CHEN Yufei,clear,goes out of bounds,opponent goes out of bounds
+27,15,00:39:22,18,9,CHEN Yufei,lob,hits the net,opponent hits the net
+28,13,00:39:55,19,9,CHEN Yufei,return net,opponent wins by landing,wins by landing
+29,3,00:40:18,19,10,Ratchanok INTANON,net shot,hits the net,opponent hits the net
+30,7,00:40:40,20,10,CHEN Yufei,drop,goes out of bounds,opponent goes out of bounds
+31,7,00:41:03,21,10,CHEN Yufei,wrist smash,opponent wins by landing,wins by landing

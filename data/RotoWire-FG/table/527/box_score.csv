@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,1,6,1,17,14,5,36,Kawhi,10,8,80,36,0,1,Kawhi Leonard,19,1,Leonard,F,3,San Antonio,3
+0,0,5,3,1,33,17,9,53,LaMarcus,6,5,83,34,2,2,LaMarcus Aldridge,24,7,Aldridge,F,1,San Antonio,1
+2,1,8,1,0,0,7,4,57,Pau,0,0,0,29,2,3,Pau Gasol,8,10,Gasol,C,1,San Antonio,2
+2,1,5,4,2,50,4,2,50,Danny,0,0,0,27,0,1,Danny Green,6,5,Green,G,0,San Antonio,1
+3,0,0,1,1,100,13,8,62,Tony,3,3,100,27,1,1,Tony Parker,20,1,Parker,G,0,San Antonio,3
+1,2,7,0,0,0,4,2,50,David,0,0,0,20,0,3,David Lee,4,7,Lee,N/A,0,San Antonio,1
+4,0,3,5,3,60,7,4,57,Patty,2,2,100,19,0,1,Patty Mills,13,3,Mills,N/A,0,San Antonio,1
+4,1,0,2,1,50,6,5,83,Jonathon,4,4,100,23,1,5,Jonathon Simmons,15,1,Simmons,N/A,2,San Antonio,2
+0,0,1,0,0,0,1,1,100,Kyle,2,1,50,9,0,0,Kyle Anderson,3,1,Anderson,N/A,0,San Antonio,0
+1,1,1,2,0,0,2,0,0,Davis,0,0,0,11,0,0,Davis Bertans,0,1,Bertans,N/A,0,San Antonio,0
+0,0,0,0,0,0,0,0,0,Nicolas,0,0,0,1,0,0,Nicolas Laprovittola,0,0,Laprovittola,N/A,0,San Antonio,0
+0,0,0,0,0,0,0,0,0,Dejounte,2,0,0,1,0,0,Dejounte Murray,0,0,Murray,N/A,0,San Antonio,0
+0,0,1,0,0,0,0,0,0,Bryn,0,0,0,1,0,0,Bryn Forbes,0,1,Forbes,N/A,0,San Antonio,0
+3,0,6,1,1,100,8,6,75,Otto,1,1,100,38,2,5,Otto Porter Jr.,14,8,Porter,F,3,Washington,1
+1,0,0,3,2,67,9,4,44,Markieff,2,2,100,18,1,4,Markieff Morris,12,1,Morris,F,1,Washington,1
+1,0,8,0,0,0,7,5,71,Marcin,0,0,0,33,2,3,Marcin Gortat,10,10,Gortat,C,0,Washington,1
+5,0,4,9,3,33,23,11,48,Bradley,0,0,0,38,2,0,Bradley Beal,25,6,Beal,G,2,Washington,0
+5,0,3,1,0,0,16,8,50,John,7,5,71,37,0,3,John Wall,21,3,Wall,G,1,Washington,4
+0,0,1,2,0,0,4,1,25,Andrew,0,0,0,7,0,3,Andrew Nicholson,2,1,Nicholson,N/A,0,Washington,1
+0,1,1,0,0,0,1,0,0,Ian,2,1,50,14,0,3,Ian Mahinmi,1,1,Mahinmi,N/A,1,Washington,2
+3,0,0,2,0,0,3,0,0,Tomas,0,0,0,12,1,3,Tomas Satoransky,0,1,Satoransky,N/A,2,Washington,1
+0,0,1,1,0,0,1,0,0,Kelly,2,1,50,3,0,0,Kelly Oubre Jr.,1,1,Oubre,N/A,0,Washington,0
+0,0,2,1,0,0,6,2,33,Jason,0,0,0,16,2,1,Jason Smith,4,4,Smith,N/A,0,Washington,0
+2,0,2,1,0,0,3,1,33,Marcus,0,0,0,15,2,0,Marcus Thornton,2,4,Thornton,N/A,1,Washington,1
+1,0,0,1,0,0,7,4,57,Trey,0,0,0,9,0,1,Trey Burke,8,0,Burke,N/A,0,Washington,0
+0,0,0,0,0,0,0,0,0,Sheldon,0,0,0,1,0,0,Sheldon McClellan,0,0,McClellan,N/A,0,Washington,0

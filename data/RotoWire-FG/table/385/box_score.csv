@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,0,3,5,1,20,14,6,43,Paul,1,1,100,39,0,2,Paul George,14,3,George,F,1,Indiana,4
+0,0,3,5,2,40,11,5,46,Thaddeus,0,0,0,32,3,1,Thaddeus Young,12,6,Young,F,3,Indiana,3
+0,2,8,3,1,33,15,7,47,Myles,2,1,50,28,0,4,Myles Turner,16,8,Turner,C,0,Indiana,0
+1,1,4,3,1,33,5,1,20,Glenn,0,0,0,32,2,1,Glenn Robinson III,3,6,Robinson,G,1,Indiana,1
+5,0,1,3,1,33,8,2,25,Jeff,2,1,50,24,1,0,Jeff Teague,6,2,Teague,G,0,Indiana,3
+0,0,0,0,0,0,2,1,50,Rodney,0,0,0,6,0,0,Rodney Stuckey,2,0,Stuckey,N/A,0,Indiana,0
+3,0,3,0,0,0,9,5,56,Al,1,1,100,20,2,4,Al Jefferson,11,5,Jefferson,N/A,0,Indiana,1
+1,0,4,2,0,0,6,0,0,CJ,0,0,0,25,0,4,CJ Miles,0,4,Miles,N/A,0,Indiana,0
+7,1,3,4,3,75,8,6,75,Aaron,4,4,100,24,1,1,Aaron Brooks,19,4,Brooks,N/A,0,Indiana,3
+1,1,2,0,0,0,3,1,33,Kevin,0,0,0,9,0,4,Kevin Seraphin,2,2,Seraphin,N/A,0,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lavoy,N/A,N/A,N/A,N/A,N/A,N/A,Lavoy Allen,N/A,N/A,Allen,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Georges,N/A,N/A,N/A,N/A,N/A,N/A,Georges Niang,N/A,N/A,Niang,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+5,0,5,3,1,33,12,3,25,Jimmy,12,9,75,40,0,1,Jimmy Butler,16,5,Butler,F,2,Chicago,2
+0,0,2,0,0,0,12,5,42,Taj,0,0,0,22,0,1,Taj Gibson,10,2,Gibson,F,1,Chicago,2
+0,1,7,0,0,0,8,4,50,Robin,1,0,0,32,5,3,Robin Lopez,8,12,Lopez,C,2,Chicago,3
+5,2,2,4,0,0,19,8,42,Dwyane,5,5,100,33,1,1,Dwyane Wade,21,3,Wade,G,2,Chicago,2
+5,0,5,3,0,0,6,1,17,Rajon,0,0,0,24,4,3,Rajon Rondo,2,9,Rondo,G,0,Chicago,2
+2,0,5,2,0,0,5,0,0,Michael,2,1,50,19,0,1,Michael Carter-Williams,1,5,Carter-Williams,N/A,1,Chicago,1
+0,0,3,9,3,33,13,7,54,Nikola,4,3,75,30,4,1,Nikola Mirotic,20,7,Mirotic,N/A,0,Chicago,0
+0,0,2,4,2,50,7,4,57,Jerian,0,0,0,29,1,3,Jerian Grant,10,3,Grant,N/A,2,Chicago,1
+0,0,1,0,0,0,1,0,0,Cristiano,4,2,50,12,1,1,Cristiano Felicio,2,2,Felicio,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah Canaan,N/A,N/A,Canaan,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Portis,N/A,N/A,Portis,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Denzel,N/A,N/A,N/A,N/A,N/A,N/A,Denzel Valentine,N/A,N/A,Valentine,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Zipser,N/A,N/A,Zipser,N/A,N/A,Chicago,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,5,3,2,67,10,6,60,Jimmy,9,8,89,27,1,3,Jimmy Butler,22,6,Butler,F,0,Chicago,1
+0,1,9,0,0,0,9,7,78,Taj,0,0,0,25,2,3,Taj Gibson,14,11,Gibson,F,1,Chicago,2
+2,2,3,0,0,0,5,1,20,Robin,2,2,100,19,2,1,Robin Lopez,4,5,Lopez,C,0,Chicago,0
+4,1,3,3,1,33,13,5,39,Dwyane,1,1,100,29,0,3,Dwyane Wade,12,3,Wade,G,3,Chicago,5
+4,1,3,1,0,0,8,5,63,Rajon,0,0,0,25,1,2,Rajon Rondo,10,4,Rondo,G,2,Chicago,3
+3,0,3,3,0,0,10,4,40,Doug,4,4,100,24,0,2,Doug McDermott,12,3,McDermott,N/A,0,Chicago,1
+3,3,9,10,4,40,14,6,43,Nikola,0,0,0,25,1,1,Nikola Mirotic,16,10,Mirotic,N/A,0,Chicago,3
+1,0,5,0,0,0,4,2,50,Cristiano,0,0,0,23,2,3,Cristiano Felicio,4,7,Felicio,N/A,0,Chicago,1
+0,0,2,0,0,0,1,0,0,Michael,0,0,0,5,0,1,Michael Carter-Williams,0,2,Carter-Williams,N/A,1,Chicago,2
+6,0,2,4,3,75,7,5,71,Isaiah,2,2,100,22,1,2,Isaiah Canaan,15,3,Canaan,N/A,1,Chicago,0
+0,1,0,3,1,33,3,1,33,Denzel,0,0,0,7,0,1,Denzel Valentine,3,0,Valentine,N/A,0,Chicago,0
+0,0,0,0,0,0,4,3,75,Bobby,0,0,0,4,2,0,Bobby Portis,6,2,Portis,N/A,0,Chicago,1
+1,0,1,0,0,0,1,0,0,Paul,0,0,0,4,1,0,Paul Zipser,0,2,Zipser,N/A,1,Chicago,0
+3,1,2,0,0,0,7,1,14,Rondae,0,0,0,30,1,1,Rondae Hollis-Jefferson,2,3,Hollis-Jefferson,F,0,Brooklyn,2
+0,0,6,2,0,0,7,2,29,Trevor,2,1,50,19,2,0,Trevor Booker,5,8,Booker,F,3,Brooklyn,1
+0,1,0,1,0,0,11,5,46,Brook,3,3,100,22,2,2,Brook Lopez,13,2,Lopez,C,0,Brooklyn,1
+1,0,1,4,2,50,11,5,46,Bojan,4,3,75,21,2,1,Bojan Bogdanovic,15,3,Bogdanovic,G,0,Brooklyn,1
+4,0,2,2,1,50,10,6,60,Jeremy,2,1,50,24,0,0,Jeremy Lin,14,2,Lin,G,4,Brooklyn,3
+1,0,2,5,1,20,8,4,50,Joe,1,0,0,23,0,3,Joe Harris,9,2,Harris,N/A,1,Brooklyn,1
+0,1,5,2,0,0,4,0,0,Justin,0,0,0,17,2,0,Justin Hamilton,0,7,Hamilton,N/A,1,Brooklyn,0
+3,0,4,1,0,0,5,2,40,Luis,0,0,0,16,4,4,Luis Scola,4,8,Scola,N/A,1,Brooklyn,0
+2,0,2,2,0,0,11,3,27,Isaiah,0,0,0,21,2,3,Isaiah Whitehead,6,4,Whitehead,N/A,0,Brooklyn,5
+0,0,2,6,0,0,13,3,23,Sean,7,7,100,25,0,1,Sean Kilpatrick,13,2,Kilpatrick,N/A,1,Brooklyn,1
+0,0,1,5,1,20,7,2,29,Anthony,2,2,100,12,0,0,Anthony Bennett,7,1,Bennett,N/A,1,Brooklyn,0
+0,0,2,1,0,0,2,0,0,Chris,0,0,0,10,1,0,Chris McCullough,0,3,McCullough,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greivis,N/A,N/A,N/A,N/A,N/A,N/A,Greivis Vasquez,N/A,N/A,Vasquez,N/A,N/A,Brooklyn,N/A

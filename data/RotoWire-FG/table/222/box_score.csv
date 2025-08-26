@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,2,2,0,0,0,6,5,83,Tayshaun,0,0,0,30,0,3,Tayshaun Prince,10,2,Prince,F,0,Minnesota,0
+2,0,3,0,0,0,7,5,71,Kevin,0,0,0,16,0,2,Kevin Garnett,10,3,Garnett,F,0,Minnesota,1
+1,0,11,0,0,0,7,4,57,Karl-Anthony,3,2,67,31,1,5,Karl-Anthony Towns,10,12,Towns,C,1,Minnesota,1
+1,0,4,1,0,0,18,8,44,Andrew,8,2,25,37,2,3,Andrew Wiggins,18,6,Wiggins,G,2,Minnesota,3
+14,0,3,2,0,0,9,2,22,Ricky,4,3,75,37,0,5,Ricky Rubio,7,3,Rubio,G,4,Minnesota,1
+2,0,2,0,0,0,9,3,33,Gorgui,4,2,50,23,3,5,Gorgui Dieng,8,5,Dieng,N/A,3,Minnesota,5
+2,0,0,4,0,0,14,5,36,Zach,5,5,100,25,0,1,Zach LaVine,15,0,LaVine,N/A,0,Minnesota,1
+0,2,1,2,1,50,6,3,50,Adreian,0,0,0,14,0,3,Adreian Payne,7,1,Payne,N/A,2,Minnesota,0
+2,0,0,0,0,0,2,1,50,Tyus,0,0,0,11,0,2,Tyus Jones,2,0,Jones,N/A,0,Minnesota,3
+0,0,0,2,2,100,4,3,75,Shabazz,0,0,0,12,0,0,Shabazz Muhammad,8,0,Muhammad,N/A,0,Minnesota,0
+1,0,0,0,0,0,0,0,0,Nemanja,0,0,0,5,0,0,Nemanja Bjelica,0,0,Bjelica,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Martin,N/A,N/A,Martin,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andre,N/A,N/A,N/A,N/A,N/A,N/A,Andre Miller,N/A,N/A,Miller,N/A,N/A,Minnesota,N/A
+3,0,11,1,1,100,9,5,56,Kawhi,7,6,86,37,0,5,Kawhi Leonard,17,11,Leonard,F,1,San Antonio,0
+1,0,5,0,0,0,8,3,38,LaMarcus,0,0,0,27,1,5,LaMarcus Aldridge,6,6,Aldridge,F,0,San Antonio,3
+0,0,2,0,0,0,8,4,50,David,3,3,100,27,0,1,David West,11,2,West,C,0,San Antonio,1
+1,1,0,4,0,0,7,3,43,Danny,0,0,0,21,0,1,Danny Green,6,0,Green,G,1,San Antonio,0
+7,1,4,2,0,0,9,2,22,Tony,12,8,67,31,0,1,Tony Parker,12,4,Parker,G,0,San Antonio,2
+4,0,4,6,3,50,11,5,46,Manu,0,0,0,24,1,1,Manu Ginobili,13,5,Ginobili,N/A,0,San Antonio,2
+4,0,0,4,1,25,7,4,57,Patty,2,2,100,19,0,0,Patty Mills,11,0,Mills,N/A,1,San Antonio,1
+0,1,2,0,0,0,7,7,100,Boban,4,3,75,15,2,2,Boban Marjanovic,17,4,Marjanovic,N/A,1,San Antonio,2
+4,1,1,0,0,0,2,2,100,Boris,0,0,0,26,1,2,Boris Diaw,4,2,Diaw,N/A,0,San Antonio,3
+1,0,0,0,0,0,2,0,0,Jonathon,0,0,0,3,0,0,Jonathon Simmons,0,0,Simmons,N/A,0,San Antonio,0
+0,1,2,0,0,0,2,2,100,Kyle,0,0,0,10,0,0,Kyle Anderson,4,2,Anderson,N/A,1,San Antonio,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Matt,N/A,N/A,N/A,N/A,N/A,N/A,Matt Bonner,N/A,N/A,Bonner,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ray,N/A,N/A,N/A,N/A,N/A,N/A,Ray McCallum,N/A,N/A,McCallum,N/A,N/A,San Antonio,N/A

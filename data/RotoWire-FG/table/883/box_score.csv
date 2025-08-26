@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,0,0,0,12,5,42,Brandon,4,3,75,35,0,2,Brandon Ingram,13,5,Ingram,F,0,Los Angeles,2
+1,0,6,0,0,0,9,7,78,Julius,7,6,86,27,3,3,Julius Randle,20,9,Randle,F,0,Los Angeles,3
+0,0,1,3,0,0,7,2,29,Brook,2,1,50,9,0,2,Brook Lopez,5,1,Lopez,C,1,Los Angeles,1
+3,0,1,3,1,33,9,4,44,Kentavious,3,3,100,32,1,4,Kentavious Caldwell-Pope,12,2,Caldwell-Pope,G,1,Los Angeles,1
+0,0,3,1,0,0,4,2,50,Tyler,2,1,50,10,1,3,Tyler Ennis,5,4,Ennis,G,0,Los Angeles,0
+2,0,2,2,0,0,5,1,20,Alex,0,0,0,15,1,1,Alex Caruso,2,3,Caruso,N/A,1,Los Angeles,3
+1,0,4,3,0,0,13,5,38,Kyle,2,1,50,28,0,0,Kyle Kuzma,11,4,Kuzma,N/A,0,Los Angeles,1
+3,1,4,5,2,40,14,7,50,Jordan,4,4,100,24,1,0,Jordan Clarkson,20,5,Clarkson,N/A,1,Los Angeles,3
+0,0,0,0,0,0,4,3,75,Larry,2,2,100,25,3,3,Larry Nance Jr.,8,3,Nance,N/A,2,Los Angeles,0
+0,0,4,0,0,0,3,2,67,Corey,2,1,50,14,0,0,Corey Brewer,5,4,Brewer,N/A,1,Los Angeles,2
+2,0,1,2,1,50,2,1,50,Josh,0,0,0,14,0,0,Josh Hart,3,1,Hart,N/A,0,Los Angeles,0
+1,0,1,1,0,0,1,0,0,Thomas,2,1,50,7,1,0,Thomas Bryant,1,2,Bryant,N/A,0,Los Angeles,0
+2,1,0,2,2,100,8,4,50,Jonathon,4,4,100,24,0,2,Jonathon Simmons,14,0,Simmons,F,0,Orlando,1
+1,0,3,6,3,50,11,6,55,Marreese,7,6,86,23,1,4,Marreese Speights,21,4,Speights,F,0,Orlando,0
+1,0,6,0,0,0,4,2,50,Bismack,4,1,25,31,0,5,Bismack Biyombo,5,6,Biyombo,C,0,Orlando,1
+4,0,2,7,5,71,10,6,60,Evan,2,2,100,27,0,1,Evan Fournier,19,2,Fournier,G,1,Orlando,1
+6,1,7,0,0,0,10,6,60,Elfrid,7,3,43,24,0,4,Elfrid Payton,15,7,Payton,G,4,Orlando,3
+3,0,4,5,4,80,8,5,62,Mario,0,0,0,25,0,2,Mario Hezonja,14,4,Hezonja,N/A,1,Orlando,1
+3,0,3,6,2,33,11,5,46,D.J.,0,0,0,21,1,0,D.J. Augustin,12,4,Augustin,N/A,3,Orlando,2
+0,0,2,0,0,0,2,1,50,Khem,0,0,0,12,0,3,Khem Birch,2,2,Birch,N/A,0,Orlando,2
+7,0,1,4,0,0,9,4,44,Shelvin,5,5,100,24,0,0,Shelvin Mack,13,1,Mack,N/A,2,Orlando,1
+1,2,3,0,0,0,5,3,60,Wes,0,0,0,21,2,1,Wes Iwundu,6,5,Iwundu,N/A,2,Orlando,1
+0,0,0,2,2,100,3,2,67,Arron,0,0,0,7,0,1,Arron Afflalo,6,0,Afflalo,N/A,0,Orlando,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Gordon,N/A,N/A,Gordon,N/A,N/A,Orlando,N/A

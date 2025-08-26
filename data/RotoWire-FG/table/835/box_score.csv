@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,7,3,2,67,15,8,53,Wilson,4,3,75,42,4,2,Wilson Chandler,21,11,Chandler,F,0,Denver,2
+6,2,6,6,2,33,21,12,57,Nikola,1,1,100,37,3,4,Nikola Jokic,27,9,Jokic,F,0,Denver,4
+3,5,2,0,0,0,7,4,57,Mason,0,0,0,25,3,2,Mason Plumlee,8,5,Plumlee,C,1,Denver,1
+2,1,1,3,0,0,12,7,58,Gary,4,3,75,38,1,0,Gary Harris,17,2,Harris,G,3,Denver,2
+4,0,2,5,1,20,10,3,30,Jamal,0,0,0,27,0,2,Jamal Murray,7,2,Murray,G,0,Denver,3
+1,2,5,3,1,33,8,4,50,Will,4,3,75,26,2,2,Will Barton,12,7,Barton,N/A,0,Denver,1
+3,0,7,3,1,33,10,4,40,Trey,2,1,50,33,2,1,Trey Lyles,10,9,Lyles,N/A,0,Denver,1
+0,0,2,2,0,0,2,0,0,Torrey,0,0,0,11,1,0,Torrey Craig,0,3,Craig,N/A,0,Denver,0
+0,0,0,0,0,0,0,0,0,Malik,0,0,0,1,0,0,Malik Beasley,0,0,Beasley,N/A,0,Denver,0
+0,0,1,0,0,0,0,0,0,Juancho,0,0,0,1,0,0,Juancho Hernangomez,0,1,Hernangomez,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth Faried,N/A,N/A,Faried,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richard,N/A,N/A,N/A,N/A,N/A,N/A,Richard Jefferson,N/A,N/A,Jefferson,N/A,N/A,Denver,N/A
+2,0,2,1,1,100,4,3,75,Evan,0,0,0,22,0,0,Evan Turner,7,2,Turner,F,1,Portland,1
+0,2,6,8,1,12,9,1,11,Al-Farouq,0,0,0,27,0,2,Al-Farouq Aminu,3,6,Aminu,F,1,Portland,1
+0,0,0,0,0,0,10,4,40,Jusuf,4,2,50,24,1,2,Jusuf Nurkic,10,1,Nurkic,C,0,Portland,4
+2,0,1,0,0,0,1,0,0,Jake,0,0,0,10,0,2,Jake Layman,0,1,Layman,G,0,Portland,0
+3,0,2,5,1,20,18,7,39,CJ,0,0,0,34,1,0,CJ McCollum,15,3,McCollum,G,0,Portland,2
+5,0,2,5,1,20,15,6,40,Shabazz,2,1,50,37,2,1,Shabazz Napier,14,4,Napier,N/A,3,Portland,0
+2,0,2,1,1,100,6,4,67,Zach,2,1,50,18,0,6,Zach Collins,10,2,Collins,N/A,0,Portland,0
+1,0,4,0,0,0,6,2,33,Ed,6,4,67,21,4,2,Ed Davis,8,8,Davis,N/A,0,Portland,1
+0,2,1,0,0,0,5,2,40,Maurice,0,0,0,19,1,0,Maurice Harkless,4,2,Harkless,N/A,1,Portland,0
+0,0,3,2,1,50,6,5,83,Pat,2,1,50,22,1,3,Pat Connaughton,12,4,Connaughton,N/A,0,Portland,0
+0,0,0,0,0,0,2,1,50,Caleb,0,0,0,4,0,0,Caleb Swanigan,2,0,Swanigan,N/A,0,Portland,0
+0,0,1,0,0,0,1,0,0,Noah,0,0,0,3,0,1,Noah Vonleh,0,1,Vonleh,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Meyers,N/A,N/A,N/A,N/A,N/A,N/A,Meyers Leonard,N/A,N/A,Leonard,N/A,N/A,Portland,N/A

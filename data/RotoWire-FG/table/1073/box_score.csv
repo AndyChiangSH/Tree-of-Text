@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,6,3,50,7,3,43,Reggie,0,0,0,33,0,3,Reggie Bullock,9,3,Bullock,F,0,Detroit,2
+4,0,4,9,3,33,24,12,50,Blake,11,8,73,40,3,2,Blake Griffin,35,7,Griffin,F,1,Detroit,6
+0,0,9,0,0,0,16,9,56,Andre,8,5,62,38,6,3,Andre Drummond,23,15,Drummond,C,3,Detroit,1
+2,0,2,1,1,100,3,3,100,Bruce,0,0,0,18,0,4,Bruce Brown,7,2,Brown,G,0,Detroit,0
+9,0,3,9,3,33,14,4,29,Reggie,1,1,100,35,0,2,Reggie Jackson,12,3,Jackson,G,0,Detroit,1
+1,0,3,4,1,25,5,2,40,Langston,0,0,0,13,2,0,Langston Galloway,5,5,Galloway,N/A,1,Detroit,0
+0,0,0,0,0,0,2,1,50,Zaza,3,3,100,10,2,4,Zaza Pachulia,5,2,Pachulia,N/A,0,Detroit,1
+2,0,0,1,0,0,2,0,0,Jose,0,0,0,12,0,2,Jose Calderon,0,0,Calderon,N/A,0,Detroit,0
+0,0,5,3,1,33,5,1,20,Luke,0,0,0,16,0,1,Luke Kennard,3,5,Kennard,N/A,0,Detroit,1
+1,0,4,4,0,0,6,0,0,Stanley,2,2,100,23,0,4,Stanley Johnson,2,4,Johnson,N/A,1,Detroit,0
+0,0,0,1,0,0,1,0,0,Khyri,0,0,0,2,0,1,Khyri Thomas,0,0,Thomas,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jon,N/A,N/A,N/A,N/A,N/A,N/A,Jon Leuer,N/A,N/A,Leuer,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Glenn,N/A,N/A,N/A,N/A,N/A,N/A,Glenn Robinson III,N/A,N/A,Robinson,N/A,N/A,Detroit,N/A
+0,0,1,3,0,0,4,0,0,Wesley,0,0,0,15,0,1,Wesley Matthews,0,1,Matthews,F,0,Dallas,0
+3,0,4,4,2,50,10,2,20,Harrison,4,3,75,35,0,3,Harrison Barnes,9,4,Barnes,F,1,Dallas,2
+2,0,7,0,0,0,10,6,60,DeAndre,2,1,50,31,4,4,DeAndre Jordan,13,11,Jordan,C,1,Dallas,0
+8,1,7,9,3,33,19,9,47,Luka,13,11,85,35,1,3,Luka Doncic,32,8,Doncic,G,2,Dallas,4
+5,0,2,6,2,33,14,8,57,Dennis,3,1,33,36,0,2,Dennis Smith Jr.,19,2,Smith,G,0,Dallas,3
+1,0,6,0,0,0,6,4,67,Dwight,2,1,50,21,0,3,Dwight Powell,9,6,Powell,N/A,0,Dallas,0
+1,4,2,7,4,57,7,4,57,Maxi,0,0,0,22,1,5,Maxi Kleber,12,3,Kleber,N/A,1,Dallas,0
+2,0,0,3,1,33,5,1,20,Devin,4,0,0,17,0,2,Devin Harris,3,0,Harris,N/A,1,Dallas,0
+1,0,1,1,0,0,2,0,0,Dirk,0,0,0,10,0,0,Dirk Nowitzki,0,1,Nowitzki,N/A,0,Dallas,0
+1,1,4,3,2,67,4,3,75,Dorian,2,1,50,18,3,2,Dorian Finney-Smith,9,7,Finney-Smith,N/A,2,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Broekhoff,N/A,N/A,Broekhoff,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jalen,N/A,N/A,N/A,N/A,N/A,N/A,Jalen Brunson,N/A,N/A,Brunson,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Salah,N/A,N/A,N/A,N/A,N/A,N/A,Salah Mejri,N/A,N/A,Mejri,N/A,N/A,Dallas,N/A

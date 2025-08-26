@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,2,2,100,6,4,67,Evan,0,0,0,26,0,4,Evan Turner,10,3,Turner,F,0,Portland,2
+1,1,5,0,0,0,4,2,50,Al-Farouq,0,0,0,25,2,3,Al-Farouq Aminu,4,7,Aminu,F,2,Portland,1
+1,0,5,0,0,0,12,7,58,Jusuf,3,0,0,33,6,2,Jusuf Nurkic,14,11,Nurkic,C,1,Portland,2
+4,1,4,9,2,22,25,7,28,CJ,0,0,0,33,1,0,CJ McCollum,16,5,McCollum,G,0,Portland,6
+2,0,4,5,1,20,9,2,22,Shabazz,3,3,100,29,0,2,Shabazz Napier,8,4,Napier,G,1,Portland,1
+1,0,2,1,0,0,4,0,0,Zach,2,1,50,15,1,2,Zach Collins,1,3,Collins,N/A,0,Portland,1
+0,0,3,1,0,0,6,4,67,Pat,1,1,100,19,1,2,Pat Connaughton,9,4,Connaughton,N/A,2,Portland,0
+0,0,2,0,0,0,1,1,100,Meyers,0,0,0,3,0,0,Meyers Leonard,2,2,Leonard,N/A,0,Portland,0
+3,0,1,3,2,67,10,6,60,Wade,0,0,0,32,0,2,Wade Baldwin IV,14,1,Baldwin,N/A,2,Portland,2
+0,0,4,0,0,0,4,3,75,Caleb,5,4,80,18,0,3,Caleb Swanigan,10,4,Swanigan,N/A,0,Portland,3
+0,0,0,0,0,0,1,1,100,Georgios,0,0,0,4,1,0,Georgios Papagiannis,2,1,Papagiannis,N/A,2,Portland,0
+1,0,2,1,0,0,3,2,67,Jake,0,0,0,4,0,0,Jake Layman,4,2,Layman,N/A,0,Portland,0
+1,0,1,5,2,40,8,4,50,Trevor,0,0,0,27,0,3,Trevor Ariza,10,1,Ariza,F,1,Houston,1
+0,2,4,4,1,25,5,1,20,PJ,0,0,0,32,1,2,PJ Tucker,3,5,Tucker,F,0,Houston,1
+1,1,7,0,0,0,6,4,67,Clint,4,3,75,32,3,2,Clint Capela,11,10,Capela,C,2,Houston,0
+7,0,5,6,3,50,13,7,54,James,10,7,70,34,1,0,James Harden,24,6,Harden,G,1,Houston,8
+5,0,4,8,3,38,19,11,58,Chris,2,2,100,31,0,2,Chris Paul,27,4,Paul,G,0,Houston,2
+0,0,2,4,2,50,5,2,40,Luc,6,3,50,25,0,2,Luc Mbah a Moute,9,2,Mbah,N/A,5,Houston,0
+0,0,3,3,0,0,6,2,33,Joe,0,0,0,18,0,0,Joe Johnson,4,3,Johnson,N/A,0,Houston,0
+2,0,3,7,2,29,9,2,22,Gerald,0,0,0,26,0,3,Gerald Green,6,3,Green,N/A,0,Houston,2
+0,2,3,0,0,0,2,1,50,Tarik,2,0,0,15,1,2,Tarik Black,2,4,Black,N/A,1,Houston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Quarterman,N/A,N/A,Quarterman,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zhou,N/A,N/A,N/A,N/A,N/A,N/A,Zhou Qi,N/A,N/A,Qi,N/A,N/A,Houston,N/A

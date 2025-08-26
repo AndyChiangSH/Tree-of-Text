@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,3,4,2,50,6,2,33,Paul,0,0,0,22,0,2,Paul Pierce,6,3,Pierce,F,0,LA,2
+1,0,1,0,0,0,3,1,33,Luc,0,0,0,16,0,2,Luc Mbah a Moute,2,1,Mbah,F,0,LA,0
+3,2,12,0,0,0,11,6,55,DeAndre,17,9,53,42,4,4,DeAndre Jordan,21,16,Jordan,C,1,LA,3
+0,0,3,5,2,40,14,9,64,JJ,8,7,88,38,0,1,JJ Redick,27,3,Redick,G,0,LA,1
+13,1,5,8,3,38,21,13,62,Chris,9,6,67,48,0,5,Chris Paul,35,5,Paul,G,3,LA,2
+1,4,3,3,1,33,5,2,40,Wesley,2,2,100,22,0,4,Wesley Johnson,7,3,Johnson,N/A,1,LA,1
+4,0,5,8,2,25,17,4,24,Jamal,10,8,80,38,0,3,Jamal Crawford,18,5,Crawford,N/A,0,LA,2
+0,0,3,2,2,100,5,4,80,Lance,4,2,50,24,1,3,Lance Stephenson,12,4,Stephenson,N/A,1,LA,1
+0,0,0,0,0,0,0,0,0,Pablo,0,0,0,5,2,0,Pablo Prigioni,0,2,Prigioni,N/A,0,LA,0
+2,1,0,0,0,0,1,1,100,Cole,0,0,0,8,1,4,Cole Aldrich,2,1,Aldrich,N/A,1,LA,2
+0,0,0,0,0,0,2,2,100,Jeff,0,0,0,2,1,1,Jeff Ayres,4,1,Ayres,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Branden,N/A,N/A,N/A,N/A,N/A,N/A,Branden Dawson,N/A,N/A,Dawson,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Wilcox,N/A,N/A,Wilcox,N/A,N/A,LA,N/A
+3,1,7,8,3,38,11,5,46,Jae,7,6,86,38,1,6,Jae Crowder,19,8,Crowder,F,1,Boston,0
+1,0,0,0,0,0,2,0,0,Amir,0,0,0,13,0,0,Amir Johnson,0,0,Johnson,F,0,Boston,2
+7,0,7,2,1,50,15,10,67,Jared,0,0,0,30,4,5,Jared Sullinger,21,11,Sullinger,C,1,Boston,0
+0,0,1,6,3,50,14,7,50,Avery,1,1,100,44,0,4,Avery Bradley,18,1,Bradley,G,1,Boston,2
+11,0,4,5,1,20,21,12,57,Isaiah,12,11,92,40,0,3,Isaiah Thomas,36,4,Thomas,G,1,Boston,2
+6,0,5,0,0,0,14,6,43,Evan,4,2,50,31,1,2,Evan Turner,14,6,Turner,N/A,0,Boston,0
+4,1,3,5,3,60,8,4,50,Marcus,7,6,86,32,1,6,Marcus Smart,17,4,Smart,N/A,1,Boston,3
+2,0,2,3,1,33,4,1,25,Kelly,4,4,100,11,0,3,Kelly Olynyk,7,2,Olynyk,N/A,0,Boston,0
+0,0,5,4,1,25,5,1,20,Jonas,2,2,100,21,1,4,Jonas Jerebko,5,6,Jerebko,N/A,0,Boston,0
+0,0,1,0,0,0,1,1,100,Tyler,0,0,0,6,0,0,Tyler Zeller,2,1,Zeller,N/A,0,Boston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,David,N/A,N/A,N/A,N/A,N/A,N/A,David Lee,N/A,N/A,Lee,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terry,N/A,N/A,N/A,N/A,N/A,N/A,Terry Rozier,N/A,N/A,Rozier,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Young,N/A,N/A,Young,N/A,N/A,Boston,N/A

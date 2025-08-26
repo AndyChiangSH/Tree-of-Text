@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,7,5,2,40,17,5,29,Harrison,5,3,60,33,2,1,Harrison Barnes,15,9,Barnes,F,2,Dallas,3
+1,0,9,5,3,60,8,5,62,Dirk,2,1,50,27,1,4,Dirk Nowitzki,14,10,Nowitzki,F,1,Dallas,1
+0,0,3,0,0,0,4,3,75,Dwight,3,1,33,28,4,3,Dwight Powell,7,7,Powell,C,1,Dallas,0
+3,1,2,9,0,0,17,2,12,Wesley,2,2,100,36,2,3,Wesley Matthews,6,4,Matthews,G,5,Dallas,1
+6,0,4,4,1,25,15,6,40,Dennis,9,4,44,33,0,2,Dennis Smith Jr.,17,4,Smith,G,1,Dallas,2
+0,1,0,0,0,0,1,0,0,Salah,0,0,0,4,1,0,Salah Mejri,0,1,Mejri,N/A,0,Dallas,0
+2,0,2,7,3,43,12,5,42,Yogi,0,0,0,33,0,0,Yogi Ferrell,13,2,Ferrell,N/A,0,Dallas,2
+5,0,4,4,1,25,8,4,50,Devin,1,1,100,23,0,4,Devin Harris,10,4,Harris,N/A,0,Dallas,3
+1,2,1,1,0,0,4,1,25,Maxi,0,0,0,14,5,0,Maxi Kleber,2,6,Kleber,N/A,0,Dallas,0
+0,0,2,1,0,0,2,1,50,Kyle,4,2,50,10,0,1,Kyle Collinsworth,4,2,Collinsworth,N/A,1,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,J.J.,N/A,N/A,N/A,N/A,N/A,N/A,J.J. Barea,N/A,N/A,Barea,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh McRoberts,N/A,N/A,McRoberts,N/A,N/A,Dallas,N/A
+4,0,3,1,0,0,16,10,62,T.J.,1,0,0,37,1,3,T.J. Warren,20,4,Warren,F,1,Phoenix,1
+2,1,12,2,1,50,7,5,71,Marquese,5,4,80,28,0,3,Marquese Chriss,15,12,Chriss,F,1,Phoenix,4
+1,0,5,0,0,0,3,2,67,Tyson,4,2,50,27,3,3,Tyson Chandler,6,8,Chandler,C,0,Phoenix,1
+2,1,6,3,1,33,14,9,64,Josh,2,2,100,28,2,1,Josh Jackson,21,8,Jackson,G,2,Phoenix,3
+4,0,2,7,2,29,14,5,36,Devin,3,3,100,32,0,4,Devin Booker,15,2,Booker,G,2,Phoenix,5
+2,1,2,3,1,33,4,1,25,Jared,0,0,0,20,0,5,Jared Dudley,3,2,Dudley,N/A,1,Phoenix,0
+1,0,1,7,3,43,7,3,43,Troy,0,0,0,20,0,1,Troy Daniels,9,1,Daniels,N/A,0,Phoenix,0
+2,0,5,2,0,0,5,2,40,Dragan,0,0,0,21,0,5,Dragan Bender,4,5,Bender,N/A,0,Phoenix,2
+1,0,0,1,1,100,2,1,50,Isaiah,0,0,0,5,0,0,Isaiah Canaan,3,0,Canaan,N/A,1,Phoenix,1
+2,0,3,3,2,67,6,2,33,Danuel,0,0,0,11,2,3,Danuel House Jr.,6,5,House,N/A,0,Phoenix,0
+2,0,0,1,0,0,5,0,0,Tyler,0,0,0,11,0,1,Tyler Ulis,0,0,Ulis,N/A,1,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alec,N/A,N/A,N/A,N/A,N/A,N/A,Alec Peters,N/A,N/A,Peters,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Davon,N/A,N/A,N/A,N/A,N/A,N/A,Davon Reed,N/A,N/A,Reed,N/A,N/A,Phoenix,N/A

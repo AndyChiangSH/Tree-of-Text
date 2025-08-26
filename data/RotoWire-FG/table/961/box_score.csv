@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,2,17,7,41,22,11,50,Gerald,2,2,100,26,0,1,Gerald Green,31,2,Green,F,0,Houston,3
+1,0,7,7,1,14,7,1,14,PJ,0,0,0,29,3,1,PJ Tucker,3,10,Tucker,F,0,Houston,2
+1,2,9,2,1,50,8,4,50,Tarik,6,3,50,38,2,5,Tarik Black,12,11,Black,C,0,Houston,0
+5,0,3,2,0,0,10,2,20,Joe,0,0,0,29,0,4,Joe Johnson,4,3,Johnson,G,0,Houston,2
+1,0,4,11,3,27,16,7,44,RJ,2,2,100,30,0,5,RJ Hunter,19,4,Hunter,G,2,Houston,2
+1,0,1,4,1,25,9,3,33,Aaron,2,1,50,34,2,4,Aaron Jackson,8,3,Jackson,N/A,0,Houston,1
+1,4,3,3,0,0,5,1,20,Zhou,0,0,0,32,0,0,Zhou Qi,2,3,Qi,N/A,0,Houston,1
+1,0,3,0,0,0,5,2,40,Chinanu,0,0,0,22,1,4,Chinanu Onuaku,4,4,Onuaku,N/A,0,Houston,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Clint,N/A,N/A,N/A,N/A,N/A,N/A,Clint Capela,N/A,N/A,Capela,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Gordon,N/A,N/A,Gordon,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Harden,N/A,N/A,Harden,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Paul,N/A,N/A,Paul,N/A,N/A,Houston,N/A
+2,1,4,6,0,0,8,0,0,Justin,0,0,0,31,0,2,Justin Jackson,0,4,Jackson,F,0,Sacramento,1
+0,1,4,0,0,0,8,5,62,JaKarr,1,1,100,23,0,1,JaKarr Sampson,11,4,Sampson,F,0,Sacramento,0
+4,0,10,0,0,0,12,9,75,Willie,6,4,67,30,1,1,Willie Cauley-Stein,22,11,Cauley-Stein,C,1,Sacramento,1
+5,0,5,7,2,29,12,5,42,Bogdan,0,0,0,31,0,1,Bogdan Bogdanovic,12,5,Bogdanovic,G,2,Sacramento,2
+4,0,7,4,1,25,10,5,50,De'Aaron,2,0,0,27,1,2,De'Aaron Fox,11,8,Fox,G,0,Sacramento,4
+5,0,3,4,2,50,13,6,46,Buddy,1,0,0,28,2,2,Buddy Hield,14,5,Hield,N/A,2,Sacramento,0
+1,0,3,0,0,0,4,1,25,Jack,10,8,80,18,1,3,Jack Cooley,10,4,Cooley,N/A,0,Sacramento,2
+0,1,3,2,0,0,5,2,40,Nigel,0,0,0,27,1,2,Nigel Hayes,4,4,Hayes,N/A,1,Sacramento,0
+1,0,3,3,2,67,8,5,62,Vince,0,0,0,25,0,0,Vince Carter,12,3,Carter,N/A,0,Sacramento,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bruno,N/A,N/A,N/A,N/A,N/A,N/A,Bruno Caboclo,N/A,N/A,Caboclo,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kosta,N/A,N/A,N/A,N/A,N/A,N/A,Kosta Koufos,N/A,N/A,Koufos,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zach,N/A,N/A,N/A,N/A,N/A,N/A,Zach Randolph,N/A,N/A,Randolph,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Garrett,N/A,N/A,N/A,N/A,N/A,N/A,Garrett Temple,N/A,N/A,Temple,N/A,N/A,Sacramento,N/A

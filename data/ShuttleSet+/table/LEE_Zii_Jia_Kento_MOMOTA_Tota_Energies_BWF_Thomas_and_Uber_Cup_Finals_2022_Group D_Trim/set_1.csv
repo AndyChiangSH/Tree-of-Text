@@ -1,0 +1,39 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,3,00:05:25,1,0,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+2,27,00:06:00,1,1,Kento MOMOTA,net shot,hits the net,opponent hits the net
+3,3,00:06:21,2,1,LEE Zii Jia,wrist smash,hits the net,opponent hits the net
+4,12,00:06:52,3,1,LEE Zii Jia,lob,hits the net,opponent hits the net
+5,23,00:07:34,4,1,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+6,11,00:08:14,4,2,Kento MOMOTA,drive,hits the net,opponent hits the net
+7,4,00:08:36,5,2,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+8,8,00:09:02,6,2,LEE Zii Jia,wrist smash,goes out of bounds,opponent goes out of bounds
+9,5,00:09:27,7,2,LEE Zii Jia,push,opponent wins by landing,wins by landing
+10,7,00:09:49,8,2,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+11,22,00:10:36,9,2,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+12,11,00:11:14,9,3,Kento MOMOTA,lob,goes out of bounds,opponent goes out of bounds
+13,5,00:11:39,9,4,Kento MOMOTA,rush,opponent wins by landing,wins by landing
+14,32,00:12:27,10,4,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+15,9,00:13:06,11,4,LEE Zii Jia,return net,opponent wins by landing,wins by landing
+16,2,00:14:26,12,4,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+17,7,00:14:44,12,5,Kento MOMOTA,smash,hits the net,opponent hits the net
+18,8,00:15:16,13,5,LEE Zii Jia,return net,opponent wins by landing,wins by landing
+19,3,00:15:39,13,6,Kento MOMOTA,net shot,hits the net,opponent hits the net
+20,10,00:16:05,14,6,LEE Zii Jia,net shot,landing judgment error,opponent landing judgment error
+21,5,00:16:54,14,7,Kento MOMOTA,lob,goes out of bounds,opponent goes out of bounds
+22,21,00:17:29,15,7,LEE Zii Jia,wrist smash,hits the net,opponent hits the net
+23,12,00:18:14,15,8,Kento MOMOTA,smash,opponent wins by landing,wins by landing
+24,16,00:19:11,16,8,LEE Zii Jia,drop,opponent wins by landing,wins by landing
+25,9,00:19:54,16,9,Kento MOMOTA,push,goes out of bounds,opponent goes out of bounds
+26,16,00:20:46,16,10,Kento MOMOTA,lob,goes out of bounds,opponent goes out of bounds
+27,16,00:21:28,16,11,Kento MOMOTA,net shot,hits the net,opponent hits the net
+28,4,00:22:45,17,11,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+29,7,00:23:06,18,11,LEE Zii Jia,lob,landing judgment error,opponent landing judgment error
+30,45,00:24:06,19,11,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+31,13,00:25:16,19,12,Kento MOMOTA,drop,hits the net,opponent hits the net
+32,9,00:25:43,20,12,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+33,3,00:26:10,20,13,Kento MOMOTA,wrist smash,goes out of bounds,opponent goes out of bounds
+34,20,00:26:46,20,14,Kento MOMOTA,smash,goes out of bounds,opponent goes out of bounds
+35,20,00:27:35,20,15,Kento MOMOTA,lob,goes out of bounds,opponent goes out of bounds
+36,4,00:28:08,20,16,Kento MOMOTA,lob,goes out of bounds,opponent goes out of bounds
+37,22,00:29:23,20,17,Kento MOMOTA,drop,hits the net,opponent hits the net
+38,5,00:29:59,21,17,LEE Zii Jia,return net,fails to clear the net,opponent fails to clear the net

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,6,5,1,20,15,6,40,DeMarre,3,2,67,37,1,3,DeMarre Carroll,15,7,Carroll,F,1,Atlanta,1
+7,2,11,2,1,50,12,5,42,Paul,4,2,50,38,1,3,Paul Millsap,13,12,Millsap,F,0,Atlanta,4
+2,1,6,1,0,0,13,8,62,Al,2,1,50,33,1,2,Al Horford,17,7,Horford,C,0,Atlanta,0
+3,0,4,6,3,50,8,4,50,Kyle,8,7,88,31,0,3,Kyle Korver,18,4,Korver,G,2,Atlanta,2
+6,0,2,1,0,0,15,9,60,Dennis,8,4,50,31,1,4,Dennis Schroder,22,3,Schroder,G,1,Atlanta,5
+1,1,2,1,1,100,4,2,50,Pero,0,0,0,16,1,2,Pero Antic,5,3,Antic,N/A,0,Atlanta,3
+2,1,1,1,1,100,3,3,100,Thabo,0,0,0,17,1,0,Thabo Sefolosha,7,2,Sefolosha,N/A,2,Atlanta,0
+4,0,1,2,0,0,6,1,17,Shelvin,0,0,0,17,0,0,Shelvin Mack,2,1,Mack,N/A,0,Atlanta,1
+1,0,3,0,0,0,4,2,50,Mike,0,0,0,9,0,3,Mike Scott,4,3,Scott,N/A,0,Atlanta,0
+0,1,1,0,0,0,1,0,0,Kent,2,2,100,11,0,1,Kent Bazemore,2,1,Bazemore,N/A,0,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elton,N/A,N/A,N/A,N/A,N/A,N/A,Elton Brand,N/A,N/A,Brand,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Jenkins,N/A,N/A,Jenkins,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Muscala,N/A,N/A,Muscala,N/A,N/A,Atlanta,N/A
+1,0,4,2,0,0,6,2,33,Chandler,2,0,0,29,0,6,Chandler Parsons,4,4,Parsons,F,2,Dallas,0
+2,1,5,1,0,0,13,6,46,Dirk,4,4,100,30,1,0,Dirk Nowitzki,16,6,Nowitzki,F,0,Dallas,3
+0,2,15,0,0,0,4,3,75,Tyson,4,2,50,34,4,0,Tyson Chandler,8,19,Chandler,C,0,Dallas,2
+2,0,0,6,1,17,22,8,36,Monta,2,1,50,36,2,5,Monta Ellis,18,2,Ellis,G,4,Dallas,5
+11,1,2,3,1,33,15,6,40,Rajon,0,0,0,33,2,4,Rajon Rondo,13,4,Rondo,G,3,Dallas,3
+2,0,1,2,1,50,7,4,57,Richard,2,1,50,19,0,4,Richard Jefferson,10,1,Jefferson,N/A,1,Dallas,1
+1,0,0,5,3,60,5,3,60,Devin,2,2,100,20,0,1,Devin Harris,11,0,Harris,N/A,0,Dallas,0
+0,1,1,0,0,0,2,1,50,Greg,2,1,50,7,0,0,Greg Smith,3,1,Smith,N/A,0,Dallas,0
+1,0,3,6,4,67,8,4,50,Charlie,2,2,100,13,3,2,Charlie Villanueva,14,6,Villanueva,N/A,2,Dallas,1
+2,0,1,2,1,50,6,2,33,J.J.,0,0,0,12,1,1,J.J. Barea,5,2,Barea,N/A,0,Dallas,0
+1,0,2,1,0,0,2,0,0,Al-Farouq,0,0,0,6,0,0,Al-Farouq Aminu,0,2,Aminu,N/A,0,Dallas,0
+0,0,0,0,0,0,0,0,0,Ricky,0,0,0,0,0,0,Ricky Ledo,0,0,Ledo,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwight,N/A,N/A,N/A,N/A,N/A,N/A,Dwight Powell,N/A,N/A,Powell,N/A,N/A,Dallas,N/A

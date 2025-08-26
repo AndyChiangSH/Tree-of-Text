@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,1,4,5,1,20,11,4,36,Bogdan,4,2,50,33,0,4,Bogdan Bogdanovic,11,4,Bogdanovic,F,3,Sacramento,2
+2,0,9,3,0,0,6,2,33,Nemanja,2,2,100,27,3,0,Nemanja Bjelica,6,12,Bjelica,F,1,Sacramento,1
+2,2,6,0,0,0,14,6,43,Willie,2,2,100,31,3,1,Willie Cauley-Stein,14,9,Cauley-Stein,C,1,Sacramento,2
+0,0,2,12,4,33,20,8,40,Buddy,0,0,0,32,2,3,Buddy Hield,20,4,Hield,G,0,Sacramento,1
+6,2,1,3,0,0,14,7,50,De'Aaron,4,4,100,32,0,3,De'Aaron Fox,18,1,Fox,G,1,Sacramento,3
+1,1,1,5,3,60,6,4,67,Justin,0,0,0,25,0,2,Justin Jackson,11,1,Jackson,N/A,0,Sacramento,0
+2,0,0,1,0,0,5,3,60,Frank,3,2,67,15,0,1,Frank Mason,8,0,Mason,N/A,1,Sacramento,2
+1,1,1,0,0,0,4,2,50,Marvin,0,0,0,10,1,6,Marvin Bagley III,4,2,Bagley,N/A,0,Sacramento,2
+1,1,4,0,0,0,3,0,0,Kosta,0,0,0,18,1,0,Kosta Koufos,0,5,Koufos,N/A,0,Sacramento,0
+2,0,2,2,0,0,6,1,17,Troy,0,0,0,14,2,1,Troy Williams,2,4,Williams,N/A,2,Sacramento,0
+1,0,0,0,0,0,0,0,0,Harry,0,0,0,1,0,0,Harry Giles III,0,0,Giles,N/A,0,Sacramento,0
+0,0,0,1,1,100,1,1,100,Yogi,0,0,0,1,0,0,Yogi Ferrell,3,0,Ferrell,N/A,0,Sacramento,0
+0,0,1,0,0,0,0,0,0,Ben,0,0,0,1,0,0,Ben McLemore,0,1,McLemore,N/A,0,Sacramento,0
+2,0,3,4,1,25,13,5,38,Bojan,7,7,100,28,1,2,Bojan Bogdanovic,18,4,Bogdanovic,F,0,Indiana,1
+0,1,7,4,1,25,13,7,54,Thaddeus,6,5,83,38,2,0,Thaddeus Young,20,9,Young,F,0,Indiana,4
+2,4,10,2,1,50,11,4,36,Myles,0,0,0,31,3,1,Myles Turner,9,13,Turner,C,0,Indiana,4
+4,0,3,4,1,25,9,4,44,Tyreke,1,1,100,21,3,2,Tyreke Evans,10,6,Evans,G,2,Indiana,2
+6,0,1,6,2,33,12,5,42,Darren,2,2,100,32,2,1,Darren Collison,14,3,Collison,G,0,Indiana,0
+1,1,4,0,0,0,10,6,60,Domantas,2,2,100,24,2,3,Domantas Sabonis,14,6,Sabonis,N/A,1,Indiana,2
+8,1,4,3,0,0,9,5,56,Cory,2,1,50,28,1,3,Cory Joseph,11,5,Joseph,N/A,1,Indiana,1
+0,0,0,0,0,0,0,0,0,TJ,2,1,50,2,0,1,TJ Leaf,1,0,Leaf,N/A,0,Indiana,0
+2,1,3,1,0,0,5,0,0,Aaron,0,0,0,16,0,4,Aaron Holiday,0,3,Holiday,N/A,3,Indiana,0
+1,0,2,6,2,33,10,4,40,Doug,0,0,0,19,1,0,Doug McDermott,10,3,McDermott,N/A,0,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alize,N/A,N/A,N/A,N/A,N/A,N/A,Alize Johnson,N/A,N/A,Johnson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle O'Quinn,N/A,N/A,O'Quinn,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Edmond,N/A,N/A,N/A,N/A,N/A,N/A,Edmond Sumner,N/A,N/A,Sumner,N/A,N/A,Indiana,N/A

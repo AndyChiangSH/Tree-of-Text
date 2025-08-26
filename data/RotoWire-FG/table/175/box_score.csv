@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,4,1,25,13,8,62,Terrence,1,1,100,28,1,2,Terrence Ross,18,3,Ross,F,0,Toronto,5
+2,0,1,0,0,0,10,5,50,Amir,0,0,0,25,1,4,Amir Johnson,10,2,Johnson,F,0,Toronto,2
+0,0,10,0,0,0,7,6,86,Jonas,6,6,100,37,5,2,Jonas Valanciunas,18,15,Valanciunas,C,0,Toronto,3
+2,0,1,0,0,0,2,2,100,Landry,0,0,0,23,0,2,Landry Fields,4,1,Fields,G,2,Toronto,1
+14,0,3,8,2,25,18,6,33,Kyle,2,2,100,40,1,5,Kyle Lowry,16,4,Lowry,G,1,Toronto,0
+1,2,3,2,2,100,7,5,71,Patrick,0,0,0,26,1,0,Patrick Patterson,12,4,Patterson,N/A,0,Toronto,1
+4,0,1,4,1,25,8,2,25,Lou,1,1,100,20,0,3,Lou Williams,6,1,Williams,N/A,0,Toronto,1
+2,0,0,3,1,33,3,1,33,Greivis,0,0,0,13,0,0,Greivis Vasquez,3,0,Vasquez,N/A,0,Toronto,1
+0,0,1,0,0,0,1,1,100,Charles,0,0,0,7,0,1,Charles Hayes,2,1,Hayes,N/A,0,Toronto,0
+0,1,1,2,0,0,13,6,46,James,0,0,0,22,3,5,James Johnson,12,4,Johnson,N/A,1,Toronto,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bruno,N/A,N/A,N/A,N/A,N/A,N/A,Bruno Caboclo,N/A,N/A,Caboclo,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Hansbrough,N/A,N/A,Hansbrough,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Stiemsma,N/A,N/A,Stiemsma,N/A,N/A,Toronto,N/A
+4,2,1,5,2,40,21,12,57,LeBron,9,9,100,42,1,1,LeBron James,35,2,James,F,2,Cleveland,2
+4,1,6,5,1,20,15,6,40,Kevin,4,4,100,36,3,0,Kevin Love,17,9,Love,F,0,Cleveland,3
+1,1,3,0,0,0,10,4,40,Anderson,0,0,0,16,3,4,Anderson Varejao,8,6,Varejao,C,0,Cleveland,1
+0,0,1,0,0,0,0,0,0,Shawn,0,0,0,16,0,0,Shawn Marion,0,1,Marion,G,0,Cleveland,1
+10,0,1,5,1,20,12,5,42,Kyrie,2,2,100,42,0,3,Kyrie Irving,13,1,Irving,G,2,Cleveland,2
+2,0,1,5,3,60,10,7,70,Dion,2,1,50,24,0,2,Dion Waiters,18,1,Waiters,N/A,0,Cleveland,1
+0,1,4,0,0,0,5,3,60,Tristan,4,2,50,34,4,3,Tristan Thompson,8,8,Thompson,N/A,0,Cleveland,1
+5,0,2,4,2,50,4,2,50,Matthew,0,0,0,21,1,2,Matthew Dellavedova,6,3,Dellavedova,N/A,0,Cleveland,0
+1,0,0,2,0,0,2,0,0,James,0,0,0,8,0,2,James Jones,0,0,Jones,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lou,N/A,N/A,N/A,N/A,N/A,N/A,Lou Amundson,N/A,N/A,Amundson,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Harris,N/A,N/A,Harris,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brendan,N/A,N/A,N/A,N/A,N/A,N/A,Brendan Haywood,N/A,N/A,Haywood,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,A.J.,N/A,N/A,N/A,N/A,N/A,N/A,A.J. Price,N/A,N/A,Price,N/A,N/A,Cleveland,N/A

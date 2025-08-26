@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,1,10,3,30,11,4,36,Trevor,0,0,0,31,0,3,Trevor Ariza,11,1,Ariza,F,0,Houston,1
+1,0,1,7,4,57,12,4,33,Ryan,0,0,0,31,3,3,Ryan Anderson,12,4,Anderson,F,0,Houston,0
+1,1,3,0,0,0,5,3,60,Clint,3,2,67,19,1,3,Clint Capela,8,4,Capela,C,0,Houston,1
+3,0,2,9,4,44,13,6,46,Eric,0,0,0,33,0,5,Eric Gordon,16,2,Gordon,G,2,Houston,2
+15,0,6,9,5,56,20,13,65,James,14,10,71,38,1,3,James Harden,41,7,Harden,G,1,Houston,1
+4,1,2,1,1,100,4,4,100,Nene,6,4,67,25,3,3,Nene,13,5,N/A,N/A,0,Houston,2
+0,0,1,3,0,0,7,2,29,KJ,0,0,0,20,0,2,KJ McDaniels,4,1,McDaniels,N/A,1,Houston,0
+1,0,2,3,0,0,8,3,38,Sam,0,0,0,14,1,1,Sam Dekker,6,3,Dekker,N/A,0,Houston,0
+2,0,2,1,0,0,7,4,57,Corey,2,1,50,21,1,1,Corey Brewer,9,3,Brewer,N/A,1,Houston,0
+0,0,0,1,0,0,2,0,0,Bobby,0,0,0,5,0,0,Bobby Brown,0,0,Brown,N/A,0,Houston,0
+1,0,1,0,0,0,1,0,0,Tyler,0,0,0,4,1,1,Tyler Ennis,0,2,Ennis,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl Harrell,N/A,N/A,Harrell,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Wiltjer,N/A,N/A,Wiltjer,N/A,N/A,Houston,N/A
+8,0,10,3,1,33,12,6,50,LeBron,10,6,60,36,3,4,LeBron James,19,13,James,F,0,Cleveland,4
+0,1,4,2,1,50,16,9,56,Kevin,5,5,100,31,1,1,Kevin Love,24,5,Love,F,2,Cleveland,2
+3,1,4,0,0,0,2,2,100,Tristan,0,0,0,27,6,4,Tristan Thompson,4,10,Thompson,C,0,Cleveland,0
+2,0,3,11,5,46,12,5,42,JR,0,0,0,34,0,3,JR Smith,15,3,Smith,G,0,Cleveland,0
+4,0,1,6,4,67,19,10,53,Kyrie,8,8,100,35,1,1,Kyrie Irving,32,2,Irving,G,0,Cleveland,3
+2,0,3,1,0,0,2,1,50,Richard,2,2,100,20,0,1,Richard Jefferson,4,3,Jefferson,N/A,0,Cleveland,0
+1,0,2,3,2,67,4,3,75,Iman,0,0,0,26,0,3,Iman Shumpert,8,2,Shumpert,N/A,2,Cleveland,2
+2,0,4,3,2,67,4,3,75,Mike,4,3,75,18,0,2,Mike Dunleavy,11,4,Dunleavy,N/A,0,Cleveland,0
+0,0,3,3,1,33,12,4,33,Channing,2,2,100,15,1,2,Channing Frye,11,4,Frye,N/A,0,Cleveland,0
+0,0,0,0,0,0,0,0,0,DeAndre,0,0,0,0,0,0,DeAndre Liggins,0,0,Liggins,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Andersen,N/A,N/A,Andersen,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Jones,N/A,N/A,Jones,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan McRae,N/A,N/A,McRae,N/A,N/A,Cleveland,N/A

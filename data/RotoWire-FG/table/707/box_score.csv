@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,0,1,0,0,1,0,0,Mike,2,1,50,9,0,1,Mike Dunleavy,1,0,Dunleavy,F,0,Chicago,1
+0,0,1,0,0,0,4,1,25,Bobby,0,0,0,10,1,1,Bobby Portis,2,2,Portis,F,0,Chicago,0
+3,1,10,3,0,0,14,6,43,Pau,0,0,0,32,0,4,Pau Gasol,12,10,Gasol,C,1,Chicago,6
+6,1,7,2,1,50,13,8,62,Jimmy,4,4,100,39,1,1,Jimmy Butler,21,8,Butler,G,2,Chicago,3
+2,0,0,0,0,0,0,0,0,Derrick,0,0,0,12,0,0,Derrick Rose,0,0,Rose,G,0,Chicago,3
+3,1,4,10,5,50,14,8,57,Nikola,8,7,88,38,0,4,Nikola Mirotic,28,4,Mirotic,N/A,0,Chicago,1
+3,0,7,4,1,25,14,6,43,Doug,2,2,100,37,2,3,Doug McDermott,15,9,McDermott,N/A,0,Chicago,1
+3,0,0,1,1,100,4,1,25,Aaron,0,0,0,16,0,1,Aaron Brooks,3,0,Brooks,N/A,1,Chicago,0
+3,1,4,0,0,0,4,2,50,Cristiano,2,1,50,15,0,1,Cristiano Felicio,5,4,Felicio,N/A,0,Chicago,0
+4,0,1,2,2,100,7,3,43,E'Twaun,0,0,0,22,1,4,E'Twaun Moore,8,2,Moore,N/A,0,Chicago,0
+1,0,3,1,1,100,2,2,100,Justin,4,3,75,10,0,0,Justin Holiday,8,3,Holiday,N/A,1,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Taj,N/A,N/A,N/A,N/A,N/A,N/A,Taj Gibson,N/A,N/A,Gibson,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Snell,N/A,N/A,Snell,N/A,N/A,Chicago,N/A
+1,0,4,8,3,38,10,3,30,Trevor,5,5,100,36,0,1,Trevor Ariza,14,4,Ariza,F,2,Houston,0
+0,0,1,1,0,0,7,1,14,Donatas,0,0,0,12,0,2,Donatas Motiejunas,2,1,Motiejunas,F,0,Houston,0
+0,3,9,0,0,0,4,3,75,Dwight,2,1,50,29,4,1,Dwight Howard,7,13,Howard,C,1,Houston,2
+8,2,4,7,2,29,20,8,40,James,8,6,75,42,0,1,James Harden,24,4,Harden,G,0,Houston,4
+7,0,4,4,3,75,13,9,69,Patrick,1,1,100,37,1,4,Patrick Beverley,22,5,Beverley,G,0,Houston,0
+2,0,6,0,0,0,18,7,39,Michael,6,6,100,31,5,3,Michael Beasley,20,11,Beasley,N/A,0,Houston,2
+0,0,3,0,0,0,7,4,57,Clint,0,0,0,18,2,3,Clint Capela,8,5,Capela,N/A,2,Houston,0
+1,0,0,4,1,25,4,1,25,Jason,0,0,0,18,0,3,Jason Terry,3,0,Terry,N/A,0,Houston,1
+0,1,1,1,0,0,7,0,0,Corey,0,0,0,17,1,1,Corey Brewer,0,2,Brewer,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Goudelock,N/A,N/A,Goudelock,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terrence,N/A,N/A,N/A,N/A,N/A,N/A,Terrence Jones,N/A,N/A,Jones,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,KJ,N/A,N/A,N/A,N/A,N/A,N/A,KJ McDaniels,N/A,N/A,McDaniels,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Smith,N/A,N/A,Smith,N/A,N/A,Houston,N/A

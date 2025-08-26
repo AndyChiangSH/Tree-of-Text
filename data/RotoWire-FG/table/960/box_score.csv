@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,6,10,5,50,13,5,38,Allen,1,1,100,26,1,1,Allen Crabbe,16,7,Crabbe,F,1,Brooklyn,0
+2,0,3,1,0,0,5,0,0,Rondae,0,0,0,18,0,1,Rondae Hollis-Jefferson,0,3,Hollis-Jefferson,F,1,Brooklyn,2
+0,1,7,0,0,0,5,4,80,Jarrett,2,2,100,19,0,4,Jarrett Allen,10,7,Allen,C,0,Brooklyn,0
+6,0,2,4,1,25,13,4,31,Caris,2,2,100,29,0,0,Caris LeVert,11,2,LeVert,G,3,Brooklyn,3
+3,0,0,5,1,20,12,5,42,D'Angelo,0,0,0,23,1,0,D'Angelo Russell,11,1,Russell,G,1,Brooklyn,4
+3,0,4,7,2,29,12,6,50,Nik,7,4,57,35,0,1,Nik Stauskas,18,4,Stauskas,N/A,1,Brooklyn,4
+1,1,4,5,2,40,6,3,50,Quincy,0,0,0,24,1,2,Quincy Acy,8,5,Acy,N/A,1,Brooklyn,1
+1,2,3,1,0,0,7,4,57,Dante,0,0,0,20,3,1,Dante Cunningham,8,6,Cunningham,N/A,0,Brooklyn,0
+5,0,1,5,0,0,11,2,18,Milton,3,2,67,25,0,2,Milton Doyle,6,1,Doyle,N/A,2,Brooklyn,0
+0,0,1,2,0,0,3,1,33,James,0,0,0,12,1,0,James Webb III,2,2,Webb,N/A,0,Brooklyn,1
+3,1,3,0,0,0,4,3,75,Timofey,1,1,100,9,3,0,Timofey Mozgov,7,6,Mozgov,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Harris,N/A,N/A,Harris,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil Okafor,N/A,N/A,Okafor,N/A,N/A,Brooklyn,N/A
+2,1,5,3,0,0,15,4,27,Abdel,2,1,50,39,3,1,Abdel Nader,9,8,Nader,F,1,Boston,1
+1,1,3,2,1,50,10,6,60,Guerschon,3,3,100,28,2,2,Guerschon Yabusele,16,5,Yabusele,F,2,Boston,0
+2,0,5,1,0,0,23,12,52,Aron,2,2,100,20,9,1,Aron Baynes,26,14,Baynes,C,0,Boston,1
+1,0,5,1,0,0,6,2,33,Jabari,4,3,75,29,2,2,Jabari Bird,7,7,Bird,G,1,Boston,4
+7,0,8,5,2,40,12,5,42,Shane,0,0,0,26,2,1,Shane Larkin,12,10,Larkin,G,0,Boston,0
+0,1,5,4,1,25,8,3,38,Semi,0,0,0,28,1,1,Semi Ojeleye,7,6,Ojeleye,N/A,0,Boston,0
+2,0,2,5,2,40,13,8,62,Jonathan,0,0,0,25,0,2,Jonathan Gibson,18,2,Gibson,N/A,0,Boston,3
+4,2,9,0,0,0,9,4,44,Greg,2,1,50,21,0,2,Greg Monroe,9,9,Monroe,N/A,1,Boston,1
+3,1,0,3,0,0,6,2,33,Kadeem,2,2,100,24,1,2,Kadeem Allen,6,1,Allen,N/A,1,Boston,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen Brown,N/A,N/A,Brown,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcus,N/A,N/A,N/A,N/A,N/A,N/A,Marcus Morris,N/A,N/A,Morris,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jayson,N/A,N/A,N/A,N/A,N/A,N/A,Jayson Tatum,N/A,N/A,Tatum,N/A,N/A,Boston,N/A

@@ -1,0 +1,41 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,6,00:06:09,0,1,LEE Zii Jia,push,goes out of bounds,opponent goes out of bounds
+2,42,00:06:58,0,2,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+3,13,00:07:41,1,2,Viktor AXELSEN,wrist smash,hits the net,opponent hits the net
+4,13,00:08:15,1,3,LEE Zii Jia,wrist smash,goes out of bounds,opponent goes out of bounds
+5,8,00:08:48,2,3,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing
+6,11,00:09:33,3,3,Viktor AXELSEN,lob,opponent wins by landing,wins by landing
+7,4,00:10:00,4,3,Viktor AXELSEN,push,goes out of bounds,opponent goes out of bounds
+8,6,00:10:23,4,4,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+9,9,00:10:54,5,4,Viktor AXELSEN,push,goes out of bounds,opponent goes out of bounds
+10,27,00:11:31,5,5,LEE Zii Jia,push,goes out of bounds,opponent goes out of bounds
+11,9,00:12:02,6,5,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+12,22,00:12:47,7,5,Viktor AXELSEN,unknown,goes out of bounds,opponent goes out of bounds
+13,10,00:13:15,7,6,LEE Zii Jia,drop,opponent wins by landing,wins by landing
+14,3,00:13:48,8,6,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+15,5,00:14:07,8,7,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+16,3,00:14:24,9,7,Viktor AXELSEN,return net,hits the net,opponent hits the net
+17,10,00:15:04,9,8,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+18,15,00:15:41,9,9,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+19,4,00:16:08,9,10,LEE Zii Jia,net shot,goes out of bounds,opponent goes out of bounds
+20,11,00:16:31,10,10,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+21,19,00:17:05,10,11,LEE Zii Jia,push,goes out of bounds,opponent goes out of bounds
+22,5,00:18:30,10,12,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+23,3,00:18:47,11,12,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+24,9,00:19:08,11,13,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+25,45,00:20:12,12,13,Viktor AXELSEN,net shot,fails to clear the net,opponent fails to clear the net
+26,5,00:20:44,12,14,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+27,11,00:21:15,13,14,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+28,9,00:21:36,13,15,LEE Zii Jia,push,goes out of bounds,opponent goes out of bounds
+29,3,00:21:57,14,15,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+30,8,00:22:17,15,15,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+31,5,00:22:37,15,16,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+32,5,00:23:11,16,16,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+33,4,00:23:34,16,17,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+34,35,00:24:16,17,17,Viktor AXELSEN,wrist smash,goes out of bounds,opponent goes out of bounds
+35,15,00:25:02,17,18,LEE Zii Jia,defensive return drive,goes out of bounds,opponent goes out of bounds
+36,4,00:25:33,17,19,LEE Zii Jia,drive,hits the net,opponent hits the net
+37,3,00:25:51,18,19,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+38,7,00:26:08,18,20,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+39,8,00:26:59,19,20,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing
+40,3,00:27:25,19,21,LEE Zii Jia,push,goes out of bounds,opponent goes out of bounds

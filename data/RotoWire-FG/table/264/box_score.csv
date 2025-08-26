@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,3,2,1,50,10,6,60,TJ,2,1,50,28,2,3,TJ Warren,14,5,Warren,F,3,Phoenix,1
+3,0,4,4,0,0,11,3,27,Marquese,1,1,100,32,2,3,Marquese Chriss,7,6,Chriss,F,0,Phoenix,1
+2,1,5,0,0,0,9,5,56,Alex,5,3,60,20,4,6,Alex Len,13,9,Len,C,0,Phoenix,4
+2,0,1,3,1,33,18,6,33,Devin,6,5,83,26,0,3,Devin Booker,18,1,Booker,G,1,Phoenix,3
+0,0,0,2,0,0,8,1,13,Brandon,2,1,50,20,0,0,Brandon Knight,3,0,Knight,G,0,Phoenix,2
+4,1,5,1,1,100,4,1,25,PJ,0,0,0,21,1,3,PJ Tucker,3,6,Tucker,N/A,1,Phoenix,1
+0,1,3,0,0,0,2,0,0,Alan,2,2,100,10,1,5,Alan Williams,2,4,Williams,N/A,0,Phoenix,3
+6,0,0,4,1,25,13,5,39,Tyler,2,2,100,28,1,1,Tyler Ulis,13,1,Ulis,N/A,1,Phoenix,1
+2,1,6,2,2,100,5,4,80,Jared,2,2,100,26,0,4,Jared Dudley,12,6,Dudley,N/A,1,Phoenix,2
+0,0,3,3,1,33,11,4,36,Leandro,4,3,75,20,0,0,Leandro Barbosa,12,3,Barbosa,N/A,0,Phoenix,0
+0,0,0,1,1,100,1,1,100,Ronnie,0,0,0,5,0,0,Ronnie Price,3,0,Price,N/A,1,Phoenix,1
+1,0,0,0,0,0,2,1,50,Derrick,0,0,0,5,1,0,"Derrick Jones, Jr.",2,1,"Jones,",N/A,0,Phoenix,0
+1,0,8,5,1,20,13,4,31,Trevor,0,0,0,31,1,3,Trevor Ariza,9,9,Ariza,F,3,Houston,1
+1,1,2,6,3,50,9,4,44,Ryan,8,5,63,33,2,1,Ryan Anderson,16,4,Anderson,F,1,Houston,3
+2,1,3,0,0,0,4,3,75,Clint,4,3,75,18,2,2,Clint Capela,9,5,Capela,C,0,Houston,1
+5,0,7,4,4,100,10,6,60,Patrick,3,3,100,25,2,5,Patrick Beverley,19,9,Beverley,G,2,Houston,1
+8,0,5,15,8,53,17,9,53,James,16,14,88,29,1,2,James Harden,40,6,Harden,G,0,Houston,8
+1,1,6,0,0,0,3,1,33,Nene,0,0,0,12,1,4,Nene,2,7,N/A,N/A,0,Houston,1
+3,0,1,3,1,33,8,4,50,Corey,0,0,0,27,0,2,Corey Brewer,9,1,Brewer,N/A,2,Houston,1
+1,1,1,1,0,0,8,6,75,Sam,3,2,67,28,3,0,Sam Dekker,14,4,Dekker,N/A,0,Houston,1
+2,0,3,0,0,0,6,2,33,Montrezl,5,4,80,18,2,1,Montrezl Harrell,8,5,Harrell,N/A,0,Houston,1
+3,0,3,0,0,0,1,0,0,Tyler,0,0,0,10,0,3,Tyler Ennis,0,3,Ennis,N/A,0,Houston,2
+0,0,0,2,1,50,4,2,50,KJ,0,0,0,5,2,0,KJ McDaniels,5,2,McDaniels,N/A,0,Houston,0
+0,0,0,0,0,0,2,1,50,Bobby,0,0,0,5,0,0,Bobby Brown,2,0,Brown,N/A,0,Houston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Gordon,N/A,N/A,Gordon,N/A,N/A,Houston,N/A

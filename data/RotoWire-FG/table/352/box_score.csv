@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,7,5,2,40,11,4,36,Trevor,0,0,0,37,1,2,Trevor Ariza,10,8,Ariza,F,2,Houston,0
+1,0,3,2,0,0,3,1,33,Donatas,0,0,0,10,1,0,Donatas Motiejunas,2,4,Motiejunas,F,0,Houston,0
+2,1,10,0,0,0,9,6,67,Dwight,2,0,0,35,2,2,Dwight Howard,12,12,Howard,C,1,Houston,3
+4,0,8,6,1,17,8,2,25,Patrick,4,3,75,39,4,3,Patrick Beverley,8,12,Beverley,G,1,Houston,4
+4,1,3,6,1,17,19,9,47,James,15,13,87,36,0,4,James Harden,32,3,Harden,G,1,Houston,6
+0,0,3,0,0,0,19,9,47,Michael,0,0,0,15,5,3,Michael Beasley,18,8,Beasley,N/A,1,Houston,1
+0,1,0,0,0,0,5,3,60,Clint,2,0,0,10,1,2,Clint Capela,6,1,Capela,N/A,0,Houston,0
+1,0,0,2,0,0,3,1,33,Jason,0,0,0,21,0,0,Jason Terry,2,0,Terry,N/A,0,Houston,1
+1,0,0,3,1,33,7,4,57,Corey,2,1,50,22,0,4,Corey Brewer,10,0,Brewer,N/A,2,Houston,1
+2,0,1,2,0,0,4,1,25,KJ,0,0,0,14,1,1,KJ McDaniels,2,2,McDaniels,N/A,0,Houston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Goudelock,N/A,N/A,Goudelock,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl Harrell,N/A,N/A,Harrell,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Smith,N/A,N/A,Smith,N/A,N/A,Houston,N/A
+1,1,3,6,0,0,8,1,13,Jae,2,2,100,21,1,1,Jae Crowder,4,4,Crowder,F,1,Boston,1
+1,0,1,0,0,0,2,0,0,Amir,0,0,0,14,1,0,Amir Johnson,0,2,Johnson,F,0,Boston,0
+4,2,6,1,1,100,18,9,50,Jared,7,5,71,32,6,2,Jared Sullinger,24,12,Sullinger,C,4,Boston,0
+2,0,2,8,1,13,17,7,41,Avery,2,1,50,38,1,5,Avery Bradley,16,3,Bradley,G,2,Boston,2
+2,0,2,9,5,56,21,10,48,Isaiah,6,5,83,38,0,3,Isaiah Thomas,30,2,Thomas,G,1,Boston,6
+0,0,3,4,0,0,8,2,25,Marcus,4,3,75,29,1,2,Marcus Smart,7,4,Smart,N/A,1,Boston,1
+9,0,7,1,0,0,6,1,17,Evan,4,3,75,30,0,1,Evan Turner,5,7,Turner,N/A,5,Boston,2
+0,0,3,0,0,0,2,1,50,Jonas,0,0,0,11,1,0,Jonas Jerebko,2,4,Jerebko,N/A,0,Boston,0
+2,0,0,0,0,0,6,2,33,Tyler,3,3,100,15,0,3,Tyler Zeller,7,0,Zeller,N/A,0,Boston,1
+3,0,4,2,1,50,3,1,33,Terry,0,0,0,10,3,0,Terry Rozier,3,7,Rozier,N/A,0,Boston,1
+0,0,0,0,0,0,0,0,0,Jordan,0,0,0,2,0,0,Jordan Mickey,0,0,Mickey,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Coty,N/A,N/A,N/A,N/A,N/A,N/A,Coty Clarke,N/A,N/A,Clarke,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Boston,N/A

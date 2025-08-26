@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,4,7,3,43,11,5,46,Josh,3,2,67,36,1,2,Josh Richardson,15,5,Richardson,F,1,Miami,0
+1,0,3,1,0,0,8,2,25,Justise,0,0,0,24,1,3,Justise Winslow,4,4,Winslow,F,2,Miami,0
+0,2,9,0,0,0,16,9,56,Hassan,3,2,67,29,3,3,Hassan Whiteside,20,12,Whiteside,C,1,Miami,0
+5,0,3,9,2,22,17,7,41,Dion,0,0,0,32,1,3,Dion Waiters,16,4,Waiters,G,3,Miami,4
+7,1,3,4,2,50,14,6,43,Goran,4,4,100,35,1,2,Goran Dragic,18,4,Dragic,G,0,Miami,2
+5,1,4,7,2,29,7,2,29,Tyler,0,0,0,33,0,3,Tyler Johnson,6,4,Johnson,N/A,0,Miami,0
+0,0,2,4,2,50,5,3,60,Kelly,1,0,0,16,0,4,Kelly Olynyk,8,2,Olynyk,N/A,0,Miami,2
+2,0,3,1,0,0,8,3,38,James,5,4,80,26,0,2,James Johnson,10,3,Johnson,N/A,1,Miami,0
+1,0,1,4,2,50,4,2,50,Wayne,0,0,0,9,0,0,Wayne Ellington,6,1,Ellington,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bam,N/A,N/A,N/A,N/A,N/A,N/A,Bam Adebayo,N/A,N/A,Adebayo,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Okaro,N/A,N/A,N/A,N/A,N/A,N/A,Okaro White,N/A,N/A,White,N/A,N/A,Miami,N/A
+2,0,2,1,0,0,3,0,0,Reggie,0,0,0,20,1,0,Reggie Bullock,0,3,Bullock,F,0,Detroit,0
+1,0,7,8,5,62,15,8,53,Tobias,4,4,100,37,0,2,Tobias Harris,25,7,Harris,F,0,Detroit,0
+4,1,11,0,0,0,8,3,38,Andre,4,2,50,36,6,4,Andre Drummond,8,17,Drummond,C,0,Detroit,3
+1,0,4,5,2,40,19,9,47,Avery,4,4,100,30,2,0,Avery Bradley,24,6,Bradley,G,2,Detroit,3
+4,0,4,3,1,33,15,7,47,Reggie,2,2,100,29,0,4,Reggie Jackson,17,4,Jackson,G,0,Detroit,5
+3,1,5,5,2,40,11,6,55,Luke,1,0,0,28,0,2,Luke Kennard,14,5,Kennard,N/A,0,Detroit,2
+7,0,3,0,0,0,7,5,71,Ish,3,1,33,19,1,0,Ish Smith,11,4,Smith,N/A,0,Detroit,0
+0,0,4,3,1,33,4,1,25,Langston,2,1,50,18,0,1,Langston Galloway,4,4,Galloway,N/A,0,Detroit,0
+0,2,1,0,0,0,1,0,0,Eric,0,0,0,5,0,3,Eric Moreland,0,1,Moreland,N/A,0,Detroit,0
+2,1,2,3,3,100,4,3,75,Anthony,0,0,0,19,1,1,Anthony Tolliver,9,3,Tolliver,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Henry,N/A,N/A,N/A,N/A,N/A,N/A,Henry Ellenson,N/A,N/A,Ellenson,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luis,N/A,N/A,N/A,N/A,N/A,N/A,Luis Montero,N/A,N/A,Montero,N/A,N/A,Detroit,N/A

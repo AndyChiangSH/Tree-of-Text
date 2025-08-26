@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,2,2,1,50,7,3,43,Danilo,11,8,73,28,1,2,Danilo Gallinari,15,3,Gallinari,F,0,Denver,1
+1,3,7,0,0,0,12,7,58,Kenneth,8,5,63,28,3,5,Kenneth Faried,19,10,Faried,F,0,Denver,0
+1,0,6,1,1,100,5,4,80,Joffrey,2,2,100,16,1,2,Joffrey Lauvergne,11,7,Lauvergne,C,0,Denver,2
+0,0,1,1,0,0,5,2,40,Gary,0,0,0,24,1,1,Gary Harris,4,2,Harris,G,0,Denver,1
+4,0,3,3,2,67,7,4,57,Jameer,0,0,0,23,0,4,Jameer Nelson,10,3,Nelson,G,2,Denver,2
+0,1,0,1,0,0,6,3,50,Darrell,0,0,0,15,0,1,Darrell Arthur,6,0,Arthur,N/A,2,Denver,1
+2,0,2,6,5,83,9,7,78,Randy,0,0,0,25,0,1,Randy Foye,19,2,Foye,N/A,2,Denver,1
+5,0,5,2,1,50,11,5,46,Will,4,3,75,31,2,3,Will Barton,14,7,Barton,N/A,0,Denver,3
+2,2,1,0,0,0,4,3,75,Nikola,0,0,0,21,2,3,Nikola Jokic,6,3,Jokic,N/A,2,Denver,2
+2,0,2,1,0,0,6,3,50,Kostas,2,2,100,20,0,3,Kostas Papanikolaou,8,2,Papanikolaou,N/A,0,Denver,1
+2,0,0,1,0,0,1,0,0,Mike,0,0,0,10,0,1,Mike Miller,0,0,Miller,N/A,1,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JJ,N/A,N/A,N/A,N/A,N/A,N/A,JJ Hickson,N/A,N/A,Hickson,N/A,N/A,Denver,N/A
+1,1,1,1,1,100,17,9,53,Andrew,5,4,80,34,0,3,Andrew Wiggins,23,1,Wiggins,F,0,Minnesota,3
+0,0,3,0,0,0,3,2,67,Kevin,2,2,100,13,1,2,Kevin Garnett,6,4,Garnett,F,1,Minnesota,0
+1,2,2,0,0,0,7,5,71,Karl-Anthony,8,8,100,28,4,4,Karl-Anthony Towns,18,6,Towns,C,1,Minnesota,0
+3,0,0,2,0,0,8,1,13,Kevin,0,0,0,22,0,2,Kevin Martin,2,0,Martin,G,0,Minnesota,0
+9,0,4,3,2,67,6,3,50,Ricky,6,5,83,30,0,1,Ricky Rubio,13,4,Rubio,G,0,Minnesota,1
+0,1,0,1,0,0,3,1,33,Nemanja,0,0,0,17,2,3,Nemanja Bjelica,2,2,Bjelica,N/A,0,Minnesota,0
+1,1,7,0,0,0,4,2,50,Gorgui,0,0,0,23,2,4,Gorgui Dieng,4,9,Dieng,N/A,2,Minnesota,1
+5,1,3,3,1,33,18,8,44,Zach,4,3,75,25,1,1,Zach LaVine,20,4,LaVine,N/A,1,Minnesota,2
+0,0,0,0,0,0,1,1,100,Tayshaun,0,0,0,12,0,0,Tayshaun Prince,2,0,Prince,N/A,1,Minnesota,0
+0,0,0,0,0,0,5,1,20,Shabazz,2,1,50,14,0,0,Shabazz Muhammad,3,0,Muhammad,N/A,0,Minnesota,2
+0,0,0,0,0,0,0,0,0,Damjan,0,0,0,11,0,1,Damjan Rudez,0,0,Rudez,N/A,0,Minnesota,0
+0,0,1,0,0,0,2,2,100,Adreian,2,1,50,4,0,1,Adreian Payne,5,1,Payne,N/A,0,Minnesota,0
+1,0,0,0,0,0,3,1,33,Andre,2,0,0,9,0,2,Andre Miller,2,0,Miller,N/A,0,Minnesota,0

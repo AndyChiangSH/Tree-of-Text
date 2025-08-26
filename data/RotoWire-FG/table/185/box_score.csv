@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,5,0,0,11,2,18,Doug,0,0,0,24,0,3,Doug McDermott,4,1,McDermott,F,0,Chicago,1
+1,1,8,1,1,100,11,3,27,Taj,3,3,100,29,4,1,Taj Gibson,10,12,Gibson,F,0,Chicago,0
+1,1,1,0,0,0,10,5,50,Robin,5,4,80,34,5,2,Robin Lopez,14,6,Lopez,C,1,Chicago,2
+6,0,2,1,1,100,5,2,40,Jerian,4,4,100,25,0,1,Jerian Grant,9,2,Grant,G,1,Chicago,5
+2,0,7,2,0,0,12,4,33,Michael,7,6,86,29,0,1,Michael Carter-Williams,14,7,Carter-Williams,G,2,Chicago,3
+2,0,2,11,5,46,15,7,47,Denzel,0,0,0,30,0,1,Denzel Valentine,19,2,Valentine,N/A,2,Chicago,1
+6,0,4,3,0,0,13,6,46,Rajon,0,0,0,27,0,4,Rajon Rondo,12,4,Rondo,N/A,3,Chicago,2
+0,0,5,4,3,75,8,5,63,Bobby,0,0,0,18,2,2,Bobby Portis,13,7,Portis,N/A,1,Chicago,1
+0,0,1,0,0,0,0,0,0,Isaiah,0,0,0,10,0,0,Isaiah Canaan,0,1,Canaan,N/A,0,Chicago,1
+0,0,1,0,0,0,3,1,33,Cristiano,2,2,100,14,1,3,Cristiano Felicio,4,2,Felicio,N/A,0,Chicago,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwyane,N/A,N/A,N/A,N/A,N/A,N/A,Dwyane Wade,N/A,N/A,Wade,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Zipser,N/A,N/A,Zipser,N/A,N/A,Chicago,N/A
+2,1,2,4,1,25,10,5,50,Otto,0,0,0,34,0,1,Otto Porter Jr.,11,2,Porter,F,2,Washington,0
+2,0,4,3,3,100,12,8,67,Markieff,0,0,0,22,1,6,Markieff Morris,19,5,Morris,F,3,Washington,3
+0,1,9,0,0,0,8,5,63,Marcin,0,0,0,42,3,4,Marcin Gortat,10,12,Gortat,C,1,Washington,3
+3,0,4,6,3,50,15,7,47,Bradley,3,2,67,37,0,2,Bradley Beal,19,4,Beal,G,0,Washington,4
+14,1,6,2,1,50,21,11,52,John,4,3,75,40,0,2,John Wall,26,6,Wall,G,1,Washington,5
+0,3,3,2,1,50,7,3,43,Jason,0,0,0,23,3,2,Jason Smith,7,6,Smith,N/A,0,Washington,3
+1,0,5,3,0,0,6,1,17,Kelly,2,1,50,23,0,4,Kelly Oubre Jr.,3,5,Oubre,N/A,1,Washington,1
+1,0,1,2,2,100,4,2,50,Trey,0,0,0,13,0,2,Trey Burke,6,1,Burke,N/A,0,Washington,2
+1,0,1,0,0,0,0,0,0,Sheldon,0,0,0,7,0,1,Sheldon McClellan,0,1,McClellan,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Nicholson,N/A,N/A,Nicholson,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Daniel,N/A,N/A,N/A,N/A,N/A,N/A,Daniel Ochefu,N/A,N/A,Ochefu,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tomas,N/A,N/A,N/A,N/A,N/A,N/A,Tomas Satoransky,N/A,N/A,Satoransky,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcus,N/A,N/A,N/A,N/A,N/A,N/A,Marcus Thornton,N/A,N/A,Thornton,N/A,N/A,Washington,N/A

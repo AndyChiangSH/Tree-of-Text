@@ -1,0 +1,43 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,8,00:07:09,0,1,Anders ANTONSEN,smash,goes out of bounds,opponent goes out of bounds
+2,1,00:07:30,1,1,Kenta NISHIMOTO,long service,goes out of bounds,opponent goes out of bounds
+3,23,00:08:08,1,2,Anders ANTONSEN,smash,goes out of bounds,opponent goes out of bounds
+4,5,00:08:42,2,2,Kenta NISHIMOTO,return net,fails to clear the net,opponent fails to clear the net
+5,10,00:09:13,2,3,Anders ANTONSEN,rush,opponent wins by landing,wins by landing
+6,25,00:09:58,3,3,Kenta NISHIMOTO,smash,hits the net,opponent hits the net
+7,5,00:10:32,3,4,Anders ANTONSEN,return net,hits the net,opponent hits the net
+8,3,00:10:58,4,4,Kenta NISHIMOTO,net shot,goes out of bounds,opponent goes out of bounds
+9,20,00:11:34,4,5,Anders ANTONSEN,push,opponent wins by landing,wins by landing
+10,16,00:12:20,4,6,Anders ANTONSEN,return net,fails to clear the net,opponent fails to clear the net
+11,5,00:12:57,4,7,Anders ANTONSEN,lob,opponent wins by landing,wins by landing
+12,12,00:13:32,4,8,Anders ANTONSEN,lob,goes out of bounds,opponent goes out of bounds
+13,12,00:14:11,5,8,Kenta NISHIMOTO,smash,opponent wins by landing,wins by landing
+14,22,00:14:59,5,9,Anders ANTONSEN,wrist smash,opponent wins by landing,wins by landing
+15,4,00:15:34,5,10,Anders ANTONSEN,drive,goes out of bounds,opponent goes out of bounds
+16,6,00:16:00,6,10,Kenta NISHIMOTO,smash,opponent wins by landing,wins by landing
+17,12,00:16:54,7,10,Kenta NISHIMOTO,smash,goes out of bounds,opponent goes out of bounds
+18,2,00:17:16,8,10,Kenta NISHIMOTO,net shot,hits the net,opponent hits the net
+19,11,00:17:44,8,11,Anders ANTONSEN,return net,fails to clear the net,opponent fails to clear the net
+20,7,00:19:19,8,12,Anders ANTONSEN,smash,opponent wins by landing,wins by landing
+21,6,00:19:45,9,12,Kenta NISHIMOTO,smash,opponent wins by landing,wins by landing
+22,26,00:20:36,10,12,Kenta NISHIMOTO,smash,goes out of bounds,opponent goes out of bounds
+23,27,00:21:45,11,12,Kenta NISHIMOTO,lob,opponent wins by landing,wins by landing
+24,10,00:22:34,12,12,Kenta NISHIMOTO,lob,goes out of bounds,opponent goes out of bounds
+25,20,00:23:44,13,12,Kenta NISHIMOTO,rush,goes out of bounds,opponent goes out of bounds
+26,45,00:25:20,14,12,Kenta NISHIMOTO,smash,opponent wins by landing,wins by landing
+27,2,00:26:19,14,13,Anders ANTONSEN,smash,opponent wins by landing,wins by landing
+28,9,00:26:51,15,13,Kenta NISHIMOTO,drop,hits the net,opponent hits the net
+29,3,00:27:20,16,13,Kenta NISHIMOTO,net shot,opponent wins by landing,wins by landing
+30,8,00:27:54,16,14,Anders ANTONSEN,smash,opponent wins by landing,wins by landing
+31,13,00:28:57,17,14,Kenta NISHIMOTO,defensive return lob,goes out of bounds,opponent goes out of bounds
+32,9,00:29:49,17,15,Anders ANTONSEN,clear,goes out of bounds,opponent goes out of bounds
+33,20,00:30:55,17,16,Anders ANTONSEN,return net,fails to clear the net,opponent fails to clear the net
+34,11,00:31:40,18,16,Kenta NISHIMOTO,return net,hits the net,opponent hits the net
+35,26,00:32:33,18,17,Anders ANTONSEN,smash,opponent wins by landing,wins by landing
+36,12,00:33:50,18,18,Anders ANTONSEN,smash,hits the net,opponent hits the net
+37,14,00:34:27,18,19,Anders ANTONSEN,drive,hits the net,opponent hits the net
+38,19,00:35:31,18,20,Anders ANTONSEN,rush,opponent wins by landing,wins by landing
+39,17,00:36:33,19,20,Kenta NISHIMOTO,clear,goes out of bounds,opponent goes out of bounds
+40,22,00:37:59,20,20,Kenta NISHIMOTO,smash,goes out of bounds,opponent goes out of bounds
+41,16,00:39:02,21,20,Kenta NISHIMOTO,drop,hits the net,opponent hits the net
+42,12,00:40:23,22,20,Kenta NISHIMOTO,lob,goes out of bounds,opponent goes out of bounds

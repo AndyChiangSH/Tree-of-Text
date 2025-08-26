@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,5,3,1,33,12,3,25,Gordon,6,5,83,31,2,2,Gordon Hayward,12,7,Hayward,F,1,Utah,1
+1,2,10,0,0,0,17,6,35,Derrick,10,8,80,29,2,2,Derrick Favors,20,12,Favors,F,3,Utah,0
+2,7,5,0,0,0,6,3,50,Rudy,2,2,100,32,6,2,Rudy Gobert,8,11,Gobert,C,0,Utah,1
+1,0,0,6,3,50,14,6,43,Rodney,2,2,100,23,0,3,Rodney Hood,17,0,Hood,G,0,Utah,1
+3,0,0,2,2,100,5,2,40,Raul,2,1,50,21,0,2,Raul Neto,7,0,Neto,G,3,Utah,0
+0,0,0,0,0,0,3,1,33,Elijah,0,0,0,5,1,2,Elijah Millsap,2,1,Millsap,N/A,0,Utah,0
+1,0,6,1,1,100,8,6,75,Alec,3,2,67,27,1,1,Alec Burks,15,7,Burks,N/A,1,Utah,3
+6,0,3,0,0,0,10,5,50,Trey,0,0,0,27,0,0,Trey Burke,10,3,Burke,N/A,1,Utah,0
+0,0,3,0,0,0,5,1,20,Trevor,0,0,0,18,0,2,Trevor Booker,2,3,Booker,N/A,0,Utah,0
+0,0,2,0,0,0,3,0,0,Trey,0,0,0,8,0,2,Trey Lyles,0,2,Lyles,N/A,0,Utah,1
+0,0,1,1,0,0,2,1,50,Joe,0,0,0,14,0,2,Joe Ingles,2,1,Ingles,N/A,1,Utah,0
+1,0,2,0,0,0,2,1,50,Chris,0,0,0,4,1,0,Chris Johnson,2,3,Johnson,N/A,0,Utah,0
+0,0,1,0,0,0,1,1,100,Tibor,0,0,0,2,0,2,Tibor Pleiss,2,1,Pleiss,N/A,0,Utah,0
+1,0,4,0,0,0,3,1,33,JaKarr,2,1,50,20,0,6,JaKarr Sampson,3,4,Sampson,F,1,Philadelphia,2
+2,2,6,0,0,0,12,2,17,Nerlens,4,4,100,36,4,3,Nerlens Noel,8,10,Noel,F,0,Philadelphia,2
+1,0,5,0,0,0,12,4,33,Jahlil,4,2,50,36,1,3,Jahlil Okafor,10,6,Okafor,C,1,Philadelphia,2
+1,0,3,3,2,67,7,3,43,Hollis,2,2,100,32,1,4,Hollis Thompson,10,4,Thompson,G,0,Philadelphia,1
+2,0,4,6,1,17,9,1,11,Isaiah,10,7,70,31,1,4,Isaiah Canaan,10,5,Canaan,G,0,Philadelphia,4
+2,0,3,3,2,67,6,3,50,Nik,5,4,80,21,0,0,Nik Stauskas,12,3,Stauskas,N/A,0,Philadelphia,1
+2,2,5,2,1,50,9,4,44,Jerami,4,3,75,26,0,1,Jerami Grant,12,5,Grant,N/A,0,Philadelphia,3
+4,0,1,0,0,0,4,1,25,TJ,0,0,0,27,1,1,TJ McConnell,2,2,McConnell,N/A,2,Philadelphia,3
+0,1,0,0,0,0,0,0,0,Richaun,2,1,50,6,0,0,Richaun Holmes,1,0,Holmes,N/A,0,Philadelphia,0
+0,0,0,1,0,0,1,0,0,Christian,4,3,75,5,0,0,Christian Wood,3,0,Wood,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Covington,N/A,N/A,Covington,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kendall,N/A,N/A,N/A,N/A,N/A,N/A,Kendall Marshall,N/A,N/A,Marshall,N/A,N/A,Philadelphia,N/A

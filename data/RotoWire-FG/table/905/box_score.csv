@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,6,5,3,60,16,8,50,Tobias,2,2,100,40,2,3,Tobias Harris,21,8,Harris,F,1,LA,1
+1,0,9,7,2,29,11,4,36,Danilo,10,10,100,40,0,1,Danilo Gallinari,20,9,Gallinari,F,0,LA,1
+3,0,10,0,0,0,14,11,79,DeAndre,9,8,89,32,3,5,DeAndre Jordan,30,13,Jordan,C,4,LA,2
+1,0,1,0,0,0,8,5,62,Avery,0,0,0,22,0,2,Avery Bradley,10,1,Bradley,G,0,LA,1
+4,0,3,5,2,40,10,4,40,Austin,0,0,0,36,0,4,Austin Rivers,10,3,Rivers,G,0,LA,1
+6,1,2,9,2,22,18,6,33,Lou,6,5,83,32,0,1,Lou Williams,19,2,Williams,N/A,0,LA,0
+0,0,1,0,0,0,0,0,0,Wesley,0,0,0,3,0,0,Wesley Johnson,0,1,Johnson,N/A,0,LA,0
+4,0,0,3,2,67,6,3,50,Milos,2,2,100,17,1,3,Milos Teodosic,10,1,Teodosic,N/A,0,LA,1
+2,4,3,0,0,0,5,3,60,Montrezl,4,3,75,16,1,2,Montrezl Harrell,9,4,Harrell,N/A,0,LA,0
+0,0,1,0,0,0,0,0,0,Sam,0,0,0,3,0,0,Sam Dekker,0,1,Dekker,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sindarius,N/A,N/A,N/A,N/A,N/A,N/A,Sindarius Thornwell,N/A,N/A,Thornwell,N/A,N/A,LA,N/A
+2,0,4,4,1,25,13,4,31,Jayson,1,1,100,32,0,2,Jayson Tatum,10,4,Tatum,F,0,Boston,0
+0,1,3,4,2,50,17,8,47,Al,2,2,100,35,1,5,Al Horford,20,4,Horford,F,0,Boston,1
+2,3,3,0,0,0,8,4,50,Aron,0,0,0,15,2,5,Aron Baynes,8,5,Baynes,C,0,Boston,1
+1,0,5,5,2,40,12,4,33,Jaylen,2,2,100,36,3,4,Jaylen Brown,12,8,Brown,G,1,Boston,2
+8,0,1,7,5,71,21,11,52,Kyrie,6,6,100,38,0,3,Kyrie Irving,33,1,Irving,G,1,Boston,4
+3,0,11,4,3,75,8,4,50,Marcus,2,2,100,35,0,4,Marcus Morris,13,11,Morris,N/A,1,Boston,0
+7,0,3,5,2,40,12,5,42,Terry,2,1,50,29,0,3,Terry Rozier,13,3,Rozier,N/A,0,Boston,0
+1,1,2,2,0,0,3,0,0,Daniel,2,2,100,11,3,3,Daniel Theis,2,5,Theis,N/A,0,Boston,0
+0,2,3,0,0,0,3,2,67,Greg,4,4,100,10,2,2,Greg Monroe,8,5,Monroe,N/A,1,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kadeem,N/A,N/A,N/A,N/A,N/A,N/A,Kadeem Allen,N/A,N/A,Allen,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Abdel,N/A,N/A,N/A,N/A,N/A,N/A,Abdel Nader,N/A,N/A,Nader,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Semi,N/A,N/A,N/A,N/A,N/A,N/A,Semi Ojeleye,N/A,N/A,Ojeleye,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Guerschon,N/A,N/A,N/A,N/A,N/A,N/A,Guerschon Yabusele,N/A,N/A,Yabusele,N/A,N/A,Boston,N/A

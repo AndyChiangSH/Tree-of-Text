@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,4,4,0,0,11,2,18,Nik,4,4,100,40,0,3,Nik Stauskas,8,4,Stauskas,F,2,Philadelphia,2
+2,0,4,7,3,43,15,7,47,Ersan,5,4,80,27,1,1,Ersan Ilyasova,21,5,Ilyasova,F,0,Philadelphia,2
+2,0,6,0,0,0,6,2,33,Nerlens,4,3,75,20,1,2,Nerlens Noel,7,7,Noel,C,2,Philadelphia,1
+2,0,0,0,0,0,12,6,50,Gerald,0,0,0,25,0,2,Gerald Henderson,12,0,Henderson,G,2,Philadelphia,0
+4,0,2,0,0,0,6,5,83,T.J.,1,1,100,28,0,3,T.J. McConnell,11,2,McConnell,G,0,Philadelphia,4
+2,0,7,0,0,0,6,4,67,Richaun,4,4,100,24,2,2,Richaun Holmes,12,9,Holmes,N/A,1,Philadelphia,2
+0,0,3,3,0,0,9,1,11,Dario,4,2,50,27,1,4,Dario Saric,4,4,Saric,N/A,2,Philadelphia,2
+1,0,1,2,2,100,7,4,57,Sergio,0,0,0,12,0,1,Sergio Rodriguez,10,1,Rodriguez,N/A,0,Philadelphia,2
+0,1,0,4,1,25,8,3,38,Timothe,3,2,67,26,1,2,Timothe Luwawu-Cabarrot,9,1,Luwawu-Cabarrot,N/A,1,Philadelphia,0
+1,0,0,3,0,0,4,1,25,Chasson,6,6,100,12,0,1,Chasson Randle,8,0,Randle,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Covington,N/A,N/A,Covington,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Embiid,N/A,N/A,Embiid,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil Okafor,N/A,N/A,Okafor,N/A,N/A,Philadelphia,N/A
+1,0,0,1,0,0,2,0,0,Rodney,2,0,0,15,0,0,Rodney McGruder,0,0,McGruder,F,0,Miami,2
+1,0,1,4,2,50,5,2,40,Luke,2,2,100,25,0,4,Luke Babbitt,8,1,Babbitt,F,0,Miami,1
+0,3,14,0,0,0,17,14,82,Hassan,3,2,67,27,6,1,Hassan Whiteside,30,20,Whiteside,C,0,Miami,3
+7,1,1,6,5,83,10,7,70,Dion,2,2,100,26,0,0,Dion Waiters,21,1,Waiters,G,2,Miami,3
+8,0,4,2,2,100,11,6,55,Goran,3,2,67,28,0,3,Goran Dragic,16,4,Dragic,G,0,Miami,1
+6,1,6,0,0,0,9,5,56,Tyler,8,6,75,34,0,4,Tyler Johnson,16,6,Johnson,N/A,1,Miami,2
+3,0,6,1,0,0,5,4,80,James,2,2,100,16,0,2,James Johnson,10,6,Johnson,N/A,2,Miami,1
+0,0,1,4,2,50,7,4,57,Wayne,1,1,100,16,1,5,Wayne Ellington,11,2,Ellington,N/A,1,Miami,3
+0,0,0,0,0,0,4,1,25,Willie,0,0,0,14,1,1,Willie Reed,2,1,Reed,N/A,0,Miami,1
+2,0,2,2,1,50,6,2,33,Okaro,0,0,0,25,1,1,Okaro White,5,3,White,N/A,0,Miami,2
+0,0,1,1,0,0,2,1,50,Derrick,0,0,0,8,0,2,Derrick Williams,2,1,Williams,N/A,0,Miami,2
+0,0,3,1,0,0,4,2,50,Udonis,0,0,0,7,1,1,Udonis Haslem,4,4,Haslem,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Richardson,N/A,N/A,Richardson,N/A,N/A,Miami,N/A

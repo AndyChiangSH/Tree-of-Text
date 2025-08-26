@@ -1,0 +1,33 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,12,00:32:42,1,0,An Se Young,lob,goes out of bounds,opponent goes out of bounds
+2,12,00:33:10,2,0,An Se Young,rush,unknown,unknown
+3,1,00:33:43,2,1,Gregoria Mariska TUNJUNG,short service,hits the net,opponent hits the net
+4,8,00:34:13,2,2,Gregoria Mariska TUNJUNG,return net,fails to clear the net,opponent fails to clear the net
+5,9,00:34:32,2,3,Gregoria Mariska TUNJUNG,rush,opponent wins by landing,wins by landing
+6,10,00:34:56,2,4,Gregoria Mariska TUNJUNG,drop,goes out of bounds,opponent goes out of bounds
+7,11,00:35:23,2,5,Gregoria Mariska TUNJUNG,clear,landing judgment error,opponent landing judgment error
+8,15,00:35:58,2,6,Gregoria Mariska TUNJUNG,wrist smash,opponent wins by landing,wins by landing
+9,6,00:37:43,3,6,An Se Young,wrist smash,opponent wins by landing,wins by landing
+11,18,00:38:36,5,6,An Se Young,cross-court net shot,goes out of bounds,opponent goes out of bounds
+12,5,00:39:08,5,7,Gregoria Mariska TUNJUNG,drop,fails to clear the net,opponent fails to clear the net
+13,3,00:39:25,5,8,Gregoria Mariska TUNJUNG,unknown,opponent wins by landing,wins by landing
+15,11,00:40:07,5,10,Gregoria Mariska TUNJUNG,rush,opponent wins by landing,wins by landing
+16,4,00:40:26,6,10,An Se Young,smash,opponent wins by landing,wins by landing
+17,4,00:40:47,6,11,Gregoria Mariska TUNJUNG,smash,opponent wins by landing,wins by landing
+18,5,00:42:04,6,12,Gregoria Mariska TUNJUNG,smash,opponent wins by landing,wins by landing
+19,6,00:42:31,7,12,An Se Young,rush,opponent wins by landing,wins by landing
+20,2,00:42:57,8,12,An Se Young,net shot,fails to clear the net,opponent fails to clear the net
+21,6,00:43:17,9,12,An Se Young,cross-court net shot,fails to clear the net,opponent fails to clear the net
+22,16,00:43:53,9,13,Gregoria Mariska TUNJUNG,smash,opponent wins by landing,wins by landing
+23,13,00:44:25,9,14,Gregoria Mariska TUNJUNG,push,opponent wins by landing,wins by landing
+24,11,00:44:57,10,14,An Se Young,cross-court net shot,goes out of bounds,opponent goes out of bounds
+25,10,00:45:43,11,14,An Se Young,rush,hits the net,opponent hits the net
+26,4,00:46:23,12,14,An Se Young,drop,fails to clear the net,opponent fails to clear the net
+27,13,00:46:55,12,15,Gregoria Mariska TUNJUNG,clear,goes out of bounds,opponent goes out of bounds
+28,7,00:47:22,12,16,Gregoria Mariska TUNJUNG,smash,opponent wins by landing,wins by landing
+29,4,00:47:45,12,17,Gregoria Mariska TUNJUNG,clear,goes out of bounds,opponent goes out of bounds
+30,5,00:48:07,12,18,Gregoria Mariska TUNJUNG,wrist smash,opponent wins by landing,wins by landing
+31,2,00:48:24,12,19,Gregoria Mariska TUNJUNG,cross-court net shot,goes out of bounds,opponent goes out of bounds
+32,11,00:48:44,12,20,Gregoria Mariska TUNJUNG,push,opponent wins by landing,wins by landing
+33,9,00:49:07,13,20,An Se Young,cross-court net shot,goes out of bounds,opponent goes out of bounds
+34,2,00:49:23,13,21,Gregoria Mariska TUNJUNG,smash,opponent wins by landing,wins by landing

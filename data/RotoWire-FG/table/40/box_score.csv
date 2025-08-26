@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,2,1,0,0,4,1,25,Derrick,4,2,50,22,2,4,"Derrick Jones, Jr.",4,4,"Jones,",F,0,Phoenix,2
+0,1,7,7,3,43,15,8,53,Marquese,6,4,67,31,4,4,Marquese Chriss,23,11,Chriss,F,2,Phoenix,1
+1,2,9,1,1,100,6,4,67,Alex,3,2,67,25,2,6,Alex Len,11,11,Len,C,2,Phoenix,2
+0,0,2,9,3,33,26,9,35,Devin,8,7,88,40,0,6,Devin Booker,28,2,Booker,G,3,Phoenix,3
+12,0,4,2,0,0,19,5,26,Tyler,0,0,0,45,1,1,Tyler Ulis,10,5,Ulis,G,2,Phoenix,4
+1,0,5,2,0,0,13,4,31,Leandro,4,3,75,31,1,2,Leandro Barbosa,11,6,Barbosa,N/A,1,Phoenix,1
+0,0,4,1,0,0,6,1,17,Alan,4,2,50,16,3,4,Alan Williams,4,7,Williams,N/A,0,Phoenix,4
+2,0,0,2,0,0,4,2,50,Jared,3,1,33,21,2,3,Jared Dudley,5,2,Dudley,N/A,3,Phoenix,1
+0,0,2,0,0,0,0,0,0,Jarell,2,2,100,9,0,0,Jarell Eddie,2,2,Eddie,N/A,1,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Bledsoe,N/A,N/A,Bledsoe,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyson,N/A,N/A,N/A,N/A,N/A,N/A,Tyson Chandler,N/A,N/A,Chandler,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Knight,N/A,N/A,Knight,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,TJ,N/A,N/A,N/A,N/A,N/A,N/A,TJ Warren,N/A,N/A,Warren,N/A,N/A,Phoenix,N/A
+3,0,2,3,1,33,6,3,50,Caris,3,1,33,20,1,2,Caris LeVert,8,3,LeVert,F,0,Brooklyn,2
+2,1,11,0,0,0,10,2,20,Rondae,2,1,50,15,5,3,Rondae Hollis-Jefferson,5,16,Hollis-Jefferson,F,2,Brooklyn,2
+0,1,3,5,1,20,14,7,50,Brook,7,4,57,25,3,3,Brook Lopez,19,6,Lopez,C,0,Brooklyn,4
+0,0,2,3,0,0,3,0,0,Randy,0,0,0,20,0,2,Randy Foye,0,2,Foye,G,0,Brooklyn,0
+5,0,2,3,1,33,7,3,43,Jeremy,7,6,86,21,1,2,Jeremy Lin,13,3,Lin,G,0,Brooklyn,2
+4,0,3,4,1,25,8,3,38,Quincy,6,5,83,26,0,4,Quincy Acy,12,3,Acy,N/A,2,Brooklyn,1
+3,1,3,2,0,0,6,3,50,Isaiah,6,5,83,28,1,4,Isaiah Whitehead,11,4,Whitehead,N/A,2,Brooklyn,3
+2,1,4,1,0,0,6,3,50,Spencer,0,0,0,23,0,0,Spencer Dinwiddie,6,4,Dinwiddie,N/A,2,Brooklyn,0
+1,1,6,3,1,33,9,6,67,KJ,3,3,100,24,2,3,KJ McDaniels,16,8,McDaniels,N/A,2,Brooklyn,1
+1,0,4,2,2,100,16,6,38,Trevor,0,0,0,17,4,1,Trevor Booker,14,8,Booker,N/A,0,Brooklyn,1
+1,0,0,1,0,0,5,3,60,Justin,4,4,100,8,0,2,Justin Hamilton,10,0,Hamilton,N/A,1,Brooklyn,0
+3,0,3,1,1,100,4,4,100,Archie,4,3,75,8,0,0,Archie Goodwin,12,3,Goodwin,N/A,0,Brooklyn,0
+0,0,1,1,0,0,1,0,0,Andrew,0,0,0,6,0,0,Andrew Nicholson,0,1,Nicholson,N/A,0,Brooklyn,1

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,5,5,2,40,11,4,36,Nemanja,0,0,0,35,2,3,Nemanja Bjelica,10,7,Bjelica,F,1,Minnesota,0
+2,0,8,0,0,0,15,6,40,Taj,6,5,83,37,6,4,Taj Gibson,17,14,Gibson,F,0,Minnesota,0
+4,0,12,5,2,40,16,10,62,Karl-Anthony,4,4,100,38,1,6,Karl-Anthony Towns,26,13,Towns,C,0,Minnesota,3
+3,0,5,2,1,50,12,4,33,Andrew,1,0,0,33,1,2,Andrew Wiggins,9,6,Wiggins,G,0,Minnesota,1
+6,0,3,5,0,0,14,6,43,Jeff,5,3,60,36,0,0,Jeff Teague,15,3,Teague,G,0,Minnesota,2
+1,0,2,1,0,0,5,3,60,Gorgui,0,0,0,15,1,2,Gorgui Dieng,6,3,Dieng,N/A,1,Minnesota,0
+3,0,0,3,0,0,4,0,0,Tyus,0,0,0,12,0,2,Tyus Jones,0,0,Jones,N/A,2,Minnesota,0
+0,1,0,3,1,33,9,4,44,Jamal,0,0,0,20,1,0,Jamal Crawford,9,1,Crawford,N/A,0,Minnesota,1
+0,0,0,0,0,0,5,2,40,Derrick,0,0,0,15,0,0,Derrick Rose,4,0,Rose,N/A,0,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jimmy,N/A,N/A,N/A,N/A,N/A,N/A,Jimmy Butler,N/A,N/A,Butler,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcus,N/A,N/A,N/A,N/A,N/A,N/A,Marcus Georges-Hunt,N/A,N/A,Georges-Hunt,N/A,N/A,Minnesota,N/A
+0,1,3,3,0,0,10,4,40,Wilson,2,2,100,33,2,0,Wilson Chandler,10,5,Chandler,F,0,Denver,0
+1,1,5,3,0,0,12,3,25,Paul,9,6,67,33,2,1,Paul Millsap,12,7,Millsap,F,0,Denver,2
+9,1,11,6,1,17,20,6,30,Nikola,3,3,100,36,3,5,Nikola Jokic,16,14,Jokic,C,1,Denver,2
+6,1,5,7,2,29,14,6,43,Will,0,0,0,40,1,3,Will Barton,14,6,Barton,G,1,Denver,2
+1,1,0,6,3,50,16,8,50,Jamal,3,3,100,36,2,4,Jamal Murray,22,2,Murray,G,0,Denver,1
+1,0,3,9,5,56,11,6,55,Devin,3,3,100,20,0,2,Devin Harris,20,3,Harris,N/A,0,Denver,2
+2,1,4,0,0,0,4,2,50,Mason,2,2,100,22,3,2,Mason Plumlee,6,7,Plumlee,N/A,0,Denver,1
+1,1,3,2,0,0,2,0,0,Torrey,0,0,0,16,0,0,Torrey Craig,0,3,Craig,N/A,1,Denver,0
+0,0,0,0,0,0,0,0,0,Trey,0,0,0,4,0,0,Trey Lyles,0,0,Lyles,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malik,N/A,N/A,N/A,N/A,N/A,N/A,Malik Beasley,N/A,N/A,Beasley,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Juancho,N/A,N/A,N/A,N/A,N/A,N/A,Juancho Hernangomez,N/A,N/A,Hernangomez,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richard,N/A,N/A,N/A,N/A,N/A,N/A,Richard Jefferson,N/A,N/A,Jefferson,N/A,N/A,Denver,N/A

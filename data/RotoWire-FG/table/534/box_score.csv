@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,2,4,2,0,0,8,2,25,Al-Farouq,0,0,0,21,0,2,Al-Farouq Aminu,4,4,Aminu,F,1,Portland,1
+0,0,1,2,0,0,8,2,25,Noah,0,0,0,15,3,3,Noah Vonleh,4,4,Vonleh,F,0,Portland,0
+3,2,6,0,0,0,3,0,0,Mason,2,2,100,27,1,2,Mason Plumlee,2,7,Plumlee,C,2,Portland,0
+6,0,4,9,4,44,18,8,44,Damian,10,10,100,32,0,1,Damian Lillard,30,4,Lillard,G,0,Portland,1
+2,0,2,3,2,67,19,10,53,CJ,3,3,100,33,1,1,CJ McCollum,25,3,McCollum,G,0,Portland,2
+1,1,12,5,3,60,8,4,50,Meyers,0,0,0,25,2,5,Meyers Leonard,11,14,Leonard,N/A,0,Portland,0
+1,0,3,6,2,33,7,2,29,Allen,0,0,0,22,0,0,Allen Crabbe,6,3,Crabbe,N/A,0,Portland,1
+0,0,5,1,0,0,8,2,25,Gerald,2,2,100,23,0,0,Gerald Henderson,6,5,Henderson,N/A,2,Portland,0
+1,2,7,0,0,0,4,4,100,Ed,3,1,33,24,2,3,Ed Davis,9,9,Davis,N/A,0,Portland,2
+2,0,0,2,1,50,3,2,67,Maurice,0,0,0,13,0,0,Maurice Harkless,5,0,Harkless,N/A,0,Portland,0
+0,0,0,0,0,0,1,1,100,Brian,0,0,0,3,0,1,Brian Roberts,2,0,Roberts,N/A,0,Portland,0
+0,0,2,0,0,0,1,0,0,Pat,0,0,0,3,0,0,Pat Connaughton,0,2,Connaughton,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Kaman,N/A,N/A,Kaman,N/A,N/A,Portland,N/A
+4,1,8,3,0,0,20,10,50,Carmelo,3,3,100,34,2,2,Carmelo Anthony,23,10,Anthony,F,1,New York,1
+1,3,7,2,1,50,10,4,40,Kristaps,3,2,67,25,0,5,Kristaps Porzingis,11,7,Porzingis,F,1,New York,1
+1,0,0,0,0,0,5,4,80,Robin,0,0,0,19,2,3,Robin Lopez,8,2,Lopez,C,0,New York,1
+1,0,5,1,1,100,9,6,67,Arron,0,0,0,36,1,0,Arron Afflalo,13,6,Afflalo,G,0,New York,0
+2,0,2,5,1,20,8,2,25,Jose,0,0,0,25,0,2,Jose Calderon,5,2,Calderon,G,0,New York,3
+1,0,3,0,0,0,7,2,29,Derrick,3,1,33,17,2,0,Derrick Williams,5,5,Williams,N/A,1,New York,0
+0,0,2,3,0,0,7,0,0,Langston,0,0,0,21,0,3,Langston Galloway,0,2,Galloway,N/A,0,New York,0
+0,0,1,0,0,0,1,0,0,Jerian,0,0,0,8,0,0,Jerian Grant,0,1,Grant,N/A,1,New York,0
+1,0,8,3,2,67,10,3,30,Kyle,4,3,75,25,1,2,Kyle O'Quinn,11,9,O'Quinn,N/A,0,New York,2
+0,0,2,3,1,33,10,2,20,Lance,0,0,0,23,0,0,Lance Thomas,5,2,Thomas,N/A,0,New York,0
+0,0,0,1,0,0,1,0,0,Sasha,0,0,0,3,0,0,Sasha Vujacic,0,0,Vujacic,N/A,0,New York,0
+0,0,0,0,0,0,0,0,0,Jimmer,5,4,80,3,0,0,Jimmer Fredette,4,0,Fredette,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Seraphin,N/A,N/A,Seraphin,N/A,N/A,New York,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,2,2,1,50,3,1,33,Kyle,2,1,50,26,0,2,Kyle Singler,4,2,Singler,F,0,Detroit,2
+4,0,8,0,0,0,17,9,53,Greg,5,3,60,35,8,5,Greg Monroe,21,16,Monroe,F,0,Detroit,3
+1,1,4,0,0,0,11,7,64,Andre,1,0,0,27,4,1,Andre Drummond,14,8,Drummond,C,0,Detroit,1
+2,0,3,9,3,33,17,6,35,Kentavious,2,1,50,42,0,5,Kentavious Caldwell-Pope,16,3,Caldwell-Pope,G,2,Detroit,3
+8,0,4,9,5,56,20,12,60,D.J.,6,6,100,37,0,1,D.J. Augustin,35,4,Augustin,G,0,Detroit,2
+1,0,6,4,2,50,5,3,60,Anthony,2,1,50,27,0,2,Anthony Tolliver,9,6,Tolliver,N/A,2,Detroit,1
+4,0,1,8,1,13,13,2,15,Jodie,5,4,80,28,1,2,Jodie Meeks,9,2,Meeks,N/A,0,Detroit,2
+2,1,1,2,0,0,4,1,25,Spencer,0,0,0,11,0,3,Spencer Dinwiddie,2,1,Dinwiddie,N/A,0,Detroit,0
+0,0,1,0,0,0,0,0,0,Jonas,0,0,0,6,1,0,Jonas Jerebko,0,2,Jerebko,N/A,1,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caron,N/A,N/A,N/A,N/A,N/A,N/A,Caron Butler,N/A,N/A,Butler,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Jennings,N/A,N/A,Jennings,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,N/A,Cartier Martin,N/A,N/A,Martin,N/A,N/A,Detroit,N/A
+4,0,6,2,1,50,14,8,57,DeMar,10,8,80,35,0,1,DeMar DeRozan,25,6,DeRozan,F,2,Toronto,0
+0,1,0,0,0,0,9,7,78,Amir,4,3,75,28,2,2,Amir Johnson,17,2,Johnson,F,0,Toronto,1
+0,3,8,0,0,0,15,9,60,Jonas,2,2,100,28,3,4,Jonas Valanciunas,20,11,Valanciunas,C,0,Toronto,0
+7,0,3,3,1,33,10,5,50,Greivis,2,2,100,24,0,4,Greivis Vasquez,13,3,Vasquez,G,1,Toronto,1
+8,0,3,3,1,33,8,4,50,Kyle,2,2,100,37,0,4,Kyle Lowry,11,3,Lowry,G,2,Toronto,1
+1,0,2,2,1,50,12,5,42,Lou,2,1,50,22,0,0,Lou Williams,12,2,Williams,N/A,4,Toronto,2
+2,0,6,1,0,0,4,2,50,Patrick,2,2,100,29,0,2,Patrick Patterson,6,6,Patterson,N/A,0,Toronto,2
+1,1,3,4,1,25,6,2,33,Terrence,2,2,100,23,0,1,Terrence Ross,7,3,Ross,N/A,0,Toronto,1
+0,0,0,0,0,0,1,1,100,Tyler,3,1,33,6,1,0,Tyler Hansbrough,3,1,Hansbrough,N/A,0,Toronto,0
+0,0,0,0,0,0,0,0,0,James,0,0,0,3,0,1,James Johnson,0,0,Johnson,N/A,0,Toronto,0
+0,0,0,0,0,0,2,0,0,Charles,0,0,0,5,0,2,Charles Hayes,0,0,Hayes,N/A,0,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Landry,N/A,N/A,N/A,N/A,N/A,N/A,Landry Fields,N/A,N/A,Fields,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Stiemsma,N/A,N/A,Stiemsma,N/A,N/A,Toronto,N/A

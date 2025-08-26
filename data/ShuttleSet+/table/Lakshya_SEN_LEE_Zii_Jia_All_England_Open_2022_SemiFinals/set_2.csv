@@ -1,0 +1,30 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,8,00:30:24,1,0,Lakshya SEN,net shot,hits the net,opponent hits the net
+2,1,00:30:47,1,1,LEE Zii Jia,short service,goes out of bounds,opponent goes out of bounds
+3,26,00:31:14,1,2,LEE Zii Jia,return net,fails to clear the net,opponent fails to clear the net
+4,6,00:31:51,1,3,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+6,39,00:32:55,2,4,LEE Zii Jia,lob,hits the net,opponent hits the net
+7,4,00:33:28,2,5,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+9,10,00:35:02,2,7,LEE Zii Jia,clear,goes out of bounds,opponent goes out of bounds
+10,18,00:35:41,2,8,LEE Zii Jia,net shot,hits the net,opponent hits the net
+11,10,00:36:42,2,9,LEE Zii Jia,net shot,hits the net,opponent hits the net
+12,3,00:36:59,3,9,Lakshya SEN,lob,goes out of bounds,opponent goes out of bounds
+13,9,00:37:18,3,10,LEE Zii Jia,net shot,hits the net,opponent hits the net
+14,14,00:37:42,3,11,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+15,5,00:39:19,4,11,Lakshya SEN,return net,hits the net,opponent hits the net
+16,16,00:39:42,4,12,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+18,19,00:41:42,5,13,Lakshya SEN,drive,hits the net,opponent hits the net
+19,4,00:42:17,5,14,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+20,7,00:42:40,5,15,LEE Zii Jia,net shot,opponent wins by landing,wins by landing
+21,5,00:42:55,5,16,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+22,9,00:43:54,6,16,Lakshya SEN,wrist smash,hits the net,opponent hits the net
+23,7,00:44:14,7,16,Lakshya SEN,rush,opponent wins by landing,wins by landing
+24,9,00:44:38,8,16,Lakshya SEN,wrist smash,opponent wins by landing,wins by landing
+25,10,00:45:40,9,16,Lakshya SEN,back-court drive,goes out of bounds,opponent goes out of bounds
+26,8,00:46:00,10,16,Lakshya SEN,lob,goes out of bounds,opponent goes out of bounds
+27,55,00:47:10,10,17,LEE Zii Jia,net shot,hits the net,opponent hits the net
+28,7,00:47:55,10,18,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+29,3,00:48:25,11,18,Lakshya SEN,wrist smash,goes out of bounds,opponent goes out of bounds
+30,7,00:48:42,11,19,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+32,10,00:49:26,12,20,Lakshya SEN,rush,opponent wins by landing,wins by landing
+33,9,00:49:58,12,21,LEE Zii Jia,return net,hits the net,opponent hits the net

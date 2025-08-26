@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,7,2,1,50,8,3,38,Al-Farouq,0,0,0,26,2,3,Al-Farouq Aminu,7,9,Aminu,F,0,Portland,3
+0,0,3,0,0,0,3,2,67,Noah,1,1,100,13,0,1,Noah Vonleh,5,3,Vonleh,F,1,Portland,1
+6,1,7,0,0,0,3,3,100,Mason,6,5,83,27,3,2,Mason Plumlee,11,10,Plumlee,C,1,Portland,2
+2,1,3,5,1,20,18,8,44,Allen,5,2,40,32,1,1,Allen Crabbe,19,4,Crabbe,G,0,Portland,2
+7,1,5,4,0,0,15,5,33,Tim,3,2,67,48,2,5,Tim Frazier,12,7,Frazier,G,2,Portland,5
+4,0,2,6,1,17,11,3,27,Gerald,6,5,83,26,1,2,Gerald Henderson,12,3,Henderson,N/A,0,Portland,2
+1,1,2,1,0,0,7,2,29,Meyers,1,1,100,23,1,3,Meyers Leonard,5,3,Leonard,N/A,0,Portland,0
+2,0,4,0,0,0,4,4,100,Ed,0,0,0,20,4,1,Ed Davis,8,8,Davis,N/A,0,Portland,1
+1,0,3,6,2,33,10,6,60,Maurice,0,0,0,23,0,1,Maurice Harkless,14,3,Harkless,N/A,1,Portland,2
+0,0,0,0,0,0,0,0,0,Pat,0,0,0,1,0,1,Pat Connaughton,0,0,Connaughton,N/A,0,Portland,0
+0,0,0,0,0,0,2,2,100,Luis,0,0,0,1,0,0,Luis Montero,4,0,Montero,N/A,0,Portland,0
+0,0,0,0,0,0,0,0,0,Cliff,0,0,0,1,0,0,Cliff Alexander,0,0,Alexander,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Kaman,N/A,N/A,Kaman,N/A,N/A,Portland,N/A
+1,0,6,6,2,33,10,4,40,Kent,2,2,100,29,1,2,Kent Bazemore,12,7,Bazemore,F,1,Atlanta,0
+1,0,6,2,0,0,9,3,33,Paul,7,6,86,25,0,2,Paul Millsap,12,6,Millsap,F,1,Atlanta,2
+3,0,2,2,0,0,9,3,33,Al,0,0,0,24,0,4,Al Horford,6,2,Horford,C,0,Atlanta,2
+0,0,2,4,2,50,4,2,50,Kyle,3,3,100,29,0,1,Kyle Korver,9,2,Korver,G,0,Atlanta,1
+8,0,2,4,0,0,12,4,33,Jeff,6,5,83,31,0,2,Jeff Teague,13,2,Teague,G,2,Atlanta,2
+2,0,2,0,0,0,4,3,75,Tiago,2,2,100,19,1,1,Tiago Splitter,8,3,Splitter,N/A,2,Atlanta,0
+1,0,6,1,1,100,6,5,83,Thabo,4,2,50,26,0,1,Thabo Sefolosha,13,6,Sefolosha,N/A,1,Atlanta,2
+3,0,1,4,3,75,10,7,70,Dennis,2,1,50,17,0,1,Dennis Schroder,18,1,Schroder,N/A,1,Atlanta,1
+1,1,1,3,1,33,9,5,56,Mike,2,2,100,23,0,1,Mike Scott,13,1,Scott,N/A,0,Atlanta,0
+1,0,0,2,0,0,3,1,33,Lamar,0,0,0,12,0,1,Lamar Patterson,2,0,Patterson,N/A,0,Atlanta,0
+0,0,1,1,0,0,1,0,0,Mike,0,0,0,5,0,1,Mike Muscala,0,1,Muscala,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Holiday,N/A,N/A,Holiday,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shelvin,N/A,N/A,N/A,N/A,N/A,N/A,Shelvin Mack,N/A,N/A,Mack,N/A,N/A,Atlanta,N/A

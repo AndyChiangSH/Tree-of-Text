@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,7,2,1,50,14,6,43,Harrison,2,2,100,37,0,1,Harrison Barnes,15,7,Barnes,F,0,Dallas,2
+2,0,1,0,0,0,1,1,100,Dorian,0,0,0,17,2,4,Dorian Finney-Smith,2,3,Finney-Smith,F,0,Dallas,0
+4,0,2,4,2,50,9,4,44,Dirk,0,0,0,17,0,1,Dirk Nowitzki,10,2,Nowitzki,C,0,Dallas,0
+2,0,2,7,3,43,11,4,36,Wesley,7,6,86,36,0,2,Wesley Matthews,17,2,Matthews,G,2,Dallas,4
+9,0,1,7,3,43,18,9,50,Deron,4,3,75,32,1,3,Deron Williams,24,2,Williams,G,1,Dallas,2
+2,0,3,3,1,33,4,2,50,Devin,0,0,0,18,0,1,Devin Harris,5,3,Harris,N/A,0,Dallas,0
+0,0,5,1,0,0,3,2,67,Dwight,4,2,50,21,0,3,Dwight Powell,6,5,Powell,N/A,0,Dallas,0
+7,0,1,6,2,33,9,5,56,Seth,5,4,80,31,0,3,Seth Curry,16,1,Curry,N/A,0,Dallas,1
+0,1,1,2,1,50,6,4,67,Justin,0,0,0,13,1,0,Justin Anderson,9,2,Anderson,N/A,0,Dallas,1
+0,0,5,0,0,0,0,0,0,Salah,0,0,0,16,0,4,Salah Mejri,0,5,Mejri,N/A,1,Dallas,0
+0,0,0,0,0,0,0,0,0,Nicolas,0,0,0,0,0,0,Nicolas Brussino,0,0,Brussino,N/A,0,Dallas,0
+0,0,0,0,0,0,0,0,0,AJ,0,0,0,0,0,0,AJ Hammons,0,0,Hammons,N/A,0,Dallas,0
+0,0,0,0,0,0,0,0,0,Jonathan,0,0,0,0,0,0,Jonathan Gibson,0,0,Gibson,N/A,0,Dallas,0
+2,0,7,5,2,40,5,2,40,Solomon,4,4,100,31,0,4,Solomon Hill,10,7,Hill,F,1,New Orleans,0
+0,0,6,3,1,33,7,4,57,Dante,2,2,100,37,0,3,Dante Cunningham,11,6,Cunningham,F,1,New Orleans,0
+4,2,11,1,0,0,14,8,57,Anthony,14,12,86,37,5,4,Anthony Davis,28,16,Davis,C,0,New Orleans,6
+2,0,2,4,2,50,8,6,75,Buddy,0,0,0,23,0,1,Buddy Hield,14,2,Hield,G,0,New Orleans,0
+11,0,3,1,0,0,11,2,18,Jrue,4,3,75,36,0,2,Jrue Holiday,7,3,Holiday,G,1,New Orleans,1
+1,0,1,3,2,67,10,7,70,E'Twaun,0,0,0,23,0,2,E'Twaun Moore,16,1,Moore,N/A,2,New Orleans,0
+1,0,0,2,0,0,4,1,25,Tyreke,0,0,0,11,0,1,Tyreke Evans,2,0,Evans,N/A,0,New Orleans,0
+2,0,2,5,5,100,8,6,75,Langston,0,0,0,26,0,1,Langston Galloway,17,2,Galloway,N/A,0,New Orleans,2
+0,1,3,1,0,0,3,1,33,Terrence,4,3,75,12,0,0,Terrence Jones,5,3,Jones,N/A,0,New Orleans,1
+1,0,1,0,0,0,0,0,0,Tim,2,1,50,4,0,1,Tim Frazier,1,1,Frazier,N/A,1,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alexis,N/A,N/A,N/A,N/A,N/A,N/A,Alexis Ajinca,N/A,N/A,Ajinca,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omer,N/A,N/A,N/A,N/A,N/A,N/A,Omer Asik,N/A,N/A,Asik,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cheick,N/A,N/A,N/A,N/A,N/A,N/A,Cheick Diallo,N/A,N/A,Diallo,N/A,N/A,New Orleans,N/A

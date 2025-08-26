@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,1,4,4,2,50,16,10,62,LeBron,2,2,100,37,1,2,LeBron James,24,5,James,F,1,Cleveland,5
+1,0,4,2,2,100,8,6,75,Jae,0,0,0,25,0,1,Jae Crowder,14,4,Crowder,F,1,Cleveland,0
+6,2,10,3,0,0,12,5,42,Kevin,7,7,100,27,2,2,Kevin Love,17,12,Love,C,0,Cleveland,4
+3,0,2,1,0,0,7,2,29,Dwyane,0,0,0,26,0,3,Dwyane Wade,4,2,Wade,G,1,Cleveland,3
+1,0,1,0,0,0,4,3,75,Derrick,6,6,100,23,1,0,Derrick Rose,12,2,Rose,G,2,Cleveland,1
+2,0,4,6,1,17,11,3,27,JR,0,0,0,23,0,1,JR Smith,7,4,Smith,N/A,0,Cleveland,2
+0,0,5,0,0,0,6,4,67,Tristan,0,0,0,24,3,0,Tristan Thompson,8,8,Thompson,N/A,0,Cleveland,0
+1,0,1,1,0,0,1,0,0,Iman,0,0,0,14,1,1,Iman Shumpert,0,2,Shumpert,N/A,1,Cleveland,1
+1,0,0,2,0,0,7,4,57,Jeff,2,2,100,18,1,1,Jeff Green,10,1,Green,N/A,1,Cleveland,1
+1,0,3,6,5,83,8,6,75,Kyle,0,0,0,19,0,0,Kyle Korver,17,3,Korver,N/A,1,Cleveland,0
+0,0,0,0,0,0,0,0,0,Jose,0,0,0,1,0,0,Jose Calderon,0,0,Calderon,N/A,0,Cleveland,0
+0,0,0,0,0,0,0,0,0,Cedi,0,0,0,1,0,0,Cedi Osman,0,0,Osman,N/A,0,Cleveland,0
+1,0,1,1,1,100,1,1,100,Channing,0,0,0,1,0,0,Channing Frye,3,1,Frye,N/A,0,Cleveland,0
+5,0,3,5,0,0,10,3,30,Khris,2,2,100,35,0,4,Khris Middleton,8,3,Middleton,F,0,Milwaukee,3
+8,1,6,1,0,0,22,15,68,Giannis,6,4,67,39,2,2,Giannis Antetokounmpo,34,8,Antetokounmpo,F,3,Milwaukee,2
+0,1,2,1,1,100,5,3,60,Thon,0,0,0,17,1,3,Thon Maker,7,3,Maker,C,0,Milwaukee,0
+3,0,2,7,3,43,7,3,43,Tony,0,0,0,32,0,1,Tony Snell,9,2,Snell,G,1,Milwaukee,0
+1,0,2,9,4,44,12,6,50,Malcolm,0,0,0,34,0,2,Malcolm Brogdon,16,2,Brogdon,G,2,Milwaukee,2
+0,0,3,0,0,0,8,4,50,Greg,0,0,0,18,3,1,Greg Monroe,8,6,Monroe,N/A,0,Milwaukee,3
+5,0,2,3,1,33,5,1,20,Matthew,0,0,0,24,0,3,Matthew Dellavedova,3,2,Dellavedova,N/A,0,Milwaukee,3
+0,0,0,4,1,25,4,1,25,Mirza,0,0,0,9,0,0,Mirza Teletovic,3,0,Teletovic,N/A,0,Milwaukee,0
+1,0,2,3,0,0,4,0,0,Jason,2,2,100,16,0,0,Jason Terry,2,2,Terry,N/A,3,Milwaukee,0
+0,0,0,0,0,0,1,1,100,John,2,2,100,8,2,1,John Henson,4,2,Henson,N/A,0,Milwaukee,1
+0,0,0,1,1,100,3,1,33,Sterling,0,0,0,6,0,0,Sterling Brown,3,0,Brown,N/A,0,Milwaukee,0
+0,0,0,1,0,0,1,0,0,Rashad,0,0,0,1,0,0,Rashad Vaughn,0,0,Vaughn,N/A,0,Milwaukee,0
+0,0,0,0,0,0,0,0,0,D.J.,0,0,0,1,0,0,D.J. Wilson,0,0,Wilson,N/A,0,Milwaukee,0

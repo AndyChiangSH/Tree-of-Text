@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,5,2,1,50,5,4,80,Patrick,0,0,0,26,0,2,Patrick McCaw,9,5,McCaw,F,3,Golden State,1
+0,1,2,0,0,0,8,3,38,James,2,2,100,22,2,2,James Michael McAdoo,8,4,Michael,F,1,Golden State,0
+2,1,3,0,0,0,4,2,50,Zaza,0,0,0,18,0,3,Zaza Pachulia,4,3,Pachulia,C,0,Golden State,3
+2,1,6,9,2,22,22,9,41,Klay,3,2,67,36,1,3,Klay Thompson,22,7,Thompson,G,1,Golden State,2
+11,2,4,12,8,67,25,15,60,Stephen,7,4,57,35,0,0,Stephen Curry,42,4,Curry,G,2,Golden State,3
+0,2,2,0,0,0,3,2,67,JaVale,6,4,67,15,1,2,JaVale McGee,8,3,McGee,N/A,2,Golden State,1
+2,0,1,1,1,100,3,2,67,Shaun,0,0,0,25,0,2,Shaun Livingston,5,1,Livingston,N/A,1,Golden State,0
+1,0,7,4,1,25,9,3,33,Matt,2,1,50,28,1,1,Matt Barnes,8,8,Barnes,N/A,2,Golden State,0
+1,1,2,2,0,0,6,2,33,Ian,2,2,100,20,0,2,Ian Clark,6,2,Clark,N/A,0,Golden State,2
+2,1,0,0,0,0,4,3,75,David,2,2,100,15,2,2,David West,8,2,West,N/A,1,Golden State,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Draymond,N/A,N/A,N/A,N/A,N/A,N/A,Draymond Green,N/A,N/A,Green,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andre,N/A,N/A,N/A,N/A,N/A,N/A,Andre Iguodala,N/A,N/A,Iguodala,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevon,N/A,N/A,N/A,N/A,N/A,N/A,Kevon Looney,N/A,N/A,Looney,N/A,N/A,Golden State,N/A
+3,0,1,0,0,0,8,4,50,T.J.,0,0,0,24,1,1,T.J. Warren,8,2,Warren,F,1,Phoenix,2
+4,1,9,3,0,0,10,4,40,Marquese,0,0,0,25,2,3,Marquese Chriss,8,11,Chriss,F,1,Phoenix,2
+0,0,2,0,0,0,6,3,50,Alex,3,2,67,12,2,3,Alex Len,8,4,Len,C,0,Phoenix,1
+5,0,2,7,2,29,24,7,29,Devin,7,5,71,42,1,3,Devin Booker,21,3,Booker,G,3,Phoenix,2
+6,0,2,7,2,29,21,8,38,Tyler,4,2,50,37,3,2,Tyler Ulis,20,5,Ulis,G,0,Phoenix,4
+0,0,0,2,0,0,3,0,0,Dragan,0,0,0,11,1,1,Dragan Bender,0,1,Bender,N/A,0,Phoenix,1
+0,0,2,2,0,0,8,4,50,Derrick,2,1,50,21,3,0,Derrick Jones Jr.,9,5,Jones,N/A,0,Phoenix,0
+6,0,7,6,3,50,14,8,57,Jared,0,0,0,33,0,4,Jared Dudley,19,7,Dudley,N/A,2,Phoenix,3
+0,0,10,0,0,0,9,5,56,Alan,8,6,75,25,7,4,Alan Williams,16,17,Williams,N/A,4,Phoenix,0
+2,1,0,0,0,0,0,0,0,Ronnie,2,2,100,10,0,1,Ronnie Price,2,0,Price,N/A,2,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Bledsoe,N/A,N/A,Bledsoe,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyson,N/A,N/A,N/A,N/A,N/A,N/A,Tyson Chandler,N/A,N/A,Chandler,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarell,N/A,N/A,N/A,N/A,N/A,N/A,Jarell Eddie,N/A,N/A,Eddie,N/A,N/A,Phoenix,N/A

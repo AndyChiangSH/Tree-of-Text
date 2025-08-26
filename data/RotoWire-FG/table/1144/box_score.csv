@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+9,0,4,8,5,62,25,11,44,Kawhi,9,8,89,40,3,4,Kawhi Leonard,35,7,Leonard,F,2,Toronto,1
+2,3,10,7,2,29,15,5,33,Pascal,2,2,100,36,3,4,Pascal Siakam,14,13,Siakam,F,1,Toronto,1
+0,1,4,4,1,25,6,1,17,Marc,2,1,50,29,2,3,Marc Gasol,4,6,Gasol,C,0,Toronto,1
+0,0,1,3,0,0,3,0,0,Danny,0,0,0,16,0,0,Danny Green,0,1,Green,G,1,Toronto,0
+6,0,6,8,2,25,11,4,36,Kyle,8,7,88,39,1,3,Kyle Lowry,17,7,Lowry,G,1,Toronto,2
+1,0,4,4,1,25,7,2,29,Norman,6,3,50,24,0,1,Norman Powell,8,4,Powell,N/A,0,Toronto,1
+1,0,0,9,7,78,13,7,54,Fred,0,0,0,37,1,1,Fred VanVleet,21,1,VanVleet,N/A,1,Toronto,0
+0,0,6,0,0,0,4,1,25,Serge,4,4,100,19,0,0,Serge Ibaka,6,6,Ibaka,N/A,0,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Boucher,N/A,N/A,Boucher,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Lin,N/A,N/A,Lin,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jodie,N/A,N/A,N/A,N/A,N/A,N/A,Jodie Meeks,N/A,N/A,Meeks,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm Miller,N/A,N/A,Miller,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Moreland,N/A,N/A,Moreland,N/A,N/A,Toronto,N/A
+10,0,8,2,0,0,9,2,22,Khris,2,2,100,36,2,4,Khris Middleton,6,10,Middleton,F,0,Milwaukee,2
+6,1,5,3,2,67,18,9,50,Giannis,9,4,44,39,1,5,Giannis Antetokounmpo,24,6,Antetokounmpo,F,0,Milwaukee,2
+0,0,7,4,1,25,12,7,58,Brook,1,1,100,32,1,5,Brook Lopez,16,8,Lopez,C,1,Milwaukee,0
+6,0,9,6,2,33,17,8,47,Malcolm,0,0,0,34,2,3,Malcolm Brogdon,18,11,Brogdon,G,1,Milwaukee,3
+2,0,3,7,2,29,14,6,43,Eric,6,6,100,34,1,2,Eric Bledsoe,20,4,Bledsoe,G,0,Milwaukee,4
+1,0,7,4,2,50,8,5,62,George,0,0,0,29,1,1,George Hill,12,8,Hill,N/A,0,Milwaukee,0
+0,0,2,3,0,0,4,0,0,Nikola,0,0,0,9,0,0,Nikola Mirotic,0,2,Mirotic,N/A,0,Milwaukee,0
+1,0,0,1,0,0,1,0,0,Ersan,0,0,0,11,0,1,Ersan Ilyasova,0,0,Ilyasova,N/A,0,Milwaukee,0
+0,1,4,1,1,100,1,1,100,Pat,0,0,0,12,0,0,Pat Connaughton,3,4,Connaughton,N/A,0,Milwaukee,0
+0,0,0,0,0,0,0,0,0,Sterling,0,0,0,4,0,1,Sterling Brown,0,0,Brown,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Frazier,N/A,N/A,Frazier,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Snell,N/A,N/A,Snell,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,D.J.,N/A,N/A,N/A,N/A,N/A,N/A,D.J. Wilson,N/A,N/A,Wilson,N/A,N/A,Milwaukee,N/A

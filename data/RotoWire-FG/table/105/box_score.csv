@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,10,4,40,14,7,50,Wesley,2,2,100,38,0,2,Wesley Matthews,20,2,Matthews,F,0,Dallas,0
+3,1,10,7,4,57,12,7,58,Dirk,4,4,100,32,1,0,Dirk Nowitzki,22,11,Nowitzki,F,1,Dallas,1
+3,0,5,0,0,0,5,2,40,Zaza,2,1,50,27,4,2,Zaza Pachulia,5,9,Pachulia,C,0,Dallas,1
+4,0,4,6,1,17,11,2,18,J.J.,0,0,0,27,1,1,J.J. Barea,5,5,Barea,G,3,Dallas,3
+6,0,4,6,2,33,16,9,56,Deron,3,3,100,37,0,2,Deron Williams,23,4,Williams,G,1,Dallas,2
+0,0,4,0,0,0,9,3,33,Raymond,5,4,80,25,0,4,Raymond Felton,10,4,Felton,N/A,1,Dallas,0
+1,0,2,0,0,0,3,1,33,David,2,2,100,16,2,1,David Lee,4,4,Lee,N/A,0,Dallas,1
+0,0,1,1,0,0,2,0,0,Devin,2,1,50,7,1,0,Devin Harris,1,2,Harris,N/A,1,Dallas,0
+1,0,3,0,0,0,5,3,60,Salah,2,1,50,16,0,2,Salah Mejri,7,3,Mejri,N/A,0,Dallas,1
+0,1,2,2,0,0,4,2,50,Justin,0,0,0,14,1,1,Justin Anderson,4,3,Anderson,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaVale,N/A,N/A,N/A,N/A,N/A,N/A,JaVale McGee,N/A,N/A,McGee,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwight,N/A,N/A,N/A,N/A,N/A,N/A,Dwight Powell,N/A,N/A,Powell,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charlie,N/A,N/A,N/A,N/A,N/A,N/A,Charlie Villanueva,N/A,N/A,Villanueva,N/A,N/A,Dallas,N/A
+4,1,6,9,1,11,21,11,52,Gordon,4,3,75,40,0,2,Gordon Hayward,26,6,Hayward,F,0,Utah,3
+1,0,6,3,1,33,4,2,50,Trey,4,4,100,23,0,1,Trey Lyles,9,6,Lyles,F,0,Utah,2
+2,0,3,0,0,0,1,0,0,Rudy,4,2,50,12,3,0,Rudy Gobert,2,6,Gobert,C,0,Utah,0
+3,0,3,7,1,14,11,1,9,Rodney,4,3,75,34,1,3,Rodney Hood,6,4,Hood,G,1,Utah,0
+2,0,2,7,2,29,14,8,57,Shelvin,0,0,0,35,0,4,Shelvin Mack,18,2,Mack,G,0,Utah,2
+0,1,2,0,0,0,11,5,46,Derrick,2,1,50,28,1,0,Derrick Favors,11,3,Favors,N/A,1,Utah,1
+2,1,2,1,1,100,5,4,80,Trevor,0,0,0,24,0,3,Trevor Booker,9,2,Booker,N/A,0,Utah,0
+2,0,2,6,3,50,6,3,50,Joe,0,0,0,21,0,3,Joe Ingles,9,2,Ingles,N/A,1,Utah,1
+3,0,2,0,0,0,2,0,0,Raul,0,0,0,8,0,0,Raul Neto,0,2,Neto,N/A,0,Utah,0
+2,0,3,0,0,0,0,0,0,Alec,0,0,0,11,0,0,Alec Burks,0,3,Burks,N/A,2,Utah,1
+0,0,1,0,0,0,2,1,50,Jeff,0,0,0,4,1,0,Jeff Withey,2,2,Withey,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Burke,N/A,N/A,Burke,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Johnson,N/A,N/A,Johnson,N/A,N/A,Utah,N/A

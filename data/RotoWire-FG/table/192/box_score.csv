@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,3,2,2,100,7,5,71,Al-Farouq,5,4,80,27,0,2,Al-Farouq Aminu,16,3,Aminu,F,3,Portland,3
+1,0,3,0,0,0,4,2,50,Noah,0,0,0,15,0,0,Noah Vonleh,4,3,Vonleh,F,1,Portland,2
+2,0,5,0,0,0,6,2,33,Mason,2,2,100,24,4,2,Mason Plumlee,6,9,Plumlee,C,0,Portland,2
+6,1,5,5,3,60,17,7,41,CJ,0,0,0,35,0,2,CJ McCollum,17,5,McCollum,G,2,Portland,1
+7,0,3,3,1,33,15,6,40,Damian,6,6,100,37,0,3,Damian Lillard,19,3,Lillard,G,1,Portland,2
+1,2,6,0,0,0,6,5,83,Ed,7,3,43,27,2,2,Ed Davis,13,8,Davis,N/A,0,Portland,0
+2,0,0,6,2,33,10,6,60,Meyers,0,0,0,24,0,5,Meyers Leonard,14,0,Leonard,N/A,0,Portland,2
+1,0,3,2,1,50,9,5,56,Allen,0,0,0,23,0,4,Allen Crabbe,11,3,Crabbe,N/A,0,Portland,0
+0,0,2,1,0,0,1,0,0,Maurice,4,1,25,10,1,0,Maurice Harkless,1,3,Harkless,N/A,0,Portland,0
+2,0,2,1,1,100,2,1,50,Gerald,6,5,83,17,1,1,Gerald Henderson,8,3,Henderson,N/A,0,Portland,2
+0,0,0,0,0,0,0,0,0,Tim,0,0,0,0,0,0,Tim Frazier,0,0,Frazier,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Kaman,N/A,N/A,Kaman,N/A,N/A,Portland,N/A
+0,1,4,4,0,0,15,6,40,Andrew,6,5,83,40,1,3,Andrew Wiggins,17,5,Wiggins,F,0,Minnesota,1
+2,1,2,0,0,0,4,2,50,Kevin,2,1,50,16,0,1,Kevin Garnett,5,2,Garnett,F,0,Minnesota,1
+2,2,7,2,1,50,21,13,62,Karl-Anthony,0,0,0,32,5,4,Karl-Anthony Towns,27,12,Towns,C,0,Minnesota,3
+2,0,1,1,1,100,6,3,50,Kevin,4,4,100,24,0,1,Kevin Martin,11,1,Martin,G,0,Minnesota,0
+15,0,3,2,1,50,5,1,20,Ricky,6,6,100,34,3,3,Ricky Rubio,9,6,Rubio,G,0,Minnesota,3
+0,0,5,1,0,0,2,1,50,Adreian,0,0,0,11,0,2,Adreian Payne,2,5,Payne,N/A,0,Minnesota,0
+2,0,0,5,2,40,14,4,29,Zach,2,2,100,23,1,4,Zach LaVine,12,1,LaVine,N/A,1,Minnesota,1
+1,0,3,0,0,0,8,6,75,Gorgui,3,3,100,24,2,4,Gorgui Dieng,15,5,Dieng,N/A,1,Minnesota,4
+0,0,1,0,0,0,5,1,20,Shabazz,2,1,50,11,0,1,Shabazz Muhammad,3,1,Muhammad,N/A,1,Minnesota,0
+0,0,2,0,0,0,2,0,0,Tayshaun,0,0,0,12,0,1,Tayshaun Prince,0,2,Prince,N/A,0,Minnesota,0
+0,0,4,0,0,0,1,1,100,Nemanja,1,0,0,13,1,0,Nemanja Bjelica,2,5,Bjelica,N/A,0,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andre,N/A,N/A,N/A,N/A,N/A,N/A,Andre Miller,N/A,N/A,Miller,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damjan,N/A,N/A,N/A,N/A,N/A,N/A,Damjan Rudez,N/A,N/A,Rudez,N/A,N/A,Minnesota,N/A

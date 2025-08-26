@@ -1,0 +1,38 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,46,00:31:32,1,0,Viktor AXELSEN,return net,hits the net,opponent hits the net
+2,8,00:32:52,1,1,Kunlavut VITIDSARN,smash,opponent wins by landing,wins by landing
+3,42,00:34:09,1,2,Kunlavut VITIDSARN,drop,hits the net,opponent hits the net
+4,7,00:34:44,2,2,Viktor AXELSEN,lob,hits the net,opponent hits the net
+5,8,00:35:11,2,3,Kunlavut VITIDSARN,push,opponent wins by landing,wins by landing
+6,8,00:35:39,2,4,Kunlavut VITIDSARN,push,hits the net,opponent hits the net
+7,3,00:35:55,3,4,Viktor AXELSEN,net shot,goes out of bounds,opponent goes out of bounds
+8,26,00:36:31,4,4,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds
+9,4,00:37:05,4,5,Kunlavut VITIDSARN,smash,opponent wins by landing,wins by landing
+10,8,00:37:34,4,6,Kunlavut VITIDSARN,push,goes out of bounds,opponent goes out of bounds
+11,6,00:37:51,5,6,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+12,23,00:38:30,6,6,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+13,25,00:39:55,7,6,Viktor AXELSEN,defensive return drive,opponent wins by landing,wins by landing
+14,9,00:40:54,7,7,Kunlavut VITIDSARN,cross-court net shot,goes out of bounds,opponent goes out of bounds
+15,27,00:41:40,8,7,Viktor AXELSEN,smash,goes out of bounds,opponent goes out of bounds
+16,37,00:42:40,8,8,Kunlavut VITIDSARN,unknown,goes out of bounds,opponent goes out of bounds
+17,10,00:43:43,9,8,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+18,9,00:44:32,9,9,Kunlavut VITIDSARN,defensive return lob,hits the net,opponent hits the net
+19,20,00:45:08,9,10,Kunlavut VITIDSARN,return net,fails to clear the net,opponent fails to clear the net
+20,9,00:45:44,10,10,Viktor AXELSEN,smash,hits the net,opponent hits the net
+21,11,00:46:14,10,11,Kunlavut VITIDSARN,lob,goes out of bounds,opponent goes out of bounds
+22,4,00:48:08,11,11,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+23,7,00:48:28,12,11,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+24,34,00:49:17,13,11,Viktor AXELSEN,return net,hits the net,opponent hits the net
+25,12,00:49:58,14,11,Viktor AXELSEN,push,goes out of bounds,opponent goes out of bounds
+26,9,00:50:40,14,12,Kunlavut VITIDSARN,defensive return drive,hits the net,opponent hits the net
+27,23,00:51:26,15,12,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+28,10,00:51:58,16,12,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+29,12,00:53:15,17,12,Viktor AXELSEN,smash,goes out of bounds,opponent goes out of bounds
+30,6,00:53:37,18,12,Viktor AXELSEN,net shot,hits the net,opponent hits the net
+31,8,00:53:58,19,12,Viktor AXELSEN,defensive return lob,goes out of bounds,opponent goes out of bounds
+32,26,00:54:38,20,12,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+33,33,00:55:31,20,13,Kunlavut VITIDSARN,defensive return lob,fails to clear the net,opponent fails to clear the net
+34,3,00:56:26,20,14,Kunlavut VITIDSARN,smash,opponent wins by landing,wins by landing
+35,26,00:57:15,20,15,Kunlavut VITIDSARN,drop,hits the net,opponent hits the net
+36,19,00:58:18,20,16,Kunlavut VITIDSARN,clear,landing judgment error,opponent landing judgment error
+37,25,00:59:39,21,16,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds

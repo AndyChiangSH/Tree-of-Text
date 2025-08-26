@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,7,6,1,17,22,7,32,Andrew,0,0,0,34,1,1,Andrew Wiggins,15,8,Wiggins,F,0,Minnesota,3
+1,0,3,0,0,0,11,6,55,Taj,0,0,0,29,2,2,Taj Gibson,12,5,Gibson,F,0,Minnesota,2
+3,0,8,0,0,0,7,4,57,Karl-Anthony,3,3,100,29,2,3,Karl-Anthony Towns,11,10,Towns,C,0,Minnesota,0
+6,0,4,3,2,67,17,9,53,Jimmy,10,5,50,38,1,2,Jimmy Butler,25,5,Butler,G,0,Minnesota,0
+4,0,1,1,1,100,9,6,67,Jeff,3,1,33,31,2,4,Jeff Teague,14,3,Teague,G,1,Minnesota,2
+0,2,1,0,0,0,7,6,86,Gorgui,2,2,100,19,0,1,Gorgui Dieng,14,1,Dieng,N/A,1,Minnesota,0
+2,0,4,1,1,100,1,1,100,Nemanja,2,2,100,19,1,3,Nemanja Bjelica,5,5,Bjelica,N/A,1,Minnesota,0
+1,0,0,0,0,0,1,1,100,Tyus,2,1,50,17,0,1,Tyus Jones,3,0,Jones,N/A,0,Minnesota,0
+2,0,1,1,0,0,6,2,33,Jamal,0,0,0,16,0,2,Jamal Crawford,4,1,Crawford,N/A,1,Minnesota,0
+0,0,1,0,0,0,4,0,0,Shabazz,2,1,50,7,1,0,Shabazz Muhammad,1,2,Muhammad,N/A,0,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcus,N/A,N/A,N/A,N/A,N/A,N/A,Marcus Georges-Hunt,N/A,N/A,Georges-Hunt,N/A,N/A,Minnesota,N/A
+1,0,2,2,1,50,2,1,50,OG,0,0,0,16,1,4,OG Anunoby,3,3,Anunoby,F,0,Toronto,0
+3,1,6,5,2,40,11,6,55,Serge,2,1,50,34,0,3,Serge Ibaka,15,6,Ibaka,F,0,Toronto,1
+1,0,8,1,0,0,12,8,67,Jonas,2,2,100,29,3,1,Jonas Valanciunas,18,11,Valanciunas,C,1,Toronto,1
+8,0,3,6,1,17,18,6,33,DeMar,11,10,91,37,1,1,DeMar DeRozan,23,4,DeRozan,G,1,Toronto,1
+9,0,3,6,2,33,10,4,40,Kyle,5,5,100,34,0,1,Kyle Lowry,15,3,Lowry,G,0,Toronto,1
+0,1,3,5,2,40,7,3,43,Norman,0,0,0,20,0,1,Norman Powell,8,3,Powell,N/A,1,Toronto,1
+0,2,0,0,0,0,7,6,86,Jakob,0,0,0,19,4,4,Jakob Poeltl,12,4,Poeltl,N/A,0,Toronto,1
+2,0,1,1,0,0,4,0,0,Delon,2,2,100,17,0,0,Delon Wright,2,1,Wright,N/A,0,Toronto,0
+2,0,2,0,0,0,3,1,33,Pascal,3,1,33,14,0,1,Pascal Siakam,3,2,Siakam,N/A,0,Toronto,1
+2,0,2,3,1,33,7,4,57,Fred,1,1,100,21,0,2,Fred VanVleet,10,2,VanVleet,N/A,0,Toronto,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lorenzo,N/A,N/A,N/A,N/A,N/A,N/A,Lorenzo Brown,N/A,N/A,Brown,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alfonzo,N/A,N/A,N/A,N/A,N/A,N/A,Alfonzo McKinnie,N/A,N/A,McKinnie,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,N/A,Lucas Nogueira,N/A,N/A,Nogueira,N/A,N/A,Toronto,N/A

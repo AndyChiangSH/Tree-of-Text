@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,0,5,3,60,12,8,67,Mindaugas,0,0,0,36,1,2,Mindaugas Kuzminskas,19,1,Kuzminskas,F,0,New York,0
+2,1,5,1,0,0,8,3,38,Kristaps,6,6,100,26,0,5,Kristaps Porzingis,12,5,Porzingis,F,1,New York,5
+1,1,8,0,0,0,16,11,69,Willy,3,2,67,36,5,5,Willy Hernangomez,24,13,Hernangomez,C,1,New York,1
+7,1,6,1,0,0,11,3,27,Courtney,0,0,0,40,1,1,Courtney Lee,6,7,Lee,G,2,New York,3
+5,0,2,0,0,0,22,10,46,Derrick,4,4,100,36,3,0,Derrick Rose,24,5,Rose,G,0,New York,1
+2,2,4,0,0,0,6,3,50,Kyle,0,0,0,13,2,1,Kyle O'Quinn,6,6,O'Quinn,N/A,1,New York,2
+0,0,0,0,0,0,1,0,0,Marshall,0,0,0,5,0,0,Marshall Plumlee,0,0,Plumlee,N/A,0,New York,1
+0,0,1,2,0,0,5,1,20,Justin,0,0,0,15,0,0,Justin Holiday,2,1,Holiday,N/A,0,New York,1
+2,0,3,0,0,0,2,1,50,Ron,0,0,0,13,0,0,Ron Baker,2,3,Baker,N/A,0,New York,1
+2,0,4,0,0,0,2,1,50,Maurice,2,1,50,17,0,2,Maurice Ndour,3,4,Ndour,N/A,1,New York,1
+1,0,0,1,0,0,2,0,0,Chasson,0,0,0,3,0,0,Chasson Randle,0,0,Randle,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Vujacic,N/A,N/A,Vujacic,N/A,N/A,New York,N/A
+5,2,5,6,4,67,18,11,61,Kawhi,5,3,60,39,0,1,Kawhi Leonard,29,5,Leonard,F,1,San Antonio,2
+2,0,6,2,1,50,21,9,43,LaMarcus,0,0,0,36,4,1,LaMarcus Aldridge,19,10,Aldridge,F,1,San Antonio,1
+0,0,7,0,0,0,3,2,67,Dewayne,1,1,100,21,6,3,Dewayne Dedmon,5,13,Dedmon,C,0,San Antonio,1
+1,0,2,3,0,0,7,2,29,Jonathon,2,2,100,24,0,5,Jonathon Simmons,6,2,Simmons,G,1,San Antonio,3
+3,0,1,1,0,0,12,5,42,Tony,0,0,0,22,0,0,Tony Parker,10,1,Parker,G,2,San Antonio,1
+3,2,5,4,3,75,15,8,53,Pau,0,0,0,26,5,3,Pau Gasol,19,10,Gasol,N/A,0,San Antonio,0
+4,0,1,4,0,0,7,2,29,Manu,0,0,0,19,0,1,Manu Ginobili,4,1,Ginobili,N/A,3,San Antonio,0
+7,0,0,5,2,40,9,4,44,Patty,0,0,0,26,0,1,Patty Mills,10,0,Mills,N/A,1,San Antonio,4
+1,1,4,0,0,0,3,1,33,David,0,0,0,11,1,2,David Lee,2,5,Lee,N/A,0,San Antonio,2
+2,0,2,0,0,0,4,1,25,Kyle,0,0,0,13,0,1,Kyle Anderson,2,2,Anderson,N/A,2,San Antonio,0
+0,0,1,0,0,0,0,0,0,Bryn,0,0,0,1,0,0,Bryn Forbes,0,1,Forbes,N/A,0,San Antonio,0
+0,1,0,0,0,0,0,0,0,Joel,0,0,0,1,0,0,Joel Anthony,0,0,Anthony,N/A,0,San Antonio,0
+0,0,0,0,0,0,0,0,0,Davis,0,0,0,1,0,0,Davis Bertans,0,0,Bertans,N/A,0,San Antonio,0

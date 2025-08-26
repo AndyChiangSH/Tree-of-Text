@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,5,5,3,60,13,7,54,Danilo,2,2,100,29,2,1,Danilo Gallinari,19,7,Gallinari,F,0,Denver,3
+1,3,6,0,0,0,10,5,50,Kenneth,9,8,89,28,8,2,Kenneth Faried,18,14,Faried,F,1,Denver,1
+1,1,5,0,0,0,11,3,27,Jusuf,4,2,50,19,4,2,Jusuf Nurkic,8,9,Nurkic,C,0,Denver,2
+2,0,3,4,1,25,8,3,38,Jameer,0,0,0,33,1,4,Jameer Nelson,7,4,Nelson,G,1,Denver,2
+0,0,2,6,1,17,16,3,19,Emmanuel,2,1,50,30,0,2,Emmanuel Mudiay,8,2,Mudiay,G,0,Denver,2
+1,0,5,9,5,56,12,6,50,Jamal,3,2,67,28,0,2,Jamal Murray,19,5,Murray,N/A,0,Denver,6
+3,1,5,0,0,0,3,0,0,Nikola,0,0,0,26,0,5,Nikola Jokic,0,5,Jokic,N/A,1,Denver,2
+1,0,7,2,0,0,12,7,58,Wilson,5,4,80,27,0,4,Wilson Chandler,18,7,Chandler,N/A,1,Denver,0
+1,0,5,2,1,50,3,2,67,Juan,4,3,75,16,1,2,Juan Hernangomez,8,6,Hernangomez,N/A,0,Denver,0
+0,0,0,1,0,0,3,0,0,Malik,0,0,0,6,0,1,Malik Beasley,0,0,Beasley,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gary,N/A,N/A,N/A,N/A,N/A,N/A,Gary Harris,N/A,N/A,Harris,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Denver,N/A
+0,2,5,4,2,50,11,6,55,Maurice,4,3,75,33,1,2,Maurice Harkless,17,6,Harkless,F,0,Portland,0
+2,0,4,6,1,17,9,4,44,Meyers,2,2,100,25,0,5,Meyers Leonard,11,4,Leonard,F,0,Portland,1
+3,1,5,0,0,0,7,5,71,Mason,3,1,33,24,4,0,Mason Plumlee,11,9,Plumlee,C,0,Portland,1
+4,1,1,5,2,40,23,9,39,CJ,2,1,50,35,2,3,CJ McCollum,21,3,McCollum,G,1,Portland,2
+6,0,6,7,3,43,18,7,39,Damian,15,15,100,33,2,0,Damian Lillard,32,8,Lillard,G,4,Portland,1
+5,0,3,3,0,0,17,5,29,Evan,4,4,100,29,2,4,Evan Turner,14,5,Turner,N/A,2,Portland,0
+0,1,2,3,0,0,8,2,25,Allen,0,0,0,31,0,3,Allen Crabbe,4,2,Crabbe,N/A,0,Portland,0
+0,0,0,0,0,0,0,0,0,Noah,0,0,0,5,0,2,Noah Vonleh,0,0,Vonleh,N/A,0,Portland,1
+1,2,4,0,0,0,4,1,25,Ed,2,0,0,21,3,2,Ed Davis,2,7,Davis,N/A,1,Portland,1
+0,1,0,1,0,0,2,0,0,Jake,0,0,0,4,0,2,Jake Layman,0,0,Layman,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Quarterman,N/A,N/A,Quarterman,N/A,N/A,Portland,N/A

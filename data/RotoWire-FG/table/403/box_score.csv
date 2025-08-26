@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,6,5,2,40,21,9,43,Gordon,6,5,83,33,1,3,Gordon Hayward,25,7,Hayward,F,0,Utah,3
+1,0,5,4,2,50,8,3,38,Trey,0,0,0,21,1,2,Trey Lyles,8,6,Lyles,F,0,Utah,3
+1,2,4,0,0,0,7,3,43,Rudy,0,0,0,26,3,4,Rudy Gobert,6,7,Gobert,C,0,Utah,0
+2,0,5,6,0,0,12,3,25,Rodney,6,4,67,31,0,3,Rodney Hood,10,5,Hood,G,0,Utah,1
+2,0,2,5,0,0,11,5,46,Dante,0,0,0,35,4,3,Dante Exum,10,6,Exum,G,0,Utah,1
+0,3,2,0,0,0,3,2,67,Jeff,2,2,100,18,3,1,Jeff Withey,6,5,Withey,N/A,1,Utah,0
+1,1,5,2,1,50,8,4,50,Joe,2,1,50,27,0,2,Joe Johnson,10,5,Johnson,N/A,1,Utah,0
+1,0,1,0,0,0,0,0,0,Boris,2,2,100,8,1,0,Boris Diaw,2,2,Diaw,N/A,0,Utah,0
+1,0,3,0,0,0,8,1,13,Shelvin,2,1,50,16,1,1,Shelvin Mack,3,4,Mack,N/A,0,Utah,1
+4,0,2,4,1,25,4,1,25,Joe,2,2,100,21,0,3,Joe Ingles,5,2,Ingles,N/A,1,Utah,1
+0,0,0,1,1,100,3,2,67,Raul,1,1,100,3,0,0,Raul Neto,6,0,Neto,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Bolomboy,N/A,N/A,Bolomboy,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,George,N/A,N/A,N/A,N/A,N/A,N/A,George Hill,N/A,N/A,Hill,N/A,N/A,Utah,N/A
+7,0,5,5,1,20,14,4,29,Danilo,6,4,67,36,0,2,Danilo Gallinari,13,5,Gallinari,F,0,Denver,2
+0,0,4,0,0,0,7,2,29,Kenneth,3,1,33,25,4,0,Kenneth Faried,5,8,Faried,F,1,Denver,0
+3,1,7,0,0,0,12,8,67,Jusuf,6,0,0,26,4,2,Jusuf Nurkic,16,11,Nurkic,C,1,Denver,2
+1,0,1,3,1,33,8,3,38,Will,1,0,0,19,1,2,Will Barton,7,2,Barton,G,0,Denver,0
+8,0,7,4,0,0,13,5,39,Emmanuel,0,0,0,32,0,0,Emmanuel Mudiay,10,7,Mudiay,G,0,Denver,0
+4,1,4,1,1,100,8,5,63,Nikola,2,1,50,21,2,3,Nikola Jokic,12,6,Jokic,N/A,0,Denver,0
+1,0,4,4,2,50,10,7,70,Wilson,2,1,50,24,0,1,Wilson Chandler,17,4,Chandler,N/A,1,Denver,3
+3,0,3,0,0,0,2,1,50,Jameer,0,0,0,21,0,4,Jameer Nelson,2,3,Nelson,N/A,0,Denver,1
+4,1,0,4,3,75,9,6,67,Jamal,4,3,75,23,1,2,Jamal Murray,18,1,Murray,N/A,0,Denver,0
+0,0,0,1,0,0,2,1,50,Juan,2,0,0,5,0,1,Juan Hernangomez,2,0,Hernangomez,N/A,1,Denver,0
+0,0,2,0,0,0,1,0,0,Alonzo,2,2,100,7,0,1,Alonzo Gee,2,2,Gee,N/A,0,Denver,0
+0,0,0,0,0,0,0,0,0,Malik,2,1,50,2,0,1,Malik Beasley,1,0,Beasley,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A

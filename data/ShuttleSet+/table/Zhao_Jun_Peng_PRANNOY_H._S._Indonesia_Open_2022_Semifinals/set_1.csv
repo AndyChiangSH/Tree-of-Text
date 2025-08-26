@@ -1,0 +1,38 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,24,00:06:38,1,0,ZHAO Jun Peng,net shot,hits the net,opponent hits the net
+2,16,00:07:07,2,0,ZHAO Jun Peng,clear,goes out of bounds,opponent goes out of bounds
+3,8,00:07:40,3,0,ZHAO Jun Peng,return net,fails to clear the net,opponent fails to clear the net
+4,4,00:08:00,3,1,PRANNOY H. S.,rush,opponent wins by landing,wins by landing
+5,15,00:08:32,3,2,PRANNOY H. S.,drive,landing judgment error,opponent landing judgment error
+6,11,00:09:03,4,2,ZHAO Jun Peng,defensive return drive,hits the net,opponent hits the net
+7,7,00:09:29,4,3,PRANNOY H. S.,smash,goes out of bounds,opponent goes out of bounds
+8,3,00:09:46,5,3,ZHAO Jun Peng,lob,goes out of bounds,opponent goes out of bounds
+9,12,00:10:11,6,3,ZHAO Jun Peng,smash,hits the net,opponent hits the net
+10,5,00:10:34,7,3,ZHAO Jun Peng,push,opponent wins by landing,wins by landing
+11,8,00:11:04,7,4,PRANNOY H. S.,smash,landing judgment error,opponent landing judgment error
+12,2,00:11:22,7,5,PRANNOY H. S.,wrist smash,goes out of bounds,opponent goes out of bounds
+13,15,00:11:46,7,6,PRANNOY H. S.,return net,opponent wins by landing,wins by landing
+14,5,00:12:17,8,6,ZHAO Jun Peng,return net,fails to clear the net,opponent fails to clear the net
+15,5,00:12:35,9,6,ZHAO Jun Peng,push,opponent wins by landing,wins by landing
+16,6,00:12:56,10,6,ZHAO Jun Peng,smash,goes out of bounds,opponent goes out of bounds
+17,2,00:13:14,11,6,ZHAO Jun Peng,lob,goes out of bounds,opponent goes out of bounds
+18,10,00:14:32,12,6,ZHAO Jun Peng,return net,hits the net,opponent hits the net
+19,9,00:14:52,12,7,PRANNOY H. S.,lob,goes out of bounds,opponent goes out of bounds
+20,7,00:15:13,13,7,ZHAO Jun Peng,lob,goes out of bounds,opponent goes out of bounds
+21,34,00:16:00,13,8,PRANNOY H. S.,wrist smash,opponent wins by landing,wins by landing
+22,2,00:16:29,13,9,PRANNOY H. S.,net shot,goes out of bounds,opponent goes out of bounds
+23,4,00:16:46,14,9,ZHAO Jun Peng,lob,landing judgment error,opponent landing judgment error
+24,21,00:17:21,14,10,PRANNOY H. S.,return net,fails to clear the net,opponent fails to clear the net
+25,17,00:18:09,14,11,PRANNOY H. S.,rush,opponent wins by landing,wins by landing
+26,6,00:18:34,15,11,ZHAO Jun Peng,push,opponent wins by landing,wins by landing
+27,5,00:18:56,15,12,PRANNOY H. S.,clear,goes out of bounds,opponent goes out of bounds
+28,18,00:19:26,16,12,ZHAO Jun Peng,net shot,opponent wins by landing,wins by landing
+29,23,00:20:14,16,13,PRANNOY H. S.,return net,fails to clear the net,opponent fails to clear the net
+30,9,00:21:09,16,14,PRANNOY H. S.,rush,opponent wins by landing,wins by landing
+31,5,00:21:47,17,14,ZHAO Jun Peng,drive,goes out of bounds,opponent goes out of bounds
+32,6,00:22:08,18,14,ZHAO Jun Peng,return net,fails to clear the net,opponent fails to clear the net
+33,33,00:22:58,18,15,PRANNOY H. S.,net shot,hits the net,opponent hits the net
+34,13,00:23:54,19,15,ZHAO Jun Peng,lob,goes out of bounds,opponent goes out of bounds
+35,9,00:24:19,20,15,ZHAO Jun Peng,rush,opponent wins by landing,wins by landing
+36,4,00:24:39,20,16,PRANNOY H. S.,wrist smash,opponent wins by landing,wins by landing
+37,16,00:25:08,21,16,ZHAO Jun Peng,rush,opponent wins by landing,wins by landing

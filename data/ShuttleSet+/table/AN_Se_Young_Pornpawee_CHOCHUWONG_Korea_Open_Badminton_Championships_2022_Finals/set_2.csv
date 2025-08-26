@@ -1,0 +1,39 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,13,00:30:47,1,0,An Se Young,clear,landing judgment error,opponent landing judgment error
+2,17,00:31:28,1,1,Pornpawee CHOCHUWONG,net shot,hits the net,opponent hits the net
+3,3,00:31:52,2,1,An Se Young,clear,goes out of bounds,opponent goes out of bounds
+4,19,00:32:22,2,2,Pornpawee CHOCHUWONG,clear,goes out of bounds,opponent goes out of bounds
+6,8,00:33:18,4,2,An Se Young,lob,goes out of bounds,opponent goes out of bounds
+7,21,00:33:56,4,3,Pornpawee CHOCHUWONG,smash,hits the net,opponent hits the net
+8,17,00:34:32,5,3,An Se Young,drop,hits the net,opponent hits the net
+9,6,00:35:02,6,3,An Se Young,push,goes out of bounds,opponent goes out of bounds
+10,5,00:35:24,6,4,Pornpawee CHOCHUWONG,smash,hits the net,opponent hits the net
+11,10,00:35:55,6,5,Pornpawee CHOCHUWONG,clear,goes out of bounds,opponent goes out of bounds
+12,19,00:36:44,7,5,An Se Young,clear,goes out of bounds,opponent goes out of bounds
+13,21,00:37:26,7,6,Pornpawee CHOCHUWONG,drop,hits the net,opponent hits the net
+14,8,00:38:10,7,7,Pornpawee CHOCHUWONG,back-court drive,goes out of bounds,opponent goes out of bounds
+15,14,00:38:55,7,8,Pornpawee CHOCHUWONG,clear,goes out of bounds,opponent goes out of bounds
+16,4,00:39:23,8,8,An Se Young,wrist smash,opponent wins by landing,wins by landing
+17,6,00:39:48,9,8,An Se Young,push,goes out of bounds,opponent goes out of bounds
+18,13,00:40:18,9,9,Pornpawee CHOCHUWONG,lob,goes out of bounds,opponent goes out of bounds
+19,31,00:41:23,10,9,An Se Young,net shot,hits the net,opponent hits the net
+20,21,00:42:11,11,9,An Se Young,drop,opponent wins by landing,wins by landing
+21,20,00:43:45,11,10,Pornpawee CHOCHUWONG,wrist smash,opponent wins by landing,wins by landing
+22,25,00:44:44,12,10,An Se Young,net shot,fails to clear the net,opponent fails to clear the net
+23,8,00:45:17,13,10,An Se Young,push,goes out of bounds,opponent goes out of bounds
+24,3,00:45:38,13,11,Pornpawee CHOCHUWONG,wrist smash,goes out of bounds,opponent goes out of bounds
+25,24,00:46:25,14,11,An Se Young,push,opponent wins by landing,wins by landing
+26,32,00:47:57,14,12,Pornpawee CHOCHUWONG,smash,opponent wins by landing,wins by landing
+27,11,00:48:58,15,12,An Se Young,return net,hits the net,opponent hits the net
+28,7,00:49:23,15,13,Pornpawee CHOCHUWONG,return net,hits the net,opponent hits the net
+29,28,00:50:30,16,13,An Se Young,defensive return drive,opponent wins by landing,wins by landing
+30,13,00:51:20,16,14,Pornpawee CHOCHUWONG,lob,goes out of bounds,opponent goes out of bounds
+31,13,00:51:59,16,15,Pornpawee CHOCHUWONG,smash,opponent wins by landing,wins by landing
+32,6,00:52:34,16,16,Pornpawee CHOCHUWONG,back-court drive,hits the net,opponent hits the net
+33,2,00:53:00,16,17,Pornpawee CHOCHUWONG,lob,goes out of bounds,opponent goes out of bounds
+34,23,00:54:10,17,17,An Se Young,push,goes out of bounds,opponent goes out of bounds
+35,20,00:54:52,18,17,An Se Young,wrist smash,goes out of bounds,opponent goes out of bounds
+36,12,00:55:29,18,18,Pornpawee CHOCHUWONG,net shot,opponent wins by landing,wins by landing
+37,9,00:56:13,19,18,An Se Young,clear,goes out of bounds,opponent goes out of bounds
+38,29,00:57:04,20,18,An Se Young,rush,opponent wins by landing,wins by landing
+39,2,00:57:42,21,18,An Se Young,clear,goes out of bounds,opponent goes out of bounds

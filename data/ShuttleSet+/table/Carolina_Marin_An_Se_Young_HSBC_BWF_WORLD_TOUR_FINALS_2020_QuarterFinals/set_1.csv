@@ -1,0 +1,37 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,16,00:07:11,1,0,An Se Young,cross-court net shot,hits the net,opponent hits the net
+2,3,00:07:25,1,1,Carolina MARIN,return net,hits the net,opponent hits the net
+3,3,00:07:51,2,1,An Se Young,return net,fails to clear the net,opponent fails to clear the net
+4,2,00:08:05,3,1,An Se Young,smash,goes out of bounds,opponent goes out of bounds
+5,9,00:08:22,4,1,An Se Young,push,landing judgment error,opponent landing judgment error
+7,4,00:08:54,5,2,Carolina MARIN,push,opponent wins by landing,wins by landing
+8,5,00:09:20,6,2,An Se Young,cross-court net shot,fails to clear the net,opponent fails to clear the net
+9,2,00:09:36,7,2,An Se Young,smash,goes out of bounds,opponent goes out of bounds
+10,7,00:09:57,7,3,Carolina MARIN,wrist smash,hits the net,opponent hits the net
+11,3,00:10:22,8,3,An Se Young,smash,hits the net,opponent hits the net
+12,4,00:10:39,9,3,An Se Young,drop,hits the net,opponent hits the net
+13,4,00:10:56,9,4,Carolina MARIN,rush,opponent wins by landing,wins by landing
+14,3,00:11:13,10,4,An Se Young,clear,goes out of bounds,opponent goes out of bounds
+15,5,00:11:30,10,5,Carolina MARIN,rush,hits the net,opponent hits the net
+16,3,00:11:47,10,6,Carolina MARIN,smash,opponent wins by landing,wins by landing
+17,5,00:12:01,10,7,Carolina MARIN,rush,opponent wins by landing,wins by landing
+18,4,00:12:16,10,8,Carolina MARIN,smash,goes out of bounds,opponent goes out of bounds
+19,6,00:12:31,11,8,An Se Young,wrist smash,opponent wins by landing,wins by landing
+20,4,00:13:40,11,9,Carolina MARIN,rush,opponent wins by landing,wins by landing
+21,14,00:14:10,11,10,Carolina MARIN,clear,goes out of bounds,opponent goes out of bounds
+22,19,00:14:52,12,10,An Se Young,return net,fails to clear the net,opponent fails to clear the net
+23,3,00:15:18,12,11,Carolina MARIN,clear,goes out of bounds,opponent goes out of bounds
+24,11,00:15:45,13,11,An Se Young,return net,hits the net,opponent hits the net
+25,3,00:16:07,13,12,Carolina MARIN,return net,hits the net,opponent hits the net
+26,9,00:16:33,13,13,Carolina MARIN,drop,opponent wins by landing,wins by landing
+27,7,00:17:12,14,13,An Se Young,drop,hits the net,opponent hits the net
+28,6,00:17:38,15,13,An Se Young,rush,hits the net,opponent hits the net
+29,12,00:18:04,15,14,Carolina MARIN,smash,opponent wins by landing,wins by landing
+30,30,00:18:45,16,14,An Se Young,rush,opponent wins by landing,wins by landing
+31,12,00:19:26,16,15,Carolina MARIN,cross-court net shot,opponent wins by landing,wins by landing
+32,5,00:20:00,17,15,An Se Young,net shot,hits the net,opponent hits the net
+33,4,00:20:23,18,15,An Se Young,unknown,hits the net,opponent hits the net
+34,2,00:20:41,19,15,An Se Young,clear,goes out of bounds,opponent goes out of bounds
+35,8,00:21:02,20,15,An Se Young,cross-court net shot,fails to clear the net,opponent fails to clear the net
+36,2,00:21:18,20,16,Carolina MARIN,smash,opponent wins by landing,wins by landing
+37,9,00:21:43,21,16,An Se Young,smash,hits the net,opponent hits the net

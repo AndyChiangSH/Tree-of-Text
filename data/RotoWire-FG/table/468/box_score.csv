@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,6,4,0,0,21,11,52,Jimmy,10,10,100,43,0,1,Jimmy Butler,32,6,Butler,F,0,Chicago,3
+0,0,9,1,0,0,10,5,50,Taj,2,1,50,29,1,4,Taj Gibson,11,10,Gibson,F,2,Chicago,2
+1,3,5,0,0,0,5,3,60,Robin,6,2,33,33,3,1,Robin Lopez,8,8,Lopez,C,0,Chicago,3
+8,0,3,2,0,0,13,5,39,Dwyane,10,9,90,34,0,3,Dwyane Wade,19,3,Wade,G,1,Chicago,2
+1,1,2,2,1,50,10,4,40,Rajon,3,1,33,37,1,4,Rajon Rondo,10,3,Rondo,G,0,Chicago,3
+0,1,6,4,1,25,7,2,29,Nikola,0,0,0,23,0,2,Nikola Mirotic,5,6,Mirotic,N/A,2,Chicago,0
+1,0,3,2,0,0,5,1,20,Isaiah,0,0,0,23,0,3,Isaiah Canaan,2,3,Canaan,N/A,1,Chicago,0
+0,1,2,0,0,0,4,2,50,Cristiano,1,0,0,15,4,1,Cristiano Felicio,4,6,Felicio,N/A,0,Chicago,1
+0,0,0,0,0,0,0,0,0,Jerian,0,0,0,4,0,1,Jerian Grant,0,0,Grant,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Portis,N/A,N/A,Portis,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Denzel,N/A,N/A,N/A,N/A,N/A,N/A,Denzel Valentine,N/A,N/A,Valentine,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Zipser,N/A,N/A,Zipser,N/A,N/A,Chicago,N/A
+2,1,7,4,2,50,16,9,56,Tobias,2,2,100,40,0,1,Tobias Harris,22,7,Harris,F,1,Detroit,0
+0,0,1,5,3,60,9,5,56,Marcus,0,0,0,26,0,2,Marcus Morris,13,1,Morris,F,0,Detroit,2
+0,3,7,0,0,0,13,7,54,Andre,4,1,25,25,3,3,Andre Drummond,15,10,Drummond,C,1,Detroit,0
+3,0,2,5,1,20,10,5,50,Kentavious,2,1,50,31,1,3,Kentavious Caldwell-Pope,12,3,Caldwell-Pope,G,1,Detroit,2
+7,0,3,1,1,100,9,2,22,Reggie,3,2,67,18,0,3,Reggie Jackson,7,3,Jackson,G,2,Detroit,2
+10,0,4,2,0,0,11,2,18,Ish,4,3,75,30,1,3,Ish Smith,7,5,Smith,N/A,0,Detroit,0
+1,0,4,1,0,0,6,3,50,Jon,4,3,75,23,1,2,Jon Leuer,9,5,Leuer,N/A,1,Detroit,0
+0,0,0,3,1,33,7,4,57,Darrun,0,0,0,17,0,2,Darrun Hilliard,9,0,Hilliard,N/A,2,Detroit,0
+1,1,6,0,0,0,6,3,50,Aron,2,2,100,23,3,2,Aron Baynes,8,9,Baynes,N/A,2,Detroit,1
+0,0,1,0,0,0,1,0,0,Stanley,0,0,0,6,0,2,Stanley Johnson,0,1,Johnson,N/A,0,Detroit,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Henry,N/A,N/A,N/A,N/A,N/A,N/A,Henry Ellenson,N/A,N/A,Ellenson,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Beno,N/A,N/A,N/A,N/A,N/A,N/A,Beno Udrih,N/A,N/A,Udrih,N/A,N/A,Detroit,N/A

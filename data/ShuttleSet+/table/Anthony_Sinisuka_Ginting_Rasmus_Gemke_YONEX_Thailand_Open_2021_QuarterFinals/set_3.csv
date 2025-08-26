@@ -1,0 +1,24 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,10,00:58:57,0,1,Rasmus GEMKE,push,goes out of bounds,opponent goes out of bounds
+2,4,00:59:30,1,1,Anthony Sinisuka GINTING,rush,opponent wins by landing,wins by landing
+3,3,00:59:49,2,1,Anthony Sinisuka GINTING,net shot,opponent wins by landing,wins by landing
+4,2,01:00:03,3,1,Anthony Sinisuka GINTING,push,goes out of bounds,opponent goes out of bounds
+5,16,01:00:32,4,1,Anthony Sinisuka GINTING,return net,fails to clear the net,opponent fails to clear the net
+7,3,01:01:12,5,2,Rasmus GEMKE,return net,fails to clear the net,opponent fails to clear the net
+8,7,01:01:39,6,2,Anthony Sinisuka GINTING,return net,hits the net,opponent hits the net
+9,6,01:02:03,6,3,Rasmus GEMKE,wrist smash,opponent wins by landing,wins by landing
+10,5,01:02:29,7,3,Anthony Sinisuka GINTING,smash,hits the net,opponent hits the net
+11,3,01:02:47,7,4,Rasmus GEMKE,drop,goes out of bounds,opponent goes out of bounds
+12,20,01:03:20,8,4,Anthony Sinisuka GINTING,smash,opponent wins by landing,wins by landing
+13,7,01:03:54,8,5,Rasmus GEMKE,drop,goes out of bounds,opponent goes out of bounds
+14,12,01:04:33,9,5,Anthony Sinisuka GINTING,rush,opponent wins by landing,wins by landing
+15,22,01:05:15,10,5,Anthony Sinisuka GINTING,net shot,hits the net,opponent hits the net
+16,10,01:05:53,11,5,Anthony Sinisuka GINTING,drop,hits the net,opponent hits the net
+17,51,01:08:03,12,5,Anthony Sinisuka GINTING,push,opponent wins by landing,wins by landing
+18,4,01:08:32,13,5,Anthony Sinisuka GINTING,clear,goes out of bounds,opponent goes out of bounds
+19,6,01:08:59,14,5,Anthony Sinisuka GINTING,push,goes out of bounds,opponent goes out of bounds
+20,6,01:09:18,15,5,Anthony Sinisuka GINTING,return net,fails to clear the net,opponent fails to clear the net
+21,15,01:10:00,16,5,Anthony Sinisuka GINTING,net shot,opponent wins by landing,wins by landing
+23,13,01:10:39,18,5,Anthony Sinisuka GINTING,rush,opponent wins by landing,wins by landing
+24,2,01:11:02,19,5,Anthony Sinisuka GINTING,smash,hits the net,opponent hits the net
+25,14,01:11:27,20,5,Anthony Sinisuka GINTING,smash,hits the net,opponent hits the net

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,7,6,1,1,100,19,13,68,Giannis,11,8,73,41,3,2,Giannis Antetokounmpo,35,9,Antetokounmpo,F,2,Milwaukee,4
+3,1,5,3,1,33,15,10,67,Jabari,6,6,100,40,0,2,Jabari Parker,27,5,Parker,F,1,Milwaukee,2
+0,0,3,0,0,0,2,0,0,John,2,1,50,14,0,4,John Henson,1,3,Henson,C,0,Milwaukee,0
+1,0,0,2,2,100,3,2,67,Tony,2,2,100,24,0,1,Tony Snell,8,0,Snell,G,1,Milwaukee,1
+12,0,9,2,1,50,13,7,54,Malcolm,0,0,0,39,1,4,Malcolm Brogdon,15,10,Brogdon,G,0,Milwaukee,3
+2,0,8,0,0,0,13,6,46,Greg,4,3,75,34,4,2,Greg Monroe,15,12,Monroe,N/A,2,Milwaukee,1
+1,0,3,4,2,50,6,2,33,Mirza,0,0,0,23,0,2,Mirza Teletovic,6,3,Teletovic,N/A,0,Milwaukee,1
+2,0,0,2,1,50,3,1,33,Jason,2,1,50,22,0,2,Jason Terry,4,0,Terry,N/A,1,Milwaukee,0
+0,0,0,1,1,100,1,1,100,Thon,0,0,0,2,0,0,Thon Maker,3,0,Maker,N/A,0,Milwaukee,0
+0,0,0,0,0,0,1,1,100,Steve,0,0,0,2,0,0,Steve Novak,2,0,Novak,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Beasley,N/A,N/A,Beasley,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Matthew,N/A,N/A,N/A,N/A,N/A,N/A,Matthew Dellavedova,N/A,N/A,Dellavedova,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Miles,N/A,N/A,N/A,N/A,N/A,N/A,Miles Plumlee,N/A,N/A,Plumlee,N/A,N/A,Milwaukee,N/A
+8,0,4,6,2,33,16,7,44,Jimmy,15,10,67,38,3,1,Jimmy Butler,26,7,Butler,F,2,Chicago,3
+1,1,1,0,0,0,12,3,25,Taj,5,5,100,28,4,1,Taj Gibson,11,5,Gibson,F,0,Chicago,0
+1,1,7,0,0,0,11,6,55,Robin,0,0,0,31,3,2,Robin Lopez,12,10,Lopez,C,0,Chicago,1
+5,1,4,4,1,25,13,3,23,Dwyane,2,1,50,25,1,2,Dwyane Wade,8,5,Wade,G,1,Chicago,3
+4,1,1,4,1,25,6,1,17,Michael,2,1,50,25,0,4,Michael Carter-Williams,4,1,Carter-Williams,G,3,Chicago,2
+3,0,0,6,3,50,10,5,50,Doug,0,0,0,29,1,2,Doug McDermott,13,1,McDermott,N/A,1,Chicago,0
+0,0,3,2,2,100,5,4,80,Nikola,0,0,0,22,1,2,Nikola Mirotic,10,4,Mirotic,N/A,0,Chicago,0
+1,0,0,4,1,25,5,1,20,Jerian,2,2,100,18,0,3,Jerian Grant,5,0,Grant,N/A,0,Chicago,0
+0,1,3,0,0,0,3,2,67,Cristiano,2,1,50,17,1,3,Cristiano Felicio,5,4,Felicio,N/A,1,Chicago,1
+0,0,0,1,0,0,2,1,50,Denzel,0,0,0,2,0,0,Denzel Valentine,2,0,Valentine,N/A,1,Chicago,1
+0,0,0,0,0,0,0,0,0,Isaiah,0,0,0,2,0,0,Isaiah Canaan,0,0,Canaan,N/A,0,Chicago,0
+0,0,0,0,0,0,0,0,0,Bobby,0,0,0,2,0,1,Bobby Portis,0,0,Portis,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rajon,N/A,N/A,N/A,N/A,N/A,N/A,Rajon Rondo,N/A,N/A,Rondo,N/A,N/A,Chicago,N/A

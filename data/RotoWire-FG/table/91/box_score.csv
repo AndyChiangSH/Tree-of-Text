@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,3,1,33,11,4,36,Marcus,4,3,75,32,3,3,Marcus Morris,12,6,Morris,F,0,Detroit,1
+0,1,3,5,1,20,12,5,42,Ersan,5,5,100,31,3,0,Ersan Ilyasova,16,6,Ilyasova,F,2,Detroit,0
+1,1,11,0,0,0,15,10,67,Andre,3,1,33,37,7,3,Andre Drummond,21,18,Drummond,C,1,Detroit,2
+0,1,4,4,1,25,18,7,39,Kentavious,1,1,100,39,1,2,Kentavious Caldwell-Pope,16,5,Caldwell-Pope,G,0,Detroit,0
+6,0,1,6,3,50,20,8,40,Reggie,0,0,0,31,2,1,Reggie Jackson,19,3,Jackson,G,0,Detroit,1
+1,0,1,6,3,50,11,5,46,Stanley,0,0,0,21,0,2,Stanley Johnson,13,1,Johnson,N/A,1,Detroit,3
+5,0,1,4,1,25,4,1,25,Brandon,0,0,0,17,0,0,Brandon Jennings,3,1,Jennings,N/A,0,Detroit,0
+0,0,1,0,0,0,0,0,0,Darrun,2,1,50,5,0,0,Darrun Hilliard,1,1,Hilliard,N/A,0,Detroit,0
+1,1,2,0,0,0,4,1,25,Aron,1,0,0,11,2,3,Aron Baynes,2,4,Baynes,N/A,1,Detroit,2
+1,0,3,2,0,0,3,1,33,Anthony,0,0,0,16,1,1,Anthony Tolliver,2,4,Tolliver,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Steve,N/A,N/A,N/A,N/A,N/A,N/A,Steve Blake,N/A,N/A,Blake,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Bullock,N/A,N/A,Bullock,N/A,N/A,Detroit,N/A
+5,0,3,4,0,0,8,1,13,Joe,2,1,50,25,0,1,Joe Johnson,3,3,Johnson,F,0,Brooklyn,3
+0,1,5,0,0,0,7,3,43,Thaddeus,2,2,100,25,0,3,Thaddeus Young,8,5,Young,F,0,Brooklyn,1
+2,2,4,1,0,0,19,13,68,Brook,1,1,100,36,1,2,Brook Lopez,27,5,Lopez,C,1,Brooklyn,0
+1,0,3,5,3,60,11,4,36,Wayne,0,0,0,28,0,1,Wayne Ellington,11,3,Ellington,G,0,Brooklyn,0
+4,0,5,1,1,100,4,2,50,Donald,0,0,0,26,0,2,Donald Sloan,5,5,Sloan,G,1,Brooklyn,2
+1,0,4,0,0,0,12,7,58,Andrea,4,4,100,25,0,0,Andrea Bargnani,18,4,Bargnani,N/A,0,Brooklyn,0
+0,0,1,4,2,50,9,3,33,Bojan,0,0,0,25,2,2,Bojan Bogdanovic,8,3,Bogdanovic,N/A,0,Brooklyn,0
+0,0,3,0,0,0,4,1,25,Thomas,2,1,50,10,1,3,Thomas Robinson,3,4,Robinson,N/A,1,Brooklyn,0
+1,1,0,1,1,100,3,2,67,Markel,4,4,100,18,1,0,Markel Brown,9,1,Brown,N/A,1,Brooklyn,2
+14,0,4,0,0,0,5,4,80,Shane,0,0,0,22,2,1,Shane Larkin,8,6,Larkin,N/A,1,Brooklyn,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sergey,N/A,N/A,N/A,N/A,N/A,N/A,Sergey Karasev,N/A,N/A,Karasev,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willie,N/A,N/A,N/A,N/A,N/A,N/A,Willie Reed,N/A,N/A,Reed,N/A,N/A,Brooklyn,N/A

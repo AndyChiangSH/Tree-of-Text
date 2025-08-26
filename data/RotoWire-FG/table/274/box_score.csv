@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,6,0,0,0,9,3,33,Giannis,10,6,60,34,1,5,Giannis Antetokounmpo,12,7,Antetokounmpo,F,0,Milwaukee,1
+1,0,2,3,2,67,8,5,63,Ersan,2,1,50,27,1,2,Ersan Ilyasova,13,3,Ilyasova,F,3,Milwaukee,1
+1,0,2,0,0,0,9,3,33,Zaza,4,3,75,19,4,1,Zaza Pachulia,9,6,Pachulia,C,2,Milwaukee,3
+3,0,1,4,1,25,11,4,36,Khris,0,0,0,32,2,2,Khris Middleton,9,3,Middleton,G,1,Milwaukee,1
+5,1,5,0,0,0,17,11,65,Michael,13,8,62,30,0,3,Michael Carter-Williams,30,5,Carter-Williams,G,3,Milwaukee,2
+4,0,3,2,1,50,9,5,56,O.J.,2,2,100,26,1,3,O.J. Mayo,13,4,Mayo,N/A,3,Milwaukee,3
+1,6,2,0,0,0,3,3,100,John,2,1,50,21,1,3,John Henson,7,3,Henson,N/A,0,Milwaukee,1
+2,0,5,0,0,0,7,2,29,Jerryd,1,1,100,21,0,3,Jerryd Bayless,5,5,Bayless,N/A,0,Milwaukee,3
+1,0,0,0,0,0,1,1,100,Jorge,0,0,0,13,0,2,Jorge Gutierrez,2,0,Gutierrez,N/A,0,Milwaukee,2
+0,0,1,0,0,0,4,2,50,Miles,2,1,50,8,1,1,Miles Plumlee,5,2,Plumlee,N/A,1,Milwaukee,0
+2,0,0,0,0,0,3,1,33,Tyler,0,0,0,9,1,0,Tyler Ennis,2,1,Ennis,N/A,0,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jared,N/A,N/A,N/A,N/A,N/A,N/A,Jared Dudley,N/A,N/A,Dudley,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnny,N/A,N/A,N/A,N/A,N/A,N/A,Johnny O'Bryant III,N/A,N/A,O'Bryant,N/A,N/A,Milwaukee,N/A
+1,4,6,6,1,17,13,6,46,Robert,13,12,92,33,1,3,Robert Covington,25,7,Covington,F,1,Philadelphia,10
+4,0,6,4,1,25,9,3,33,Jerami,4,1,25,28,1,4,Jerami Grant,8,7,Grant,F,3,Philadelphia,1
+3,0,3,0,0,0,2,1,50,Furkan,0,0,0,22,2,4,Furkan Aldemir,2,5,Aldemir,C,0,Philadelphia,1
+0,0,1,10,3,30,18,7,39,Hollis,2,2,100,36,3,5,Hollis Thompson,19,4,Thompson,G,0,Philadelphia,2
+9,0,0,1,0,0,7,2,29,Ish,0,0,0,34,0,2,Ish Smith,4,0,Smith,G,3,Philadelphia,5
+1,0,4,0,0,0,8,4,50,Thomas,6,4,67,21,2,1,Thomas Robinson,12,6,Robinson,N/A,0,Philadelphia,3
+1,0,0,1,1,100,3,3,100,Glenn,0,0,0,20,0,1,Glenn Robinson,7,0,Robinson,N/A,1,Philadelphia,1
+2,1,3,2,0,0,13,3,23,Henry,5,4,80,26,3,5,Henry Sims,10,6,Sims,N/A,2,Philadelphia,4
+1,1,3,4,0,0,8,3,38,JaKarr,4,4,100,21,2,3,JaKarr Sampson,10,5,Sampson,N/A,1,Philadelphia,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah Canaan,N/A,N/A,Canaan,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luc,N/A,N/A,N/A,N/A,N/A,N/A,Luc Mbah a Moute,N/A,N/A,Mbah,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens Noel,N/A,N/A,Noel,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Richardson,N/A,N/A,Richardson,N/A,N/A,Philadelphia,N/A

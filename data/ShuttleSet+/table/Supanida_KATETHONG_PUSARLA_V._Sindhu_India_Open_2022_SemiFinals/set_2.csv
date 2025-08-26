@@ -1,0 +1,35 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,10,00:25:29,1,0,Supanida KATETHONG,lob,goes out of bounds,opponent goes out of bounds
+2,7,00:25:50,1,1,PUSARLA V. Sindhu,net shot,hits the net,opponent hits the net
+3,6,00:26:19,1,2,PUSARLA V. Sindhu,net shot,hits the net,opponent hits the net
+4,2,00:26:39,2,2,Supanida KATETHONG,net shot,opponent wins by landing,wins by landing
+5,10,00:27:05,2,3,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+6,3,00:27:37,2,4,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+7,8,00:28:01,3,4,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+8,7,00:28:29,3,5,PUSARLA V. Sindhu,smash,hits the net,opponent hits the net
+9,6,00:28:56,4,5,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+10,3,00:29:22,4,6,PUSARLA V. Sindhu,wrist smash,hits the net,opponent hits the net
+11,7,00:29:43,5,6,Supanida KATETHONG,net shot,fails to clear the net,opponent fails to clear the net
+12,10,00:30:11,6,6,Supanida KATETHONG,return net,hits the net,opponent hits the net
+13,13,00:30:51,6,7,PUSARLA V. Sindhu,net shot,goes out of bounds,opponent goes out of bounds
+14,5,00:31:18,7,7,Supanida KATETHONG,lob,fails to clear the net,opponent fails to clear the net
+15,5,00:31:44,7,8,PUSARLA V. Sindhu,net shot,goes out of bounds,opponent goes out of bounds
+16,2,00:32:04,7,9,PUSARLA V. Sindhu,lob,goes out of bounds,opponent goes out of bounds
+17,7,00:32:26,8,9,Supanida KATETHONG,net shot,hits the net,opponent hits the net
+18,9,00:32:52,9,9,Supanida KATETHONG,net shot,opponent wins by landing,wins by landing
+19,17,00:33:30,10,9,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+20,15,00:34:14,10,10,PUSARLA V. Sindhu,net shot,goes out of bounds,opponent goes out of bounds
+21,14,00:34:59,10,11,PUSARLA V. Sindhu,net shot,fails to clear the net,opponent fails to clear the net
+22,16,00:36:35,10,12,PUSARLA V. Sindhu,drop,goes out of bounds,opponent goes out of bounds
+23,32,00:37:47,11,12,Supanida KATETHONG,drop,opponent wins by landing,wins by landing
+24,18,00:39:02,11,13,PUSARLA V. Sindhu,lob,opponent wins by landing,wins by landing
+25,8,00:39:39,11,14,PUSARLA V. Sindhu,return net,goes out of bounds,opponent goes out of bounds
+26,4,00:40:06,12,14,Supanida KATETHONG,lob,landing judgment error,opponent landing judgment error
+27,14,00:40:42,12,15,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+28,18,00:41:53,12,16,PUSARLA V. Sindhu,lob,goes out of bounds,opponent goes out of bounds
+29,7,00:42:26,12,17,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+30,20,00:43:13,12,18,PUSARLA V. Sindhu,net shot,hits the net,opponent hits the net
+31,11,00:43:53,12,19,PUSARLA V. Sindhu,rush,opponent wins by landing,wins by landing
+32,2,00:44:22,12,20,PUSARLA V. Sindhu,net shot,hits the net,opponent hits the net
+33,3,00:44:38,13,20,Supanida KATETHONG,wrist smash,hits the net,opponent hits the net
+34,3,00:44:57,13,21,PUSARLA V. Sindhu,drop,hits the net,opponent hits the net

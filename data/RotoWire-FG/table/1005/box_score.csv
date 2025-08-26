@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,1,1,5,1,20,7,2,29,Joe,0,0,0,28,0,1,Joe Ingles,5,1,Ingles,F,0,Utah,3
+1,2,6,1,0,0,6,2,33,Derrick,2,1,50,27,0,2,Derrick Favors,5,6,Favors,F,0,Utah,1
+0,0,10,0,0,0,8,5,62,Rudy,4,2,50,25,1,0,Rudy Gobert,12,11,Gobert,C,1,Utah,0
+1,1,1,1,0,0,8,3,38,Donovan,2,1,50,32,0,2,Donovan Mitchell,7,1,Mitchell,G,0,Utah,3
+6,1,3,6,5,83,13,10,77,Ricky,4,3,75,28,1,3,Ricky Rubio,28,4,Rubio,G,3,Utah,4
+4,2,5,7,4,57,9,4,44,Jae,2,2,100,25,0,3,Jae Crowder,14,5,Crowder,N/A,0,Utah,0
+5,0,2,0,0,0,4,1,25,Dante,2,2,100,18,0,2,Dante Exum,4,2,Exum,N/A,0,Utah,2
+0,0,2,0,0,0,2,2,100,Royce,0,0,0,15,0,2,Royce O'Neale,4,2,O'Neale,N/A,0,Utah,1
+1,1,0,0,0,0,5,2,40,Alec,0,0,0,11,0,0,Alec Burks,4,0,Burks,N/A,1,Utah,1
+2,0,0,2,0,0,3,1,33,Raul,0,0,0,9,0,0,Raul Neto,2,0,Neto,N/A,1,Utah,1
+1,1,2,0,0,0,2,0,0,Thabo,0,0,0,12,1,1,Thabo Sefolosha,0,3,Sefolosha,N/A,0,Utah,1
+0,1,1,0,0,0,2,2,100,Ekpe,0,0,0,5,0,1,Ekpe Udoh,4,1,Udoh,N/A,0,Utah,0
+0,0,0,3,1,33,5,2,40,Grayson,0,0,0,5,0,1,Grayson Allen,5,0,Allen,N/A,0,Utah,1
+1,0,1,4,3,75,14,9,64,Bojan,0,0,0,30,1,1,Bojan Bogdanovic,21,2,Bogdanovic,F,2,Indiana,0
+1,0,3,1,0,0,10,6,60,Thaddeus,0,0,0,29,1,4,Thaddeus Young,12,4,Young,F,3,Indiana,2
+4,3,5,3,1,33,12,5,42,Myles,2,1,50,26,1,2,Myles Turner,12,6,Turner,C,1,Indiana,1
+5,0,1,5,2,40,12,3,25,Tyreke,0,0,0,27,2,2,Tyreke Evans,8,3,Evans,G,2,Indiana,0
+7,0,4,2,1,50,9,4,44,Darren,0,0,0,27,2,0,Darren Collison,9,6,Collison,G,1,Indiana,0
+9,0,8,2,2,100,9,7,78,Domantas,6,3,50,26,1,2,Domantas Sabonis,19,9,Sabonis,N/A,2,Indiana,4
+4,0,2,2,1,50,9,3,33,Cory,0,0,0,25,2,0,Cory Joseph,7,4,Joseph,N/A,2,Indiana,1
+1,0,7,4,2,50,10,7,70,Aaron,5,3,60,21,0,3,Aaron Holiday,19,7,Holiday,N/A,0,Indiana,0
+1,0,0,2,0,0,6,4,67,Doug,4,4,100,21,0,2,Doug McDermott,12,0,McDermott,N/A,0,Indiana,0
+2,0,2,0,0,0,1,0,0,Kyle,0,0,0,3,0,1,Kyle O'Quinn,0,2,O'Quinn,N/A,0,Indiana,0
+0,0,0,0,0,0,1,1,100,TJ,0,0,0,3,1,0,TJ Leaf,2,1,Leaf,N/A,0,Indiana,1
+0,0,0,0,0,0,0,0,0,Davon,0,0,0,2,0,0,Davon Reed,0,0,Reed,N/A,0,Indiana,0

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,3,9,4,44,12,5,42,Jae,6,6,100,31,0,1,Jae Crowder,20,3,Crowder,F,2,Boston,2
+3,2,6,0,0,0,2,1,50,Amir,4,2,50,23,1,3,Amir Johnson,4,7,Johnson,F,1,Boston,0
+2,1,3,2,0,0,6,2,33,Jared,2,2,100,14,0,4,Jared Sullinger,6,3,Sullinger,C,1,Boston,1
+1,0,3,7,4,57,15,7,47,Avery,2,2,100,29,0,5,Avery Bradley,20,3,Bradley,G,3,Boston,3
+9,0,6,6,3,50,14,8,57,Isaiah,2,2,100,34,0,2,Isaiah Thomas,21,6,Thomas,G,4,Boston,1
+0,0,3,0,0,0,2,1,50,Tyler,4,3,75,12,0,4,Tyler Zeller,5,3,Zeller,N/A,0,Boston,1
+4,0,1,0,0,0,6,2,33,Evan,3,2,67,27,0,1,Evan Turner,6,1,Turner,N/A,1,Boston,2
+1,1,3,0,0,0,3,2,67,Jonas,1,1,100,17,3,1,Jonas Jerebko,5,6,Jerebko,N/A,0,Boston,0
+4,0,3,5,3,60,12,9,75,Kelly,0,0,0,25,1,3,Kelly Olynyk,21,4,Olynyk,N/A,1,Boston,3
+4,1,2,0,0,0,5,1,20,David,0,0,0,15,1,4,David Lee,2,3,Lee,N/A,1,Boston,2
+0,0,1,4,0,0,5,1,20,RJ,0,0,0,8,0,3,RJ Hunter,2,1,Hunter,N/A,0,Boston,0
+0,0,0,0,0,0,2,1,50,Terry,0,0,0,3,0,0,Terry Rozier,2,0,Rozier,N/A,0,Boston,1
+0,0,0,0,0,0,0,0,0,James,0,0,0,3,0,1,James Young,0,0,Young,N/A,0,Boston,0
+0,0,7,3,2,67,13,7,54,Rudy,3,2,67,31,0,2,Rudy Gay,18,7,Gay,F,1,Sacramento,4
+1,1,4,0,0,0,2,2,100,Willie,6,4,67,18,1,3,Willie Cauley-Stein,8,5,Cauley-Stein,F,0,Sacramento,1
+4,1,3,5,2,40,17,4,24,DeMarcus,8,6,75,25,4,5,DeMarcus Cousins,16,7,Cousins,C,0,Sacramento,4
+1,0,3,2,0,0,6,3,50,Ben,6,5,83,25,1,4,Ben McLemore,11,4,McLemore,G,0,Sacramento,0
+8,0,3,1,1,100,6,2,33,Rajon,0,0,0,24,0,1,Rajon Rondo,5,3,Rondo,G,2,Sacramento,4
+0,1,8,0,0,0,6,2,33,Kosta,4,3,75,19,2,0,Kosta Koufos,7,10,Koufos,N/A,2,Sacramento,1
+2,0,3,5,1,20,8,2,25,Marco,0,0,0,26,0,0,Marco Belinelli,5,3,Belinelli,N/A,0,Sacramento,1
+5,1,1,2,0,0,8,3,38,Darren,6,6,100,26,0,0,Darren Collison,12,1,Collison,N/A,0,Sacramento,2
+0,0,0,0,0,0,4,1,25,Quincy,0,0,0,7,1,0,Quincy Acy,2,1,Acy,N/A,1,Sacramento,0
+0,0,2,1,0,0,4,2,50,Seth,6,4,67,23,0,2,Seth Curry,8,2,Curry,N/A,1,Sacramento,1
+0,0,0,0,0,0,0,0,0,Caron,0,0,0,8,0,1,Caron Butler,0,0,Butler,N/A,1,Sacramento,0
+0,0,1,2,1,50,3,1,33,James,2,2,100,4,0,0,James Anderson,5,1,Anderson,N/A,0,Sacramento,1
+0,0,2,0,0,0,0,0,0,Eric,0,0,0,4,0,2,Eric Moreland,0,2,Moreland,N/A,0,Sacramento,0

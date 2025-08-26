@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,2,4,3,75,9,5,56,Josh,2,1,50,38,1,4,Josh Richardson,14,3,Richardson,F,1,Miami,2
+1,0,2,4,2,50,8,4,50,Kelly,2,1,50,27,1,4,Kelly Olynyk,11,3,Olynyk,F,1,Miami,3
+1,4,13,0,0,0,10,7,70,Hassan,2,2,100,28,2,5,Hassan Whiteside,16,15,Whiteside,C,0,Miami,2
+1,1,0,1,0,0,6,4,67,Derrick,1,0,0,21,1,2,Derrick Jones Jr.,8,1,Jones,G,1,Miami,1
+9,0,2,4,1,25,16,8,50,Goran,4,3,75,31,1,4,Goran Dragic,20,3,Dragic,G,1,Miami,4
+2,1,5,10,4,40,13,5,38,Wayne,1,1,100,33,0,1,Wayne Ellington,15,5,Ellington,N/A,0,Miami,0
+5,0,2,1,0,0,9,4,44,Bam,9,7,78,31,0,2,Bam Adebayo,15,2,Adebayo,N/A,1,Miami,1
+2,0,5,6,3,50,10,6,60,Tyler,0,0,0,31,0,3,Tyler Johnson,15,5,Johnson,N/A,1,Miami,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Johnson,N/A,N/A,Johnson,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Walton Jr.,N/A,N/A,Walton,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justise,N/A,N/A,N/A,N/A,N/A,N/A,Justise Winslow,N/A,N/A,Winslow,N/A,N/A,Miami,N/A
+0,0,6,4,0,0,11,6,55,Bojan,4,3,75,32,0,3,Bojan Bogdanovic,15,6,Bogdanovic,F,0,Indiana,1
+1,1,5,0,0,0,8,6,75,Thaddeus,1,0,0,29,4,1,Thaddeus Young,12,9,Young,F,1,Indiana,1
+0,0,5,0,0,0,15,8,53,Domantas,3,2,67,31,3,5,Domantas Sabonis,18,8,Sabonis,C,0,Indiana,4
+4,0,6,6,0,0,21,9,43,Victor,11,8,73,38,1,5,Victor Oladipo,26,7,Oladipo,G,3,Indiana,4
+3,1,0,0,0,0,4,2,50,Darren,3,3,100,27,0,2,Darren Collison,7,0,Collison,G,2,Indiana,0
+0,1,2,0,0,0,5,2,40,Al,0,0,0,17,0,3,Al Jefferson,4,2,Jefferson,N/A,0,Indiana,2
+1,0,2,3,0,0,8,2,25,Cory,2,1,50,27,1,1,Cory Joseph,5,3,Joseph,N/A,0,Indiana,1
+0,0,1,0,0,0,2,1,50,Joe,2,0,0,5,0,0,Joe Young,2,1,Young,N/A,1,Indiana,0
+4,0,6,4,1,25,11,6,55,Lance,3,2,67,25,2,3,Lance Stephenson,15,8,Stephenson,N/A,0,Indiana,0
+0,0,0,1,0,0,2,1,50,TJ,0,0,0,8,1,0,TJ Leaf,2,1,Leaf,N/A,0,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alex,N/A,N/A,N/A,N/A,N/A,N/A,Alex Poythress,N/A,N/A,Poythress,N/A,N/A,Indiana,N/A

@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,10,9,2,22,25,9,36,Kevin,14,14,100,36,0,2,Kevin Durant,34,10,Durant,F,1,Golden State,3
+8,0,4,3,0,0,4,0,0,Draymond,6,5,83,36,0,2,Draymond Green,5,4,Green,F,2,Golden State,4
+1,0,2,0,0,0,3,1,33,Zaza,0,0,0,12,0,2,Zaza Pachulia,2,2,Pachulia,C,1,Golden State,1
+3,0,4,8,2,25,19,9,47,Klay,0,0,0,35,0,3,Klay Thompson,20,4,Thompson,G,3,Golden State,4
+6,0,1,4,2,50,6,4,67,Quinn,2,2,100,37,2,2,Quinn Cook,12,3,Cook,G,0,Golden State,0
+0,0,3,5,2,40,8,3,38,Nick,0,0,0,26,0,4,Nick Young,8,3,Young,N/A,0,Golden State,0
+0,0,0,0,0,0,4,4,100,JaVale,0,0,0,10,2,3,JaVale McGee,8,2,McGee,N/A,0,Golden State,0
+2,2,5,0,0,0,6,3,50,Jordan,0,0,0,19,2,0,Jordan Bell,6,7,Bell,N/A,0,Golden State,0
+3,1,3,0,0,0,4,4,100,David,0,0,0,15,0,3,David West,8,3,West,N/A,2,Golden State,0
+0,1,2,0,0,0,4,4,100,Damian,2,0,0,14,0,4,Damian Jones,8,2,Jones,N/A,0,Golden State,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shaun,N/A,N/A,N/A,N/A,N/A,N/A,Shaun Livingston,N/A,N/A,Livingston,N/A,N/A,Golden State,N/A
+2,0,5,9,3,33,19,5,26,Paul,7,7,100,37,3,2,Paul George,20,8,George,F,0,Oklahoma City,3
+2,0,4,9,0,0,16,4,25,Carmelo,4,4,100,36,4,4,Carmelo Anthony,12,8,Anthony,F,0,Oklahoma City,1
+2,0,5,0,0,0,6,3,50,Steven,6,1,17,33,8,5,Steven Adams,7,13,Adams,C,0,Oklahoma City,5
+1,0,4,4,1,25,10,4,40,Corey,2,1,50,25,2,1,Corey Brewer,10,6,Brewer,G,5,Oklahoma City,0
+6,0,11,7,3,43,26,15,58,Russell,12,11,92,41,5,3,Russell Westbrook,44,16,Westbrook,G,2,Oklahoma City,6
+0,0,0,4,2,50,5,3,60,Alex,0,0,0,18,0,2,Alex Abrines,8,0,Abrines,N/A,0,Oklahoma City,0
+0,0,1,0,0,0,1,0,0,Josh,2,1,50,11,0,1,Josh Huestis,1,1,Huestis,N/A,0,Oklahoma City,0
+0,1,2,2,0,0,5,0,0,Raymond,0,0,0,12,0,2,Raymond Felton,0,2,Felton,N/A,1,Oklahoma City,1
+0,2,2,0,0,0,2,1,50,Jerami,4,3,75,15,0,0,Jerami Grant,5,2,Grant,N/A,0,Oklahoma City,0
+0,0,2,3,0,0,3,0,0,Patrick,0,0,0,12,0,0,Patrick Patterson,0,2,Patterson,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terrance,N/A,N/A,N/A,N/A,N/A,N/A,Terrance Ferguson,N/A,N/A,Ferguson,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dakari,N/A,N/A,N/A,N/A,N/A,N/A,Dakari Johnson,N/A,N/A,Johnson,N/A,N/A,Oklahoma City,N/A

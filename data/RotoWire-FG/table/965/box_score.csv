@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,1,3,1,33,12,6,50,Evan,2,2,100,36,0,4,Evan Turner,15,1,Turner,F,0,Portland,2
+1,0,5,11,5,46,20,11,55,Al-Farouq,0,0,0,35,1,4,Al-Farouq Aminu,27,6,Aminu,F,2,Portland,0
+2,2,6,0,0,0,13,9,69,Jusuf,0,0,0,33,5,6,Jusuf Nurkic,18,11,Nurkic,C,3,Portland,0
+3,0,2,3,2,67,22,15,68,CJ,7,6,86,45,0,5,CJ McCollum,38,2,McCollum,G,0,Portland,2
+6,0,5,5,1,20,16,7,44,Damian,5,4,80,45,0,3,Damian Lillard,19,5,Lillard,G,2,Portland,1
+0,0,2,1,1,100,3,1,33,Wade,0,0,0,8,0,1,Wade Baldwin IV,3,2,Baldwin,N/A,0,Portland,1
+0,0,0,2,0,0,2,0,0,Pat,0,0,0,10,0,1,Pat Connaughton,0,0,Connaughton,N/A,0,Portland,0
+0,0,5,0,0,0,1,0,0,Ed,2,1,50,13,0,2,Ed Davis,1,5,Davis,N/A,0,Portland,0
+3,0,1,2,0,0,6,1,17,Zach,0,0,0,14,0,2,Zach Collins,2,1,Collins,N/A,1,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Meyers,N/A,N/A,N/A,N/A,N/A,N/A,Meyers Leonard,N/A,N/A,Leonard,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caleb,N/A,N/A,N/A,N/A,N/A,N/A,Caleb Swanigan,N/A,N/A,Swanigan,N/A,N/A,Portland,N/A
+1,0,3,3,1,33,10,5,50,E'Twaun,3,3,100,35,0,3,E'Twaun Moore,14,3,Moore,F,3,New Orleans,1
+1,3,11,3,1,33,8,4,50,Nikola,2,1,50,41,0,3,Nikola Mirotic,10,11,Mirotic,F,2,New Orleans,1
+1,3,6,4,2,50,23,15,65,Anthony,17,15,88,39,4,4,Anthony Davis,47,10,Davis,C,0,New Orleans,2
+8,0,2,7,2,29,23,15,65,Jrue,12,9,75,41,1,1,Jrue Holiday,41,3,Holiday,G,0,New Orleans,7
+16,0,7,1,0,0,7,3,43,Rajon,1,1,100,35,0,2,Rajon Rondo,7,7,Rondo,G,0,New Orleans,2
+0,0,1,3,1,33,3,1,33,Ian,0,0,0,11,0,4,Ian Clark,3,1,Clark,N/A,0,New Orleans,0
+0,0,3,2,1,50,2,1,50,Darius,0,0,0,23,1,1,Darius Miller,3,4,Miller,N/A,0,New Orleans,0
+1,0,3,2,1,50,2,1,50,Solomon,4,3,75,17,1,3,Solomon Hill,6,4,Hill,N/A,0,New Orleans,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Crawford,N/A,N/A,Crawford,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cheick,N/A,N/A,N/A,N/A,N/A,N/A,Cheick Diallo,N/A,N/A,Diallo,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Frank,N/A,N/A,N/A,N/A,N/A,N/A,Frank Jackson,N/A,N/A,Jackson,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre Liggins,N/A,N/A,Liggins,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Emeka,N/A,N/A,N/A,N/A,N/A,N/A,Emeka Okafor,N/A,N/A,Okafor,N/A,N/A,New Orleans,N/A

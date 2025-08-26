@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,0,3,0,0,6,2,33,Terrence,0,0,0,21,0,4,Terrence Ross,4,0,Ross,F,0,Toronto,3
+0,0,1,1,0,0,6,5,83,Amir,1,1,100,16,2,2,Amir Johnson,11,3,Johnson,F,0,Toronto,1
+0,1,5,1,0,0,13,9,69,Jonas,5,3,60,36,4,3,Jonas Valanciunas,21,9,Valanciunas,C,1,Toronto,1
+8,0,5,3,0,0,20,10,50,DeMar,8,7,88,41,3,2,DeMar DeRozan,27,8,DeRozan,G,1,Toronto,5
+4,0,4,5,1,20,10,3,30,Greivis,0,0,0,33,0,2,Greivis Vasquez,7,4,Vasquez,G,0,Toronto,1
+3,0,2,8,5,63,14,8,57,Lou,4,2,50,33,0,1,Lou Williams,23,2,Williams,N/A,1,Toronto,1
+1,0,2,1,0,0,4,1,25,James,0,0,0,19,0,2,James Johnson,2,2,Johnson,N/A,0,Toronto,0
+6,0,7,4,2,50,6,3,50,Patrick,5,4,80,30,2,2,Patrick Patterson,12,9,Patterson,N/A,1,Toronto,2
+0,0,1,0,0,0,3,1,33,Tyler,0,0,0,12,2,3,Tyler Hansbrough,2,3,Hansbrough,N/A,1,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bruno,N/A,N/A,N/A,N/A,N/A,N/A,Bruno Caboclo,N/A,N/A,Caboclo,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Landry,N/A,N/A,N/A,N/A,N/A,N/A,Landry Fields,N/A,N/A,Fields,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charles,N/A,N/A,N/A,N/A,N/A,N/A,Charles Hayes,N/A,N/A,Hayes,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Stiemsma,N/A,N/A,Stiemsma,N/A,N/A,Toronto,N/A
+5,0,3,2,0,0,12,5,42,Joe,4,3,75,36,2,3,Joe Johnson,13,5,Johnson,F,1,Brooklyn,1
+0,0,3,2,0,0,15,12,80,Thaddeus,9,5,56,37,3,2,Thaddeus Young,29,6,Young,F,4,Brooklyn,1
+2,1,7,0,0,0,24,13,54,Brook,4,4,100,44,10,2,Brook Lopez,30,17,Lopez,C,1,Brooklyn,1
+1,0,2,0,0,0,3,0,0,Markel,0,0,0,20,1,2,Markel Brown,0,3,Brown,G,1,Brooklyn,0
+11,0,1,7,5,71,18,11,61,Deron,4,4,100,38,0,3,Deron Williams,31,1,Williams,G,0,Brooklyn,3
+1,0,2,1,0,0,4,3,75,Alan,0,0,0,27,0,3,Alan Anderson,6,2,Anderson,N/A,1,Brooklyn,1
+0,0,1,1,0,0,2,0,0,Earl,0,0,0,7,0,0,Earl Clark,0,1,Clark,N/A,1,Brooklyn,0
+0,0,2,0,0,0,2,1,50,Mason,0,0,0,4,0,2,Mason Plumlee,2,2,Plumlee,N/A,0,Brooklyn,0
+1,0,1,1,0,0,4,0,0,Jarrett,0,0,0,10,0,0,Jarrett Jack,0,1,Jack,N/A,0,Brooklyn,1
+0,0,2,2,0,0,4,1,25,Bojan,2,1,50,18,1,1,Bojan Bogdanovic,3,3,Bogdanovic,N/A,1,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cory,N/A,N/A,N/A,N/A,N/A,N/A,Cory Jefferson,N/A,N/A,Jefferson,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerome,N/A,N/A,N/A,N/A,N/A,N/A,Jerome Jordan,N/A,N/A,Jordan,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darius,N/A,N/A,N/A,N/A,N/A,N/A,Darius Morris,N/A,N/A,Morris,N/A,N/A,Brooklyn,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,4,6,3,50,12,7,58,Trevor,2,2,100,34,1,2,Trevor Ariza,19,5,Ariza,F,2,Houston,2
+4,2,3,1,0,0,9,4,44,Donatas,0,0,0,31,4,4,Donatas Motiejunas,8,7,Motiejunas,F,1,Houston,3
+2,4,8,0,0,0,16,9,56,Dwight,5,4,80,33,2,3,Dwight Howard,22,10,Howard,C,0,Houston,0
+10,0,3,8,2,25,23,8,35,James,5,5,100,40,1,3,James Harden,23,4,Harden,G,3,Houston,1
+1,0,2,3,0,0,7,2,29,Isaiah,2,1,50,26,0,2,Isaiah Canaan,5,2,Canaan,G,0,Houston,3
+3,1,3,3,3,100,3,3,100,Jason,0,0,0,23,0,4,Jason Terry,9,3,Terry,N/A,1,Houston,1
+4,0,0,4,4,100,8,4,50,Kostas,3,2,67,24,0,5,Kostas Papanikolaou,14,0,Papanikolaou,N/A,0,Houston,1
+0,0,2,0,0,0,6,5,83,Tarik,0,0,0,17,4,3,Tarik Black,10,6,Black,N/A,0,Houston,1
+0,0,0,3,1,33,4,1,25,Troy,0,0,0,5,0,2,Troy Daniels,3,0,Daniels,N/A,0,Houston,1
+0,0,0,0,0,0,0,0,0,Nick,0,0,0,4,0,0,Nick Johnson,0,0,Johnson,N/A,0,Houston,0
+0,0,2,0,0,0,1,0,0,Joey,2,0,0,3,1,1,Joey Dorsey,0,3,Dorsey,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Francisco,N/A,N/A,N/A,N/A,N/A,N/A,Francisco Garcia,N/A,N/A,Garcia,N/A,N/A,Houston,N/A
+0,1,1,2,1,50,13,6,46,Andrew,2,2,100,32,0,4,Andrew Wiggins,15,1,Wiggins,F,0,Minnesota,4
+1,1,2,1,1,100,10,2,20,Thaddeus,2,1,50,27,1,3,Thaddeus Young,6,3,Young,F,1,Minnesota,0
+0,1,9,0,0,0,10,4,40,Nikola,3,3,100,28,4,0,Nikola Pekovic,11,13,Pekovic,C,2,Minnesota,1
+1,0,4,1,1,100,7,4,57,Kevin,4,3,75,22,1,1,Kevin Martin,12,5,Martin,G,1,Minnesota,1
+9,0,3,2,0,0,9,2,22,Zach,4,4,100,34,0,4,Zach LaVine,8,3,LaVine,G,0,Minnesota,3
+2,0,4,1,1,100,7,7,100,Corey,5,3,60,24,0,1,Corey Brewer,18,4,Brewer,N/A,1,Minnesota,1
+2,2,2,1,0,0,7,3,43,Gorgui,2,2,100,14,1,1,Gorgui Dieng,8,3,Dieng,N/A,0,Minnesota,1
+0,1,3,0,0,0,1,1,100,Anthony,0,0,0,9,1,0,Anthony Bennett,2,4,Bennett,N/A,0,Minnesota,0
+6,0,2,0,0,0,5,0,0,Mo,2,2,100,14,0,2,Mo Williams,2,2,Williams,N/A,0,Minnesota,2
+0,0,0,0,0,0,6,3,50,Shabazz,6,3,50,14,1,0,Shabazz Muhammad,9,1,Muhammad,N/A,0,Minnesota,0
+0,0,0,3,2,67,4,3,75,Robbie,0,0,0,8,0,1,Robbie Hummel,8,0,Hummel,N/A,0,Minnesota,0
+1,0,1,0,0,0,0,0,0,Ronny,0,0,0,10,0,0,Ronny Turiaf,0,1,Turiaf,N/A,0,Minnesota,0
+0,0,1,1,0,0,2,1,50,Chase,0,0,0,4,0,0,Chase Budinger,2,1,Budinger,N/A,1,Minnesota,0

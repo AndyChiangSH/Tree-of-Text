@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,6,2,0,0,16,7,44,Markieff,8,5,63,37,1,5,Markieff Morris,19,7,Morris,F,1,Washington,2
+1,0,8,2,1,50,9,5,56,Otto,0,0,0,39,0,3,Otto Porter Jr.,11,8,Porter,F,3,Washington,1
+2,1,7,0,0,0,12,6,50,Marcin,2,0,0,36,4,4,Marcin Gortat,12,11,Gortat,C,0,Washington,0
+1,0,4,10,4,40,21,10,48,Bradley,10,7,70,42,1,5,Bradley Beal,31,5,Beal,G,2,Washington,4
+15,1,3,7,2,29,20,6,30,John,2,1,50,44,3,1,John Wall,15,6,Wall,G,1,Washington,3
+0,0,0,0,0,0,4,1,25,Jason,0,0,0,11,1,2,Jason Smith,2,1,Smith,N/A,0,Washington,0
+3,0,1,1,0,0,3,1,33,Tomas,0,0,0,12,0,2,Tomas Satoransky,2,1,Satoransky,N/A,0,Washington,0
+0,0,2,3,1,33,7,4,57,Marcus,2,2,100,17,1,1,Marcus Thornton,11,3,Thornton,N/A,0,Washington,0
+1,0,6,3,2,67,6,4,67,Kelly,2,2,100,28,0,2,Kelly Oubre Jr.,12,6,Oubre,N/A,1,Washington,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Burke,N/A,N/A,Burke,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sheldon,N/A,N/A,N/A,N/A,N/A,N/A,Sheldon McClellan,N/A,N/A,McClellan,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Nicholson,N/A,N/A,Nicholson,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Daniel,N/A,N/A,N/A,N/A,N/A,N/A,Daniel Ochefu,N/A,N/A,Ochefu,N/A,N/A,Washington,N/A
+0,2,5,3,2,67,6,4,67,Andre,0,0,0,35,0,4,Andre Roberson,10,5,Roberson,F,2,Oklahoma City,1
+2,1,3,0,0,0,5,5,100,Domantas,0,0,0,19,0,3,Domantas Sabonis,10,3,Sabonis,F,2,Oklahoma City,0
+0,0,4,0,0,0,6,3,50,Steven,10,6,60,28,2,1,Steven Adams,12,6,Adams,C,0,Oklahoma City,1
+6,0,6,9,5,56,16,10,63,Victor,0,0,0,45,0,1,Victor Oladipo,25,6,Oladipo,G,1,Oklahoma City,2
+11,0,10,6,1,17,35,12,34,Russell,10,10,100,41,4,3,Russell Westbrook,35,14,Westbrook,G,2,Oklahoma City,5
+1,0,4,1,1,100,3,2,67,Joffrey,0,0,0,12,0,1,Joffrey Lauvergne,5,4,Lauvergne,N/A,1,Oklahoma City,2
+4,0,1,7,2,29,9,2,22,Anthony,0,0,0,31,0,3,Anthony Morrow,6,1,Morrow,N/A,0,Oklahoma City,1
+3,0,0,1,0,0,2,1,50,Semaj,0,0,0,15,1,1,Semaj Christon,2,1,Christon,N/A,1,Oklahoma City,0
+0,1,3,0,0,0,10,6,60,Enes,3,2,67,15,0,1,Enes Kanter,14,3,Kanter,N/A,0,Oklahoma City,0
+1,0,2,3,1,33,3,1,33,Jerami,8,4,50,24,2,4,Jerami Grant,7,4,Grant,N/A,1,Oklahoma City,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alex,N/A,N/A,N/A,N/A,N/A,N/A,Alex Abrines,N/A,N/A,Abrines,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Singler,N/A,N/A,Singler,N/A,N/A,Oklahoma City,N/A

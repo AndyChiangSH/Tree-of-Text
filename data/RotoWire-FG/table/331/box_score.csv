@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,7,5,2,40,21,8,38,Jimmy,5,5,100,36,2,5,Jimmy Butler,23,9,Butler,F,0,Chicago,2
+3,2,4,0,0,0,12,3,25,Taj,3,2,67,26,5,2,Taj Gibson,8,9,Gibson,F,2,Chicago,4
+0,2,2,0,0,0,6,3,50,Robin,4,2,50,14,3,1,Robin Lopez,8,5,Lopez,C,0,Chicago,2
+4,0,1,3,0,0,13,5,39,Dwyane,6,5,83,35,0,0,Dwyane Wade,15,1,Wade,G,2,Chicago,0
+5,1,7,2,0,0,11,6,55,Rajon,0,0,0,34,2,3,Rajon Rondo,12,9,Rondo,G,1,Chicago,4
+1,1,6,6,3,50,6,3,50,Nikola,11,8,73,35,0,1,Nikola Mirotic,17,6,Mirotic,N/A,0,Chicago,2
+3,0,0,3,1,33,4,1,25,Isaiah,2,1,50,19,0,2,Isaiah Canaan,4,0,Canaan,N/A,1,Chicago,1
+0,0,1,0,0,0,1,0,0,Cristiano,0,0,0,10,0,2,Cristiano Felicio,0,1,Felicio,N/A,1,Chicago,1
+0,0,0,1,1,100,2,1,50,Denzel,0,0,0,7,0,0,Denzel Valentine,3,0,Valentine,N/A,0,Chicago,1
+3,0,2,0,0,0,3,3,100,Jerian,0,0,0,13,0,1,Jerian Grant,6,2,Grant,N/A,0,Chicago,1
+0,1,4,0,0,0,2,2,100,Bobby,0,0,0,11,3,2,Bobby Portis,4,7,Portis,N/A,0,Chicago,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Zipser,N/A,N/A,Zipser,N/A,N/A,Chicago,N/A
+1,0,5,2,2,100,6,4,67,Jae,0,0,0,14,0,1,Jae Crowder,10,5,Crowder,F,0,Boston,1
+3,2,5,4,4,100,11,9,82,Amir,2,1,50,30,1,2,Amir Johnson,23,6,Johnson,F,3,Boston,0
+0,0,1,0,0,0,11,5,46,Tyler,2,1,50,25,3,3,Tyler Zeller,11,4,Zeller,C,1,Boston,0
+4,0,3,7,1,14,15,6,40,Avery,0,0,0,39,2,4,Avery Bradley,13,5,Bradley,G,0,Boston,1
+10,1,1,7,4,57,18,8,44,Isaiah,4,3,75,36,1,3,Isaiah Thomas,23,2,Thomas,G,3,Boston,3
+5,1,5,6,1,17,8,2,25,Marcus,4,2,50,34,0,1,Marcus Smart,7,5,Smart,N/A,1,Boston,6
+0,0,1,2,1,50,3,1,33,Jaylen,0,0,0,8,1,4,Jaylen Brown,3,2,Brown,N/A,1,Boston,0
+0,0,0,0,0,0,1,0,0,Jordan,0,0,0,6,0,0,Jordan Mickey,0,0,Mickey,N/A,0,Boston,1
+2,0,5,0,0,0,5,2,40,Jonas,2,2,100,22,1,4,Jonas Jerebko,6,6,Jerebko,N/A,1,Boston,0
+0,0,2,2,1,50,6,3,50,Terry,1,0,0,13,0,1,Terry Rozier,7,2,Rozier,N/A,0,Boston,0
+0,0,1,0,0,0,0,0,0,James,0,0,0,1,0,0,James Young,0,1,Young,N/A,0,Boston,0
+3,0,0,2,0,0,3,1,33,Gerald,2,2,100,14,1,1,Gerald Green,4,1,Green,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Boston,N/A

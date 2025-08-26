@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,2,4,1,25,9,3,33,Solomon,0,0,0,27,0,2,Solomon Hill,7,2,Hill,F,0,Indiana,2
+4,1,7,0,0,0,8,3,38,David,4,3,75,28,4,2,David West,9,11,West,F,1,Indiana,2
+0,1,1,0,0,0,4,1,25,Roy,2,2,100,20,0,2,Roy Hibbert,4,1,Hibbert,C,0,Indiana,1
+1,0,3,2,0,0,10,5,50,Rodney,2,2,100,23,0,0,Rodney Stuckey,12,3,Stuckey,G,1,Indiana,0
+3,0,4,3,1,33,9,4,44,CJ,4,4,100,28,0,4,CJ Watson,13,4,Watson,G,2,Indiana,3
+2,0,3,8,2,25,15,7,47,CJ,2,2,100,27,0,3,CJ Miles,18,3,Miles,N/A,1,Indiana,1
+1,0,4,0,0,0,6,2,33,Luis,6,6,100,17,3,1,Luis Scola,10,7,Scola,N/A,1,Indiana,3
+5,0,3,2,0,0,2,0,0,Donald,2,2,100,17,0,3,Donald Sloan,2,3,Sloan,N/A,0,Indiana,4
+1,0,3,0,0,0,3,1,33,Ian,0,0,0,19,1,2,Ian Mahinmi,2,4,Mahinmi,N/A,0,Indiana,1
+2,0,2,3,1,33,7,3,43,Damjan,2,1,50,20,1,0,Damjan Rudez,8,3,Rudez,N/A,0,Indiana,0
+1,0,0,2,0,0,4,2,50,Shayne,2,2,100,8,1,2,Shayne Whittington,6,1,Whittington,N/A,1,Indiana,0
+0,0,0,1,0,0,1,0,0,Chris,0,0,0,4,0,0,Chris Copeland,0,0,Copeland,N/A,0,Indiana,1
+0,0,0,0,0,0,0,0,0,Lavoy,0,0,0,3,0,0,Lavoy Allen,0,0,Allen,N/A,0,Indiana,0
+4,0,2,5,3,60,11,7,64,DeMarre,1,0,0,30,0,4,DeMarre Carroll,17,2,Carroll,F,4,Atlanta,1
+1,0,8,3,1,33,7,4,57,Paul,3,3,100,30,1,3,Paul Millsap,12,9,Millsap,F,0,Atlanta,4
+5,1,4,1,0,0,10,6,60,Al,3,2,67,27,3,0,Al Horford,14,7,Horford,C,1,Atlanta,1
+2,0,4,4,2,50,6,4,67,Kyle,0,0,0,31,0,3,Kyle Korver,10,4,Korver,G,1,Atlanta,2
+11,0,3,3,1,33,13,6,46,Jeff,5,4,80,30,0,1,Jeff Teague,17,3,Teague,G,2,Atlanta,3
+2,0,2,5,3,60,7,4,57,Pero,2,1,50,18,2,3,Pero Antic,12,4,Antic,N/A,0,Atlanta,1
+0,1,4,3,1,33,7,3,43,Thabo,2,1,50,19,1,1,Thabo Sefolosha,8,5,Sefolosha,N/A,2,Atlanta,1
+4,1,3,1,1,100,4,2,50,Dennis,0,0,0,16,0,2,Dennis Schroder,5,3,Schroder,N/A,0,Atlanta,1
+1,0,1,2,0,0,6,1,17,Mike,4,3,75,19,0,1,Mike Scott,5,1,Scott,N/A,0,Atlanta,0
+0,0,1,0,0,0,5,1,20,Kent,2,1,50,16,1,4,Kent Bazemore,3,2,Bazemore,N/A,2,Atlanta,2
+0,0,1,0,0,0,0,0,0,Mike,4,4,100,3,1,0,Mike Muscala,4,2,Muscala,N/A,0,Atlanta,0
+0,0,1,2,1,50,2,1,50,John,0,0,0,3,0,1,John Jenkins,3,1,Jenkins,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elton,N/A,N/A,N/A,N/A,N/A,N/A,Elton Brand,N/A,N/A,Brand,N/A,N/A,Atlanta,N/A

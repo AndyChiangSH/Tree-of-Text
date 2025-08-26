@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,6,7,4,57,10,6,60,Mike,5,3,60,35,1,1,Mike Dunleavy,19,7,Dunleavy,F,0,Chicago,1
+6,2,4,0,0,0,13,9,69,Taj,4,2,50,41,1,5,Taj Gibson,20,5,Gibson,F,1,Chicago,0
+6,0,13,0,0,0,8,5,63,Joakim,2,1,50,36,3,4,Joakim Noah,11,16,Noah,C,0,Chicago,1
+8,0,4,4,1,25,17,6,35,Jimmy,10,9,90,45,2,2,Jimmy Butler,22,6,Butler,G,2,Chicago,3
+5,0,1,6,4,67,12,5,42,Kirk,0,0,0,34,1,5,Kirk Hinrich,14,2,Hinrich,G,3,Chicago,3
+2,0,6,4,1,25,10,5,50,Nikola,2,1,50,18,1,5,Nikola Mirotic,12,7,Mirotic,N/A,0,Chicago,0
+1,0,0,3,0,0,8,3,38,Aaron,2,1,50,20,0,1,Aaron Brooks,7,0,Brooks,N/A,1,Chicago,0
+0,0,0,0,0,0,0,0,0,E'Twaun,0,0,0,0,0,0,E'Twaun Moore,0,0,Moore,N/A,0,Chicago,0
+0,0,2,2,0,0,2,0,0,Doug,0,0,0,10,0,1,Doug McDermott,0,2,McDermott,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nazr,N/A,N/A,N/A,N/A,N/A,N/A,Nazr Mohammed,N/A,N/A,Mohammed,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Snell,N/A,N/A,Snell,N/A,N/A,Chicago,N/A
+1,0,2,6,2,33,8,2,25,Matt,2,1,50,29,0,4,Matt Barnes,7,2,Barnes,F,0,Los Angeles,3
+4,0,6,1,0,0,15,7,47,Blake,10,5,50,37,4,3,Blake Griffin,19,10,Griffin,F,0,Los Angeles,5
+0,3,12,0,0,0,6,5,83,DeAndre,2,0,0,36,5,0,DeAndre Jordan,10,17,Jordan,C,0,Los Angeles,0
+1,1,0,3,1,33,10,2,20,JJ,0,0,0,24,0,1,JJ Redick,5,0,Redick,G,0,Los Angeles,0
+7,1,1,1,1,100,11,5,46,Chris,2,1,50,37,0,2,Chris Paul,12,1,Paul,G,1,Los Angeles,1
+5,0,2,5,1,20,17,10,59,Jamal,5,3,60,27,0,5,Jamal Crawford,24,2,Crawford,N/A,1,Los Angeles,2
+0,0,4,5,2,40,7,3,43,Spencer,0,0,0,17,0,2,Spencer Hawes,8,4,Hawes,N/A,0,Los Angeles,0
+0,0,2,1,0,0,2,0,0,Reggie,0,0,0,13,0,1,Reggie Bullock,0,2,Bullock,N/A,0,Los Angeles,0
+2,0,1,1,0,0,3,0,0,Jordan,0,0,0,13,0,2,Jordan Farmar,0,1,Farmar,N/A,0,Los Angeles,0
+0,0,1,0,0,0,2,2,100,Glen,1,0,0,5,0,1,Glen Davis,4,1,Davis,N/A,0,Los Angeles,0
+0,0,0,0,0,0,0,0,0,Ekpe,0,0,0,1,0,0,Ekpe Udoh,0,0,Udoh,N/A,0,Los Angeles,1
+0,0,0,0,0,0,0,0,0,Jared,0,0,0,1,0,0,Jared Cunningham,0,0,Cunningham,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Hedo,N/A,N/A,N/A,N/A,N/A,N/A,Hedo Turkoglu,N/A,N/A,Turkoglu,N/A,N/A,Los Angeles,N/A

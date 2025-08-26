@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,6,3,0,0,3,0,0,Dante,0,0,0,31,0,3,Dante Cunningham,0,6,Cunningham,F,1,New Orleans,0
+0,2,8,5,3,60,17,10,59,Anthony,4,2,50,41,2,1,Anthony Davis,25,10,Davis,F,2,New Orleans,2
+0,0,3,0,0,0,4,2,50,Kendrick,0,0,0,9,1,0,Kendrick Perkins,4,4,Perkins,C,0,New Orleans,0
+3,0,1,8,3,38,13,6,46,Eric,7,5,71,41,1,1,Eric Gordon,20,2,Gordon,G,1,New Orleans,1
+3,0,1,4,1,25,14,5,36,Jrue,1,1,100,21,0,2,Jrue Holiday,12,1,Holiday,G,0,New Orleans,2
+2,0,1,1,0,0,3,1,33,Alonzo,1,1,100,18,0,2,Alonzo Gee,3,1,Gee,N/A,0,New Orleans,1
+1,0,9,9,3,33,20,9,45,Ryan,1,0,0,39,0,1,Ryan Anderson,21,9,Anderson,N/A,1,New Orleans,2
+8,0,4,3,1,33,14,3,21,Ish,2,0,0,29,0,5,Ish Smith,7,4,Smith,N/A,2,New Orleans,3
+0,0,1,0,0,0,3,0,0,Alexis,2,2,100,7,1,2,Alexis Ajinca,2,2,Ajinca,N/A,0,New Orleans,0
+1,0,0,0,0,0,0,0,0,Nate,0,0,0,4,0,0,Nate Robinson,0,0,Robinson,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omer,N/A,N/A,N/A,N/A,N/A,N/A,Omer Asik,N/A,N/A,Asik,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luke,N/A,N/A,N/A,N/A,N/A,N/A,Luke Babbitt,N/A,N/A,Babbitt,N/A,N/A,New Orleans,N/A
+0,2,8,3,1,33,7,3,43,Al-Farouq,2,2,100,31,0,0,Al-Farouq Aminu,9,8,Aminu,F,1,Portland,3
+3,1,6,7,2,29,12,5,42,Meyers,0,0,0,34,2,2,Meyers Leonard,12,8,Leonard,F,1,Portland,2
+6,0,5,0,0,0,4,3,75,Mason,3,1,33,19,1,4,Mason Plumlee,7,6,Plumlee,C,0,Portland,0
+1,0,5,9,6,67,22,14,64,CJ,3,3,100,37,1,3,CJ McCollum,37,6,McCollum,G,1,Portland,0
+11,0,5,7,1,14,21,8,38,Damian,4,4,100,36,0,2,Damian Lillard,21,5,Lillard,G,2,Portland,4
+1,0,3,2,0,0,6,2,33,Allen,0,0,0,22,0,3,Allen Crabbe,4,3,Crabbe,N/A,1,Portland,1
+0,0,9,0,0,0,6,5,83,Ed,2,2,100,29,2,5,Ed Davis,12,11,Davis,N/A,1,Portland,0
+0,0,0,1,0,0,4,1,25,Noah,0,0,0,14,0,2,Noah Vonleh,2,0,Vonleh,N/A,0,Portland,1
+0,1,4,3,2,67,6,3,50,Maurice,0,0,0,18,0,0,Maurice Harkless,8,4,Harkless,N/A,0,Portland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Frazier,N/A,N/A,Frazier,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Kaman,N/A,N/A,Kaman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luis,N/A,N/A,N/A,N/A,N/A,N/A,Luis Montero,N/A,N/A,Montero,N/A,N/A,Portland,N/A

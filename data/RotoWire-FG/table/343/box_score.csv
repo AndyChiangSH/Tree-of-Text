@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,2,3,3,2,67,6,2,33,Robert,4,3,75,36,0,4,Robert Covington,9,3,Covington,F,3,Philadelphia,3
+3,2,2,14,4,29,21,8,38,Ersan,0,0,0,32,0,2,Ersan Ilyasova,20,2,Ilyasova,F,2,Philadelphia,2
+3,2,8,3,1,33,12,6,50,Joel,10,10,100,26,0,6,Joel Embiid,23,8,Embiid,C,0,Philadelphia,4
+1,1,2,2,0,0,6,1,17,Nik,2,2,100,25,1,0,Nik Stauskas,4,3,Stauskas,G,1,Philadelphia,1
+17,0,4,0,0,0,6,4,67,T.J.,2,1,50,37,0,2,T.J. McConnell,9,4,McConnell,G,1,Philadelphia,2
+2,3,6,0,0,0,8,6,75,Nerlens,2,1,50,25,2,5,Nerlens Noel,13,8,Noel,N/A,2,Philadelphia,0
+1,1,4,3,2,67,9,6,67,Gerald,4,4,100,29,0,2,Gerald Henderson,18,4,Henderson,N/A,0,Philadelphia,1
+1,0,5,3,0,0,9,3,33,Dario,2,2,100,23,1,0,Dario Saric,8,6,Saric,N/A,0,Philadelphia,2
+0,0,3,0,0,0,2,1,50,Timothe,0,0,0,8,0,2,Timothe Luwawu-Cabarrot,2,3,Luwawu-Cabarrot,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil Okafor,N/A,N/A,Okafor,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sergio,N/A,N/A,N/A,N/A,N/A,N/A,Sergio Rodriguez,N/A,N/A,Rodriguez,N/A,N/A,Philadelphia,N/A
+3,2,1,2,0,0,4,0,0,Jae,0,0,0,30,1,3,Jae Crowder,0,2,Crowder,F,2,Boston,1
+3,4,5,3,2,67,6,4,67,Amir,4,3,75,26,0,1,Amir Johnson,13,5,Johnson,F,1,Boston,2
+4,2,7,7,4,57,15,7,47,Al,2,1,50,32,5,5,Al Horford,19,12,Horford,C,0,Boston,1
+2,0,7,11,6,55,24,10,42,Avery,0,0,0,36,2,1,Avery Bradley,26,9,Bradley,G,1,Boston,0
+3,0,3,4,2,50,14,6,43,Isaiah,11,10,91,35,1,4,Isaiah Thomas,24,4,Thomas,G,0,Boston,7
+0,0,0,3,1,33,3,1,33,Jonas,0,0,0,14,0,1,Jonas Jerebko,3,0,Jerebko,N/A,0,Boston,1
+8,2,2,5,2,40,12,4,33,Marcus,4,4,100,30,0,1,Marcus Smart,14,2,Smart,N/A,1,Boston,1
+0,0,1,0,0,0,0,0,0,Jaylen,0,0,0,5,0,0,Jaylen Brown,0,1,Brown,N/A,1,Boston,1
+5,0,3,4,1,25,7,2,29,Kelly,4,3,75,18,1,5,Kelly Olynyk,8,4,Olynyk,N/A,0,Boston,1
+0,0,0,1,1,100,1,1,100,Gerald,0,0,0,4,0,1,Gerald Green,3,0,Green,N/A,0,Boston,0
+0,1,1,0,0,0,1,0,0,Terry,0,0,0,11,2,0,Terry Rozier,0,3,Rozier,N/A,0,Boston,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Boston,N/A

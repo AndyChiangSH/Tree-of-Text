@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,5,5,1,20,13,6,46,Hollis,2,2,100,33,1,2,Hollis Thompson,15,6,Thompson,F,1,Philadelphia,1
+2,1,3,1,0,0,12,6,50,Jerami,4,2,50,34,1,2,Jerami Grant,14,4,Grant,F,0,Philadelphia,1
+2,0,6,0,0,0,5,3,60,Nerlens,4,2,50,25,2,4,Nerlens Noel,8,8,Noel,C,0,Philadelphia,3
+0,0,2,7,3,43,14,6,43,Isaiah,0,0,0,30,2,0,Isaiah Canaan,15,4,Canaan,G,0,Philadelphia,2
+4,0,6,1,0,0,15,2,13,Ish,0,0,0,31,3,2,Ish Smith,4,9,Smith,G,3,Philadelphia,1
+0,0,0,0,0,0,3,1,33,Elton,0,0,0,13,0,1,Elton Brand,2,0,Brand,N/A,0,Philadelphia,0
+0,1,0,3,0,0,5,1,20,Nik,2,2,100,15,0,0,Nik Stauskas,4,0,Stauskas,N/A,0,Philadelphia,4
+1,0,3,0,0,0,2,2,100,Sonny,2,1,50,16,0,1,Sonny Weems,5,3,Weems,N/A,0,Philadelphia,0
+0,2,6,0,0,0,6,2,33,Carl,0,0,0,22,1,4,Carl Landry,4,7,Landry,N/A,0,Philadelphia,1
+4,0,3,1,0,0,5,2,40,TJ,0,0,0,21,0,1,TJ McConnell,4,3,McConnell,N/A,0,Philadelphia,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Covington,N/A,N/A,Covington,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kendall,N/A,N/A,N/A,N/A,N/A,N/A,Kendall Marshall,N/A,N/A,Marshall,N/A,N/A,Philadelphia,N/A
+3,0,6,5,1,20,16,4,25,Paul,6,6,100,35,0,3,Paul George,15,6,George,F,2,Indiana,1
+1,3,5,2,0,0,9,5,56,Myles,0,0,0,26,1,3,Myles Turner,10,6,Turner,F,2,Indiana,2
+0,1,8,0,0,0,8,6,75,Ian,1,0,0,31,2,2,Ian Mahinmi,12,10,Mahinmi,C,0,Indiana,4
+5,0,3,7,3,43,12,5,42,Monta,0,0,0,33,0,1,Monta Ellis,13,3,Ellis,G,2,Indiana,2
+4,0,3,2,0,0,8,6,75,George,0,0,0,25,1,2,George Hill,12,4,Hill,G,0,Indiana,0
+1,0,2,4,2,50,12,3,25,Rodney,2,1,50,18,0,2,Rodney Stuckey,9,2,Stuckey,N/A,1,Indiana,1
+1,1,4,0,0,0,2,0,0,Lavoy,2,2,100,19,1,3,Lavoy Allen,2,5,Allen,N/A,0,Indiana,0
+2,0,2,2,2,100,3,2,67,Ty,0,0,0,15,0,2,Ty Lawson,6,2,Lawson,N/A,0,Indiana,1
+0,0,4,0,0,0,5,2,40,Jordan,2,2,100,17,2,0,Jordan Hill,6,6,Hill,N/A,0,Indiana,1
+1,0,1,4,2,50,6,2,33,CJ,0,0,0,18,0,2,CJ Miles,6,1,Miles,N/A,0,Indiana,0
+0,0,0,0,0,0,0,0,0,Solomon,0,0,0,3,0,0,Solomon Hill,0,0,Hill,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Glenn,N/A,N/A,N/A,N/A,N/A,N/A,Glenn Robinson,N/A,N/A,Robinson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A

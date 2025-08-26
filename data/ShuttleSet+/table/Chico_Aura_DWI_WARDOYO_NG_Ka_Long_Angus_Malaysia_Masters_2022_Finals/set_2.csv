@@ -1,0 +1,36 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,12,00:33:30,1,0,Chico Aura DWI WARDOYO,lob,goes out of bounds,opponent goes out of bounds
+2,22,00:34:02,2,0,Chico Aura DWI WARDOYO,lob,goes out of bounds,opponent goes out of bounds
+3,2,00:34:32,3,0,Chico Aura DWI WARDOYO,lob,goes out of bounds,opponent goes out of bounds
+4,5,00:34:48,3,1,NG Ka Long Angus,return net,fails to clear the net,opponent fails to clear the net
+5,5,00:35:15,3,2,NG Ka Long Angus,smash,opponent wins by landing,wins by landing
+6,5,00:35:38,3,3,NG Ka Long Angus,rush,opponent wins by landing,wins by landing
+7,4,00:35:54,4,3,Chico Aura DWI WARDOYO,smash,opponent wins by landing,wins by landing
+9,2,00:36:56,5,4,NG Ka Long Angus,net shot,opponent wins by landing,wins by landing
+10,3,00:37:15,5,5,NG Ka Long Angus,clear,landing judgment error,opponent landing judgment error
+11,5,00:37:35,6,5,Chico Aura DWI WARDOYO,return net,fails to clear the net,opponent fails to clear the net
+12,11,00:38:11,6,6,NG Ka Long Angus,return net,fails to clear the net,opponent fails to clear the net
+13,4,00:38:35,7,6,Chico Aura DWI WARDOYO,wrist smash,opponent wins by landing,wins by landing
+14,4,00:39:18,7,7,NG Ka Long Angus,smash,opponent wins by landing,wins by landing
+15,9,00:39:35,8,7,Chico Aura DWI WARDOYO,return net,fails to clear the net,opponent fails to clear the net
+16,5,00:40:06,8,8,NG Ka Long Angus,return net,goes out of bounds,opponent goes out of bounds
+17,3,00:40:39,9,8,Chico Aura DWI WARDOYO,net shot,fails to clear the net,opponent fails to clear the net
+18,4,00:40:57,9,9,NG Ka Long Angus,smash,opponent wins by landing,wins by landing
+19,4,00:41:35,9,10,NG Ka Long Angus,smash,hits the net,opponent hits the net
+20,3,00:41:50,10,10,Chico Aura DWI WARDOYO,back-court drive,goes out of bounds,opponent goes out of bounds
+21,16,00:42:16,11,10,Chico Aura DWI WARDOYO,lob,goes out of bounds,opponent goes out of bounds
+22,14,00:43:37,12,10,Chico Aura DWI WARDOYO,lob,hits the net,opponent hits the net
+23,32,00:44:24,13,10,Chico Aura DWI WARDOYO,lob,goes out of bounds,opponent goes out of bounds
+24,2,00:44:47,14,10,Chico Aura DWI WARDOYO,lob,goes out of bounds,opponent goes out of bounds
+25,4,00:45:07,15,10,Chico Aura DWI WARDOYO,smash,goes out of bounds,opponent goes out of bounds
+26,9,00:45:28,15,11,NG Ka Long Angus,push,hits the net,opponent hits the net
+27,6,00:45:53,16,11,Chico Aura DWI WARDOYO,drive,opponent wins by landing,wins by landing
+28,16,00:46:25,17,11,Chico Aura DWI WARDOYO,net shot,fails to clear the net,opponent fails to clear the net
+29,20,00:47:02,17,12,NG Ka Long Angus,rush,opponent wins by landing,wins by landing
+30,5,00:47:58,18,12,Chico Aura DWI WARDOYO,unknown,hits the net,opponent hits the net
+31,7,00:48:21,19,12,Chico Aura DWI WARDOYO,rush,opponent wins by landing,wins by landing
+32,6,00:48:39,20,12,Chico Aura DWI WARDOYO,drive,hits the net,opponent hits the net
+33,12,00:49:04,20,13,NG Ka Long Angus,back-court drive,opponent wins by landing,wins by landing
+34,8,00:49:35,20,14,NG Ka Long Angus,return net,fails to clear the net,opponent fails to clear the net
+35,28,00:50:11,20,15,NG Ka Long Angus,drive,fails to clear the net,opponent fails to clear the net
+36,17,00:51:06,21,15,Chico Aura DWI WARDOYO,net shot,fails to clear the net,opponent fails to clear the net

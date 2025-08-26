@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,2,1,50,16,13,81,LeBron,4,3,75,35,1,2,LeBron James,30,6,James,F,1,Cleveland,4
+3,1,9,5,0,0,14,5,36,Kevin,2,1,50,33,3,1,Kevin Love,11,12,Love,F,0,Cleveland,2
+0,0,3,0,0,0,5,3,60,Timofey,1,1,100,20,1,3,Timofey Mozgov,7,4,Mozgov,C,1,Cleveland,1
+2,0,2,8,2,25,10,3,30,JR,0,0,0,32,0,2,JR Smith,8,2,Smith,G,1,Cleveland,2
+4,0,4,8,1,13,22,6,27,Kyrie,0,0,0,36,1,3,Kyrie Irving,13,5,Irving,G,0,Cleveland,0
+3,0,1,0,0,0,5,3,60,Tristan,0,0,0,26,3,2,Tristan Thompson,6,4,Thompson,N/A,0,Cleveland,1
+4,1,2,2,1,50,3,1,33,Matthew,0,0,0,16,0,2,Matthew Dellavedova,3,2,Dellavedova,N/A,0,Cleveland,3
+0,0,4,3,1,33,3,1,33,Iman,0,0,0,16,1,2,Iman Shumpert,3,5,Shumpert,N/A,0,Cleveland,0
+1,0,1,6,1,17,7,1,14,Channing,2,2,100,14,1,1,Channing Frye,5,2,Frye,N/A,0,Cleveland,0
+0,0,3,3,2,67,3,2,67,Richard,0,0,0,10,0,2,Richard Jefferson,6,3,Jefferson,N/A,0,Cleveland,1
+0,0,0,1,1,100,1,1,100,Jordan,0,0,0,0,0,0,Jordan McRae,3,0,McRae,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Jones,N/A,N/A,Jones,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Kaun,N/A,N/A,Kaun,N/A,N/A,Cleveland,N/A
+0,0,1,8,3,38,11,4,36,Bojan,2,1,50,26,0,2,Bojan Bogdanovic,12,1,Bogdanovic,F,0,Brooklyn,3
+2,0,3,0,0,0,9,4,44,Thaddeus,0,0,0,31,3,3,Thaddeus Young,8,6,Young,F,2,Brooklyn,1
+5,0,5,0,0,0,15,8,53,Brook,8,6,75,32,2,4,Brook Lopez,22,7,Lopez,C,1,Brooklyn,1
+2,0,4,3,1,33,5,1,20,Sergey,0,0,0,18,0,1,Sergey Karasev,3,4,Karasev,G,0,Brooklyn,1
+7,0,3,1,1,100,10,7,70,Shane,2,1,50,31,0,1,Shane Larkin,16,3,Larkin,G,0,Brooklyn,2
+1,0,0,6,0,0,13,4,31,Sean,2,2,100,22,0,0,Sean Kilpatrick,10,0,Kilpatrick,N/A,1,Brooklyn,0
+2,0,6,0,0,0,8,5,63,Rondae,0,0,0,17,1,1,Rondae Hollis-Jefferson,10,7,Hollis-Jefferson,N/A,3,Brooklyn,0
+1,0,3,2,1,50,6,2,33,Chris,0,0,0,17,3,2,Chris McCullough,5,6,McCullough,N/A,2,Brooklyn,0
+1,3,2,0,0,0,5,1,20,Henry,3,2,67,16,0,1,Henry Sims,4,2,Sims,N/A,0,Brooklyn,1
+6,0,6,1,1,100,3,2,67,Donald,0,0,0,17,0,0,Donald Sloan,5,6,Sloan,N/A,0,Brooklyn,0
+1,2,3,1,1,100,4,3,75,Markel,2,2,100,13,1,1,Markel Brown,9,4,Brown,N/A,1,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wayne,N/A,N/A,N/A,N/A,N/A,N/A,Wayne Ellington,N/A,N/A,Ellington,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thomas,N/A,N/A,N/A,N/A,N/A,N/A,Thomas Robinson,N/A,N/A,Robinson,N/A,N/A,Brooklyn,N/A

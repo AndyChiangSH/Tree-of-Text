@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,5,5,1,20,9,3,33,Robert,0,0,0,31,2,1,Robert Covington,7,7,Covington,F,1,Philadelphia,2
+4,0,6,6,2,33,16,9,56,Ersan,4,3,75,32,2,2,Ersan Ilyasova,23,8,Ilyasova,F,1,Philadelphia,1
+2,4,4,5,0,0,15,5,33,Joel,5,4,80,27,3,3,Joel Embiid,14,7,Embiid,C,3,Philadelphia,3
+1,0,4,1,0,0,6,1,17,Gerald,0,0,0,24,0,2,Gerald Henderson,2,4,Henderson,G,1,Philadelphia,1
+8,0,2,8,4,50,13,6,46,Sergio,0,0,0,30,0,2,Sergio Rodriguez,16,2,Rodriguez,G,1,Philadelphia,1
+1,1,3,6,2,33,11,5,46,Dario,1,1,100,25,2,2,Dario Saric,13,5,Saric,N/A,0,Philadelphia,1
+5,0,1,5,3,60,7,5,71,Nik,1,1,100,22,1,0,Nik Stauskas,14,2,Stauskas,N/A,0,Philadelphia,0
+1,2,7,0,0,0,6,4,67,Richaun,2,0,0,20,0,4,Richaun Holmes,8,7,Holmes,N/A,0,Philadelphia,0
+0,0,0,2,0,0,2,0,0,Timothe,0,0,0,3,0,2,Timothe Luwawu-Cabarrot,0,0,Luwawu-Cabarrot,N/A,0,Philadelphia,0
+4,0,2,1,0,0,5,1,20,TJ,0,0,0,19,1,2,TJ McConnell,2,3,McConnell,N/A,1,Philadelphia,1
+0,0,1,1,0,0,1,0,0,Hollis,0,0,0,7,0,0,Hollis Thompson,0,1,Thompson,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd Bayless,N/A,N/A,Bayless,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil Okafor,N/A,N/A,Okafor,N/A,N/A,Philadelphia,N/A
+3,0,3,3,1,33,7,3,43,Solomon,2,1,50,38,1,2,Solomon Hill,8,4,Hill,F,0,New Orleans,3
+2,2,10,2,0,0,21,8,38,Anthony,12,10,83,41,1,1,Anthony Davis,26,11,Davis,F,0,New Orleans,3
+0,0,3,0,0,0,6,4,67,Alexis,0,0,0,14,1,4,Alexis Ajinca,8,4,Ajinca,C,0,New Orleans,0
+2,0,4,6,2,33,12,2,17,Buddy,0,0,0,34,0,1,Buddy Hield,6,4,Hield,G,0,New Orleans,1
+6,0,4,3,1,33,7,3,43,Tim,0,0,0,29,2,3,Tim Frazier,7,6,Frazier,G,0,New Orleans,3
+2,0,4,0,0,0,4,3,75,Omer,3,2,67,20,5,3,Omer Asik,8,9,Asik,N/A,1,New Orleans,0
+2,0,3,6,3,50,16,8,50,Langston,1,0,0,28,1,2,Langston Galloway,19,4,Galloway,N/A,1,New Orleans,1
+1,0,2,3,0,0,7,0,0,Anthony,0,0,0,18,0,0,Anthony Brown,0,2,Brown,N/A,1,New Orleans,0
+0,0,3,2,0,0,4,2,50,Terrence,4,2,50,19,0,1,Terrence Jones,6,3,Jones,N/A,0,New Orleans,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dante,N/A,N/A,N/A,N/A,N/A,N/A,Dante Cunningham,N/A,N/A,Cunningham,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cheick,N/A,N/A,N/A,N/A,N/A,N/A,Cheick Diallo,N/A,N/A,Diallo,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jrue,N/A,N/A,N/A,N/A,N/A,N/A,Jrue Holiday,N/A,N/A,Holiday,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun Moore,N/A,N/A,Moore,N/A,N/A,New Orleans,N/A

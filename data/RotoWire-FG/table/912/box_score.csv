@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,2,5,2,40,8,3,38,Wesley,2,2,100,30,0,1,Wesley Matthews,10,2,Matthews,F,1,Dallas,0
+0,0,4,4,0,0,11,4,36,Harrison,1,1,100,30,0,2,Harrison Barnes,9,4,Barnes,F,0,Dallas,2
+2,3,10,7,1,14,14,5,36,Dirk,1,1,100,32,0,5,Dirk Nowitzki,12,10,Nowitzki,C,0,Dallas,1
+12,0,3,4,1,25,17,8,47,J.J.,0,0,0,32,0,0,J.J. Barea,17,3,Barea,G,1,Dallas,1
+0,0,5,4,0,0,11,2,18,Dennis,4,3,75,23,2,3,Dennis Smith Jr.,7,7,Smith,G,0,Dallas,5
+0,0,3,0,0,0,0,0,0,Salah,0,0,0,10,1,2,Salah Mejri,0,4,Mejri,N/A,1,Dallas,2
+4,0,5,6,3,50,11,5,46,Yogi,0,0,0,35,0,2,Yogi Ferrell,13,5,Ferrell,N/A,1,Dallas,3
+0,0,1,0,0,0,0,0,0,Kyle,0,0,0,2,0,1,Kyle Collinsworth,0,1,Collinsworth,N/A,0,Dallas,1
+0,0,1,4,3,75,6,4,67,Doug,2,1,50,21,0,4,Doug McDermott,12,1,McDermott,N/A,1,Dallas,0
+1,1,5,1,0,0,5,3,60,Dwight,4,4,100,25,2,3,Dwight Powell,10,7,Powell,N/A,1,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Seth,N/A,N/A,N/A,N/A,N/A,N/A,Seth Curry,N/A,N/A,Curry,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Maxi,N/A,N/A,N/A,N/A,N/A,N/A,Maxi Kleber,N/A,N/A,Kleber,N/A,N/A,Dallas,N/A
+8,2,4,8,2,25,12,4,33,Joe,2,2,100,34,0,3,Joe Ingles,12,4,Ingles,F,2,Utah,3
+1,1,4,1,0,0,11,6,55,Derrick,4,2,50,31,2,3,Derrick Favors,14,6,Favors,F,0,Utah,0
+1,0,9,0,0,0,6,5,83,Rudy,6,3,50,35,1,3,Rudy Gobert,13,10,Gobert,C,0,Utah,2
+5,0,6,8,4,50,20,8,40,Donovan,6,5,83,37,0,2,Donovan Mitchell,25,6,Mitchell,G,2,Utah,2
+6,0,3,4,1,25,9,2,22,Ricky,2,2,100,29,2,2,Ricky Rubio,7,5,Rubio,G,1,Utah,1
+1,0,2,6,1,17,12,4,33,Jae,2,2,100,28,1,3,Jae Crowder,11,3,Crowder,N/A,1,Utah,1
+1,0,4,0,0,0,1,0,0,Jonas,2,2,100,13,0,0,Jonas Jerebko,2,4,Jerebko,N/A,0,Utah,1
+3,0,1,3,1,33,6,2,33,Royce,2,2,100,19,3,2,Royce O'Neale,7,4,O'Neale,N/A,0,Utah,0
+0,0,2,2,0,0,8,3,38,Alec,0,0,0,13,0,1,Alec Burks,6,2,Burks,N/A,0,Utah,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Naz,N/A,N/A,N/A,N/A,N/A,N/A,Naz Mitrou-Long,N/A,N/A,Mitrou-Long,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Raul,N/A,N/A,N/A,N/A,N/A,N/A,Raul Neto,N/A,N/A,Neto,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe Udoh,N/A,N/A,Udoh,N/A,N/A,Utah,N/A

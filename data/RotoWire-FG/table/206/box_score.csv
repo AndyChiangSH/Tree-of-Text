@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,2,5,1,20,20,7,35,Kobe,7,6,86,34,0,1,Kobe Bryant,21,2,Bryant,F,0,Los Angeles,1
+4,1,5,0,0,0,13,8,62,Julius,2,0,0,30,1,3,Julius Randle,16,6,Randle,F,3,Los Angeles,1
+2,0,5,0,0,0,4,1,25,Roy,5,4,80,30,1,4,Roy Hibbert,6,6,Hibbert,C,0,Los Angeles,1
+4,0,3,5,2,40,15,8,53,Jordan,2,1,50,36,0,1,Jordan Clarkson,19,3,Clarkson,G,4,Los Angeles,2
+5,0,4,4,2,50,11,6,55,D'Angelo,2,2,100,38,0,4,D'Angelo Russell,16,4,Russell,G,0,Los Angeles,2
+0,0,2,0,0,0,2,1,50,Larry,1,1,100,18,1,2,Larry Nance Jr.,3,3,Nance,N/A,2,Los Angeles,1
+2,1,2,0,0,0,4,1,25,Brandon,4,3,75,18,1,2,Brandon Bass,5,3,Bass,N/A,0,Los Angeles,0
+1,0,3,3,0,0,6,2,33,Metta,0,0,0,20,2,1,Metta World Peace,4,5,World,N/A,2,Los Angeles,1
+0,0,1,6,2,33,7,2,29,Nick,0,0,0,15,0,1,Nick Young,6,1,Young,N/A,1,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo Huertas,N/A,N/A,Huertas,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Sacre,N/A,N/A,Sacre,N/A,N/A,Los Angeles,N/A
+3,0,7,3,0,0,6,2,33,Al-Farouq,2,1,50,28,2,1,Al-Farouq Aminu,5,9,Aminu,F,0,Portland,1
+1,0,4,0,0,0,2,2,100,Noah,0,0,0,20,1,1,Noah Vonleh,4,5,Vonleh,F,1,Portland,1
+4,0,1,0,0,0,5,2,40,Mason,3,2,67,24,3,5,Mason Plumlee,6,4,Plumlee,C,1,Portland,3
+1,0,2,7,4,57,20,12,60,CJ,0,0,0,34,0,2,CJ McCollum,28,2,McCollum,G,1,Portland,1
+7,1,3,11,5,46,19,9,47,Damian,7,6,86,36,1,2,Damian Lillard,29,4,Lillard,G,0,Portland,5
+3,0,4,1,0,0,4,2,50,Maurice,4,3,75,26,4,1,Maurice Harkless,7,8,Harkless,N/A,0,Portland,1
+2,1,5,5,1,20,7,3,43,Meyers,0,0,0,22,1,1,Meyers Leonard,7,6,Leonard,N/A,0,Portland,0
+1,0,2,1,1,100,7,3,43,Allen,2,2,100,17,0,1,Allen Crabbe,9,2,Crabbe,N/A,0,Portland,2
+2,0,4,0,0,0,3,1,33,Ed,4,2,50,24,0,2,Ed Davis,4,4,Davis,N/A,1,Portland,1
+0,0,2,2,1,50,5,2,40,Gerald,4,4,100,8,0,0,Gerald Henderson,9,2,Henderson,N/A,1,Portland,0
+0,0,0,0,0,0,0,0,0,Pat,0,0,0,1,0,0,Pat Connaughton,0,0,Connaughton,N/A,0,Portland,0
+0,0,0,0,0,0,0,0,0,Tim,0,0,0,1,0,0,Tim Frazier,0,0,Frazier,N/A,0,Portland,0
+0,0,0,0,0,0,0,0,0,Cliff,0,0,0,1,0,0,Cliff Alexander,0,0,Alexander,N/A,0,Portland,1

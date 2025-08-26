@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,2,4,1,25,6,2,33,Solomon,0,0,0,18,0,4,Solomon Hill,5,2,Hill,F,1,New Orleans,1
+4,2,9,3,0,0,17,4,24,Anthony,6,6,100,44,3,4,Anthony Davis,14,12,Davis,F,1,New Orleans,3
+0,0,4,0,0,0,5,3,60,Alexis,2,1,50,12,1,2,Alexis Ajinca,7,5,Ajinca,C,2,New Orleans,1
+0,0,1,4,2,50,7,3,43,Buddy,2,1,50,13,0,0,Buddy Hield,9,1,Hield,G,0,New Orleans,0
+3,0,1,8,2,25,18,7,39,Jrue,9,7,78,40,2,5,Jrue Holiday,23,3,Holiday,G,2,New Orleans,2
+3,1,4,3,1,33,9,2,22,Terrence,2,1,50,25,2,0,Terrence Jones,6,6,Jones,N/A,0,New Orleans,1
+0,0,0,7,4,57,7,4,57,Langston,0,0,0,19,0,2,Langston Galloway,12,0,Galloway,N/A,0,New Orleans,0
+0,0,2,4,2,50,7,3,43,E'Twaun,2,1,50,22,0,3,E'Twaun Moore,9,2,Moore,N/A,1,New Orleans,2
+11,1,8,2,0,0,10,4,40,Tim,7,6,86,38,3,4,Tim Frazier,14,11,Frazier,N/A,5,New Orleans,1
+1,0,2,5,4,80,8,5,63,Reggie,3,3,100,20,1,0,Reggie Williams,17,3,Williams,N/A,0,New Orleans,0
+0,0,0,0,0,0,0,0,0,Omer,0,0,0,4,0,1,Omer Asik,0,0,Asik,N/A,0,New Orleans,0
+0,0,2,0,0,0,3,1,33,Cheick,2,2,100,9,2,2,Cheick Diallo,4,4,Diallo,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dante,N/A,N/A,N/A,N/A,N/A,N/A,Dante Cunningham,N/A,N/A,Cunningham,N/A,N/A,New Orleans,N/A
+3,2,8,6,3,50,11,3,27,PJ,0,0,0,42,2,4,PJ Tucker,9,10,Tucker,F,1,Phoenix,0
+1,0,5,3,0,0,5,1,20,Marquese,6,3,50,17,0,4,Marquese Chriss,5,5,Chriss,F,0,Phoenix,0
+0,0,14,0,0,0,6,5,83,Tyson,5,4,80,36,7,2,Tyson Chandler,14,21,Chandler,C,0,Phoenix,2
+5,0,5,8,2,25,15,6,40,Devin,3,2,67,38,0,1,Devin Booker,16,5,Booker,G,1,Phoenix,4
+8,0,2,11,3,27,26,13,50,Eric,4,3,75,40,1,6,Eric Bledsoe,32,3,Bledsoe,G,2,Phoenix,4
+2,0,2,1,0,0,6,3,50,Brandon,2,1,50,16,0,1,Brandon Knight,7,2,Knight,N/A,1,Phoenix,1
+1,0,1,5,4,80,6,4,67,Jared,0,0,0,19,2,1,Jared Dudley,12,3,Dudley,N/A,0,Phoenix,2
+1,1,3,0,0,0,5,1,20,Alex,6,4,67,15,1,4,Alex Len,6,4,Len,N/A,0,Phoenix,0
+0,0,3,5,2,40,14,8,57,Leandro,0,0,0,33,0,4,Leandro Barbosa,18,3,Barbosa,N/A,0,Phoenix,3
+0,0,0,2,0,0,2,0,0,Dragan,0,0,0,6,1,0,Dragan Bender,0,1,Bender,N/A,0,Phoenix,0
+0,0,0,0,0,0,0,0,0,Tyler,0,0,0,2,0,0,Tyler Ulis,0,0,Ulis,N/A,1,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Jenkins,N/A,N/A,Jenkins,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Williams,N/A,N/A,Williams,N/A,N/A,Phoenix,N/A

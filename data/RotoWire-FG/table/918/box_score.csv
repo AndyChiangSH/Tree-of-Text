@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,4,1,0,0,9,3,33,Michael,0,0,0,25,2,1,Michael Beasley,6,6,Beasley,F,0,New York,5
+0,1,4,7,2,29,21,11,52,Tim,0,0,0,37,0,3,Tim Hardaway Jr.,24,4,Hardaway,F,0,New York,0
+1,0,8,0,0,0,10,7,70,Enes,0,0,0,22,8,0,Enes Kanter,14,16,Kanter,C,2,New York,1
+3,0,1,3,0,0,6,0,0,Emmanuel,2,0,0,19,0,2,Emmanuel Mudiay,0,1,Mudiay,G,0,New York,0
+0,0,4,3,2,67,6,4,67,Courtney,1,0,0,25,0,2,Courtney Lee,10,4,Lee,G,1,New York,1
+5,0,1,2,1,50,7,2,29,Frank,2,2,100,23,0,1,Frank Ntilikina,7,1,Ntilikina,N/A,0,New York,0
+4,3,6,0,0,0,6,4,67,Kyle,6,6,100,26,2,3,Kyle O'Quinn,14,8,O'Quinn,N/A,2,New York,2
+0,0,2,1,0,0,5,1,20,Troy,3,2,67,13,1,3,Troy Williams,4,3,Williams,N/A,1,New York,1
+0,0,2,2,1,50,4,1,25,Lance,2,2,100,14,1,2,Lance Thomas,5,3,Thomas,N/A,1,New York,0
+6,2,1,2,0,0,10,5,50,Trey,2,1,50,27,1,1,Trey Burke,11,2,Burke,N/A,1,New York,2
+0,0,0,0,0,0,4,2,50,Isaiah,0,0,0,9,0,1,Isaiah Hicks,4,0,Hicks,N/A,0,New York,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damyean,N/A,N/A,N/A,N/A,N/A,N/A,Damyean Dotson,N/A,N/A,Dotson,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett Jack,N/A,N/A,Jack,N/A,N/A,New York,N/A
+2,0,4,6,1,17,15,5,33,Justin,1,1,100,25,2,1,Justin Jackson,12,6,Jackson,F,0,Sacramento,1
+3,3,5,1,1,100,10,5,50,Skal,3,3,100,34,1,2,Skal Labissiere,14,6,Labissiere,F,0,Sacramento,0
+1,0,5,0,0,0,10,6,60,Kosta,0,0,0,26,3,3,Kosta Koufos,12,8,Koufos,C,0,Sacramento,2
+7,0,1,5,3,60,11,7,64,Bogdan,5,5,100,27,0,1,Bogdan Bogdanovic,22,1,Bogdanovic,G,1,Sacramento,0
+2,0,2,4,2,50,12,4,33,De'Aaron,0,0,0,29,1,2,De'Aaron Fox,10,3,Fox,G,1,Sacramento,3
+0,0,4,5,3,60,6,3,50,Vince,0,0,0,24,0,3,Vince Carter,9,4,Carter,N/A,0,Sacramento,1
+1,0,4,4,2,50,10,5,50,Buddy,0,0,0,27,0,1,Buddy Hield,12,4,Hield,N/A,1,Sacramento,3
+1,0,2,0,0,0,6,3,50,Frank,2,2,100,19,0,2,Frank Mason,8,2,Mason,N/A,1,Sacramento,1
+4,1,2,4,1,25,4,1,25,Garrett,0,0,0,21,0,2,Garrett Temple,3,2,Temple,N/A,1,Sacramento,0
+0,1,2,1,0,0,2,0,0,Bruno,0,0,0,8,0,1,Bruno Caboclo,0,2,Caboclo,N/A,0,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zach,N/A,N/A,N/A,N/A,N/A,N/A,Zach Randolph,N/A,N/A,Randolph,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Iman,N/A,N/A,N/A,N/A,N/A,N/A,Iman Shumpert,N/A,N/A,Shumpert,N/A,N/A,Sacramento,N/A

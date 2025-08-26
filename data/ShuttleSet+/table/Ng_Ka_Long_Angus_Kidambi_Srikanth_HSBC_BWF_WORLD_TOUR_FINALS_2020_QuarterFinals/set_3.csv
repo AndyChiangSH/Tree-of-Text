@@ -1,0 +1,40 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,16,00:44:26,1,0,NG Ka Long Angus,clear,goes out of bounds,opponent goes out of bounds
+2,5,00:44:47,1,1,KIDAMBI Srikanth,net shot,fails to clear the net,opponent fails to clear the net
+3,7,00:45:08,2,1,NG Ka Long Angus,lob,hits the net,opponent hits the net
+4,5,00:45:28,3,1,NG Ka Long Angus,wrist smash,opponent wins by landing,wins by landing
+5,11,00:45:52,3,2,KIDAMBI Srikanth,return net,fails to clear the net,opponent fails to clear the net
+6,11,00:46:28,4,2,NG Ka Long Angus,back-court drive,goes out of bounds,opponent goes out of bounds
+7,24,00:47:09,5,2,NG Ka Long Angus,drop,goes out of bounds,opponent goes out of bounds
+9,10,00:47:53,6,3,KIDAMBI Srikanth,smash,opponent wins by landing,wins by landing
+10,6,00:48:30,7,3,NG Ka Long Angus,smash,opponent wins by landing,wins by landing
+11,13,00:48:55,7,4,KIDAMBI Srikanth,return net,fails to clear the net,opponent fails to clear the net
+12,4,00:49:20,8,4,NG Ka Long Angus,smash,opponent wins by landing,wins by landing
+13,5,00:49:38,8,5,KIDAMBI Srikanth,return net,fails to clear the net,opponent fails to clear the net
+14,43,00:50:52,8,6,KIDAMBI Srikanth,smash,opponent wins by landing,wins by landing
+15,17,00:52:19,9,6,NG Ka Long Angus,wrist smash,hits the net,opponent hits the net
+16,8,00:52:45,9,7,KIDAMBI Srikanth,rush,opponent wins by landing,wins by landing
+17,14,00:53:23,9,8,KIDAMBI Srikanth,return net,fails to clear the net,opponent fails to clear the net
+18,17,00:54:02,10,8,NG Ka Long Angus,smash,goes out of bounds,opponent goes out of bounds
+19,16,00:54:43,11,8,NG Ka Long Angus,return net,fails to clear the net,opponent fails to clear the net
+20,10,00:56:25,12,8,NG Ka Long Angus,return net,hits the net,opponent hits the net
+21,19,00:56:56,12,9,KIDAMBI Srikanth,net shot,fails to clear the net,opponent fails to clear the net
+22,2,00:57:40,12,10,KIDAMBI Srikanth,lob,goes out of bounds,opponent goes out of bounds
+23,6,00:57:59,13,10,NG Ka Long Angus,smash,opponent wins by landing,wins by landing
+24,7,00:58:48,13,11,KIDAMBI Srikanth,net shot,hits the net,opponent hits the net
+25,20,00:59:22,14,11,NG Ka Long Angus,push,opponent wins by landing,wins by landing
+26,8,00:59:49,14,12,KIDAMBI Srikanth,rush,opponent wins by landing,wins by landing
+27,4,01:00:13,14,13,KIDAMBI Srikanth,return net,fails to clear the net,opponent fails to clear the net
+28,3,01:00:35,14,14,KIDAMBI Srikanth,push,opponent wins by landing,wins by landing
+29,9,01:01:05,14,15,KIDAMBI Srikanth,smash,opponent wins by landing,wins by landing
+30,14,01:01:45,15,15,NG Ka Long Angus,smash,opponent wins by landing,wins by landing
+31,13,01:02:26,15,16,KIDAMBI Srikanth,push,hits the net,opponent hits the net
+32,13,01:02:59,16,16,NG Ka Long Angus,return net,hits the net,opponent hits the net
+33,30,01:03:48,17,16,NG Ka Long Angus,clear,goes out of bounds,opponent goes out of bounds
+34,24,01:05:06,17,17,KIDAMBI Srikanth,lob,opponent wins by landing,wins by landing
+35,14,01:05:45,18,17,NG Ka Long Angus,net shot,opponent wins by landing,wins by landing
+36,3,01:06:14,19,17,NG Ka Long Angus,lob,opponent wins by landing,wins by landing
+37,43,01:07:45,19,18,KIDAMBI Srikanth,return net,hits the net,opponent hits the net
+38,13,01:09:06,19,19,KIDAMBI Srikanth,rush,opponent wins by landing,wins by landing
+39,5,01:09:51,20,19,NG Ka Long Angus,lob,hits the net,opponent hits the net
+40,19,01:10:28,21,19,NG Ka Long Angus,drive,opponent wins by landing,wins by landing

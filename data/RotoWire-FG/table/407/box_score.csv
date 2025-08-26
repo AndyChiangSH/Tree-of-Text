@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,0,2,0,0,6,0,0,Andre,4,1,25,27,5,1,Andre Roberson,1,5,Roberson,F,3,Oklahoma City,0
+1,0,3,4,0,0,8,3,38,Domantas,2,1,50,28,0,5,Domantas Sabonis,7,3,Sabonis,F,0,Oklahoma City,1
+1,0,3,0,0,0,6,3,50,Steven,0,0,0,20,1,1,Steven Adams,6,4,Adams,C,1,Oklahoma City,3
+2,1,1,7,1,14,14,7,50,Victor,8,8,100,40,0,3,Victor Oladipo,23,1,Oladipo,G,2,Oklahoma City,2
+10,0,9,5,4,80,21,11,52,Russell,11,10,91,36,2,1,Russell Westbrook,36,11,Westbrook,G,4,Oklahoma City,7
+1,0,2,4,3,75,5,3,60,Alex,5,4,80,17,1,4,Alex Abrines,13,3,Abrines,N/A,1,Oklahoma City,2
+2,1,5,1,0,0,18,10,56,Enes,11,9,82,32,7,5,Enes Kanter,29,12,Kanter,N/A,1,Oklahoma City,4
+1,0,1,3,0,0,7,2,29,Cameron,0,0,0,18,1,4,Cameron Payne,4,2,Payne,N/A,2,Oklahoma City,0
+0,1,2,1,1,100,2,1,50,Jerami,0,0,0,19,0,2,Jerami Grant,3,2,Grant,N/A,0,Oklahoma City,0
+1,0,1,1,0,0,3,0,0,Joffrey,0,0,0,4,0,2,Joffrey Lauvergne,0,1,Lauvergne,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Morrow,N/A,N/A,Morrow,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Singler,N/A,N/A,Singler,N/A,N/A,Oklahoma City,N/A
+2,2,8,5,2,40,18,6,33,Rudy,9,8,89,36,2,4,Rudy Gay,22,10,Gay,F,2,Sacramento,3
+2,1,4,4,2,50,6,4,67,Anthony,0,0,0,32,0,3,Anthony Tolliver,10,4,Tolliver,F,2,Sacramento,2
+7,1,5,6,1,17,20,8,40,DeMarcus,17,14,82,34,6,2,DeMarcus Cousins,31,11,Cousins,C,3,Sacramento,6
+3,0,4,2,0,0,6,3,50,Garrett,2,2,100,24,0,2,Garrett Temple,8,4,Temple,G,0,Sacramento,0
+2,0,1,3,2,67,9,7,78,Darren,6,5,83,27,0,4,Darren Collison,21,1,Collison,G,2,Sacramento,1
+0,1,3,1,1,100,5,2,40,Arron,2,2,100,18,0,1,Arron Afflalo,7,3,Afflalo,N/A,0,Sacramento,4
+1,1,0,0,0,0,6,3,50,Kosta,0,0,0,16,1,5,Kosta Koufos,6,1,Koufos,N/A,2,Sacramento,2
+4,0,1,2,0,0,3,0,0,Ty,4,4,100,21,0,1,Ty Lawson,4,1,Lawson,N/A,1,Sacramento,1
+3,0,4,2,1,50,6,3,50,Matt,0,0,0,27,4,5,Matt Barnes,7,8,Barnes,N/A,1,Sacramento,2
+0,0,0,0,0,0,2,1,50,Willie,0,0,0,5,1,2,Willie Cauley-Stein,2,1,Cauley-Stein,N/A,0,Sacramento,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omri,N/A,N/A,N/A,N/A,N/A,N/A,Omri Casspi,N/A,N/A,Casspi,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ben,N/A,N/A,N/A,N/A,N/A,N/A,Ben McLemore,N/A,N/A,McLemore,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malachi,N/A,N/A,N/A,N/A,N/A,N/A,Malachi Richardson,N/A,N/A,Richardson,N/A,N/A,Sacramento,N/A

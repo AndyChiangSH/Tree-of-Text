@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,5,3,0,0,11,2,18,Bojan,2,2,100,35,0,2,Bojan Bogdanovic,6,5,Bogdanovic,F,0,Indiana,0
+3,1,3,2,0,0,13,6,46,Thaddeus,0,0,0,33,4,3,Thaddeus Young,12,7,Young,F,0,Indiana,1
+1,1,5,3,1,33,11,7,64,Myles,2,2,100,34,1,2,Myles Turner,17,6,Turner,C,0,Indiana,0
+6,3,7,8,3,38,22,14,64,Victor,7,5,71,39,0,1,Victor Oladipo,36,7,Oladipo,G,3,Indiana,2
+6,0,3,4,2,50,13,5,38,Darren,5,4,80,34,2,4,Darren Collison,16,5,Collison,G,2,Indiana,3
+0,0,3,0,0,0,10,2,20,Domantas,4,2,50,20,5,2,Domantas Sabonis,6,8,Sabonis,N/A,1,Indiana,2
+3,0,4,3,1,33,9,2,22,Cory,2,2,100,22,0,0,Cory Joseph,7,4,Joseph,N/A,1,Indiana,1
+0,0,0,0,0,0,3,2,67,TJ,0,0,0,4,2,0,TJ Leaf,4,2,Leaf,N/A,0,Indiana,0
+0,0,1,3,1,33,10,5,50,Lance,0,0,0,19,1,3,Lance Stephenson,11,2,Stephenson,N/A,0,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Al,N/A,N/A,N/A,N/A,N/A,N/A,Al Jefferson,N/A,N/A,Jefferson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damien,N/A,N/A,N/A,N/A,N/A,N/A,Damien Wilkins,N/A,N/A,Wilkins,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+1,0,1,2,0,0,5,2,40,OG,1,1,100,20,0,2,OG Anunoby,5,1,Anunoby,F,1,Toronto,1
+0,2,7,4,3,75,10,6,60,Serge,0,0,0,25,1,3,Serge Ibaka,15,8,Ibaka,F,0,Toronto,2
+1,1,4,0,0,0,11,6,55,Jonas,1,1,100,21,3,2,Jonas Valanciunas,13,7,Valanciunas,C,0,Toronto,1
+5,1,3,1,0,0,21,9,43,DeMar,10,8,80,34,2,0,DeMar DeRozan,26,5,DeRozan,G,2,Toronto,2
+8,0,6,9,3,33,11,4,36,Kyle,0,0,0,35,1,2,Kyle Lowry,11,7,Lowry,G,0,Toronto,3
+0,2,3,0,0,0,8,8,100,Jakob,5,2,40,25,3,3,Jakob Poeltl,18,6,Poeltl,N/A,1,Toronto,0
+1,1,3,7,2,29,7,2,29,CJ,1,1,100,16,0,2,CJ Miles,7,3,Miles,N/A,1,Toronto,0
+3,0,1,3,0,0,7,2,29,Pascal,2,0,0,24,2,1,Pascal Siakam,4,3,Siakam,N/A,0,Toronto,3
+6,0,4,1,1,100,9,5,56,Fred,0,0,0,24,0,2,Fred VanVleet,11,4,VanVleet,N/A,1,Toronto,0
+4,1,3,5,1,20,8,4,50,Norman,1,1,100,15,0,1,Norman Powell,10,3,Powell,N/A,0,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lorenzo,N/A,N/A,N/A,N/A,N/A,N/A,Lorenzo Brown,N/A,N/A,Brown,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alfonzo,N/A,N/A,N/A,N/A,N/A,N/A,Alfonzo McKinnie,N/A,N/A,McKinnie,N/A,N/A,Toronto,N/A

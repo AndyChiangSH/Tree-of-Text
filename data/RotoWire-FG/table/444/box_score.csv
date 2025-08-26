@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,5,2,0,0,8,2,25,PJ,0,0,0,36,1,4,PJ Tucker,4,6,Tucker,F,5,Phoenix,1
+2,0,1,2,1,50,6,2,33,Marquese,2,1,50,17,3,2,Marquese Chriss,6,4,Chriss,F,1,Phoenix,2
+0,0,11,0,0,0,2,2,100,Tyson,8,5,63,32,1,3,Tyson Chandler,9,12,Chandler,C,0,Phoenix,4
+3,1,1,5,1,20,15,6,40,Devin,6,5,83,29,1,2,Devin Booker,18,2,Booker,G,0,Phoenix,2
+3,2,1,4,3,75,20,9,45,Eric,9,6,67,33,0,1,Eric Bledsoe,27,1,Bledsoe,G,2,Phoenix,3
+0,2,4,0,0,0,1,0,0,Alex,2,1,50,20,1,2,Alex Len,1,5,Len,N/A,0,Phoenix,1
+4,0,2,2,0,0,13,8,62,Brandon,5,5,100,29,0,4,Brandon Knight,21,2,Knight,N/A,0,Phoenix,3
+1,0,0,0,0,0,5,0,0,TJ,0,0,0,10,1,1,TJ Warren,0,1,Warren,N/A,0,Phoenix,0
+2,0,0,2,2,100,6,4,67,Leandro,0,0,0,14,0,0,Leandro Barbosa,10,0,Barbosa,N/A,2,Phoenix,0
+0,0,1,4,2,50,6,4,67,Jared,3,2,67,22,0,4,Jared Dudley,12,1,Dudley,N/A,1,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dragan,N/A,N/A,N/A,N/A,N/A,N/A,Dragan Bender,N/A,N/A,Bender,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ulis,N/A,N/A,Ulis,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Williams,N/A,N/A,Williams,N/A,N/A,Phoenix,N/A
+2,0,4,2,1,50,20,11,55,Andrew,4,3,75,39,0,5,Andrew Wiggins,26,4,Wiggins,F,3,Minnesota,3
+1,2,5,0,0,0,10,5,50,Gorgui,0,0,0,40,4,5,Gorgui Dieng,10,9,Dieng,F,1,Minnesota,2
+3,2,11,3,1,33,18,11,61,Karl-Anthony,5,5,100,35,4,4,Karl-Anthony Towns,28,15,Towns,C,0,Minnesota,4
+3,1,2,8,4,50,16,7,44,Zach,5,5,100,36,2,2,Zach LaVine,23,4,LaVine,G,1,Minnesota,2
+12,0,3,2,0,0,5,1,20,Ricky,6,6,100,37,0,2,Ricky Rubio,8,3,Rubio,G,2,Minnesota,3
+2,0,1,1,0,0,8,3,38,Shabazz,2,2,100,21,1,2,Shabazz Muhammad,8,2,Muhammad,N/A,0,Minnesota,1
+0,0,0,0,0,0,1,1,100,Cole,2,2,100,8,0,1,Cole Aldrich,4,0,Aldrich,N/A,0,Minnesota,1
+1,2,3,1,1,100,6,3,50,Kris,1,1,100,11,0,1,Kris Dunn,8,3,Dunn,N/A,1,Minnesota,3
+2,0,1,2,0,0,2,0,0,Nemanja,0,0,0,13,0,3,Nemanja Bjelica,0,1,Bjelica,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyus,N/A,N/A,N/A,N/A,N/A,N/A,Tyus Jones,N/A,N/A,Jones,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Minnesota,N/A

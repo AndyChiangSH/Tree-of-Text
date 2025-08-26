@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,2,7,1,1,100,9,6,67,Giannis,6,3,50,30,5,4,Giannis Antetokounmpo,16,12,Antetokounmpo,F,1,Milwaukee,4
+1,1,0,0,0,0,8,3,38,Johnny,6,4,67,22,2,1,Johnny O'Bryant III,10,2,O'Bryant,F,0,Milwaukee,0
+3,0,10,0,0,0,12,6,50,Zaza,4,4,100,31,4,4,Zaza Pachulia,16,14,Pachulia,C,2,Milwaukee,2
+5,0,0,3,1,33,14,6,43,Brandon,5,4,80,32,2,0,Brandon Knight,17,2,Knight,G,0,Milwaukee,3
+3,0,4,2,1,50,6,2,33,Khris,3,3,100,22,1,2,Khris Middleton,8,5,Middleton,G,2,Milwaukee,1
+0,0,2,1,0,0,3,1,33,Jared,0,0,0,21,0,0,Jared Dudley,2,2,Dudley,N/A,3,Milwaukee,2
+0,0,1,0,0,0,3,2,67,John,0,0,0,11,0,5,John Henson,4,1,Henson,N/A,0,Milwaukee,2
+2,1,5,4,0,0,9,2,22,O.J.,0,0,0,25,0,1,O.J. Mayo,4,5,Mayo,N/A,1,Milwaukee,2
+4,0,3,3,1,33,5,1,20,Jerryd,0,0,0,25,0,2,Jerryd Bayless,3,3,Bayless,N/A,0,Milwaukee,1
+3,0,2,2,0,0,8,6,75,Kendall,3,3,100,21,0,1,Kendall Marshall,15,2,Marshall,N/A,1,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ersan,N/A,N/A,N/A,N/A,N/A,N/A,Ersan Ilyasova,N/A,N/A,Ilyasova,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nate,N/A,N/A,N/A,N/A,N/A,N/A,Nate Wolters,N/A,N/A,Wolters,N/A,N/A,Milwaukee,N/A
+2,0,6,1,0,0,7,4,57,Quincy,2,1,50,28,1,4,Quincy Acy,9,7,Acy,F,2,New York,0
+4,0,7,7,3,43,16,6,38,JR,0,0,0,37,0,2,JR Smith,15,7,Smith,F,0,New York,2
+0,0,5,0,0,0,10,6,60,Cole,0,0,0,20,2,3,Cole Aldrich,12,7,Aldrich,C,1,New York,4
+5,0,2,4,1,25,5,1,20,Jose,4,4,100,27,0,5,Jose Calderon,7,2,Calderon,G,1,New York,2
+4,1,3,5,3,60,13,6,46,Tim,4,2,50,38,0,3,Tim Hardaway Jr.,17,3,Hardaway,G,1,New York,2
+2,0,2,0,0,0,11,3,27,Jason,4,4,100,24,3,2,Jason Smith,10,5,Smith,N/A,1,New York,0
+2,1,1,3,1,33,5,2,40,Travis,0,0,0,15,0,1,Travis Wear,5,1,Wear,N/A,0,New York,2
+1,0,0,2,0,0,4,1,25,Shane,0,0,0,22,1,0,Shane Larkin,2,1,Larkin,N/A,0,New York,1
+0,0,1,0,0,0,0,0,0,Pablo,0,0,0,7,0,0,Pablo Prigioni,0,1,Prigioni,N/A,0,New York,1
+3,0,2,3,1,33,5,2,40,Cleanthony,0,0,0,22,0,0,Cleanthony Early,5,2,Early,N/A,2,New York,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrea,N/A,N/A,N/A,N/A,N/A,N/A,Andrea Bargnani,N/A,N/A,Bargnani,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Samuel,N/A,N/A,N/A,N/A,N/A,N/A,Samuel Dalembert,N/A,N/A,Dalembert,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Amar'e,N/A,N/A,N/A,N/A,N/A,N/A,Amar'e Stoudemire,N/A,N/A,Stoudemire,N/A,N/A,New York,N/A

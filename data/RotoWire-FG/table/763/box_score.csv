@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,5,2,40,9,3,33,Trevor,0,0,0,38,1,2,Trevor Ariza,8,6,Ariza,F,2,Houston,1
+1,1,5,8,3,38,12,5,42,Ryan,0,0,0,33,3,3,Ryan Anderson,13,8,Anderson,F,1,Houston,0
+0,1,3,0,0,0,10,6,60,Clint,1,0,0,18,1,0,Clint Capela,12,4,Capela,C,1,Houston,2
+11,0,5,9,4,44,23,10,44,James,4,3,75,36,1,2,James Harden,27,6,Harden,G,1,Houston,3
+10,1,7,4,0,0,9,2,22,Chris,0,0,0,33,1,4,Chris Paul,4,8,Paul,G,2,Houston,1
+0,0,5,6,4,67,9,6,67,PJ,6,4,67,29,1,3,PJ Tucker,20,6,Tucker,N/A,1,Houston,1
+1,2,1,6,0,0,16,9,56,Eric,8,6,75,29,0,1,Eric Gordon,24,1,Gordon,N/A,1,Houston,2
+0,0,2,3,2,67,9,6,67,Luc,0,0,0,23,2,1,Luc Mbah a Moute,14,4,Mbah,N/A,0,Houston,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Brown,N/A,N/A,Brown,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zhou,N/A,N/A,N/A,N/A,N/A,N/A,Zhou Qi,N/A,N/A,Qi,N/A,N/A,Houston,N/A
+7,4,4,5,2,40,15,7,47,Kevin,5,4,80,38,1,4,Kevin Durant,20,5,Durant,F,0,Golden State,8
+13,0,10,2,1,50,6,2,33,Draymond,4,4,100,28,1,3,Draymond Green,9,11,Green,F,0,Golden State,2
+0,1,3,0,0,0,2,2,100,Zaza,2,2,100,10,0,1,Zaza Pachulia,6,3,Pachulia,C,0,Golden State,0
+3,2,6,7,4,57,14,6,43,Klay,0,0,0,38,0,0,Klay Thompson,16,6,Thompson,G,2,Golden State,1
+4,0,5,9,3,33,18,8,44,Stephen,3,3,100,30,0,4,Stephen Curry,22,5,Curry,G,1,Golden State,2
+1,1,2,0,0,0,3,2,67,Patrick,0,0,0,19,1,1,Patrick McCaw,4,3,McCaw,N/A,1,Golden State,0
+1,0,1,0,0,0,5,4,80,Jordan,0,0,0,12,0,4,Jordan Bell,8,1,Bell,N/A,0,Golden State,1
+0,0,1,7,6,86,9,8,89,Nick,1,1,100,26,1,4,Nick Young,23,2,Young,N/A,0,Golden State,1
+5,0,0,0,0,0,5,2,40,Shaun,2,2,100,19,1,2,Shaun Livingston,6,1,Livingston,N/A,0,Golden State,1
+0,0,1,0,0,0,0,0,0,Omri,2,2,100,4,0,0,Omri Casspi,2,1,Casspi,N/A,0,Golden State,0
+0,0,2,0,0,0,0,0,0,Kevon,2,1,50,8,0,2,Kevon Looney,1,2,Looney,N/A,1,Golden State,0
+0,1,0,0,0,0,3,2,67,David,0,0,0,9,1,0,David West,4,1,West,N/A,0,Golden State,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaVale,N/A,N/A,N/A,N/A,N/A,N/A,JaVale McGee,N/A,N/A,McGee,N/A,N/A,Golden State,N/A

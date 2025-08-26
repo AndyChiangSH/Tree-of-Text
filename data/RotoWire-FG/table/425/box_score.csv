@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,3,4,1,25,9,4,44,Jeff,2,2,100,31,1,0,Jeff Green,11,4,Green,F,1,Orlando,3
+1,3,7,4,3,75,11,6,55,Serge,6,6,100,37,2,3,Serge Ibaka,21,9,Ibaka,F,2,Orlando,3
+2,1,8,1,0,0,12,4,33,Nikola,0,0,0,28,3,3,Nikola Vucevic,8,11,Vucevic,C,0,Orlando,3
+2,0,5,5,2,40,13,6,46,Evan,4,4,100,37,0,1,Evan Fournier,18,5,Fournier,G,0,Orlando,5
+7,0,8,3,0,0,9,4,44,Elfrid,2,0,0,35,0,2,Elfrid Payton,8,8,Payton,G,3,Orlando,1
+0,0,4,3,0,0,5,1,20,Aaron,6,3,50,21,0,2,Aaron Gordon,5,4,Gordon,N/A,1,Orlando,2
+1,1,7,0,0,0,8,6,75,Bismack,2,1,50,22,3,2,Bismack Biyombo,13,10,Biyombo,N/A,0,Orlando,2
+0,0,0,2,0,0,2,0,0,Damjan,0,0,0,5,0,1,Damjan Rudez,0,0,Rudez,N/A,0,Orlando,3
+3,0,2,2,0,0,6,0,0,D.J.,2,2,100,13,1,2,D.J. Augustin,2,3,Augustin,N/A,0,Orlando,2
+1,0,0,1,1,100,2,1,50,C.J.,0,0,0,10,0,2,C.J. Watson,3,0,Watson,N/A,1,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mario,N/A,N/A,N/A,N/A,N/A,N/A,Mario Hezonja,N/A,N/A,Hezonja,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Wilcox,N/A,N/A,Wilcox,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Stephen,N/A,N/A,N/A,N/A,N/A,N/A,Stephen Zimmerman,N/A,N/A,Zimmerman,N/A,N/A,Orlando,N/A
+10,3,9,2,0,0,13,6,46,Giannis,9,9,100,39,2,4,Giannis Antetokounmpo,21,11,Antetokounmpo,F,5,Milwaukee,4
+3,0,3,7,5,71,17,8,47,Jabari,5,1,20,35,0,0,Jabari Parker,22,3,Parker,F,3,Milwaukee,0
+2,3,2,0,0,0,5,1,20,John,0,0,0,22,0,3,John Henson,2,2,Henson,C,0,Milwaukee,0
+1,1,2,4,1,25,7,3,43,Tony,0,0,0,25,0,0,Tony Snell,7,2,Snell,G,1,Milwaukee,0
+4,0,1,5,1,20,7,3,43,Matthew,0,0,0,27,0,4,Matthew Dellavedova,7,1,Dellavedova,G,1,Milwaukee,6
+3,0,1,3,0,0,6,1,17,Malcolm,3,3,100,21,1,1,Malcolm Brogdon,5,2,Brogdon,N/A,1,Milwaukee,2
+0,0,5,5,1,20,6,2,33,Mirza,4,2,50,13,0,3,Mirza Teletovic,7,5,Teletovic,N/A,1,Milwaukee,0
+1,0,2,1,0,0,14,7,50,Michael,0,0,0,20,1,2,Michael Beasley,14,3,Beasley,N/A,0,Milwaukee,0
+0,0,1,0,0,0,3,1,33,Miles,0,0,0,10,3,3,Miles Plumlee,2,4,Plumlee,N/A,1,Milwaukee,1
+1,1,2,2,0,0,4,2,50,Jason,0,0,0,20,0,1,Jason Terry,4,2,Terry,N/A,2,Milwaukee,0
+0,1,2,0,0,0,4,1,25,Greg,0,0,0,8,0,1,Greg Monroe,2,2,Monroe,N/A,1,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thon,N/A,N/A,N/A,N/A,N/A,N/A,Thon Maker,N/A,N/A,Maker,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Steve,N/A,N/A,N/A,N/A,N/A,N/A,Steve Novak,N/A,N/A,Novak,N/A,N/A,Milwaukee,N/A

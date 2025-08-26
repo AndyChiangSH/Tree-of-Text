@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,4,3,75,6,5,83,Rodney,2,1,50,21,0,3,Rodney McGruder,14,2,McGruder,F,1,Miami,1
+2,0,3,6,1,17,6,1,17,Luke,0,0,0,25,1,0,Luke Babbitt,3,4,Babbitt,F,0,Miami,0
+2,3,11,0,0,0,6,2,33,Hassan,0,0,0,21,2,2,Hassan Whiteside,4,13,Whiteside,C,0,Miami,0
+2,4,4,2,2,100,12,7,58,Josh,3,3,100,27,0,0,Josh Richardson,19,4,Richardson,G,3,Miami,0
+2,1,1,2,0,0,10,3,30,Tyler,0,0,0,23,1,2,Tyler Johnson,6,2,Johnson,G,0,Miami,2
+0,1,3,8,3,38,9,4,44,Wayne,0,0,0,24,0,1,Wayne Ellington,11,3,Ellington,N/A,1,Miami,0
+5,0,1,4,1,25,16,7,44,Justise,3,3,100,27,0,0,Justise Winslow,18,1,Winslow,N/A,0,Miami,2
+2,1,8,0,0,0,6,1,17,Bam,2,2,100,20,2,1,Bam Adebayo,4,10,Adebayo,N/A,3,Miami,3
+5,0,6,7,5,71,12,7,58,Kelly,0,0,0,23,2,4,Kelly Olynyk,19,8,Olynyk,N/A,0,Miami,1
+1,0,2,2,1,50,5,3,60,Derrick,4,3,75,12,2,1,Derrick Jones Jr.,10,4,Jones,N/A,0,Miami,1
+0,0,2,2,1,50,4,2,50,Jordan,1,1,100,7,0,1,Jordan Mickey,6,2,Mickey,N/A,0,Miami,1
+0,0,1,1,0,0,1,0,0,Udonis,2,1,50,5,0,1,Udonis Haslem,1,1,Haslem,N/A,0,Miami,0
+1,0,0,0,0,0,1,0,0,Derrick,0,0,0,5,0,1,Derrick Walton Jr.,0,0,Walton,N/A,1,Miami,0
+4,0,1,6,3,50,14,8,57,Taurean,1,1,100,24,0,2,Taurean Prince,20,1,Prince,F,1,Atlanta,1
+4,1,6,2,1,50,9,3,33,John,4,2,50,27,2,1,John Collins,9,8,Collins,F,0,Atlanta,3
+2,0,7,1,0,0,6,3,50,Dewayne,0,0,0,22,1,2,Dewayne Dedmon,6,8,Dedmon,C,0,Atlanta,2
+1,0,2,3,1,33,13,7,54,Damion,1,0,0,23,2,2,Damion Lee,15,4,Lee,G,1,Atlanta,3
+3,0,1,0,0,0,8,1,12,Isaiah,0,0,0,19,0,1,Isaiah Taylor,2,1,Taylor,G,0,Atlanta,0
+1,1,5,0,0,0,2,0,0,Miles,4,2,50,22,2,1,Miles Plumlee,2,7,Plumlee,N/A,0,Atlanta,0
+1,2,4,5,0,0,7,0,0,Mike,0,0,0,20,0,0,Mike Muscala,0,4,Muscala,N/A,0,Atlanta,1
+2,1,1,1,1,100,4,2,50,Josh,0,0,0,19,0,1,Josh Magette,5,1,Magette,N/A,1,Atlanta,0
+1,0,5,4,1,25,13,5,38,Tyler,5,4,80,26,0,1,Tyler Dorsey,15,5,Dorsey,N/A,2,Atlanta,1
+0,1,2,1,1,100,2,1,50,Antonius,2,2,100,12,0,3,Antonius Cleveland,5,2,Cleveland,N/A,0,Atlanta,2
+1,0,2,4,0,0,4,0,0,Andrew,0,0,0,10,0,1,Andrew White III,0,2,White,N/A,0,Atlanta,1
+0,0,2,3,1,33,7,2,29,Tyler,0,0,0,10,2,0,Tyler Cavanaugh,5,4,Cavanaugh,N/A,0,Atlanta,0
+0,0,0,0,0,0,1,1,100,Jeremy,0,0,0,5,1,1,Jeremy Evans,2,1,Evans,N/A,0,Atlanta,1

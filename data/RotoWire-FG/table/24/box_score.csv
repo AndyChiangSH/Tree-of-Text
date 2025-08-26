@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,3,5,4,80,6,4,67,Luke,0,0,0,18,0,3,Luke Babbitt,12,3,Babbitt,F,0,New Orleans,0
+0,1,2,0,0,0,15,9,60,Anthony,9,8,89,33,1,3,Anthony Davis,26,3,Davis,F,0,New Orleans,0
+2,0,5,0,0,0,4,3,75,Omer,6,4,67,26,5,1,Omer Asik,10,10,Asik,C,1,New Orleans,3
+4,0,4,4,1,25,13,5,39,Tyreke,4,2,50,25,2,3,Tyreke Evans,13,6,Evans,G,0,New Orleans,0
+6,0,3,2,0,0,7,3,43,Jrue,2,1,50,28,0,0,Jrue Holiday,7,3,Holiday,G,0,New Orleans,3
+6,0,5,2,1,50,8,3,38,Austin,2,1,50,24,1,1,Austin Rivers,8,6,Rivers,N/A,0,New Orleans,1
+1,0,2,1,0,0,4,1,25,John,0,0,0,18,0,1,John Salmons,2,2,Salmons,N/A,2,New Orleans,0
+0,0,2,8,2,25,14,7,50,Ryan,0,0,0,26,1,5,Ryan Anderson,16,3,Anderson,N/A,1,New Orleans,2
+1,1,2,0,0,0,3,1,33,Dante,0,0,0,21,0,1,Dante Cunningham,2,2,Cunningham,N/A,0,New Orleans,0
+0,0,5,0,0,0,2,2,100,Alexis,2,0,0,9,2,0,Alexis Ajinca,4,7,Ajinca,N/A,0,New Orleans,0
+6,0,0,1,0,0,4,0,0,Gal,0,0,0,11,0,0,Gal Mekel,0,0,Mekel,N/A,0,New Orleans,2
+0,0,0,0,0,0,0,0,0,Jeff,0,0,0,3,0,0,Jeff Withey,0,0,Withey,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jimmer,N/A,N/A,N/A,N/A,N/A,N/A,Jimmer Fredette,N/A,N/A,Fredette,N/A,N/A,New Orleans,N/A
+1,0,3,7,4,57,8,5,63,Matt,0,0,0,34,1,5,Matt Barnes,14,4,Barnes,F,1,Los Angeles,1
+5,0,6,1,0,0,15,10,67,Blake,15,10,67,30,1,3,Blake Griffin,30,7,Griffin,F,1,Los Angeles,1
+2,5,14,0,0,0,4,4,100,DeAndre,1,0,0,35,4,4,DeAndre Jordan,8,18,Jordan,C,0,Los Angeles,1
+3,0,0,9,5,56,14,8,57,JJ,0,0,0,36,0,2,JJ Redick,21,0,Redick,G,2,Los Angeles,1
+16,0,6,6,4,67,13,7,54,Chris,0,0,0,30,0,2,Chris Paul,18,6,Paul,G,0,Los Angeles,2
+4,0,0,4,2,50,11,6,55,Jamal,6,6,100,25,0,0,Jamal Crawford,20,0,Crawford,N/A,2,Los Angeles,0
+0,0,0,2,1,50,2,1,50,Hedo,0,0,0,6,0,1,Hedo Turkoglu,3,0,Turkoglu,N/A,1,Los Angeles,0
+1,0,2,2,0,0,4,1,25,Spencer,0,0,0,19,0,2,Spencer Hawes,2,2,Hawes,N/A,0,Los Angeles,1
+1,0,0,0,0,0,3,0,0,Jared,0,0,0,9,0,0,Jared Cunningham,0,0,Cunningham,N/A,0,Los Angeles,0
+1,0,0,0,0,0,2,0,0,Glen,2,1,50,9,0,1,Glen Davis,1,0,Davis,N/A,0,Los Angeles,0
+0,0,0,1,1,100,1,1,100,CJ,0,0,0,3,0,0,CJ Wilcox,3,0,Wilcox,N/A,0,Los Angeles,0
+0,1,1,0,0,0,1,0,0,Ekpe,0,0,0,3,0,0,Ekpe Udoh,0,1,Udoh,N/A,0,Los Angeles,0

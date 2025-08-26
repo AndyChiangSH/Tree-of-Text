@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,3,1,0,0,4,3,75,DeMarre,5,2,40,21,0,2,DeMarre Carroll,8,3,Carroll,F,0,Toronto,0
+0,4,4,1,0,0,4,2,50,Pascal,2,2,100,28,3,4,Pascal Siakam,6,7,Siakam,F,0,Toronto,2
+0,1,7,0,0,0,15,8,53,Jonas,0,0,0,26,6,1,Jonas Valanciunas,16,13,Valanciunas,C,0,Toronto,0
+4,0,5,3,1,33,21,13,62,DeMar,4,4,100,30,0,2,DeMar DeRozan,31,5,DeRozan,G,1,Toronto,3
+10,0,3,7,2,29,9,3,33,Kyle,8,8,100,35,0,1,Kyle Lowry,16,3,Lowry,G,1,Toronto,4
+1,1,5,0,0,0,4,3,75,Lucas,0,0,0,17,0,1,Lucas Nogueira,6,5,Nogueira,N/A,0,Toronto,0
+1,0,4,3,1,33,4,1,25,Patrick,0,0,0,20,0,1,Patrick Patterson,3,4,Patterson,N/A,2,Toronto,0
+0,1,2,8,3,38,13,4,31,Terrence,0,0,0,23,0,1,Terrence Ross,11,2,Ross,N/A,1,Toronto,0
+4,0,2,1,0,0,5,2,40,Fred,0,0,0,23,0,3,Fred VanVleet,4,2,VanVleet,N/A,3,Toronto,0
+0,0,1,2,0,0,6,4,67,Norman,0,0,0,8,0,0,Norman Powell,8,1,Powell,N/A,1,Toronto,1
+0,0,1,0,0,0,1,0,0,Jakob,2,0,0,5,1,0,Jakob Poeltl,0,2,Poeltl,N/A,1,Toronto,0
+0,0,0,1,0,0,1,0,0,Bruno,0,0,0,4,0,0,Bruno Caboclo,0,0,Caboclo,N/A,0,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cory,N/A,N/A,N/A,N/A,N/A,N/A,Cory Joseph,N/A,N/A,Joseph,N/A,N/A,Toronto,N/A
+0,0,1,4,1,25,9,3,33,Aaron,0,0,0,20,0,2,Aaron Gordon,7,1,Gordon,F,0,Orlando,1
+0,0,4,1,0,0,9,5,56,Serge,0,0,0,22,0,0,Serge Ibaka,10,4,Ibaka,F,0,Orlando,0
+1,3,10,0,0,0,5,3,60,Bismack,2,2,100,27,2,1,Bismack Biyombo,8,12,Biyombo,C,1,Orlando,4
+3,0,1,2,0,0,10,6,60,Evan,3,3,100,26,2,5,Evan Fournier,15,3,Fournier,G,1,Orlando,3
+2,0,2,1,0,0,4,0,0,D.J.,0,0,0,13,1,3,D.J. Augustin,0,3,Augustin,G,2,Orlando,1
+3,0,2,2,0,0,10,6,60,Elfrid,1,1,100,25,0,0,Elfrid Payton,13,2,Payton,N/A,0,Orlando,1
+1,0,4,0,0,0,12,5,42,Nikola,0,0,0,25,5,2,Nikola Vucevic,10,9,Vucevic,N/A,0,Orlando,1
+1,0,3,4,0,0,7,1,14,Jeff,2,1,50,25,0,1,Jeff Green,3,3,Green,N/A,0,Orlando,2
+1,0,0,2,0,0,6,1,17,Jodie,0,0,0,24,0,1,Jodie Meeks,2,0,Meeks,N/A,0,Orlando,0
+0,0,1,2,1,50,2,1,50,Damjan,0,0,0,10,0,1,Damjan Rudez,3,1,Rudez,N/A,0,Orlando,1
+1,0,0,3,1,33,4,1,25,C.J.,0,0,0,9,0,0,C.J. Watson,3,0,Watson,N/A,0,Orlando,2
+0,0,1,0,0,0,3,2,67,Mario,1,1,100,7,0,0,Mario Hezonja,5,1,Hezonja,N/A,1,Orlando,3
+0,0,3,0,0,0,2,0,0,Arinze,0,0,0,7,0,1,Arinze Onuaku,0,3,Onuaku,N/A,0,Orlando,0

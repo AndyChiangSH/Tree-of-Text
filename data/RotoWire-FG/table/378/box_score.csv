@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,3,5,2,40,10,2,20,Robert,7,5,71,29,1,2,Robert Covington,11,4,Covington,F,3,Philadelphia,1
+2,0,1,5,0,0,8,1,13,Ersan,2,1,50,20,0,3,Ersan Ilyasova,3,1,Ilyasova,F,0,Philadelphia,1
+0,0,2,0,0,0,11,7,64,Jahlil,7,2,29,26,2,2,Jahlil Okafor,16,4,Okafor,C,1,Philadelphia,1
+3,0,3,5,0,0,7,2,29,Nik,0,0,0,28,0,2,Nik Stauskas,4,3,Stauskas,G,2,Philadelphia,3
+2,0,6,1,0,0,9,5,56,T.J.,0,0,0,25,1,0,T.J. McConnell,10,7,McConnell,G,1,Philadelphia,1
+4,0,3,5,1,20,14,6,43,Dario,0,0,0,28,3,3,Dario Saric,13,6,Saric,N/A,0,Philadelphia,2
+0,0,1,2,0,0,7,3,43,Gerald,2,2,100,18,0,1,Gerald Henderson,8,1,Henderson,N/A,0,Philadelphia,1
+0,0,3,0,0,0,4,2,50,Nerlens,2,1,50,16,2,0,Nerlens Noel,5,5,Noel,N/A,0,Philadelphia,0
+3,0,2,4,2,50,8,4,50,Sergio,0,0,0,18,0,2,Sergio Rodriguez,10,2,Rodriguez,N/A,1,Philadelphia,1
+2,0,5,1,0,0,4,2,50,Timothe,5,5,100,21,0,2,Timothe Luwawu-Cabarrot,9,5,Luwawu-Cabarrot,N/A,0,Philadelphia,0
+1,0,1,0,0,0,2,1,50,Richaun,0,0,0,6,2,0,Richaun Holmes,2,3,Holmes,N/A,0,Philadelphia,1
+1,0,0,0,0,0,1,1,100,Chasson,3,3,100,5,0,0,Chasson Randle,5,0,Randle,N/A,0,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Embiid,N/A,N/A,Embiid,N/A,N/A,Philadelphia,N/A
+3,0,5,3,0,0,16,9,56,Marcus,1,1,100,39,3,0,Marcus Morris,19,8,Morris,F,1,Detroit,2
+2,1,2,2,1,50,9,5,56,Jon,1,1,100,23,3,5,Jon Leuer,12,5,Leuer,F,0,Detroit,0
+1,1,14,1,0,0,14,8,57,Andre,0,0,0,26,3,2,Andre Drummond,16,17,Drummond,C,3,Detroit,1
+3,0,3,6,2,33,11,4,36,Kentavious,2,2,100,29,1,1,Kentavious Caldwell-Pope,12,4,Caldwell-Pope,G,1,Detroit,2
+6,0,1,7,2,29,12,4,33,Reggie,4,4,100,28,1,4,Reggie Jackson,14,2,Jackson,G,1,Detroit,1
+1,1,3,0,0,0,8,5,63,Aron,2,2,100,22,4,2,Aron Baynes,12,7,Baynes,N/A,0,Detroit,0
+1,0,6,1,0,0,10,3,30,Tobias,3,3,100,27,2,2,Tobias Harris,9,8,Harris,N/A,0,Detroit,3
+4,1,1,0,0,0,10,5,50,Ish,1,1,100,20,0,1,Ish Smith,11,1,Smith,N/A,1,Detroit,0
+1,0,6,2,0,0,9,3,33,Stanley,3,2,67,24,2,2,Stanley Johnson,8,8,Johnson,N/A,1,Detroit,3
+0,0,0,0,0,0,0,0,0,Michael,0,0,0,3,0,0,Michael Gbinije,0,0,Gbinije,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrun,N/A,N/A,N/A,N/A,N/A,N/A,Darrun Hilliard,N/A,N/A,Hilliard,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Beno,N/A,N/A,N/A,N/A,N/A,N/A,Beno Udrih,N/A,N/A,Udrih,N/A,N/A,Detroit,N/A

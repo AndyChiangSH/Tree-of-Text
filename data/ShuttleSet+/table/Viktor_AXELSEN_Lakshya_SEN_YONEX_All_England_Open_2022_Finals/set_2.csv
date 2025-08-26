@@ -1,0 +1,30 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,30,0:33:30,1,0,Viktor AXELSEN,return net,hits the net,opponent hits the net
+2,58,0:35:14,2,0,Viktor AXELSEN,wrist smash,goes out of bounds,opponent goes out of bounds
+3,6,0:36:06,3,0,Viktor AXELSEN,push,goes out of bounds,opponent goes out of bounds
+4,11,0:37:00,3,1,Lakshya SEN,lob,goes out of bounds,opponent goes out of bounds
+5,5,0:37:20,4,1,Viktor AXELSEN,push,goes out of bounds,opponent goes out of bounds
+6,31,0:37:59,4,2,Lakshya SEN,clear,goes out of bounds,opponent goes out of bounds
+7,15,0:38:43,4,3,Lakshya SEN,clear,landing judgment error,opponent landing judgment error
+9,16,0:40:23,5,4,Viktor AXELSEN,net shot,opponent wins by landing,wins by landing
+10,14,0:40:53,6,4,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+11,22,0:41:39,7,4,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+12,25,0:42:23,8,4,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+14,9,0:43:47,9,5,Viktor AXELSEN,return net,hits the net,opponent hits the net
+15,35,0:44:35,10,5,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+17,16,0:46:59,11,6,Lakshya SEN,clear,landing judgment error,opponent landing judgment error
+18,32,0:47:45,11,7,Lakshya SEN,wrist smash,goes out of bounds,opponent goes out of bounds
+20,10,0:49:00,12,8,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+21,3,0:49:37,12,9,Lakshya SEN,wrist smash,goes out of bounds,opponent goes out of bounds
+22,5,0:49:53,13,9,Viktor AXELSEN,smash,goes out of bounds,opponent goes out of bounds
+23,28,0:50:58,14,9,Viktor AXELSEN,return net,goes out of bounds,opponent goes out of bounds
+25,5,0:51:56,15,10,Viktor AXELSEN,return net,goes out of bounds,opponent goes out of bounds
+26,14,0:52:28,16,10,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+28,70,0:54:47,17,11,Lakshya SEN,clear,landing judgment error,opponent landing judgment error
+30,40,0:57:11,18,12,Lakshya SEN,defensive return lob,opponent wins by landing,wins by landing
+31,15,0:58:22,19,12,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+32,18,0:58:59,20,12,Viktor AXELSEN,return net,hits the net,opponent hits the net
+33,17,0:59:48,20,13,Lakshya SEN,net shot,hits the net,opponent hits the net
+34,2,1:00:30,20,14,Lakshya SEN,net shot,hits the net,opponent hits the net
+35,10,1:00:49,20,15,Lakshya SEN,smash,goes out of bounds,opponent goes out of bounds
+36,11,1:01:17,21,15,Viktor AXELSEN,net shot,fails to clear the net,opponent fails to clear the net

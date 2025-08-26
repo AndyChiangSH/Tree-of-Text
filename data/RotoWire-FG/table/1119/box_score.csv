@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,2,3,2,67,4,2,50,Trevor,0,0,0,14,0,0,Trevor Ariza,6,2,Ariza,F,0,Washington,0
+1,1,4,8,2,25,10,4,40,Jeff,0,0,0,23,1,3,Jeff Green,10,5,Green,F,1,Washington,1
+3,2,2,6,1,17,17,6,35,Bobby,2,2,100,38,3,5,Bobby Portis,15,5,Portis,C,0,Washington,0
+7,2,5,9,2,22,19,7,37,Bradley,15,11,73,44,2,4,Bradley Beal,27,7,Beal,G,3,Washington,6
+7,0,4,5,2,40,11,7,64,Tomas,0,0,0,39,1,4,Tomas Satoransky,16,5,Satoransky,G,3,Washington,3
+3,2,4,5,3,60,18,11,61,Jabari,4,3,75,38,2,2,Jabari Parker,28,6,Parker,N/A,1,Washington,2
+0,0,2,1,0,0,5,2,40,Chasson,0,0,0,16,0,1,Chasson Randle,4,2,Randle,N/A,1,Washington,1
+2,0,7,3,1,33,5,3,60,Troy,2,2,100,30,3,2,Troy Brown Jr.,9,10,Brown,N/A,1,Washington,2
+0,2,6,1,1,100,2,2,100,Thomas,0,0,0,15,0,0,Thomas Bryant,5,6,Bryant,N/A,0,Washington,1
+0,0,2,1,0,0,2,0,0,Wesley,0,0,0,9,0,0,Wesley Johnson,0,2,Johnson,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sam,N/A,N/A,N/A,N/A,N/A,N/A,Sam Dekker,N/A,N/A,Dekker,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ian,N/A,N/A,N/A,N/A,N/A,N/A,Ian Mahinmi,N/A,N/A,Mahinmi,N/A,N/A,Washington,N/A
+0,0,5,1,1,100,13,7,54,Shaquille,3,3,100,39,1,5,Shaquille Harrison,18,6,Harrison,F,4,Chicago,1
+5,1,9,8,5,62,21,12,57,Lauri,3,3,100,38,4,2,Lauri Markkanen,32,13,Markkanen,F,0,Chicago,1
+1,0,0,0,0,0,7,3,43,Robin,2,2,100,31,2,0,Robin Lopez,8,2,Lopez,C,0,Chicago,2
+1,0,4,0,0,0,4,1,25,Antonio,0,0,0,23,0,0,Antonio Blakeney,2,4,Blakeney,G,0,Chicago,1
+13,0,6,7,3,43,24,10,42,Kris,5,3,60,39,0,5,Kris Dunn,26,6,Dunn,G,2,Chicago,2
+3,0,3,1,0,0,7,3,43,Ryan,2,1,50,27,0,0,Ryan Arcidiacono,7,3,Arcidiacono,N/A,0,Chicago,1
+1,1,2,0,0,0,11,7,64,Cristiano,1,1,100,21,4,1,Cristiano Felicio,15,6,Felicio,N/A,1,Chicago,2
+2,0,2,1,0,0,10,2,20,Wayne,1,1,100,20,2,1,Wayne Selden,5,4,Selden,N/A,1,Chicago,3
+3,0,2,5,3,60,9,5,56,Timothe,0,0,0,26,2,2,Timothe Luwawu-Cabarrot,13,4,Luwawu-Cabarrot,N/A,2,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chandler,N/A,N/A,N/A,N/A,N/A,N/A,Chandler Hutchison,N/A,N/A,Hutchison,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zach,N/A,N/A,N/A,N/A,N/A,N/A,Zach LaVine,N/A,N/A,LaVine,N/A,N/A,Chicago,N/A

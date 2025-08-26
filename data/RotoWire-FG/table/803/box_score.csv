@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,2,2,1,50,7,3,43,E'Twaun,0,0,0,24,0,0,E'Twaun Moore,7,2,Moore,F,0,New Orleans,0
+2,1,5,0,0,0,12,9,75,Anthony,7,5,71,26,4,0,Anthony Davis,23,9,Davis,F,0,New Orleans,1
+6,0,8,4,2,50,12,6,50,DeMarcus,8,5,62,30,2,2,DeMarcus Cousins,19,10,Cousins,C,2,New Orleans,6
+2,0,0,5,2,40,13,6,46,Jrue,4,4,100,27,0,0,Jrue Holiday,18,0,Holiday,G,5,New Orleans,1
+7,2,3,2,0,0,9,3,33,Rajon,0,0,0,25,1,3,Rajon Rondo,6,4,Rondo,G,1,New Orleans,2
+3,0,8,9,3,33,10,3,30,Darius,1,1,100,28,1,2,Darius Miller,10,9,Miller,N/A,0,New Orleans,1
+8,0,2,2,0,0,5,1,20,Jameer,0,0,0,23,2,1,Jameer Nelson,2,4,Nelson,N/A,1,New Orleans,1
+0,1,4,2,1,50,5,4,80,Dante,0,0,0,21,0,2,Dante Cunningham,9,4,Cunningham,N/A,0,New Orleans,0
+0,0,2,0,0,0,6,3,50,Tony,0,0,0,11,2,3,Tony Allen,6,4,Allen,N/A,0,New Orleans,1
+0,0,0,0,0,0,5,3,60,Omer,0,0,0,11,1,2,Omer Asik,6,1,Asik,N/A,0,New Orleans,0
+1,0,0,1,0,0,5,3,60,Ian,2,1,50,9,0,2,Ian Clark,7,0,Clark,N/A,1,New Orleans,1
+0,0,2,0,0,0,2,1,50,Cheick,0,0,0,6,0,1,Cheick Diallo,2,2,Diallo,N/A,0,New Orleans,1
+1,3,1,2,1,50,14,7,50,T.J.,3,3,100,30,1,2,T.J. Warren,18,2,Warren,F,0,Phoenix,2
+1,0,2,0,0,0,1,0,0,Greg,0,0,0,12,2,3,Greg Monroe,0,4,Monroe,F,0,Phoenix,2
+0,0,6,0,0,0,7,6,86,Tyson,2,2,100,28,3,1,Tyson Chandler,14,9,Chandler,C,1,Phoenix,1
+1,0,3,5,0,0,13,4,31,Devin,5,5,100,33,0,1,Devin Booker,13,3,Booker,G,1,Phoenix,6
+2,0,0,3,1,33,15,8,53,Tyler,0,0,0,26,0,1,Tyler Ulis,17,0,Ulis,G,2,Phoenix,1
+0,2,8,0,0,0,6,2,33,Alex,2,1,50,19,4,3,Alex Len,5,12,Len,N/A,0,Phoenix,0
+1,0,1,3,0,0,3,0,0,Troy,0,0,0,9,0,2,Troy Daniels,0,1,Daniels,N/A,0,Phoenix,0
+0,0,2,1,0,0,3,1,33,Dragan,1,0,0,17,0,0,Dragan Bender,2,2,Bender,N/A,0,Phoenix,1
+4,0,4,1,0,0,8,2,25,Mike,0,0,0,16,0,0,Mike James,4,4,James,N/A,3,Phoenix,2
+2,0,2,3,0,0,15,6,40,Josh,3,2,67,24,3,3,Josh Jackson,14,5,Jackson,N/A,2,Phoenix,1
+0,1,2,2,0,0,7,1,14,Marquese,0,0,0,14,2,2,Marquese Chriss,2,4,Chriss,N/A,0,Phoenix,0
+0,0,1,0,0,0,2,0,0,Jared,0,0,0,6,0,0,Jared Dudley,0,1,Dudley,N/A,0,Phoenix,0
+0,0,1,0,0,0,0,0,0,Derrick,2,2,100,6,0,0,Derrick Jones Jr.,2,1,Jones,N/A,0,Phoenix,0

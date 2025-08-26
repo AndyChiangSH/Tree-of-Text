@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,4,4,2,50,7,3,43,Stanley,2,1,50,31,0,1,Stanley Johnson,9,4,Johnson,F,2,Detroit,0
+1,0,0,3,2,67,7,4,57,Tobias,2,2,100,20,1,4,Tobias Harris,12,1,Harris,F,0,Detroit,0
+1,3,13,0,0,0,10,7,70,Andre,2,1,50,34,4,2,Andre Drummond,15,17,Drummond,C,2,Detroit,3
+2,0,4,2,0,0,15,4,27,Avery,6,4,67,30,1,1,Avery Bradley,12,5,Bradley,G,4,Detroit,2
+7,0,2,3,1,33,15,6,40,Reggie,2,2,100,32,2,2,Reggie Jackson,15,4,Jackson,G,1,Detroit,4
+1,1,4,0,0,0,4,0,0,Jon,2,2,100,14,1,3,Jon Leuer,2,5,Leuer,N/A,0,Detroit,1
+1,0,2,1,0,0,6,4,67,Ish,0,0,0,16,0,0,Ish Smith,8,2,Smith,N/A,0,Detroit,0
+0,0,4,2,0,0,5,0,0,Henry,0,0,0,12,1,3,Henry Ellenson,0,5,Ellenson,N/A,1,Detroit,2
+0,0,1,1,0,0,2,0,0,Reggie,2,1,50,7,0,0,Reggie Bullock,1,1,Bullock,N/A,0,Detroit,0
+0,0,2,7,3,43,9,5,56,Langston,0,0,0,18,0,1,Langston Galloway,13,2,Galloway,N/A,0,Detroit,0
+2,2,2,5,1,20,8,3,38,Anthony,3,1,33,26,2,3,Anthony Tolliver,8,4,Tolliver,N/A,1,Detroit,0
+0,0,0,0,0,0,0,0,0,Eric,0,0,0,1,0,0,Eric Moreland,0,0,Moreland,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,Detroit,N/A
+2,0,6,10,3,30,16,4,25,Danilo,2,2,100,38,0,2,Danilo Gallinari,13,6,Gallinari,F,0,LA,3
+4,0,9,6,2,33,18,5,28,Blake,10,7,70,39,2,3,Blake Griffin,19,11,Griffin,F,0,LA,2
+0,3,6,0,0,0,6,3,50,DeAndre,3,1,33,35,8,2,DeAndre Jordan,7,14,Jordan,C,0,LA,2
+1,0,2,8,6,75,12,6,50,Austin,2,2,100,33,2,1,Austin Rivers,20,4,Rivers,G,4,LA,2
+8,1,2,5,3,60,9,3,33,Patrick,0,0,0,37,0,3,Patrick Beverley,9,2,Beverley,G,2,LA,4
+3,0,2,4,1,25,9,3,33,Lou,3,3,100,22,0,1,Lou Williams,10,2,Williams,N/A,0,LA,2
+0,1,1,1,0,0,3,1,33,Sindarius,2,1,50,9,2,1,Sindarius Thornwell,3,3,Thornwell,N/A,0,LA,0
+1,0,6,3,0,0,7,1,14,Wesley,0,0,0,13,1,2,Wesley Johnson,2,7,Johnson,N/A,0,LA,0
+0,0,0,1,0,0,1,0,0,Sam,0,0,0,3,0,0,Sam Dekker,0,0,Dekker,N/A,0,LA,0
+0,1,2,0,0,0,3,2,67,Willie,0,0,0,12,0,3,Willie Reed,4,2,Reed,N/A,0,LA,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jawun,N/A,N/A,N/A,N/A,N/A,N/A,Jawun Evans,N/A,N/A,Evans,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl Harrell,N/A,N/A,Harrell,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brice,N/A,N/A,N/A,N/A,N/A,N/A,Brice Johnson,N/A,N/A,Johnson,N/A,N/A,LA,N/A

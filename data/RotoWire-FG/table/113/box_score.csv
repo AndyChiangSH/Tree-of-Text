@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+9,2,5,6,3,50,19,11,58,Kevin,6,4,67,33,1,4,Kevin Durant,29,6,Durant,F,1,Golden State,2
+4,1,8,2,1,50,7,5,71,Draymond,3,1,33,26,0,3,Draymond Green,12,8,Green,F,3,Golden State,2
+4,3,6,0,0,0,5,1,20,Zaza,0,0,0,21,0,3,Zaza Pachulia,2,6,Pachulia,C,0,Golden State,3
+0,0,7,6,1,17,17,7,41,Klay,4,3,75,33,0,1,Klay Thompson,18,7,Thompson,G,0,Golden State,1
+5,0,3,10,4,40,17,8,47,Stephen,4,4,100,36,2,1,Stephen Curry,24,5,Curry,G,3,Golden State,3
+4,0,4,1,0,0,5,3,60,Andre,0,0,0,24,0,0,Andre Iguodala,6,4,Iguodala,N/A,1,Golden State,1
+0,1,2,0,0,0,0,0,0,JaVale,0,0,0,6,0,1,JaVale McGee,0,2,McGee,N/A,0,Golden State,1
+0,0,0,1,1,100,2,1,50,Ian,0,0,0,9,0,0,Ian Clark,3,0,Clark,N/A,0,Golden State,0
+3,0,1,0,0,0,1,1,100,David,0,0,0,11,1,4,David West,2,2,West,N/A,1,Golden State,2
+1,0,2,0,0,0,4,1,25,Shaun,0,0,0,15,0,1,Shaun Livingston,2,2,Livingston,N/A,0,Golden State,1
+0,2,1,0,0,0,3,3,100,Kevon,0,0,0,13,0,1,Kevon Looney,6,1,Looney,N/A,1,Golden State,0
+1,0,1,2,1,50,2,1,50,Patrick,0,0,0,12,0,2,Patrick McCaw,3,1,McCaw,N/A,0,Golden State,1
+0,1,0,0,0,0,1,1,100,James,0,0,0,2,0,0,James Michael McAdoo,2,0,Michael,N/A,0,Golden State,0
+2,1,8,4,0,0,18,3,17,Brandon,2,2,100,39,1,1,Brandon Ingram,8,9,Ingram,F,2,Los Angeles,3
+4,0,3,2,0,0,9,2,22,Luol,0,0,0,22,1,0,Luol Deng,4,4,Deng,F,0,Los Angeles,1
+1,0,3,0,0,0,6,3,50,Timofey,4,2,50,20,1,1,Timofey Mozgov,8,4,Mozgov,C,0,Los Angeles,1
+0,0,2,9,4,44,15,6,40,Jordan,5,4,80,38,0,1,Jordan Clarkson,20,2,Clarkson,G,5,Los Angeles,3
+6,1,0,3,1,33,6,3,50,Jose,0,0,0,28,1,4,Jose Calderon,7,1,Calderon,G,1,Los Angeles,4
+0,0,5,0,0,0,8,5,63,Larry,2,1,50,20,2,4,Larry Nance Jr.,11,7,Nance,N/A,1,Los Angeles,0
+3,0,0,0,0,0,3,0,0,Marcelo,0,0,0,12,0,1,Marcelo Huertas,0,0,Huertas,N/A,0,Los Angeles,1
+2,0,2,4,0,0,13,5,39,Lou,4,3,75,26,1,0,Lou Williams,13,3,Williams,N/A,1,Los Angeles,4
+1,0,1,0,0,0,4,2,50,Tarik,4,4,100,17,4,1,Tarik Black,8,5,Black,N/A,1,Los Angeles,0
+0,1,7,0,0,0,8,3,38,Thomas,2,0,0,16,3,3,Thomas Robinson,6,10,Robinson,N/A,1,Los Angeles,1
+1,0,0,0,0,0,0,0,0,Metta,0,0,0,3,0,0,Metta World Peace,0,0,World,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Julius,N/A,N/A,N/A,N/A,N/A,N/A,Julius Randle,N/A,N/A,Randle,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Los Angeles,N/A

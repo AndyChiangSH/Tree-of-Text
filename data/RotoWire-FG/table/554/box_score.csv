@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,6,5,3,60,10,5,50,Al-Farouq,2,1,50,37,0,2,Al-Farouq Aminu,14,6,Aminu,F,0,Portland,4
+1,0,4,5,1,20,11,4,36,Maurice,4,2,50,27,3,5,Maurice Harkless,11,7,Harkless,F,0,Portland,1
+4,1,10,0,0,0,6,2,33,Mason,2,2,100,28,1,4,Mason Plumlee,6,11,Plumlee,C,0,Portland,6
+2,1,2,5,1,20,19,9,47,CJ,4,3,75,40,0,2,CJ McCollum,22,2,McCollum,G,1,Portland,2
+6,0,3,11,6,55,20,8,40,Damian,3,3,100,40,1,4,Damian Lillard,25,4,Lillard,G,2,Portland,3
+3,0,2,4,2,50,9,5,56,Gerald,0,0,0,27,0,3,Gerald Henderson,12,2,Henderson,N/A,1,Portland,0
+3,0,2,0,0,0,2,2,100,Allen,2,1,50,20,0,1,Allen Crabbe,5,2,Crabbe,N/A,1,Portland,0
+0,2,4,0,0,0,2,1,50,Ed,4,2,50,15,1,2,Ed Davis,4,5,Davis,N/A,0,Portland,1
+1,0,0,0,0,0,2,0,0,Brian,0,0,0,5,0,2,Brian Roberts,0,0,Roberts,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Kaman,N/A,N/A,Kaman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luis,N/A,N/A,N/A,N/A,N/A,N/A,Luis Montero,N/A,N/A,Montero,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Noah,N/A,N/A,N/A,N/A,N/A,N/A,Noah Vonleh,N/A,N/A,Vonleh,N/A,N/A,Portland,N/A
+1,0,3,1,1,100,8,5,63,Harrison,2,2,100,33,0,4,Harrison Barnes,13,3,Barnes,F,0,Golden State,1
+7,4,12,5,0,0,20,7,35,Draymond,4,3,75,41,2,4,Draymond Green,17,14,Green,F,1,Golden State,2
+0,2,4,0,0,0,2,2,100,Andrew,0,0,0,16,3,0,Andrew Bogut,4,7,Bogut,C,0,Golden State,1
+3,0,3,14,5,36,20,7,35,Klay,8,8,100,40,0,3,Klay Thompson,27,3,Thompson,G,0,Golden State,2
+4,1,3,0,0,0,15,6,40,Shaun,2,2,100,33,1,4,Shaun Livingston,14,4,Livingston,G,1,Golden State,1
+4,0,3,1,1,100,9,6,67,Andre,2,2,100,32,2,1,Andre Iguodala,15,5,Iguodala,N/A,2,Golden State,0
+0,0,3,2,1,50,6,3,50,Leandro,0,0,0,13,0,1,Leandro Barbosa,7,3,Barbosa,N/A,0,Golden State,1
+0,0,0,0,0,0,1,0,0,Anderson,0,0,0,3,1,0,Anderson Varejao,0,1,Varejao,N/A,0,Golden State,0
+1,1,0,1,0,0,4,0,0,Marreese,0,0,0,4,0,1,Marreese Speights,0,0,Speights,N/A,0,Golden State,1
+0,0,2,0,0,0,2,2,100,Ian,2,1,50,12,0,3,Ian Clark,5,2,Clark,N/A,0,Golden State,0
+1,1,5,0,0,0,4,4,100,Festus,0,0,0,13,1,2,Festus Ezeli,8,6,Ezeli,N/A,0,Golden State,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Michael McAdoo,N/A,N/A,Michael,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Golden State,N/A

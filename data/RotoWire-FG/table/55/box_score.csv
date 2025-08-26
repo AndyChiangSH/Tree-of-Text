@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,5,2,1,50,6,4,67,Jae,5,5,100,35,1,4,Jae Crowder,14,6,Crowder,F,2,Boston,1
+1,1,1,0,0,0,4,2,50,Amir,2,1,50,16,0,3,Amir Johnson,5,1,Johnson,F,0,Boston,0
+5,1,7,2,0,0,9,4,44,Al,4,3,75,30,0,5,Al Horford,11,7,Horford,C,0,Boston,1
+5,1,5,3,1,33,12,6,50,Avery,4,3,75,41,1,2,Avery Bradley,16,6,Bradley,G,0,Boston,2
+4,0,3,7,3,43,15,10,67,Isaiah,6,2,33,35,0,2,Isaiah Thomas,25,3,Thomas,G,2,Boston,5
+1,2,4,0,0,0,9,3,33,Tyler,1,0,0,20,1,3,Tyler Zeller,6,5,Zeller,N/A,0,Boston,1
+4,0,4,5,2,40,7,3,43,Terry,0,0,0,23,0,1,Terry Rozier,8,4,Rozier,N/A,2,Boston,0
+1,0,1,1,0,0,7,4,57,Jaylen,0,0,0,20,0,3,Jaylen Brown,8,1,Brown,N/A,0,Boston,1
+0,0,1,1,1,100,3,1,33,Jonas,2,1,50,10,0,2,Jonas Jerebko,4,1,Jerebko,N/A,0,Boston,0
+0,1,2,2,0,0,4,1,25,Gerald,0,0,0,10,0,0,Gerald Green,2,2,Green,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Young,N/A,N/A,Young,N/A,N/A,Boston,N/A
+3,0,4,6,4,67,17,6,35,Jimmy,12,8,67,37,3,2,Jimmy Butler,24,7,Butler,F,2,Chicago,0
+1,0,8,0,0,0,13,8,62,Taj,2,2,100,28,2,2,Taj Gibson,18,10,Gibson,F,0,Chicago,2
+1,0,2,0,0,0,8,3,38,Robin,4,2,50,27,6,2,Robin Lopez,8,8,Lopez,C,0,Chicago,1
+5,1,4,6,4,67,18,7,39,Dwyane,4,4,100,32,2,4,Dwyane Wade,22,6,Wade,G,0,Chicago,3
+9,0,6,2,1,50,9,1,11,Rajon,2,1,50,33,0,1,Rajon Rondo,4,6,Rondo,G,2,Chicago,2
+1,0,1,1,0,0,5,2,40,Doug,2,1,50,22,0,2,Doug McDermott,5,1,McDermott,N/A,0,Chicago,1
+1,0,7,6,1,17,11,6,55,Nikola,2,2,100,29,2,3,Nikola Mirotic,15,9,Mirotic,N/A,0,Chicago,3
+1,0,2,3,0,0,3,0,0,Isaiah,0,0,0,7,0,0,Isaiah Canaan,0,2,Canaan,N/A,1,Chicago,0
+0,0,0,0,0,0,2,1,50,Cristiano,2,2,100,8,0,2,Cristiano Felicio,4,0,Felicio,N/A,0,Chicago,0
+3,0,3,1,1,100,6,2,33,Michael,0,0,0,17,3,3,Michael Carter-Williams,5,6,Carter-Williams,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Portis,N/A,N/A,Portis,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Denzel,N/A,N/A,N/A,N/A,N/A,N/A,Denzel Valentine,N/A,N/A,Valentine,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Zipser,N/A,N/A,Zipser,N/A,N/A,Chicago,N/A

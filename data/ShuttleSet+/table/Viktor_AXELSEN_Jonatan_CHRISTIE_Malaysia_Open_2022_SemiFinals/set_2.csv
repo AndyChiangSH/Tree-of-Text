@@ -1,0 +1,42 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,26,00:29:37,1,0,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+2,7,00:30:07,2,0,Viktor AXELSEN,net shot,opponent wins by landing,wins by landing
+3,8,00:30:33,2,1,Jonatan CHRISTIE,rush,opponent wins by landing,wins by landing
+4,10,00:31:05,2,2,Jonatan CHRISTIE,return net,fails to clear the net,opponent fails to clear the net
+5,6,00:31:49,2,3,Jonatan CHRISTIE,return net,fails to clear the net,opponent fails to clear the net
+6,7,00:32:21,3,3,Viktor AXELSEN,smash,goes out of bounds,opponent goes out of bounds
+7,8,00:32:50,4,3,Viktor AXELSEN,return net,hits the net,opponent hits the net
+8,18,00:33:32,5,3,Viktor AXELSEN,unknown,hits the net,opponent hits the net
+9,30,00:34:34,6,3,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+10,8,00:35:30,7,3,Viktor AXELSEN,cross-court net shot,goes out of bounds,opponent goes out of bounds
+11,9,00:35:54,8,3,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+12,2,00:36:21,9,3,Viktor AXELSEN,wrist smash,hits the net,opponent hits the net
+13,3,00:36:50,9,4,Jonatan CHRISTIE,wrist smash,hits the net,opponent hits the net
+14,15,00:37:18,9,5,Jonatan CHRISTIE,lob,landing judgment error,opponent landing judgment error
+15,10,00:37:57,9,6,Jonatan CHRISTIE,return net,fails to clear the net,opponent fails to clear the net
+16,3,00:38:33,10,6,Viktor AXELSEN,push,hits the net,opponent hits the net
+18,32,00:39:35,10,8,Jonatan CHRISTIE,push,goes out of bounds,opponent goes out of bounds
+19,5,00:40:22,11,8,Viktor AXELSEN,rush,hits the net,opponent hits the net
+20,4,00:41:43,12,8,Viktor AXELSEN,drop,fails to clear the net,opponent fails to clear the net
+21,5,00:42:05,12,9,Jonatan CHRISTIE,drop,hits the net,opponent hits the net
+22,2,00:42:21,12,10,Jonatan CHRISTIE,net shot,hits the net,opponent hits the net
+23,4,00:42:40,13,10,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+24,23,00:43:22,13,11,Jonatan CHRISTIE,smash,hits the net,opponent hits the net
+25,5,00:44:02,14,11,Viktor AXELSEN,net shot,hits the net,opponent hits the net
+26,9,00:44:31,14,12,Jonatan CHRISTIE,lob,goes out of bounds,opponent goes out of bounds
+27,8,00:44:57,15,12,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+28,7,00:45:52,16,12,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+29,29,00:46:47,16,13,Jonatan CHRISTIE,smash,goes out of bounds,opponent goes out of bounds
+30,4,00:47:19,16,14,Jonatan CHRISTIE,drive,hits the net,opponent hits the net
+31,2,00:47:53,17,14,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+32,5,00:48:17,17,15,Jonatan CHRISTIE,push,goes out of bounds,opponent goes out of bounds
+33,12,00:48:46,17,16,Jonatan CHRISTIE,lob,goes out of bounds,opponent goes out of bounds
+34,24,00:49:23,17,17,Jonatan CHRISTIE,smash,fails to clear the net,opponent fails to clear the net
+35,7,00:50:23,17,18,Jonatan CHRISTIE,return net,opponent wins by landing,wins by landing
+36,21,00:51:08,18,18,Viktor AXELSEN,defensive return drive,goes out of bounds,opponent goes out of bounds
+37,19,00:51:54,18,19,Jonatan CHRISTIE,return net,goes out of bounds,opponent goes out of bounds
+38,2,00:52:35,19,19,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+39,4,00:53:15,20,19,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+40,3,00:53:34,20,20,Jonatan CHRISTIE,smash,goes out of bounds,opponent goes out of bounds
+41,34,00:54:22,20,21,Jonatan CHRISTIE,net shot,fails to clear the net,opponent fails to clear the net
+42,12,00:55:06,20,22,Jonatan CHRISTIE,lob,goes out of bounds,opponent goes out of bounds

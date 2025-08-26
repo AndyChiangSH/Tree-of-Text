@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,5,7,2,29,13,5,39,Bojan,2,2,100,25,1,0,Bojan Bogdanovic,14,6,Bogdanovic,F,1,Brooklyn,1
+4,0,5,1,0,0,7,2,29,Trevor,2,1,50,31,1,3,Trevor Booker,5,6,Booker,F,0,Brooklyn,2
+8,4,6,3,1,33,14,6,43,Brook,10,9,90,32,3,4,Brook Lopez,22,9,Lopez,C,1,Brooklyn,1
+3,0,4,2,0,0,5,2,40,Sean,4,3,75,26,0,1,Sean Kilpatrick,7,4,Kilpatrick,G,1,Brooklyn,2
+0,0,1,3,2,67,6,3,50,Isaiah,4,3,75,21,0,2,Isaiah Whitehead,11,1,Whitehead,G,0,Brooklyn,0
+2,0,2,9,5,56,13,7,54,Joe,0,0,0,28,0,3,Joe Harris,19,2,Harris,N/A,2,Brooklyn,2
+1,0,3,0,0,0,1,0,0,Anthony,0,0,0,13,1,1,Anthony Bennett,0,4,Bennett,N/A,0,Brooklyn,1
+1,1,4,1,0,0,5,3,60,Rondae,4,1,25,19,1,3,Rondae Hollis-Jefferson,7,5,Hollis-Jefferson,N/A,1,Brooklyn,3
+4,0,2,7,2,29,10,5,50,Jeremy,5,4,80,22,0,1,Jeremy Lin,16,2,Lin,N/A,2,Brooklyn,3
+0,0,3,0,0,0,4,2,50,Luis,0,0,0,12,0,2,Luis Scola,4,3,Scola,N/A,0,Brooklyn,0
+1,0,1,1,0,0,3,1,33,Caris,0,0,0,11,0,0,Caris LeVert,2,1,LeVert,N/A,0,Brooklyn,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Randy,N/A,N/A,N/A,N/A,N/A,N/A,Randy Foye,N/A,N/A,Foye,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Hamilton,N/A,N/A,Hamilton,N/A,N/A,Brooklyn,N/A
+2,0,3,4,1,25,11,5,46,Robert,4,4,100,35,2,2,Robert Covington,15,5,Covington,F,1,Philadelphia,2
+1,3,8,3,2,67,17,12,71,Joel,8,7,88,27,2,2,Joel Embiid,33,10,Embiid,F,2,Philadelphia,3
+2,1,5,0,0,0,9,0,0,Jahlil,4,3,75,28,5,3,Jahlil Okafor,3,10,Okafor,C,0,Philadelphia,3
+3,0,2,1,1,100,6,4,67,Gerald,1,1,100,29,0,1,Gerald Henderson,10,2,Henderson,G,1,Philadelphia,0
+5,0,1,5,3,60,11,3,27,Sergio,0,0,0,23,1,3,Sergio Rodriguez,9,2,Rodriguez,G,1,Philadelphia,2
+2,1,4,7,4,57,12,7,58,Ersan,4,4,100,31,0,3,Ersan Ilyasova,22,4,Ilyasova,N/A,0,Philadelphia,2
+6,0,2,1,0,0,9,4,44,T.J.,0,0,0,25,1,3,T.J. McConnell,8,3,McConnell,N/A,0,Philadelphia,3
+2,0,6,5,1,20,10,3,30,Dario,0,0,0,25,2,1,Dario Saric,7,8,Saric,N/A,0,Philadelphia,1
+0,0,3,2,0,0,3,0,0,Hollis,2,1,50,17,0,0,Hollis Thompson,1,3,Thompson,N/A,0,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timothe,N/A,N/A,N/A,N/A,N/A,N/A,Timothe Luwawu-Cabarrot,N/A,N/A,Luwawu-Cabarrot,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens Noel,N/A,N/A,Noel,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nik,N/A,N/A,N/A,N/A,N/A,N/A,Nik Stauskas,N/A,N/A,Stauskas,N/A,N/A,Philadelphia,N/A

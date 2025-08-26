@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,2,0,0,0,7,4,57,Tim,0,0,0,18,1,1,Tim Duncan,8,3,Duncan,F,0,San Antonio,0
+4,2,4,2,0,0,12,2,17,Kawhi,4,4,100,28,2,4,Kawhi Leonard,8,6,Leonard,F,4,San Antonio,1
+0,0,3,0,0,0,8,6,75,Aron,0,0,0,24,1,1,Aron Baynes,12,4,Baynes,C,0,San Antonio,0
+4,2,7,10,5,50,13,7,54,Danny,0,0,0,31,1,1,Danny Green,19,8,Green,G,2,San Antonio,0
+6,0,2,0,0,0,10,6,60,Tony,5,5,100,32,1,0,Tony Parker,17,3,Parker,G,0,San Antonio,5
+2,0,1,4,1,25,9,6,67,Manu,0,0,0,22,1,1,Manu Ginobili,13,2,Ginobili,N/A,1,San Antonio,1
+1,0,4,1,0,0,5,1,20,Boris,0,0,0,15,2,2,Boris Diaw,2,6,Diaw,N/A,0,San Antonio,1
+1,0,4,0,0,0,6,3,50,Tiago,0,0,0,17,3,2,Tiago Splitter,6,7,Splitter,N/A,0,San Antonio,1
+3,0,1,6,2,33,10,4,40,Marco,0,0,0,20,0,0,Marco Belinelli,10,1,Belinelli,N/A,0,San Antonio,0
+2,0,1,3,2,67,4,2,50,Patty,2,1,50,16,1,0,Patty Mills,7,2,Mills,N/A,1,San Antonio,0
+0,0,1,1,0,0,2,0,0,Matt,0,0,0,7,1,1,Matt Bonner,0,2,Bonner,N/A,0,San Antonio,0
+2,1,1,0,0,0,1,0,0,Cory,0,0,0,9,0,2,Cory Joseph,0,1,Joseph,N/A,0,San Antonio,1
+0,0,0,0,0,0,1,1,100,Jeff,0,0,0,2,0,1,Jeff Ayres,2,0,Ayres,N/A,0,San Antonio,0
+1,0,3,2,0,0,4,0,0,Kyle,0,0,0,27,0,1,Kyle Singler,0,3,Singler,F,1,Detroit,0
+2,0,2,0,0,0,10,3,30,Greg,1,0,0,30,4,1,Greg Monroe,6,6,Monroe,F,1,Detroit,1
+0,2,5,0,0,0,10,4,40,Andre,6,2,33,34,4,4,Andre Drummond,10,9,Drummond,C,0,Detroit,0
+0,1,3,5,2,40,15,7,47,Kentavious,4,4,100,36,0,3,Kentavious Caldwell-Pope,20,3,Caldwell-Pope,G,0,Detroit,1
+6,0,3,6,2,33,18,8,44,D.J.,4,4,100,34,0,2,D.J. Augustin,22,3,Augustin,G,0,Detroit,5
+1,0,1,3,1,33,9,3,33,Jodie,0,0,0,30,1,1,Jodie Meeks,7,2,Meeks,N/A,1,Detroit,1
+0,0,3,3,3,100,5,3,60,Anthony,0,0,0,19,1,1,Anthony Tolliver,9,4,Tolliver,N/A,0,Detroit,1
+6,0,0,1,1,100,6,4,67,John,0,0,0,12,0,0,John Lucas III,9,0,Lucas,N/A,1,Detroit,1
+0,1,6,0,0,0,2,1,50,Jonas,0,0,0,13,0,0,Jonas Jerebko,2,6,Jerebko,N/A,0,Detroit,0
+0,0,0,1,0,0,1,0,0,Gigi,0,0,0,2,0,0,Gigi Datome,0,0,Datome,N/A,0,Detroit,0
+1,0,0,0,0,0,1,0,0,Spencer,0,0,0,2,0,0,Spencer Dinwiddie,0,0,Dinwiddie,N/A,0,Detroit,0
+0,0,0,0,0,0,0,0,0,Joel,2,2,100,2,0,1,Joel Anthony,2,0,Anthony,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,N/A,Cartier Martin,N/A,N/A,Martin,N/A,N/A,Detroit,N/A

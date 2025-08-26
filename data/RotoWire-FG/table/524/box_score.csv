@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,4,2,50,6,4,67,Matt,0,0,0,32,0,2,Matt Barnes,10,5,Barnes,F,0,Sacramento,3
+7,2,5,6,3,50,24,13,54,DeMarcus,5,3,60,37,2,3,DeMarcus Cousins,32,7,Cousins,F,4,Sacramento,5
+0,0,2,0,0,0,8,6,75,Kosta,0,0,0,21,2,3,Kosta Koufos,12,4,Koufos,C,1,Sacramento,0
+0,0,3,3,1,33,4,2,50,Ben,3,2,67,16,0,2,Ben McLemore,7,3,McLemore,G,0,Sacramento,0
+6,0,1,2,1,50,5,1,20,Darren,0,0,0,20,0,2,Darren Collison,3,1,Collison,G,0,Sacramento,0
+4,0,4,3,1,33,6,3,50,Garrett,2,2,100,26,2,3,Garrett Temple,9,6,Temple,N/A,0,Sacramento,1
+1,0,0,1,0,0,4,1,25,Arron,0,0,0,23,0,2,Arron Afflalo,2,0,Afflalo,N/A,0,Sacramento,0
+4,0,3,3,2,67,11,5,46,Ty,4,3,75,28,0,1,Ty Lawson,15,3,Lawson,N/A,2,Sacramento,1
+0,0,3,7,5,71,9,6,67,Anthony,0,0,0,31,0,3,Anthony Tolliver,17,3,Tolliver,N/A,0,Sacramento,0
+0,1,2,0,0,0,3,1,33,Willie,0,0,0,8,0,2,Willie Cauley-Stein,2,2,Cauley-Stein,N/A,0,Sacramento,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omri,N/A,N/A,N/A,N/A,N/A,N/A,Omri Casspi,N/A,N/A,Casspi,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malachi,N/A,N/A,N/A,N/A,N/A,N/A,Malachi Richardson,N/A,N/A,Richardson,N/A,N/A,Sacramento,N/A
+1,1,0,6,0,0,19,6,32,Andrew,4,3,75,40,0,1,Andrew Wiggins,15,0,Wiggins,F,0,Minnesota,2
+1,2,7,0,0,0,5,3,60,Gorgui,0,0,0,43,3,5,Gorgui Dieng,6,10,Dieng,F,1,Minnesota,1
+5,0,8,5,1,20,15,7,47,Karl-Anthony,6,5,83,38,5,1,Karl-Anthony Towns,20,13,Towns,C,0,Minnesota,1
+2,0,6,12,7,58,21,13,62,Zach,7,7,100,39,0,5,Zach LaVine,40,6,LaVine,G,1,Minnesota,2
+8,0,4,6,3,50,10,4,40,Ricky,2,2,100,34,2,4,Ricky Rubio,13,6,Rubio,G,3,Minnesota,3
+1,1,2,1,0,0,4,1,25,Kris,3,1,33,14,1,2,Kris Dunn,3,3,Dunn,N/A,0,Minnesota,2
+0,0,1,1,1,100,1,1,100,Shabazz,4,3,75,17,0,2,Shabazz Muhammad,6,1,Muhammad,N/A,0,Minnesota,1
+0,0,1,1,0,0,3,1,33,Nemanja,0,0,0,11,0,0,Nemanja Bjelica,2,1,Bjelica,N/A,0,Minnesota,0
+0,0,1,0,0,0,1,0,0,Cole,0,0,0,5,1,1,Cole Aldrich,0,2,Aldrich,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyus,N/A,N/A,N/A,N/A,N/A,N/A,Tyus Jones,N/A,N/A,Jones,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Minnesota,N/A

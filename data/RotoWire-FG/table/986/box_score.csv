@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,7,5,1,20,8,2,25,Iman,0,0,0,24,0,3,Iman Shumpert,5,7,Shumpert,F,0,Sacramento,1
+1,0,3,1,0,0,8,2,25,Nemanja,0,0,0,21,1,1,Nemanja Bjelica,4,4,Bjelica,F,0,Sacramento,1
+1,2,3,0,0,0,3,2,67,Willie,6,2,33,19,1,5,Willie Cauley-Stein,6,4,Cauley-Stein,C,1,Sacramento,3
+1,0,2,5,2,40,15,8,53,Buddy,1,1,100,24,2,2,Buddy Hield,19,4,Hield,G,0,Sacramento,3
+6,0,6,5,3,60,14,6,43,De'Aaron,0,0,0,26,0,1,De'Aaron Fox,15,6,Fox,G,0,Sacramento,2
+1,1,5,3,1,33,10,3,30,Marvin,9,4,44,20,1,3,Marvin Bagley III,11,6,Bagley,N/A,0,Sacramento,1
+1,0,0,7,4,57,12,9,75,Justin,0,0,0,25,0,0,Justin Jackson,22,0,Jackson,N/A,0,Sacramento,1
+3,0,3,0,0,0,2,1,50,Kosta,0,0,0,16,2,4,Kosta Koufos,2,5,Koufos,N/A,1,Sacramento,0
+6,1,2,5,0,0,8,3,38,Frank,2,0,0,22,0,1,Frank Mason,6,2,Mason,N/A,1,Sacramento,1
+1,0,3,3,3,100,5,3,60,Troy,2,2,100,16,0,3,Troy Williams,11,3,Williams,N/A,1,Sacramento,0
+0,0,1,1,0,0,3,1,33,Yogi,0,0,0,10,0,1,Yogi Ferrell,2,1,Ferrell,N/A,0,Sacramento,0
+0,0,1,0,0,0,6,2,33,Harry,0,0,0,10,1,0,Harry Giles III,4,2,Giles,N/A,1,Sacramento,1
+1,0,0,1,0,0,1,0,0,Skal,2,2,100,8,0,2,Skal Labissiere,2,0,Labissiere,N/A,1,Sacramento,1
+3,0,3,8,3,38,12,3,25,Khris,3,3,100,22,0,0,Khris Middleton,12,3,Middleton,F,1,Milwaukee,1
+11,1,12,2,1,50,11,8,73,Giannis,12,9,75,30,3,3,Giannis Antetokounmpo,26,15,Antetokounmpo,F,1,Milwaukee,5
+0,4,2,9,2,22,9,2,22,Brook,2,2,100,20,0,3,Brook Lopez,8,2,Lopez,C,0,Milwaukee,0
+3,0,4,5,2,40,11,5,46,Malcolm,1,1,100,28,0,0,Malcolm Brogdon,13,4,Brogdon,G,0,Milwaukee,0
+1,1,6,5,1,20,11,6,55,Eric,4,4,100,22,0,2,Eric Bledsoe,17,6,Bledsoe,G,0,Milwaukee,2
+2,0,4,5,3,60,7,4,57,Ersan,4,4,100,21,0,3,Ersan Ilyasova,15,4,Ilyasova,N/A,1,Milwaukee,0
+1,0,5,5,2,40,7,4,57,John,0,0,0,20,1,2,John Henson,10,6,Henson,N/A,0,Milwaukee,1
+3,0,1,4,1,25,5,2,40,Donte,0,0,0,17,2,3,Donte DiVincenzo,5,3,DiVincenzo,N/A,2,Milwaukee,0
+0,0,2,3,3,100,5,4,80,Tony,1,1,100,18,0,1,Tony Snell,12,2,Snell,N/A,0,Milwaukee,1
+0,1,2,4,3,75,8,5,62,Pat,0,0,0,18,3,0,Pat Connaughton,13,5,Connaughton,N/A,0,Milwaukee,0
+0,0,2,4,1,25,5,1,20,Thon,0,0,0,10,0,0,Thon Maker,3,2,Maker,N/A,0,Milwaukee,0
+1,0,0,1,0,0,3,2,67,Sterling,4,4,100,8,1,2,Sterling Brown,8,1,Brown,N/A,0,Milwaukee,1
+5,0,3,1,0,0,1,0,0,Matthew,2,2,100,8,0,1,Matthew Dellavedova,2,3,Dellavedova,N/A,1,Milwaukee,1

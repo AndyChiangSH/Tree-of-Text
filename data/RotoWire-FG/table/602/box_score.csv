@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,0,2,1,50,3,1,33,PJ,2,1,50,8,0,2,PJ Hairston,4,0,Hairston,F,0,Charlotte,0
+0,2,9,4,1,25,6,2,33,Marvin,2,2,100,35,1,4,Marvin Williams,7,10,Williams,F,2,Charlotte,2
+2,1,4,0,0,0,9,3,33,Al,4,3,75,26,0,2,Al Jefferson,9,4,Jefferson,C,0,Charlotte,2
+3,2,6,5,3,60,11,6,55,Nicolas,2,2,100,35,0,3,Nicolas Batum,17,6,Batum,G,0,Charlotte,4
+6,0,0,5,0,0,12,4,33,Kemba,3,2,67,35,0,0,Kemba Walker,10,0,Walker,G,2,Charlotte,3
+1,0,3,0,0,0,8,5,63,Cody,6,4,67,24,3,4,Cody Zeller,14,6,Zeller,N/A,2,Charlotte,1
+0,0,4,3,2,67,10,8,80,Jeremy,0,0,0,23,0,1,Jeremy Lamb,18,4,Lamb,N/A,1,Charlotte,1
+2,0,2,2,0,0,6,1,17,Spencer,0,0,0,19,0,3,Spencer Hawes,2,2,Hawes,N/A,1,Charlotte,1
+3,0,1,5,1,20,11,6,55,Jeremy,8,6,75,26,0,1,Jeremy Lin,19,1,Lin,N/A,0,Charlotte,0
+0,0,0,0,0,0,0,0,0,Frank,0,0,0,3,0,0,Frank Kaminsky,0,0,Kaminsky,N/A,0,Charlotte,1
+0,0,1,0,0,0,2,2,100,Brian,0,0,0,6,0,0,Brian Roberts,4,1,Roberts,N/A,0,Charlotte,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Daniels,N/A,N/A,Daniels,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Hansbrough,N/A,N/A,Hansbrough,N/A,N/A,Charlotte,N/A
+2,0,5,1,1,100,3,2,67,Tayshaun,0,0,0,31,1,2,Tayshaun Prince,5,6,Prince,F,0,Minnesota,0
+2,0,4,2,2,100,5,4,80,Adreian,0,0,0,20,1,2,Adreian Payne,10,5,Payne,F,1,Minnesota,2
+2,3,11,1,0,0,16,7,44,Karl-Anthony,5,5,100,30,2,3,Karl-Anthony Towns,19,13,Towns,C,1,Minnesota,2
+5,0,2,3,1,33,16,6,38,Kevin,6,5,83,40,1,5,Kevin Martin,18,3,Martin,G,1,Minnesota,6
+8,0,4,4,1,25,19,9,47,Zach,2,1,50,37,1,2,Zach LaVine,20,5,LaVine,G,2,Minnesota,8
+4,1,5,5,3,60,7,4,57,Nemanja,2,2,100,28,2,4,Nemanja Bjelica,13,7,Bjelica,N/A,0,Minnesota,1
+0,0,4,0,0,0,4,1,25,Gorgui,0,0,0,18,2,2,Gorgui Dieng,2,6,Dieng,N/A,0,Minnesota,2
+0,0,1,1,0,0,4,2,50,Shabazz,2,0,0,14,0,0,Shabazz Muhammad,4,1,Muhammad,N/A,0,Minnesota,1
+1,0,1,0,0,0,4,0,0,Tyus,2,1,50,13,0,1,Tyus Jones,1,1,Jones,N/A,1,Minnesota,0
+1,0,1,2,1,50,2,1,50,Damjan,0,0,0,8,0,0,Damjan Rudez,3,1,Rudez,N/A,0,Minnesota,0
+0,0,0,0,0,0,0,0,0,Andre,0,0,0,3,0,0,Andre Miller,0,0,Miller,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ricky,N/A,N/A,N/A,N/A,N/A,N/A,Ricky Rubio,N/A,N/A,Rubio,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Wiggins,N/A,N/A,Wiggins,N/A,N/A,Minnesota,N/A

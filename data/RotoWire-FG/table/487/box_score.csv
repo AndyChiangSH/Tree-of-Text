@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,4,2,1,50,10,7,70,PJ,5,4,80,36,1,2,PJ Tucker,19,5,Tucker,F,3,Phoenix,1
+2,0,5,2,0,0,17,11,65,Markieff,2,1,50,35,1,4,Markieff Morris,23,6,Morris,F,0,Phoenix,2
+0,0,2,0,0,0,5,1,20,Alex,0,0,0,22,2,3,Alex Len,2,4,Len,C,0,Phoenix,3
+7,0,1,9,4,44,15,7,47,Brandon,12,10,83,39,0,1,Brandon Knight,28,1,Knight,G,3,Phoenix,3
+9,1,6,1,1,100,7,3,43,Eric,6,6,100,38,1,3,Eric Bledsoe,13,7,Bledsoe,G,3,Phoenix,7
+2,1,1,0,0,0,6,2,33,Brandan,0,0,0,23,2,1,Brandan Wright,4,3,Wright,N/A,1,Phoenix,0
+0,0,4,3,1,33,8,2,25,Marcus,2,2,100,20,0,1,Marcus Morris,7,4,Morris,N/A,0,Phoenix,1
+1,0,0,3,1,33,4,1,25,Archie,0,0,0,10,0,0,Archie Goodwin,3,0,Goodwin,N/A,0,Phoenix,2
+0,0,0,0,0,0,5,2,40,TJ,0,0,0,10,2,0,TJ Warren,4,2,Warren,N/A,0,Phoenix,0
+1,0,2,1,0,0,2,1,50,Marcus,0,0,0,8,0,0,Marcus Thornton,2,2,Thornton,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Earl,N/A,N/A,N/A,N/A,N/A,N/A,Earl Barron,N/A,N/A,Barron,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Bullock,N/A,N/A,Bullock,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Green,N/A,N/A,Green,N/A,N/A,Phoenix,N/A
+2,1,4,3,1,33,8,5,63,Tobias,0,0,0,36,0,1,Tobias Harris,11,4,Harris,F,0,Orlando,1
+0,1,6,0,0,0,3,3,100,Dewayne,3,2,67,21,2,5,Dewayne Dedmon,8,8,Dedmon,F,1,Orlando,0
+2,1,4,0,0,0,16,8,50,Nikola,2,2,100,30,1,1,Nikola Vucevic,18,5,Vucevic,C,3,Orlando,1
+3,0,3,8,4,50,25,15,60,Victor,4,4,100,43,1,4,Victor Oladipo,38,4,Oladipo,G,3,Orlando,7
+10,0,2,1,0,0,11,4,36,Elfrid,2,1,50,33,2,4,Elfrid Payton,9,4,Payton,G,5,Orlando,5
+1,0,3,0,0,0,1,0,0,Aaron,0,0,0,11,1,0,Aaron Gordon,0,4,Gordon,N/A,1,Orlando,0
+1,0,2,2,0,0,8,1,13,Willie,0,0,0,18,1,4,Willie Green,2,3,Green,N/A,0,Orlando,3
+0,1,4,2,0,0,4,1,25,Channing,2,2,100,15,0,4,Channing Frye,4,4,Frye,N/A,0,Orlando,1
+1,0,1,2,0,0,2,0,0,Maurice,0,0,0,12,0,1,Maurice Harkless,0,1,Harkless,N/A,0,Orlando,0
+1,1,4,0,0,0,6,3,50,Andrew,2,2,100,18,1,0,Andrew Nicholson,8,5,Nicholson,N/A,0,Orlando,1
+0,0,0,2,0,0,3,1,33,Ben,0,0,0,4,0,2,Ben Gordon,2,0,Gordon,N/A,0,Orlando,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle O'Quinn,N/A,N/A,O'Quinn,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luke,N/A,N/A,N/A,N/A,N/A,N/A,Luke Ridnour,N/A,N/A,Ridnour,N/A,N/A,Orlando,N/A

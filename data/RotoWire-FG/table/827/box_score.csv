@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,6,8,3,38,10,5,50,Dario,2,1,50,40,2,0,Dario Saric,14,8,Saric,F,1,Philadelphia,3
+2,1,11,3,1,33,11,6,55,Richaun,3,2,67,33,0,2,Richaun Holmes,15,11,Holmes,F,0,Philadelphia,2
+8,1,11,1,1,100,16,8,50,Joel,12,11,92,39,1,5,Joel Embiid,28,12,Embiid,C,0,Philadelphia,2
+3,0,2,9,3,33,15,6,40,JJ,11,11,100,35,0,2,JJ Redick,26,2,Redick,G,0,Philadelphia,3
+8,0,3,0,0,0,8,3,38,Ben,3,1,33,40,0,0,Ben Simmons,7,3,Simmons,G,1,Philadelphia,7
+2,0,5,0,0,0,4,3,75,T.J.,1,1,100,26,1,2,T.J. McConnell,7,6,McConnell,N/A,1,Philadelphia,3
+0,0,2,1,0,0,3,0,0,Amir,0,0,0,13,0,3,Amir Johnson,0,2,Johnson,N/A,1,Philadelphia,2
+5,1,3,0,0,0,8,6,75,Trevor,0,0,0,20,2,0,Trevor Booker,12,5,Booker,N/A,2,Philadelphia,0
+0,0,2,3,2,67,3,2,67,Jerryd,0,0,0,15,0,2,Jerryd Bayless,6,2,Bayless,N/A,0,Philadelphia,1
+1,0,0,1,1,100,2,1,50,Timothe,0,0,0,4,1,2,Timothe Luwawu-Cabarrot,3,1,Luwawu-Cabarrot,N/A,0,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Covington,N/A,N/A,Covington,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Furkan,N/A,N/A,N/A,N/A,N/A,N/A,Furkan Korkmaz,N/A,N/A,Korkmaz,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Michael McAdoo,N/A,N/A,Michael,N/A,N/A,Philadelphia,N/A
+2,1,3,7,1,14,24,8,33,Andrew,5,3,60,40,4,3,Andrew Wiggins,20,7,Wiggins,F,2,Minnesota,1
+2,2,7,1,0,0,9,3,33,Taj,4,1,25,40,5,6,Taj Gibson,7,12,Gibson,F,2,Minnesota,1
+2,3,12,4,0,0,16,6,38,Karl-Anthony,10,7,70,48,4,4,Karl-Anthony Towns,19,16,Towns,C,4,Minnesota,1
+3,0,3,9,3,33,33,15,46,Jimmy,5,5,100,46,3,1,Jimmy Butler,38,6,Butler,G,1,Minnesota,1
+3,0,1,3,1,33,14,8,57,Jeff,0,0,0,38,0,3,Jeff Teague,17,1,Teague,G,1,Minnesota,3
+5,0,2,4,0,0,5,1,20,Jamal,0,0,0,20,0,1,Jamal Crawford,2,2,Crawford,N/A,0,Minnesota,0
+1,0,1,0,0,0,1,1,100,Tyus,3,3,100,15,0,0,Tyus Jones,5,1,Jones,N/A,3,Minnesota,1
+1,1,4,1,0,0,6,2,33,Gorgui,0,0,0,18,1,3,Gorgui Dieng,4,5,Dieng,N/A,1,Minnesota,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nemanja,N/A,N/A,N/A,N/A,N/A,N/A,Nemanja Bjelica,N/A,N/A,Bjelica,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcus,N/A,N/A,N/A,N/A,N/A,N/A,Marcus Georges-Hunt,N/A,N/A,Georges-Hunt,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Muhammad,N/A,N/A,Muhammad,N/A,N/A,Minnesota,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,4,2,50,7,4,57,Paul,0,0,0,22,0,1,Paul Pierce,10,3,Pierce,F,1,Washington,1
+5,0,3,0,0,0,4,2,50,Drew,0,0,0,25,2,0,Drew Gooden,4,5,Gooden,F,0,Washington,0
+6,4,7,0,0,0,9,8,89,Marcin,2,2,100,26,0,4,Marcin Gortat,18,7,Gortat,C,0,Washington,2
+3,0,1,3,3,100,9,7,78,Bradley,5,4,80,23,2,2,Bradley Beal,21,3,Beal,G,1,Washington,3
+7,0,3,2,2,100,7,5,71,Ramon,9,7,78,29,1,0,Ramon Sessions,19,4,Sessions,G,0,Washington,4
+1,0,2,0,0,0,2,1,50,Otto,2,1,50,24,0,1,Otto Porter,3,2,Porter,N/A,1,Washington,1
+1,0,3,1,1,100,7,4,57,Rasual,0,0,0,23,0,2,Rasual Butler,9,3,Butler,N/A,0,Washington,1
+2,1,6,0,0,0,6,5,83,Kris,3,2,67,20,1,4,Kris Humphries,12,7,Humphries,N/A,0,Washington,0
+7,1,2,2,0,0,11,5,46,Will,0,0,0,19,0,3,Will Bynum,10,2,Bynum,N/A,1,Washington,1
+0,2,6,1,0,0,8,6,75,Kevin,0,0,0,22,0,3,Kevin Seraphin,12,6,Seraphin,N/A,0,Washington,1
+0,0,0,0,0,0,0,0,0,DeJuan,2,1,50,4,0,0,DeJuan Blair,1,0,Blair,N/A,0,Washington,0
+0,0,3,2,0,0,2,0,0,Martell,0,0,0,4,0,1,Martell Webster,0,3,Webster,N/A,0,Washington,0
+0,0,2,4,0,0,9,1,11,Jerami,6,4,67,27,0,2,Jerami Grant,6,2,Grant,F,2,Philadelphia,1
+1,0,5,0,0,0,8,2,25,Nerlens,2,1,50,24,3,1,Nerlens Noel,5,8,Noel,F,1,Philadelphia,0
+1,0,2,0,0,0,3,1,33,Furkan,0,0,0,13,1,3,Furkan Aldemir,2,3,Aldemir,C,0,Philadelphia,0
+1,0,1,6,4,67,11,8,73,Robert,8,7,88,24,2,1,Robert Covington,27,3,Covington,G,2,Philadelphia,1
+6,0,0,2,0,0,9,1,11,Ish,2,1,50,25,0,3,Ish Smith,3,0,Smith,G,1,Philadelphia,3
+0,0,0,3,0,0,7,2,29,Hollis,0,0,0,17,2,2,Hollis Thompson,4,2,Thompson,N/A,0,Philadelphia,0
+1,0,3,3,1,33,10,3,30,Luc,0,0,0,24,1,1,Luc Mbah a Moute,7,4,Mbah,N/A,1,Philadelphia,1
+3,1,0,4,0,0,7,0,0,JaKarr,2,2,100,23,0,5,JaKarr Sampson,2,0,Sampson,N/A,2,Philadelphia,0
+2,0,4,0,0,0,12,5,42,Thomas,2,1,50,22,8,2,Thomas Robinson,11,12,Robinson,N/A,2,Philadelphia,1
+1,0,1,5,4,80,7,6,86,Jason,1,1,100,21,0,1,Jason Richardson,17,1,Richardson,N/A,0,Philadelphia,1
+1,0,0,0,0,0,3,2,67,Henry,4,2,50,12,0,1,Henry Sims,6,0,Sims,N/A,0,Philadelphia,0
+0,0,1,0,0,0,3,0,0,Glenn,0,0,0,8,0,0,Glenn Robinson,0,1,Robinson,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah Canaan,N/A,N/A,Canaan,N/A,N/A,Philadelphia,N/A

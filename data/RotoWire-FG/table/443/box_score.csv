@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,2,0,3,1,33,8,4,50,Jeff,2,2,100,28,0,2,Jeff Green,11,0,Green,F,0,Orlando,0
+0,4,6,2,2,100,19,13,68,Serge,3,3,100,37,3,4,Serge Ibaka,31,9,Ibaka,F,0,Orlando,2
+3,0,3,0,0,0,10,2,20,Nikola,0,0,0,19,4,4,Nikola Vucevic,4,7,Vucevic,C,0,Orlando,0
+5,0,2,4,3,75,10,7,70,Evan,4,4,100,37,0,2,Evan Fournier,21,2,Fournier,G,0,Orlando,3
+9,1,7,7,3,43,19,10,53,Elfrid,2,0,0,37,0,3,Elfrid Payton,23,7,Payton,G,2,Orlando,0
+1,0,7,0,0,0,4,2,50,Bismack,2,1,50,29,1,1,Bismack Biyombo,5,8,Biyombo,N/A,1,Orlando,2
+1,0,1,3,1,33,9,5,56,Aaron,1,1,100,22,0,3,Aaron Gordon,12,1,Gordon,N/A,0,Orlando,1
+0,0,1,2,0,0,2,0,0,Damjan,0,0,0,10,0,0,Damjan Rudez,0,1,Rudez,N/A,0,Orlando,0
+0,0,1,3,1,33,5,3,60,D.J.,6,5,83,15,0,1,D.J. Augustin,12,1,Augustin,N/A,0,Orlando,1
+2,0,2,0,0,0,0,0,0,CJ,0,0,0,8,0,0,CJ Watson,0,2,Watson,N/A,1,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mario,N/A,N/A,N/A,N/A,N/A,N/A,Mario Hezonja,N/A,N/A,Hezonja,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Wilcox,N/A,N/A,Wilcox,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Stephen,N/A,N/A,N/A,N/A,N/A,N/A,Stephen Zimmerman,N/A,N/A,Zimmerman,N/A,N/A,Orlando,N/A
+0,4,1,6,2,33,11,6,55,Andre,3,0,0,32,2,3,Andre Roberson,14,3,Roberson,F,1,Oklahoma City,0
+1,0,2,4,1,25,6,1,17,Domantas,0,0,0,18,0,3,Domantas Sabonis,3,2,Sabonis,F,0,Oklahoma City,2
+0,1,6,0,0,0,13,6,46,Steven,1,1,100,35,4,1,Steven Adams,13,10,Adams,C,1,Oklahoma City,1
+2,0,1,1,0,0,9,6,67,Victor,0,0,0,31,0,0,Victor Oladipo,12,1,Oladipo,G,1,Oklahoma City,1
+16,0,10,3,0,0,21,14,67,Russell,18,13,72,38,2,2,Russell Westbrook,41,12,Westbrook,G,0,Oklahoma City,2
+0,0,2,0,0,0,3,1,33,Jerami,2,0,0,14,0,2,Jerami Grant,2,2,Grant,N/A,0,Oklahoma City,1
+0,1,4,2,0,0,13,7,54,Enes,2,2,100,24,4,2,Enes Kanter,16,8,Kanter,N/A,1,Oklahoma City,1
+0,0,3,4,1,25,7,3,43,Alex,0,0,0,19,0,3,Alex Abrines,7,3,Abrines,N/A,0,Oklahoma City,1
+0,0,1,3,3,100,4,3,75,Joffrey,0,0,0,15,0,2,Joffrey Lauvergne,9,1,Lauvergne,N/A,0,Oklahoma City,1
+2,0,0,2,0,0,4,0,0,Semaj,0,0,0,10,0,1,Semaj Christon,0,0,Christon,N/A,0,Oklahoma City,0
+1,0,0,0,0,0,1,0,0,Nick,0,0,0,5,0,0,Nick Collison,0,0,Collison,N/A,0,Oklahoma City,0
+0,0,0,0,0,0,0,0,0,Kyle,0,0,0,0,0,0,Kyle Singler,0,0,Singler,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Morrow,N/A,N/A,Morrow,N/A,N/A,Oklahoma City,N/A

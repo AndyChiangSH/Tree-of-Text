@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,5,4,80,23,13,56,Harrison,0,0,0,34,0,3,Harrison Barnes,30,2,Barnes,F,0,Dallas,1
+4,0,5,10,5,50,16,8,50,Dirk,7,5,71,31,0,5,Dirk Nowitzki,26,5,Nowitzki,F,0,Dallas,0
+2,1,1,0,0,0,2,1,50,Andrew,0,0,0,18,3,3,Andrew Bogut,2,4,Bogut,C,0,Dallas,2
+5,0,4,3,0,0,7,1,14,Wesley,0,0,0,37,0,3,Wesley Matthews,2,4,Matthews,G,0,Dallas,2
+7,0,1,3,1,33,9,5,56,Deron,0,0,0,33,1,2,Deron Williams,11,2,Williams,G,1,Dallas,3
+0,1,1,3,2,67,6,3,50,Seth,0,0,0,30,1,0,Seth Curry,8,2,Curry,N/A,1,Dallas,3
+0,0,0,1,1,100,1,1,100,Dorian,0,0,0,7,0,1,Dorian Finney-Smith,3,0,Finney-Smith,N/A,1,Dallas,1
+1,0,1,1,0,0,5,2,40,Devin,0,0,0,14,0,0,Devin Harris,4,1,Harris,N/A,0,Dallas,1
+4,0,2,1,0,0,4,0,0,J.J.,0,0,0,14,0,1,J.J. Barea,0,2,Barea,N/A,0,Dallas,1
+0,0,0,0,0,0,1,0,0,Dwight,2,2,100,6,0,0,Dwight Powell,2,0,Powell,N/A,0,Dallas,0
+0,0,0,1,0,0,2,1,50,Justin,0,0,0,6,0,1,Justin Anderson,2,0,Anderson,N/A,0,Dallas,0
+0,0,3,0,0,0,2,1,50,Salah,0,0,0,10,0,2,Salah Mejri,2,3,Mejri,N/A,0,Dallas,0
+0,0,1,1,0,0,11,5,46,Andrew,6,3,50,36,3,3,Andrew Wiggins,13,4,Wiggins,F,0,Minnesota,3
+0,0,3,0,0,0,8,5,63,Gorgui,4,2,50,25,2,1,Gorgui Dieng,12,5,Dieng,F,0,Minnesota,1
+4,3,10,3,2,67,19,15,79,Karl-Anthony,2,2,100,37,1,4,Karl-Anthony Towns,34,11,Towns,C,1,Minnesota,3
+5,0,6,4,1,25,7,2,29,Zach,0,0,0,29,0,2,Zach LaVine,5,6,LaVine,G,1,Minnesota,2
+15,0,5,2,0,0,9,3,33,Ricky,7,7,100,30,0,4,Ricky Rubio,13,5,Rubio,G,5,Minnesota,3
+0,0,2,2,1,50,9,5,56,Shabazz,0,0,0,20,0,2,Shabazz Muhammad,11,2,Muhammad,N/A,0,Minnesota,1
+2,0,4,2,1,50,2,1,50,Nemanja,0,0,0,29,1,5,Nemanja Bjelica,3,5,Bjelica,N/A,1,Minnesota,0
+3,1,1,1,0,0,3,1,33,Kris,2,1,50,18,0,2,Kris Dunn,3,1,Dunn,N/A,2,Minnesota,4
+1,0,1,0,0,0,0,0,0,Cole,0,0,0,4,1,0,Cole Aldrich,0,2,Aldrich,N/A,0,Minnesota,1
+0,0,0,1,1,100,3,3,100,Tyus,0,0,0,11,1,1,Tyus Jones,7,1,Jones,N/A,1,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Minnesota,N/A

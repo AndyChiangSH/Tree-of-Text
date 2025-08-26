@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,6,8,3,38,10,3,30,Trevor,0,0,0,27,1,1,Trevor Ariza,9,7,Ariza,F,1,Houston,1
+0,0,2,6,3,50,9,5,56,Ryan,4,4,100,24,2,1,Ryan Anderson,17,4,Anderson,F,0,Houston,1
+0,1,2,0,0,0,8,4,50,Nene,3,1,33,19,1,3,Nene,9,3,N/A,C,2,Houston,1
+14,0,4,6,1,17,9,3,33,James,6,6,100,30,0,1,James Harden,13,4,Harden,G,3,Houston,4
+5,0,10,2,0,0,3,1,33,Patrick,0,0,0,30,2,3,Patrick Beverley,2,12,Beverley,G,4,Houston,5
+0,3,6,0,0,0,8,7,88,Clint,2,1,50,19,2,5,Clint Capela,15,8,Capela,N/A,0,Houston,2
+1,0,1,14,4,29,16,5,31,Eric,5,5,100,30,0,3,Eric Gordon,19,1,Gordon,N/A,2,Houston,1
+2,0,1,11,7,64,16,9,56,Lou,2,2,100,25,1,1,Lou Williams,27,2,Williams,N/A,0,Houston,1
+1,0,3,3,2,67,5,3,60,Sam,0,0,0,20,1,2,Sam Dekker,8,4,Dekker,N/A,0,Houston,0
+2,0,1,0,0,0,6,5,83,Montrezl,2,0,0,14,2,5,Montrezl Harrell,10,3,Harrell,N/A,0,Houston,0
+1,0,0,1,0,0,1,0,0,Bobby,0,0,0,3,0,0,Bobby Brown,0,0,Brown,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chinanu,N/A,N/A,N/A,N/A,N/A,N/A,Chinanu Onuaku,N/A,N/A,Onuaku,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Wiltjer,N/A,N/A,Wiltjer,N/A,N/A,Houston,N/A
+5,0,3,4,1,25,4,1,25,Solomon,0,0,0,27,0,2,Solomon Hill,3,3,Hill,F,0,New Orleans,3
+1,2,6,2,0,0,21,8,38,Anthony,16,13,81,33,3,2,Anthony Davis,29,9,Davis,F,2,New Orleans,3
+5,4,10,5,1,20,19,11,58,DeMarcus,5,4,80,35,3,4,DeMarcus Cousins,27,13,Cousins,C,5,New Orleans,1
+3,0,3,1,0,0,6,2,33,E'Twaun,2,2,100,23,0,2,E'Twaun Moore,6,3,Moore,G,1,New Orleans,0
+4,2,3,6,0,0,12,3,25,Jrue,0,0,0,35,1,0,Jrue Holiday,6,4,Holiday,G,1,New Orleans,7
+1,0,3,2,1,50,3,2,67,Dante,0,0,0,25,1,4,Dante Cunningham,5,4,Cunningham,N/A,1,New Orleans,1
+5,0,2,4,0,0,6,1,17,Tim,0,0,0,23,2,0,Tim Frazier,2,4,Frazier,N/A,0,New Orleans,1
+0,0,1,4,2,50,9,5,56,Omri,0,0,0,24,1,3,Omri Casspi,12,2,Casspi,N/A,0,New Orleans,2
+0,0,2,2,1,50,3,2,67,Donatas,1,1,100,10,0,3,Donatas Motiejunas,6,2,Motiejunas,N/A,0,New Orleans,2
+0,0,0,1,0,0,3,1,33,Hollis,2,1,50,5,0,1,Hollis Thompson,3,0,Thompson,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alexis,N/A,N/A,N/A,N/A,N/A,N/A,Alexis Ajinca,N/A,N/A,Ajinca,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omer,N/A,N/A,N/A,N/A,N/A,N/A,Omer Asik,N/A,N/A,Asik,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cheick,N/A,N/A,N/A,N/A,N/A,N/A,Cheick Diallo,N/A,N/A,Diallo,N/A,N/A,New Orleans,N/A

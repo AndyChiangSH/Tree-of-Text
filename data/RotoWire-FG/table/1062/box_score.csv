@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,6,1,1,100,3,3,100,Mikal,0,0,0,30,1,2,Mikal Bridges,7,7,Bridges,F,2,Phoenix,4
+1,0,4,2,1,50,15,7,47,T.J.,3,3,100,31,0,3,T.J. Warren,18,4,Warren,F,1,Phoenix,1
+0,1,5,0,0,0,16,7,44,Deandre,2,0,0,29,3,3,Deandre Ayton,14,8,Ayton,C,1,Phoenix,1
+5,0,5,4,0,0,12,4,33,Devin,0,0,0,27,0,5,Devin Booker,8,5,Booker,G,0,Phoenix,4
+8,2,2,3,1,33,7,1,14,De'Anthony,0,0,0,22,2,2,De'Anthony Melton,3,4,Melton,G,1,Phoenix,3
+3,1,3,1,1,100,7,3,43,Josh,2,1,50,19,1,2,Josh Jackson,8,4,Jackson,N/A,0,Phoenix,5
+4,0,1,4,1,25,5,1,20,Elie,2,1,50,21,0,4,Elie Okobo,4,1,Okobo,N/A,1,Phoenix,0
+2,1,4,5,1,20,13,7,54,Kelly,6,1,17,24,1,4,Kelly Oubre Jr.,16,5,Oubre,N/A,1,Phoenix,0
+2,1,3,0,0,0,9,5,56,Richaun,3,3,100,19,2,2,Richaun Holmes,13,5,Holmes,N/A,0,Phoenix,1
+0,0,0,2,0,0,2,0,0,Quincy,0,0,0,9,0,3,Quincy Acy,0,0,Acy,N/A,1,Phoenix,0
+0,0,0,1,0,0,1,0,0,Dragan,0,0,0,5,0,0,Dragan Bender,0,0,Bender,N/A,0,Phoenix,0
+0,0,0,4,2,50,5,2,40,Troy,0,0,0,5,0,0,Troy Daniels,6,0,Daniels,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Anderson,N/A,N/A,Anderson,N/A,N/A,Phoenix,N/A
+3,0,5,5,3,60,12,7,58,Bojan,4,3,75,29,0,0,Bojan Bogdanovic,20,5,Bogdanovic,F,0,Indiana,0
+4,1,6,0,0,0,7,5,71,Thaddeus,2,2,100,28,1,2,Thaddeus Young,12,7,Young,F,1,Indiana,2
+1,2,5,4,1,25,11,7,64,Myles,5,3,60,28,1,1,Myles Turner,18,6,Turner,C,2,Indiana,0
+5,0,6,5,1,20,11,2,18,Victor,5,3,60,30,0,3,Victor Oladipo,8,6,Oladipo,G,2,Indiana,4
+7,0,3,2,2,100,8,4,50,Darren,5,5,100,27,1,1,Darren Collison,15,4,Collison,G,3,Indiana,3
+0,1,6,0,0,0,9,5,56,Domantas,7,4,57,20,2,4,Domantas Sabonis,14,8,Sabonis,N/A,1,Indiana,2
+5,0,3,3,2,67,7,4,57,Cory,0,0,0,21,1,0,Cory Joseph,10,4,Joseph,N/A,0,Indiana,1
+0,0,3,1,1,100,8,6,75,Tyreke,8,7,88,15,1,3,Tyreke Evans,20,4,Evans,N/A,1,Indiana,1
+1,0,1,0,0,0,4,2,50,TJ,0,0,0,11,2,1,TJ Leaf,4,3,Leaf,N/A,0,Indiana,0
+1,0,2,2,0,0,5,1,20,Doug,0,0,0,18,0,2,Doug McDermott,2,2,McDermott,N/A,0,Indiana,1
+2,2,2,1,1,100,2,2,100,Aaron,0,0,0,5,0,0,Aaron Holiday,5,2,Holiday,N/A,1,Indiana,0
+2,1,1,1,0,0,3,0,0,Kyle,0,0,0,5,0,0,Kyle O'Quinn,0,1,O'Quinn,N/A,0,Indiana,0
+0,0,0,1,1,100,2,1,50,Alize,0,0,0,4,0,0,Alize Johnson,3,0,Johnson,N/A,0,Indiana,0

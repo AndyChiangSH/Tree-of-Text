@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,6,4,2,50,11,6,55,Chandler,3,2,67,36,1,3,Chandler Parsons,16,7,Parsons,F,0,Dallas,0
+1,1,8,7,1,14,19,6,32,Dirk,3,2,67,32,0,2,Dirk Nowitzki,15,8,Nowitzki,F,0,Dallas,0
+1,4,7,0,0,0,7,5,71,Tyson,2,1,50,35,3,0,Tyson Chandler,11,10,Chandler,C,0,Dallas,1
+6,1,1,5,3,60,25,12,48,Monta,4,3,75,36,0,1,Monta Ellis,30,1,Ellis,G,3,Dallas,3
+6,1,2,3,1,33,4,1,25,Devin,6,5,83,33,0,3,Devin Harris,8,2,Harris,G,1,Dallas,2
+0,1,1,0,0,0,7,2,29,Brandan,0,0,0,15,1,1,Brandan Wright,4,2,Wright,N/A,0,Dallas,1
+9,0,4,3,1,33,6,2,33,J.J.,0,0,0,23,1,2,J.J. Barea,5,5,Barea,N/A,3,Dallas,1
+0,0,0,1,1,100,1,1,100,Jae,0,0,0,5,0,2,Jae Crowder,3,0,Crowder,N/A,0,Dallas,0
+2,1,2,3,2,67,6,5,83,Al-Farouq,4,2,50,24,0,3,Al-Farouq Aminu,14,2,Aminu,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richard,N/A,N/A,N/A,N/A,N/A,N/A,Richard Jefferson,N/A,N/A,Jefferson,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jameer,N/A,N/A,N/A,N/A,N/A,N/A,Jameer Nelson,N/A,N/A,Nelson,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Smith,N/A,N/A,Smith,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charlie,N/A,N/A,N/A,N/A,N/A,N/A,Charlie Villanueva,N/A,N/A,Villanueva,N/A,N/A,Dallas,N/A
+0,0,0,4,1,25,8,3,38,Terrence,0,0,0,23,1,1,Terrence Ross,7,1,Ross,F,1,Toronto,1
+0,1,3,2,2,100,15,9,60,Amir,0,0,0,30,6,4,Amir Johnson,20,9,Johnson,F,1,Toronto,1
+0,0,12,0,0,0,5,2,40,Jonas,4,4,100,28,1,1,Jonas Valanciunas,8,13,Valanciunas,C,1,Toronto,0
+2,0,3,0,0,0,8,0,0,DeMar,0,0,0,20,1,2,DeMar DeRozan,0,4,DeRozan,G,0,Toronto,2
+4,0,6,10,3,30,22,9,41,Kyle,4,4,100,32,1,3,Kyle Lowry,25,7,Lowry,G,1,Toronto,2
+2,0,8,5,2,40,9,4,44,Patrick,2,0,0,30,4,2,Patrick Patterson,10,12,Patterson,N/A,0,Toronto,2
+1,0,1,7,2,29,11,5,46,Lou,5,4,80,30,0,3,Lou Williams,16,1,Williams,N/A,2,Toronto,3
+6,0,3,5,4,80,11,5,46,Greivis,1,0,0,25,0,4,Greivis Vasquez,14,3,Vasquez,N/A,1,Toronto,3
+1,0,3,0,0,0,2,1,50,James,0,0,0,17,1,3,James Johnson,2,4,Johnson,N/A,0,Toronto,2
+1,0,1,0,0,0,0,0,0,Charles,0,0,0,5,0,0,Charles Hayes,0,1,Hayes,N/A,0,Toronto,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bruno,N/A,N/A,N/A,N/A,N/A,N/A,Bruno Caboclo,N/A,N/A,Caboclo,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Landry,N/A,N/A,N/A,N/A,N/A,N/A,Landry Fields,N/A,N/A,Fields,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Stiemsma,N/A,N/A,Stiemsma,N/A,N/A,Toronto,N/A

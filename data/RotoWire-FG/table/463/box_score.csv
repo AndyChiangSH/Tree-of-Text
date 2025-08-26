@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,4,2,0,0,19,7,37,Joe,3,2,67,42,3,2,Joe Johnson,16,7,Johnson,F,2,Miami,1
+3,0,2,2,2,100,9,4,44,Luol,0,0,0,39,2,1,Luol Deng,10,4,Deng,F,4,Miami,5
+0,1,15,0,0,0,7,3,43,Hassan,6,3,50,39,2,3,Hassan Whiteside,9,17,Whiteside,C,2,Miami,0
+4,2,6,1,1,100,21,10,48,Dwyane,3,3,100,37,0,2,Dwyane Wade,24,6,Wade,G,3,Miami,3
+2,0,6,4,3,75,20,10,50,Goran,5,3,60,41,0,2,Goran Dragic,26,6,Dragic,G,0,Miami,3
+0,0,2,2,2,100,6,3,50,Josh,4,3,75,24,0,4,Josh Richardson,11,2,Richardson,N/A,1,Miami,2
+1,1,1,0,0,0,2,0,0,Gerald,0,0,0,7,1,0,Gerald Green,0,2,Green,N/A,0,Miami,0
+0,0,1,0,0,0,2,2,100,Amar'e,0,0,0,8,0,0,Amar'e Stoudemire,4,1,Stoudemire,N/A,0,Miami,0
+0,0,3,0,0,0,2,0,0,Justise,0,0,0,22,2,3,Justise Winslow,0,5,Winslow,N/A,0,Miami,2
+0,0,1,0,0,0,1,1,100,Udonis,0,0,0,6,1,0,Udonis Haslem,2,2,Haslem,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Johnson,N/A,N/A,Johnson,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh McRoberts,N/A,N/A,McRoberts,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dorell,N/A,N/A,N/A,N/A,N/A,N/A,Dorell Wright,N/A,N/A,Wright,N/A,N/A,Miami,N/A
+2,0,2,1,0,0,5,1,20,Norman,0,0,0,22,0,3,Norman Powell,2,2,Powell,F,1,Toronto,1
+0,1,4,4,2,50,7,4,57,DeMarre,0,0,0,37,0,5,DeMarre Carroll,10,4,Carroll,F,2,Toronto,2
+3,3,14,0,0,0,16,10,63,Jonas,4,4,100,41,0,2,Jonas Valanciunas,24,14,Valanciunas,C,2,Toronto,1
+4,0,6,0,0,0,22,9,41,DeMar,6,4,67,42,0,2,DeMar DeRozan,22,6,DeRozan,G,1,Toronto,2
+6,0,3,7,1,14,13,3,23,Kyle,0,0,0,43,1,5,Kyle Lowry,7,4,Lowry,G,3,Toronto,3
+1,2,1,7,2,29,13,7,54,Terrence,5,3,60,27,1,0,Terrence Ross,19,2,Ross,N/A,1,Toronto,2
+0,0,2,0,0,0,0,0,0,Bismack,0,0,0,12,1,2,Bismack Biyombo,0,3,Biyombo,N/A,0,Toronto,1
+2,0,2,0,0,0,9,5,56,Cory,0,0,0,23,1,4,Cory Joseph,10,3,Joseph,N/A,0,Toronto,2
+1,0,3,2,0,0,4,1,25,Patrick,0,0,0,18,0,2,Patrick Patterson,2,3,Patterson,N/A,0,Toronto,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Johnson,N/A,N/A,Johnson,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luis,N/A,N/A,N/A,N/A,N/A,N/A,Luis Scola,N/A,N/A,Scola,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Thompson,N/A,N/A,Thompson,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Delon,N/A,N/A,N/A,N/A,N/A,N/A,Delon Wright,N/A,N/A,Wright,N/A,N/A,Toronto,N/A

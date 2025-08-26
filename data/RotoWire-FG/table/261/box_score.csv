@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,2,3,10,2,20,19,4,21,Kobe,5,4,80,35,0,2,Kobe Bryant,14,3,Bryant,F,2,Los Angeles,2
+0,1,2,0,0,0,12,3,25,Julius,2,2,100,28,3,2,Julius Randle,8,5,Randle,F,3,Los Angeles,1
+3,1,2,0,0,0,5,2,40,Roy,2,1,50,23,3,1,Roy Hibbert,5,5,Hibbert,C,1,Los Angeles,3
+2,0,2,3,3,100,8,5,63,Jordan,0,0,0,29,1,2,Jordan Clarkson,13,3,Clarkson,G,1,Los Angeles,2
+4,0,5,7,4,57,16,6,38,D'Angelo,0,0,0,36,5,2,D'Angelo Russell,16,10,Russell,G,1,Los Angeles,7
+0,0,5,0,0,0,5,3,60,Larry,0,0,0,20,2,0,Larry Nance Jr.,6,7,Nance,N/A,1,Los Angeles,0
+2,1,1,6,3,50,13,6,46,Lou,4,3,75,31,0,3,Lou Williams,18,1,Williams,N/A,1,Los Angeles,1
+2,2,4,0,0,0,5,2,40,Brandon,0,0,0,25,1,1,Brandon Bass,4,5,Bass,N/A,0,Los Angeles,0
+1,0,3,1,1,100,3,1,33,Metta,0,0,0,13,0,1,Metta World Peace,3,3,World,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo Huertas,N/A,N/A,Huertas,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Sacre,N/A,N/A,Sacre,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Los Angeles,N/A
+1,1,3,4,2,50,7,3,43,Thabo,0,0,0,32,2,1,Thabo Sefolosha,8,5,Sefolosha,F,1,Atlanta,3
+2,2,6,1,0,0,12,6,50,Paul,3,3,100,34,2,3,Paul Millsap,15,8,Millsap,F,2,Atlanta,2
+5,1,8,4,1,25,11,6,55,Al,4,3,75,33,1,0,Al Horford,16,9,Horford,C,1,Atlanta,3
+4,3,6,5,1,20,8,3,38,Kyle,0,0,0,33,0,1,Kyle Korver,7,6,Korver,G,1,Atlanta,3
+5,0,1,3,1,33,9,5,56,Jeff,2,2,100,31,0,0,Jeff Teague,13,1,Teague,G,2,Atlanta,1
+0,1,1,1,1,100,4,2,50,Mike,1,1,100,12,2,0,Mike Muscala,6,3,Muscala,N/A,0,Atlanta,1
+2,1,5,3,1,33,4,2,50,Dennis,2,1,50,17,0,0,Dennis Schroder,6,5,Schroder,N/A,0,Atlanta,2
+2,0,3,3,2,67,10,5,50,Kent,4,3,75,25,0,2,Kent Bazemore,15,3,Bazemore,N/A,4,Atlanta,0
+0,0,0,0,0,0,0,0,0,Lamar,0,0,0,6,0,2,Lamar Patterson,0,0,Patterson,N/A,0,Atlanta,1
+3,0,1,2,1,50,9,5,56,Mike,4,3,75,17,2,2,Mike Scott,14,3,Scott,N/A,0,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Holiday,N/A,N/A,Holiday,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shelvin,N/A,N/A,N/A,N/A,N/A,N/A,Shelvin Mack,N/A,N/A,Mack,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tiago,N/A,N/A,N/A,N/A,N/A,N/A,Tiago Splitter,N/A,N/A,Splitter,N/A,N/A,Atlanta,N/A

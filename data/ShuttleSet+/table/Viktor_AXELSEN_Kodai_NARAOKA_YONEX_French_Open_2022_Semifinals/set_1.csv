@@ -1,0 +1,33 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,10,00:07:34,1,0,Viktor AXELSEN,smash,hits the net,opponent hits the net
+2,35,00:08:34,2,0,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+3,13,00:09:15,3,0,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+4,18,00:09:52,3,1,Kodai NARAOKA,wrist smash,opponent wins by landing,wins by landing
+5,6,00:10:28,3,2,Kodai NARAOKA,smash,goes out of bounds,opponent goes out of bounds
+6,7,00:11:54,4,2,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+7,4,00:12:12,4,3,Kodai NARAOKA,smash,opponent wins by landing,wins by landing
+8,16,00:12:41,5,3,Viktor AXELSEN,push,landing judgment error,opponent landing judgment error
+9,13,00:13:40,6,3,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+10,3,00:14:25,7,3,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+11,33,00:15:32,7,4,Kodai NARAOKA,smash,goes out of bounds,opponent goes out of bounds
+12,18,00:16:13,7,5,Kodai NARAOKA,wrist smash,hits the net,opponent hits the net
+13,2,00:16:43,7,6,Kodai NARAOKA,push,goes out of bounds,opponent goes out of bounds
+14,13,00:17:12,8,6,Viktor AXELSEN,net shot,goes out of bounds,opponent goes out of bounds
+15,3,00:17:31,9,6,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing
+16,9,00:17:56,9,7,Kodai NARAOKA,return net,goes out of bounds,opponent goes out of bounds
+18,8,00:19:02,11,7,Viktor AXELSEN,net shot,hits the net,opponent hits the net
+19,18,00:20:29,12,7,Viktor AXELSEN,drop,goes out of bounds,opponent goes out of bounds
+20,12,00:20:58,13,7,Viktor AXELSEN,wrist smash,goes out of bounds,opponent goes out of bounds
+21,9,00:21:32,13,8,Kodai NARAOKA,lob,goes out of bounds,opponent goes out of bounds
+22,10,00:22:04,14,8,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+23,6,00:22:29,14,9,Kodai NARAOKA,drop,opponent wins by landing,wins by landing
+24,4,00:23:19,14,10,Kodai NARAOKA,defensive return lob,goes out of bounds,opponent goes out of bounds
+25,24,00:23:56,14,11,Kodai NARAOKA,return net,hits the net,opponent hits the net
+26,11,00:25:18,15,11,Viktor AXELSEN,net shot,hits the net,opponent hits the net
+27,4,00:25:35,16,11,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+28,20,00:26:28,17,11,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds
+29,8,00:26:56,18,11,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds
+30,5,00:27:16,19,11,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+31,3,00:27:46,19,12,Kodai NARAOKA,wrist smash,goes out of bounds,opponent goes out of bounds
+32,8,00:28:38,20,12,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing
+33,19,00:29:13,21,12,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing

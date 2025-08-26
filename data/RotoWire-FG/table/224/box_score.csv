@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,5,2,40,9,2,22,CJ,2,2,100,30,1,1,CJ Miles,8,3,Miles,F,2,Indiana,2
+6,0,7,7,2,29,17,5,29,Paul,4,4,100,38,2,2,Paul George,16,9,George,F,2,Indiana,4
+0,0,0,0,0,0,0,0,0,Ian,0,0,0,5,0,1,Ian Mahinmi,0,0,Mahinmi,C,0,Indiana,1
+3,0,2,4,1,25,16,7,44,Monta,0,0,0,33,1,4,Monta Ellis,15,3,Ellis,G,3,Indiana,3
+6,1,5,6,2,33,12,5,42,George,0,0,0,36,1,1,George Hill,12,6,Hill,G,4,Indiana,0
+0,3,4,0,0,0,4,3,75,Myles,0,0,0,15,0,3,Myles Turner,6,4,Turner,N/A,1,Indiana,0
+2,0,4,1,0,0,14,9,64,Rodney,6,5,83,26,0,2,Rodney Stuckey,23,4,Stuckey,N/A,1,Indiana,2
+2,1,3,0,0,0,7,2,29,Lavoy,0,0,0,22,3,1,Lavoy Allen,4,6,Allen,N/A,1,Indiana,2
+0,0,1,0,0,0,0,0,0,Chase,0,0,0,10,0,1,Chase Budinger,0,1,Budinger,N/A,0,Indiana,0
+1,0,2,0,0,0,9,5,56,Jordan,0,0,0,23,4,3,Jordan Hill,10,6,Hill,N/A,1,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Solomon,N/A,N/A,N/A,N/A,N/A,N/A,Solomon Hill,N/A,N/A,Hill,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Glenn,N/A,N/A,N/A,N/A,N/A,N/A,Glenn Robinson,N/A,N/A,Robinson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+0,2,4,6,1,17,11,3,27,Marcus,4,4,100,39,3,2,Marcus Morris,11,7,Morris,F,2,Detroit,4
+0,0,0,4,2,50,13,5,39,Ersan,0,0,0,35,4,0,Ersan Ilyasova,12,4,Ilyasova,F,1,Detroit,0
+0,1,18,0,0,0,17,12,71,Andre,2,1,50,43,11,3,Andre Drummond,25,29,Drummond,C,3,Detroit,4
+5,0,5,3,0,0,13,4,31,Kentavious,5,4,80,42,0,3,Kentavious Caldwell-Pope,12,5,Caldwell-Pope,G,1,Detroit,2
+6,1,0,4,2,50,20,8,40,Reggie,2,2,100,34,0,3,Reggie Jackson,20,0,Jackson,G,1,Detroit,6
+2,0,2,1,0,0,5,0,0,Stanley,2,0,0,12,1,4,Stanley Johnson,0,3,Johnson,N/A,0,Detroit,1
+1,1,0,1,0,0,1,0,0,Steve,0,0,0,7,0,2,Steve Blake,0,0,Blake,N/A,0,Detroit,3
+0,0,0,0,0,0,1,0,0,Aron,0,0,0,5,0,0,Aron Baynes,0,0,Baynes,N/A,0,Detroit,0
+0,0,1,2,0,0,2,0,0,Anthony,0,0,0,13,0,1,Anthony Tolliver,0,1,Tolliver,N/A,0,Detroit,1
+0,0,0,1,0,0,2,0,0,Reggie,0,0,0,4,0,0,Reggie Bullock,0,0,Bullock,N/A,0,Detroit,0
+0,0,1,0,0,0,1,1,100,Spencer,2,0,0,7,0,3,Spencer Dinwiddie,2,1,Dinwiddie,N/A,0,Detroit,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrun,N/A,N/A,N/A,N/A,N/A,N/A,Darrun Hilliard,N/A,N/A,Hilliard,N/A,N/A,Detroit,N/A

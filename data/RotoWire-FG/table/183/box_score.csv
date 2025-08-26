@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,1,0,0,7,1,14,Solomon,6,5,83,36,1,0,Solomon Hill,7,5,Hill,F,3,Indiana,2
+4,0,4,0,0,0,8,3,38,David,0,0,0,31,4,0,David West,6,8,West,F,1,Indiana,4
+0,0,4,0,0,0,11,6,55,Roy,6,6,100,25,3,4,Roy Hibbert,18,7,Hibbert,C,0,Indiana,3
+4,0,3,2,0,0,9,3,33,Rodney,5,5,100,28,0,3,Rodney Stuckey,11,3,Stuckey,G,1,Indiana,2
+6,0,8,5,2,40,11,4,36,Donald,0,0,0,33,0,0,Donald Sloan,10,8,Sloan,G,1,Indiana,0
+1,2,4,9,6,67,14,8,57,CJ,1,0,0,32,0,1,CJ Miles,22,4,Miles,N/A,0,Indiana,1
+5,1,4,0,0,0,9,3,33,Lavoy,0,0,0,23,1,3,Lavoy Allen,6,5,Allen,N/A,0,Indiana,1
+0,0,0,3,0,0,3,0,0,Chris,0,0,0,15,0,1,Chris Copeland,0,0,Copeland,N/A,1,Indiana,1
+1,0,4,0,0,0,9,7,78,Luis,2,0,0,17,1,0,Luis Scola,14,5,Scola,N/A,0,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,George,N/A,N/A,N/A,N/A,N/A,N/A,George Hill,N/A,N/A,Hill,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damjan,N/A,N/A,N/A,N/A,N/A,N/A,Damjan Rudez,N/A,N/A,Rudez,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Watson,N/A,N/A,Watson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shayne,N/A,N/A,N/A,N/A,N/A,N/A,Shayne Whittington,N/A,N/A,Whittington,N/A,N/A,Indiana,N/A
+0,4,3,2,0,0,8,2,25,Giannis,2,2,100,33,1,5,Giannis Antetokounmpo,6,4,Antetokounmpo,F,0,Milwaukee,2
+2,0,0,0,0,0,4,0,0,Johnny,0,0,0,13,0,0,Johnny O'Bryant III,0,0,O'Bryant,F,0,Milwaukee,1
+1,1,10,0,0,0,10,4,40,Zaza,4,4,100,25,4,0,Zaza Pachulia,12,14,Pachulia,C,1,Milwaukee,0
+3,0,7,5,1,20,10,5,50,Khris,0,0,0,31,1,6,Khris Middleton,11,8,Middleton,G,2,Milwaukee,1
+7,0,2,5,2,40,19,9,47,Brandon,0,0,0,33,0,1,Brandon Knight,20,2,Knight,G,4,Milwaukee,2
+4,0,2,5,3,60,6,3,50,Jared,0,0,0,23,0,0,Jared Dudley,9,2,Dudley,N/A,1,Milwaukee,0
+1,2,7,0,0,0,9,6,67,John,4,2,50,23,3,3,John Henson,14,10,Henson,N/A,0,Milwaukee,2
+1,0,1,4,1,25,12,5,42,O.J.,0,0,0,24,0,3,O.J. Mayo,11,1,Mayo,N/A,0,Milwaukee,2
+5,0,0,2,0,0,9,3,33,Jerryd,0,0,0,23,0,0,Jerryd Bayless,6,0,Bayless,N/A,2,Milwaukee,1
+4,0,1,1,0,0,2,1,50,Kendall,0,0,0,12,1,0,Kendall Marshall,2,2,Marshall,N/A,0,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ersan,N/A,N/A,N/A,N/A,N/A,N/A,Ersan Ilyasova,N/A,N/A,Ilyasova,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nate,N/A,N/A,N/A,N/A,N/A,N/A,Nate Wolters,N/A,N/A,Wolters,N/A,N/A,Milwaukee,N/A

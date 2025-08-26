@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,6,6,1,17,17,6,35,Chandler,2,1,50,35,2,4,Chandler Parsons,14,8,Parsons,F,2,Dallas,4
+1,3,2,5,2,40,11,5,46,Al-Farouq,1,1,100,28,3,2,Al-Farouq Aminu,13,5,Aminu,F,1,Dallas,1
+0,1,10,0,0,0,11,8,73,Tyson,6,2,33,33,10,1,Tyson Chandler,18,20,Chandler,C,1,Dallas,4
+7,1,2,3,0,0,26,11,42,Monta,1,1,100,36,0,3,Monta Ellis,23,2,Ellis,G,3,Dallas,0
+3,0,3,5,3,60,7,5,71,Jameer,0,0,0,30,1,4,Jameer Nelson,13,4,Nelson,G,1,Dallas,3
+2,0,0,3,1,33,5,2,40,Richard,6,5,83,23,0,1,Richard Jefferson,10,0,Jefferson,N/A,0,Dallas,1
+0,1,2,0,0,0,3,2,67,Brandan,4,3,75,15,1,1,Brandan Wright,7,3,Wright,N/A,0,Dallas,0
+3,0,3,3,0,0,6,1,17,Devin,0,0,0,18,0,2,Devin Harris,2,3,Harris,N/A,0,Dallas,3
+0,0,1,2,1,50,4,1,25,J.J.,2,2,100,12,0,3,J.J. Barea,5,1,Barea,N/A,0,Dallas,0
+0,0,0,0,0,0,1,1,100,Jae,0,0,0,7,0,0,Jae Crowder,2,0,Crowder,N/A,0,Dallas,0
+0,0,0,0,0,0,1,0,0,Charlie,0,0,0,3,0,2,Charlie Villanueva,0,0,Villanueva,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dirk,N/A,N/A,N/A,N/A,N/A,N/A,Dirk Nowitzki,N/A,N/A,Nowitzki,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Smith,N/A,N/A,Smith,N/A,N/A,Dallas,N/A
+5,0,5,0,0,0,4,1,25,Giannis,2,1,50,18,0,2,Giannis Antetokounmpo,3,5,Antetokounmpo,F,0,Milwaukee,2
+1,0,3,0,0,0,6,3,50,Jabari,5,2,40,22,1,1,Jabari Parker,8,4,Parker,F,0,Milwaukee,2
+0,1,2,0,0,0,6,3,50,Larry,2,0,0,22,1,5,Larry Sanders,6,3,Sanders,C,0,Milwaukee,0
+5,0,3,3,2,67,7,3,43,O.J.,6,4,67,27,0,3,O.J. Mayo,12,3,Mayo,G,1,Milwaukee,2
+5,0,4,5,2,40,16,8,50,Brandon,7,7,100,32,2,2,Brandon Knight,25,6,Knight,G,4,Milwaukee,3
+2,0,8,0,0,0,6,3,50,Zaza,2,2,100,26,1,2,Zaza Pachulia,8,9,Pachulia,N/A,0,Milwaukee,1
+1,0,0,2,2,100,5,3,60,Jared,0,0,0,26,0,1,Jared Dudley,8,0,Dudley,N/A,2,Milwaukee,1
+2,0,0,0,0,0,6,3,50,Jerryd,2,2,100,21,0,3,Jerryd Bayless,8,0,Bayless,N/A,0,Milwaukee,3
+0,1,5,1,1,100,13,8,62,Khris,6,4,67,30,3,2,Khris Middleton,21,8,Middleton,N/A,3,Milwaukee,3
+3,0,1,0,0,0,4,3,75,Kendall,0,0,0,16,0,3,Kendall Marshall,6,1,Marshall,N/A,1,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Henson,N/A,N/A,Henson,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ersan,N/A,N/A,N/A,N/A,N/A,N/A,Ersan Ilyasova,N/A,N/A,Ilyasova,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nate,N/A,N/A,N/A,N/A,N/A,N/A,Nate Wolters,N/A,N/A,Wolters,N/A,N/A,Milwaukee,N/A

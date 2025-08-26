@@ -1,0 +1,42 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,9,00:07:01,1,0,Chico Aura DWI WARDOYO,smash,opponent wins by landing,wins by landing
+2,21,00:07:32,1,1,LU Guang Zu,back-court drive,goes out of bounds,opponent goes out of bounds
+3,10,00:07:58,1,2,LU Guang Zu,push,hits the net,opponent hits the net
+4,5,00:08:30,2,2,Chico Aura DWI WARDOYO,rush,goes out of bounds,opponent goes out of bounds
+5,13,00:08:56,3,2,Chico Aura DWI WARDOYO,net shot,opponent wins by landing,wins by landing
+6,4,00:09:18,3,3,LU Guang Zu,smash,opponent wins by landing,wins by landing
+7,4,00:09:56,3,4,LU Guang Zu,net shot,hits the net,opponent hits the net
+8,10,00:10:22,3,5,LU Guang Zu,net shot,hits the net,opponent hits the net
+9,12,00:10:52,4,5,Chico Aura DWI WARDOYO,rush,opponent wins by landing,wins by landing
+10,7,00:11:13,4,6,LU Guang Zu,smash,goes out of bounds,opponent goes out of bounds
+11,12,00:11:42,4,7,LU Guang Zu,net shot,hits the net,opponent hits the net
+12,5,00:12:09,4,8,LU Guang Zu,net shot,opponent wins by landing,wins by landing
+13,13,00:12:39,5,8,Chico Aura DWI WARDOYO,lob,goes out of bounds,opponent goes out of bounds
+14,3,00:12:57,6,8,Chico Aura DWI WARDOYO,lob,landing judgment error,opponent landing judgment error
+15,18,00:13:28,7,8,Chico Aura DWI WARDOYO,return net,fails to clear the net,opponent fails to clear the net
+16,11,00:14:22,7,9,LU Guang Zu,clear,goes out of bounds,opponent goes out of bounds
+17,10,00:14:51,8,9,Chico Aura DWI WARDOYO,smash,opponent wins by landing,wins by landing
+18,29,00:15:40,8,10,LU Guang Zu,rush,hits the net,opponent hits the net
+19,3,00:16:02,9,10,Chico Aura DWI WARDOYO,unknown,hits the net,opponent hits the net
+20,10,00:16:27,9,11,LU Guang Zu,net shot,opponent wins by landing,wins by landing
+21,6,00:17:44,9,12,LU Guang Zu,net shot,fails to clear the net,opponent fails to clear the net
+22,24,00:18:25,10,12,Chico Aura DWI WARDOYO,smash,opponent wins by landing,wins by landing
+23,10,00:19:09,10,13,LU Guang Zu,rush,opponent wins by landing,wins by landing
+24,10,00:19:41,10,14,LU Guang Zu,net shot,hits the net,opponent hits the net
+25,5,00:20:01,11,14,Chico Aura DWI WARDOYO,net shot,hits the net,opponent hits the net
+26,30,00:20:49,12,14,Chico Aura DWI WARDOYO,net shot,fails to clear the net,opponent fails to clear the net
+27,5,00:21:37,13,14,Chico Aura DWI WARDOYO,smash,opponent wins by landing,wins by landing
+28,7,00:21:46,13,15,LU Guang Zu,smash,hits the net,opponent hits the net
+29,12,00:22:21,13,16,LU Guang Zu,net shot,goes out of bounds,opponent goes out of bounds
+30,15,00:22:59,14,16,Chico Aura DWI WARDOYO,lob,goes out of bounds,opponent goes out of bounds
+31,17,00:23:37,15,16,Chico Aura DWI WARDOYO,smash,opponent wins by landing,wins by landing
+33,12,00:25:23,16,17,LU Guang Zu,rush,opponent wins by landing,wins by landing
+34,5,00:26:03,17,17,Chico Aura DWI WARDOYO,return net,hits the net,opponent hits the net
+35,3,00:26:31,17,18,LU Guang Zu,clear,goes out of bounds,opponent goes out of bounds
+36,14,00:27:02,18,18,Chico Aura DWI WARDOYO,smash,opponent wins by landing,wins by landing
+37,32,00:28:37,18,19,LU Guang Zu,rush,opponent wins by landing,wins by landing
+38,1,00:29:51,19,19,Chico Aura DWI WARDOYO,short service,goes out of bounds,opponent goes out of bounds
+39,13,00:30:22,19,20,LU Guang Zu,net shot,fails to clear the net,opponent fails to clear the net
+40,5,00:30:56,20,20,Chico Aura DWI WARDOYO,return net,hits the net,opponent hits the net
+41,11,00:31:29,20,21,LU Guang Zu,net shot,hits the net,opponent hits the net
+42,6,00:31:58,20,22,LU Guang Zu,return net,fails to clear the net,opponent fails to clear the net

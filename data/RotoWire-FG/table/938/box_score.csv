@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,4,5,3,60,8,6,75,Nemanja,4,2,50,38,2,2,Nemanja Bjelica,17,6,Bjelica,F,2,Minnesota,1
+1,0,5,1,0,0,8,5,62,Taj,8,8,100,39,2,2,Taj Gibson,18,7,Gibson,F,1,Minnesota,0
+3,3,11,3,2,67,14,9,64,Karl-Anthony,5,4,80,41,2,5,Karl-Anthony Towns,24,13,Towns,C,1,Minnesota,1
+2,0,11,7,2,29,15,5,33,Andrew,6,5,83,38,0,2,Andrew Wiggins,17,11,Wiggins,G,2,Minnesota,4
+8,0,0,4,0,0,13,3,23,Jeff,4,4,100,34,0,2,Jeff Teague,10,0,Teague,G,0,Minnesota,3
+3,0,1,6,3,50,14,5,36,Jamal,0,0,0,25,0,0,Jamal Crawford,13,1,Crawford,N/A,0,Minnesota,2
+4,0,4,0,0,0,0,0,0,Tyus,5,5,100,14,0,0,Tyus Jones,5,4,Jones,N/A,0,Minnesota,1
+0,2,3,0,0,0,3,2,67,Gorgui,0,0,0,12,0,2,Gorgui Dieng,4,3,Dieng,N/A,0,Minnesota,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcus,N/A,N/A,N/A,N/A,N/A,N/A,Marcus Georges-Hunt,N/A,N/A,Georges-Hunt,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Rose,N/A,N/A,Rose,N/A,N/A,Minnesota,N/A
+3,0,2,11,6,55,25,14,56,Tim,7,5,71,36,0,2,Tim Hardaway Jr.,39,2,Hardaway,F,2,New York,2
+2,0,8,1,0,0,11,4,36,Michael,0,0,0,27,0,4,Michael Beasley,8,8,Beasley,F,0,New York,2
+1,0,10,0,0,0,7,4,57,Enes,4,3,75,33,5,3,Enes Kanter,11,15,Kanter,C,0,New York,1
+0,0,1,2,1,50,5,1,20,Courtney,0,0,0,14,0,1,Courtney Lee,3,1,Lee,G,0,New York,0
+1,0,0,0,0,0,1,0,0,Emmanuel,0,0,0,5,0,1,Emmanuel Mudiay,0,0,Mudiay,G,0,New York,0
+3,0,4,5,2,40,12,5,42,Frank,1,1,100,37,1,2,Frank Ntilikina,13,5,Ntilikina,N/A,1,New York,1
+2,0,2,5,2,40,7,2,29,Luke,0,0,0,21,0,2,Luke Kornet,6,2,Kornet,N/A,1,New York,0
+2,0,2,2,0,0,7,2,29,Troy,0,0,0,20,2,4,Troy Williams,4,4,Williams,N/A,3,New York,0
+9,0,2,2,1,50,11,6,55,Trey,4,2,50,31,0,3,Trey Burke,15,2,Burke,N/A,2,New York,3
+2,0,1,0,0,0,6,2,33,Kyle,1,1,100,15,2,5,Kyle O'Quinn,5,3,O'Quinn,N/A,0,New York,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett Jack,N/A,N/A,Jack,N/A,N/A,New York,N/A

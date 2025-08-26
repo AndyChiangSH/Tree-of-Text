@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,8,7,2,29,11,4,36,Matt,4,4,100,36,1,2,Matt Barnes,14,9,Barnes,F,1,Golden State,5
+2,0,0,1,0,0,8,1,13,Kevon,0,0,0,17,4,1,Kevon Looney,2,4,Looney,F,0,Golden State,1
+3,1,6,0,0,0,9,4,44,Zaza,5,3,60,20,6,0,Zaza Pachulia,11,12,Pachulia,C,1,Golden State,2
+1,0,1,6,0,0,12,0,0,Patrick,2,2,100,42,1,1,Patrick McCaw,2,2,McCaw,G,1,Golden State,0
+2,0,2,0,0,0,7,1,14,Shaun,0,0,0,27,1,3,Shaun Livingston,2,3,Livingston,G,1,Golden State,1
+3,1,2,0,0,0,8,3,38,David,2,2,100,15,1,1,David West,8,3,West,N/A,2,Golden State,1
+0,0,4,3,3,100,21,15,71,Ian,6,3,50,34,1,3,Ian Clark,36,5,Clark,N/A,1,Golden State,4
+1,0,0,0,0,0,3,1,33,JaVale,0,0,0,6,1,1,JaVale McGee,2,1,McGee,N/A,1,Golden State,0
+3,2,4,0,0,0,7,2,29,James,2,0,0,23,1,1,James Michael McAdoo,4,5,Michael,N/A,2,Golden State,1
+0,0,2,0,0,0,6,2,33,Damian,2,0,0,21,3,3,Damian Jones,4,5,Jones,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Stephen,N/A,N/A,N/A,N/A,N/A,N/A,Stephen Curry,N/A,N/A,Curry,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Klay,N/A,N/A,N/A,N/A,N/A,N/A,Klay Thompson,N/A,N/A,Thompson,N/A,N/A,Golden State,N/A
+6,1,7,2,1,50,7,5,71,Kyle,2,2,100,32,1,0,Kyle Anderson,13,8,Anderson,F,0,San Antonio,0
+2,0,5,0,0,0,6,4,67,David,4,4,100,18,1,2,David Lee,12,6,Lee,F,0,San Antonio,1
+0,2,6,0,0,0,6,4,67,Dewayne,1,1,100,22,1,2,Dewayne Dedmon,9,7,Dedmon,C,0,San Antonio,3
+2,2,3,5,1,20,7,2,29,Danny,0,0,0,21,0,0,Danny Green,5,3,Green,G,0,San Antonio,2
+4,0,1,7,5,71,13,8,62,Patty,0,0,0,21,1,1,Patty Mills,21,2,Mills,G,1,San Antonio,1
+3,1,7,1,0,0,8,3,38,Pau,6,4,67,20,0,0,Pau Gasol,10,7,Gasol,N/A,0,San Antonio,5
+6,0,3,2,0,0,6,2,33,Manu,3,2,67,19,2,3,Manu Ginobili,6,5,Ginobili,N/A,3,San Antonio,2
+2,0,3,0,0,0,6,3,50,Jonathon,0,0,0,27,0,2,Jonathon Simmons,6,3,Simmons,N/A,1,San Antonio,2
+0,0,1,5,2,40,7,3,43,Bryn,0,0,0,25,0,1,Bryn Forbes,8,1,Forbes,N/A,0,San Antonio,1
+2,1,2,5,3,60,7,4,57,Davis,2,2,100,21,1,3,Davis Bertans,13,3,Bertans,N/A,0,San Antonio,1
+0,0,1,0,0,0,4,2,50,Joel,0,0,0,13,0,4,Joel Anthony,4,1,Anthony,N/A,1,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dejounte,N/A,N/A,N/A,N/A,N/A,N/A,Dejounte Murray,N/A,N/A,Murray,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Parker,N/A,N/A,Parker,N/A,N/A,San Antonio,N/A

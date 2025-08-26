@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,5,5,2,40,14,6,43,Tobias,6,6,100,35,0,2,Tobias Harris,20,5,Harris,F,3,Detroit,2
+1,0,4,4,1,25,11,5,46,Marcus,4,2,50,31,0,5,Marcus Morris,13,4,Morris,F,1,Detroit,3
+0,1,7,0,0,0,1,1,100,Andre,6,3,50,23,2,4,Andre Drummond,5,9,Drummond,C,0,Detroit,2
+0,0,1,4,2,50,16,9,56,Kentavious,4,4,100,38,1,2,Kentavious Caldwell-Pope,24,2,Caldwell-Pope,G,1,Detroit,3
+10,0,2,9,2,22,15,7,47,Reggie,4,4,100,31,0,2,Reggie Jackson,20,2,Jackson,G,0,Detroit,2
+2,3,6,0,0,0,6,3,50,Aron,2,2,100,25,0,2,Aron Baynes,8,6,Baynes,N/A,0,Detroit,0
+2,0,2,1,0,0,2,0,0,Reggie,0,0,0,18,0,1,Reggie Bullock,0,2,Bullock,N/A,1,Detroit,0
+2,0,3,4,1,25,5,2,40,Steve,0,0,0,17,0,1,Steve Blake,5,3,Blake,N/A,0,Detroit,0
+0,0,0,2,0,0,3,0,0,Anthony,0,0,0,9,0,0,Anthony Tolliver,0,0,Tolliver,N/A,1,Detroit,0
+0,0,0,1,1,100,1,1,100,Stanley,0,0,0,9,0,2,Stanley Johnson,3,0,Johnson,N/A,0,Detroit,0
+1,0,0,0,0,0,2,2,100,Darrun,1,1,100,3,0,0,Darrun Hilliard,5,0,Hilliard,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Harper,N/A,N/A,Harper,N/A,N/A,Detroit,N/A
+11,0,5,5,1,20,15,6,40,Nicolas,5,4,80,37,0,1,Nicolas Batum,17,5,Batum,F,2,Charlotte,2
+0,0,3,8,5,63,12,7,58,Marvin,4,3,75,25,3,4,Marvin Williams,22,6,Williams,F,0,Charlotte,1
+2,2,1,0,0,0,4,3,75,Cody,4,4,100,24,3,1,Cody Zeller,10,4,Zeller,C,2,Charlotte,0
+1,1,6,0,0,0,9,7,78,Courtney,1,1,100,35,0,4,Courtney Lee,15,6,Lee,G,1,Charlotte,1
+8,0,1,5,1,20,11,3,27,Kemba,9,9,100,32,0,2,Kemba Walker,16,1,Walker,G,1,Charlotte,3
+2,0,0,4,2,50,7,3,43,Jeremy,0,0,0,22,1,0,Jeremy Lin,8,1,Lin,N/A,2,Charlotte,0
+1,0,4,0,0,0,10,5,50,Al,4,2,50,21,0,5,Al Jefferson,12,4,Jefferson,N/A,1,Charlotte,0
+0,0,3,2,0,0,5,1,20,Jeremy,0,0,0,8,1,0,Jeremy Lamb,2,4,Lamb,N/A,0,Charlotte,0
+0,2,3,1,1,100,6,4,67,Frank,2,1,50,25,1,1,Frank Kaminsky,10,4,Kaminsky,N/A,0,Charlotte,1
+1,0,0,0,0,0,1,1,100,Troy,0,0,0,3,0,0,Troy Daniels,2,0,Daniels,N/A,0,Charlotte,0
+1,0,0,0,0,0,0,0,0,Aaron,0,0,0,3,0,0,Aaron Harrison,0,0,Harrison,N/A,0,Charlotte,1
+0,0,1,0,0,0,2,2,100,Tyler,0,0,0,3,0,0,Tyler Hansbrough,4,1,Hansbrough,N/A,0,Charlotte,0
+1,0,1,0,0,0,1,0,0,Jorge,0,0,0,3,0,1,Jorge Gutierrez,0,1,Gutierrez,N/A,0,Charlotte,1

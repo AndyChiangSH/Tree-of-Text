@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,5,1,0,0,12,9,75,Carmelo,8,7,88,37,0,3,Carmelo Anthony,25,5,Anthony,F,2,New York,1
+1,2,3,1,0,0,10,3,30,Kristaps,6,6,100,31,1,4,Kristaps Porzingis,12,4,Porzingis,F,0,New York,1
+1,2,1,0,0,0,12,9,75,Robin,1,1,100,35,3,3,Robin Lopez,19,4,Lopez,C,0,New York,1
+0,0,2,2,1,50,10,4,40,Arron,0,0,0,40,0,1,Arron Afflalo,9,2,Afflalo,G,1,New York,2
+2,0,5,1,1,100,5,4,80,Jose,0,0,0,35,0,2,Jose Calderon,9,5,Calderon,G,1,New York,2
+3,1,1,0,0,0,3,1,33,Lance,0,0,0,18,1,2,Lance Thomas,2,2,Thomas,N/A,0,New York,2
+2,0,3,1,0,0,3,2,67,Langston,1,1,100,14,0,0,Langston Galloway,5,3,Galloway,N/A,1,New York,0
+2,0,1,0,0,0,4,1,25,Jerian,0,0,0,8,0,1,Jerian Grant,2,1,Grant,N/A,0,New York,0
+0,0,8,2,1,50,8,5,63,Derrick,2,2,100,18,0,1,Derrick Williams,13,8,Williams,N/A,1,New York,1
+0,0,0,0,0,0,3,1,33,Kyle,0,0,0,5,0,1,Kyle O'Quinn,2,0,O'Quinn,N/A,0,New York,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lou,N/A,N/A,N/A,N/A,N/A,N/A,Lou Amundson,N/A,N/A,Amundson,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Seraphin,N/A,N/A,Seraphin,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Vujacic,N/A,N/A,Vujacic,N/A,N/A,New York,N/A
+0,0,2,3,0,0,9,3,33,Luol,3,3,100,32,2,4,Luol Deng,9,4,Deng,F,0,Miami,0
+2,1,5,4,1,25,22,12,55,Chris,4,3,75,34,0,1,Chris Bosh,28,5,Bosh,F,0,Miami,1
+1,1,4,0,0,0,6,3,50,Hassan,2,2,100,28,4,1,Hassan Whiteside,8,8,Whiteside,C,0,Miami,4
+6,0,3,0,0,0,16,8,50,Dwyane,2,2,100,31,3,2,Dwyane Wade,18,6,Wade,G,0,Miami,4
+1,0,1,1,0,0,9,4,44,Goran,2,2,100,34,1,1,Goran Dragic,10,2,Dragic,G,0,Miami,2
+0,1,1,1,0,0,4,1,25,Justise,0,0,0,21,1,2,Justise Winslow,2,2,Winslow,N/A,0,Miami,0
+3,0,3,2,0,0,6,4,67,Tyler,0,0,0,21,0,1,Tyler Johnson,8,3,Johnson,N/A,1,Miami,0
+0,1,2,5,1,20,8,2,25,Gerald,2,2,100,26,1,4,Gerald Green,7,3,Green,N/A,1,Miami,0
+1,0,2,1,0,0,2,0,0,Beno,0,0,0,12,0,0,Beno Udrih,0,2,Udrih,N/A,0,Miami,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Andersen,N/A,N/A,Andersen,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Amar'e,N/A,N/A,N/A,N/A,N/A,N/A,Amar'e Stoudemire,N/A,N/A,Stoudemire,N/A,N/A,Miami,N/A

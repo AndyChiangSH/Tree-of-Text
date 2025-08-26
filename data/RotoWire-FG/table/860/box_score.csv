@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,6,1,0,0,4,2,50,Kyle,4,4,100,36,0,2,Kyle Anderson,8,6,Anderson,F,1,San Antonio,3
+1,1,7,2,1,50,21,12,57,LaMarcus,7,5,71,35,7,3,LaMarcus Aldridge,30,14,Aldridge,F,1,San Antonio,0
+5,2,8,2,1,50,11,6,55,Pau,5,3,60,28,1,0,Pau Gasol,16,9,Gasol,C,0,San Antonio,2
+2,0,1,3,0,0,10,5,50,Bryn,0,0,0,27,0,5,Bryn Forbes,10,1,Forbes,G,0,San Antonio,1
+4,0,1,1,0,0,6,1,17,Dejounte,1,1,100,21,0,1,Dejounte Murray,3,1,Murray,G,0,San Antonio,3
+2,0,1,2,1,50,6,2,33,Patty,2,2,100,28,0,1,Patty Mills,7,1,Mills,N/A,0,San Antonio,3
+4,0,4,3,2,67,6,3,50,Davis,0,0,0,28,0,3,Davis Bertans,8,4,Bertans,N/A,1,San Antonio,0
+2,2,3,9,6,67,16,9,56,Manu,3,2,67,27,1,1,Manu Ginobili,26,4,Ginobili,N/A,1,San Antonio,2
+1,0,1,0,0,0,1,0,0,Joffrey,2,2,100,5,0,0,Joffrey Lauvergne,2,1,Lauvergne,N/A,0,San Antonio,0
+0,0,0,0,0,0,0,0,0,Brandon,2,0,0,6,1,0,Brandon Paul,0,1,Paul,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Matt,N/A,N/A,N/A,N/A,N/A,N/A,Matt Costello,N/A,N/A,Costello,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Parker,N/A,N/A,Parker,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick White,N/A,N/A,White,N/A,N/A,San Antonio,N/A
+1,1,1,2,0,0,9,4,44,Evan,0,0,0,24,0,0,Evan Turner,8,1,Turner,F,0,Portland,2
+1,0,1,5,1,20,10,4,40,Al-Farouq,0,0,0,32,0,2,Al-Farouq Aminu,9,1,Aminu,F,2,Portland,0
+1,1,11,0,0,0,15,7,47,Jusuf,5,3,60,31,2,4,Jusuf Nurkic,17,13,Nurkic,C,0,Portland,1
+7,0,2,3,1,33,24,11,46,CJ,3,2,67,38,3,2,CJ McCollum,25,5,McCollum,G,2,Portland,0
+7,1,4,3,1,33,9,7,78,Shabazz,0,0,0,33,1,4,Shabazz Napier,15,5,Napier,G,2,Portland,3
+2,0,0,2,1,50,6,4,67,Pat,0,0,0,24,0,4,Pat Connaughton,9,0,Connaughton,N/A,0,Portland,1
+0,0,3,0,0,0,1,0,0,Ed,0,0,0,17,2,5,Ed Davis,0,5,Davis,N/A,0,Portland,1
+0,0,3,4,1,25,8,4,50,Zach,0,0,0,16,0,0,Zach Collins,9,3,Collins,N/A,0,Portland,0
+0,2,4,4,3,75,10,7,70,Maurice,2,2,100,24,1,3,Maurice Harkless,19,5,Harkless,N/A,1,Portland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Meyers,N/A,N/A,N/A,N/A,N/A,N/A,Meyers Leonard,N/A,N/A,Leonard,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Noah,N/A,N/A,N/A,N/A,N/A,N/A,Noah Vonleh,N/A,N/A,Vonleh,N/A,N/A,Portland,N/A

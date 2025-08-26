@@ -1,0 +1,36 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,8,00:11:25,0,1,Rasmus GEMKE,return net,goes out of bounds,opponent goes out of bounds
+2,31,00:12:05,1,1,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+3,7,00:12:35,2,1,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+4,17,00:13:06,2,2,Rasmus GEMKE,clear,goes out of bounds,opponent goes out of bounds
+5,1,00:13:35,3,2,Viktor AXELSEN,unknown,hits the net,opponent hits the net
+6,7,00:13:56,3,3,Rasmus GEMKE,lob,goes out of bounds,opponent goes out of bounds
+7,12,00:14:20,4,3,Viktor AXELSEN,return net,opponent wins by landing,wins by landing
+8,8,00:14:47,5,3,Viktor AXELSEN,return net,goes out of bounds,opponent goes out of bounds
+9,8,00:15:30,6,3,Viktor AXELSEN,return net,hits the net,opponent hits the net
+10,17,00:16:04,7,3,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+11,16,00:16:48,8,3,Viktor AXELSEN,smash,goes out of bounds,opponent goes out of bounds
+12,4,00:17:13,9,3,Viktor AXELSEN,smash,hits the net,opponent hits the net
+13,19,00:17:43,10,3,Viktor AXELSEN,lob,landing judgment error,opponent landing judgment error
+14,8,00:18:15,11,3,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+15,27,00:19:46,12,3,Viktor AXELSEN,net shot,opponent wins by landing,wins by landing
+16,5,00:20:12,13,3,Viktor AXELSEN,net shot,opponent wins by landing,wins by landing
+17,27,00:20:56,13,4,Rasmus GEMKE,defensive return lob,goes out of bounds,opponent goes out of bounds
+18,7,00:21:32,14,4,Viktor AXELSEN,lob,hits the net,opponent hits the net
+19,11,00:22:00,14,5,Rasmus GEMKE,lob,goes out of bounds,opponent goes out of bounds
+20,11,00:22:30,14,6,Rasmus GEMKE,drop,opponent wins by landing,wins by landing
+21,6,00:23:23,14,7,Rasmus GEMKE,return net,goes out of bounds,opponent goes out of bounds
+22,9,00:24:16,15,7,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+23,15,00:24:45,15,8,Rasmus GEMKE,lob,goes out of bounds,opponent goes out of bounds
+24,2,00:25:20,16,8,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+25,2,00:25:44,16,9,Rasmus GEMKE,push,landing judgment error,opponent landing judgment error
+26,11,00:26:09,17,9,Viktor AXELSEN,defensive return drive,goes out of bounds,opponent goes out of bounds
+27,5,00:26:37,17,10,Rasmus GEMKE,return net,hits the net,opponent hits the net
+28,16,00:27:10,18,10,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+29,4,00:27:30,19,10,Viktor AXELSEN,smash,hits the net,opponent hits the net
+30,3,00:27:50,19,11,Rasmus GEMKE,wrist smash,goes out of bounds,opponent goes out of bounds
+31,33,00:28:37,20,11,Viktor AXELSEN,net shot,hits the net,opponent hits the net
+32,13,00:29:09,20,12,Rasmus GEMKE,defensive return drive,goes out of bounds,opponent goes out of bounds
+33,6,00:29:42,20,13,Rasmus GEMKE,net shot,hits the net,opponent hits the net
+34,6,00:30:18,20,14,Rasmus GEMKE,drive,hits the net,opponent hits the net
+35,9,00:30:48,21,14,Viktor AXELSEN,lob,hits the net,opponent hits the net

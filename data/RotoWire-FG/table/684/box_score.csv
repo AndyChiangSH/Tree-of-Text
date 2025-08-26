@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,2,1,50,7,4,57,Tobias,2,2,100,33,0,2,Tobias Harris,11,3,Harris,F,0,Orlando,1
+0,2,2,2,0,0,3,1,33,Channing,0,0,0,14,0,0,Channing Frye,2,2,Frye,F,0,Orlando,1
+3,0,2,0,0,0,15,8,53,Nikola,0,0,0,24,1,1,Nikola Vucevic,16,3,Vucevic,C,0,Orlando,0
+2,0,1,4,0,0,6,0,0,Evan,0,0,0,26,1,2,Evan Fournier,0,2,Fournier,G,2,Orlando,1
+5,0,7,1,1,100,11,7,64,Victor,3,3,100,35,0,3,Victor Oladipo,18,7,Oladipo,G,2,Orlando,2
+2,0,1,6,2,33,12,4,33,Shabazz,0,0,0,27,0,3,Shabazz Napier,10,1,Napier,N/A,2,Orlando,2
+1,0,6,3,2,67,10,6,60,Andrew,0,0,0,21,1,0,Andrew Nicholson,14,7,Nicholson,N/A,0,Orlando,1
+0,2,0,1,0,0,13,5,39,Jason,2,2,100,15,1,2,Jason Smith,12,1,Smith,N/A,0,Orlando,0
+1,0,2,1,0,0,1,0,0,Aaron,2,2,100,25,1,1,Aaron Gordon,2,3,Gordon,N/A,0,Orlando,0
+0,0,0,0,0,0,3,1,33,Mario,2,2,100,11,0,1,Mario Hezonja,4,0,Hezonja,N/A,0,Orlando,0
+0,3,1,0,0,0,0,0,0,Dewayne,0,0,0,9,0,1,Dewayne Dedmon,0,1,Dedmon,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elfrid,N/A,N/A,N/A,N/A,N/A,N/A,Elfrid Payton,N/A,N/A,Payton,N/A,N/A,Orlando,N/A
+1,0,2,1,0,0,7,4,57,Marcus,5,5,100,30,1,2,Marcus Morris,13,3,Morris,F,0,Detroit,0
+1,0,2,5,2,40,10,4,40,Ersan,0,0,0,28,2,1,Ersan Ilyasova,10,4,Ilyasova,F,2,Detroit,0
+0,1,6,0,0,0,14,8,57,Andre,4,1,25,29,6,0,Andre Drummond,17,12,Drummond,C,1,Detroit,1
+2,0,6,8,5,63,12,7,58,Kentavious,2,2,100,34,0,4,Kentavious Caldwell-Pope,21,6,Caldwell-Pope,G,0,Detroit,2
+7,1,2,2,0,0,12,6,50,Reggie,2,2,100,26,1,2,Reggie Jackson,14,3,Jackson,G,0,Detroit,2
+3,0,6,5,2,40,8,2,25,Stanley,0,0,0,25,1,3,Stanley Johnson,6,7,Johnson,N/A,2,Detroit,1
+6,0,1,4,3,75,9,5,56,Brandon,6,4,67,18,0,1,Brandon Jennings,17,1,Jennings,N/A,1,Detroit,0
+2,2,6,0,0,0,3,3,100,Aron,2,1,50,16,4,2,Aron Baynes,7,10,Baynes,N/A,0,Detroit,2
+1,1,4,4,2,50,8,4,50,Anthony,0,0,0,20,2,1,Anthony Tolliver,10,6,Tolliver,N/A,0,Detroit,1
+0,0,0,0,0,0,2,0,0,Darrun,0,0,0,4,0,1,Darrun Hilliard,0,0,Hilliard,N/A,0,Detroit,0
+1,0,0,1,0,0,1,0,0,Steve,0,0,0,4,0,0,Steve Blake,0,0,Blake,N/A,0,Detroit,1
+1,0,1,0,0,0,1,0,0,Reggie,0,0,0,4,0,0,Reggie Bullock,0,1,Bullock,N/A,0,Detroit,0
+0,1,0,0,0,0,1,0,0,Joel,0,0,0,4,1,1,Joel Anthony,0,1,Anthony,N/A,0,Detroit,0

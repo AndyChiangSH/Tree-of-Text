@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,1,1,0,0,4,2,50,Caris,0,0,0,18,1,3,Caris LeVert,4,2,LeVert,F,1,Brooklyn,1
+2,0,4,0,0,0,13,9,69,Rondae,1,1,100,22,3,1,Rondae Hollis-Jefferson,19,7,Hollis-Jefferson,F,1,Brooklyn,0
+2,0,6,2,0,0,8,3,38,Brook,0,0,0,22,1,3,Brook Lopez,6,7,Lopez,C,0,Brooklyn,2
+4,1,1,1,0,0,6,3,50,Randy,2,2,100,26,0,2,Randy Foye,8,1,Foye,G,2,Brooklyn,2
+3,1,1,5,1,20,13,5,39,Jeremy,4,3,75,20,0,3,Jeremy Lin,14,1,Lin,G,0,Brooklyn,2
+2,0,2,0,0,0,5,4,80,Isaiah,2,2,100,18,0,1,Isaiah Whitehead,10,2,Whitehead,N/A,0,Brooklyn,2
+3,0,1,1,0,0,2,0,0,Spencer,4,1,25,21,0,2,Spencer Dinwiddie,1,1,Dinwiddie,N/A,0,Brooklyn,3
+0,1,5,1,0,0,3,0,0,Quincy,0,0,0,11,0,0,Quincy Acy,0,5,Acy,N/A,0,Brooklyn,0
+1,1,1,1,0,0,8,4,50,KJ,2,2,100,26,1,5,KJ McDaniels,10,2,McDaniels,N/A,1,Brooklyn,1
+0,0,1,0,0,0,1,0,0,Trevor,0,0,0,3,0,0,Trevor Booker,0,1,Booker,N/A,0,Brooklyn,0
+3,0,0,0,0,0,3,3,100,Archie,5,4,80,14,0,1,Archie Goodwin,10,0,Goodwin,N/A,0,Brooklyn,1
+2,0,6,3,2,67,11,7,64,Justin,6,4,67,23,0,0,Justin Hamilton,20,6,Hamilton,N/A,0,Brooklyn,0
+0,0,3,0,0,0,5,3,60,Andrew,0,0,0,15,0,1,Andrew Nicholson,6,3,Nicholson,N/A,0,Brooklyn,0
+2,1,3,4,1,25,5,2,40,Otto,0,0,0,21,1,2,Otto Porter Jr.,5,4,Porter,F,0,Washington,0
+1,1,0,1,1,100,5,2,40,Markieff,0,0,0,20,0,2,Markieff Morris,5,0,Morris,F,1,Washington,2
+0,0,5,0,0,0,8,4,50,Marcin,0,0,0,18,4,2,Marcin Gortat,8,9,Gortat,C,0,Washington,3
+3,0,1,2,1,50,13,7,54,Bradley,4,4,100,25,0,1,Bradley Beal,19,1,Beal,G,1,Washington,0
+9,0,3,2,0,0,16,9,56,John,4,4,100,24,1,2,John Wall,22,4,Wall,G,1,Washington,3
+2,1,7,3,0,0,12,6,50,Bojan,5,5,100,26,0,0,Bojan Bogdanovic,17,7,Bogdanovic,N/A,1,Washington,2
+0,1,4,0,0,0,6,5,83,Ian,7,6,86,24,3,2,Ian Mahinmi,16,7,Mahinmi,N/A,4,Washington,0
+0,0,3,3,1,33,9,4,44,Kelly,0,0,0,24,0,2,Kelly Oubre Jr.,9,3,Oubre,N/A,1,Washington,0
+9,0,1,6,4,67,10,6,60,Brandon,2,2,100,21,2,1,Brandon Jennings,18,3,Jennings,N/A,0,Washington,0
+1,0,5,4,2,50,7,3,43,Jason,0,0,0,25,0,2,Jason Smith,8,5,Smith,N/A,0,Washington,0
+0,0,3,0,0,0,3,1,33,Daniel,0,0,0,6,0,3,Daniel Ochefu,2,3,Ochefu,N/A,0,Washington,0
+1,1,0,0,0,0,2,0,0,Tomas,0,0,0,4,0,0,Tomas Satoransky,0,0,Satoransky,N/A,0,Washington,0
+1,0,0,1,0,0,1,0,0,Trey,0,0,0,3,0,0,Trey Burke,0,0,Burke,N/A,0,Washington,0

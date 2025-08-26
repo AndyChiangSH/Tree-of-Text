@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,3,4,2,50,12,5,42,Josh,0,0,0,37,0,3,Josh Richardson,12,3,Richardson,F,1,Miami,2
+4,0,2,4,0,0,13,5,38,James,0,0,0,29,1,4,James Johnson,10,3,Johnson,F,0,Miami,3
+2,0,10,0,0,0,16,11,69,Hassan,0,0,0,30,3,5,Hassan Whiteside,22,13,Whiteside,C,3,Miami,7
+1,3,2,1,0,0,6,3,50,Derrick,1,0,0,30,3,3,Derrick Jones Jr.,6,5,Jones,G,1,Miami,1
+2,0,5,11,3,27,13,4,31,Wayne,3,2,67,39,0,0,Wayne Ellington,13,5,Ellington,G,0,Miami,0
+4,0,3,3,1,33,6,3,50,Justise,1,0,0,28,1,2,Justise Winslow,7,4,Winslow,N/A,0,Miami,0
+1,0,2,4,0,0,9,4,44,Kelly,2,2,100,20,0,0,Kelly Olynyk,10,2,Olynyk,N/A,1,Miami,3
+1,0,2,3,1,33,3,1,33,Derrick,0,0,0,11,0,0,Derrick Walton Jr.,3,2,Walton,N/A,1,Miami,0
+2,0,4,0,0,0,4,3,75,Bam,2,1,50,17,1,1,Bam Adebayo,7,5,Adebayo,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Goran,N/A,N/A,N/A,N/A,N/A,N/A,Goran Dragic,N/A,N/A,Dragic,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Miami,N/A
+0,0,4,2,1,50,2,1,50,Trevor,0,0,0,28,1,1,Trevor Ariza,3,5,Ariza,F,2,Houston,1
+2,0,2,6,3,50,7,3,43,Ryan,0,0,0,29,0,3,Ryan Anderson,9,2,Anderson,F,0,Houston,1
+2,0,5,0,0,0,10,6,60,Clint,5,2,40,26,3,2,Clint Capela,14,8,Capela,C,1,Houston,0
+5,2,2,13,5,38,26,10,38,James,4,3,75,35,0,2,James Harden,28,2,Harden,G,2,Houston,6
+6,0,5,5,3,60,13,6,46,Chris,1,1,100,36,1,1,Chris Paul,16,6,Paul,G,3,Houston,3
+3,0,2,0,0,0,1,0,0,Nene,4,2,50,10,3,1,Nene,2,5,N/A,N/A,0,Houston,0
+2,0,2,7,0,0,15,6,40,Eric,4,4,100,30,0,2,Eric Gordon,16,2,Gordon,N/A,0,Houston,1
+0,0,3,4,3,75,5,3,60,PJ,0,0,0,24,0,2,PJ Tucker,9,3,Tucker,N/A,1,Houston,0
+0,1,5,0,0,0,2,1,50,Luc,0,0,0,22,0,1,Luc Mbah a Moute,2,5,Mbah,N/A,1,Houston,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Green,N/A,N/A,Green,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,RJ,N/A,N/A,N/A,N/A,N/A,N/A,RJ Hunter,N/A,N/A,Hunter,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Williams,N/A,N/A,Williams,N/A,N/A,Houston,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,7,1,0,0,4,1,25,Chandler,0,0,0,25,0,1,Chandler Parsons,2,7,Parsons,F,1,Memphis,1
+0,0,6,0,0,0,5,4,80,JaMychal,2,2,100,19,0,3,JaMychal Green,10,6,Green,F,0,Memphis,1
+8,1,9,4,0,0,17,6,35,Marc,7,7,100,37,1,1,Marc Gasol,19,10,Gasol,C,1,Memphis,2
+0,0,3,1,1,100,2,2,100,James,0,0,0,28,0,3,James Ennis III,5,3,Ennis,G,0,Memphis,3
+6,0,0,4,2,50,16,10,63,Mike,11,10,91,37,1,3,Mike Conley,32,1,Conley,G,1,Memphis,1
+1,0,2,1,0,0,8,2,25,Zach,4,3,75,19,1,1,Zach Randolph,7,3,Randolph,N/A,1,Memphis,2
+1,0,3,5,4,80,8,5,63,Vince,0,0,0,20,0,1,Vince Carter,14,3,Carter,N/A,2,Memphis,0
+5,0,2,2,0,0,3,0,0,Toney,0,0,0,19,1,2,Toney Douglas,0,3,Douglas,N/A,0,Memphis,1
+1,0,1,4,2,50,5,2,40,Troy,0,0,0,16,0,0,Troy Daniels,6,1,Daniels,N/A,0,Memphis,0
+1,0,3,0,0,0,9,7,78,Brandan,3,3,100,21,1,1,Brandan Wright,17,4,Wright,N/A,1,Memphis,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Allen,N/A,N/A,Allen,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Harrison,N/A,N/A,Harrison,N/A,N/A,Memphis,N/A
+2,0,4,2,0,0,6,3,50,Bojan,6,5,83,25,1,2,Bojan Bogdanovic,11,5,Bogdanovic,F,0,Brooklyn,2
+2,0,3,2,1,50,6,4,67,Rondae,6,4,67,25,0,4,Rondae Hollis-Jefferson,13,3,Hollis-Jefferson,F,2,Brooklyn,1
+5,0,2,5,1,20,18,7,39,Brook,2,2,100,32,1,4,Brook Lopez,17,3,Lopez,C,1,Brooklyn,2
+2,0,1,2,1,50,4,2,50,Randy,0,0,0,16,0,1,Randy Foye,5,1,Foye,G,1,Brooklyn,1
+1,0,3,5,4,80,8,5,63,Spencer,3,3,100,29,0,1,Spencer Dinwiddie,17,3,Dinwiddie,G,0,Brooklyn,0
+0,0,2,2,0,0,10,6,60,Trevor,1,1,100,23,2,1,Trevor Booker,13,4,Booker,N/A,1,Brooklyn,2
+3,0,5,9,3,33,15,6,40,Sean,0,0,0,25,1,1,Sean Kilpatrick,15,6,Kilpatrick,N/A,1,Brooklyn,1
+0,0,1,2,1,50,2,1,50,Joe,0,0,0,10,0,2,Joe Harris,3,1,Harris,N/A,0,Brooklyn,1
+2,0,0,2,1,50,5,3,60,Isaiah,0,0,0,17,0,3,Isaiah Whitehead,7,0,Whitehead,N/A,2,Brooklyn,1
+4,0,3,2,0,0,2,0,0,Luis,0,0,0,15,1,2,Luis Scola,0,4,Scola,N/A,0,Brooklyn,0
+2,0,2,4,0,0,6,1,17,Caris,0,0,0,21,0,3,Caris LeVert,2,2,LeVert,N/A,0,Brooklyn,1
+0,0,0,0,0,0,0,0,0,Chris,0,0,0,1,0,0,Chris McCullough,0,0,McCullough,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Hamilton,N/A,N/A,Hamilton,N/A,N/A,Brooklyn,N/A

@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,7,3,0,0,9,3,33,Luc,2,1,50,24,0,2,Luc Mbah a Moute,7,7,Mbah,F,0,Philadelphia,2
+0,0,1,3,2,67,6,2,33,Robert,3,2,67,22,0,1,Robert Covington,8,1,Covington,F,1,Philadelphia,2
+0,1,4,0,0,0,6,3,50,Nerlens,2,1,50,24,2,2,Nerlens Noel,7,6,Noel,C,1,Philadelphia,0
+1,1,3,3,1,33,9,2,22,KJ,4,1,25,29,2,0,KJ McDaniels,6,5,McDaniels,G,2,Philadelphia,4
+6,0,3,5,2,40,12,3,25,Michael,2,2,100,26,0,1,Michael Carter-Williams,10,3,Carter-Williams,G,0,Philadelphia,5
+1,0,2,4,2,50,10,5,50,Jerami,8,4,50,26,0,3,Jerami Grant,16,2,Grant,N/A,0,Philadelphia,5
+1,0,3,0,0,0,2,1,50,Henry,0,0,0,8,1,1,Henry Sims,2,4,Sims,N/A,0,Philadelphia,0
+4,0,0,1,0,0,6,4,67,Larry,1,1,100,20,0,1,Larry Drew II,9,0,Drew,N/A,0,Philadelphia,1
+1,0,1,2,1,50,8,2,25,Hollis,0,0,0,20,3,2,Hollis Thompson,5,4,Thompson,N/A,0,Philadelphia,0
+1,0,2,3,1,33,9,4,44,JaKarr,0,0,0,17,1,3,JaKarr Sampson,9,3,Sampson,N/A,0,Philadelphia,1
+3,0,6,0,0,0,4,2,50,Furkan,0,0,0,20,5,2,Furkan Aldemir,4,11,Aldemir,N/A,3,Philadelphia,1
+0,0,1,0,0,0,0,0,0,Malcolm,0,0,0,5,1,1,Malcolm Thomas,0,2,Thomas,N/A,0,Philadelphia,2
+1,0,1,2,2,100,11,6,55,Jeff,4,4,100,28,0,0,Jeff Green,18,1,Green,F,0,Memphis,1
+4,0,12,1,1,100,11,8,73,Zach,0,0,0,27,2,2,Zach Randolph,17,14,Randolph,F,0,Memphis,3
+4,4,7,0,0,0,5,3,60,Marc,5,3,60,25,0,4,Marc Gasol,9,7,Gasol,C,2,Memphis,2
+3,0,1,2,1,50,5,1,20,Courtney,6,5,83,23,0,1,Courtney Lee,8,1,Lee,G,2,Memphis,2
+1,0,1,2,1,50,8,3,38,Mike,2,2,100,21,1,3,Mike Conley,9,2,Conley,G,1,Memphis,2
+1,0,5,0,0,0,5,2,40,Jon,2,2,100,17,0,1,Jon Leuer,6,5,Leuer,N/A,0,Memphis,2
+2,2,0,1,0,0,5,2,40,Tony,0,0,0,19,0,2,Tony Allen,4,0,Allen,N/A,0,Memphis,2
+5,0,2,1,0,0,9,3,33,Beno,0,0,0,27,2,1,Beno Udrih,6,4,Udrih,N/A,2,Memphis,1
+0,0,4,0,0,0,4,1,25,Kosta,6,5,83,23,1,2,Kosta Koufos,7,5,Koufos,N/A,0,Memphis,2
+3,1,3,5,1,20,14,6,43,Vince,0,0,0,24,3,3,Vince Carter,13,6,Carter,N/A,2,Memphis,1
+0,0,2,0,0,0,2,2,100,Nick,0,0,0,7,0,1,Nick Calathes,4,2,Calathes,N/A,1,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyrus,N/A,N/A,N/A,N/A,N/A,N/A,Tyrus Thomas,N/A,N/A,Thomas,N/A,N/A,Memphis,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,0,4,4,0,0,21,5,24,Carmelo,4,3,75,39,2,2,Carmelo Anthony,13,6,Anthony,F,0,New York,1
+0,1,2,0,0,0,11,7,64,Jason,3,3,100,26,1,2,Jason Smith,17,3,Smith,F,0,New York,0
+3,2,2,0,0,0,3,1,33,Samuel,0,0,0,15,0,2,Samuel Dalembert,2,2,Dalembert,C,1,New York,0
+5,1,5,6,4,67,13,5,39,Iman,2,1,50,36,1,2,Iman Shumpert,15,6,Shumpert,G,0,New York,2
+2,0,5,1,0,0,4,2,50,Shane,0,0,0,32,0,4,Shane Larkin,4,5,Larkin,G,0,New York,3
+2,1,5,0,0,0,13,7,54,Amar'e,1,1,100,22,3,2,Amar'e Stoudemire,15,8,Stoudemire,N/A,2,New York,1
+1,1,4,0,0,0,1,0,0,Quincy,0,0,0,14,2,1,Quincy Acy,0,6,Acy,N/A,0,New York,2
+3,0,0,7,4,57,15,8,53,Tim,0,0,0,27,0,3,Tim Hardaway Jr.,20,0,Hardaway,N/A,0,New York,0
+0,0,0,1,0,0,2,0,0,Pablo,0,0,0,6,1,1,Pablo Prigioni,0,1,Prigioni,N/A,0,New York,0
+0,0,0,0,0,0,3,1,33,Travis,0,0,0,5,0,1,Travis Wear,2,0,Wear,N/A,0,New York,0
+1,3,4,0,0,0,3,2,67,Cole,0,0,0,11,1,3,Cole Aldrich,4,5,Aldrich,N/A,0,New York,0
+0,0,1,1,1,100,1,1,100,Cleanthony,0,0,0,6,0,0,Cleanthony Early,3,1,Early,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JR,N/A,N/A,N/A,N/A,N/A,N/A,JR Smith,N/A,N/A,Smith,N/A,N/A,New York,N/A
+5,2,6,1,0,0,17,2,12,Josh,6,4,67,34,4,2,Josh Smith,8,10,Smith,F,3,Detroit,1
+3,0,12,0,0,0,17,8,47,Greg,8,7,88,36,6,2,Greg Monroe,23,18,Monroe,F,1,Detroit,1
+0,2,7,0,0,0,10,3,30,Andre,4,1,25,29,6,5,Andre Drummond,7,13,Drummond,C,0,Detroit,2
+0,0,2,7,4,57,14,8,57,Kentavious,2,0,0,35,0,3,Kentavious Caldwell-Pope,20,2,Caldwell-Pope,G,0,Detroit,0
+5,0,1,3,1,33,9,2,22,Brandon,8,7,88,23,1,0,Brandon Jennings,12,2,Jennings,G,0,Detroit,1
+0,0,4,3,1,33,7,2,29,Caron,0,0,0,31,1,2,Caron Butler,5,5,Butler,N/A,1,Detroit,1
+3,0,1,4,2,50,6,3,50,D.J.,5,4,80,25,0,1,D.J. Augustin,12,1,Augustin,N/A,0,Detroit,2
+0,0,1,1,0,0,1,0,0,Kyle,0,0,0,13,0,0,Kyle Singler,0,1,Singler,N/A,0,Detroit,0
+1,0,2,4,3,75,6,4,67,Jonas,0,0,0,15,1,1,Jonas Jerebko,11,3,Jerebko,N/A,0,Detroit,0
+0,0,0,0,0,0,0,0,0,Joel,0,0,0,0,0,0,Joel Anthony,0,0,Anthony,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gigi,N/A,N/A,N/A,N/A,N/A,N/A,Gigi Datome,N/A,N/A,Datome,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Spencer,N/A,N/A,N/A,N/A,N/A,N/A,Spencer Dinwiddie,N/A,N/A,Dinwiddie,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Mitchell,N/A,N/A,Mitchell,N/A,N/A,Detroit,N/A

@@ -1,0 +1,37 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,16,00:31:35,1,0,PUSARLA V. Sindhu,smash,goes out of bounds,opponent goes out of bounds
+2,10,00:32:01,2,0,PUSARLA V. Sindhu,defensive return drive,goes out of bounds,opponent goes out of bounds
+3,2,00:32:26,3,0,PUSARLA V. Sindhu,smash,hits the net,opponent hits the net
+4,7,00:32:59,4,0,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+5,11,00:33:29,5,0,PUSARLA V. Sindhu,drop,opponent wins by landing,wins by landing
+6,2,00:33:52,6,0,PUSARLA V. Sindhu,clear,goes out of bounds,opponent goes out of bounds
+7,5,00:34:12,7,0,PUSARLA V. Sindhu,clear,opponent wins by landing,wins by landing
+8,12,00:34:44,7,1,Pornpawee CHOCHUWONG,push,opponent wins by landing,wins by landing
+9,3,00:35:11,8,1,PUSARLA V. Sindhu,wrist smash,goes out of bounds,opponent goes out of bounds
+10,5,00:35:30,8,2,Pornpawee CHOCHUWONG,unknown,hits the net,opponent hits the net
+11,4,00:35:55,9,2,PUSARLA V. Sindhu,rush,opponent wins by landing,wins by landing
+12,4,00:36:14,9,3,Pornpawee CHOCHUWONG,cross-court net shot,opponent wins by landing,wins by landing
+13,19,00:36:46,10,3,PUSARLA V. Sindhu,cross-court net shot,fails to clear the net,opponent fails to clear the net
+14,10,00:37:13,10,4,Pornpawee CHOCHUWONG,rush,opponent wins by landing,wins by landing
+15,5,00:37:47,11,4,PUSARLA V. Sindhu,push,goes out of bounds,opponent goes out of bounds
+16,7,00:39:06,12,4,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+17,19,00:39:59,12,5,Pornpawee CHOCHUWONG,smash,goes out of bounds,opponent goes out of bounds
+18,5,00:40:34,13,5,PUSARLA V. Sindhu,cross-court net shot,fails to clear the net,opponent fails to clear the net
+19,11,00:41:02,13,6,Pornpawee CHOCHUWONG,return net,goes out of bounds,opponent goes out of bounds
+20,9,00:41:35,13,7,Pornpawee CHOCHUWONG,smash,opponent wins by landing,wins by landing
+21,17,00:42:30,13,8,Pornpawee CHOCHUWONG,wrist smash,opponent wins by landing,wins by landing
+22,12,00:43:18,14,8,PUSARLA V. Sindhu,drop,opponent wins by landing,wins by landing
+23,10,00:43:49,15,8,PUSARLA V. Sindhu,return net,fails to clear the net,opponent fails to clear the net
+24,7,00:44:13,16,8,PUSARLA V. Sindhu,rush,opponent wins by landing,wins by landing
+25,3,00:44:37,16,9,Pornpawee CHOCHUWONG,lob,goes out of bounds,opponent goes out of bounds
+26,3,00:44:58,16,10,Pornpawee CHOCHUWONG,defensive return drive,opponent wins by landing,wins by landing
+27,12,00:45:39,17,10,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+28,15,00:46:16,17,11,Pornpawee CHOCHUWONG,clear,goes out of bounds,opponent goes out of bounds
+29,5,00:46:47,18,11,PUSARLA V. Sindhu,clear,goes out of bounds,opponent goes out of bounds
+30,13,00:47:33,19,11,PUSARLA V. Sindhu,push,opponent wins by landing,wins by landing
+31,3,00:47:57,19,12,Pornpawee CHOCHUWONG,unknown,goes out of bounds,opponent goes out of bounds
+32,6,00:48:19,19,13,Pornpawee CHOCHUWONG,return net,goes out of bounds,opponent goes out of bounds
+33,5,00:48:40,19,14,Pornpawee CHOCHUWONG,push,opponent wins by landing,wins by landing
+34,22,00:49:27,20,14,PUSARLA V. Sindhu,rush,opponent wins by landing,wins by landing
+35,3,00:50:00,20,15,Pornpawee CHOCHUWONG,return net,fails to clear the net,opponent fails to clear the net
+36,8,00:50:34,21,15,PUSARLA V. Sindhu,lob,opponent wins by landing,wins by landing

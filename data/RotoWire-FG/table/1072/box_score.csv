@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,3,1,0,0,9,5,56,Aaron,0,0,0,25,3,3,Aaron Gordon,10,6,Gordon,F,0,Orlando,2
+2,3,3,7,4,57,12,5,42,Jonathan,2,2,100,35,1,2,Jonathan Isaac,16,4,Isaac,F,1,Orlando,1
+5,4,11,3,1,33,20,9,45,Nikola,2,2,100,33,3,3,Nikola Vucevic,21,14,Vucevic,C,2,Orlando,4
+1,0,2,3,0,0,11,4,36,Evan,3,1,33,33,0,4,Evan Fournier,9,2,Fournier,G,0,Orlando,0
+6,0,1,5,2,40,11,5,46,D.J.,7,7,100,28,2,0,D.J. Augustin,19,3,Augustin,G,2,Orlando,2
+3,0,2,1,1,100,5,4,80,Jonathon,6,4,67,24,0,2,Jonathon Simmons,13,2,Simmons,N/A,0,Orlando,1
+0,0,0,0,0,0,0,0,0,Isaiah,0,0,0,1,0,0,Isaiah Briscoe,0,0,Briscoe,N/A,0,Orlando,0
+0,0,1,8,1,12,12,3,25,Terrence,2,2,100,27,0,2,Terrence Ross,9,1,Ross,N/A,1,Orlando,1
+3,1,4,4,1,25,5,1,20,Jerian,4,3,75,19,0,1,Jerian Grant,6,4,Grant,N/A,1,Orlando,1
+0,2,4,2,1,50,4,2,50,Mo,2,2,100,15,2,2,Mo Bamba,7,6,Bamba,N/A,0,Orlando,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Khem,N/A,N/A,N/A,N/A,N/A,N/A,Khem Birch,N/A,N/A,Birch,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wes,N/A,N/A,N/A,N/A,N/A,N/A,Wes Iwundu,N/A,N/A,Iwundu,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarell,N/A,N/A,N/A,N/A,N/A,N/A,Jarell Martin,N/A,N/A,Martin,N/A,N/A,Orlando,N/A
+0,0,3,1,0,0,9,6,67,Rodions,2,1,50,22,1,4,Rodions Kurucs,13,4,Kurucs,F,1,Brooklyn,2
+0,0,4,3,1,33,5,2,40,Treveon,0,0,0,24,1,2,Treveon Graham,5,5,Graham,F,0,Brooklyn,3
+2,0,7,1,0,0,7,3,43,Jarrett,0,0,0,29,4,0,Jarrett Allen,6,11,Allen,C,1,Brooklyn,1
+3,0,3,4,1,25,10,5,50,Joe,2,2,100,31,1,3,Joe Harris,13,4,Harris,G,0,Brooklyn,1
+10,0,7,8,3,38,21,9,43,D'Angelo,5,4,80,34,0,4,D'Angelo Russell,25,7,Russell,G,2,Brooklyn,3
+3,0,2,8,2,25,17,10,59,Spencer,8,7,88,30,1,1,Spencer Dinwiddie,29,3,Dinwiddie,N/A,1,Brooklyn,1
+1,0,2,7,3,43,13,6,46,DeMarre,6,4,67,32,2,2,DeMarre Carroll,19,4,Carroll,N/A,0,Brooklyn,1
+1,1,3,0,0,0,3,0,0,Ed,0,0,0,19,2,5,Ed Davis,0,5,Davis,N/A,1,Brooklyn,2
+0,0,1,0,0,0,3,1,33,Rondae,0,0,0,6,0,0,Rondae Hollis-Jefferson,2,1,Hollis-Jefferson,N/A,1,Brooklyn,0
+0,1,1,0,0,0,2,1,50,Shabazz,0,0,0,12,0,1,Shabazz Napier,2,1,Napier,N/A,0,Brooklyn,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jared,N/A,N/A,N/A,N/A,N/A,N/A,Jared Dudley,N/A,N/A,Dudley,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Theo,N/A,N/A,N/A,N/A,N/A,N/A,Theo Pinson,N/A,N/A,Pinson,N/A,N/A,Brooklyn,N/A

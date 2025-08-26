@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,6,5,1,20,26,11,42,Kawhi,10,8,80,40,1,1,Kawhi Leonard,31,7,Leonard,F,3,San Antonio,1
+0,3,9,0,0,0,19,10,53,LaMarcus,4,1,25,40,5,3,LaMarcus Aldridge,21,14,Aldridge,F,0,San Antonio,2
+0,0,4,0,0,0,3,2,67,Dewayne,0,0,0,16,1,6,Dewayne Dedmon,4,5,Dedmon,C,0,San Antonio,1
+3,0,7,3,0,0,10,3,30,Danny,0,0,0,36,0,2,Danny Green,6,7,Green,G,0,San Antonio,0
+4,0,1,0,0,0,7,2,29,Tony,0,0,0,24,0,0,Tony Parker,4,1,Parker,G,0,San Antonio,2
+2,0,6,5,1,20,10,4,40,Pau,8,4,50,36,3,4,Pau Gasol,13,9,Gasol,N/A,0,San Antonio,2
+2,0,3,3,0,0,5,2,40,Manu,1,1,100,21,0,1,Manu Ginobili,5,3,Ginobili,N/A,0,San Antonio,0
+2,0,1,9,4,44,10,5,50,Patty,2,1,50,29,1,1,Patty Mills,15,2,Mills,N/A,2,San Antonio,2
+0,1,3,0,0,0,0,0,0,David,0,0,0,9,0,3,David Lee,0,3,Lee,N/A,0,San Antonio,0
+1,0,2,1,0,0,4,1,25,Jonathon,0,0,0,12,0,1,Jonathon Simmons,2,2,Simmons,N/A,1,San Antonio,1
+0,0,0,1,0,0,1,0,0,Davis,0,0,0,2,0,0,Davis Bertans,0,0,Bertans,N/A,0,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Anderson,N/A,N/A,Anderson,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dejounte,N/A,N/A,N/A,N/A,N/A,N/A,Dejounte Murray,N/A,N/A,Murray,N/A,N/A,San Antonio,N/A
+1,0,0,3,1,33,5,1,20,Solomon,0,0,0,40,1,5,Solomon Hill,3,1,Hill,F,0,New Orleans,0
+3,1,7,3,1,33,18,7,39,Anthony,16,14,88,42,1,4,Anthony Davis,29,8,Davis,F,1,New Orleans,3
+4,0,20,6,1,17,18,7,39,DeMarcus,5,4,80,43,4,5,DeMarcus Cousins,19,24,Cousins,C,0,New Orleans,6
+0,0,2,3,1,33,7,2,29,Hollis,0,0,0,29,0,1,Hollis Thompson,5,2,Thompson,G,0,New Orleans,0
+5,0,6,6,2,33,27,12,44,Jrue,0,0,0,43,1,1,Jrue Holiday,26,7,Holiday,G,1,New Orleans,4
+0,0,1,2,1,50,6,3,50,Dante,2,1,50,21,0,2,Dante Cunningham,8,1,Cunningham,N/A,0,New Orleans,1
+5,1,4,2,1,50,8,2,25,E'Twaun,1,1,100,37,0,2,E'Twaun Moore,6,4,Moore,N/A,0,New Orleans,0
+2,0,0,0,0,0,2,1,50,Tim,0,0,0,10,1,2,Tim Frazier,2,1,Frazier,N/A,0,New Orleans,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alexis,N/A,N/A,N/A,N/A,N/A,N/A,Alexis Ajinca,N/A,N/A,Ajinca,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omer,N/A,N/A,N/A,N/A,N/A,N/A,Omer Asik,N/A,N/A,Asik,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett Jack,N/A,N/A,Jack,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Donatas,N/A,N/A,N/A,N/A,N/A,N/A,Donatas Motiejunas,N/A,N/A,Motiejunas,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Williams,N/A,N/A,Williams,N/A,N/A,New Orleans,N/A

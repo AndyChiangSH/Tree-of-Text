@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,9,5,2,40,9,3,33,Khris,3,2,67,34,0,3,Khris Middleton,10,9,Middleton,F,1,Milwaukee,5
+6,1,14,3,1,33,15,8,53,Giannis,3,2,67,37,5,3,Giannis Antetokounmpo,19,19,Antetokounmpo,F,0,Milwaukee,2
+2,1,1,8,5,62,13,7,54,Brook,0,0,0,33,0,0,Brook Lopez,19,1,Lopez,C,2,Milwaukee,1
+2,0,2,5,3,60,15,7,47,Malcolm,1,1,100,32,0,1,Malcolm Brogdon,18,2,Brogdon,G,1,Milwaukee,0
+5,0,0,4,0,0,14,4,29,Eric,1,1,100,33,2,0,Eric Bledsoe,9,2,Bledsoe,G,0,Milwaukee,1
+0,0,0,2,0,0,2,0,0,Pat,0,0,0,5,0,0,Pat Connaughton,0,0,Connaughton,N/A,1,Milwaukee,0
+0,1,2,2,1,50,3,1,33,Ersan,6,6,100,17,0,2,Ersan Ilyasova,9,2,Ilyasova,N/A,1,Milwaukee,0
+1,0,1,5,1,20,8,3,38,Tony,4,3,75,20,0,0,Tony Snell,10,1,Snell,N/A,0,Milwaukee,1
+1,1,5,3,1,33,6,2,33,Sterling,0,0,0,22,2,3,Sterling Brown,5,7,Brown,N/A,0,Milwaukee,0
+0,3,2,2,1,50,2,1,50,Thon,2,2,100,8,0,1,Thon Maker,5,2,Maker,N/A,0,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Donte,N/A,N/A,N/A,N/A,N/A,N/A,Donte DiVincenzo,N/A,N/A,DiVincenzo,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,George,N/A,N/A,N/A,N/A,N/A,N/A,George Hill,N/A,N/A,Hill,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Smith,N/A,N/A,Smith,N/A,N/A,Milwaukee,N/A
+4,2,5,5,1,20,18,8,44,Kawhi,3,3,100,37,3,0,Kawhi Leonard,20,8,Leonard,F,2,Toronto,1
+2,3,5,4,2,50,12,7,58,Pascal,2,1,50,25,2,1,Pascal Siakam,17,7,Siakam,F,0,Toronto,1
+4,2,5,11,4,36,21,9,43,Serge,0,0,0,32,1,2,Serge Ibaka,22,6,Ibaka,C,2,Toronto,1
+4,3,4,4,2,50,7,3,43,Danny,0,0,0,34,1,5,Danny Green,8,5,Green,G,1,Toronto,2
+7,1,5,5,0,0,5,0,0,Kyle,0,0,0,34,0,3,Kyle Lowry,0,5,Lowry,G,0,Toronto,3
+2,0,2,7,5,71,12,7,58,Fred,0,0,0,27,0,3,Fred VanVleet,19,2,VanVleet,N/A,1,Toronto,0
+0,0,2,3,0,0,5,1,20,OG,0,0,0,12,0,1,OG Anunoby,2,2,Anunoby,N/A,0,Toronto,0
+0,0,2,3,1,33,4,2,50,CJ,0,0,0,14,0,3,CJ Miles,5,2,Miles,N/A,0,Toronto,0
+1,0,2,2,0,0,2,0,0,Delon,0,0,0,10,1,0,Delon Wright,0,3,Wright,N/A,0,Toronto,0
+0,0,2,0,0,0,8,2,25,Jonas,2,2,100,13,3,3,Jonas Valanciunas,6,5,Valanciunas,N/A,0,Toronto,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lorenzo,N/A,N/A,N/A,N/A,N/A,N/A,Lorenzo Brown,N/A,N/A,Brown,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Monroe,N/A,N/A,Monroe,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malachi,N/A,N/A,N/A,N/A,N/A,N/A,Malachi Richardson,N/A,N/A,Richardson,N/A,N/A,Toronto,N/A

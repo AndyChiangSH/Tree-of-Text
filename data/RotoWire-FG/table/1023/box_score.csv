@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,0,8,4,50,11,5,46,Iman,0,0,0,34,0,2,Iman Shumpert,14,0,Shumpert,F,4,Sacramento,5
+2,1,4,2,0,0,7,3,43,Nemanja,0,0,0,21,2,1,Nemanja Bjelica,6,6,Bjelica,F,0,Sacramento,3
+3,0,12,0,0,0,11,5,46,Willie,1,1,100,27,4,3,Willie Cauley-Stein,11,16,Cauley-Stein,C,3,Sacramento,1
+4,0,4,9,4,44,11,5,46,Buddy,0,0,0,33,0,1,Buddy Hield,14,4,Hield,G,1,Sacramento,2
+6,1,3,6,4,67,16,8,50,De'Aaron,6,5,83,34,1,2,De'Aaron Fox,25,4,Fox,G,4,Sacramento,4
+3,0,5,8,3,38,13,6,46,Bogdan,2,1,50,30,1,1,Bogdan Bogdanovic,16,6,Bogdanovic,N/A,2,Sacramento,0
+0,0,1,1,1,100,9,5,56,Marvin,6,5,83,26,1,2,Marvin Bagley III,16,2,Bagley,N/A,0,Sacramento,0
+4,1,1,1,0,0,2,0,0,Frank,0,0,0,8,0,0,Frank Mason,0,1,Mason,N/A,0,Sacramento,1
+0,1,2,0,0,0,3,1,33,Kosta,0,0,0,15,0,3,Kosta Koufos,2,2,Koufos,N/A,1,Sacramento,0
+0,0,0,2,0,0,5,2,40,Justin,0,0,0,8,1,0,Justin Jackson,4,1,Jackson,N/A,1,Sacramento,0
+1,0,0,0,0,0,0,0,0,Harry,0,0,0,2,0,0,Harry Giles III,0,0,Giles,N/A,0,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Yogi,N/A,N/A,N/A,N/A,N/A,N/A,Yogi Ferrell,N/A,N/A,Ferrell,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Williams,N/A,N/A,Williams,N/A,N/A,Sacramento,N/A
+1,0,3,6,1,17,9,3,33,Justin,2,2,100,35,0,0,Justin Holiday,9,3,Holiday,F,3,Chicago,4
+1,0,6,8,1,12,16,5,31,Lauri,2,2,100,29,0,1,Lauri Markkanen,13,6,Markkanen,F,1,Chicago,2
+2,1,7,0,0,0,6,3,50,Wendell,2,2,100,29,1,3,Wendell Carter Jr.,8,8,Carter,C,1,Chicago,3
+2,0,1,5,3,60,13,7,54,Zach,2,2,100,32,1,1,Zach LaVine,19,2,LaVine,G,3,Chicago,6
+3,0,3,1,0,0,3,1,33,Ryan,0,0,0,26,2,3,Ryan Arcidiacono,2,5,Arcidiacono,G,0,Chicago,0
+0,0,3,1,1,100,6,3,50,Jabari,0,0,0,19,0,2,Jabari Parker,7,3,Parker,N/A,0,Chicago,5
+6,0,2,2,0,0,5,3,60,Kris,3,3,100,20,1,4,Kris Dunn,9,3,Dunn,N/A,0,Chicago,2
+1,1,6,2,1,50,8,3,38,Bobby,2,2,100,19,2,2,Bobby Portis,9,8,Portis,N/A,0,Chicago,1
+0,0,0,1,0,0,3,2,67,Shaquille,0,0,0,12,0,0,Shaquille Harrison,4,0,Harrison,N/A,2,Chicago,2
+0,1,1,0,0,0,5,3,60,Robin,0,0,0,9,0,1,Robin Lopez,6,1,Lopez,N/A,0,Chicago,2
+0,0,1,1,1,100,1,1,100,Chandler,0,0,0,6,0,0,Chandler Hutchison,3,1,Hutchison,N/A,0,Chicago,0
+0,0,0,1,0,0,1,0,0,Cameron,0,0,0,2,0,0,Cameron Payne,0,0,Payne,N/A,0,Chicago,0
+0,0,0,0,0,0,0,0,0,Cristiano,0,0,0,2,0,0,Cristiano Felicio,0,0,Felicio,N/A,0,Chicago,0

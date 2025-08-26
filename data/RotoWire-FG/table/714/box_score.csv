@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,6,6,0,0,17,6,35,Joe,8,5,63,42,0,3,Joe Johnson,17,6,Johnson,F,2,Brooklyn,0
+3,0,5,1,0,0,16,7,44,Thaddeus,2,1,50,40,5,2,Thaddeus Young,15,10,Young,F,1,Brooklyn,4
+0,0,8,0,0,0,7,6,86,Brook,6,5,83,36,6,3,Brook Lopez,17,14,Lopez,C,2,Brooklyn,0
+0,0,0,1,0,0,3,2,67,Markel,0,0,0,6,1,0,Markel Brown,4,1,Brown,G,0,Brooklyn,2
+2,0,4,4,2,50,11,5,46,Deron,1,1,100,33,0,4,Deron Williams,13,4,Williams,G,0,Brooklyn,2
+2,0,4,5,1,20,8,2,25,Bojan,0,0,0,32,0,2,Bojan Bogdanovic,5,4,Bogdanovic,N/A,0,Brooklyn,2
+2,0,2,0,0,0,8,5,63,Jarrett,3,3,100,16,0,3,Jarrett Jack,13,2,Jack,N/A,1,Brooklyn,5
+0,0,1,2,1,50,6,1,17,Earl,0,0,0,8,0,1,Earl Clark,3,1,Clark,N/A,1,Brooklyn,0
+1,0,1,1,1,100,3,2,67,Alan,0,0,0,16,0,1,Alan Anderson,5,1,Anderson,N/A,1,Brooklyn,1
+2,0,4,0,0,0,0,0,0,Mason,2,0,0,12,0,0,Mason Plumlee,0,4,Plumlee,N/A,0,Brooklyn,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cory,N/A,N/A,N/A,N/A,N/A,N/A,Cory Jefferson,N/A,N/A,Jefferson,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerome,N/A,N/A,N/A,N/A,N/A,N/A,Jerome Jordan,N/A,N/A,Jordan,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darius,N/A,N/A,N/A,N/A,N/A,N/A,Darius Morris,N/A,N/A,Morris,N/A,N/A,Brooklyn,N/A
+3,0,6,6,2,33,12,5,42,DeMarre,5,5,100,33,2,3,DeMarre Carroll,17,8,Carroll,F,0,Atlanta,0
+2,1,7,1,0,0,11,2,18,Paul,2,2,100,33,0,4,Paul Millsap,6,7,Millsap,F,2,Atlanta,0
+2,1,8,2,0,0,12,5,42,Al,0,0,0,34,2,1,Al Horford,10,10,Horford,C,0,Atlanta,2
+3,1,7,11,5,46,12,6,50,Kyle,5,4,80,37,0,0,Kyle Korver,21,7,Korver,G,2,Atlanta,2
+3,0,0,2,1,50,12,6,50,Jeff,4,4,100,29,0,4,Jeff Teague,17,0,Teague,G,1,Atlanta,4
+1,0,2,3,1,33,4,2,50,Pero,3,3,100,19,1,4,Pero Antic,8,3,Antic,N/A,0,Atlanta,0
+1,0,3,1,0,0,2,0,0,Kent,0,0,0,16,0,2,Kent Bazemore,0,3,Bazemore,N/A,1,Atlanta,0
+2,0,0,3,1,33,9,5,56,Dennis,2,2,100,24,0,2,Dennis Schroder,13,0,Schroder,N/A,1,Atlanta,4
+2,0,0,1,0,0,2,1,50,Shelvin,0,0,0,4,0,0,Shelvin Mack,2,0,Mack,N/A,2,Atlanta,0
+0,0,0,0,0,0,3,2,67,Mike,1,1,100,11,1,1,Mike Scott,5,1,Scott,N/A,2,Atlanta,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elton,N/A,N/A,N/A,N/A,N/A,N/A,Elton Brand,N/A,N/A,Brand,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Jenkins,N/A,N/A,Jenkins,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Muscala,N/A,N/A,Muscala,N/A,N/A,Atlanta,N/A

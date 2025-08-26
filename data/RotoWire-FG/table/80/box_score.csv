@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,8,0,0,0,13,4,31,Michael,3,3,100,41,2,5,Michael Kidd-Gilchrist,11,10,Kidd-Gilchrist,F,1,Charlotte,0
+2,0,5,9,3,33,14,6,43,Marvin,1,1,100,26,1,2,Marvin Williams,16,6,Williams,F,0,Charlotte,0
+1,0,2,0,0,0,4,0,0,Cody,0,0,0,14,2,4,Cody Zeller,0,4,Zeller,C,0,Charlotte,1
+7,1,8,5,1,20,12,5,42,Nicolas,5,4,80,33,1,1,Nicolas Batum,15,9,Batum,G,2,Charlotte,1
+4,0,2,8,4,50,20,8,40,Kemba,1,1,100,32,0,1,Kemba Walker,21,2,Walker,G,1,Charlotte,0
+1,0,1,4,3,75,7,3,43,Marco,0,0,0,21,0,1,Marco Belinelli,9,1,Belinelli,N/A,1,Charlotte,0
+0,0,5,3,0,0,6,1,17,Frank,2,1,50,23,0,0,Frank Kaminsky,3,5,Kaminsky,N/A,0,Charlotte,1
+0,0,1,0,0,0,5,3,60,Roy,0,0,0,13,2,2,Roy Hibbert,6,3,Hibbert,N/A,0,Charlotte,0
+4,0,0,0,0,0,7,3,43,Ramon,0,0,0,17,0,0,Ramon Sessions,6,0,Sessions,N/A,1,Charlotte,1
+2,1,3,0,0,0,7,3,43,Spencer,0,0,0,20,2,3,Spencer Hawes,6,5,Hawes,N/A,1,Charlotte,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Treveon,N/A,N/A,N/A,N/A,N/A,N/A,Treveon Graham,N/A,N/A,Graham,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brian,N/A,N/A,N/A,N/A,N/A,N/A,Brian Roberts,N/A,N/A,Roberts,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Christian,N/A,N/A,N/A,N/A,N/A,N/A,Christian Wood,N/A,N/A,Wood,N/A,N/A,Charlotte,N/A
+8,1,8,5,2,40,21,8,38,LeBron,2,1,50,39,0,0,LeBron James,19,8,James,F,1,Cleveland,3
+4,0,7,3,2,67,10,6,60,Kevin,4,3,75,26,4,3,Kevin Love,17,11,Love,F,1,Cleveland,1
+0,2,9,0,0,0,2,1,50,Tristan,6,2,33,30,3,1,Tristan Thompson,4,12,Thompson,C,0,Cleveland,0
+0,1,3,3,0,0,6,1,17,Mike,0,0,0,17,0,3,Mike Dunleavy,2,3,Dunleavy,G,0,Cleveland,0
+4,0,1,5,1,20,17,8,47,Kyrie,2,2,100,27,2,2,Kyrie Irving,19,3,Irving,G,1,Cleveland,0
+2,1,2,5,3,60,9,6,67,Iman,0,0,0,32,1,0,Iman Shumpert,15,3,Shumpert,N/A,0,Cleveland,3
+2,0,6,3,0,0,5,1,20,Richard,1,0,0,26,2,0,Richard Jefferson,2,8,Jefferson,N/A,0,Cleveland,1
+0,3,3,12,6,50,15,7,47,Channing,0,0,0,25,0,3,Channing Frye,20,3,Frye,N/A,0,Cleveland,1
+2,0,0,0,0,0,3,0,0,Kay,0,0,0,5,0,0,Kay Felder,0,0,Felder,N/A,0,Cleveland,0
+3,0,2,2,0,0,4,1,25,Jordan,0,0,0,14,0,1,Jordan McRae,2,2,McRae,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Andersen,N/A,N/A,Andersen,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Jones,N/A,N/A,Jones,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre Liggins,N/A,N/A,Liggins,N/A,N/A,Cleveland,N/A

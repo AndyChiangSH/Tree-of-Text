@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,1,3,2,67,7,3,43,Mike,0,0,0,16,0,0,Mike Dunleavy,8,1,Dunleavy,F,0,Chicago,1
+0,0,5,0,0,0,10,5,50,Taj,2,1,50,22,2,2,Taj Gibson,11,7,Gibson,F,0,Chicago,1
+7,3,8,5,3,60,13,8,62,Pau,3,3,100,33,2,0,Pau Gasol,22,10,Gasol,C,2,Chicago,1
+2,1,3,4,2,50,10,5,50,E'Twaun,0,0,0,32,0,3,E'Twaun Moore,12,3,Moore,G,2,Chicago,2
+5,0,2,5,1,20,8,1,13,Kirk,0,0,0,26,0,3,Kirk Hinrich,3,2,Hinrich,G,1,Chicago,2
+0,0,3,3,1,33,11,6,55,Doug,1,1,100,32,0,3,Doug McDermott,14,3,McDermott,N/A,0,Chicago,0
+4,1,1,1,0,0,12,2,17,Aaron,0,0,0,20,0,4,Aaron Brooks,4,1,Brooks,N/A,0,Chicago,0
+1,1,3,1,1,100,7,2,29,Bobby,2,1,50,20,3,5,Bobby Portis,6,6,Portis,N/A,0,Chicago,0
+2,2,2,1,0,0,8,2,25,Cameron,2,2,100,19,0,2,Cameron Bairstow,6,2,Bairstow,N/A,0,Chicago,0
+2,0,5,2,0,0,4,1,25,Tony,4,3,75,19,1,0,Tony Snell,5,6,Snell,N/A,0,Chicago,0
+0,0,0,0,0,0,0,0,0,Cristiano,0,0,0,2,0,0,Cristiano Felicio,0,0,Felicio,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jimmy,N/A,N/A,N/A,N/A,N/A,N/A,Jimmy Butler,N/A,N/A,Butler,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Rose,N/A,N/A,Rose,N/A,N/A,Chicago,N/A
+0,2,4,2,1,50,14,7,50,Michael,6,5,83,30,3,0,Michael Kidd-Gilchrist,20,7,Kidd-Gilchrist,F,0,Charlotte,0
+0,2,4,6,3,50,7,3,43,Marvin,0,0,0,30,1,1,Marvin Williams,9,5,Williams,F,1,Charlotte,0
+1,2,6,1,1,100,3,2,67,Cody,2,0,0,20,2,6,Cody Zeller,5,8,Zeller,C,0,Charlotte,3
+8,0,13,6,3,50,13,8,62,Nicolas,0,0,0,44,0,1,Nicolas Batum,19,13,Batum,G,2,Charlotte,4
+8,0,4,9,4,44,19,8,42,Kemba,13,10,77,36,3,1,Kemba Walker,30,7,Walker,G,3,Charlotte,2
+0,1,7,3,1,33,9,5,56,Spencer,2,2,100,28,1,6,Spencer Hawes,13,8,Hawes,N/A,0,Charlotte,2
+0,0,4,2,0,0,3,0,0,Frank,6,5,83,19,0,2,Frank Kaminsky,5,4,Kaminsky,N/A,0,Charlotte,1
+1,0,1,3,1,33,5,1,20,Jeremy,2,2,100,16,0,1,Jeremy Lamb,5,1,Lamb,N/A,0,Charlotte,0
+2,1,3,4,0,0,7,1,14,Jeremy,0,0,0,18,0,1,Jeremy Lin,2,3,Lin,N/A,0,Charlotte,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Daniels,N/A,N/A,Daniels,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,PJ,N/A,N/A,N/A,N/A,N/A,N/A,PJ Hairston,N/A,N/A,Hairston,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Hansbrough,N/A,N/A,Hansbrough,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brian,N/A,N/A,N/A,N/A,N/A,N/A,Brian Roberts,N/A,N/A,Roberts,N/A,N/A,Charlotte,N/A

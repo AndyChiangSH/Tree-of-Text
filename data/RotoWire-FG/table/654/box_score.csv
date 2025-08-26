@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,4,5,5,2,40,11,7,64,Dante,2,1,50,46,1,5,Dante Cunningham,17,6,Cunningham,F,2,New Orleans,2
+2,1,11,1,0,0,17,9,53,Anthony,9,7,78,47,2,3,Anthony Davis,25,13,Davis,F,1,New Orleans,3
+0,0,3,0,0,0,2,0,0,Omer,0,0,0,13,2,1,Omer Asik,0,5,Asik,C,0,New Orleans,0
+6,0,6,7,1,14,15,5,33,Toney,4,1,25,42,1,6,Toney Douglas,12,7,Douglas,G,2,New Orleans,2
+10,1,5,7,2,29,27,12,44,Jrue,10,8,80,41,0,4,Jrue Holiday,34,5,Holiday,G,0,New Orleans,7
+3,0,6,4,2,50,17,8,47,Ryan,7,6,86,37,8,1,Ryan Anderson,24,14,Anderson,N/A,0,New Orleans,3
+0,0,4,0,0,0,0,0,0,Alonzo,2,0,0,25,0,2,Alonzo Gee,0,4,Gee,N/A,1,New Orleans,0
+0,0,1,0,0,0,4,0,0,Orlando,0,0,0,5,0,1,Orlando Johnson,0,1,Johnson,N/A,0,New Orleans,0
+1,0,2,0,0,0,3,1,33,Luke,0,0,0,11,1,4,Luke Babbitt,2,3,Babbitt,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alexis,N/A,N/A,N/A,N/A,N/A,N/A,Alexis Ajinca,N/A,N/A,Ajinca,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Norris,N/A,N/A,N/A,N/A,N/A,N/A,Norris Cole,N/A,N/A,Cole,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Gordon,N/A,N/A,Gordon,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kendrick,N/A,N/A,N/A,N/A,N/A,N/A,Kendrick Perkins,N/A,N/A,Perkins,N/A,N/A,New Orleans,N/A
+10,0,9,8,4,50,19,8,42,Matt,6,6,100,44,2,5,Matt Barnes,26,11,Barnes,F,2,Memphis,0
+1,1,6,0,0,0,15,9,60,JaMychal,4,3,75,38,4,5,JaMychal Green,21,10,Green,F,1,Memphis,1
+0,3,1,0,0,0,3,2,67,Ryan,2,0,0,13,1,2,Ryan Hollins,4,2,Hollins,C,0,Memphis,2
+1,0,3,1,0,0,10,4,40,Tony,1,0,0,37,1,2,Tony Allen,8,4,Allen,G,4,Memphis,3
+7,1,4,0,0,0,6,4,67,Briante,2,2,100,40,1,2,Briante Weber,10,5,Weber,G,1,Memphis,2
+1,0,3,1,0,0,10,4,40,PJ,1,0,0,24,1,5,PJ Hairston,8,4,Hairston,N/A,1,Memphis,1
+2,1,2,0,0,0,9,3,33,Jarell,2,0,0,21,0,1,Jarell Martin,6,2,Martin,N/A,2,Memphis,0
+1,0,5,2,1,50,4,1,25,Vince,2,2,100,11,0,1,Vince Carter,5,5,Carter,N/A,1,Memphis,0
+4,1,7,2,1,50,20,12,60,Lance,12,8,67,38,0,3,Lance Stephenson,33,7,Stephenson,N/A,2,Memphis,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Andersen,N/A,N/A,Andersen,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Conley,N/A,N/A,Conley,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zach,N/A,N/A,N/A,N/A,N/A,N/A,Zach Randolph,N/A,N/A,Randolph,N/A,N/A,Memphis,N/A

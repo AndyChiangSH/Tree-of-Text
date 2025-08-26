@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,3,5,0,0,9,0,0,Wesley,2,1,50,33,1,2,Wesley Matthews,1,4,Matthews,F,1,Dallas,2
+1,0,11,4,2,50,14,9,64,Harrison,2,2,100,35,2,1,Harrison Barnes,22,13,Barnes,F,0,Dallas,4
+1,0,1,5,0,0,7,2,29,Dirk,1,1,100,20,0,4,Dirk Nowitzki,5,1,Nowitzki,C,0,Dallas,0
+4,0,1,4,3,75,9,6,67,Yogi,3,3,100,34,1,2,Yogi Ferrell,18,2,Ferrell,G,1,Dallas,2
+3,1,5,6,2,33,17,6,35,Dennis,1,1,100,34,2,3,Dennis Smith Jr.,15,7,Smith,G,2,Dallas,5
+1,1,3,0,0,0,3,2,67,Salah,2,0,0,11,2,1,Salah Mejri,4,5,Mejri,N/A,1,Dallas,2
+0,0,0,3,1,33,5,2,40,Dorian,0,0,0,12,1,2,Dorian Finney-Smith,5,1,Finney-Smith,N/A,0,Dallas,2
+2,0,2,5,1,20,10,3,30,J.J.,2,2,100,20,0,3,J.J. Barea,9,2,Barea,N/A,2,Dallas,0
+0,0,0,2,1,50,3,1,33,Gian,2,2,100,8,0,1,Gian Clavell,5,0,Clavell,N/A,0,Dallas,1
+2,1,2,2,1,50,5,4,80,Dwight,3,2,67,19,1,0,Dwight Powell,11,3,Powell,N/A,2,Dallas,2
+0,0,0,0,0,0,3,1,33,Maxi,0,0,0,8,1,0,Maxi Kleber,2,1,Kleber,N/A,0,Dallas,0
+0,1,2,1,0,0,2,1,50,Jeff,0,0,0,3,0,0,Jeff Withey,2,2,Withey,N/A,0,Dallas,0
+0,0,0,0,0,0,0,0,0,Nerlens,0,0,0,2,0,1,Nerlens Noel,0,0,Noel,N/A,0,Dallas,0
+5,0,7,12,7,58,22,12,55,Paul,7,6,86,42,1,3,Paul George,37,8,George,F,2,Oklahoma City,3
+3,1,8,1,0,0,6,3,50,Jerami,5,4,80,34,0,4,Jerami Grant,10,8,Grant,F,1,Oklahoma City,2
+0,1,2,0,0,0,2,2,100,Dakari,2,1,50,17,1,4,Dakari Johnson,5,3,Johnson,C,0,Oklahoma City,1
+2,1,5,1,0,0,2,1,50,Andre,4,1,25,28,0,1,Andre Roberson,3,5,Roberson,G,2,Oklahoma City,1
+5,0,6,5,3,60,18,6,33,Russell,13,12,92,33,0,2,Russell Westbrook,27,6,Westbrook,G,3,Oklahoma City,4
+0,0,1,1,1,100,2,1,50,Alex,0,0,0,15,1,2,Alex Abrines,3,2,Abrines,N/A,0,Oklahoma City,1
+0,0,4,3,1,33,5,3,60,Patrick,0,0,0,25,0,0,Patrick Patterson,7,4,Patterson,N/A,0,Oklahoma City,0
+5,0,0,2,0,0,6,3,50,Raymond,0,0,0,19,0,1,Raymond Felton,6,0,Felton,N/A,0,Oklahoma City,1
+1,1,1,7,3,43,7,3,43,Josh,0,0,0,22,0,6,Josh Huestis,9,1,Huestis,N/A,2,Oklahoma City,1
+0,0,0,0,0,0,1,1,100,Kyle,0,0,0,2,0,0,Kyle Singler,2,0,Singler,N/A,0,Oklahoma City,0
+0,0,0,0,0,0,1,1,100,Terrance,2,1,50,2,0,0,Terrance Ferguson,3,0,Ferguson,N/A,0,Oklahoma City,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Carmelo,N/A,N/A,N/A,N/A,N/A,N/A,Carmelo Anthony,N/A,N/A,Anthony,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A

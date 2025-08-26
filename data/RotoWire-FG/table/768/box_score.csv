@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,3,4,2,50,10,5,50,Maurice,2,1,50,38,0,3,Maurice Harkless,13,3,Harkless,F,3,Portland,1
+2,1,5,3,1,33,7,1,14,Al-Farouq,2,2,100,25,1,1,Al-Farouq Aminu,5,6,Aminu,F,0,Portland,0
+3,3,6,1,0,0,17,7,41,Jusuf,4,3,75,32,5,1,Jusuf Nurkic,17,11,Nurkic,C,0,Portland,2
+1,0,3,6,3,50,18,9,50,CJ,5,5,100,37,0,2,CJ McCollum,26,3,McCollum,G,2,Portland,2
+4,0,3,6,3,50,15,6,40,Damian,12,11,92,34,2,5,Damian Lillard,26,5,Lillard,G,4,Portland,6
+1,0,0,3,1,33,4,1,25,Pat,0,0,0,19,0,1,Pat Connaughton,3,0,Connaughton,N/A,0,Portland,2
+7,0,2,4,1,25,7,3,43,Evan,4,4,100,33,0,5,Evan Turner,11,2,Turner,N/A,1,Portland,2
+0,2,7,0,0,0,1,1,100,Ed,4,4,100,16,4,4,Ed Davis,6,11,Davis,N/A,0,Portland,1
+0,0,0,1,0,0,2,1,50,Shabazz,2,1,50,6,1,0,Shabazz Napier,3,1,Napier,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zach,N/A,N/A,N/A,N/A,N/A,N/A,Zach Collins,N/A,N/A,Collins,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Meyers,N/A,N/A,N/A,N/A,N/A,N/A,Meyers Leonard,N/A,N/A,Leonard,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caleb,N/A,N/A,N/A,N/A,N/A,N/A,Caleb Swanigan,N/A,N/A,Swanigan,N/A,N/A,Portland,N/A
+3,0,7,1,0,0,13,6,46,Khris,6,6,100,30,0,5,Khris Middleton,18,7,Middleton,F,0,Milwaukee,2
+4,2,6,4,1,25,23,17,74,Giannis,13,9,69,39,2,3,Giannis Antetokounmpo,44,8,Antetokounmpo,F,2,Milwaukee,2
+2,1,3,2,0,0,3,0,0,Thon,4,3,75,18,0,5,Thon Maker,3,3,Maker,C,1,Milwaukee,2
+1,0,1,4,3,75,8,7,88,Tony,0,0,0,34,1,1,Tony Snell,17,2,Snell,G,1,Milwaukee,2
+6,0,0,0,0,0,14,5,36,Malcolm,4,3,75,31,1,2,Malcolm Brogdon,13,1,Brogdon,G,4,Milwaukee,2
+0,1,1,1,0,0,2,0,0,DeAndre,0,0,0,18,0,1,DeAndre Liggins,0,1,Liggins,N/A,0,Milwaukee,1
+0,1,2,4,3,75,4,3,75,Mirza,0,0,0,17,0,2,Mirza Teletovic,9,2,Teletovic,N/A,1,Milwaukee,0
+0,0,0,0,0,0,3,0,0,Greg,0,0,0,7,0,0,Greg Monroe,0,0,Monroe,N/A,0,Milwaukee,0
+4,0,2,2,0,0,5,1,20,Matthew,1,0,0,16,0,0,Matthew Dellavedova,2,2,Dellavedova,N/A,0,Milwaukee,1
+2,0,0,0,0,0,0,0,0,Jason,0,0,0,5,0,0,Jason Terry,0,0,Terry,N/A,0,Milwaukee,0
+0,3,6,0,0,0,5,3,60,John,2,1,50,24,3,4,John Henson,7,9,Henson,N/A,0,Milwaukee,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sterling,N/A,N/A,N/A,N/A,N/A,N/A,Sterling Brown,N/A,N/A,Brown,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,D.J.,N/A,N/A,N/A,N/A,N/A,N/A,D.J. Wilson,N/A,N/A,Wilson,N/A,N/A,Milwaukee,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,1,1,0,0,12,4,33,Bojan,3,2,67,24,0,1,Bojan Bogdanovic,10,1,Bogdanovic,F,0,Brooklyn,2
+1,0,4,0,0,0,4,3,75,Trevor,0,0,0,16,1,3,Trevor Booker,6,5,Booker,F,0,Brooklyn,1
+0,2,6,6,3,50,15,10,67,Brook,3,2,67,30,1,4,Brook Lopez,25,7,Lopez,C,1,Brooklyn,2
+1,0,2,3,1,33,6,2,33,Randy,0,0,0,17,0,0,Randy Foye,5,2,Foye,G,0,Brooklyn,3
+5,0,4,2,0,0,7,3,43,Spencer,8,7,88,24,0,2,Spencer Dinwiddie,13,4,Dinwiddie,G,1,Brooklyn,1
+1,0,1,1,0,0,10,6,60,Sean,2,2,100,25,0,0,Sean Kilpatrick,14,1,Kilpatrick,N/A,0,Brooklyn,0
+8,1,2,2,0,0,9,3,33,Isaiah,4,4,100,27,0,1,Isaiah Whitehead,10,2,Whitehead,N/A,2,Brooklyn,3
+1,1,4,2,1,50,8,4,50,Caris,3,2,67,27,0,3,Caris LeVert,11,4,LeVert,N/A,2,Brooklyn,1
+0,0,3,0,0,0,1,0,0,Rondae,0,0,0,8,0,0,Rondae Hollis-Jefferson,0,3,Hollis-Jefferson,N/A,0,Brooklyn,0
+0,1,6,2,1,50,7,4,57,Justin,0,0,0,20,1,2,Justin Hamilton,9,7,Hamilton,N/A,0,Brooklyn,1
+0,1,0,2,1,50,6,2,33,Quincy,0,0,0,17,2,1,Quincy Acy,5,2,Acy,N/A,0,Brooklyn,0
+1,0,2,0,0,0,0,0,0,Luis,2,1,50,5,0,1,Luis Scola,1,2,Scola,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris McCullough,N/A,N/A,McCullough,N/A,N/A,Brooklyn,N/A
+4,1,1,1,1,100,18,9,50,Andrew,5,4,80,38,2,4,Andrew Wiggins,23,3,Wiggins,F,1,Minnesota,2
+4,0,9,0,0,0,9,4,44,Gorgui,4,4,100,34,1,3,Gorgui Dieng,12,10,Dieng,F,2,Minnesota,2
+1,4,9,3,2,67,27,15,56,Karl-Anthony,8,5,63,36,4,1,Karl-Anthony Towns,37,13,Towns,C,1,Minnesota,2
+2,1,6,6,3,50,11,6,55,Zach,7,5,71,37,1,1,Zach LaVine,20,7,LaVine,G,2,Minnesota,1
+6,0,3,2,0,0,9,5,56,Ricky,4,4,100,22,0,5,Ricky Rubio,14,3,Rubio,G,1,Minnesota,2
+7,1,5,1,0,0,2,1,50,Kris,0,0,0,26,0,0,Kris Dunn,2,5,Dunn,N/A,1,Minnesota,1
+1,1,2,3,2,67,11,6,55,Shabazz,4,4,100,28,5,3,Shabazz Muhammad,18,7,Muhammad,N/A,0,Minnesota,0
+1,0,0,4,1,25,4,1,25,Nemanja,0,0,0,14,0,1,Nemanja Bjelica,3,0,Bjelica,N/A,0,Minnesota,0
+0,0,0,0,0,0,1,0,0,Cole,0,0,0,2,0,1,Cole Aldrich,0,0,Aldrich,N/A,0,Minnesota,1
+1,0,0,0,0,0,1,0,0,Tyus,0,0,0,2,0,0,Tyus Jones,0,0,Jones,N/A,0,Minnesota,0
+0,0,1,0,0,0,0,0,0,Adreian,0,0,0,2,0,2,Adreian Payne,0,1,Payne,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Minnesota,N/A

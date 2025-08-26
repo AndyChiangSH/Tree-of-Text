@@ -1,0 +1,35 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,3,00:05:13,1,0,Anthony Sinisuka GINTING,back-court drive,goes out of bounds,opponent goes out of bounds
+2,7,00:05:31,2,0,Anthony Sinisuka GINTING,wrist smash,opponent wins by landing,wins by landing
+3,22,00:06:06,2,1,Rasmus GEMKE,wrist smash,opponent wins by landing,wins by landing
+4,11,00:07:01,3,1,Anthony Sinisuka GINTING,net shot,goes out of bounds,opponent goes out of bounds
+5,11,00:07:38,4,1,Anthony Sinisuka GINTING,return net,opponent wins by landing,wins by landing
+6,36,00:08:32,4,2,Rasmus GEMKE,clear,opponent wins by landing,wins by landing
+7,9,00:09:14,4,3,Rasmus GEMKE,lob,opponent wins by landing,wins by landing
+9,26,00:10:51,4,5,Rasmus GEMKE,push,hits the net,opponent hits the net
+10,9,00:11:38,5,5,Anthony Sinisuka GINTING,return net,fails to clear the net,opponent fails to clear the net
+11,16,00:12:27,6,5,Anthony Sinisuka GINTING,lob,goes out of bounds,opponent goes out of bounds
+12,11,00:12:56,7,5,Anthony Sinisuka GINTING,smash,opponent wins by landing,wins by landing
+13,3,00:13:21,7,6,Rasmus GEMKE,clear,goes out of bounds,opponent goes out of bounds
+14,8,00:13:51,7,7,Rasmus GEMKE,push,hits the net,opponent hits the net
+15,8,00:14:16,8,7,Anthony Sinisuka GINTING,rush,opponent wins by landing,wins by landing
+16,16,00:14:49,9,7,Anthony Sinisuka GINTING,return net,fails to clear the net,opponent fails to clear the net
+17,7,00:15:51,9,8,Rasmus GEMKE,wrist smash,goes out of bounds,opponent goes out of bounds
+18,30,00:16:35,9,9,Rasmus GEMKE,net shot,fails to clear the net,opponent fails to clear the net
+19,42,00:18:09,9,10,Rasmus GEMKE,unknown,hits the net,opponent hits the net
+20,7,00:19:12,10,10,Anthony Sinisuka GINTING,unknown,fails to clear the net,opponent fails to clear the net
+21,5,00:19:39,11,10,Anthony Sinisuka GINTING,rush,opponent wins by landing,wins by landing
+22,8,00:20:59,12,10,Anthony Sinisuka GINTING,push,goes out of bounds,opponent goes out of bounds
+23,5,00:21:19,12,11,Rasmus GEMKE,smash,goes out of bounds,opponent goes out of bounds
+24,13,00:21:48,13,11,Anthony Sinisuka GINTING,smash,goes out of bounds,opponent goes out of bounds
+25,3,00:22:10,13,12,Rasmus GEMKE,unknown,goes out of bounds,opponent goes out of bounds
+26,11,00:22:35,13,13,Rasmus GEMKE,push,opponent wins by landing,wins by landing
+27,10,00:23:21,14,13,Anthony Sinisuka GINTING,push,opponent wins by landing,wins by landing
+28,27,00:24:12,14,14,Rasmus GEMKE,wrist smash,goes out of bounds,opponent goes out of bounds
+29,6,00:25:19,15,14,Anthony Sinisuka GINTING,rush,opponent wins by landing,wins by landing
+30,18,00:25:58,16,14,Anthony Sinisuka GINTING,push,goes out of bounds,opponent goes out of bounds
+31,10,00:26:28,17,14,Anthony Sinisuka GINTING,clear,goes out of bounds,opponent goes out of bounds
+32,9,00:27:00,18,14,Anthony Sinisuka GINTING,smash,opponent wins by landing,wins by landing
+33,8,00:27:31,19,14,Anthony Sinisuka GINTING,lob,goes out of bounds,opponent goes out of bounds
+34,3,00:28:05,20,14,Anthony Sinisuka GINTING,drop,opponent wins by landing,wins by landing
+35,2,00:28:20,21,14,Anthony Sinisuka GINTING,cross-court net shot,fails to clear the net,opponent fails to clear the net

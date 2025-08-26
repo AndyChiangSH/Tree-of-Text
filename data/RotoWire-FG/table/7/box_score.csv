@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,6,9,3,33,36,18,50,Carmelo,7,6,86,46,0,6,Carmelo Anthony,45,6,Anthony,F,0,New York,3
+1,3,2,3,0,0,14,6,43,Kristaps,3,3,100,30,3,6,Kristaps Porzingis,15,5,Porzingis,F,0,New York,2
+5,2,7,0,0,0,5,2,40,Joakim,2,2,100,41,7,6,Joakim Noah,6,14,Noah,C,3,New York,1
+2,1,7,8,3,38,16,6,38,Courtney,2,2,100,52,2,5,Courtney Lee,17,9,Lee,G,2,New York,1
+11,0,3,8,4,50,15,5,33,Brandon,6,4,67,53,0,5,Brandon Jennings,18,3,Jennings,G,1,New York,1
+4,1,4,7,1,14,13,5,39,Mindaugas,3,2,67,36,0,1,Mindaugas Kuzminskas,13,4,Kuzminskas,N/A,1,New York,1
+1,3,10,0,0,0,9,1,11,Kyle,0,0,0,26,2,6,Kyle O'Quinn,2,12,O'Quinn,N/A,1,New York,1
+2,0,1,3,2,67,4,3,75,Ron,0,0,0,16,0,0,Ron Baker,8,1,Baker,N/A,0,New York,1
+2,0,8,13,5,39,15,5,33,Justin,0,0,0,36,1,2,Justin Holiday,15,9,Holiday,N/A,1,New York,1
+0,0,0,0,0,0,1,0,0,Willy,0,0,0,3,0,2,Willy Hernangomez,0,0,Hernangomez,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Maurice,N/A,N/A,N/A,N/A,N/A,N/A,Maurice Ndour,N/A,N/A,Ndour,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marshall,N/A,N/A,N/A,N/A,N/A,N/A,Marshall Plumlee,N/A,N/A,Plumlee,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Vujacic,N/A,N/A,Vujacic,N/A,N/A,New York,N/A
+8,0,5,9,0,0,20,5,25,Tim,12,9,75,58,0,4,Tim Hardaway Jr.,19,5,Hardaway,F,1,Atlanta,1
+7,0,11,8,3,38,29,13,45,Paul,10,8,80,60,8,4,Paul Millsap,37,19,Millsap,F,1,Atlanta,3
+1,1,8,0,0,0,11,8,73,Dwight,7,3,43,38,4,6,Dwight Howard,19,12,Howard,C,0,Atlanta,2
+0,0,8,5,4,80,15,9,60,Kent,2,2,100,50,2,2,Kent Bazemore,24,10,Bazemore,G,0,Atlanta,1
+15,0,3,4,1,25,25,9,36,Dennis,7,4,57,55,1,2,Dennis Schroder,23,4,Schroder,G,0,Atlanta,6
+2,0,2,1,0,0,6,1,17,Malcolm,2,2,100,22,0,2,Malcolm Delaney,4,2,Delaney,N/A,2,Atlanta,1
+0,0,0,0,0,0,2,1,50,Taurean,0,0,0,4,0,1,Taurean Prince,2,0,Prince,N/A,0,Atlanta,0
+2,0,7,1,0,0,3,1,33,Mike,0,0,0,22,1,1,Mike Muscala,2,8,Muscala,N/A,0,Atlanta,0
+1,1,3,3,2,67,6,5,83,Mike,0,0,0,22,0,0,Mike Dunleavy,12,3,Dunleavy,N/A,0,Atlanta,0
+0,0,0,0,0,0,2,0,0,Kris,0,0,0,10,1,2,Kris Humphries,0,1,Humphries,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre',N/A,N/A,N/A,N/A,N/A,N/A,DeAndre' Bembry,N/A,N/A,Bembry,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lamar,N/A,N/A,N/A,N/A,N/A,N/A,Lamar Patterson,N/A,N/A,Patterson,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Scott,N/A,N/A,Scott,N/A,N/A,Atlanta,N/A

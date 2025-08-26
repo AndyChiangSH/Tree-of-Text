@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,1,5,9,2,22,12,3,25,Trevor,0,0,0,41,1,2,Trevor Ariza,8,6,Ariza,F,5,Houston,1
+1,1,2,5,0,0,15,7,47,Corey,4,3,75,30,0,2,Corey Brewer,17,2,Brewer,F,0,Houston,1
+1,1,5,0,0,0,6,2,33,Dwight,15,4,27,21,3,1,Dwight Howard,8,8,Howard,C,2,Houston,2
+7,1,7,7,2,29,22,8,36,James,17,15,88,39,0,2,James Harden,33,7,Harden,G,2,Houston,3
+3,1,2,7,2,29,12,3,25,Patrick,2,1,50,29,3,3,Patrick Beverley,9,5,Beverley,G,4,Houston,1
+0,1,1,4,2,50,9,4,44,Josh,0,0,0,15,0,2,Josh Smith,10,1,Smith,N/A,0,Houston,1
+0,1,3,0,0,0,7,5,71,Clint,3,2,67,23,0,5,Clint Capela,12,3,Capela,N/A,0,Houston,0
+4,0,1,2,1,50,4,2,50,Ty,0,0,0,18,1,4,Ty Lawson,5,2,Lawson,N/A,0,Houston,0
+2,0,1,3,0,0,5,1,20,Marcus,0,0,0,10,3,0,Marcus Thornton,2,4,Thornton,N/A,1,Houston,0
+0,0,2,2,0,0,3,1,33,Terrence,2,2,100,14,0,0,Terrence Jones,4,2,Jones,N/A,0,Houston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl Harrell,N/A,N/A,Harrell,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,KJ,N/A,N/A,N/A,N/A,N/A,N/A,KJ McDaniels,N/A,N/A,McDaniels,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Terry,N/A,N/A,Terry,N/A,N/A,Houston,N/A
+3,1,11,5,2,40,18,11,61,Kevin,9,9,100,40,1,3,Kevin Durant,33,12,Durant,F,1,Oklahoma City,4
+1,2,2,2,0,0,7,1,14,Serge,0,0,0,26,0,5,Serge Ibaka,2,2,Ibaka,F,0,Oklahoma City,2
+0,2,8,0,0,0,3,1,33,Steven,4,3,75,24,2,2,Steven Adams,5,10,Adams,C,1,Oklahoma City,0
+0,0,1,4,2,50,9,6,67,Dion,2,2,100,32,1,4,Dion Waiters,16,2,Waiters,G,1,Oklahoma City,1
+14,1,9,2,1,50,21,9,43,Russell,10,7,70,37,1,3,Russell Westbrook,26,10,Westbrook,G,1,Oklahoma City,8
+0,0,3,1,0,0,5,1,20,Kyle,1,1,100,26,2,4,Kyle Singler,3,5,Singler,N/A,0,Oklahoma City,1
+0,1,6,0,0,0,16,9,56,Enes,4,4,100,26,4,4,Enes Kanter,22,10,Kanter,N/A,2,Oklahoma City,2
+5,0,5,1,1,100,2,1,50,D.J.,0,0,0,18,0,3,D.J. Augustin,3,5,Augustin,N/A,0,Oklahoma City,0
+0,0,1,4,2,50,5,2,40,Anthony,0,0,0,10,0,1,Anthony Morrow,6,1,Morrow,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Huestis,N/A,N/A,Huestis,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mitch,N/A,N/A,N/A,N/A,N/A,N/A,Mitch McGary,N/A,N/A,McGary,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Steve,N/A,N/A,N/A,N/A,N/A,N/A,Steve Novak,N/A,N/A,Novak,N/A,N/A,Oklahoma City,N/A

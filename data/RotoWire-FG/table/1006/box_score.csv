@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,4,5,1,20,10,2,20,Juancho,1,1,100,29,3,5,Juancho Hernangomez,6,7,Hernangomez,F,1,Denver,1
+2,1,7,4,0,0,9,3,33,Paul,2,2,100,29,2,3,Paul Millsap,8,9,Millsap,F,1,Denver,1
+5,0,2,8,3,38,18,8,44,Nikola,1,1,100,33,3,1,Nikola Jokic,20,5,Jokic,C,1,Denver,3
+6,0,0,6,2,33,16,6,38,Gary,0,0,0,35,0,3,Gary Harris,14,0,Harris,G,2,Denver,3
+9,1,6,5,2,40,14,7,50,Jamal,2,1,50,36,2,3,Jamal Murray,17,8,Murray,G,0,Denver,5
+4,0,3,2,0,0,9,5,56,Monte,0,0,0,25,0,2,Monte Morris,10,3,Morris,N/A,0,Denver,1
+1,0,2,4,0,0,8,3,38,Trey,1,0,0,16,0,1,Trey Lyles,6,2,Lyles,N/A,0,Denver,1
+1,2,2,0,0,0,3,2,67,Mason,2,1,50,15,3,2,Mason Plumlee,5,5,Plumlee,N/A,0,Denver,2
+2,0,4,7,4,57,7,4,57,Malik,0,0,0,22,0,0,Malik Beasley,12,4,Beasley,N/A,1,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeVaughn,N/A,N/A,N/A,N/A,N/A,N/A,DeVaughn Akoon-Purcell,N/A,N/A,Akoon-Purcell,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Torrey,N/A,N/A,N/A,N/A,N/A,N/A,Torrey Craig,N/A,N/A,Craig,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Lydon,N/A,N/A,Lydon,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thomas,N/A,N/A,N/A,N/A,N/A,N/A,Thomas Welsh,N/A,N/A,Welsh,N/A,N/A,Denver,N/A
+5,0,5,8,1,12,15,4,27,Khris,4,4,100,37,1,2,Khris Middleton,13,6,Middleton,F,2,Milwaukee,0
+6,0,9,6,0,0,25,13,52,Giannis,6,3,50,39,3,3,Giannis Antetokounmpo,29,12,Antetokounmpo,F,2,Milwaukee,4
+0,3,9,7,2,29,10,3,30,Brook,0,0,0,33,1,3,Brook Lopez,8,10,Lopez,C,1,Milwaukee,1
+3,0,7,2,1,50,11,5,46,Malcolm,3,2,67,31,1,0,Malcolm Brogdon,13,8,Brogdon,G,0,Milwaukee,3
+5,0,3,4,3,75,10,8,80,Eric,9,4,44,35,2,1,Eric Bledsoe,23,5,Bledsoe,G,3,Milwaukee,4
+2,0,2,2,1,50,3,2,67,Pat,0,0,0,18,1,1,Pat Connaughton,5,3,Connaughton,N/A,0,Milwaukee,0
+0,0,2,2,2,100,6,3,50,Ersan,0,0,0,19,2,3,Ersan Ilyasova,8,4,Ilyasova,N/A,0,Milwaukee,1
+0,0,1,3,1,33,4,1,25,Tony,0,0,0,18,1,1,Tony Snell,3,2,Snell,N/A,0,Milwaukee,1
+0,0,0,0,0,0,0,0,0,Thon,0,0,0,4,0,0,Thon Maker,0,0,Maker,N/A,0,Milwaukee,0
+0,0,0,2,0,0,4,1,25,Sterling,0,0,0,6,1,2,Sterling Brown,2,1,Brown,N/A,0,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Matthew,N/A,N/A,N/A,N/A,N/A,N/A,Matthew Dellavedova,N/A,N/A,Dellavedova,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen Morris,N/A,N/A,Morris,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Christian,N/A,N/A,N/A,N/A,N/A,N/A,Christian Wood,N/A,N/A,Wood,N/A,N/A,Milwaukee,N/A

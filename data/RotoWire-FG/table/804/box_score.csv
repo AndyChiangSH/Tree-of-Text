@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,4,2,0,0,12,4,33,Tim,3,3,100,38,0,3,Tim Hardaway Jr.,11,4,Hardaway,F,1,New York,3
+2,1,5,1,0,0,23,14,61,Michael,5,2,40,36,3,1,Michael Beasley,30,8,Beasley,F,0,New York,6
+4,2,13,0,0,0,9,7,78,Kyle,8,6,75,26,2,5,Kyle O'Quinn,20,15,O'Quinn,C,1,New York,3
+4,0,2,8,3,38,11,6,55,Courtney,2,2,100,33,0,3,Courtney Lee,17,2,Lee,G,1,New York,2
+8,0,5,2,0,0,10,5,50,Jarrett,0,0,0,33,0,1,Jarrett Jack,10,5,Jack,G,1,New York,2
+4,0,4,1,0,0,8,2,25,Willy,0,0,0,22,0,3,Willy Hernangomez,4,4,Hernangomez,N/A,0,New York,0
+0,0,0,1,1,100,1,1,100,Lance,0,0,0,12,0,1,Lance Thomas,3,0,Thomas,N/A,0,New York,0
+0,0,1,0,0,0,3,1,33,Doug,1,1,100,14,1,2,Doug McDermott,3,2,McDermott,N/A,0,New York,1
+1,0,0,1,0,0,4,1,25,Frank,0,0,0,15,0,1,Frank Ntilikina,2,0,Ntilikina,N/A,0,New York,1
+0,0,0,1,0,0,3,1,33,Damyean,0,0,0,10,0,0,Damyean Dotson,2,0,Dotson,N/A,0,New York,0
+0,0,0,0,0,0,1,0,0,Ron,0,0,0,1,0,0,Ron Baker,0,0,Baker,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kristaps,N/A,N/A,N/A,N/A,N/A,N/A,Kristaps Porzingis,N/A,N/A,Porzingis,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ramon,N/A,N/A,N/A,N/A,N/A,N/A,Ramon Sessions,N/A,N/A,Sessions,N/A,N/A,New York,N/A
+1,0,1,11,4,36,14,6,43,Trevor,0,0,0,31,1,0,Trevor Ariza,16,2,Ariza,F,1,Houston,0
+1,0,5,2,0,0,3,1,33,PJ,0,0,0,28,1,1,PJ Tucker,2,6,Tucker,F,3,Houston,1
+3,3,11,0,0,0,7,4,57,Clint,6,4,67,30,4,3,Clint Capela,12,15,Capela,C,0,Houston,2
+10,0,2,13,5,38,27,12,44,James,10,8,80,37,0,1,James Harden,37,2,Harden,G,3,Houston,1
+13,0,2,4,0,0,12,2,17,Chris,2,2,100,31,0,1,Chris Paul,6,2,Paul,G,2,Houston,1
+2,0,0,7,2,29,12,3,25,Eric,0,0,0,24,0,0,Eric Gordon,8,0,Gordon,N/A,1,Houston,1
+0,1,7,7,4,57,11,6,55,Ryan,2,1,50,20,0,2,Ryan Anderson,17,7,Anderson,N/A,0,Houston,0
+0,1,1,0,0,0,4,4,100,Nene,2,2,100,14,2,2,Nene,10,3,N/A,N/A,0,Houston,0
+0,1,4,3,3,100,4,3,75,Luc,0,0,0,21,1,2,Luc Mbah a Moute,9,5,Mbah,N/A,2,Houston,1
+0,0,0,0,0,0,0,0,0,Tarik,0,0,0,4,0,3,Tarik Black,0,0,Black,N/A,0,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Brown,N/A,N/A,Brown,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Briante,N/A,N/A,N/A,N/A,N/A,N/A,Briante Weber,N/A,N/A,Weber,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Williams,N/A,N/A,Williams,N/A,N/A,Houston,N/A

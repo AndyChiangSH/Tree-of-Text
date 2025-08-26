@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,10,11,6,55,11,6,55,Trevor,0,0,0,35,0,1,Trevor Ariza,18,10,Ariza,F,2,Houston,3
+4,0,0,7,3,43,10,4,40,Ryan,2,2,100,29,0,2,Ryan Anderson,13,0,Anderson,F,0,Houston,1
+0,2,7,0,0,0,14,7,50,Clint,4,3,75,30,3,2,Clint Capela,17,10,Capela,C,0,Houston,1
+6,0,4,4,2,50,5,2,40,Patrick,2,1,50,31,3,3,Patrick Beverley,7,7,Beverley,G,2,Houston,1
+10,0,8,11,3,27,18,6,33,James,8,8,100,40,1,2,James Harden,23,9,Harden,G,0,Houston,5
+1,0,2,12,4,33,13,5,39,Eric,0,0,0,29,0,2,Eric Gordon,14,2,Gordon,N/A,1,Houston,1
+0,0,0,0,0,0,5,4,80,Nene,2,2,100,15,0,4,Nene,10,0,N/A,N/A,0,Houston,0
+3,0,1,3,1,33,3,1,33,Sam,0,0,0,15,1,0,Sam Dekker,3,2,Dekker,N/A,2,Houston,1
+0,0,2,2,2,100,5,4,80,Corey,0,0,0,13,0,3,Corey Brewer,10,2,Brewer,N/A,1,Houston,0
+0,0,0,0,0,0,1,1,100,Montrezl,2,0,0,3,0,0,Montrezl Harrell,2,0,Harrell,N/A,0,Houston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Brown,N/A,N/A,Brown,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ennis,N/A,N/A,Ennis,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,KJ,N/A,N/A,N/A,N/A,N/A,N/A,KJ McDaniels,N/A,N/A,McDaniels,N/A,N/A,Houston,N/A
+3,0,4,4,0,0,12,4,33,Rudy,2,2,100,37,0,1,Rudy Gay,10,4,Gay,F,3,Sacramento,0
+2,0,3,7,2,29,10,5,50,Matt,0,0,0,33,0,1,Matt Barnes,12,3,Barnes,F,0,Sacramento,1
+1,5,9,9,5,56,22,12,55,DeMarcus,5,3,60,30,0,5,DeMarcus Cousins,32,9,Cousins,C,0,Sacramento,4
+3,0,2,1,1,100,6,3,50,Ty,6,5,83,24,2,2,Ty Lawson,12,4,Lawson,G,0,Sacramento,2
+4,0,3,3,0,0,6,2,33,Darren,4,4,100,25,0,1,Darren Collison,8,3,Collison,G,2,Sacramento,1
+5,0,2,2,0,0,6,2,33,Arron,0,0,0,16,0,1,Arron Afflalo,4,2,Afflalo,N/A,0,Sacramento,0
+0,0,0,0,0,0,0,0,0,Ben,0,0,0,4,0,0,Ben McLemore,0,0,McLemore,N/A,0,Sacramento,1
+0,1,3,0,0,0,5,5,100,Kosta,0,0,0,18,2,3,Kosta Koufos,10,5,Koufos,N/A,0,Sacramento,1
+1,0,3,4,1,25,6,3,50,Garrett,2,2,100,24,0,2,Garrett Temple,9,3,Temple,N/A,2,Sacramento,3
+5,0,4,2,0,0,7,3,43,Omri,2,1,50,28,0,2,Omri Casspi,7,4,Casspi,N/A,0,Sacramento,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willie,N/A,N/A,N/A,N/A,N/A,N/A,Willie Cauley-Stein,N/A,N/A,Cauley-Stein,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Skal,N/A,N/A,N/A,N/A,N/A,N/A,Skal Labissiere,N/A,N/A,Labissiere,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Tolliver,N/A,N/A,Tolliver,N/A,N/A,Sacramento,N/A

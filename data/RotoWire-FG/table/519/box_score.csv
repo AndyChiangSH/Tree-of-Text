@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,4,1,0,0,2,0,0,Mike,2,2,100,19,0,0,Mike Dunleavy,2,4,Dunleavy,F,0,Chicago,0
+1,0,1,2,0,0,6,2,33,Nikola,0,0,0,27,0,6,Nikola Mirotic,4,1,Mirotic,F,3,Chicago,1
+2,4,9,1,0,0,11,7,64,Pau,8,7,88,33,3,0,Pau Gasol,21,12,Gasol,C,0,Chicago,2
+6,1,1,4,1,25,17,7,41,Jimmy,10,10,100,40,0,1,Jimmy Butler,25,1,Butler,G,0,Chicago,4
+3,0,2,0,0,0,16,7,44,Derrick,4,3,75,36,1,0,Derrick Rose,17,3,Rose,G,2,Chicago,2
+3,2,2,3,1,33,8,4,50,Justin,0,0,0,30,0,0,Justin Holiday,9,2,Holiday,N/A,1,Chicago,1
+1,0,5,0,0,0,4,3,75,Cristiano,3,2,67,14,2,1,Cristiano Felicio,8,7,Felicio,N/A,0,Chicago,1
+0,0,1,2,1,50,5,2,40,Doug,1,1,100,21,0,2,Doug McDermott,6,1,McDermott,N/A,0,Chicago,1
+2,0,4,1,0,0,9,3,33,Bobby,0,0,0,20,6,2,Bobby Portis,6,10,Portis,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Taj,N/A,N/A,N/A,N/A,N/A,N/A,Taj Gibson,N/A,N/A,Gibson,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Snell,N/A,N/A,Snell,N/A,N/A,Chicago,N/A
+4,0,2,4,3,75,10,7,70,Joe,0,0,0,35,1,3,Joe Johnson,17,3,Johnson,F,1,Miami,1
+3,0,1,2,0,0,12,6,50,Luol,2,1,50,33,1,1,Luol Deng,13,2,Deng,F,0,Miami,1
+0,0,3,0,0,0,8,5,63,Amar'e,1,0,0,16,0,3,Amar'e Stoudemire,10,3,Stoudemire,C,3,Miami,0
+4,0,3,0,0,0,18,9,50,Dwyane,3,3,100,33,2,1,Dwyane Wade,21,5,Wade,G,1,Miami,4
+4,1,8,3,0,0,16,7,44,Goran,2,2,100,31,4,1,Goran Dragic,16,12,Dragic,G,1,Miami,3
+0,0,4,2,0,0,8,1,13,Justise,0,0,0,29,2,1,Justise Winslow,2,6,Winslow,N/A,1,Miami,1
+1,0,2,3,1,33,9,4,44,Josh,2,2,100,32,0,3,Josh Richardson,11,2,Richardson,N/A,0,Miami,0
+0,1,7,0,0,0,11,5,46,Hassan,7,6,86,27,5,6,Hassan Whiteside,16,12,Whiteside,N/A,1,Miami,0
+0,0,2,0,0,0,0,0,0,Udonis,0,0,0,4,0,1,Udonis Haslem,0,2,Haslem,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Green,N/A,N/A,Green,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Johnson,N/A,N/A,Johnson,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh McRoberts,N/A,N/A,McRoberts,N/A,N/A,Miami,N/A

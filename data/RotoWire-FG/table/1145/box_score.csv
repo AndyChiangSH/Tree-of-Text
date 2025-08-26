@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+7,1,4,4,0,0,7,3,43,Andre,0,0,0,29,2,3,Andre Iguodala,6,6,Iguodala,F,0,Golden State,2
+10,0,10,2,0,0,9,2,22,Draymond,6,6,100,40,0,5,Draymond Green,10,10,Green,F,1,Golden State,6
+1,0,2,0,0,0,2,1,50,Jordan,0,0,0,12,1,0,Jordan Bell,2,3,Bell,C,0,Golden State,0
+1,0,3,6,3,50,17,8,47,Klay,2,2,100,39,2,3,Klay Thompson,21,5,Thompson,G,0,Golden State,2
+5,0,4,9,4,44,18,8,44,Stephen,14,14,100,40,1,4,Stephen Curry,34,5,Curry,G,1,Golden State,3
+1,0,2,0,0,0,5,4,80,Kevon,2,1,50,28,1,5,Kevon Looney,9,3,Looney,N/A,1,Golden State,1
+0,0,1,3,2,67,4,2,50,Alfonzo,0,0,0,8,0,1,Alfonzo McKinnie,6,1,McKinnie,N/A,0,Golden State,1
+1,1,3,1,0,0,6,2,33,Shaun,2,2,100,18,1,3,Shaun Livingston,6,4,Livingston,N/A,1,Golden State,0
+0,0,0,0,0,0,0,0,0,Jacob,0,0,0,0,0,0,Jacob Evans,0,0,Evans,N/A,0,Golden State,0
+1,0,0,2,1,50,4,2,50,Quinn,1,1,100,9,0,1,Quinn Cook,6,0,Cook,N/A,0,Golden State,0
+2,0,0,1,0,0,2,0,0,DeMarcus,4,3,75,8,0,2,DeMarcus Cousins,3,0,Cousins,N/A,2,Golden State,1
+0,0,0,3,2,67,4,2,50,Jonas,0,0,0,8,1,0,Jonas Jerebko,6,1,Jerebko,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Bogut,N/A,N/A,Bogut,N/A,N/A,Golden State,N/A
+5,0,7,6,3,50,14,5,36,Kawhi,12,10,83,43,1,3,Kawhi Leonard,23,8,Leonard,F,1,Toronto,2
+5,2,5,3,2,67,17,14,82,Pascal,2,2,100,40,3,3,Pascal Siakam,32,8,Siakam,F,1,Toronto,2
+1,1,7,4,2,50,10,6,60,Marc,6,6,100,30,0,6,Marc Gasol,20,7,Gasol,C,2,Toronto,0
+1,2,1,7,3,43,9,4,44,Danny,0,0,0,30,1,1,Danny Green,11,2,Green,G,1,Toronto,0
+9,0,6,5,1,20,9,2,22,Kyle,2,2,100,36,0,5,Kyle Lowry,7,6,Lowry,G,1,Toronto,3
+2,0,1,4,1,25,8,5,62,Fred,6,4,67,33,0,3,Fred VanVleet,15,1,VanVleet,N/A,0,Toronto,1
+1,1,1,2,0,0,7,2,29,Serge,2,1,50,17,2,3,Serge Ibaka,5,3,Ibaka,N/A,0,Toronto,2
+0,0,1,1,0,0,1,0,0,Norman,2,2,100,5,0,2,Norman Powell,2,1,Powell,N/A,0,Toronto,0
+1,0,0,1,1,100,2,1,50,Patrick,0,0,0,7,0,0,Patrick McCaw,3,0,McCaw,N/A,0,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Lin,N/A,N/A,Lin,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jodie,N/A,N/A,N/A,N/A,N/A,N/A,Jodie Meeks,N/A,N/A,Meeks,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm Miller,N/A,N/A,Miller,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Moreland,N/A,N/A,Moreland,N/A,N/A,Toronto,N/A

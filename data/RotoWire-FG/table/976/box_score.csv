@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,3,3,2,67,7,3,43,Frank,2,1,50,31,0,5,Frank Ntilikina,9,3,Ntilikina,F,0,New York,3
+0,0,6,4,2,50,6,2,33,Lance,0,0,0,20,0,3,Lance Thomas,6,6,Thomas,F,2,New York,0
+3,1,4,0,0,0,7,4,57,Enes,0,0,0,19,1,2,Enes Kanter,8,5,Kanter,C,0,New York,2
+2,0,2,5,2,40,10,4,40,Tim,4,4,100,23,1,3,Tim Hardaway Jr.,14,3,Hardaway,G,0,New York,0
+4,0,0,1,1,100,10,1,10,Trey,0,0,0,17,0,1,Trey Burke,3,0,Burke,G,0,New York,1
+2,1,8,8,3,38,14,8,57,Damyean,2,1,50,34,2,2,Damyean Dotson,20,10,Dotson,N/A,1,New York,1
+0,0,7,1,0,0,8,3,38,Noah,0,0,0,17,2,1,Noah Vonleh,6,9,Vonleh,N/A,1,New York,0
+2,0,4,1,0,0,8,2,25,Allonzo,0,0,0,21,1,1,Allonzo Trier,4,5,Trier,N/A,0,New York,2
+1,0,1,8,2,25,15,4,27,Mario,6,3,50,22,0,2,Mario Hezonja,13,1,Hezonja,N/A,0,New York,2
+0,0,0,1,0,0,2,0,0,Ron,0,0,0,18,0,2,Ron Baker,0,0,Baker,N/A,1,New York,0
+0,1,0,0,0,0,3,2,67,Mitchell,0,0,0,12,3,1,Mitchell Robinson,4,3,Robinson,N/A,0,New York,0
+1,0,0,1,0,0,1,0,0,Luke,0,0,0,6,0,0,Luke Kornet,0,0,Kornet,N/A,0,New York,1
+5,0,6,3,3,100,8,6,75,Rodney,5,4,80,31,0,4,Rodney McGruder,19,6,McGruder,F,1,Miami,0
+6,0,3,5,1,20,8,4,50,Kelly,2,2,100,30,0,1,Kelly Olynyk,11,3,Olynyk,F,1,Miami,0
+0,3,12,0,0,0,15,8,53,Hassan,10,6,60,27,2,1,Hassan Whiteside,22,14,Whiteside,C,0,Miami,1
+1,0,7,6,5,83,14,8,57,Josh,0,0,0,35,1,2,Josh Richardson,21,8,Richardson,G,1,Miami,4
+3,0,5,3,2,67,9,4,44,Goran,4,3,75,29,0,2,Goran Dragic,13,5,Dragic,G,0,Miami,1
+4,1,2,3,1,33,10,3,30,Dwyane,0,0,0,26,0,1,Dwyane Wade,7,2,Wade,N/A,0,Miami,2
+2,1,4,3,0,0,10,4,40,Tyler,3,2,67,27,0,0,Tyler Johnson,10,4,Johnson,N/A,2,Miami,2
+3,0,3,1,0,0,3,1,33,Bam,4,2,50,21,1,3,Bam Adebayo,4,4,Adebayo,N/A,1,Miami,1
+0,0,4,3,1,33,3,1,33,Duncan,0,0,0,10,0,0,Duncan Robinson,3,4,Robinson,N/A,1,Miami,0
+0,0,1,2,0,0,2,0,0,Udonis,0,0,0,4,0,1,Udonis Haslem,0,1,Haslem,N/A,0,Miami,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wayne,N/A,N/A,N/A,N/A,N/A,N/A,Wayne Ellington,N/A,N/A,Ellington,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Jones Jr.,N/A,N/A,Jones,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justise,N/A,N/A,N/A,N/A,N/A,N/A,Justise Winslow,N/A,N/A,Winslow,N/A,N/A,Miami,N/A

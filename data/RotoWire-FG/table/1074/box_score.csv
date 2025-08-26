@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,11,1,0,0,17,6,35,Ben,10,7,70,35,1,3,Ben Simmons,19,12,Simmons,F,0,Philadelphia,3
+2,0,4,4,1,25,15,7,47,Corey,6,5,83,32,2,4,Corey Brewer,20,6,Brewer,F,4,Philadelphia,1
+0,0,2,1,0,0,3,1,33,Jonah,2,1,50,11,1,3,Jonah Bolden,3,3,Bolden,C,0,Philadelphia,0
+3,0,0,10,4,40,19,9,47,JJ,0,0,0,28,2,2,JJ Redick,22,2,Redick,G,0,Philadelphia,2
+6,1,3,1,1,100,7,2,29,T.J.,0,0,0,27,0,1,T.J. McConnell,5,3,McConnell,G,1,Philadelphia,0
+7,0,1,4,1,25,6,2,33,Landry,3,3,100,28,1,2,Landry Shamet,8,2,Shamet,N/A,0,Philadelphia,1
+1,0,0,5,3,60,7,4,57,Shake,0,0,0,20,1,2,Shake Milton,11,1,Milton,N/A,1,Philadelphia,0
+1,0,4,7,3,43,9,3,33,Mike,2,1,50,27,2,1,Mike Muscala,10,6,Muscala,N/A,0,Philadelphia,3
+0,0,1,2,1,50,3,2,67,Furkan,3,2,67,9,0,1,Furkan Korkmaz,7,1,Korkmaz,N/A,0,Philadelphia,0
+4,1,3,1,0,0,5,2,40,Amir,1,1,100,19,1,5,Amir Johnson,5,4,Johnson,N/A,1,Philadelphia,2
+1,0,1,0,0,0,0,0,0,Haywood,0,0,0,4,0,0,Haywood Highsmith,0,1,Highsmith,N/A,0,Philadelphia,0
+1,0,4,6,1,17,13,6,46,Torrey,2,2,100,35,2,3,Torrey Craig,15,6,Craig,F,1,Denver,3
+1,0,3,0,0,0,2,1,50,Paul,2,2,100,17,1,3,Paul Millsap,4,4,Millsap,F,0,Denver,0
+10,0,12,3,2,67,22,12,55,Nikola,7,6,86,34,6,1,Nikola Jokic,32,18,Jokic,C,1,Denver,1
+3,2,1,4,1,25,10,4,40,Gary,0,0,0,24,0,3,Gary Harris,9,1,Harris,G,1,Denver,2
+1,0,4,3,1,33,11,6,55,Will,6,3,50,26,0,2,Will Barton,16,4,Barton,G,0,Denver,0
+3,0,1,1,0,0,11,5,46,Monte,0,0,0,27,0,1,Monte Morris,10,1,Morris,N/A,0,Denver,1
+4,1,5,0,0,0,5,5,100,Mason,10,7,70,22,1,4,Mason Plumlee,17,6,Plumlee,N/A,0,Denver,1
+1,0,1,5,2,40,12,6,50,Malik,0,0,0,20,0,2,Malik Beasley,14,1,Beasley,N/A,1,Denver,1
+2,1,3,2,1,50,5,2,40,Trey,2,2,100,16,0,2,Trey Lyles,7,3,Lyles,N/A,0,Denver,0
+1,0,5,0,0,0,2,0,0,Juancho,0,0,0,13,0,0,Juancho Hernangomez,0,5,Hernangomez,N/A,0,Denver,1
+0,0,1,0,0,0,0,0,0,Tyler,0,0,0,3,0,0,Tyler Lydon,0,1,Lydon,N/A,0,Denver,0
+0,0,0,0,0,0,1,1,100,Brandon,0,0,0,3,1,0,Brandon Goodwin,2,1,Goodwin,N/A,0,Denver,0

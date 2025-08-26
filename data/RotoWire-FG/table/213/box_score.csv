@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,2,4,2,50,6,3,50,Kyle,0,0,0,35,0,4,Kyle Korver,8,2,Korver,F,0,Atlanta,0
+1,0,6,3,1,33,10,6,60,Thabo,2,2,100,34,0,2,Thabo Sefolosha,15,6,Sefolosha,F,1,Atlanta,1
+1,1,9,5,3,60,18,12,67,Paul,3,3,100,39,2,3,Paul Millsap,30,11,Millsap,C,1,Atlanta,4
+6,1,5,2,0,0,9,4,44,Kent,9,4,44,40,0,3,Kent Bazemore,12,5,Bazemore,G,2,Atlanta,2
+8,0,3,3,1,33,16,10,63,Dennis,10,10,100,40,2,1,Dennis Schroder,31,5,Schroder,G,0,Atlanta,4
+1,0,2,3,1,33,7,3,43,Tim,0,0,0,22,0,4,Tim Hardaway Jr.,7,2,Hardaway,N/A,1,Atlanta,3
+1,0,1,0,0,0,2,0,0,Mike,0,0,0,11,0,1,Mike Muscala,0,1,Muscala,N/A,0,Atlanta,0
+0,0,1,2,0,0,3,1,33,Malcolm,0,0,0,11,0,2,Malcolm Delaney,2,1,Delaney,N/A,0,Atlanta,1
+0,0,1,1,1,100,4,2,50,Mike,0,0,0,8,1,0,Mike Scott,5,2,Scott,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre',N/A,N/A,N/A,N/A,N/A,N/A,DeAndre' Bembry,N/A,N/A,Bembry,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kris,N/A,N/A,N/A,N/A,N/A,N/A,Kris Humphries,N/A,N/A,Humphries,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Taurean,N/A,N/A,N/A,N/A,N/A,N/A,Taurean Prince,N/A,N/A,Prince,N/A,N/A,Atlanta,N/A
+1,0,3,9,3,33,14,5,36,Andre,2,1,50,40,2,1,Andre Roberson,14,5,Roberson,F,1,Oklahoma City,3
+0,0,4,2,0,0,3,0,0,Domantas,0,0,0,13,0,1,Domantas Sabonis,0,4,Sabonis,F,0,Oklahoma City,2
+0,1,5,0,0,0,4,2,50,Steven,5,2,40,31,4,2,Steven Adams,6,9,Adams,C,3,Oklahoma City,1
+1,0,0,3,0,0,5,1,20,Anthony,2,2,100,19,0,4,Anthony Morrow,4,0,Morrow,G,1,Oklahoma City,0
+7,0,9,10,3,30,33,16,49,Russell,13,11,85,35,2,2,Russell Westbrook,46,11,Westbrook,G,1,Oklahoma City,4
+0,0,1,3,3,100,7,5,71,Jerami,2,2,100,28,0,1,Jerami Grant,15,1,Grant,N/A,1,Oklahoma City,0
+3,0,1,2,0,0,5,1,20,Semaj,0,0,0,25,2,0,Semaj Christon,2,3,Christon,N/A,0,Oklahoma City,0
+0,0,1,5,1,20,8,3,38,Alex,2,2,100,17,0,2,Alex Abrines,9,1,Abrines,N/A,1,Oklahoma City,0
+1,1,3,0,0,0,5,4,80,Enes,0,0,0,15,4,3,Enes Kanter,8,7,Kanter,N/A,0,Oklahoma City,1
+0,0,1,1,0,0,2,1,50,Joffrey,0,0,0,4,1,1,Joffrey Lauvergne,2,2,Lauvergne,N/A,0,Oklahoma City,0
+0,0,0,0,0,0,0,0,0,Nick,0,0,0,1,0,1,Nick Collison,0,0,Collison,N/A,0,Oklahoma City,0
+0,1,1,0,0,0,1,1,100,Kyle,0,0,0,12,0,0,Kyle Singler,2,1,Singler,N/A,0,Oklahoma City,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Huestis,N/A,N/A,Huestis,N/A,N/A,Oklahoma City,N/A

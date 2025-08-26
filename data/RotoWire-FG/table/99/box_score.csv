@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,0,12,10,6,60,27,14,52,LeBron,8,4,50,39,1,4,LeBron James,38,13,James,F,0,Cleveland,2
+1,1,3,6,3,50,7,4,57,Channing,0,0,0,25,1,3,Channing Frye,11,4,Frye,F,0,Cleveland,1
+1,1,3,0,0,0,3,2,67,Tristan,0,0,0,31,2,4,Tristan Thompson,4,5,Thompson,C,0,Cleveland,1
+1,0,2,6,2,33,7,2,29,Iman,2,2,100,28,1,2,Iman Shumpert,8,3,Shumpert,G,0,Cleveland,1
+9,1,2,8,5,63,21,14,67,Kyrie,10,10,100,36,0,0,Kyrie Irving,43,2,Irving,G,4,Cleveland,3
+1,1,1,4,3,75,5,3,60,Derrick,0,0,0,18,0,1,Derrick Williams,9,1,Williams,N/A,1,Cleveland,1
+3,1,2,7,3,43,8,3,38,Kyle,0,0,0,30,0,2,Kyle Korver,9,2,Korver,N/A,1,Cleveland,2
+7,0,1,0,0,0,1,1,100,Deron,0,0,0,17,0,2,Deron Williams,2,1,Williams,N/A,1,Cleveland,1
+0,0,2,5,3,60,7,4,57,Richard,0,0,0,16,0,6,Richard Jefferson,11,2,Jefferson,N/A,0,Cleveland,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Bogut,N/A,N/A,Bogut,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Jones,N/A,N/A,Jones,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre Liggins,N/A,N/A,Liggins,N/A,N/A,Cleveland,N/A
+6,0,3,2,1,50,7,2,29,Thabo,2,0,0,31,2,0,Thabo Sefolosha,5,5,Sefolosha,F,0,Atlanta,1
+1,1,7,4,1,25,16,9,56,Paul,10,8,80,37,2,3,Paul Millsap,27,9,Millsap,F,0,Atlanta,0
+2,1,6,0,0,0,12,6,50,Dwight,6,3,50,27,4,3,Dwight Howard,15,10,Howard,C,2,Atlanta,1
+7,2,4,5,2,40,12,5,42,Kent,2,2,100,35,0,1,Kent Bazemore,14,4,Bazemore,G,1,Atlanta,1
+7,0,1,5,1,20,15,7,47,Dennis,2,2,100,32,1,4,Dennis Schroder,17,2,Schroder,G,1,Atlanta,5
+2,0,1,9,5,56,20,13,65,Tim,6,5,83,35,1,0,Tim Hardaway Jr.,36,2,Hardaway,N/A,0,Atlanta,1
+2,0,7,0,0,0,4,4,100,Ersan,2,2,100,23,1,2,Ersan Ilyasova,10,8,Ilyasova,N/A,1,Atlanta,1
+1,0,2,0,0,0,2,1,50,Taurean,0,0,0,12,0,1,Taurean Prince,2,2,Prince,N/A,2,Atlanta,1
+2,0,1,1,0,0,3,2,67,Malcolm,0,0,0,7,0,1,Malcolm Delaney,4,1,Delaney,N/A,0,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeAndre',N/A,N/A,N/A,N/A,N/A,N/A,DeAndre' Bembry,N/A,N/A,Bembry,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kris,N/A,N/A,N/A,N/A,N/A,N/A,Kris Humphries,N/A,N/A,Humphries,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Kelly,N/A,N/A,Kelly,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Muscala,N/A,N/A,Muscala,N/A,N/A,Atlanta,N/A

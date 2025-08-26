@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,4,1,0,0,5,1,20,Solomon,2,0,0,29,0,2,Solomon Hill,2,4,Hill,F,1,Indiana,1
+3,1,4,0,0,0,12,5,42,David,0,0,0,27,2,3,David West,10,6,West,F,0,Indiana,3
+1,1,6,0,0,0,14,6,43,Roy,3,3,100,31,4,3,Roy Hibbert,15,10,Hibbert,C,2,Indiana,2
+0,0,1,2,1,50,10,4,40,Rodney,0,0,0,20,1,2,Rodney Stuckey,9,2,Stuckey,G,0,Indiana,2
+4,0,4,2,0,0,9,3,33,Donald,0,0,0,23,0,1,Donald Sloan,6,4,Sloan,G,0,Indiana,1
+0,0,2,3,1,33,9,6,67,CJ,4,4,100,21,0,3,CJ Miles,17,2,Miles,N/A,1,Indiana,1
+0,0,5,0,0,0,2,2,100,Ian,0,0,0,15,0,2,Ian Mahinmi,4,5,Mahinmi,N/A,1,Indiana,1
+2,1,5,0,0,0,7,4,57,Luis,1,0,0,19,0,1,Luis Scola,8,5,Scola,N/A,1,Indiana,0
+7,0,1,2,1,50,9,5,56,CJ,4,3,75,25,0,4,CJ Watson,14,1,Watson,N/A,1,Indiana,5
+2,0,0,3,1,33,5,3,60,Chris,3,3,100,24,0,3,Chris Copeland,10,0,Copeland,N/A,0,Indiana,2
+0,0,1,0,0,0,2,1,50,Lavoy,0,0,0,2,1,0,Lavoy Allen,2,2,Allen,N/A,0,Indiana,1
+0,0,0,0,0,0,1,1,100,Damjan,0,0,0,2,0,0,Damjan Rudez,2,0,Rudez,N/A,0,Indiana,0
+0,0,0,0,0,0,0,0,0,Shayne,0,0,0,2,0,0,Shayne Whittington,0,0,Whittington,N/A,1,Indiana,0
+1,0,6,2,0,0,6,2,33,PJ,0,0,0,23,1,1,PJ Tucker,4,7,Tucker,F,1,Phoenix,1
+1,0,5,2,0,0,16,6,38,Markieff,3,3,100,30,1,0,Markieff Morris,15,6,Morris,F,0,Phoenix,0
+1,3,3,0,0,0,4,2,50,Miles,6,2,33,28,4,5,Miles Plumlee,6,7,Plumlee,C,1,Phoenix,1
+3,0,5,6,5,83,15,11,73,Goran,7,7,100,35,0,2,Goran Dragic,34,5,Dragic,G,4,Phoenix,3
+7,0,3,4,1,25,20,11,55,Eric,5,4,80,39,0,0,Eric Bledsoe,27,3,Bledsoe,G,4,Phoenix,2
+1,2,2,0,0,0,2,0,0,Alex,0,0,0,15,0,3,Alex Len,0,2,Len,N/A,1,Phoenix,1
+2,0,1,8,4,50,11,5,46,Gerald,2,1,50,21,0,3,Gerald Green,15,1,Green,N/A,1,Phoenix,2
+0,0,6,0,0,0,5,3,60,Marcus,2,1,50,23,0,4,Marcus Morris,7,6,Morris,N/A,0,Phoenix,1
+1,0,3,1,1,100,2,1,50,Anthony,0,0,0,18,2,1,Anthony Tolliver,3,5,Tolliver,N/A,0,Phoenix,0
+0,0,0,1,1,100,2,1,50,TJ,0,0,0,2,0,0,TJ Warren,3,0,Warren,N/A,0,Phoenix,0
+0,0,1,0,0,0,2,1,50,Archie,1,0,0,2,0,0,Archie Goodwin,2,1,Goodwin,N/A,0,Phoenix,0
+1,0,0,1,0,0,1,0,0,Tyler,0,0,0,2,0,0,Tyler Ennis,0,0,Ennis,N/A,0,Phoenix,1
+0,0,0,0,0,0,0,0,0,Shavlik,0,0,0,2,1,0,Shavlik Randolph,0,1,Randolph,N/A,1,Phoenix,0

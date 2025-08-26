@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,9,0,0,0,11,6,55,Nerlens,10,5,50,39,3,0,Nerlens Noel,17,12,Noel,F,1,Philadelphia,2
+0,0,1,4,0,0,9,3,33,Luc,2,1,50,30,2,3,Luc Mbah a Moute,7,3,Mbah,F,1,Philadelphia,3
+0,0,3,0,0,0,5,2,40,Henry,2,2,100,18,0,4,Henry Sims,6,3,Sims,C,2,Philadelphia,1
+1,0,2,3,0,0,13,4,31,Michael,2,1,50,29,2,1,Michael Carter-Williams,9,4,Carter-Williams,G,0,Philadelphia,4
+7,0,2,3,0,0,9,2,22,Tony,2,1,50,37,0,4,Tony Wroten,5,2,Wroten,G,2,Philadelphia,4
+2,0,0,4,0,0,7,1,14,Alexey,2,1,50,8,0,0,Alexey Shved,3,0,Shved,N/A,0,Philadelphia,0
+0,0,0,3,2,67,6,3,50,KJ,0,0,0,20,0,3,KJ McDaniels,8,0,McDaniels,N/A,1,Philadelphia,2
+0,0,1,0,0,0,2,1,50,Brandon,2,2,100,22,2,1,Brandon Davies,4,3,Davies,N/A,0,Philadelphia,0
+0,0,0,0,0,0,0,0,0,Drew,0,0,0,3,0,0,Drew Gordon,0,0,Gordon,N/A,0,Philadelphia,0
+1,0,4,5,2,40,7,4,57,Hollis,1,0,0,22,1,3,Hollis Thompson,10,5,Thompson,N/A,1,Philadelphia,2
+0,0,4,4,4,100,6,4,67,Robert,2,2,100,14,0,2,Robert Covington,14,4,Covington,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerami,N/A,N/A,N/A,N/A,N/A,N/A,Jerami Grant,N/A,N/A,Grant,N/A,N/A,Philadelphia,N/A
+2,0,5,0,0,0,6,3,50,Quincy,4,4,100,24,0,4,Quincy Acy,10,5,Acy,F,0,New York,0
+2,1,7,7,3,43,20,10,50,Carmelo,2,2,100,39,0,0,Carmelo Anthony,25,7,Anthony,F,1,New York,3
+0,1,4,0,0,0,6,3,50,Samuel,0,0,0,24,3,4,Samuel Dalembert,6,7,Dalembert,C,0,New York,2
+3,0,3,3,1,33,6,1,17,Jose,0,0,0,21,0,1,Jose Calderon,3,3,Calderon,G,2,New York,1
+3,0,2,3,0,0,7,3,43,Iman,3,1,33,32,0,2,Iman Shumpert,7,2,Shumpert,G,4,New York,2
+2,0,2,3,2,67,5,3,60,Pablo,0,0,0,27,1,1,Pablo Prigioni,8,3,Prigioni,N/A,0,New York,2
+0,0,9,0,0,0,6,5,83,Amar'e,6,6,100,20,2,3,Amar'e Stoudemire,16,11,Stoudemire,N/A,0,New York,2
+1,0,1,0,0,0,1,1,100,Jason,4,4,100,17,0,3,Jason Smith,6,1,Smith,N/A,0,New York,0
+2,0,0,1,0,0,7,3,43,JR,0,0,0,25,0,1,JR Smith,6,0,Smith,N/A,0,New York,3
+0,0,0,0,0,0,1,0,0,Tim,2,2,100,9,0,2,Tim Hardaway Jr.,2,0,Hardaway,N/A,0,New York,3
+0,0,1,0,0,0,1,1,100,Cole,0,0,0,3,0,1,Cole Aldrich,2,1,Aldrich,N/A,0,New York,0
+0,0,0,0,0,0,0,0,0,Travis,0,0,0,1,0,0,Travis Wear,0,0,Wear,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shane,N/A,N/A,N/A,N/A,N/A,N/A,Shane Larkin,N/A,N/A,Larkin,N/A,N/A,New York,N/A

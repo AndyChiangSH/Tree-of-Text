@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+9,0,9,6,1,17,19,9,47,LeBron,8,4,50,37,0,0,LeBron James,23,9,James,F,2,Cleveland,5
+0,1,2,3,3,100,5,4,80,Richard,0,0,0,25,1,3,Richard Jefferson,11,3,Jefferson,F,0,Cleveland,0
+0,0,7,0,0,0,0,0,0,Tristan,0,0,0,26,1,3,Tristan Thompson,0,8,Thompson,C,0,Cleveland,1
+0,0,4,3,1,33,6,1,17,Iman,6,5,83,30,0,1,Iman Shumpert,8,4,Shumpert,G,0,Cleveland,0
+5,0,4,8,1,13,21,7,33,Kyrie,3,3,100,33,1,3,Kyrie Irving,18,5,Irving,G,2,Cleveland,6
+0,2,5,6,3,50,8,4,50,Channing,2,2,100,19,2,1,Channing Frye,13,7,Frye,N/A,0,Cleveland,2
+1,0,2,2,1,50,2,1,50,Kyle,2,1,50,26,1,3,Kyle Korver,4,3,Korver,N/A,0,Cleveland,2
+0,0,2,3,1,33,9,5,56,Jordan,0,0,0,30,0,3,Jordan McRae,11,2,McRae,N/A,0,Cleveland,1
+1,0,1,0,0,0,2,1,50,DeAndre,0,0,0,8,0,0,DeAndre Liggins,2,1,Liggins,N/A,1,Cleveland,0
+1,0,0,0,0,0,2,2,100,Kay,0,0,0,4,0,0,Kay Felder,4,0,Felder,N/A,1,Cleveland,0
+0,0,0,1,1,100,1,1,100,James,0,0,0,3,0,0,James Jones,3,0,Jones,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Love,N/A,N/A,Love,N/A,N/A,Cleveland,N/A
+2,0,3,9,2,22,16,6,38,Wesley,7,7,100,37,1,3,Wesley Matthews,21,4,Matthews,F,0,Dallas,0
+3,0,6,2,0,0,16,9,56,Harrison,7,6,86,37,3,2,Harrison Barnes,24,9,Barnes,F,1,Dallas,3
+1,0,6,2,2,100,4,3,75,Dirk,0,0,0,24,0,1,Dirk Nowitzki,8,6,Nowitzki,C,1,Dallas,2
+4,0,4,6,2,33,17,7,41,Seth,0,0,0,38,1,1,Seth Curry,16,5,Curry,G,0,Dallas,0
+3,0,5,6,3,50,15,7,47,Yogi,2,2,100,38,0,2,Yogi Ferrell,19,5,Ferrell,G,4,Dallas,2
+0,0,0,0,0,0,0,0,0,Salah,0,0,0,2,0,0,Salah Mejri,0,0,Mejri,N/A,0,Dallas,0
+5,0,1,3,0,0,5,1,20,Devin,0,0,0,19,0,5,Devin Harris,2,1,Harris,N/A,1,Dallas,1
+0,2,4,2,0,0,11,6,55,Dwight,2,2,100,29,4,3,Dwight Powell,14,8,Powell,N/A,2,Dallas,0
+1,0,1,1,0,0,1,0,0,Dorian,0,0,0,13,0,0,Dorian Finney-Smith,0,1,Finney-Smith,N/A,2,Dallas,0
+0,0,1,1,0,0,1,0,0,Justin,0,0,0,3,0,0,Justin Anderson,0,1,Anderson,N/A,0,Dallas,1
+0,0,0,0,0,0,0,0,0,Nicolas,0,0,0,2,0,0,Nicolas Brussino,0,0,Brussino,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Bogut,N/A,N/A,Bogut,N/A,N/A,Dallas,N/A

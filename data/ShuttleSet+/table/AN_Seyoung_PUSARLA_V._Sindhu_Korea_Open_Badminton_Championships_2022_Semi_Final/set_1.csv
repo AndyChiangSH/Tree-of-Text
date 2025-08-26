@@ -1,0 +1,36 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,7,00:05:59,1,0,An Se Young,rush,opponent wins by landing,wins by landing
+2,6,00:06:18,2,0,An Se Young,return net,hits the net,opponent hits the net
+3,38,00:07:11,3,0,An Se Young,push,goes out of bounds,opponent goes out of bounds
+4,5,00:07:42,3,1,PUSARLA V. Sindhu,drop,goes out of bounds,opponent goes out of bounds
+5,7,00:08:11,4,1,An Se Young,back-court drive,goes out of bounds,opponent goes out of bounds
+6,16,00:08:41,5,1,An Se Young,back-court drive,goes out of bounds,opponent goes out of bounds
+7,7,00:09:07,6,1,An Se Young,smash,opponent wins by landing,wins by landing
+8,33,00:10:07,7,1,An Se Young,unknown,opponent wins by landing,wins by landing
+9,5,00:10:46,7,2,PUSARLA V. Sindhu,wrist smash,goes out of bounds,opponent goes out of bounds
+10,17,00:11:18,7,3,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+11,12,00:12:00,7,4,PUSARLA V. Sindhu,return net,fails to clear the net,opponent fails to clear the net
+12,16,00:12:42,8,4,An Se Young,drop,opponent wins by landing,wins by landing
+13,2,00:13:10,9,4,An Se Young,drop,hits the net,opponent hits the net
+14,5,00:13:28,9,5,PUSARLA V. Sindhu,return net,goes out of bounds,opponent goes out of bounds
+15,10,00:14:21,9,6,PUSARLA V. Sindhu,return net,fails to clear the net,opponent fails to clear the net
+16,5,00:14:42,10,6,An Se Young,return net,hits the net,opponent hits the net
+17,34,00:15:36,11,6,An Se Young,net shot,fails to clear the net,opponent fails to clear the net
+18,18,00:17:21,11,7,PUSARLA V. Sindhu,wrist smash,opponent wins by landing,wins by landing
+19,33,00:18:48,12,7,An Se Young,lob,goes out of bounds,opponent goes out of bounds
+20,13,00:19:25,13,7,An Se Young,push,opponent wins by landing,wins by landing
+21,14,00:20:14,14,7,An Se Young,net shot,hits the net,opponent hits the net
+22,7,00:20:43,14,8,PUSARLA V. Sindhu,lob,goes out of bounds,opponent goes out of bounds
+23,25,00:21:32,14,9,PUSARLA V. Sindhu,wrist smash,opponent wins by landing,wins by landing
+24,9,00:22:27,15,9,An Se Young,return net,fails to clear the net,opponent fails to clear the net
+25,17,00:22:59,15,10,PUSARLA V. Sindhu,return net,fails to clear the net,opponent fails to clear the net
+26,18,00:23:41,16,10,An Se Young,rush,opponent wins by landing,wins by landing
+27,2,00:24:06,16,11,PUSARLA V. Sindhu,lob,opponent wins by landing,wins by landing
+28,7,00:24:32,16,12,PUSARLA V. Sindhu,back-court drive,opponent wins by landing,wins by landing
+29,4,00:24:59,17,12,An Se Young,smash,opponent wins by landing,wins by landing
+30,2,00:25:24,18,12,An Se Young,push,goes out of bounds,opponent goes out of bounds
+31,10,00:25:44,19,12,An Se Young,push,goes out of bounds,opponent goes out of bounds
+32,4,00:26:01,20,12,An Se Young,return net,fails to clear the net,opponent fails to clear the net
+33,4,00:26:19,20,13,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+34,8,00:26:43,20,14,PUSARLA V. Sindhu,net shot,hits the net,opponent hits the net
+35,8,00:27:07,21,14,An Se Young,smash,opponent wins by landing,wins by landing

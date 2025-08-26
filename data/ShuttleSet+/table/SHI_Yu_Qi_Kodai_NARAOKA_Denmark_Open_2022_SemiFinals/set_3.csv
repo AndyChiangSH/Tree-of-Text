@@ -1,0 +1,46 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,11,00:48:24,1,0,SHI Yuqi,return net,hits the net,opponent hits the net
+2,37,00:49:20,2,0,SHI Yuqi,wrist smash,opponent wins by landing,wins by landing
+3,33,00:50:34,3,0,SHI Yuqi,wrist smash,opponent wins by landing,wins by landing
+5,18,00:52:10,5,0,SHI Yuqi,smash,hits the net,opponent hits the net
+6,7,00:52:39,5,1,Kodai NARAOKA,drop,goes out of bounds,opponent goes out of bounds
+7,21,00:53:35,6,1,SHI Yuqi,clear,goes out of bounds,opponent goes out of bounds
+8,8,00:54:12,7,1,SHI Yuqi,defensive return lob,goes out of bounds,opponent goes out of bounds
+9,3,00:56:34,7,2,Kodai NARAOKA,net shot,hits the net,opponent hits the net
+10,7,00:56:56,7,3,Kodai NARAOKA,smash,opponent wins by landing,wins by landing
+11,14,00:57:33,7,4,Kodai NARAOKA,net shot,hits the net,opponent hits the net
+12,5,00:57:58,7,5,Kodai NARAOKA,smash,opponent wins by landing,wins by landing
+13,7,00:58:30,8,5,SHI Yuqi,smash,goes out of bounds,opponent goes out of bounds
+14,18,00:59:36,8,6,Kodai NARAOKA,rush,opponent wins by landing,wins by landing
+15,8,01:00:10,8,7,Kodai NARAOKA,net shot,hits the net,opponent hits the net
+16,10,01:00:38,8,8,Kodai NARAOKA,return net,hits the net,opponent hits the net
+17,11,01:01:04,8,9,Kodai NARAOKA,wrist smash,opponent wins by landing,wins by landing
+18,29,01:01:56,9,9,SHI Yuqi,lob,fails to clear the net,opponent fails to clear the net
+19,2,01:02:47,9,10,Kodai NARAOKA,lob,opponent wins by landing,wins by landing
+20,6,01:03:08,10,10,SHI Yuqi,smash,opponent wins by landing,wins by landing
+21,3,01:03:30,10,11,Kodai NARAOKA,lob,goes out of bounds,opponent goes out of bounds
+22,16,01:04:54,10,12,Kodai NARAOKA,net shot,hits the net,opponent hits the net
+23,5,01:05:20,11,12,SHI Yuqi,return net,fails to clear the net,opponent fails to clear the net
+24,9,01:05:47,11,13,Kodai NARAOKA,return net,goes out of bounds,opponent goes out of bounds
+25,21,01:06:25,12,13,SHI Yuqi,clear,goes out of bounds,opponent goes out of bounds
+26,15,01:07:33,12,14,Kodai NARAOKA,smash,hits the net,opponent hits the net
+27,6,01:08:02,12,15,Kodai NARAOKA,drive,hits the net,opponent hits the net
+28,18,01:08:39,13,15,SHI Yuqi,smash,opponent wins by landing,wins by landing
+29,8,01:09:23,14,15,SHI Yuqi,lob,goes out of bounds,opponent goes out of bounds
+30,19,01:10:36,15,15,SHI Yuqi,wrist smash,opponent wins by landing,wins by landing
+31,9,01:11:43,15,16,Kodai NARAOKA,smash,goes out of bounds,opponent goes out of bounds
+32,10,01:12:16,15,17,Kodai NARAOKA,drive,hits the net,opponent hits the net
+33,8,01:12:48,16,17,SHI Yuqi,wrist smash,opponent wins by landing,wins by landing
+34,8,01:13:46,17,17,SHI Yuqi,return net,fails to clear the net,opponent fails to clear the net
+35,4,01:14:17,17,18,Kodai NARAOKA,rush,opponent wins by landing,wins by landing
+36,26,01:15:02,18,18,SHI Yuqi,smash,opponent wins by landing,wins by landing
+37,9,01:16:21,19,18,SHI Yuqi,smash,opponent wins by landing,wins by landing
+38,9,01:17:00,20,18,SHI Yuqi,wrist smash,opponent wins by landing,wins by landing
+39,19,01:17:48,20,19,Kodai NARAOKA,return net,fails to clear the net,opponent fails to clear the net
+40,9,01:18:31,20,20,Kodai NARAOKA,defensive return drive,opponent wins by landing,wins by landing
+41,4,01:19:01,20,21,Kodai NARAOKA,smash,goes out of bounds,opponent goes out of bounds
+42,9,01:19:59,21,21,SHI Yuqi,net shot,hits the net,opponent hits the net
+43,3,01:20:31,22,21,SHI Yuqi,defensive return drive,opponent wins by landing,wins by landing
+44,26,01:21:31,22,22,Kodai NARAOKA,clear,landing judgment error,opponent landing judgment error
+45,5,01:22:30,23,22,SHI Yuqi,wrist smash,hits the net,opponent hits the net
+46,8,01:23:08,24,22,SHI Yuqi,drop,hits the net,opponent hits the net

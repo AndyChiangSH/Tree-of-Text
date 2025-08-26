@@ -1,0 +1,26 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,25,00:08:36,1,0,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing
+2,10,00:09:07,2,0,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+3,40,00:10:07,3,0,Viktor AXELSEN,smash,hits the net,opponent hits the net
+5,3,00:11:12,5,0,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing
+7,2,00:12:48,6,1,Lakshya SEN,smash,opponent wins by landing,wins by landing
+8,47,00:14:11,6,2,Lakshya SEN,rush,opponent wins by landing,wins by landing
+9,5,00:14:45,7,2,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds
+10,10,00:15:08,8,2,Viktor AXELSEN,return net,hits the net,opponent hits the net
+11,61,00:16:41,9,2,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+12,7,00:17:45,10,2,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+13,9,00:18:17,11,2,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+14,6,00:19:30,12,2,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds
+15,45,00:20:25,12,3,Lakshya SEN,lob,goes out of bounds,opponent goes out of bounds
+16,4,00:21:16,12,4,Lakshya SEN,net shot,fails to clear the net,opponent fails to clear the net
+17,13,00:21:54,13,4,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds
+18,10,00:22:16,13,5,Lakshya SEN,smash,opponent wins by landing,wins by landing
+20,3,00:23:22,14,6,Lakshya SEN,return net,goes out of bounds,opponent goes out of bounds
+22,4,00:24:20,16,6,Viktor AXELSEN,drop,goes out of bounds,opponent goes out of bounds
+23,18,00:25:11,17,6,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+24,23,00:25:57,17,7,Lakshya SEN,drop,goes out of bounds,opponent goes out of bounds
+26,16,00:27:20,19,7,Viktor AXELSEN,unknown,goes out of bounds,opponent goes out of bounds
+27,17,00:28:13,19,8,Lakshya SEN,drop,hits the net,opponent hits the net
+28,40,00:29:20,19,9,Lakshya SEN,return net,fails to clear the net,opponent fails to clear the net
+29,2,00:29:52,20,9,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+31,21,00:30:46,21,10,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds

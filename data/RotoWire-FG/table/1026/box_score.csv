@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,2,4,1,1,100,5,3,60,Noah,1,0,0,24,1,2,Noah Vonleh,7,5,Vonleh,F,0,New York,2
+1,2,7,6,3,50,15,7,47,Kevin,2,2,100,33,0,3,Kevin Knox,19,7,Knox,F,0,New York,1
+3,0,7,1,1,100,12,8,67,Enes,3,3,100,32,3,2,Enes Kanter,20,10,Kanter,C,0,New York,1
+1,1,4,9,4,44,18,6,33,Tim,4,4,100,43,1,3,Tim Hardaway Jr.,20,5,Hardaway,G,1,New York,1
+7,0,6,2,0,0,18,7,39,Emmanuel,2,2,100,31,2,2,Emmanuel Mudiay,16,8,Mudiay,G,2,New York,2
+4,1,3,4,2,50,13,6,46,Frank,2,2,100,24,0,1,Frank Ntilikina,16,3,Ntilikina,N/A,1,New York,4
+1,0,0,0,0,0,2,1,50,Mitchell,0,0,0,16,1,1,Mitchell Robinson,2,1,Robinson,N/A,1,New York,0
+1,0,2,1,0,0,1,0,0,Luke,0,0,0,8,1,0,Luke Kornet,0,3,Kornet,N/A,0,New York,0
+1,1,1,3,0,0,7,2,29,Damyean,0,0,0,19,0,4,Damyean Dotson,4,1,Dotson,N/A,1,New York,1
+0,0,0,0,0,0,3,1,33,Mario,0,0,0,11,0,0,Mario Hezonja,2,0,Hezonja,N/A,1,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ron,N/A,N/A,N/A,N/A,N/A,N/A,Ron Baker,N/A,N/A,Baker,N/A,N/A,New York,N/A
+1,0,4,4,0,0,7,1,14,Cedi,4,4,100,32,1,1,Cedi Osman,6,5,Osman,F,0,Cleveland,0
+2,1,5,3,0,0,6,0,0,Alec,2,1,50,26,2,0,Alec Burks,1,7,Burks,F,1,Cleveland,1
+2,0,4,3,0,0,3,0,0,Channing,0,0,0,15,1,1,Channing Frye,0,5,Frye,C,0,Cleveland,0
+0,0,5,4,2,50,14,9,64,Rodney,3,3,100,23,0,1,Rodney Hood,23,5,Hood,G,0,Cleveland,0
+2,0,2,4,1,25,16,9,56,Collin,0,0,0,29,1,4,Collin Sexton,19,3,Sexton,G,0,Cleveland,5
+2,0,3,7,2,29,21,12,57,Jordan,2,2,100,34,2,1,Jordan Clarkson,28,5,Clarkson,N/A,0,Cleveland,2
+7,3,7,2,1,50,5,1,20,Larry,0,0,0,33,4,4,Larry Nance Jr.,3,11,Nance,N/A,3,Cleveland,1
+3,0,4,5,3,60,7,4,57,Matthew,4,4,100,22,0,3,Matthew Dellavedova,15,4,Dellavedova,N/A,1,Cleveland,2
+0,0,1,2,1,50,7,4,57,David,3,0,0,10,0,1,David Nwaba,9,1,Nwaba,N/A,1,Cleveland,1
+0,0,1,0,0,0,3,1,33,Jalen,2,2,100,6,1,2,Jalen Jones,4,2,Jones,N/A,0,Cleveland,0
+0,0,3,0,0,0,2,2,100,Jaron,1,1,100,11,0,0,Jaron Blossomgame,5,3,Blossomgame,N/A,1,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ante,N/A,N/A,N/A,N/A,N/A,N/A,Ante Zizic,N/A,N/A,Zizic,N/A,N/A,Cleveland,N/A

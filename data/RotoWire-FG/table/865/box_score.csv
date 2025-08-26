@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,6,0,0,0,2,2,100,Brandon,0,0,0,14,0,1,Brandon Ingram,4,6,Ingram,F,0,Los Angeles,0
+2,0,12,0,0,0,15,9,60,Julius,6,5,83,34,3,5,Julius Randle,23,15,Randle,F,0,Los Angeles,7
+2,0,2,6,2,33,11,3,27,Brook,0,0,0,17,1,1,Brook Lopez,8,3,Lopez,C,1,Los Angeles,0
+0,0,4,3,2,67,8,5,62,Kentavious,8,5,62,41,1,4,Kentavious Caldwell-Pope,17,5,Caldwell-Pope,G,0,Los Angeles,1
+7,0,6,7,1,14,13,4,31,Lonzo,0,0,0,43,1,1,Lonzo Ball,9,7,Ball,G,1,Los Angeles,0
+3,0,8,2,1,50,13,8,62,Kyle,2,1,50,36,2,3,Kyle Kuzma,18,10,Kuzma,N/A,1,Los Angeles,2
+1,0,1,3,1,33,6,1,17,Tyler,0,0,0,10,0,4,Tyler Ennis,3,1,Ennis,N/A,0,Los Angeles,1
+0,0,4,0,0,0,6,1,17,Larry,0,0,0,19,3,4,Larry Nance Jr.,2,7,Nance,N/A,0,Los Angeles,0
+0,0,2,1,0,0,2,1,50,Josh,0,0,0,12,0,4,Josh Hart,2,2,Hart,N/A,1,Los Angeles,1
+4,0,3,4,1,25,18,9,50,Jordan,0,0,0,30,0,0,Jordan Clarkson,19,3,Clarkson,N/A,0,Los Angeles,2
+0,0,0,0,0,0,1,0,0,Corey,2,2,100,9,0,4,Corey Brewer,2,0,Brewer,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ivica,N/A,N/A,N/A,N/A,N/A,N/A,Ivica Zubac,N/A,N/A,Zubac,N/A,N/A,Los Angeles,N/A
+4,0,1,6,3,50,10,5,50,Wesley,4,4,100,39,0,3,Wesley Matthews,17,1,Matthews,F,0,Dallas,0
+3,0,5,5,1,20,21,7,33,Harrison,2,2,100,39,0,1,Harrison Barnes,17,5,Barnes,F,2,Dallas,1
+0,1,8,5,1,20,7,1,14,Dirk,4,3,75,24,0,0,Dirk Nowitzki,6,8,Nowitzki,C,1,Dallas,0
+4,0,8,10,1,10,14,5,36,Yogi,0,0,0,43,2,2,Yogi Ferrell,11,10,Ferrell,G,1,Dallas,0
+3,0,1,9,3,33,19,8,42,Dennis,4,4,100,39,1,1,Dennis Smith Jr.,23,2,Smith,G,1,Dallas,3
+1,0,2,0,0,0,0,0,0,Salah,0,0,0,13,1,3,Salah Mejri,0,3,Mejri,N/A,0,Dallas,0
+1,0,3,3,1,33,3,1,33,Devin,8,6,75,19,0,2,Devin Harris,9,3,Harris,N/A,0,Dallas,2
+0,0,0,0,0,0,0,0,0,Maxi,0,0,0,1,0,0,Maxi Kleber,0,0,Kleber,N/A,0,Dallas,0
+3,0,3,5,1,20,9,1,11,J.J.,3,2,67,19,0,1,J.J. Barea,5,3,Barea,N/A,0,Dallas,1
+1,0,4,0,0,0,7,6,86,Dwight,3,1,33,30,0,4,Dwight Powell,13,4,Powell,N/A,0,Dallas,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Collinsworth,N/A,N/A,Collinsworth,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh McRoberts,N/A,N/A,McRoberts,N/A,N/A,Dallas,N/A

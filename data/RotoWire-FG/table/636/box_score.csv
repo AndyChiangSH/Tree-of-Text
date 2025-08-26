@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,1,0,2,1,50,9,5,56,James,2,2,100,32,1,1,James Johnson,13,1,Johnson,F,1,Toronto,0
+1,1,2,2,1,50,16,9,56,Luis,1,1,100,27,1,3,Luis Scola,20,3,Scola,F,0,Toronto,0
+0,1,11,0,0,0,5,2,40,Bismack,2,1,50,34,4,1,Bismack Biyombo,5,15,Biyombo,C,0,Toronto,1
+4,0,4,1,0,0,17,10,59,DeMar,13,10,77,40,0,0,DeMar DeRozan,30,4,DeRozan,G,2,Toronto,3
+4,0,3,4,1,25,18,8,44,Kyle,4,4,100,38,0,2,Kyle Lowry,21,3,Lowry,G,4,Toronto,1
+1,2,1,8,5,63,9,6,67,Terrence,0,0,0,25,0,1,Terrence Ross,17,1,Ross,N/A,1,Toronto,1
+2,0,3,2,0,0,3,0,0,Cory,0,0,0,20,0,2,Cory Joseph,0,3,Joseph,N/A,2,Toronto,1
+1,0,8,2,0,0,3,1,33,Patrick,0,0,0,24,0,2,Patrick Patterson,2,8,Patterson,N/A,1,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Bennett,N/A,N/A,Bennett,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeMarre,N/A,N/A,N/A,N/A,N/A,N/A,DeMarre Carroll,N/A,N/A,Carroll,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,N/A,Lucas Nogueira,N/A,N/A,Nogueira,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Norman,N/A,N/A,N/A,N/A,N/A,N/A,Norman Powell,N/A,N/A,Powell,N/A,N/A,Toronto,N/A
+2,0,2,5,2,40,9,2,22,Luol,4,3,75,34,1,2,Luol Deng,9,3,Deng,F,1,Miami,0
+3,0,4,2,1,50,8,4,50,Chris,2,2,100,29,0,4,Chris Bosh,11,4,Bosh,F,1,Miami,1
+0,5,12,0,0,0,6,4,67,Hassan,0,0,0,31,1,2,Hassan Whiteside,8,13,Whiteside,C,0,Miami,0
+5,0,4,2,0,0,16,8,50,Dwyane,5,5,100,31,2,0,Dwyane Wade,21,6,Wade,G,0,Miami,8
+5,0,2,2,0,0,13,8,62,Goran,3,2,67,33,0,2,Goran Dragic,18,2,Dragic,G,1,Miami,2
+0,0,2,2,0,0,2,0,0,Justise,2,2,100,18,0,3,Justise Winslow,2,2,Winslow,N/A,0,Miami,0
+1,0,0,10,5,50,15,7,47,Gerald,1,1,100,31,0,2,Gerald Green,20,0,Green,N/A,1,Miami,1
+2,0,3,1,1,100,4,2,50,Beno,0,0,0,22,0,2,Beno Udrih,5,3,Udrih,N/A,0,Miami,1
+1,0,1,1,0,0,1,0,0,Udonis,0,0,0,6,0,0,Udonis Haslem,0,1,Haslem,N/A,0,Miami,0
+0,1,0,0,0,0,0,0,0,Josh,0,0,0,3,0,2,Josh Richardson,0,0,Richardson,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarnell,N/A,N/A,N/A,N/A,N/A,N/A,Jarnell Stokes,N/A,N/A,Stokes,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Amar'e,N/A,N/A,N/A,N/A,N/A,N/A,Amar'e Stoudemire,N/A,N/A,Stoudemire,N/A,N/A,Miami,N/A

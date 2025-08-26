@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,2,1,0,0,3,1,33,Wilson,4,4,100,27,1,4,Wilson Chandler,6,3,Chandler,F,1,Denver,2
+4,1,4,3,2,67,13,2,15,Paul,4,2,50,34,6,6,Paul Millsap,8,10,Millsap,F,2,Denver,1
+2,1,5,10,6,60,15,9,60,Nikola,6,4,67,30,3,1,Nikola Jokic,28,8,Jokic,C,1,Denver,2
+3,1,2,10,4,40,15,6,40,Gary,2,2,100,35,0,3,Gary Harris,18,2,Harris,G,3,Denver,2
+2,0,2,9,2,22,16,8,50,Jamal,2,2,100,32,1,0,Jamal Murray,20,3,Murray,G,1,Denver,2
+2,0,3,2,1,50,9,5,56,Will,4,2,50,24,1,1,Will Barton,13,4,Barton,N/A,2,Denver,0
+2,1,2,0,0,0,4,1,25,Mason,3,0,0,16,1,2,Mason Plumlee,2,3,Plumlee,N/A,0,Denver,1
+1,0,1,4,3,75,7,3,43,Emmanuel,6,6,100,20,0,0,Emmanuel Mudiay,15,1,Mudiay,N/A,2,Denver,2
+0,0,1,2,0,0,2,0,0,Darrell,0,0,0,12,0,0,Darrell Arthur,0,1,Arthur,N/A,1,Denver,1
+0,0,0,0,0,0,1,0,0,Malik,0,0,0,6,0,3,Malik Beasley,0,0,Beasley,N/A,0,Denver,0
+0,0,1,0,0,0,0,0,0,Kenneth,0,0,0,3,0,2,Kenneth Faried,0,1,Faried,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richard,N/A,N/A,N/A,N/A,N/A,N/A,Richard Jefferson,N/A,N/A,Jefferson,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Lyles,N/A,N/A,Lyles,N/A,N/A,Denver,N/A
+3,0,3,10,3,30,11,4,36,Tim,2,2,100,33,1,1,Tim Hardaway Jr.,13,4,Hardaway,F,3,New York,2
+2,3,5,7,4,57,26,14,54,Kristaps,6,6,100,34,2,5,Kristaps Porzingis,38,7,Porzingis,F,0,New York,5
+2,1,8,0,0,0,8,5,62,Enes,2,2,100,24,1,4,Enes Kanter,12,9,Kanter,C,0,New York,2
+4,0,2,4,2,50,8,4,50,Courtney,2,2,100,35,0,2,Courtney Lee,12,2,Lee,G,1,New York,2
+10,0,3,0,0,0,5,3,60,Jarrett,0,0,0,32,0,1,Jarrett Jack,6,3,Jack,G,2,New York,2
+1,0,2,3,1,33,5,2,40,Frank,0,0,0,16,0,4,Frank Ntilikina,5,2,Ntilikina,N/A,2,New York,4
+0,0,2,1,0,0,4,2,50,Michael,1,0,0,14,0,0,Michael Beasley,4,2,Beasley,N/A,0,New York,2
+2,0,2,6,3,50,10,4,40,Doug,0,0,0,22,1,5,Doug McDermott,11,3,McDermott,N/A,0,New York,0
+2,0,4,1,0,0,1,0,0,Damyean,0,0,0,6,1,0,Damyean Dotson,0,5,Dotson,N/A,0,New York,0
+1,5,7,0,0,0,4,3,75,Kyle,10,9,90,21,5,5,Kyle O'Quinn,15,12,O'Quinn,N/A,0,New York,3
+0,1,0,0,0,0,0,0,0,Willy,0,0,0,3,0,0,Willy Hernangomez,0,0,Hernangomez,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ramon,N/A,N/A,N/A,N/A,N/A,N/A,Ramon Sessions,N/A,N/A,Sessions,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lance,N/A,N/A,N/A,N/A,N/A,N/A,Lance Thomas,N/A,N/A,Thomas,N/A,N/A,New York,N/A

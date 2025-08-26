@@ -1,0 +1,41 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,6,00:05:57,1,0,Jonatan CHRISTIE,net shot,hits the net,opponent hits the net
+2,13,00:06:34,1,1,KIDAMBI Srikanth,net shot,hits the net,opponent hits the net
+3,8,00:06:56,2,1,Jonatan CHRISTIE,wrist smash,opponent wins by landing,wins by landing
+4,9,00:07:31,2,2,KIDAMBI Srikanth,drop,goes out of bounds,opponent goes out of bounds
+5,5,00:07:50,2,3,KIDAMBI Srikanth,smash,opponent wins by landing,wins by landing
+6,12,00:08:18,2,4,KIDAMBI Srikanth,return net,hits the net,opponent hits the net
+7,6,00:08:43,2,5,KIDAMBI Srikanth,lob,goes out of bounds,opponent goes out of bounds
+8,9,00:09:03,3,5,Jonatan CHRISTIE,drop,goes out of bounds,opponent goes out of bounds
+9,18,00:09:40,4,5,Jonatan CHRISTIE,net shot,hits the net,opponent hits the net
+10,3,00:10:13,4,6,KIDAMBI Srikanth,drop,hits the net,opponent hits the net
+11,20,00:10:48,5,6,Jonatan CHRISTIE,clear,landing judgment error,opponent landing judgment error
+12,14,00:11:28,6,6,Jonatan CHRISTIE,defensive return drive,fails to clear the net,opponent fails to clear the net
+13,9,00:12:08,6,7,KIDAMBI Srikanth,net shot,goes out of bounds,opponent goes out of bounds
+14,5,00:12:27,6,8,KIDAMBI Srikanth,rush,opponent wins by landing,wins by landing
+15,8,00:12:53,6,9,KIDAMBI Srikanth,drive,hits the net,opponent hits the net
+16,4,00:13:17,7,9,Jonatan CHRISTIE,clear,landing judgment error,opponent landing judgment error
+17,22,00:14:04,8,9,Jonatan CHRISTIE,wrist smash,hits the net,opponent hits the net
+18,15,00:14:53,8,10,KIDAMBI Srikanth,drive,hits the net,opponent hits the net
+19,5,00:15:24,8,11,KIDAMBI Srikanth,net shot,opponent wins by landing,wins by landing
+20,5,00:17:26,9,11,Jonatan CHRISTIE,drive,hits the net,opponent hits the net
+21,13,00:17:53,10,11,Jonatan CHRISTIE,rush,opponent wins by landing,wins by landing
+22,2,00:18:15,11,11,Jonatan CHRISTIE,push,goes out of bounds,opponent goes out of bounds
+23,7,00:18:42,11,12,KIDAMBI Srikanth,wrist smash,hits the net,opponent hits the net
+24,24,00:19:18,11,13,KIDAMBI Srikanth,rush,hits the net,opponent hits the net
+25,3,00:19:53,12,13,Jonatan CHRISTIE,net shot,hits the net,opponent hits the net
+26,10,00:20:22,13,13,Jonatan CHRISTIE,return net,hits the net,opponent hits the net
+27,11,00:20:57,13,14,KIDAMBI Srikanth,net shot,hits the net,opponent hits the net
+28,5,00:21:43,13,15,KIDAMBI Srikanth,rush,opponent wins by landing,wins by landing
+29,17,00:22:16,14,15,Jonatan CHRISTIE,back-court drive,goes out of bounds,opponent goes out of bounds
+30,12,00:23:04,15,15,Jonatan CHRISTIE,smash,hits the net,opponent hits the net
+31,21,00:23:57,15,16,KIDAMBI Srikanth,return net,fails to clear the net,opponent fails to clear the net
+32,2,00:24:32,15,17,KIDAMBI Srikanth,lob,goes out of bounds,opponent goes out of bounds
+33,7,00:24:54,16,17,Jonatan CHRISTIE,push,goes out of bounds,opponent goes out of bounds
+34,12,00:26:02,17,17,Jonatan CHRISTIE,back-court drive,hits the net,opponent hits the net
+35,19,00:27:09,17,18,KIDAMBI Srikanth,net shot,fails to clear the net,opponent fails to clear the net
+36,25,00:27:59,18,18,Jonatan CHRISTIE,smash,goes out of bounds,opponent goes out of bounds
+37,4,00:28:41,19,18,Jonatan CHRISTIE,return net,fails to clear the net,opponent fails to clear the net
+38,7,00:29:17,20,18,Jonatan CHRISTIE,return net,opponent wins by landing,wins by landing
+39,3,00:29:45,20,19,KIDAMBI Srikanth,smash,goes out of bounds,opponent goes out of bounds
+40,5,00:30:05,21,19,Jonatan CHRISTIE,return net,goes out of bounds,opponent goes out of bounds

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,10,6,1,17,11,6,55,Robert,2,2,100,35,0,2,Robert Covington,15,10,Covington,F,2,Philadelphia,1
+6,1,7,7,3,43,16,6,38,Dario,5,5,100,35,2,2,Dario Saric,20,9,Saric,F,0,Philadelphia,2
+5,0,3,0,0,0,7,4,57,Amir,0,0,0,23,2,4,Amir Johnson,8,5,Johnson,C,1,Philadelphia,0
+2,0,1,4,2,50,15,8,53,JJ,0,0,0,26,0,2,JJ Redick,18,1,Redick,G,0,Philadelphia,1
+6,1,5,0,0,0,9,3,33,Ben,0,0,0,32,1,5,Ben Simmons,6,6,Simmons,G,0,Philadelphia,5
+8,0,3,2,0,0,9,5,56,T.J.,0,0,0,25,0,2,T.J. McConnell,10,3,McConnell,N/A,1,Philadelphia,1
+0,0,0,3,2,67,10,6,60,Jerryd,0,0,0,20,1,1,Jerryd Bayless,14,1,Bayless,N/A,1,Philadelphia,2
+3,1,3,1,0,0,12,6,50,Richaun,3,2,67,19,0,6,Richaun Holmes,14,3,Holmes,N/A,0,Philadelphia,0
+0,0,0,1,0,0,1,0,0,Timothe,0,0,0,11,0,0,Timothe Luwawu-Cabarrot,0,0,Luwawu-Cabarrot,N/A,0,Philadelphia,0
+1,0,2,0,0,0,3,1,33,Trevor,0,0,0,14,1,1,Trevor Booker,2,3,Booker,N/A,1,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Embiid,N/A,N/A,Embiid,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jacob,N/A,N/A,N/A,N/A,N/A,N/A,Jacob Pullen,N/A,N/A,Pullen,N/A,N/A,Philadelphia,N/A
+0,2,4,1,0,0,3,1,33,Wilson,0,0,0,33,1,3,Wilson Chandler,2,5,Chandler,F,0,Denver,2
+6,3,8,5,1,20,14,5,36,Nikola,9,8,89,37,5,0,Nikola Jokic,19,13,Jokic,F,1,Denver,2
+1,0,5,0,0,0,6,0,0,Mason,6,1,17,23,1,3,Mason Plumlee,1,6,Plumlee,C,0,Denver,2
+2,0,0,5,1,20,14,7,50,Gary,2,2,100,39,0,1,Gary Harris,17,0,Harris,G,5,Denver,1
+3,1,7,6,1,17,23,11,48,Jamal,9,8,89,40,1,1,Jamal Murray,31,8,Murray,G,1,Denver,3
+5,2,6,8,1,12,15,5,33,Will,4,3,75,31,1,1,Will Barton,14,7,Barton,N/A,2,Denver,0
+1,1,7,7,3,43,12,6,50,Trey,2,1,50,31,1,2,Trey Lyles,16,8,Lyles,N/A,1,Denver,3
+0,0,1,0,0,0,0,0,0,Torrey,2,2,100,6,0,1,Torrey Craig,2,1,Craig,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malik,N/A,N/A,N/A,N/A,N/A,N/A,Malik Beasley,N/A,N/A,Beasley,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth Faried,N/A,N/A,Faried,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richard,N/A,N/A,N/A,N/A,N/A,N/A,Richard Jefferson,N/A,N/A,Jefferson,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Emmanuel,N/A,N/A,N/A,N/A,N/A,N/A,Emmanuel Mudiay,N/A,N/A,Mudiay,N/A,N/A,Denver,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,1,3,0,0,16,6,38,Jimmy,9,8,89,30,2,3,Jimmy Butler,20,3,Butler,F,2,Chicago,2
+0,0,5,0,0,0,10,5,50,Taj,0,0,0,26,1,1,Taj Gibson,10,6,Gibson,F,0,Chicago,2
+0,0,2,0,0,0,9,5,56,Robin,2,2,100,23,5,3,Robin Lopez,12,7,Lopez,C,0,Chicago,1
+3,2,5,3,1,33,16,7,44,Dwyane,3,3,100,28,1,0,Dwyane Wade,18,6,Wade,G,0,Chicago,1
+1,0,2,2,1,50,4,1,25,Jerian,0,0,0,21,0,2,Jerian Grant,3,2,Grant,G,2,Chicago,0
+0,0,1,3,1,33,6,4,67,Doug,2,2,100,20,0,1,Doug McDermott,11,1,McDermott,N/A,0,Chicago,0
+2,1,4,4,1,25,6,2,33,Nikola,0,0,0,14,0,1,Nikola Mirotic,5,4,Mirotic,N/A,1,Chicago,1
+3,0,2,2,1,50,4,1,25,Rajon,0,0,0,23,1,2,Rajon Rondo,3,3,Rondo,N/A,0,Chicago,2
+1,0,0,0,0,0,3,2,67,Michael,0,0,0,8,0,1,Michael Carter-Williams,4,0,Carter-Williams,N/A,0,Chicago,0
+2,2,5,0,0,0,5,1,20,Cristiano,2,1,50,22,1,1,Cristiano Felicio,3,6,Felicio,N/A,0,Chicago,0
+0,0,2,2,0,0,4,2,50,Denzel,2,0,0,15,0,1,Denzel Valentine,4,2,Valentine,N/A,1,Chicago,2
+1,0,0,0,0,0,3,1,33,Bobby,2,2,100,4,1,0,Bobby Portis,4,1,Portis,N/A,1,Chicago,0
+1,0,0,0,0,0,0,0,0,Isaiah,0,0,0,4,0,0,Isaiah Canaan,0,0,Canaan,N/A,0,Chicago,0
+0,2,4,1,0,0,17,8,47,TJ,0,0,0,37,1,4,TJ Warren,16,5,Warren,F,0,Phoenix,0
+3,1,2,1,1,100,3,2,67,Marquese,0,0,0,22,0,5,Marquese Chriss,5,2,Chriss,F,0,Phoenix,0
+2,0,4,0,0,0,4,3,75,Tyson,0,0,0,12,1,1,Tyson Chandler,6,5,Chandler,C,0,Phoenix,1
+4,0,2,4,2,50,19,10,53,Devin,6,5,83,33,3,1,Devin Booker,27,5,Booker,G,0,Phoenix,1
+8,1,3,3,1,33,19,9,47,Eric,5,4,80,33,0,0,Eric Bledsoe,23,3,Bledsoe,G,0,Phoenix,4
+2,0,6,3,1,33,5,2,40,PJ,2,2,100,34,1,2,PJ Tucker,7,7,Tucker,N/A,3,Phoenix,1
+1,0,1,3,2,67,4,2,50,Jared,0,0,0,14,1,1,Jared Dudley,6,2,Dudley,N/A,0,Phoenix,0
+3,0,2,2,0,0,6,3,50,Brandon,0,0,0,15,1,0,Brandon Knight,6,3,Knight,N/A,0,Phoenix,1
+0,0,0,2,1,50,5,1,20,Leandro,0,0,0,13,0,0,Leandro Barbosa,3,0,Barbosa,N/A,1,Phoenix,0
+0,4,6,0,0,0,12,7,58,Alan,0,0,0,24,5,4,Alan Williams,14,11,Williams,N/A,0,Phoenix,0
+0,0,0,0,0,0,0,0,0,Ronnie,0,0,0,2,0,0,Ronnie Price,0,0,Price,N/A,0,Phoenix,0
+2,0,0,0,0,0,1,1,100,Tyler,0,0,0,2,0,0,Tyler Ulis,2,0,Ulis,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alex,N/A,N/A,N/A,N/A,N/A,N/A,Alex Len,N/A,N/A,Len,N/A,N/A,Phoenix,N/A

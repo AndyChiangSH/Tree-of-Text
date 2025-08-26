@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,4,10,3,0,0,20,12,60,Giannis,9,6,67,34,2,4,Giannis Antetokounmpo,30,12,Antetokounmpo,F,0,Milwaukee,4
+2,1,7,1,0,0,10,7,70,Jabari,6,4,67,31,2,1,Jabari Parker,18,9,Parker,F,0,Milwaukee,2
+1,1,5,0,0,0,8,6,75,John,5,3,60,25,2,4,John Henson,15,7,Henson,C,1,Milwaukee,3
+1,1,1,3,1,33,7,2,29,Tony,2,1,50,26,0,3,Tony Snell,6,1,Snell,G,0,Milwaukee,2
+3,0,0,1,1,100,5,4,80,Matthew,0,0,0,22,0,4,Matthew Dellavedova,9,0,Dellavedova,G,1,Milwaukee,2
+2,1,4,0,0,0,5,5,100,Greg,3,3,100,20,0,5,Greg Monroe,13,4,Monroe,N/A,3,Milwaukee,1
+3,0,3,5,2,40,10,6,60,Mirza,5,5,100,25,0,3,Mirza Teletovic,19,3,Teletovic,N/A,0,Milwaukee,0
+8,1,3,1,1,100,8,5,63,Malcolm,3,2,67,26,2,1,Malcolm Brogdon,13,5,Brogdon,N/A,3,Milwaukee,1
+2,2,0,3,2,67,3,2,67,Jason,2,2,100,19,1,0,Jason Terry,8,1,Terry,N/A,1,Milwaukee,1
+0,0,1,0,0,0,4,3,75,Michael,0,0,0,7,0,0,Michael Beasley,6,1,Beasley,N/A,0,Milwaukee,0
+1,0,1,0,0,0,1,0,0,Rashad,0,0,0,4,0,0,Rashad Vaughn,0,1,Vaughn,N/A,0,Milwaukee,0
+0,0,0,0,0,0,1,0,0,Thon,0,0,0,3,0,0,Thon Maker,0,0,Maker,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Spencer,N/A,N/A,N/A,N/A,N/A,N/A,Spencer Hawes,N/A,N/A,Hawes,N/A,N/A,Milwaukee,N/A
+4,0,3,5,0,0,18,5,28,TJ,0,0,0,37,3,4,TJ Warren,10,6,Warren,F,1,Phoenix,0
+0,2,3,5,3,60,15,9,60,Marquese,9,6,67,24,3,4,Marquese Chriss,27,6,Chriss,F,0,Phoenix,0
+3,0,11,0,0,0,1,1,100,Tyson,4,3,75,25,3,3,Tyson Chandler,5,14,Chandler,C,0,Phoenix,2
+4,0,2,8,5,63,19,9,47,Devin,8,8,100,38,1,5,Devin Booker,31,3,Booker,G,0,Phoenix,5
+6,0,3,3,1,33,11,3,27,Eric,6,6,100,35,1,0,Eric Bledsoe,13,4,Bledsoe,G,1,Phoenix,6
+1,0,3,3,2,67,7,5,71,PJ,1,1,100,37,1,5,PJ Tucker,13,4,Tucker,N/A,7,Phoenix,1
+0,0,0,0,0,0,5,3,60,Alex,0,0,0,11,1,3,Alex Len,6,1,Len,N/A,0,Phoenix,0
+0,0,1,2,0,0,3,0,0,Jared,0,0,0,7,0,1,Jared Dudley,0,1,Dudley,N/A,0,Phoenix,0
+3,0,0,2,0,0,5,1,20,Brandon,0,0,0,7,1,2,Brandon Knight,2,1,Knight,N/A,0,Phoenix,1
+1,0,0,0,0,0,4,2,50,Leandro,0,0,0,10,0,0,Leandro Barbosa,4,0,Barbosa,N/A,0,Phoenix,0
+0,0,0,0,0,0,1,0,0,Tyler,0,0,0,3,0,0,Tyler Ulis,0,0,Ulis,N/A,0,Phoenix,0
+0,1,0,0,0,0,1,0,0,Derrick,0,0,0,3,0,0,"Derrick Jones, Jr.",0,0,"Jones,",N/A,0,Phoenix,0
+0,0,0,0,0,0,1,0,0,Alan,2,1,50,3,0,1,Alan Williams,1,0,Williams,N/A,0,Phoenix,1

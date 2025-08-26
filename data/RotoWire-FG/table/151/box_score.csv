@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,3,2,1,50,19,10,53,Rudy,6,5,83,39,2,4,Rudy Gay,26,5,Gay,F,2,Sacramento,6
+0,0,7,0,0,0,4,2,50,Jason,0,0,0,28,0,2,Jason Thompson,4,7,Thompson,F,0,Sacramento,2
+1,4,15,0,0,0,17,7,41,DeMarcus,12,8,67,38,4,6,DeMarcus Cousins,22,19,Cousins,C,0,Sacramento,5
+1,1,5,5,2,40,10,3,30,Ben,3,3,100,35,0,2,Ben McLemore,11,5,McLemore,G,2,Sacramento,3
+8,0,5,3,1,33,11,6,55,Darren,1,0,0,36,2,3,Darren Collison,13,7,Collison,G,1,Sacramento,5
+1,0,1,1,0,0,5,2,40,Ray,0,0,0,17,0,1,Ray McCallum,4,1,McCallum,N/A,2,Sacramento,0
+0,0,1,1,0,0,5,2,40,Derrick,2,2,100,24,0,2,Derrick Williams,6,1,Williams,N/A,0,Sacramento,0
+0,0,4,0,0,0,2,0,0,Reggie,4,3,75,14,2,1,Reggie Evans,3,6,Evans,N/A,0,Sacramento,0
+0,0,1,0,0,0,3,2,67,Omri,2,1,50,8,1,1,Omri Casspi,5,2,Casspi,N/A,1,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ryan,N/A,N/A,N/A,N/A,N/A,N/A,Ryan Hollins,N/A,N/A,Hollins,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quincy,N/A,N/A,N/A,N/A,N/A,N/A,Quincy Miller,N/A,N/A,Miller,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ramon,N/A,N/A,N/A,N/A,N/A,N/A,Ramon Sessions,N/A,N/A,Sessions,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nik,N/A,N/A,N/A,N/A,N/A,N/A,Nik Stauskas,N/A,N/A,Stauskas,N/A,N/A,Sacramento,N/A
+4,0,4,4,1,25,8,2,25,Nicolas,4,3,75,33,0,2,Nicolas Batum,8,4,Batum,F,0,Portland,2
+1,0,1,2,2,100,7,4,57,LaMarcus,0,0,0,14,0,0,LaMarcus Aldridge,10,1,Aldridge,F,2,Portland,2
+1,1,3,0,0,0,7,2,29,Chris,0,0,0,19,1,3,Chris Kaman,4,4,Kaman,C,0,Portland,1
+1,0,3,12,2,17,20,7,35,Wesley,2,1,50,37,0,2,Wesley Matthews,17,3,Matthews,G,3,Portland,1
+5,0,4,9,2,22,19,6,32,Damian,11,8,73,38,2,1,Damian Lillard,22,6,Lillard,G,3,Portland,0
+1,1,1,1,1,100,5,4,80,Meyers,0,0,0,19,2,3,Meyers Leonard,9,3,Leonard,N/A,0,Portland,2
+0,0,0,1,0,0,1,0,0,CJ,0,0,0,7,0,0,CJ McCollum,0,0,McCollum,N/A,1,Portland,0
+3,0,1,2,1,50,4,2,50,Steve,0,0,0,14,0,1,Steve Blake,5,1,Blake,N/A,1,Portland,1
+3,0,2,3,1,33,6,3,50,Dorell,2,2,100,16,0,2,Dorell Wright,9,2,Wright,N/A,2,Portland,2
+1,0,4,0,0,0,2,1,50,Thomas,6,3,50,21,2,4,Thomas Robinson,5,6,Robinson,N/A,3,Portland,2
+0,0,2,2,1,50,2,1,50,Victor,0,0,0,7,1,2,Victor Claver,3,3,Claver,N/A,0,Portland,0
+1,1,1,0,0,0,7,3,43,Will,1,0,0,15,1,1,Will Barton,6,2,Barton,N/A,1,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Allen,N/A,N/A,N/A,N/A,N/A,N/A,Allen Crabbe,N/A,N/A,Crabbe,N/A,N/A,Portland,N/A

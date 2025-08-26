@@ -1,0 +1,39 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,4,00:36:43,0,1,LOH Kean Yew,return net,landing judgment error,opponent landing judgment error
+2,49,00:37:46,1,1,Lakshya SEN,drop,hits the net,opponent hits the net
+3,2,00:38:25,1,2,LOH Kean Yew,push,landing judgment error,opponent landing judgment error
+4,9,00:38:46,1,3,LOH Kean Yew,rush,opponent wins by landing,wins by landing
+5,11,00:39:15,1,4,LOH Kean Yew,drop,opponent wins by landing,wins by landing
+6,5,00:39:39,2,4,Lakshya SEN,push,goes out of bounds,opponent goes out of bounds
+7,11,00:40:02,2,5,LOH Kean Yew,lob,fails to clear the net,opponent fails to clear the net
+8,7,00:40:29,3,5,Lakshya SEN,push,goes out of bounds,opponent goes out of bounds
+9,4,00:40:45,4,5,Lakshya SEN,net shot,hits the net,opponent hits the net
+10,12,00:41:09,5,5,Lakshya SEN,return net,hits the net,opponent hits the net
+11,2,00:41:50,5,6,LOH Kean Yew,smash,opponent wins by landing,wins by landing
+12,23,00:42:24,6,6,Lakshya SEN,unknown,hits the net,opponent hits the net
+13,13,00:43:11,7,6,Lakshya SEN,smash,opponent wins by landing,wins by landing
+14,8,00:43:44,7,7,LOH Kean Yew,rush,opponent wins by landing,wins by landing
+15,5,00:44:06,8,7,Lakshya SEN,return net,hits the net,opponent hits the net
+16,7,00:44:27,8,8,LOH Kean Yew,drop,hits the net,opponent hits the net
+17,19,00:44:59,9,8,Lakshya SEN,net shot,hits the net,opponent hits the net
+18,20,00:45:39,10,8,Lakshya SEN,smash,hits the net,opponent hits the net
+19,33,00:46:37,10,9,LOH Kean Yew,wrist smash,goes out of bounds,opponent goes out of bounds
+20,23,00:47:43,11,9,Lakshya SEN,drop,hits the net,opponent hits the net
+21,4,00:49:03,12,9,Lakshya SEN,lob,goes out of bounds,opponent goes out of bounds
+22,31,00:49:46,12,10,LOH Kean Yew,return net,goes out of bounds,opponent goes out of bounds
+23,13,00:50:22,13,10,Lakshya SEN,smash,hits the net,opponent hits the net
+24,7,00:50:49,13,11,LOH Kean Yew,smash,goes out of bounds,opponent goes out of bounds
+25,4,00:51:09,14,11,Lakshya SEN,smash,opponent wins by landing,wins by landing
+26,38,00:52:10,15,11,Lakshya SEN,drop,goes out of bounds,opponent goes out of bounds
+27,13,00:52:57,16,11,Lakshya SEN,smash,opponent wins by landing,wins by landing
+28,7,00:53:19,16,12,LOH Kean Yew,return net,fails to clear the net,opponent fails to clear the net
+29,16,00:53:48,16,13,LOH Kean Yew,clear,goes out of bounds,opponent goes out of bounds
+30,33,00:54:54,16,14,LOH Kean Yew,rush,opponent wins by landing,wins by landing
+31,11,00:56:47,17,14,Lakshya SEN,drive,goes out of bounds,opponent goes out of bounds
+32,9,00:57:11,17,15,LOH Kean Yew,lob,goes out of bounds,opponent goes out of bounds
+33,29,00:58:12,18,15,Lakshya SEN,lob,goes out of bounds,opponent goes out of bounds
+34,24,00:59:21,18,16,LOH Kean Yew,drop,landing judgment error,opponent landing judgment error
+35,4,00:59:49,19,16,Lakshya SEN,smash,opponent wins by landing,wins by landing
+36,1,01:00:08,19,17,LOH Kean Yew,long service,goes out of bounds,opponent goes out of bounds
+37,5,01:00:24,20,17,Lakshya SEN,return net,fails to clear the net,opponent fails to clear the net
+38,6,01:01:09,21,17,Lakshya SEN,return net,fails to clear the net,opponent fails to clear the net

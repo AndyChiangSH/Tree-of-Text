@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,3,2,0,0,7,1,14,Evan,0,0,0,23,0,2,Evan Turner,2,3,Turner,F,0,Portland,1
+0,0,8,1,1,100,1,1,100,Al-Farouq,2,2,100,30,1,0,Al-Farouq Aminu,5,9,Aminu,F,0,Portland,1
+3,0,7,0,0,0,11,8,73,Jusuf,5,4,80,25,0,3,Jusuf Nurkic,20,7,Nurkic,C,2,Portland,1
+2,1,1,6,1,17,16,9,56,CJ,4,2,50,34,1,1,CJ McCollum,21,2,McCollum,G,0,Portland,1
+10,1,3,7,3,43,18,11,61,Damian,8,7,88,37,0,1,Damian Lillard,32,3,Lillard,G,0,Portland,2
+0,0,1,1,0,0,2,0,0,Zach,2,1,50,10,0,5,Zach Collins,1,1,Collins,N/A,0,Portland,0
+0,0,3,0,0,0,3,2,67,Ed,2,2,100,12,0,1,Ed Davis,6,3,Davis,N/A,0,Portland,0
+2,0,1,1,1,100,5,2,40,Pat,2,1,50,15,1,0,Pat Connaughton,6,2,Connaughton,N/A,0,Portland,1
+0,0,0,1,0,0,2,0,0,Shabazz,2,1,50,21,0,1,Shabazz Napier,1,0,Napier,N/A,0,Portland,2
+1,0,2,0,0,0,2,1,50,Noah,4,2,50,10,0,0,Noah Vonleh,4,2,Vonleh,N/A,0,Portland,0
+0,0,2,1,1,100,3,2,67,Meyers,2,2,100,8,0,1,Meyers Leonard,7,2,Leonard,N/A,1,Portland,1
+0,0,1,1,0,0,3,0,0,Jake,0,0,0,7,1,0,Jake Layman,0,2,Layman,N/A,1,Portland,0
+1,0,0,0,0,0,0,0,0,Maurice,0,0,0,7,0,0,Maurice Harkless,0,0,Harkless,N/A,0,Portland,0
+2,0,1,3,0,0,4,0,0,OG,2,2,100,27,1,2,OG Anunoby,2,2,Anunoby,F,1,Toronto,0
+1,0,5,3,1,33,6,3,50,Serge,0,0,0,23,0,3,Serge Ibaka,7,5,Ibaka,F,0,Toronto,1
+2,1,4,4,2,50,15,7,47,Jonas,2,2,100,24,4,3,Jonas Valanciunas,18,8,Valanciunas,C,0,Toronto,1
+3,0,1,10,6,60,22,11,50,DeMar,8,7,88,30,1,1,DeMar DeRozan,35,2,DeRozan,G,1,Toronto,1
+5,0,1,6,2,33,13,5,38,Kyle,4,3,75,26,3,2,Kyle Lowry,15,4,Lowry,G,1,Toronto,0
+1,0,1,3,1,33,8,4,50,Pascal,4,4,100,19,4,5,Pascal Siakam,13,5,Siakam,N/A,0,Toronto,0
+0,0,4,5,3,60,12,6,50,Fred,1,1,100,21,1,2,Fred VanVleet,16,5,VanVleet,N/A,0,Toronto,1
+3,1,3,3,2,67,7,2,29,Delon,0,0,0,22,1,1,Delon Wright,6,4,Wright,N/A,0,Toronto,0
+0,2,3,0,0,0,2,2,100,Jakob,0,0,0,20,2,3,Jakob Poeltl,4,5,Poeltl,N/A,1,Toronto,1
+3,0,1,1,1,100,7,5,71,Norman,0,0,0,19,0,0,Norman Powell,11,1,Powell,N/A,0,Toronto,1
+1,0,1,0,0,0,0,0,0,Lucas,0,0,0,4,0,1,Lucas Nogueira,0,1,Nogueira,N/A,1,Toronto,0
+0,0,0,2,1,50,3,1,33,Alfonzo,0,0,0,4,0,0,Alfonzo McKinnie,3,0,McKinnie,N/A,0,Toronto,0

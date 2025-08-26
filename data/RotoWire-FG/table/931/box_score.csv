@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,2,0,0,0,8,2,25,Michael,1,1,100,29,1,3,Michael Kidd-Gilchrist,5,3,Kidd-Gilchrist,F,0,Charlotte,1
+1,1,2,2,0,0,5,1,20,Marvin,0,0,0,26,1,0,Marvin Williams,2,3,Williams,F,1,Charlotte,0
+1,0,4,0,0,0,9,3,33,Dwight,6,4,67,28,0,5,Dwight Howard,10,4,Howard,C,1,Charlotte,3
+3,1,7,3,0,0,12,6,50,Jeremy,4,2,50,30,1,1,Jeremy Lamb,14,8,Lamb,G,1,Charlotte,2
+6,1,7,9,1,11,19,8,42,Kemba,7,7,100,40,1,0,Kemba Walker,24,8,Walker,G,3,Charlotte,3
+1,0,1,0,0,0,2,0,0,Frank,2,2,100,22,0,0,Frank Kaminsky,2,1,Kaminsky,N/A,0,Charlotte,0
+1,0,4,2,1,50,8,2,25,Dwayne,0,0,0,23,1,0,Dwayne Bacon,5,5,Bacon,N/A,0,Charlotte,0
+0,1,1,2,1,50,10,6,60,Willy,6,4,67,20,1,3,Willy Hernangomez,17,2,Hernangomez,N/A,2,Charlotte,0
+3,0,4,4,3,75,11,4,36,Malik,2,2,100,16,0,0,Malik Monk,13,4,Monk,N/A,0,Charlotte,0
+0,0,1,0,0,0,0,0,0,Treveon,2,2,100,6,0,0,Treveon Graham,2,1,Graham,N/A,0,Charlotte,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas Batum,N/A,N/A,Batum,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Julyan,N/A,N/A,N/A,N/A,N/A,N/A,Julyan Stone,N/A,N/A,Stone,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cody,N/A,N/A,N/A,N/A,N/A,N/A,Cody Zeller,N/A,N/A,Zeller,N/A,N/A,Charlotte,N/A
+2,1,3,9,4,44,12,6,50,Robert,2,2,100,29,2,5,Robert Covington,18,5,Covington,F,0,Philadelphia,0
+3,0,1,3,1,33,9,2,22,Dario,0,0,0,27,0,2,Dario Saric,5,1,Saric,F,0,Philadelphia,0
+2,3,16,6,4,67,17,10,59,Joel,2,1,50,31,4,4,Joel Embiid,25,20,Embiid,C,0,Philadelphia,9
+0,0,4,7,2,29,12,5,42,JJ,0,0,0,24,0,2,JJ Redick,12,4,Redick,G,0,Philadelphia,3
+15,0,9,0,0,0,9,4,44,Ben,4,3,75,33,3,0,Ben Simmons,11,12,Simmons,G,3,Philadelphia,0
+2,0,2,9,5,56,14,8,57,Marco,0,0,0,24,0,2,Marco Belinelli,21,2,Belinelli,N/A,0,Philadelphia,1
+1,2,4,3,1,33,4,2,50,Amir,0,0,0,16,3,1,Amir Johnson,5,7,Johnson,N/A,1,Philadelphia,0
+2,0,1,2,0,0,7,1,14,Ersan,0,0,0,21,4,4,Ersan Ilyasova,2,5,Ilyasova,N/A,1,Philadelphia,1
+2,0,3,5,1,20,7,3,43,Justin,0,0,0,20,1,0,Justin Anderson,7,4,Anderson,N/A,0,Philadelphia,1
+1,0,0,0,0,0,2,1,50,T.J.,0,0,0,15,0,2,T.J. McConnell,2,0,McConnell,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius,N/A,N/A,N/A,N/A,N/A,N/A,Demetrius Jackson,N/A,N/A,Jackson,N/A,N/A,Philadelphia,N/A

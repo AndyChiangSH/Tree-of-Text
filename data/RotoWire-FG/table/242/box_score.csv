@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,2,1,3,1,33,5,2,40,Dante,2,2,100,24,0,3,Dante Cunningham,7,1,Cunningham,F,1,New Orleans,0
+2,3,8,2,0,0,12,6,50,Anthony,11,9,82,37,0,3,Anthony Davis,21,8,Davis,F,3,New Orleans,3
+0,0,4,0,0,0,4,4,100,Omer,0,0,0,20,2,2,Omer Asik,8,6,Asik,C,0,New Orleans,0
+3,0,2,4,2,50,7,2,29,Eric,4,4,100,37,0,3,Eric Gordon,10,2,Gordon,G,1,New Orleans,3
+4,0,1,3,0,0,12,5,42,Norris,0,0,0,30,0,0,Norris Cole,10,1,Cole,G,2,New Orleans,4
+0,0,3,5,2,40,14,6,43,Ryan,0,0,0,27,1,3,Ryan Anderson,14,4,Anderson,N/A,1,New Orleans,0
+9,0,2,2,1,50,13,9,69,Jrue,4,4,100,29,0,2,Jrue Holiday,23,2,Holiday,N/A,0,New Orleans,3
+0,0,3,0,0,0,5,2,40,Alexis,0,0,0,12,1,3,Alexis Ajinca,4,4,Ajinca,N/A,0,New Orleans,0
+1,0,4,0,0,0,2,0,0,Alonzo,2,2,100,24,2,3,Alonzo Gee,2,6,Gee,N/A,0,New Orleans,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luke,N/A,N/A,N/A,N/A,N/A,N/A,Luke Babbitt,N/A,N/A,Babbitt,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Toney,N/A,N/A,N/A,N/A,N/A,N/A,Toney Douglas,N/A,N/A,Douglas,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyreke,N/A,N/A,N/A,N/A,N/A,N/A,Tyreke Evans,N/A,N/A,Evans,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kendrick,N/A,N/A,N/A,N/A,N/A,N/A,Kendrick Perkins,N/A,N/A,Perkins,N/A,N/A,New Orleans,N/A
+1,0,3,0,0,0,5,2,40,Tony,2,2,100,24,2,4,Tony Allen,6,5,Allen,F,2,Memphis,1
+1,0,5,0,0,0,9,3,33,Zach,2,2,100,24,3,3,Zach Randolph,8,8,Randolph,F,2,Memphis,0
+6,1,6,0,0,0,13,6,46,Marc,8,4,50,39,4,4,Marc Gasol,16,10,Gasol,C,2,Memphis,4
+1,0,4,4,2,50,11,6,55,Courtney,3,2,67,33,0,2,Courtney Lee,16,4,Lee,G,1,Memphis,0
+10,0,1,5,3,60,12,6,50,Mike,0,0,0,27,0,4,Mike Conley,15,1,Conley,G,0,Memphis,0
+5,0,1,0,0,0,1,0,0,Mario,4,3,75,21,0,3,Mario Chalmers,3,1,Chalmers,N/A,0,Memphis,3
+2,1,4,3,1,33,12,5,42,Jeff,6,5,83,27,2,1,Jeff Green,16,6,Green,N/A,2,Memphis,1
+1,0,3,6,2,33,9,5,56,Matt,4,4,100,28,0,4,Matt Barnes,16,3,Barnes,N/A,0,Memphis,1
+0,0,2,1,0,0,1,0,0,Vince,0,0,0,13,0,0,Vince Carter,0,2,Carter,N/A,0,Memphis,0
+0,1,0,0,0,0,2,2,100,JaMychal,1,1,100,4,0,0,JaMychal Green,5,0,Green,N/A,0,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarell,N/A,N/A,N/A,N/A,N/A,N/A,Jarell Martin,N/A,N/A,Martin,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandan,N/A,N/A,N/A,N/A,N/A,N/A,Brandan Wright,N/A,N/A,Wright,N/A,N/A,Memphis,N/A

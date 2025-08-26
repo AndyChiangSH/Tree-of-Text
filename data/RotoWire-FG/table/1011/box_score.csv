@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,9,12,3,25,18,4,22,Khris,3,3,100,39,0,2,Khris Middleton,14,9,Middleton,F,2,Milwaukee,5
+9,3,11,3,1,33,15,7,47,Giannis,7,5,71,40,2,4,Giannis Antetokounmpo,20,13,Antetokounmpo,F,1,Milwaukee,1
+0,1,8,4,1,25,10,6,60,Brook,2,2,100,27,0,2,Brook Lopez,15,8,Lopez,C,0,Milwaukee,0
+6,0,7,6,1,17,16,4,25,Malcolm,2,2,100,37,1,2,Malcolm Brogdon,11,8,Brogdon,G,2,Milwaukee,2
+4,0,1,9,4,44,13,6,46,Eric,1,1,100,36,0,3,Eric Bledsoe,17,1,Bledsoe,G,2,Milwaukee,4
+0,1,0,1,0,0,1,0,0,Thon,0,0,0,6,0,2,Thon Maker,0,0,Maker,N/A,0,Milwaukee,0
+0,0,1,1,1,100,2,2,100,Tony,0,0,0,8,0,0,Tony Snell,5,1,Snell,N/A,0,Milwaukee,0
+2,0,1,7,3,43,10,4,40,Pat,5,4,80,26,4,3,Pat Connaughton,15,5,Connaughton,N/A,0,Milwaukee,1
+1,0,0,1,0,0,1,0,0,Matthew,0,0,0,6,0,0,Matthew Dellavedova,0,0,Dellavedova,N/A,0,Milwaukee,0
+0,0,0,0,0,0,1,1,100,Sterling,1,0,0,7,1,1,Sterling Brown,2,1,Brown,N/A,0,Milwaukee,1
+1,0,0,2,2,100,3,3,100,Donte,0,0,0,11,2,3,Donte DiVincenzo,8,2,DiVincenzo,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen,N/A,N/A,N/A,N/A,N/A,N/A,Jaylen Morris,N/A,N/A,Morris,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Christian,N/A,N/A,N/A,N/A,N/A,N/A,Christian Wood,N/A,N/A,Wood,N/A,N/A,Milwaukee,N/A
+2,0,1,2,1,50,4,3,75,Nicolas,0,0,0,34,2,3,Nicolas Batum,7,3,Batum,F,1,Charlotte,1
+0,1,8,6,4,67,11,6,55,Marvin,0,0,0,37,0,4,Marvin Williams,16,8,Williams,F,1,Charlotte,2
+1,0,6,0,0,0,5,4,80,Cody,2,0,0,19,1,3,Cody Zeller,8,7,Zeller,C,0,Charlotte,2
+4,0,8,4,2,50,15,8,53,Jeremy,4,3,75,37,0,4,Jeremy Lamb,21,8,Lamb,G,2,Charlotte,1
+5,0,6,6,2,33,12,3,25,Kemba,16,13,81,38,0,2,Kemba Walker,21,6,Walker,G,2,Charlotte,2
+1,2,5,1,1,100,6,3,50,Michael,0,0,0,18,2,4,Michael Kidd-Gilchrist,7,7,Kidd-Gilchrist,N/A,1,Charlotte,1
+1,0,1,2,1,50,7,2,29,Malik,2,2,100,21,0,1,Malik Monk,7,1,Monk,N/A,1,Charlotte,0
+6,0,1,3,1,33,14,7,50,Tony,2,0,0,21,0,0,Tony Parker,15,1,Parker,N/A,1,Charlotte,1
+0,2,1,3,0,0,5,1,20,Miles,4,3,75,11,0,1,Miles Bridges,5,1,Bridges,N/A,0,Charlotte,0
+1,0,2,2,1,50,2,1,50,Frank,0,0,0,4,0,0,Frank Kaminsky,3,2,Kaminsky,N/A,0,Charlotte,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwayne,N/A,N/A,N/A,N/A,N/A,N/A,Dwayne Bacon,N/A,N/A,Bacon,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Devonte',N/A,N/A,N/A,N/A,N/A,N/A,Devonte' Graham,N/A,N/A,Graham,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willy,N/A,N/A,N/A,N/A,N/A,N/A,Willy Hernangomez,N/A,N/A,Hernangomez,N/A,N/A,Charlotte,N/A

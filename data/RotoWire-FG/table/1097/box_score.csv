@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,1,1,1,100,9,5,56,Jayson,1,1,100,31,0,2,Jayson Tatum,12,1,Tatum,F,1,Boston,1
+1,0,4,4,1,25,11,4,36,Marcus,4,3,75,28,2,3,Marcus Morris,12,6,Morris,F,1,Boston,0
+3,1,2,3,1,33,15,9,60,Al,0,0,0,30,0,1,Al Horford,19,2,Horford,C,0,Boston,1
+5,0,4,1,0,0,3,2,67,Marcus,4,2,50,30,2,2,Marcus Smart,6,6,Smart,G,1,Boston,1
+10,1,4,6,3,50,24,14,58,Kyrie,6,6,100,41,1,3,Kyrie Irving,37,5,Irving,G,1,Boston,2
+3,2,1,3,1,33,6,2,33,Gordon,0,0,0,24,1,1,Gordon Hayward,5,2,Hayward,N/A,0,Boston,1
+1,0,3,6,1,17,9,1,11,Terry,0,0,0,16,0,1,Terry Rozier,3,3,Rozier,N/A,0,Boston,0
+2,2,4,0,0,0,3,3,100,Daniel,2,2,100,17,0,2,Daniel Theis,8,4,Theis,N/A,0,Boston,1
+0,0,3,5,2,40,12,5,42,Jaylen,4,2,50,23,0,3,Jaylen Brown,14,3,Brown,N/A,2,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Semi,N/A,N/A,N/A,N/A,N/A,N/A,Semi Ojeleye,N/A,N/A,Ojeleye,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brad,N/A,N/A,N/A,N/A,N/A,N/A,Brad Wanamaker,N/A,N/A,Wanamaker,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Williams III,N/A,N/A,Williams,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Guerschon,N/A,N/A,N/A,N/A,N/A,N/A,Guerschon Yabusele,N/A,N/A,Yabusele,N/A,N/A,Boston,N/A
+3,0,2,2,0,0,4,0,0,Otto,0,0,0,14,1,2,Otto Porter Jr.,0,3,Porter,F,0,Chicago,1
+2,0,12,7,3,43,20,12,60,Lauri,9,8,89,37,3,1,Lauri Markkanen,35,15,Markkanen,F,1,Chicago,1
+4,0,3,0,0,0,8,6,75,Robin,5,5,100,27,3,3,Robin Lopez,17,6,Lopez,C,0,Chicago,1
+4,0,5,11,5,46,29,17,59,Zach,3,3,100,39,1,5,Zach LaVine,42,6,LaVine,G,0,Chicago,5
+5,0,0,2,0,0,7,2,29,Kris,0,0,0,25,1,3,Kris Dunn,4,1,Dunn,G,0,Chicago,1
+4,0,3,3,2,67,4,2,50,Ryan,2,2,100,27,0,2,Ryan Arcidiacono,8,3,Arcidiacono,N/A,1,Chicago,1
+0,0,6,0,0,0,5,3,60,Cristiano,0,0,0,15,1,1,Cristiano Felicio,6,7,Felicio,N/A,0,Chicago,0
+2,1,5,3,1,33,6,3,50,Wayne,2,2,100,26,1,2,Wayne Selden,9,6,Selden,N/A,0,Chicago,3
+0,0,0,2,1,50,4,1,25,Timothe,0,0,0,11,0,2,Timothe Luwawu-Cabarrot,3,0,Luwawu-Cabarrot,N/A,0,Chicago,0
+2,1,2,0,0,0,1,1,100,Shaquille,0,0,0,19,0,1,Shaquille Harrison,2,2,Harrison,N/A,2,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Antonio,N/A,N/A,N/A,N/A,N/A,N/A,Antonio Blakeney,N/A,N/A,Blakeney,N/A,N/A,Chicago,N/A

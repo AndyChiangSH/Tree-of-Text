@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,12,6,3,50,13,6,46,Kawhi,2,2,100,31,3,4,Kawhi Leonard,17,15,Leonard,F,2,San Antonio,2
+2,1,2,0,0,0,10,6,60,Tim,4,4,100,29,3,3,Tim Duncan,16,5,Duncan,F,2,San Antonio,3
+1,1,0,0,0,0,4,2,50,Tiago,2,2,100,18,3,1,Tiago Splitter,6,3,Splitter,C,2,San Antonio,0
+2,1,1,8,2,25,12,2,17,Danny,0,0,0,31,1,3,Danny Green,6,2,Green,G,1,San Antonio,1
+7,0,3,1,1,100,16,8,50,Tony,2,1,50,32,1,2,Tony Parker,18,4,Parker,G,0,San Antonio,1
+1,0,0,3,2,67,3,2,67,Patty,0,0,0,15,1,2,Patty Mills,6,1,Mills,N/A,0,San Antonio,0
+0,1,3,0,0,0,3,3,100,Aron,9,9,100,15,1,3,Aron Baynes,15,4,Baynes,N/A,0,San Antonio,3
+8,0,3,4,1,25,12,4,33,Manu,6,2,33,24,1,3,Manu Ginobili,11,4,Ginobili,N/A,1,San Antonio,1
+1,0,1,0,0,0,2,1,50,Cory,0,0,0,12,0,1,Cory Joseph,2,1,Joseph,N/A,1,San Antonio,2
+2,1,3,5,2,40,8,4,50,Boris,0,0,0,27,0,3,Boris Diaw,10,3,Diaw,N/A,1,San Antonio,2
+0,0,1,0,0,0,1,0,0,Matt,2,2,100,6,0,1,Matt Bonner,2,1,Bonner,N/A,0,San Antonio,1
+0,0,1,0,0,0,0,0,0,JaMychal,0,0,0,1,0,1,JaMychal Green,0,1,Green,N/A,0,San Antonio,0
+0,0,0,0,0,0,0,0,0,Jeff,0,0,0,0,0,0,Jeff Ayres,0,0,Ayres,N/A,0,San Antonio,0
+2,0,4,1,0,0,11,5,46,Wilson,3,1,33,38,1,4,Wilson Chandler,11,5,Chandler,F,0,Denver,2
+1,0,9,0,0,0,17,9,53,Kenneth,12,8,67,37,5,4,Kenneth Faried,26,14,Faried,F,0,Denver,1
+2,0,6,0,0,0,9,5,56,Jusuf,0,0,0,26,3,2,Jusuf Nurkic,10,9,Nurkic,C,0,Denver,3
+2,0,4,6,3,50,11,6,55,Arron,8,6,75,33,0,4,Arron Afflalo,21,4,Afflalo,G,3,Denver,3
+8,0,2,1,0,0,6,2,33,Ty,0,0,0,34,0,2,Ty Lawson,4,2,Lawson,G,2,Denver,1
+6,0,2,3,0,0,11,4,36,Jameer,0,0,0,24,1,2,Jameer Nelson,8,3,Nelson,N/A,0,Denver,4
+3,0,1,1,0,0,8,3,38,JJ,4,3,75,19,2,3,JJ Hickson,9,3,Hickson,N/A,1,Denver,0
+1,0,2,1,1,100,3,2,67,Darrell,0,0,0,16,0,2,Darrell Arthur,5,2,Arthur,N/A,1,Denver,1
+1,0,0,1,1,100,3,1,33,Randy,2,2,100,14,0,0,Randy Foye,5,0,Foye,N/A,0,Denver,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alonzo,N/A,N/A,N/A,N/A,N/A,N/A,Alonzo Gee,N/A,N/A,Gee,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gary,N/A,N/A,N/A,N/A,N/A,N/A,Gary Harris,N/A,N/A,Harris,N/A,N/A,Denver,N/A

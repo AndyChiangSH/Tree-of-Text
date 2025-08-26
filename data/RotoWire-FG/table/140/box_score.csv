@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,3,2,67,10,6,60,Kent,2,1,50,35,0,5,Kent Bazemore,15,2,Bazemore,F,3,Atlanta,3
+4,0,5,4,2,50,15,8,53,Paul,5,4,80,39,0,4,Paul Millsap,22,5,Millsap,F,2,Atlanta,4
+2,0,4,0,0,0,7,3,43,Elton,2,1,50,29,4,3,Elton Brand,7,8,Brand,C,0,Atlanta,0
+3,1,6,7,2,29,9,2,22,Kyle,1,1,100,36,0,4,Kyle Korver,7,6,Korver,G,4,Atlanta,2
+10,0,2,1,1,100,14,5,36,Dennis,6,5,83,35,2,0,Dennis Schroder,16,4,Schroder,G,2,Atlanta,5
+0,0,7,4,3,75,6,4,67,John,1,1,100,22,0,2,John Jenkins,12,7,Jenkins,N/A,1,Atlanta,2
+1,4,0,2,0,0,6,2,33,Mike,1,1,100,16,1,0,Mike Muscala,5,1,Muscala,N/A,0,Atlanta,0
+1,0,2,1,0,0,5,4,80,Mike,2,1,50,16,1,1,Mike Scott,9,3,Scott,N/A,0,Atlanta,0
+1,0,1,3,0,0,7,0,0,Shelvin,0,0,0,13,0,0,Shelvin Mack,0,1,Mack,N/A,0,Atlanta,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pero,N/A,N/A,N/A,N/A,N/A,N/A,Pero Antic,N/A,N/A,Antic,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeMarre,N/A,N/A,N/A,N/A,N/A,N/A,DeMarre Carroll,N/A,N/A,Carroll,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Al,N/A,N/A,N/A,N/A,N/A,N/A,Al Horford,N/A,N/A,Horford,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Teague,N/A,N/A,Teague,N/A,N/A,Atlanta,N/A
+1,0,2,5,2,40,7,2,29,Luol,2,2,100,40,2,0,Luol Deng,8,4,Deng,F,0,Miami,8
+1,0,2,11,2,18,16,3,19,Henry,2,2,100,26,0,3,Henry Walker,10,2,Walker,F,0,Miami,2
+0,2,16,0,0,0,8,6,75,Hassan,2,2,100,34,8,2,Hassan Whiteside,14,24,Whiteside,C,0,Miami,1
+4,0,3,1,0,0,17,9,53,Dwyane,4,4,100,31,1,1,Dwyane Wade,22,4,Wade,G,3,Miami,4
+6,0,2,2,0,0,7,2,29,Goran,2,2,100,35,1,1,Goran Dragic,6,3,Dragic,G,2,Miami,3
+4,1,1,4,2,50,13,5,39,Mario,5,4,80,35,0,3,Mario Chalmers,16,1,Chalmers,N/A,5,Miami,2
+0,0,2,3,1,33,12,4,33,Michael,0,0,0,25,1,6,Michael Beasley,9,3,Beasley,N/A,2,Miami,3
+1,0,5,0,0,0,1,1,100,Udonis,4,4,100,14,1,0,Udonis Haslem,6,6,Haslem,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zoran,N/A,N/A,N/A,N/A,N/A,N/A,Zoran Dragic,N/A,N/A,Dragic,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Ennis III,N/A,N/A,Ennis,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Johnson,N/A,N/A,Johnson,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Miami,N/A

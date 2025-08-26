@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,7,5,1,20,27,14,52,Andrew,9,7,78,40,1,2,Andrew Wiggins,36,8,Wiggins,F,2,Minnesota,3
+2,2,10,0,0,0,4,1,25,Gorgui,2,2,100,39,1,6,Gorgui Dieng,4,11,Dieng,F,1,Minnesota,2
+4,1,10,3,1,33,16,8,50,Karl-Anthony,7,7,100,39,6,4,Karl-Anthony Towns,24,16,Towns,C,1,Minnesota,3
+0,0,2,3,0,0,4,1,25,Brandon,0,0,0,36,0,1,Brandon Rush,2,2,Rush,G,1,Minnesota,0
+5,1,7,3,1,33,19,8,42,Ricky,2,2,100,39,0,0,Ricky Rubio,19,7,Rubio,G,1,Minnesota,2
+1,0,1,1,0,0,4,2,50,Omri,0,0,0,16,1,4,Omri Casspi,4,2,Casspi,N/A,0,Minnesota,1
+0,0,1,0,0,0,2,0,0,Kris,0,0,0,9,0,0,Kris Dunn,0,1,Dunn,N/A,0,Minnesota,0
+0,0,0,2,1,50,7,3,43,Shabazz,0,0,0,12,0,1,Shabazz Muhammad,7,0,Muhammad,N/A,0,Minnesota,0
+1,0,0,0,0,0,3,1,33,Tyus,0,0,0,8,0,0,Tyus Jones,2,0,Jones,N/A,1,Minnesota,2
+0,0,0,1,0,0,1,0,0,Adreian,0,0,0,2,0,2,Adreian Payne,0,0,Payne,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nemanja,N/A,N/A,N/A,N/A,N/A,N/A,Nemanja Bjelica,N/A,N/A,Bjelica,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+0,0,1,0,0,0,5,2,40,Maurice,0,0,0,29,0,3,Maurice Harkless,4,1,Harkless,F,1,Portland,1
+0,1,7,7,3,43,11,4,36,Al-Farouq,7,4,57,40,0,1,Al-Farouq Aminu,15,7,Aminu,F,2,Portland,2
+1,2,4,0,0,0,3,2,67,Noah,5,5,100,23,3,3,Noah Vonleh,9,7,Vonleh,C,0,Portland,1
+5,0,1,4,2,50,19,8,42,CJ,0,0,0,35,1,2,CJ McCollum,18,2,McCollum,G,1,Portland,2
+8,0,9,9,1,11,21,7,33,Damian,7,7,100,37,0,2,Damian Lillard,22,9,Lillard,G,1,Portland,4
+3,0,5,10,8,80,12,8,67,Allen,1,1,100,32,0,4,Allen Crabbe,25,5,Crabbe,N/A,1,Portland,1
+0,0,3,3,0,0,4,1,25,Meyers,0,0,0,16,0,2,Meyers Leonard,2,3,Leonard,N/A,1,Portland,0
+2,1,7,0,0,0,6,3,50,Evan,6,4,67,29,0,3,Evan Turner,10,7,Turner,N/A,1,Portland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Quarterman,N/A,N/A,Quarterman,N/A,N/A,Portland,N/A

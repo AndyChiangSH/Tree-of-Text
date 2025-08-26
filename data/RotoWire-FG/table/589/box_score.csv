@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,8,1,0,0,14,7,50,Giannis,11,9,82,31,1,3,Giannis Antetokounmpo,23,9,Antetokounmpo,F,0,Milwaukee,2
+0,0,1,3,1,33,7,2,29,Ersan,1,1,100,21,0,3,Ersan Ilyasova,6,1,Ilyasova,F,0,Milwaukee,1
+2,0,3,0,0,0,5,4,80,Zaza,1,1,100,20,2,1,Zaza Pachulia,9,5,Pachulia,C,1,Milwaukee,0
+7,0,1,1,0,0,13,8,62,Michael,5,3,60,31,0,1,Michael Carter-Williams,19,1,Carter-Williams,G,4,Milwaukee,2
+2,0,5,6,3,50,16,9,56,Khris,1,1,100,35,2,2,Khris Middleton,22,7,Middleton,G,6,Milwaukee,3
+0,2,2,0,0,0,1,1,100,John,2,1,50,21,0,4,John Henson,3,2,Henson,N/A,1,Milwaukee,2
+3,0,1,2,1,50,7,3,43,O.J.,4,2,50,24,0,1,O.J. Mayo,9,1,Mayo,N/A,1,Milwaukee,2
+1,0,4,2,0,0,5,2,40,Jared,2,1,50,27,0,5,Jared Dudley,5,4,Dudley,N/A,3,Milwaukee,1
+2,0,1,1,1,100,3,1,33,Jerryd,0,0,0,14,0,0,Jerryd Bayless,3,1,Bayless,N/A,0,Milwaukee,3
+0,0,0,1,0,0,3,0,0,Tyler,0,0,0,6,0,1,Tyler Ennis,0,0,Ennis,N/A,1,Milwaukee,1
+0,0,1,0,0,0,1,0,0,Miles,0,0,0,7,0,1,Miles Plumlee,0,1,Plumlee,N/A,0,Milwaukee,0
+0,0,1,0,0,0,1,0,0,Johnny,2,0,0,2,0,0,Johnny O'Bryant III,0,1,O'Bryant,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jorge,N/A,N/A,N/A,N/A,N/A,N/A,Jorge Gutierrez,N/A,N/A,Gutierrez,N/A,N/A,Milwaukee,N/A
+2,0,6,1,0,0,10,2,20,Quincy,3,3,100,32,0,3,Quincy Acy,7,6,Acy,F,0,New York,1
+2,0,1,2,2,100,6,6,100,Lance,2,2,100,35,0,3,Lance Thomas,16,1,Thomas,F,0,New York,1
+2,1,4,0,0,0,3,2,67,Cole,1,0,0,13,0,2,Cole Aldrich,4,4,Aldrich,C,0,New York,3
+4,0,3,6,2,33,16,8,50,Langston,2,2,100,35,0,5,Langston Galloway,20,3,Galloway,G,2,New York,2
+1,0,5,3,1,33,7,2,29,Tim,3,2,67,25,0,1,Tim Hardaway Jr.,7,5,Hardaway,G,1,New York,5
+2,2,9,0,0,0,8,4,50,Lou,5,2,40,25,2,2,Lou Amundson,10,11,Amundson,N/A,0,New York,1
+5,0,3,0,0,0,6,5,83,Shane,4,4,100,32,0,4,Shane Larkin,14,3,Larkin,N/A,2,New York,4
+3,1,6,0,0,0,10,4,40,Jason,4,3,75,27,1,5,Jason Smith,11,7,Smith,N/A,1,New York,5
+1,1,0,1,0,0,6,1,17,Ricky,0,0,0,16,2,1,Ricky Ledo,2,2,Ledo,N/A,1,New York,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrea,N/A,N/A,N/A,N/A,N/A,N/A,Andrea Bargnani,N/A,N/A,Bargnani,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cleanthony,N/A,N/A,N/A,N/A,N/A,N/A,Cleanthony Early,N/A,N/A,Early,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Travis,N/A,N/A,N/A,N/A,N/A,N/A,Travis Wear,N/A,N/A,Wear,N/A,N/A,New York,N/A

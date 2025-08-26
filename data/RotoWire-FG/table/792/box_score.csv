@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,3,2,0,0,6,1,17,Taurean,2,2,100,32,1,1,Taurean Prince,4,4,Prince,F,3,Atlanta,2
+1,0,3,9,4,44,11,4,36,Luke,0,0,0,30,0,3,Luke Babbitt,12,3,Babbitt,F,0,Atlanta,2
+1,0,3,1,1,100,5,5,100,Dewayne,0,0,0,13,3,4,Dewayne Dedmon,11,6,Dedmon,C,0,Atlanta,1
+7,0,4,7,3,43,15,7,47,Kent,6,5,83,30,0,0,Kent Bazemore,22,4,Bazemore,G,3,Atlanta,1
+5,0,2,4,0,0,18,5,28,Dennis,1,1,100,33,0,3,Dennis Schroder,11,2,Schroder,G,2,Atlanta,4
+1,0,2,0,0,0,10,6,60,John,0,0,0,22,4,4,John Collins,12,6,Collins,N/A,0,Atlanta,2
+3,0,3,6,4,67,10,5,50,Marco,0,0,0,27,0,0,Marco Belinelli,14,3,Belinelli,N/A,4,Atlanta,2
+2,0,1,2,1,50,2,1,50,Isaiah,0,0,0,15,0,1,Isaiah Taylor,3,1,Taylor,N/A,0,Atlanta,1
+0,0,0,1,0,0,3,0,0,Malcolm,0,0,0,20,1,0,Malcolm Delaney,0,1,Delaney,N/A,2,Atlanta,1
+2,0,5,4,4,100,7,6,86,Tyler,0,0,0,18,1,2,Tyler Cavanaugh,16,6,Cavanaugh,N/A,0,Atlanta,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas Brussino,N/A,N/A,Brussino,N/A,N/A,Atlanta,N/A
+0,0,1,5,1,20,7,2,29,Dante,0,0,0,19,1,1,Dante Cunningham,5,2,Cunningham,F,1,New Orleans,0
+7,4,8,1,0,0,7,5,71,Anthony,5,3,60,38,2,2,Anthony Davis,13,10,Davis,F,2,New Orleans,5
+7,0,15,6,3,50,12,6,50,DeMarcus,10,7,70,35,1,1,DeMarcus Cousins,22,16,Cousins,C,3,New Orleans,7
+4,0,1,5,2,40,18,11,61,E'Twaun,0,0,0,34,1,3,E'Twaun Moore,24,2,Moore,G,1,New Orleans,2
+5,1,5,3,1,33,12,6,50,Jrue,0,0,0,43,0,0,Jrue Holiday,13,5,Holiday,G,1,New Orleans,2
+2,0,0,0,0,0,1,1,100,Rajon,0,0,0,5,0,1,Rajon Rondo,2,0,Rondo,N/A,0,New Orleans,1
+0,0,0,0,0,0,0,0,0,Cheick,0,0,0,2,0,0,Cheick Diallo,0,0,Diallo,N/A,0,New Orleans,0
+1,0,0,8,5,62,11,8,73,Darius,0,0,0,22,1,2,Darius Miller,21,1,Miller,N/A,1,New Orleans,0
+2,0,1,2,1,50,3,2,67,Jameer,2,1,50,22,1,1,Jameer Nelson,6,2,Nelson,N/A,0,New Orleans,1
+3,0,0,3,0,0,4,0,0,Ian,0,0,0,20,0,2,Ian Clark,0,0,Clark,N/A,1,New Orleans,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Allen,N/A,N/A,Allen,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charles,N/A,N/A,N/A,N/A,N/A,N/A,Charles Cooke,N/A,N/A,Cooke,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jalen,N/A,N/A,N/A,N/A,N/A,N/A,Jalen Jones,N/A,N/A,Jones,N/A,N/A,New Orleans,N/A

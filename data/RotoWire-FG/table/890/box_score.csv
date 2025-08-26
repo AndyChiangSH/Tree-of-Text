@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,8,4,50,14,7,50,Harrison,0,0,0,34,0,2,Harrison Barnes,18,2,Barnes,F,1,Dallas,1
+1,0,7,7,3,43,9,5,56,Dirk,2,2,100,26,0,0,Dirk Nowitzki,15,7,Nowitzki,F,0,Dallas,1
+1,0,5,0,0,0,9,7,78,Dwight,3,3,100,31,4,1,Dwight Powell,17,9,Powell,C,1,Dallas,1
+3,0,0,2,1,50,7,5,71,Wesley,0,0,0,31,0,0,Wesley Matthews,11,0,Matthews,G,2,Dallas,1
+5,0,4,6,0,0,15,4,27,Dennis,7,4,57,32,1,3,Dennis Smith Jr.,12,5,Smith,G,2,Dallas,5
+2,0,2,0,0,0,4,3,75,Salah,2,2,100,14,2,0,Salah Mejri,8,4,Mejri,N/A,1,Dallas,1
+1,0,2,7,3,43,8,4,50,Yogi,0,0,0,30,1,2,Yogi Ferrell,11,3,Ferrell,N/A,0,Dallas,0
+11,0,1,9,1,11,12,2,17,J.J.,0,0,0,24,0,3,J.J. Barea,5,1,Barea,N/A,0,Dallas,3
+3,0,3,2,1,50,5,4,80,Devin,0,0,0,17,1,0,Devin Harris,9,4,Harris,N/A,1,Dallas,0
+0,0,1,0,0,0,0,0,0,Maxi,0,0,0,1,0,1,Maxi Kleber,0,1,Kleber,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh McRoberts,N/A,N/A,McRoberts,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan Motley,N/A,N/A,Motley,N/A,N/A,Dallas,N/A
+0,0,4,2,0,0,4,2,50,Justin,0,0,0,24,1,0,Justin Jackson,4,5,Jackson,F,1,Sacramento,1
+1,1,7,0,0,0,12,7,58,Willie,0,0,0,31,1,3,Willie Cauley-Stein,14,8,Cauley-Stein,F,2,Sacramento,2
+3,0,2,4,2,50,10,6,60,Zach,0,0,0,21,3,4,Zach Randolph,14,5,Randolph,C,0,Sacramento,5
+6,0,0,4,1,25,5,2,40,Bogdan,2,2,100,26,1,2,Bogdan Bogdanovic,7,1,Bogdanovic,G,1,Sacramento,1
+4,0,1,3,0,0,13,7,54,De'Aaron,2,1,50,35,0,3,De'Aaron Fox,15,1,Fox,G,3,Sacramento,2
+2,0,1,3,1,33,10,6,60,Garrett,2,2,100,31,0,3,Garrett Temple,15,1,Temple,N/A,2,Sacramento,1
+1,0,1,5,1,20,6,1,17,Vince,0,0,0,15,0,1,Vince Carter,3,1,Carter,N/A,0,Sacramento,0
+3,0,0,0,0,0,2,2,100,George,0,0,0,15,0,0,George Hill,4,0,Hill,N/A,1,Sacramento,1
+0,1,3,6,3,50,13,5,38,Buddy,0,0,0,21,0,1,Buddy Hield,13,3,Hield,N/A,1,Sacramento,2
+1,0,6,0,0,0,5,4,80,Kosta,0,0,0,14,1,2,Kosta Koufos,8,7,Koufos,N/A,0,Sacramento,0
+2,1,0,0,0,0,2,1,50,JaKarr,0,0,0,8,0,2,JaKarr Sampson,2,0,Sampson,N/A,0,Sacramento,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Georgios,N/A,N/A,N/A,N/A,N/A,N/A,Georgios Papagiannis,N/A,N/A,Papagiannis,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malachi,N/A,N/A,N/A,N/A,N/A,N/A,Malachi Richardson,N/A,N/A,Richardson,N/A,N/A,Sacramento,N/A

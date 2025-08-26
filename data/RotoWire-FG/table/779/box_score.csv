@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,3,5,2,40,14,8,57,Bojan,3,3,100,35,1,2,Bojan Bogdanovic,21,4,Bogdanovic,F,2,Indiana,0
+1,1,3,5,1,20,14,7,50,Thaddeus,0,0,0,38,2,4,Thaddeus Young,15,5,Young,F,1,Indiana,0
+3,0,5,0,0,0,9,6,67,Domantas,4,2,50,24,1,6,Domantas Sabonis,14,6,Sabonis,C,0,Indiana,2
+7,1,4,7,3,43,20,12,60,Victor,5,4,80,37,1,0,Victor Oladipo,31,5,Oladipo,G,0,Indiana,3
+5,0,2,3,0,0,9,1,11,Darren,0,0,0,30,0,2,Darren Collison,2,2,Collison,G,0,Indiana,0
+3,0,2,1,0,0,5,3,60,Lance,0,0,0,19,1,2,Lance Stephenson,6,3,Stephenson,N/A,1,Indiana,2
+0,3,7,4,1,25,14,4,29,Myles,6,2,33,24,2,2,Myles Turner,11,9,Turner,N/A,1,Indiana,1
+3,1,4,2,1,50,8,2,25,Cory,0,0,0,22,0,0,Cory Joseph,5,4,Joseph,N/A,0,Indiana,2
+0,0,1,0,0,0,2,1,50,TJ,0,0,0,6,0,0,TJ Leaf,2,1,Leaf,N/A,1,Indiana,1
+1,0,1,1,0,0,2,1,50,Joe,1,1,100,6,0,0,Joe Young,3,1,Young,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ike,N/A,N/A,N/A,N/A,N/A,N/A,Ike Anigbogu,N/A,N/A,Anigbogu,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Al,N/A,N/A,N/A,N/A,N/A,N/A,Al Jefferson,N/A,N/A,Jefferson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alex,N/A,N/A,N/A,N/A,N/A,N/A,Alex Poythress,N/A,N/A,Poythress,N/A,N/A,Indiana,N/A
+2,1,6,9,5,56,13,8,62,Robert,2,1,50,32,0,2,Robert Covington,22,6,Covington,F,0,Philadelphia,2
+1,0,5,5,3,60,9,6,67,Dario,0,0,0,21,1,2,Dario Saric,15,6,Saric,F,0,Philadelphia,1
+5,2,7,1,0,0,15,7,47,Joel,5,4,80,28,2,4,Joel Embiid,18,9,Embiid,C,2,Philadelphia,6
+6,0,3,12,8,67,19,11,58,JJ,1,1,100,33,0,2,JJ Redick,31,3,Redick,G,0,Philadelphia,1
+11,3,9,0,0,0,13,5,38,Ben,4,4,100,39,2,3,Ben Simmons,14,11,Simmons,G,2,Philadelphia,5
+4,0,4,0,0,0,3,1,33,T.J.,2,1,50,26,1,1,T.J. McConnell,3,5,McConnell,N/A,2,Philadelphia,1
+1,2,0,0,0,0,1,1,100,Amir,0,0,0,10,2,2,Amir Johnson,2,2,Johnson,N/A,0,Philadelphia,0
+2,1,3,3,0,0,7,2,29,Jerryd,0,0,0,28,0,2,Jerryd Bayless,4,3,Bayless,N/A,1,Philadelphia,0
+1,0,0,5,2,40,5,2,40,Timothe,0,0,0,13,0,1,Timothe Luwawu-Cabarrot,6,0,Luwawu-Cabarrot,N/A,0,Philadelphia,2
+1,0,1,1,0,0,7,3,43,Richaun,0,0,0,10,4,1,Richaun Holmes,6,5,Holmes,N/A,0,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Anderson,N/A,N/A,Anderson,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil Okafor,N/A,N/A,Okafor,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nik,N/A,N/A,N/A,N/A,N/A,N/A,Nik Stauskas,N/A,N/A,Stauskas,N/A,N/A,Philadelphia,N/A

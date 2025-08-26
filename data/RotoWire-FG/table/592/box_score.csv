@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,5,4,2,50,10,4,40,Danilo,4,4,100,35,1,0,Danilo Gallinari,14,6,Gallinari,F,0,Denver,1
+0,0,2,0,0,0,0,0,0,Kenneth,0,0,0,14,0,1,Kenneth Faried,0,2,Faried,F,0,Denver,0
+4,2,4,3,0,0,15,8,53,Nikola,2,2,100,27,5,5,Nikola Jokic,18,9,Jokic,C,2,Denver,4
+3,0,3,4,2,50,13,9,69,Gary,2,2,100,35,2,1,Gary Harris,22,5,Harris,G,1,Denver,2
+2,0,2,3,0,0,9,4,44,Jameer,2,1,50,28,0,3,Jameer Nelson,9,2,Nelson,G,0,Denver,4
+0,1,4,2,1,50,11,6,55,Wilson,5,4,80,34,2,2,Wilson Chandler,17,6,Chandler,N/A,1,Denver,3
+6,1,2,0,0,0,2,0,0,Will,2,1,50,26,0,1,Will Barton,1,2,Barton,N/A,1,Denver,2
+3,0,4,2,0,0,13,7,54,Jamal,4,3,75,20,1,2,Jamal Murray,17,5,Murray,N/A,1,Denver,0
+4,3,3,6,2,33,9,4,44,Darrell,0,0,0,21,1,4,Darrell Arthur,10,4,Arthur,N/A,0,Denver,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malik,N/A,N/A,N/A,N/A,N/A,N/A,Malik Beasley,N/A,N/A,Beasley,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Juan,N/A,N/A,N/A,N/A,N/A,N/A,Juan Hernangomez,N/A,N/A,Hernangomez,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jusuf,N/A,N/A,N/A,N/A,N/A,N/A,Jusuf Nurkic,N/A,N/A,Nurkic,N/A,N/A,Denver,N/A
+4,1,4,3,1,33,20,10,50,Andrew,4,3,75,39,0,5,Andrew Wiggins,24,4,Wiggins,F,1,Minnesota,2
+1,1,1,0,0,0,3,2,67,Gorgui,0,0,0,17,0,3,Gorgui Dieng,4,1,Dieng,F,2,Minnesota,0
+7,4,10,0,0,0,19,13,68,Karl-Anthony,8,6,75,40,2,4,Karl-Anthony Towns,32,12,Towns,C,0,Minnesota,6
+1,0,2,3,0,0,8,2,25,Zach,0,0,0,33,0,0,Zach LaVine,4,2,LaVine,G,2,Minnesota,0
+9,1,7,2,2,100,8,3,38,Kris,4,2,50,34,1,4,Kris Dunn,10,8,Dunn,G,3,Minnesota,1
+1,0,2,1,0,0,5,3,60,Nemanja,2,2,100,19,2,4,Nemanja Bjelica,8,4,Bjelica,N/A,0,Minnesota,1
+1,0,2,5,2,40,14,9,64,Shabazz,0,0,0,33,3,1,Shabazz Muhammad,20,5,Muhammad,N/A,1,Minnesota,2
+4,1,0,1,1,100,8,3,38,Tyus,3,2,67,19,0,2,Tyus Jones,9,0,Jones,N/A,1,Minnesota,1
+1,0,0,0,0,0,0,0,0,Cole,0,0,0,6,0,1,Cole Aldrich,0,0,Aldrich,N/A,1,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Minnesota,N/A

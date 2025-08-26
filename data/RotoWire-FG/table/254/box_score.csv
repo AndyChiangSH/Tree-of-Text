@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,2,8,9,3,33,21,9,43,Robert,3,3,100,45,5,5,Robert Covington,24,13,Covington,F,5,Philadelphia,2
+0,1,5,5,2,40,14,6,43,Dario,4,4,100,26,0,6,Dario Saric,18,5,Saric,F,1,Philadelphia,1
+5,1,9,4,1,25,19,11,58,Richaun,1,1,100,42,5,6,Richaun Holmes,24,14,Holmes,C,1,Philadelphia,1
+2,0,3,2,0,0,4,0,0,Timothe,2,2,100,23,0,6,Timothe Luwawu-Cabarrot,2,3,Luwawu-Cabarrot,G,0,Philadelphia,1
+10,0,1,2,0,0,15,6,40,T.J.,4,4,100,34,0,0,T.J. McConnell,16,1,McConnell,G,3,Philadelphia,3
+2,1,4,9,3,33,17,6,35,Nik,6,5,83,39,1,2,Nik Stauskas,20,5,Stauskas,N/A,2,Philadelphia,5
+1,0,7,2,0,0,2,0,0,Justin,2,1,50,27,0,4,Justin Anderson,1,7,Anderson,N/A,1,Philadelphia,2
+4,0,2,1,0,0,8,0,0,Sergio,0,0,0,19,1,1,Sergio Rodriguez,0,3,Rodriguez,N/A,0,Philadelphia,0
+2,2,1,0,0,0,2,1,50,Shawn,2,2,100,11,1,4,Shawn Long,4,2,Long,N/A,2,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Henderson,N/A,N/A,Henderson,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil,N/A,N/A,N/A,N/A,N/A,N/A,Jahlil Okafor,N/A,N/A,Okafor,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tiago,N/A,N/A,N/A,N/A,N/A,N/A,Tiago Splitter,N/A,N/A,Splitter,N/A,N/A,Philadelphia,N/A
+2,1,5,9,2,22,15,4,27,Terrence,5,5,100,35,0,1,Terrence Ross,15,5,Ross,F,1,Orlando,4
+4,1,3,0,0,0,7,4,57,Aaron,11,9,82,32,0,6,Aaron Gordon,17,3,Gordon,F,0,Orlando,2
+2,0,8,1,0,0,23,10,44,Nikola,6,6,100,37,5,2,Nikola Vucevic,26,13,Vucevic,C,2,Orlando,0
+3,0,3,5,1,20,13,6,46,Evan,10,6,60,37,1,2,Evan Fournier,19,4,Fournier,G,2,Orlando,4
+4,1,8,0,0,0,9,5,56,Elfrid,0,0,0,31,5,5,Elfrid Payton,10,13,Payton,G,2,Orlando,4
+1,0,2,1,1,100,5,1,20,D.J.,2,2,100,18,1,0,D.J. Augustin,5,3,Augustin,N/A,1,Orlando,2
+1,0,2,3,0,0,4,0,0,Mario,0,0,0,19,0,2,Mario Hezonja,0,2,Hezonja,N/A,2,Orlando,1
+2,0,0,0,0,0,3,1,33,Jeff,2,2,100,16,0,0,Jeff Green,4,0,Green,N/A,0,Orlando,0
+0,1,4,0,0,0,5,3,60,Bismack,1,1,100,16,2,3,Bismack Biyombo,7,6,Biyombo,N/A,0,Orlando,0
+0,0,4,3,0,0,9,1,11,Jodie,9,7,78,20,0,1,Jodie Meeks,9,4,Meeks,N/A,0,Orlando,1
+0,0,2,1,0,0,1,0,0,C.J.,0,0,0,4,0,0,C.J. Watson,0,2,Watson,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damjan,N/A,N/A,N/A,N/A,N/A,N/A,Damjan Rudez,N/A,N/A,Rudez,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Wilcox,N/A,N/A,Wilcox,N/A,N/A,Orlando,N/A

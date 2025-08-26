@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,8,7,6,86,21,12,57,Tobias,2,2,100,38,1,2,Tobias Harris,32,9,Harris,F,0,LA,1
+3,0,11,5,5,100,11,8,73,Danilo,4,4,100,37,0,4,Danilo Gallinari,25,11,Gallinari,F,0,LA,2
+1,0,5,0,0,0,2,1,50,Marcin,2,0,0,11,0,1,Marcin Gortat,2,5,Gortat,C,1,LA,2
+2,0,2,3,2,67,8,4,50,Avery,2,2,100,31,1,4,Avery Bradley,12,3,Bradley,G,0,LA,1
+2,1,0,1,1,100,3,1,33,Shai,0,0,0,28,0,2,Shai Gilgeous-Alexander,3,0,Gilgeous-Alexander,G,0,LA,2
+2,0,3,1,0,0,11,6,55,Montrezl,3,1,33,26,0,4,Montrezl Harrell,13,3,Harrell,N/A,0,LA,2
+9,0,2,1,1,100,14,6,43,Lou,14,12,86,25,0,2,Lou Williams,25,2,Williams,N/A,0,LA,2
+2,0,2,3,2,67,7,3,43,Patrick,2,2,100,24,2,4,Patrick Beverley,10,4,Beverley,N/A,0,LA,3
+0,0,4,2,1,50,2,1,50,Mike,0,0,0,13,0,2,Mike Scott,3,4,Scott,N/A,0,LA,0
+0,0,0,0,0,0,1,1,100,Tyrone,0,0,0,8,1,0,Tyrone Wallace,2,1,Wallace,N/A,0,LA,0
+0,0,0,0,0,0,0,0,0,Sindarius,0,0,0,1,0,0,Sindarius Thornwell,0,0,Thornwell,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Milos,N/A,N/A,N/A,N/A,N/A,N/A,Milos Teodosic,N/A,N/A,Teodosic,N/A,N/A,LA,N/A
+5,3,12,7,3,43,19,10,53,Kevin,15,12,80,38,0,2,Kevin Durant,35,12,Durant,F,1,Golden State,1
+0,0,2,5,1,20,7,3,43,Jonas,0,0,0,21,1,5,Jonas Jerebko,7,3,Jerebko,F,0,Golden State,2
+6,1,1,5,2,40,12,4,33,Draymond,4,4,100,32,3,5,Draymond Green,14,4,Green,C,5,Golden State,2
+2,2,0,6,2,33,15,4,27,Klay,2,2,100,36,0,4,Klay Thompson,12,0,Thompson,G,0,Golden State,0
+2,0,3,15,6,40,22,12,55,Stephen,13,12,92,36,3,4,Stephen Curry,42,6,Curry,G,1,Golden State,0
+0,0,4,0,0,0,6,5,83,Kevon,0,0,0,22,3,2,Kevon Looney,10,7,Looney,N/A,1,Golden State,1
+0,0,3,1,0,0,4,3,75,Alfonzo,0,0,0,14,3,3,Alfonzo McKinnie,6,6,McKinnie,N/A,0,Golden State,0
+3,1,3,0,0,0,2,0,0,Andre,0,0,0,24,0,2,Andre Iguodala,0,3,Iguodala,N/A,0,Golden State,1
+4,0,3,1,0,0,6,1,17,Shaun,2,1,50,17,2,0,Shaun Livingston,3,5,Livingston,N/A,1,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Bell,N/A,N/A,Bell,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quinn,N/A,N/A,N/A,N/A,N/A,N/A,Quinn Cook,N/A,N/A,Cook,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damion,N/A,N/A,N/A,N/A,N/A,N/A,Damion Lee,N/A,N/A,Lee,N/A,N/A,Golden State,N/A

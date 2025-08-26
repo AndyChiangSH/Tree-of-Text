@@ -1,0 +1,40 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,7,00:31:26,0,1,Akane YAMAGUCHI,clear,goes out of bounds,opponent goes out of bounds
+2,6,00:31:45,1,1,Carolina MARIN,smash,opponent wins by landing,wins by landing
+3,9,00:32:20,1,2,Akane YAMAGUCHI,push,goes out of bounds,opponent goes out of bounds
+4,10,00:32:52,2,2,Carolina MARIN,drop,opponent wins by landing,wins by landing
+5,13,00:33:33,3,2,Carolina MARIN,rush,opponent wins by landing,wins by landing
+6,6,00:34:29,4,2,Carolina MARIN,wrist smash,goes out of bounds,opponent goes out of bounds
+7,5,00:34:53,4,3,Akane YAMAGUCHI,drive,hits the net,opponent hits the net
+8,6,00:35:12,4,4,Akane YAMAGUCHI,push,goes out of bounds,opponent goes out of bounds
+9,12,00:35:38,4,5,Akane YAMAGUCHI,drop,hits the net,opponent hits the net
+10,14,00:36:10,4,6,Akane YAMAGUCHI,net shot,hits the net,opponent hits the net
+11,9,00:36:44,5,6,Carolina MARIN,return net,hits the net,opponent hits the net
+12,9,00:37:21,5,7,Akane YAMAGUCHI,net shot,hits the net,opponent hits the net
+13,5,00:37:48,6,7,Carolina MARIN,return net,fails to clear the net,opponent fails to clear the net
+14,9,00:39:07,6,8,Akane YAMAGUCHI,net shot,hits the net,opponent hits the net
+15,10,00:39:33,7,8,Carolina MARIN,smash,opponent wins by landing,wins by landing
+16,10,00:40:08,8,8,Carolina MARIN,drop,goes out of bounds,opponent goes out of bounds
+17,21,00:41:00,9,8,Carolina MARIN,rush,opponent wins by landing,wins by landing
+18,11,00:41:38,10,8,Carolina MARIN,rush,opponent wins by landing,wins by landing
+19,2,00:42:18,10,9,Akane YAMAGUCHI,smash,opponent wins by landing,wins by landing
+20,13,00:42:53,11,9,Carolina MARIN,smash,hits the net,opponent hits the net
+21,7,00:44:31,12,9,Carolina MARIN,smash,opponent wins by landing,wins by landing
+22,10,00:45:02,13,9,Carolina MARIN,clear,goes out of bounds,opponent goes out of bounds
+23,2,00:45:30,14,9,Carolina MARIN,push,goes out of bounds,opponent goes out of bounds
+24,13,00:46:02,14,10,Akane YAMAGUCHI,back-court drive,hits the net,opponent hits the net
+25,31,00:47:00,15,10,Carolina MARIN,wrist smash,goes out of bounds,opponent goes out of bounds
+26,9,00:47:48,16,10,Carolina MARIN,drop,opponent wins by landing,wins by landing
+27,4,00:48:15,16,11,Akane YAMAGUCHI,net shot,landing judgment error,opponent landing judgment error
+28,26,00:49:01,17,11,Carolina MARIN,drop,opponent wins by landing,wins by landing
+29,10,00:49:50,17,12,Akane YAMAGUCHI,push,opponent wins by landing,wins by landing
+30,5,00:50:18,18,12,Carolina MARIN,drop,hits the net,opponent hits the net
+31,8,00:50:46,18,13,Akane YAMAGUCHI,rush,opponent wins by landing,wins by landing
+32,16,00:51:17,18,14,Akane YAMAGUCHI,net shot,fails to clear the net,opponent fails to clear the net
+33,4,00:51:57,18,15,Akane YAMAGUCHI,lob,goes out of bounds,opponent goes out of bounds
+34,7,00:52:22,19,15,Carolina MARIN,net shot,hits the net,opponent hits the net
+35,16,00:53:22,20,15,Carolina MARIN,smash,goes out of bounds,opponent goes out of bounds
+36,16,00:54:10,20,16,Akane YAMAGUCHI,wrist smash,opponent wins by landing,wins by landing
+37,9,00:54:39,20,17,Akane YAMAGUCHI,wrist smash,opponent wins by landing,wins by landing
+38,19,00:55:23,20,18,Akane YAMAGUCHI,clear,landing judgment error,opponent landing judgment error
+39,17,00:56:13,21,18,Carolina MARIN,smash,goes out of bounds,opponent goes out of bounds

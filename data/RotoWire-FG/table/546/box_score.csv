@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,2,4,2,0,0,18,5,28,Jimmy,4,3,75,34,1,1,Jimmy Butler,13,5,Butler,F,0,Chicago,0
+2,1,4,8,3,38,12,5,42,Nikola,4,4,100,32,1,3,Nikola Mirotic,17,5,Mirotic,F,1,Chicago,3
+3,1,5,0,0,0,8,6,75,Taj,1,1,100,35,5,3,Taj Gibson,13,10,Gibson,C,1,Chicago,1
+1,1,3,2,1,50,4,2,50,Justin,0,0,0,14,0,4,Justin Holiday,5,3,Holiday,G,0,Chicago,2
+4,1,4,2,1,50,11,8,73,E'Twaun,0,0,0,31,0,3,E'Twaun Moore,17,4,Moore,G,0,Chicago,0
+1,1,1,5,4,80,11,9,82,Doug,8,7,88,37,0,1,Doug McDermott,29,1,McDermott,N/A,0,Chicago,0
+1,0,1,1,0,0,4,1,25,Tony,0,0,0,12,0,1,Tony Snell,2,1,Snell,N/A,0,Chicago,1
+1,0,6,1,0,0,6,3,50,Bobby,0,0,0,23,1,3,Bobby Portis,6,7,Portis,N/A,0,Chicago,0
+0,0,2,0,0,0,1,0,0,Cristiano,0,0,0,6,0,1,Cristiano Felicio,0,2,Felicio,N/A,0,Chicago,0
+4,0,0,4,0,0,8,2,25,Aaron,3,3,100,17,0,2,Aaron Brooks,7,0,Brooks,N/A,0,Chicago,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Dunleavy,N/A,N/A,Dunleavy,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Rose,N/A,N/A,Rose,N/A,N/A,Chicago,N/A
+0,2,1,0,0,0,3,0,0,James,2,0,0,17,0,1,James Johnson,0,1,Johnson,F,0,Toronto,0
+0,0,2,2,0,0,5,2,40,Luis,0,0,0,16,0,1,Luis Scola,4,2,Scola,F,0,Toronto,0
+0,1,1,0,0,0,3,3,100,Jonas,2,2,100,10,1,0,Jonas Valanciunas,8,2,Valanciunas,C,0,Toronto,1
+2,0,4,1,0,0,22,10,46,DeMar,7,7,100,39,1,3,DeMar DeRozan,27,5,DeRozan,G,1,Toronto,1
+7,0,10,5,2,40,20,10,50,Kyle,13,11,85,41,1,4,Kyle Lowry,33,11,Lowry,G,3,Toronto,3
+1,0,2,3,1,33,4,1,25,Terrence,0,0,0,18,0,3,Terrence Ross,3,2,Ross,N/A,0,Toronto,0
+0,6,2,0,0,0,5,3,60,Bismack,0,0,0,26,4,2,Bismack Biyombo,6,6,Biyombo,N/A,0,Toronto,0
+0,0,1,1,0,0,8,2,25,Cory,2,2,100,26,1,0,Cory Joseph,6,2,Joseph,N/A,0,Toronto,0
+2,0,5,7,3,43,9,4,44,Patrick,2,2,100,32,1,2,Patrick Patterson,13,6,Patterson,N/A,0,Toronto,0
+0,0,1,1,0,0,2,0,0,Norman,0,0,0,4,0,1,Norman Powell,0,1,Powell,N/A,0,Toronto,0
+0,0,3,0,0,0,2,2,100,Jason,3,3,100,12,1,1,Jason Thompson,7,4,Thompson,N/A,1,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,N/A,Lucas Nogueira,N/A,N/A,Nogueira,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Delon,N/A,N/A,N/A,N/A,N/A,N/A,Delon Wright,N/A,N/A,Wright,N/A,N/A,Toronto,N/A

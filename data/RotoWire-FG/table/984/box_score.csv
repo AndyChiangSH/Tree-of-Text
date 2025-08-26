@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,3,2,67,7,3,43,Bojan,0,0,0,28,0,0,Bojan Bogdanovic,8,2,Bogdanovic,F,0,Indiana,1
+1,1,5,1,0,0,10,4,40,Thaddeus,0,0,0,31,4,2,Thaddeus Young,8,9,Young,F,1,Indiana,1
+3,6,2,3,0,0,10,7,70,Myles,4,4,100,27,1,4,Myles Turner,18,3,Turner,C,0,Indiana,4
+4,0,3,6,1,17,15,6,40,Darren,1,1,100,36,1,2,Darren Collison,14,4,Collison,G,2,Indiana,2
+5,1,12,6,1,17,19,9,47,Victor,6,6,100,36,2,1,Victor Oladipo,25,14,Oladipo,G,2,Indiana,0
+2,0,2,2,1,50,11,5,46,Tyreke,2,2,100,18,0,1,Tyreke Evans,13,2,Evans,N/A,1,Indiana,2
+2,0,4,0,0,0,3,2,67,Cory,1,0,0,23,0,0,Cory Joseph,4,4,Joseph,N/A,0,Indiana,0
+1,1,2,0,0,0,4,1,25,Domantas,8,7,88,21,1,3,Domantas Sabonis,9,3,Sabonis,N/A,1,Indiana,1
+2,0,0,4,2,50,4,2,50,Doug,0,0,0,14,0,0,Doug McDermott,6,0,McDermott,N/A,1,Indiana,0
+0,0,1,1,0,0,2,1,50,TJ,0,0,0,6,0,0,TJ Leaf,2,1,Leaf,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Holiday,N/A,N/A,Holiday,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle O'Quinn,N/A,N/A,O'Quinn,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Edmond,N/A,N/A,N/A,N/A,N/A,N/A,Edmond Sumner,N/A,N/A,Sumner,N/A,N/A,Indiana,N/A
+2,1,1,11,5,46,14,7,50,Justin,0,0,0,36,0,2,Justin Holiday,19,1,Holiday,F,0,Chicago,1
+2,0,6,1,0,0,12,5,42,Jabari,1,1,100,30,1,0,Jabari Parker,11,7,Parker,F,0,Chicago,4
+6,1,2,0,0,0,10,5,50,Wendell,1,1,100,24,6,5,Wendell Carter Jr.,11,8,Carter,C,1,Chicago,1
+5,1,6,7,2,29,21,7,33,Zach,4,4,100,35,0,5,Zach LaVine,20,6,LaVine,G,1,Chicago,4
+8,0,2,3,1,33,5,1,20,Cameron,0,0,0,25,0,3,Cameron Payne,3,2,Payne,G,0,Chicago,0
+2,1,7,0,0,0,6,4,67,Cristiano,2,1,50,21,2,2,Cristiano Felicio,9,9,Felicio,N/A,0,Chicago,2
+6,0,2,1,1,100,3,1,33,Ryan,0,0,0,22,0,0,Ryan Arcidiacono,3,2,Arcidiacono,N/A,0,Chicago,0
+1,1,3,3,1,33,5,3,60,Chandler,0,0,0,17,0,3,Chandler Hutchison,7,3,Hutchison,N/A,0,Chicago,1
+0,0,3,5,3,60,13,9,69,Antonio,1,1,100,26,0,0,Antonio Blakeney,22,3,Blakeney,N/A,0,Chicago,1
+1,2,0,0,0,0,0,0,0,Robin,0,0,0,4,2,0,Robin Lopez,0,2,Lopez,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shaquille,N/A,N/A,N/A,N/A,N/A,N/A,Shaquille Harrison,N/A,N/A,Harrison,N/A,N/A,Chicago,N/A

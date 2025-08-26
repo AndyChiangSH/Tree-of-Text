@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,5,2,40,19,7,37,Joe,5,3,60,34,2,4,Joe Johnson,19,6,Johnson,F,1,Brooklyn,2
+3,0,6,0,0,0,8,5,63,Kevin,0,0,0,23,0,2,Kevin Garnett,10,6,Garnett,F,0,Brooklyn,4
+0,2,3,0,0,0,2,2,100,Mason,0,0,0,11,1,4,Mason Plumlee,4,4,Plumlee,C,0,Brooklyn,2
+2,1,0,2,1,50,6,3,50,Bojan,0,0,0,26,0,3,Bojan Bogdanovic,7,0,Bogdanovic,G,0,Brooklyn,2
+8,1,3,3,0,0,16,6,38,Deron,7,7,100,39,0,1,Deron Williams,19,3,Williams,G,2,Brooklyn,4
+0,0,1,0,0,0,3,0,0,Andrei,4,3,75,10,2,0,Andrei Kirilenko,3,3,Kirilenko,N/A,1,Brooklyn,0
+1,2,4,6,4,67,11,8,73,Mirza,0,0,0,23,2,1,Mirza Teletovic,20,6,Teletovic,N/A,0,Brooklyn,2
+1,1,2,3,0,0,4,1,25,Alan,2,2,100,25,0,2,Alan Anderson,4,2,Anderson,N/A,0,Brooklyn,1
+2,0,2,0,0,0,9,5,56,Jarrett,2,1,50,30,0,1,Jarrett Jack,11,2,Jack,N/A,2,Brooklyn,1
+0,0,1,0,0,0,0,0,0,Jerome,0,0,0,6,1,2,Jerome Jordan,0,2,Jordan,N/A,0,Brooklyn,1
+0,0,1,0,0,0,2,2,100,Cory,6,4,67,9,1,1,Cory Jefferson,8,2,Jefferson,N/A,0,Brooklyn,0
+0,0,3,0,0,0,0,0,0,Sergey,0,0,0,3,0,0,Sergey Karasev,0,3,Karasev,N/A,0,Brooklyn,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jorge,N/A,N/A,N/A,N/A,N/A,N/A,Jorge Gutierrez,N/A,N/A,Gutierrez,N/A,N/A,Brooklyn,N/A
+3,0,4,3,2,67,10,4,40,Jeff,9,7,78,36,2,5,Jeff Green,17,6,Green,F,2,Boston,0
+2,2,4,3,1,33,9,5,56,Jared,3,2,67,28,0,2,Jared Sullinger,13,4,Sullinger,F,0,Boston,1
+2,0,2,2,1,50,14,8,57,Kelly,2,2,100,29,4,4,Kelly Olynyk,19,6,Olynyk,C,1,Boston,1
+0,0,0,3,1,33,13,7,54,Avery,0,0,0,30,0,5,Avery Bradley,15,0,Bradley,G,0,Boston,1
+12,1,7,3,1,33,9,6,67,Rajon,4,0,0,30,0,1,Rajon Rondo,13,7,Rondo,G,1,Boston,3
+2,0,1,4,1,25,7,3,43,Marcus,3,3,100,28,1,2,Marcus Smart,10,2,Smart,N/A,4,Boston,0
+5,1,6,1,0,0,9,5,56,Evan,1,0,0,24,1,3,Evan Turner,10,7,Turner,N/A,1,Boston,3
+0,1,0,2,1,50,6,4,67,Marcus,1,1,100,14,0,2,Marcus Thornton,10,0,Thornton,N/A,0,Boston,0
+1,0,1,1,0,0,7,4,57,Brandon,0,0,0,16,1,0,Brandon Bass,8,2,Bass,N/A,2,Boston,3
+1,0,1,0,0,0,4,3,75,Tyler,0,0,0,6,0,1,Tyler Zeller,6,1,Zeller,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Phil,N/A,N/A,N/A,N/A,N/A,N/A,Phil Pressey,N/A,N/A,Pressey,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Wallace,N/A,N/A,Wallace,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Young,N/A,N/A,Young,N/A,N/A,Boston,N/A

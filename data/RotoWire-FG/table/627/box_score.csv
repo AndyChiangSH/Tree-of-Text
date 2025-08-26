@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,2,8,0,0,0,12,6,50,Markieff,1,1,100,43,3,3,Markieff Morris,13,11,Morris,F,2,Washington,0
+4,0,8,5,2,40,14,8,57,Otto,1,0,0,40,2,5,Otto Porter Jr.,18,10,Porter,F,2,Washington,0
+1,0,11,0,0,0,8,6,75,Marcin,6,3,50,34,4,3,Marcin Gortat,15,15,Gortat,C,0,Washington,0
+6,0,1,10,5,50,18,9,50,Bradley,4,3,75,33,0,2,Bradley Beal,26,1,Beal,G,1,Washington,1
+9,1,2,5,3,60,23,13,56,John,12,10,83,40,0,0,John Wall,39,2,Wall,G,0,Washington,5
+0,0,1,0,0,0,0,0,0,Kelly,0,0,0,10,0,2,Kelly Oubre Jr.,0,1,Oubre,N/A,0,Washington,0
+0,0,2,4,2,50,9,4,44,Bojan,2,1,50,19,0,1,Bojan Bogdanovic,11,2,Bogdanovic,N/A,0,Washington,1
+4,0,1,1,0,0,4,1,25,Brandon,2,1,50,16,0,1,Brandon Jennings,3,1,Jennings,N/A,0,Washington,2
+0,0,3,0,0,0,1,0,0,Ian,0,0,0,15,0,2,Ian Mahinmi,0,3,Mahinmi,N/A,0,Washington,2
+0,1,0,0,0,0,1,0,0,Jason,0,0,0,9,0,1,Jason Smith,0,0,Smith,N/A,0,Washington,0
+0,0,0,0,0,0,0,0,0,Tomas,0,0,0,6,0,0,Tomas Satoransky,0,0,Satoransky,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Burke,N/A,N/A,Burke,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Daniel,N/A,N/A,N/A,N/A,N/A,N/A,Daniel Ochefu,N/A,N/A,Ochefu,N/A,N/A,Washington,N/A
+2,0,2,3,1,33,12,7,58,Maurice,1,0,0,33,3,1,Maurice Harkless,15,5,Harkless,F,0,Portland,0
+0,1,6,0,0,0,3,2,67,Noah,0,0,0,18,2,1,Noah Vonleh,4,8,Vonleh,F,0,Portland,1
+2,3,5,0,0,0,8,2,25,Jusuf,4,3,75,28,2,5,Jusuf Nurkic,7,7,Nurkic,C,1,Portland,5
+6,0,0,9,5,56,23,13,56,CJ,3,3,100,42,0,0,CJ McCollum,34,0,McCollum,G,0,Portland,0
+7,0,3,11,4,36,27,13,48,Damian,4,3,75,36,0,5,Damian Lillard,33,3,Lillard,G,0,Portland,6
+2,0,6,5,3,60,10,5,50,Allen,2,1,50,35,0,3,Allen Crabbe,14,6,Crabbe,N/A,0,Portland,0
+3,0,6,0,0,0,4,3,75,Meyers,0,0,0,25,0,2,Meyers Leonard,6,6,Leonard,N/A,2,Portland,1
+1,1,8,4,3,75,6,3,50,Al-Farouq,2,2,100,34,0,1,Al-Farouq Aminu,11,8,Aminu,N/A,1,Portland,0
+3,0,0,0,0,0,1,0,0,Shabazz,0,0,0,14,0,1,Shabazz Napier,0,0,Napier,N/A,0,Portland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ed,N/A,N/A,N/A,N/A,N/A,N/A,Ed Davis,N/A,N/A,Davis,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A

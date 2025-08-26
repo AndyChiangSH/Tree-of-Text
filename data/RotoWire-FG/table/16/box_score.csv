@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,6,6,3,50,17,8,47,Wesley,9,8,89,40,0,3,Wesley Matthews,27,6,Matthews,F,0,Dallas,2
+2,0,7,3,1,33,14,6,43,Harrison,0,0,0,38,0,1,Harrison Barnes,13,7,Barnes,F,1,Dallas,0
+2,0,5,5,3,60,9,3,33,Dirk,0,0,0,32,0,1,Dirk Nowitzki,9,5,Nowitzki,C,0,Dallas,0
+2,0,3,3,1,33,12,7,58,Seth,4,4,100,29,0,5,Seth Curry,19,3,Curry,G,0,Dallas,0
+5,0,2,11,9,82,17,11,65,Yogi,2,1,50,39,0,4,Yogi Ferrell,32,2,Ferrell,G,0,Dallas,2
+1,1,4,2,0,0,5,0,0,Dorian,2,1,50,33,1,4,Dorian Finney-Smith,1,5,Finney-Smith,N/A,1,Dallas,0
+0,3,4,0,0,0,0,0,0,Salah,4,4,100,18,1,3,Salah Mejri,4,5,Mejri,N/A,0,Dallas,0
+0,0,2,0,0,0,1,1,100,Dwight,2,1,50,8,0,3,Dwight Powell,3,2,Powell,N/A,1,Dallas,0
+0,0,1,1,0,0,1,0,0,Justin,0,0,0,3,0,0,Justin Anderson,0,1,Anderson,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas Brussino,N/A,N/A,Brussino,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Devin,N/A,N/A,N/A,N/A,N/A,N/A,Devin Harris,N/A,N/A,Harris,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Deron,N/A,N/A,N/A,N/A,N/A,N/A,Deron Williams,N/A,N/A,Williams,N/A,N/A,Dallas,N/A
+3,0,4,4,1,25,17,10,59,Evan,3,3,100,32,0,0,Evan Turner,24,4,Turner,F,1,Portland,3
+0,0,1,0,0,0,3,2,67,Noah,2,0,0,7,2,0,Noah Vonleh,4,3,Vonleh,F,0,Portland,0
+0,1,5,0,0,0,7,4,57,Mason,2,1,50,31,4,2,Mason Plumlee,9,9,Plumlee,C,1,Portland,1
+6,1,5,7,2,29,20,11,55,CJ,4,4,100,35,2,5,CJ McCollum,28,7,McCollum,G,0,Portland,2
+6,1,7,8,1,13,20,4,20,Damian,5,4,80,38,2,3,Damian Lillard,13,9,Lillard,G,0,Portland,2
+0,0,0,1,1,100,4,1,25,Allen,2,2,100,23,0,5,Allen Crabbe,5,0,Crabbe,N/A,1,Portland,0
+0,1,1,2,0,0,5,1,20,Maurice,0,0,0,20,1,1,Maurice Harkless,2,2,Harkless,N/A,0,Portland,1
+1,0,8,8,4,50,10,5,50,Al-Farouq,0,0,0,37,0,1,Al-Farouq Aminu,14,8,Aminu,N/A,0,Portland,0
+0,0,1,0,0,0,2,2,100,Ed,2,1,50,16,1,2,Ed Davis,5,2,Davis,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Meyers,N/A,N/A,N/A,N/A,N/A,N/A,Meyers Leonard,N/A,N/A,Leonard,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Portland,N/A

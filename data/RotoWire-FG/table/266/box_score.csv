@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,2,1,0,0,7,1,14,Brandon,2,1,50,29,0,0,Brandon Ingram,3,2,Ingram,F,1,Los Angeles,2
+3,0,7,0,0,0,9,4,44,Julius,5,5,100,29,3,4,Julius Randle,13,10,Randle,F,1,Los Angeles,0
+0,0,2,0,0,0,2,0,0,Tarik,2,2,100,9,0,5,Tarik Black,2,2,Black,C,0,Los Angeles,2
+0,0,3,6,1,17,10,2,20,Nick,0,0,0,24,1,1,Nick Young,5,4,Young,G,1,Los Angeles,0
+4,1,4,6,2,33,20,7,35,D'Angelo,5,5,100,28,0,1,D'Angelo Russell,21,4,Russell,G,1,Los Angeles,2
+0,0,2,0,0,0,6,3,50,Ivica,4,2,50,14,2,4,Ivica Zubac,8,4,Zubac,N/A,0,Los Angeles,1
+0,0,3,5,2,40,12,6,50,Jordan,3,1,33,30,0,3,Jordan Clarkson,15,3,Clarkson,N/A,1,Los Angeles,3
+5,0,3,0,0,0,4,1,25,Larry,0,0,0,22,0,2,Larry Nance Jr.,2,3,Nance,N/A,1,Los Angeles,0
+0,1,2,3,1,33,6,3,50,Luol,2,2,100,23,0,3,Luol Deng,9,2,Deng,N/A,0,Los Angeles,0
+3,0,1,4,3,75,13,7,54,Lou,5,4,80,24,1,3,Lou Williams,21,2,Williams,N/A,3,Los Angeles,2
+1,0,0,1,0,0,4,1,25,Marcelo,0,0,0,9,0,1,Marcelo Huertas,2,0,Huertas,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jose,N/A,N/A,N/A,N/A,N/A,N/A,Jose Calderon,N/A,N/A,Calderon,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timofey,N/A,N/A,N/A,N/A,N/A,N/A,Timofey Mozgov,N/A,N/A,Mozgov,N/A,N/A,Los Angeles,N/A
+3,2,2,0,0,0,5,4,80,TJ,3,3,100,21,1,1,TJ Warren,11,3,Warren,F,1,Phoenix,0
+0,2,6,2,0,0,11,4,36,Marquese,9,7,78,25,2,2,Marquese Chriss,15,8,Chriss,F,2,Phoenix,0
+0,1,7,0,0,0,5,3,60,Tyson,2,2,100,21,1,1,Tyson Chandler,8,8,Chandler,C,2,Phoenix,0
+1,1,3,7,4,57,14,9,64,Devin,2,1,50,30,1,3,Devin Booker,23,4,Booker,G,0,Phoenix,3
+13,0,8,6,3,50,14,7,50,Eric,9,8,89,36,2,1,Eric Bledsoe,25,10,Bledsoe,G,2,Phoenix,3
+0,0,2,2,1,50,6,3,50,PJ,2,2,100,21,1,2,PJ Tucker,9,3,Tucker,N/A,0,Phoenix,0
+2,2,6,0,0,0,10,5,50,Alex,6,5,83,23,3,6,Alex Len,15,9,Len,N/A,0,Phoenix,6
+2,0,4,3,1,33,3,1,33,Jared,0,0,0,19,0,1,Jared Dudley,3,4,Dudley,N/A,0,Phoenix,1
+4,1,2,4,1,25,10,5,50,Brandon,0,0,0,21,0,2,Brandon Knight,11,2,Knight,N/A,0,Phoenix,0
+2,1,0,0,0,0,4,3,75,Leandro,1,1,100,10,0,0,Leandro Barbosa,7,0,Barbosa,N/A,0,Phoenix,1
+4,0,0,0,0,0,1,1,100,Tyler,0,0,0,6,0,1,Tyler Ulis,2,0,Ulis,N/A,0,Phoenix,1
+1,0,6,0,0,0,2,1,50,Alan,0,0,0,5,0,0,Alan Williams,2,6,Williams,N/A,0,Phoenix,0
+0,0,1,0,0,0,3,3,100,Derrick,0,0,0,4,1,0,"Derrick Jones, Jr.",6,2,"Jones,",N/A,0,Phoenix,0

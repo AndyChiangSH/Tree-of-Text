@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,6,1,0,0,7,2,29,Lance,0,0,0,32,2,3,Lance Thomas,4,8,Thomas,F,0,New York,0
+3,0,2,4,1,25,13,5,39,Carmelo,5,5,100,36,1,3,Carmelo Anthony,16,3,Anthony,F,1,New York,1
+0,1,5,7,3,43,17,8,47,Kristaps,6,5,83,31,2,5,Kristaps Porzingis,24,7,Porzingis,C,1,New York,0
+3,0,0,3,2,67,8,5,63,Courtney,0,0,0,35,0,4,Courtney Lee,12,0,Lee,G,1,New York,1
+6,0,1,0,0,0,12,7,58,Derrick,3,3,100,32,0,0,Derrick Rose,17,1,Rose,G,0,New York,3
+0,0,0,0,0,0,1,0,0,Mindaugas,0,0,0,5,0,1,Mindaugas Kuzminskas,0,0,Kuzminskas,N/A,0,New York,0
+1,0,7,0,0,0,8,4,50,Willy,2,1,50,17,4,3,Willy Hernangomez,9,11,Hernangomez,N/A,2,New York,2
+2,0,2,1,1,100,5,2,40,Ron,2,2,100,21,0,2,Ron Baker,7,2,Baker,N/A,0,New York,1
+0,0,1,5,2,40,6,3,50,Justin,0,0,0,19,0,1,Justin Holiday,8,1,Holiday,N/A,0,New York,2
+1,0,3,0,0,0,3,2,67,Kyle,0,0,0,9,0,3,Kyle O'Quinn,4,3,O'Quinn,N/A,0,New York,1
+1,0,0,0,0,0,0,0,0,Chasson,0,0,0,2,0,1,Chasson Randle,0,0,Randle,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marshall,N/A,N/A,N/A,N/A,N/A,N/A,Marshall Plumlee,N/A,N/A,Plumlee,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Vujacic,N/A,N/A,Vujacic,N/A,N/A,New York,N/A
+3,0,5,7,1,14,17,6,35,Gordon,9,6,67,39,3,0,Gordon Hayward,19,8,Hayward,F,1,Utah,0
+1,0,1,1,1,100,6,2,33,Boris,0,0,0,14,0,0,Boris Diaw,5,1,Diaw,F,0,Utah,0
+1,4,2,0,0,0,15,13,87,Rudy,12,9,75,38,13,2,Rudy Gobert,35,15,Gobert,C,1,Utah,3
+1,0,3,2,0,0,4,1,25,Rodney,2,1,50,21,0,0,Rodney Hood,3,3,Hood,G,0,Utah,1
+4,0,7,4,1,25,18,7,39,George,0,0,0,35,0,1,George Hill,15,7,Hill,G,1,Utah,4
+1,0,0,2,2,100,4,4,100,Raul,0,0,0,14,0,3,Raul Neto,10,0,Neto,N/A,0,Utah,0
+2,1,3,3,1,33,10,4,40,Joe,2,1,50,23,1,3,Joe Johnson,10,4,Johnson,N/A,0,Utah,0
+3,0,3,5,1,20,7,2,29,Joe,2,0,0,25,0,0,Joe Ingles,5,3,Ingles,N/A,0,Utah,0
+2,0,3,3,0,0,4,0,0,Alec,0,0,0,19,0,0,Alec Burks,0,3,Burks,N/A,1,Utah,0
+0,2,0,0,0,0,3,2,67,Jeff,2,2,100,10,3,1,Jeff Withey,6,3,Withey,N/A,1,Utah,0
+0,0,1,1,0,0,2,0,0,Trey,0,0,0,3,0,1,Trey Lyles,0,1,Lyles,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Bolomboy,N/A,N/A,Bolomboy,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dante,N/A,N/A,N/A,N/A,N/A,N/A,Dante Exum,N/A,N/A,Exum,N/A,N/A,Utah,N/A

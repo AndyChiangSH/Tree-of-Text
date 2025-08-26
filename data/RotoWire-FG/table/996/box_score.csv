@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+6,0,6,5,3,60,11,6,55,Bojan,5,5,100,37,0,3,Bojan Bogdanovic,20,6,Bogdanovic,F,3,Indiana,3
+1,0,1,2,0,0,9,6,67,Thaddeus,2,1,50,23,0,2,Thaddeus Young,13,1,Young,F,1,Indiana,0
+1,3,2,0,0,0,7,3,43,Myles,3,3,100,24,1,4,Myles Turner,9,3,Turner,C,0,Indiana,0
+7,0,9,10,3,30,24,7,29,Victor,6,5,83,40,1,4,Victor Oladipo,22,10,Oladipo,G,2,Indiana,3
+3,1,2,5,3,60,10,5,50,Darren,1,0,0,35,1,2,Darren Collison,13,3,Collison,G,0,Indiana,2
+2,1,5,0,0,0,4,4,100,Domantas,6,3,50,22,1,3,Domantas Sabonis,11,6,Sabonis,N/A,0,Indiana,4
+2,0,3,3,1,33,4,2,50,Cory,0,0,0,27,0,2,Cory Joseph,5,3,Joseph,N/A,1,Indiana,0
+1,1,2,2,0,0,7,2,29,Tyreke,2,2,100,19,1,2,Tyreke Evans,6,3,Evans,N/A,2,Indiana,1
+0,0,0,2,1,50,2,1,50,Doug,1,1,100,8,0,0,Doug McDermott,4,0,McDermott,N/A,1,Indiana,0
+1,0,0,0,0,0,0,0,0,Kyle,0,0,0,5,0,0,Kyle O'Quinn,0,0,O'Quinn,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Holiday,N/A,N/A,Holiday,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,TJ,N/A,N/A,N/A,N/A,N/A,N/A,TJ Leaf,N/A,N/A,Leaf,N/A,N/A,Indiana,N/A
+2,0,1,2,0,0,3,0,0,James,2,0,0,22,0,2,James Ennis III,0,1,Ennis,F,1,Houston,0
+0,0,4,6,4,67,6,4,67,PJ,0,0,0,40,1,3,PJ Tucker,12,5,Tucker,F,0,Houston,1
+1,1,4,0,0,0,9,8,89,Clint,5,2,40,29,3,1,Clint Capela,18,7,Capela,C,0,Houston,1
+9,1,7,18,8,44,20,9,45,James,15,14,93,38,0,5,James Harden,40,7,Harden,G,1,Houston,9
+5,0,5,8,5,62,13,8,62,Chris,7,5,71,35,0,3,Chris Paul,26,5,Paul,G,3,Houston,2
+0,1,1,0,0,0,4,2,50,Isaiah,0,0,0,13,0,2,Isaiah Hartenstein,4,1,Hartenstein,N/A,0,Houston,0
+0,1,4,9,2,22,14,3,21,Eric,2,1,50,31,0,4,Eric Gordon,9,4,Gordon,N/A,0,Houston,2
+1,1,4,4,1,25,5,2,40,Gary,1,1,100,33,4,2,Gary Clark,6,8,Clark,N/A,1,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Carmelo,N/A,N/A,N/A,N/A,N/A,N/A,Carmelo Anthony,N/A,N/A,Anthony,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Carter-Williams,N/A,N/A,Carter-Williams,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marquese,N/A,N/A,N/A,N/A,N/A,N/A,Marquese Chriss,N/A,N/A,Chriss,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Vincent,N/A,N/A,N/A,N/A,N/A,N/A,Vincent Edwards,N/A,N/A,Edwards,N/A,N/A,Houston,N/A

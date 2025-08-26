@@ -1,0 +1,36 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,26,00:48:23,1,0,Akane YAMAGUCHI,drop,opponent wins by landing,wins by landing
+2,30,00:49:32,1,1,CHEN Yufei,push,opponent wins by landing,wins by landing
+3,19,00:50:18,2,1,Akane YAMAGUCHI,smash,goes out of bounds,opponent goes out of bounds
+4,2,00:51:03,3,1,Akane YAMAGUCHI,drop,goes out of bounds,opponent goes out of bounds
+5,18,00:51:38,4,1,Akane YAMAGUCHI,smash,goes out of bounds,opponent goes out of bounds
+6,6,00:52:12,5,1,Akane YAMAGUCHI,return net,fails to clear the net,opponent fails to clear the net
+7,17,00:52:50,6,1,Akane YAMAGUCHI,push,opponent wins by landing,wins by landing
+8,10,00:53:24,7,1,Akane YAMAGUCHI,net shot,hits the net,opponent hits the net
+9,10,00:53:56,8,1,Akane YAMAGUCHI,smash,goes out of bounds,opponent goes out of bounds
+10,15,00:54:47,8,2,CHEN Yufei,smash,goes out of bounds,opponent goes out of bounds
+11,10,00:55:25,8,3,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+12,12,00:55:56,8,4,CHEN Yufei,rush,hits the net,opponent hits the net
+13,13,00:56:28,9,4,Akane YAMAGUCHI,net shot,hits the net,opponent hits the net
+14,25,00:57:12,10,4,Akane YAMAGUCHI,net shot,opponent wins by landing,wins by landing
+15,30,00:58:12,10,5,CHEN Yufei,smash,opponent wins by landing,wins by landing
+16,12,00:59:52,10,6,CHEN Yufei,return net,fails to clear the net,opponent fails to clear the net
+17,6,01:00:29,11,6,Akane YAMAGUCHI,net shot,opponent wins by landing,wins by landing
+18,14,01:02:12,12,6,Akane YAMAGUCHI,defensive return drive,hits the net,opponent hits the net
+19,15,01:02:45,12,7,CHEN Yufei,return net,hits the net,opponent hits the net
+20,24,01:03:36,13,7,Akane YAMAGUCHI,net shot,opponent wins by landing,wins by landing
+21,15,01:04:37,13,8,CHEN Yufei,unknown,fails to clear the net,opponent fails to clear the net
+22,6,01:06:41,13,9,CHEN Yufei,return net,hits the net,opponent hits the net
+23,15,01:07:14,14,9,Akane YAMAGUCHI,return net,hits the net,opponent hits the net
+24,26,01:07:59,15,9,Akane YAMAGUCHI,drop,hits the net,opponent hits the net
+25,19,01:08:45,15,10,CHEN Yufei,return net,hits the net,opponent hits the net
+26,42,01:09:53,15,11,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+27,11,01:11:02,16,11,Akane YAMAGUCHI,smash,goes out of bounds,opponent goes out of bounds
+28,8,01:11:31,17,11,Akane YAMAGUCHI,return net,hits the net,opponent hits the net
+29,3,01:11:54,17,12,CHEN Yufei,net shot,hits the net,opponent hits the net
+30,29,01:12:40,18,12,Akane YAMAGUCHI,net shot,fails to clear the net,opponent fails to clear the net
+31,4,01:13:16,19,12,Akane YAMAGUCHI,lob,goes out of bounds,opponent goes out of bounds
+32,16,01:13:54,20,12,Akane YAMAGUCHI,smash,goes out of bounds,opponent goes out of bounds
+33,9,01:14:34,20,13,CHEN Yufei,net shot,fails to clear the net,opponent fails to clear the net
+34,7,01:15:15,20,14,CHEN Yufei,smash,opponent wins by landing,wins by landing
+35,7,01:15:47,21,14,Akane YAMAGUCHI,smash,hits the net,opponent hits the net

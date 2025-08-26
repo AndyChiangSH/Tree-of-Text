@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,7,4,2,50,15,10,67,Kevin,2,2,100,40,0,0,Kevin Durant,24,7,Durant,F,2,Oklahoma City,2
+0,0,1,1,0,0,7,3,43,Serge,1,1,100,30,0,2,Serge Ibaka,7,1,Ibaka,F,0,Oklahoma City,1
+2,0,3,0,0,0,6,4,67,Steven,2,2,100,23,3,2,Steven Adams,10,6,Adams,C,1,Oklahoma City,0
+0,0,1,0,0,0,3,3,100,Andre,2,1,50,16,3,5,Andre Roberson,7,4,Roberson,G,1,Oklahoma City,0
+7,0,9,4,1,25,24,11,46,Russell,16,13,81,35,3,1,Russell Westbrook,36,12,Westbrook,G,1,Oklahoma City,6
+3,1,2,1,0,0,7,1,14,Dion,0,0,0,21,0,0,Dion Waiters,2,2,Waiters,N/A,2,Oklahoma City,2
+1,0,0,2,1,50,9,5,56,Cameron,0,0,0,25,1,1,Cameron Payne,11,1,Payne,N/A,1,Oklahoma City,1
+1,1,5,1,0,0,10,6,60,Enes,3,3,100,23,4,1,Enes Kanter,15,9,Kanter,N/A,0,Oklahoma City,1
+1,0,0,0,0,0,2,0,0,Nick,0,0,0,10,2,0,Nick Collison,0,2,Collison,N/A,0,Oklahoma City,0
+0,0,1,4,1,25,6,2,33,Anthony,0,0,0,19,0,3,Anthony Morrow,5,1,Morrow,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,D.J.,N/A,N/A,N/A,N/A,N/A,N/A,D.J. Augustin,N/A,N/A,Augustin,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mitch,N/A,N/A,N/A,N/A,N/A,N/A,Mitch McGary,N/A,N/A,McGary,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Singler,N/A,N/A,Singler,N/A,N/A,Oklahoma City,N/A
+6,0,2,5,1,20,20,8,40,Kobe,2,2,100,28,2,3,Kobe Bryant,19,4,Bryant,F,1,Los Angeles,2
+0,1,5,0,0,0,4,3,75,Larry,2,2,100,22,1,1,Larry Nance Jr.,8,6,Nance,F,2,Los Angeles,0
+0,2,1,0,0,0,5,4,80,Roy,0,0,0,23,1,4,Roy Hibbert,8,2,Hibbert,C,1,Los Angeles,1
+1,0,2,14,5,36,25,12,48,Lou,15,15,100,35,0,1,Lou Williams,44,2,Williams,G,2,Los Angeles,1
+2,0,3,3,2,67,12,6,50,Jordan,4,3,75,35,0,3,Jordan Clarkson,17,3,Clarkson,G,2,Los Angeles,3
+2,0,0,1,0,0,3,1,33,D'Angelo,0,0,0,8,0,0,D'Angelo Russell,2,0,Russell,N/A,0,Los Angeles,0
+1,2,1,1,1,100,1,1,100,Anthony,0,0,0,22,0,2,Anthony Brown,3,1,Brown,N/A,0,Los Angeles,0
+2,0,6,1,0,0,7,1,14,Julius,0,0,0,23,2,6,Julius Randle,2,8,Randle,N/A,0,Los Angeles,3
+3,0,3,0,0,0,5,3,60,Brandon,2,2,100,25,2,2,Brandon Bass,8,5,Bass,N/A,1,Los Angeles,0
+2,0,1,1,0,0,2,1,50,Marcelo,0,0,0,18,2,0,Marcelo Huertas,2,3,Huertas,N/A,0,Los Angeles,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Sacre,N/A,N/A,Sacre,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Metta,N/A,N/A,N/A,N/A,N/A,N/A,Metta World Peace,N/A,N/A,World,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Los Angeles,N/A

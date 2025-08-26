@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,3,2,67,15,8,53,Paul,11,10,91,33,2,2,Paul George,28,4,George,F,1,Indiana,2
+1,0,2,0,0,0,2,1,50,Lavoy,0,0,0,21,2,1,Lavoy Allen,2,4,Allen,F,1,Indiana,1
+0,0,5,0,0,0,6,0,0,Ian,6,5,83,22,0,2,Ian Mahinmi,5,5,Mahinmi,C,0,Indiana,1
+3,0,5,2,1,50,12,6,50,Monta,3,2,67,31,0,1,Monta Ellis,15,5,Ellis,G,2,Indiana,0
+1,0,0,3,0,0,5,2,40,George,0,0,0,31,1,4,George Hill,4,1,Hill,G,1,Indiana,2
+2,0,5,2,0,0,5,1,20,Solomon,0,0,0,27,1,3,Solomon Hill,2,6,Hill,N/A,0,Indiana,1
+1,1,3,1,1,100,6,2,33,Rodney,4,2,50,17,0,2,Rodney Stuckey,7,3,Stuckey,N/A,1,Indiana,1
+0,2,2,1,0,0,5,4,80,Myles,0,0,0,16,0,5,Myles Turner,8,2,Turner,N/A,0,Indiana,3
+3,0,0,2,0,0,4,1,25,Ty,2,2,100,13,0,2,Ty Lawson,4,0,Lawson,N/A,0,Indiana,1
+0,0,2,5,0,0,7,2,29,CJ,2,2,100,19,0,1,CJ Miles,6,2,Miles,N/A,1,Indiana,1
+0,0,0,0,0,0,0,0,0,Jordan,0,0,0,3,0,0,Jordan Hill,0,0,Hill,N/A,0,Indiana,0
+0,0,0,0,0,0,1,1,100,Glenn,0,0,0,3,0,0,Glenn Robinson,2,0,Robinson,N/A,0,Indiana,0
+1,0,1,1,0,0,2,1,50,Joe,2,2,100,3,0,0,Joe Young,4,1,Young,N/A,0,Indiana,0
+1,0,1,0,0,0,3,1,33,DeMarre,0,0,0,20,1,4,DeMarre Carroll,2,2,Carroll,F,0,Toronto,2
+0,0,2,1,0,0,1,0,0,Luis,0,0,0,11,0,1,Luis Scola,0,2,Scola,F,0,Toronto,1
+0,2,10,0,0,0,18,10,56,Jonas,4,3,75,31,5,4,Jonas Valanciunas,23,15,Valanciunas,C,1,Toronto,1
+2,0,3,2,0,0,18,5,28,DeMar,0,0,0,31,1,3,DeMar DeRozan,10,4,DeRozan,G,1,Toronto,2
+9,0,6,5,0,0,13,4,31,Kyle,10,10,100,40,1,2,Kyle Lowry,18,7,Lowry,G,1,Toronto,2
+1,1,1,3,1,33,6,1,17,Norman,0,0,0,22,0,2,Norman Powell,3,1,Powell,N/A,1,Toronto,0
+1,1,4,2,2,100,6,5,83,Patrick,2,2,100,31,2,2,Patrick Patterson,14,6,Patterson,N/A,1,Toronto,3
+1,0,2,4,2,50,4,2,50,Terrence,0,0,0,10,0,2,Terrence Ross,6,2,Ross,N/A,1,Toronto,0
+1,1,2,0,0,0,2,1,50,Bismack,5,4,80,17,2,2,Bismack Biyombo,6,4,Biyombo,N/A,1,Toronto,1
+3,0,1,0,0,0,8,6,75,Cory,4,4,100,24,0,2,Cory Joseph,16,1,Joseph,N/A,1,Toronto,1
+0,0,0,1,0,0,1,0,0,Jason,0,0,0,2,0,1,Jason Thompson,0,0,Thompson,N/A,0,Toronto,0
+0,0,0,0,0,0,0,0,0,Delon,0,0,0,1,0,0,Delon Wright,0,0,Wright,N/A,0,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Johnson,N/A,N/A,Johnson,N/A,N/A,Toronto,N/A

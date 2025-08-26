@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,3,2,1,50,10,4,40,Kyle,0,0,0,29,0,3,Kyle Anderson,9,3,Anderson,F,2,Memphis,2
+1,0,3,2,0,0,7,3,43,Jaren,0,0,0,20,0,1,Jaren Jackson Jr.,6,3,Jackson,F,2,Memphis,1
+6,0,2,2,1,50,6,2,33,Marc,2,2,100,31,0,4,Marc Gasol,7,2,Gasol,C,0,Memphis,2
+2,0,3,4,1,25,6,3,50,Garrett,0,0,0,34,0,4,Garrett Temple,7,3,Temple,G,0,Memphis,1
+6,0,1,8,2,25,14,5,36,Mike,7,7,100,32,0,2,Mike Conley,19,1,Conley,G,2,Memphis,1
+0,1,6,4,1,25,10,4,40,JaMychal,4,4,100,26,4,0,JaMychal Green,13,10,Green,N/A,0,Memphis,2
+0,2,4,0,0,0,2,2,100,Joakim,0,0,0,19,0,2,Joakim Noah,4,4,Noah,N/A,1,Memphis,2
+0,0,0,0,0,0,4,4,100,MarShon,0,0,0,7,0,0,MarShon Brooks,8,0,Brooks,N/A,0,Memphis,0
+2,0,1,3,2,67,8,5,62,Shelvin,2,2,100,24,1,2,Shelvin Mack,14,2,Mack,N/A,0,Memphis,0
+2,0,5,2,1,50,7,5,71,Omri,2,1,50,19,1,1,Omri Casspi,12,6,Casspi,N/A,0,Memphis,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wayne,N/A,N/A,N/A,N/A,N/A,N/A,Wayne Selden,N/A,N/A,Selden,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DJ,N/A,N/A,N/A,N/A,N/A,N/A,DJ Stephens,N/A,N/A,Stephens,N/A,N/A,Memphis,N/A
+1,2,4,4,1,25,4,1,25,Juancho,5,4,80,37,1,2,Juancho Hernangomez,7,5,Hernangomez,F,0,Denver,3
+6,0,9,2,1,50,14,9,64,Nikola,9,8,89,38,3,3,Nikola Jokic,27,12,Jokic,F,2,Denver,3
+1,2,5,0,0,0,9,5,56,Mason,4,2,50,35,5,3,Mason Plumlee,12,10,Plumlee,C,1,Denver,3
+1,0,0,5,1,20,9,3,33,Torrey,0,0,0,25,0,3,Torrey Craig,7,0,Craig,G,1,Denver,0
+5,2,0,4,1,25,10,6,60,Jamal,4,3,75,36,0,3,Jamal Murray,16,0,Murray,G,4,Denver,1
+5,0,6,5,4,80,12,8,67,Monte,0,0,0,28,0,1,Monte Morris,20,6,Morris,N/A,1,Denver,1
+0,0,5,5,0,0,12,4,33,Trey,1,1,100,22,2,0,Trey Lyles,9,7,Lyles,N/A,2,Denver,2
+3,0,0,3,1,33,7,3,43,Malik,0,0,0,15,0,1,Malik Beasley,7,0,Beasley,N/A,0,Denver,0
+0,0,0,0,0,0,0,0,0,Tyler,0,0,0,2,0,1,Tyler Lydon,0,0,Lydon,N/A,0,Denver,0
+0,0,0,0,0,0,0,0,0,Thomas,0,0,0,0,0,0,Thomas Welsh,0,0,Welsh,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeVaughn,N/A,N/A,N/A,N/A,N/A,N/A,DeVaughn Akoon-Purcell,N/A,N/A,Akoon-Purcell,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Denver,N/A

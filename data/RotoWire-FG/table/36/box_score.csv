@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,1,0,0,11,5,46,Andrew,0,0,0,29,3,1,Andrew Wiggins,10,4,Wiggins,F,1,Minnesota,0
+2,0,2,0,0,0,9,3,33,Adreian,4,4,100,29,1,2,Adreian Payne,10,3,Payne,F,1,Minnesota,1
+1,0,0,0,0,0,3,0,0,Nikola,0,0,0,8,1,0,Nikola Pekovic,0,1,Pekovic,C,0,Minnesota,1
+1,0,2,1,0,0,8,5,63,Kevin,7,6,86,26,0,1,Kevin Martin,16,2,Martin,G,0,Minnesota,1
+6,0,3,4,0,0,11,4,36,Ricky,0,0,0,28,2,3,Ricky Rubio,8,5,Rubio,G,0,Minnesota,1
+4,0,5,0,0,0,4,3,75,Gorgui,4,4,100,31,2,4,Gorgui Dieng,10,7,Dieng,N/A,1,Minnesota,2
+0,0,3,1,0,0,8,2,25,Gary,5,5,100,21,0,3,Gary Neal,9,3,Neal,N/A,1,Minnesota,1
+3,0,0,1,0,0,8,2,25,Zach,4,4,100,21,1,0,Zach LaVine,8,1,LaVine,N/A,1,Minnesota,1
+1,0,4,1,0,0,7,5,71,Chase,0,0,0,19,1,1,Chase Budinger,10,5,Budinger,N/A,0,Minnesota,0
+0,2,2,4,1,25,12,7,58,Justin,0,0,0,28,1,1,Justin Hamilton,15,3,Hamilton,N/A,0,Minnesota,2
+0,0,0,0,0,0,0,0,0,Lorenzo,2,1,50,1,0,0,Lorenzo Brown,1,0,Brown,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Garnett,N/A,N/A,Garnett,N/A,N/A,Minnesota,N/A
+5,1,5,7,2,29,12,3,25,Marcus,0,0,0,30,4,1,Marcus Morris,8,9,Morris,F,0,Phoenix,0
+2,1,2,2,0,0,15,10,67,Markieff,4,4,100,37,1,2,Markieff Morris,24,3,Morris,F,1,Phoenix,3
+1,0,4,0,0,0,2,1,50,Alex,0,0,0,19,1,4,Alex Len,2,5,Len,C,0,Phoenix,2
+3,0,4,2,1,50,11,5,46,PJ,0,0,0,34,2,2,PJ Tucker,11,6,Tucker,G,1,Phoenix,2
+9,0,2,5,2,40,14,7,50,Eric,2,2,100,34,0,1,Eric Bledsoe,18,2,Bledsoe,G,1,Phoenix,5
+0,0,3,5,1,20,12,6,50,Marcus,1,1,100,22,1,2,Marcus Thornton,14,4,Thornton,N/A,2,Phoenix,2
+2,0,6,0,0,0,9,5,56,Brandan,2,1,50,30,3,2,Brandan Wright,11,9,Wright,N/A,1,Phoenix,0
+3,0,0,1,0,0,4,0,0,Archie,2,1,50,13,2,3,Archie Goodwin,1,2,Goodwin,N/A,0,Phoenix,1
+0,0,3,1,0,0,10,8,80,TJ,2,1,50,19,2,2,TJ Warren,17,5,Warren,N/A,1,Phoenix,1
+0,0,0,0,0,0,0,0,0,Earl,0,0,0,1,0,0,Earl Barron,0,0,Barron,N/A,0,Phoenix,0
+0,0,0,1,0,0,1,0,0,Seth,0,0,0,1,0,0,Seth Curry,0,0,Curry,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Bullock,N/A,N/A,Bullock,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Green,N/A,N/A,Green,N/A,N/A,Phoenix,N/A

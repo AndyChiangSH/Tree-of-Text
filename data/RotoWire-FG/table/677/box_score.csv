@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,6,0,0,0,12,4,33,Giannis,8,5,63,36,2,2,Giannis Antetokounmpo,13,8,Antetokounmpo,F,1,Milwaukee,3
+0,0,9,4,1,25,10,5,50,Ersan,8,6,75,29,3,4,Ersan Ilyasova,17,12,Ilyasova,F,1,Milwaukee,1
+0,1,6,0,0,0,6,2,33,Zaza,4,4,100,25,1,2,Zaza Pachulia,8,7,Pachulia,C,1,Milwaukee,0
+3,1,6,3,0,0,13,4,31,Khris,3,2,67,33,2,2,Khris Middleton,10,8,Middleton,G,0,Milwaukee,1
+4,0,0,2,0,0,6,3,50,Michael,2,2,100,27,1,2,Michael Carter-Williams,8,1,Carter-Williams,G,1,Milwaukee,4
+1,0,1,4,1,25,14,5,36,Jerryd,2,1,50,32,0,3,Jerryd Bayless,12,1,Bayless,N/A,1,Milwaukee,1
+1,0,3,2,1,50,7,2,29,Jared,0,0,0,23,1,0,Jared Dudley,5,4,Dudley,N/A,1,Milwaukee,0
+0,2,3,0,0,0,7,4,57,John,2,1,50,15,2,2,John Henson,9,5,Henson,N/A,0,Milwaukee,1
+4,0,2,2,1,50,6,2,33,Tyler,0,0,0,12,0,0,Tyler Ennis,5,2,Ennis,N/A,1,Milwaukee,0
+1,1,0,0,0,0,6,3,50,Miles,0,0,0,8,1,0,Miles Plumlee,6,1,Plumlee,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,O.J.,N/A,N/A,N/A,N/A,N/A,N/A,O.J. Mayo,N/A,N/A,Mayo,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnny,N/A,N/A,N/A,N/A,N/A,N/A,Johnny O'Bryant III,N/A,N/A,O'Bryant,N/A,N/A,Milwaukee,N/A
+1,0,3,4,0,0,8,2,25,Ryan,5,4,80,25,0,5,Ryan Kelly,8,3,Kelly,F,1,Los Angeles,2
+0,1,6,0,0,0,8,5,63,Carlos,1,0,0,21,0,2,Carlos Boozer,10,6,Boozer,F,1,Los Angeles,2
+0,0,3,0,0,0,7,4,57,Robert,6,4,67,20,2,2,Robert Sacre,12,5,Sacre,C,1,Los Angeles,0
+5,0,6,6,2,33,13,6,46,Wayne,0,0,0,36,0,3,Wayne Ellington,14,6,Ellington,G,2,Los Angeles,1
+5,0,4,2,2,100,9,7,78,Jordan,0,0,0,30,0,1,Jordan Clarkson,16,4,Clarkson,G,0,Los Angeles,1
+6,0,5,2,1,50,10,4,40,Jeremy,6,5,83,29,0,3,Jeremy Lin,14,5,Lin,N/A,0,Los Angeles,0
+1,3,7,0,0,0,6,4,67,Ed,2,0,0,26,2,1,Ed Davis,8,9,Davis,N/A,1,Los Angeles,2
+2,1,3,0,0,0,18,6,33,Jordan,2,2,100,24,4,3,Jordan Hill,14,7,Hill,N/A,0,Los Angeles,0
+3,0,4,4,1,25,6,2,33,Wesley,0,0,0,28,1,1,Wesley Johnson,5,5,Johnson,N/A,1,Los Angeles,4
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kobe,N/A,N/A,N/A,N/A,N/A,N/A,Kobe Bryant,N/A,N/A,Bryant,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ronnie,N/A,N/A,N/A,N/A,N/A,N/A,Ronnie Price,N/A,N/A,Price,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Los Angeles,N/A

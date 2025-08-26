@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,1,5,1,0,0,5,2,40,Kent,7,6,86,33,0,3,Kent Bazemore,10,5,Bazemore,F,3,Atlanta,2
+1,1,11,2,0,0,11,7,64,Paul,10,8,80,35,1,4,Paul Millsap,22,12,Millsap,F,2,Atlanta,4
+4,2,4,3,0,0,15,7,47,Al,0,0,0,30,1,5,Al Horford,14,5,Horford,C,1,Atlanta,2
+5,1,7,4,4,100,8,8,100,Kyle,2,2,100,33,0,2,Kyle Korver,22,7,Korver,G,3,Atlanta,0
+7,1,1,4,1,25,16,5,31,Jeff,10,8,80,32,1,2,Jeff Teague,19,2,Teague,G,1,Atlanta,3
+0,0,3,0,0,0,5,1,20,Tiago,4,4,100,20,2,1,Tiago Splitter,6,5,Splitter,N/A,0,Atlanta,0
+5,0,0,4,3,75,8,6,75,Dennis,0,0,0,19,0,0,Dennis Schroder,15,0,Schroder,N/A,0,Atlanta,1
+2,0,1,0,0,0,1,0,0,Lamar,0,0,0,10,0,1,Lamar Patterson,0,1,Patterson,N/A,0,Atlanta,0
+1,0,1,3,1,33,5,3,60,Mike,2,2,100,13,1,1,Mike Scott,9,2,Scott,N/A,0,Atlanta,2
+1,0,2,0,0,0,3,2,67,Justin,0,0,0,15,0,2,Justin Holiday,4,2,Holiday,N/A,0,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,N/A,N/A,N/A,N/A,N/A,N/A,Tim Hardaway Jr.,N/A,N/A,Hardaway,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shelvin,N/A,N/A,N/A,N/A,N/A,N/A,Shelvin Mack,N/A,N/A,Mack,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Muscala,N/A,N/A,Muscala,N/A,N/A,Atlanta,N/A
+1,0,4,6,1,17,10,5,50,Luke,2,2,100,29,0,5,Luke Babbitt,13,4,Babbitt,F,0,New Orleans,1
+1,0,3,2,1,50,6,3,50,Dante,1,1,100,23,0,3,Dante Cunningham,8,3,Cunningham,F,0,New Orleans,0
+3,3,8,1,1,100,23,14,61,Anthony,16,14,88,41,2,5,Anthony Davis,43,10,Davis,C,4,New Orleans,1
+2,1,2,7,3,43,15,8,53,Eric,3,3,100,39,0,5,Eric Gordon,22,2,Gordon,G,1,New Orleans,1
+8,0,1,2,1,50,2,1,50,Jrue,2,1,50,23,0,0,Jrue Holiday,4,1,Holiday,G,1,New Orleans,7
+0,1,2,0,0,0,2,2,100,Alexis,0,0,0,9,0,1,Alexis Ajinca,4,2,Ajinca,N/A,1,New Orleans,0
+11,0,3,3,0,0,11,4,36,Ish,0,0,0,34,1,2,Ish Smith,8,4,Smith,N/A,2,New Orleans,0
+4,2,3,7,2,29,10,4,40,Ryan,0,0,0,30,2,3,Ryan Anderson,10,5,Anderson,N/A,0,New Orleans,1
+0,0,0,2,1,50,3,1,33,Toney,0,0,0,8,0,0,Toney Douglas,3,0,Douglas,N/A,0,New Orleans,1
+0,0,0,0,0,0,2,0,0,Alonzo,0,0,0,4,1,0,Alonzo Gee,0,1,Gee,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omer,N/A,N/A,N/A,N/A,N/A,N/A,Omer Asik,N/A,N/A,Asik,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Norris,N/A,N/A,N/A,N/A,N/A,N/A,Norris Cole,N/A,N/A,Cole,N/A,N/A,New Orleans,N/A

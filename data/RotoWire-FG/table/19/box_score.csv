@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,1,3,0,0,4,1,25,Jeff,2,1,50,22,1,2,Jeff Green,3,2,Green,F,0,Orlando,0
+2,0,10,4,0,0,13,3,23,Serge,0,0,0,28,3,1,Serge Ibaka,6,13,Ibaka,F,0,Orlando,2
+1,1,12,0,0,0,10,1,10,Nikola,0,0,0,25,0,4,Nikola Vucevic,2,12,Vucevic,C,0,Orlando,3
+2,0,2,4,1,25,15,4,27,Evan,5,5,100,33,0,2,Evan Fournier,14,2,Fournier,G,1,Orlando,1
+2,0,6,1,0,0,11,5,46,Elfrid,2,2,100,29,1,2,Elfrid Payton,12,7,Payton,G,2,Orlando,3
+0,3,6,0,0,0,4,4,100,Bismack,2,1,50,21,3,1,Bismack Biyombo,9,9,Biyombo,N/A,0,Orlando,3
+1,0,3,4,1,25,11,5,46,Aaron,0,0,0,22,0,1,Aaron Gordon,11,3,Gordon,N/A,0,Orlando,0
+1,0,0,3,1,33,5,2,40,D.J.,2,1,50,16,0,1,D.J. Augustin,6,0,Augustin,N/A,0,Orlando,1
+1,0,1,1,1,100,1,1,100,Damjan,0,0,0,13,0,1,Damjan Rudez,3,1,Rudez,N/A,0,Orlando,1
+1,0,2,3,1,33,5,1,20,C.J.,0,0,0,17,0,2,C.J. Watson,3,2,Watson,N/A,0,Orlando,0
+1,0,0,2,0,0,5,0,0,Mario,0,0,0,5,1,0,Mario Hezonja,0,1,Hezonja,N/A,0,Orlando,0
+0,0,0,0,0,0,0,0,0,CJ,0,0,0,4,0,0,CJ Wilcox,0,0,Wilcox,N/A,0,Orlando,0
+0,1,0,0,0,0,0,0,0,Arinze,0,0,0,4,0,0,Arinze Onuaku,0,0,Onuaku,N/A,0,Orlando,0
+5,1,5,5,1,20,16,5,31,Paul,2,2,100,34,1,1,Paul George,13,6,George,F,2,Indiana,2
+1,1,5,1,1,100,8,5,63,Thaddeus,0,0,0,30,0,1,Thaddeus Young,11,5,Young,F,2,Indiana,0
+0,0,7,0,0,0,11,4,36,Myles,1,1,100,24,0,3,Myles Turner,9,7,Turner,C,0,Indiana,2
+2,1,2,4,0,0,11,6,55,Monta,1,1,100,36,0,3,Monta Ellis,13,2,Ellis,G,0,Indiana,2
+5,3,8,3,1,33,9,4,44,Jeff,2,2,100,29,0,3,Jeff Teague,11,8,Teague,G,1,Indiana,1
+0,0,1,0,0,0,0,0,0,Al,0,0,0,5,0,1,Al Jefferson,0,1,Jefferson,N/A,0,Indiana,0
+0,0,2,0,0,0,2,1,50,Lavoy,0,0,0,16,1,0,Lavoy Allen,2,3,Allen,N/A,0,Indiana,0
+1,2,4,8,4,50,12,5,42,CJ,2,2,100,23,0,0,CJ Miles,16,4,Miles,N/A,2,Indiana,0
+4,0,0,3,1,33,9,2,22,Aaron,2,2,100,17,0,1,Aaron Brooks,7,0,Brooks,N/A,1,Indiana,0
+3,1,5,0,0,0,8,3,38,Kevin,0,0,0,19,5,1,Kevin Seraphin,6,10,Seraphin,N/A,1,Indiana,2
+0,0,2,0,0,0,1,0,0,Georges,0,0,0,2,0,0,Georges Niang,0,2,Niang,N/A,0,Indiana,0
+1,0,1,1,0,0,1,0,0,Glenn,0,0,0,2,0,0,Glenn Robinson III,0,1,Robinson,N/A,0,Indiana,0
+0,0,0,0,0,0,2,0,0,Joe,0,0,0,2,0,0,Joe Young,0,0,Young,N/A,0,Indiana,0

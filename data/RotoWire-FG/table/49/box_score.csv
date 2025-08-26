@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,1,0,0,9,5,56,Kobe,0,0,0,25,0,1,Kobe Bryant,10,2,Bryant,F,0,Los Angeles,5
+0,1,7,0,0,0,7,4,57,Julius,5,3,60,24,2,3,Julius Randle,11,9,Randle,F,0,Los Angeles,1
+1,2,2,0,0,0,4,3,75,Roy,3,3,100,24,1,2,Roy Hibbert,9,3,Hibbert,C,0,Los Angeles,2
+3,1,1,4,2,50,10,4,40,Lou,6,6,100,29,0,2,Lou Williams,16,1,Williams,G,1,Los Angeles,3
+3,0,1,3,1,33,8,2,25,Jordan,5,5,100,25,0,4,Jordan Clarkson,10,1,Clarkson,G,0,Los Angeles,1
+1,0,3,3,1,33,7,2,29,Ryan,2,1,50,24,0,4,Ryan Kelly,6,3,Kelly,N/A,0,Los Angeles,1
+2,0,3,2,1,50,12,8,67,D'Angelo,5,4,80,23,0,0,D'Angelo Russell,21,3,Russell,N/A,1,Los Angeles,2
+0,0,1,2,2,100,4,3,75,Anthony,2,2,100,23,0,2,Anthony Brown,10,1,Brown,N/A,0,Los Angeles,2
+2,1,5,0,0,0,3,1,33,Brandon,2,2,100,21,1,1,Brandon Bass,4,6,Bass,N/A,1,Los Angeles,0
+1,1,0,0,0,0,2,1,50,Marcelo,2,2,100,12,0,1,Marcelo Huertas,4,0,Huertas,N/A,1,Los Angeles,1
+0,0,0,2,0,0,2,0,0,Nick,0,0,0,7,0,0,Nick Young,0,0,Young,N/A,0,Los Angeles,0
+0,0,1,0,0,0,1,1,100,Robert,0,0,0,4,0,0,Robert Sacre,2,1,Sacre,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Los Angeles,N/A
+1,0,2,3,1,33,4,2,50,Al-Farouq,0,0,0,21,0,1,Al-Farouq Aminu,5,2,Aminu,F,1,Portland,0
+1,0,4,1,0,0,6,5,83,Noah,2,1,50,25,2,5,Noah Vonleh,11,6,Vonleh,F,3,Portland,1
+6,0,7,0,0,0,7,3,43,Mason,7,7,100,25,1,2,Mason Plumlee,13,8,Plumlee,C,3,Portland,2
+3,0,3,8,4,50,21,12,57,CJ,0,0,0,33,0,3,CJ McCollum,28,3,McCollum,G,1,Portland,2
+5,0,1,8,5,63,19,14,74,Damian,4,3,75,29,0,0,Damian Lillard,36,1,Lillard,G,0,Portland,0
+2,0,3,3,0,0,11,4,36,Gerald,2,2,100,23,2,0,Gerald Henderson,10,5,Henderson,N/A,0,Portland,0
+1,0,1,4,0,0,12,3,25,Allen,0,0,0,27,1,5,Allen Crabbe,6,2,Crabbe,N/A,1,Portland,1
+1,1,4,0,0,0,3,1,33,Ed,4,3,75,20,4,4,Ed Davis,5,8,Davis,N/A,3,Portland,0
+3,0,2,4,0,0,6,1,17,Meyers,1,0,0,21,3,1,Meyers Leonard,2,5,Leonard,N/A,0,Portland,1
+1,0,0,0,0,0,2,1,50,Chris,0,0,0,4,0,0,Chris Kaman,2,0,Kaman,N/A,0,Portland,0
+1,0,0,0,0,0,1,0,0,Tim,2,1,50,4,1,0,Tim Frazier,1,1,Frazier,N/A,0,Portland,0
+1,0,0,0,0,0,1,1,100,Pat,0,0,0,4,0,1,Pat Connaughton,2,0,Connaughton,N/A,0,Portland,0
+0,0,1,0,0,0,0,0,0,Maurice,0,0,0,2,0,0,Maurice Harkless,0,1,Harkless,N/A,0,Portland,1

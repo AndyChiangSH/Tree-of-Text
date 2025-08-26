@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,0,1,0,0,6,4,67,Mikal,3,2,67,37,1,1,Mikal Bridges,10,1,Bridges,F,3,Phoenix,0
+6,1,9,4,1,25,9,4,44,Dragan,4,3,75,36,2,4,Dragan Bender,12,11,Bender,F,1,Phoenix,2
+2,2,6,1,0,0,7,1,14,Ray,2,0,0,18,1,2,Ray Spalding,2,7,Spalding,C,2,Phoenix,1
+0,2,7,8,2,25,20,6,30,Josh,5,3,60,42,1,3,Josh Jackson,17,8,Jackson,G,0,Phoenix,1
+3,0,1,4,3,75,6,3,50,Elie,2,2,100,26,0,3,Elie Okobo,11,1,Okobo,G,2,Phoenix,3
+0,0,0,2,0,0,3,0,0,Troy,0,0,0,10,0,2,Troy Daniels,0,0,Daniels,N/A,1,Phoenix,0
+5,1,5,13,7,54,30,18,60,Jamal,9,8,89,38,0,4,Jamal Crawford,51,5,Crawford,N/A,1,Phoenix,4
+1,0,3,0,0,0,4,2,50,De'Anthony,3,2,67,19,0,3,De'Anthony Melton,6,3,Melton,N/A,3,Phoenix,2
+4,0,2,2,0,0,3,0,0,Jimmer,0,0,0,13,0,0,Jimmer Fredette,0,2,Fredette,N/A,0,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Devin,N/A,N/A,N/A,N/A,N/A,N/A,Devin Booker,N/A,N/A,Booker,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Phoenix,N/A
+0,0,0,4,2,50,7,4,57,Justin,0,0,0,29,0,1,Justin Jackson,10,0,Jackson,F,1,Dallas,1
+3,1,7,14,5,36,31,11,36,Dirk,3,3,100,33,1,3,Dirk Nowitzki,30,8,Nowitzki,F,0,Dallas,2
+3,3,5,2,0,0,5,3,60,Dwight,7,5,71,27,6,5,Dwight Powell,11,11,Powell,C,0,Dallas,3
+5,1,2,5,3,60,10,4,40,Devin,3,3,100,22,1,3,Devin Harris,14,3,Harris,G,0,Dallas,3
+11,0,13,5,2,40,14,6,43,Luka,8,7,88,32,3,1,Luka Doncic,21,16,Doncic,G,3,Dallas,4
+2,0,4,2,0,0,8,3,38,Jalen,4,3,75,29,0,4,Jalen Brunson,9,4,Brunson,N/A,0,Dallas,0
+2,0,4,2,1,50,9,7,78,Dorian,0,0,0,20,6,2,Dorian Finney-Smith,15,10,Finney-Smith,N/A,1,Dallas,2
+1,1,9,1,1,100,1,1,100,Maxi,2,1,50,20,1,3,Maxi Kleber,4,10,Kleber,N/A,0,Dallas,2
+0,0,1,2,0,0,3,0,0,Ryan,0,0,0,15,0,0,Ryan Broekhoff,0,1,Broekhoff,N/A,1,Dallas,4
+1,0,1,3,2,67,3,2,67,Trey,0,0,0,12,0,2,Trey Burke,6,1,Burke,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kostas,N/A,N/A,N/A,N/A,N/A,N/A,Kostas Antetokounmpo,N/A,N/A,Antetokounmpo,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Daryl,N/A,N/A,N/A,N/A,N/A,N/A,Daryl Macon,N/A,N/A,Macon,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Salah,N/A,N/A,N/A,N/A,N/A,N/A,Salah Mejri,N/A,N/A,Mejri,N/A,N/A,Dallas,N/A

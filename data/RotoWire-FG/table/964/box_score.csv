@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,6,3,2,67,5,3,60,Robert,2,2,100,27,0,5,Robert Covington,10,6,Covington,F,1,Philadelphia,2
+2,0,2,4,1,25,13,4,31,Dario,2,2,100,29,6,4,Dario Saric,11,8,Saric,F,0,Philadelphia,2
+1,5,10,4,0,0,11,2,18,Joel,13,10,77,31,2,4,Joel Embiid,14,12,Embiid,C,1,Philadelphia,8
+3,0,1,9,2,22,18,8,44,JJ,6,6,100,34,0,2,JJ Redick,24,1,Redick,G,3,Philadelphia,1
+10,0,9,0,0,0,13,8,62,Ben,4,1,25,39,4,3,Ben Simmons,17,13,Simmons,G,4,Philadelphia,7
+1,0,0,0,0,0,4,3,75,Amir,2,2,100,11,1,1,Amir Johnson,8,1,Johnson,N/A,1,Philadelphia,1
+2,0,2,4,1,25,7,3,43,Marco,3,3,100,27,0,2,Marco Belinelli,10,2,Belinelli,N/A,1,Philadelphia,0
+0,0,1,1,0,0,1,0,0,Justin,0,0,0,9,1,2,Justin Anderson,0,2,Anderson,N/A,0,Philadelphia,0
+1,0,5,6,1,17,10,4,40,Ersan,3,1,33,23,3,1,Ersan Ilyasova,10,8,Ilyasova,N/A,1,Philadelphia,2
+0,0,4,0,0,0,2,1,50,T.J.,0,0,0,9,0,1,T.J. McConnell,2,4,McConnell,N/A,0,Philadelphia,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Markelle,N/A,N/A,N/A,N/A,N/A,N/A,Markelle Fultz,N/A,N/A,Fultz,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timothe,N/A,N/A,N/A,N/A,N/A,N/A,Timothe Luwawu-Cabarrot,N/A,N/A,Luwawu-Cabarrot,N/A,N/A,Philadelphia,N/A
+7,1,2,3,1,33,11,4,36,Josh,2,1,50,35,3,4,Josh Richardson,10,5,Richardson,F,7,Miami,0
+5,1,7,4,1,25,12,5,42,James,5,4,80,36,1,4,James Johnson,15,8,Johnson,F,1,Miami,3
+0,1,11,0,0,0,9,6,67,Hassan,3,1,33,26,2,4,Hassan Whiteside,13,13,Whiteside,C,0,Miami,4
+1,0,0,0,0,0,1,0,0,Tyler,0,0,0,13,0,2,Tyler Johnson,0,0,Johnson,G,0,Miami,0
+3,0,1,3,1,33,19,9,47,Goran,4,1,25,37,0,2,Goran Dragic,20,1,Dragic,G,4,Miami,5
+3,0,4,3,1,33,9,3,33,Justise,2,0,0,20,2,5,Justise Winslow,7,6,Winslow,N/A,1,Miami,2
+1,0,1,6,3,50,7,3,43,Wayne,1,1,100,21,1,2,Wayne Ellington,10,2,Ellington,N/A,1,Miami,2
+0,0,0,0,0,0,1,0,0,Kelly,0,0,0,9,0,3,Kelly Olynyk,0,0,Olynyk,N/A,1,Miami,0
+1,0,2,0,0,0,22,10,46,Dwyane,6,5,83,26,1,3,Dwyane Wade,25,3,Wade,N/A,3,Miami,2
+0,1,2,0,0,0,3,1,33,Bam,2,0,0,16,3,3,Bam Adebayo,2,5,Adebayo,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luke,N/A,N/A,N/A,N/A,N/A,N/A,Luke Babbitt,N/A,N/A,Babbitt,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rodney,N/A,N/A,N/A,N/A,N/A,N/A,Rodney McGruder,N/A,N/A,McGruder,N/A,N/A,Miami,N/A

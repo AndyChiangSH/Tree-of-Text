@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+7,2,12,9,2,22,22,8,36,Kevin,6,5,83,42,0,4,Kevin Durant,23,12,Durant,F,0,Golden State,3
+5,0,6,2,0,0,7,3,43,Draymond,4,3,75,42,4,2,Draymond Green,9,10,Green,F,4,Golden State,1
+0,1,7,2,0,0,13,4,31,DeMarcus,12,8,67,26,2,6,DeMarcus Cousins,16,9,Cousins,C,1,Golden State,2
+5,0,2,6,3,50,18,8,44,Klay,2,1,50,41,0,4,Klay Thompson,20,2,Thompson,G,0,Golden State,3
+5,0,3,19,11,58,25,13,52,Stephen,0,0,0,42,0,2,Stephen Curry,37,3,Curry,G,2,Golden State,2
+1,0,2,0,0,0,3,1,33,Kevon,2,2,100,10,1,1,Kevon Looney,4,3,Looney,N/A,1,Golden State,0
+2,0,2,1,1,100,7,6,86,Andre,2,1,50,30,1,2,Andre Iguodala,14,3,Iguodala,N/A,2,Golden State,2
+0,0,0,0,0,0,0,0,0,Alfonzo,0,0,0,6,0,1,Alfonzo McKinnie,0,0,McKinnie,N/A,0,Golden State,1
+0,0,1,1,1,100,2,2,100,Quinn,0,0,0,11,0,1,Quinn Cook,5,1,Cook,N/A,0,Golden State,0
+2,0,1,0,0,0,1,1,100,Shaun,0,0,0,14,0,1,Shaun Livingston,2,1,Livingston,N/A,1,Golden State,0
+0,0,1,0,0,0,0,0,0,Andrew,0,0,0,2,0,0,Andrew Bogut,0,1,Bogut,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Bell,N/A,N/A,Bell,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jonas,N/A,N/A,N/A,N/A,N/A,N/A,Jonas Jerebko,N/A,N/A,Jerebko,N/A,N/A,Golden State,N/A
+3,1,6,8,3,38,24,10,42,Andrew,2,1,50,39,3,6,Andrew Wiggins,24,9,Wiggins,F,0,Minnesota,6
+0,0,6,4,1,25,9,4,44,Dario,1,1,100,23,1,2,Dario Saric,10,7,Saric,F,0,Minnesota,0
+7,1,8,5,0,0,17,5,29,Karl-Anthony,6,5,83,30,5,5,Karl-Anthony Towns,15,13,Towns,C,0,Minnesota,5
+1,0,4,5,3,60,11,6,55,Josh,8,6,75,41,1,3,Josh Okogie,21,5,Okogie,G,4,Minnesota,0
+4,0,0,3,1,33,8,4,50,Tyus,3,3,100,27,0,1,Tyus Jones,12,0,Jones,G,1,Minnesota,3
+0,0,4,0,0,0,4,0,0,Keita,0,0,0,16,1,1,Keita Bates-Diop,0,5,Bates-Diop,N/A,0,Minnesota,0
+1,1,7,1,0,0,11,7,64,Gorgui,0,0,0,22,3,2,Gorgui Dieng,14,10,Dieng,N/A,2,Minnesota,2
+1,0,9,4,3,75,6,3,50,Anthony,6,5,83,30,0,3,Anthony Tolliver,14,9,Tolliver,N/A,0,Minnesota,0
+6,0,0,6,2,33,11,5,46,Jerryd,6,5,83,26,0,1,Jerryd Bayless,17,0,Bayless,N/A,0,Minnesota,0
+2,0,0,2,1,50,2,1,50,Cameron,2,1,50,10,1,0,Cameron Reynolds,4,1,Reynolds,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Taj,N/A,N/A,N/A,N/A,N/A,N/A,Taj Gibson,N/A,N/A,Gibson,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jared,N/A,N/A,N/A,N/A,N/A,N/A,Jared Terrell,N/A,N/A,Terrell,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,C.J.,N/A,N/A,N/A,N/A,N/A,N/A,C.J. Williams,N/A,N/A,Williams,N/A,N/A,Minnesota,N/A

@@ -1,0 +1,37 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,9,00:09:54,1,0,An Se Young,lob,opponent wins by landing,wins by landing
+3,6,00:10:47,3,0,An Se Young,clear,goes out of bounds,opponent goes out of bounds
+4,18,00:11:21,4,0,An Se Young,smash,hits the net,opponent hits the net
+5,13,00:12:00,4,1,CHEN Yufei,smash,goes out of bounds,opponent goes out of bounds
+6,8,00:12:25,5,1,An Se Young,return net,opponent wins by landing,wins by landing
+7,4,00:12:49,5,2,CHEN Yufei,net shot,opponent wins by landing,wins by landing
+8,20,00:13:26,5,3,CHEN Yufei,push,goes out of bounds,opponent goes out of bounds
+9,1,00:13:49,6,3,An Se Young,long service,goes out of bounds,opponent goes out of bounds
+10,8,00:14:11,7,3,An Se Young,lob,goes out of bounds,opponent goes out of bounds
+11,5,00:14:32,7,4,CHEN Yufei,smash,goes out of bounds,opponent goes out of bounds
+12,7,00:14:54,8,4,An Se Young,drop,goes out of bounds,opponent goes out of bounds
+13,12,00:15:33,9,4,An Se Young,lob,goes out of bounds,opponent goes out of bounds
+14,9,00:15:59,9,5,CHEN Yufei,push,goes out of bounds,opponent goes out of bounds
+15,21,00:16:38,10,5,An Se Young,return net,hits the net,opponent hits the net
+16,3,00:17:01,11,5,An Se Young,drop,opponent wins by landing,wins by landing
+17,4,00:18:16,12,5,An Se Young,net shot,hits the net,opponent hits the net
+18,9,00:18:37,12,6,CHEN Yufei,push,goes out of bounds,opponent goes out of bounds
+19,5,00:18:58,12,7,CHEN Yufei,net shot,opponent wins by landing,wins by landing
+20,2,00:19:24,12,8,CHEN Yufei,clear,goes out of bounds,opponent goes out of bounds
+21,4,00:19:44,12,9,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+22,8,00:20:30,12,10,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+23,31,00:21:18,13,10,An Se Young,drop,hits the net,opponent hits the net
+24,4,00:21:46,13,11,CHEN Yufei,wrist smash,opponent wins by landing,wins by landing
+25,6,00:22:09,14,11,An Se Young,rush,opponent wins by landing,wins by landing
+26,10,00:22:34,15,11,An Se Young,return net,hits the net,opponent hits the net
+28,6,00:23:00,16,12,An Se Young,drop,opponent wins by landing,wins by landing
+29,4,00:23:26,16,13,CHEN Yufei,lob,opponent wins by landing,wins by landing
+30,8,00:23:54,17,13,An Se Young,smash,opponent wins by landing,wins by landing
+31,16,00:24:27,17,14,CHEN Yufei,rush,opponent wins by landing,wins by landing
+32,4,00:25:01,18,14,An Se Young,push,opponent wins by landing,wins by landing
+33,15,00:25:37,18,15,CHEN Yufei,net shot,hits the net,opponent hits the net
+34,10,00:26:08,18,16,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+35,17,00:26:47,18,17,CHEN Yufei,smash,opponent wins by landing,wins by landing
+36,3,00:27:37,19,17,An Se Young,defensive return drive,goes out of bounds,opponent goes out of bounds
+37,9,00:28:01,20,17,An Se Young,lob,landing judgment error,opponent landing judgment error
+38,32,00:28:50,21,17,An Se Young,clear,goes out of bounds,opponent goes out of bounds

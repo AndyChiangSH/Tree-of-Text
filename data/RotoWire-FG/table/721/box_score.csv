@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,3,2,2,100,5,5,100,Rodney,1,1,100,23,0,1,Rodney McGruder,13,3,McGruder,F,0,Miami,0
+0,0,5,6,4,67,8,4,50,Luke,0,0,0,14,1,5,Luke Babbitt,12,6,Babbitt,F,0,Miami,1
+2,1,8,0,0,0,9,1,11,Hassan,0,0,0,25,2,2,Hassan Whiteside,2,10,Whiteside,C,2,Miami,2
+10,2,2,5,2,40,19,6,32,Dion,0,0,0,31,1,1,Dion Waiters,14,3,Waiters,G,1,Miami,2
+3,2,5,6,2,33,16,5,31,Goran,5,5,100,29,1,2,Goran Dragic,17,6,Dragic,G,0,Miami,2
+5,0,0,1,0,0,4,0,0,James,2,2,100,16,2,4,James Johnson,2,2,Johnson,N/A,1,Miami,2
+5,0,4,4,3,75,11,9,82,Tyler,2,2,100,26,1,2,Tyler Johnson,23,5,Johnson,N/A,1,Miami,0
+0,0,5,0,0,0,8,6,75,Willie,0,0,0,23,5,4,Willie Reed,12,10,Reed,N/A,0,Miami,1
+0,0,1,9,3,33,11,3,27,Wayne,1,0,0,22,0,3,Wayne Ellington,9,1,Ellington,N/A,0,Miami,2
+3,0,0,3,0,0,5,0,0,Josh,0,0,0,13,0,2,Josh Richardson,0,0,Richardson,N/A,0,Miami,0
+2,0,6,1,1,100,3,1,33,Okaro,2,1,50,18,2,1,Okaro White,4,8,White,N/A,2,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+0,1,2,6,3,50,13,3,23,Tim,2,2,100,25,0,1,Tim Hardaway Jr.,11,2,Hardaway,F,0,Atlanta,1
+1,0,4,0,0,0,9,6,67,Paul,14,9,64,28,0,2,Paul Millsap,21,4,Millsap,F,1,Atlanta,2
+0,1,6,0,0,0,4,2,50,Dwight,3,0,0,23,1,1,Dwight Howard,4,7,Howard,C,1,Atlanta,2
+2,2,3,3,2,67,9,4,44,Kent,0,0,0,23,0,2,Kent Bazemore,10,3,Bazemore,G,0,Atlanta,2
+4,0,1,2,0,0,10,2,20,Malcolm,2,1,50,23,2,2,Malcolm Delaney,5,3,Delaney,G,1,Atlanta,1
+0,0,3,1,0,0,5,1,20,Thabo,0,0,0,21,1,1,Thabo Sefolosha,2,4,Sefolosha,N/A,1,Atlanta,0
+2,2,7,3,0,0,5,1,20,Mike,6,4,67,19,2,0,Mike Muscala,6,9,Muscala,N/A,1,Atlanta,0
+1,0,2,1,1,100,2,2,100,Mike,4,3,75,16,0,0,Mike Dunleavy,8,2,Dunleavy,N/A,0,Atlanta,0
+1,0,4,0,0,0,7,3,43,Taurean,2,2,100,16,0,2,Taurean Prince,8,4,Prince,N/A,1,Atlanta,2
+0,0,1,2,0,0,7,3,43,Ersan,3,3,100,16,1,0,Ersan Ilyasova,9,2,Ilyasova,N/A,1,Atlanta,0
+0,0,0,1,0,0,2,1,50,DeAndre',0,0,0,10,0,1,DeAndre' Bembry,2,0,Bembry,N/A,0,Atlanta,0
+0,0,3,0,0,0,3,2,67,Kris,0,0,0,10,1,0,Kris Humphries,4,4,Humphries,N/A,0,Atlanta,0
+3,0,1,1,0,0,3,0,0,Lamar,0,0,0,10,0,0,Lamar Patterson,0,1,Patterson,N/A,0,Atlanta,0

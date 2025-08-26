@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,3,1,33,11,5,46,Rodney,1,1,100,36,0,0,Rodney Hood,12,1,Hood,F,2,Cleveland,1
+2,0,2,3,1,33,10,6,60,Cedi,0,0,0,28,0,2,Cedi Osman,13,2,Osman,F,0,Cleveland,0
+7,1,12,0,0,0,7,4,57,Larry,2,2,100,34,3,4,Larry Nance Jr.,10,15,Nance,C,2,Cleveland,0
+1,0,2,0,0,0,3,1,33,David,1,1,100,16,0,0,David Nwaba,3,2,Nwaba,G,1,Cleveland,1
+3,0,3,2,1,50,16,5,31,Collin,0,0,0,27,0,4,Collin Sexton,11,3,Sexton,G,1,Cleveland,1
+6,3,4,1,0,0,8,3,38,Alec,3,2,67,25,0,4,Alec Burks,8,4,Burks,N/A,1,Cleveland,1
+2,0,3,10,4,40,19,8,42,Jordan,2,0,0,35,0,3,Jordan Clarkson,20,3,Clarkson,N/A,1,Cleveland,2
+0,2,4,0,0,0,4,3,75,Ante,3,1,33,16,0,1,Ante Zizic,7,4,Zizic,N/A,0,Cleveland,0
+2,0,0,4,3,75,7,6,86,Jaron,0,0,0,23,1,0,Jaron Blossomgame,15,1,Blossomgame,N/A,0,Cleveland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Matthew,N/A,N/A,N/A,N/A,N/A,N/A,Matthew Dellavedova,N/A,N/A,Dellavedova,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Channing,N/A,N/A,N/A,N/A,N/A,N/A,Channing Frye,N/A,N/A,Frye,N/A,N/A,Cleveland,N/A
+2,0,3,3,2,67,8,5,62,Nicolas,0,0,0,30,0,1,Nicolas Batum,12,3,Batum,F,0,Charlotte,2
+2,1,9,4,2,50,13,8,62,Marvin,0,0,0,38,1,1,Marvin Williams,18,10,Williams,F,0,Charlotte,0
+2,1,7,0,0,0,3,2,67,Cody,0,0,0,28,1,4,Cody Zeller,4,8,Zeller,C,0,Charlotte,1
+5,0,11,4,2,50,16,8,50,Jeremy,0,0,0,42,1,2,Jeremy Lamb,18,12,Lamb,G,0,Charlotte,0
+6,1,1,12,4,33,26,11,42,Kemba,5,4,80,38,2,2,Kemba Walker,30,3,Walker,G,2,Charlotte,1
+2,2,2,0,0,0,10,6,60,Michael,1,0,0,20,6,0,Michael Kidd-Gilchrist,12,8,Kidd-Gilchrist,N/A,2,Charlotte,1
+1,0,3,1,0,0,3,1,33,Miles,0,0,0,14,1,1,Miles Bridges,2,4,Bridges,N/A,0,Charlotte,2
+4,0,1,0,0,0,10,5,50,Tony,3,2,67,23,0,1,Tony Parker,12,1,Parker,N/A,0,Charlotte,3
+0,0,1,1,0,0,3,1,33,Willy,0,0,0,4,1,1,Willy Hernangomez,2,2,Hernangomez,N/A,0,Charlotte,1
+0,0,0,0,0,0,0,0,0,Frank,0,0,0,4,0,1,Frank Kaminsky,0,0,Kaminsky,N/A,0,Charlotte,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwayne,N/A,N/A,N/A,N/A,N/A,N/A,Dwayne Bacon,N/A,N/A,Bacon,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Devonte',N/A,N/A,N/A,N/A,N/A,N/A,Devonte' Graham,N/A,N/A,Graham,N/A,N/A,Charlotte,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malik,N/A,N/A,N/A,N/A,N/A,N/A,Malik Monk,N/A,N/A,Monk,N/A,N/A,Charlotte,N/A

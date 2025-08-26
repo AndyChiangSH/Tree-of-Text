@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,0,3,0,0,7,4,57,Dillon,0,0,0,16,0,0,Dillon Brooks,8,0,Brooks,F,1,Memphis,0
+1,0,4,2,2,100,9,6,67,Jarell,2,1,50,22,1,5,Jarell Martin,15,5,Martin,F,0,Memphis,1
+3,0,1,1,0,0,3,0,0,Marc,0,0,0,20,1,3,Marc Gasol,0,2,Gasol,C,1,Memphis,3
+1,0,3,7,2,29,14,4,29,Ben,5,4,80,27,1,4,Ben McLemore,14,4,McLemore,G,1,Memphis,4
+1,0,2,2,0,0,9,2,22,Kobi,0,0,0,28,0,1,Kobi Simmons,4,2,Simmons,G,0,Memphis,3
+7,0,3,10,5,50,17,9,53,MarShon,4,2,50,36,1,0,MarShon Brooks,25,4,Brooks,N/A,2,Memphis,2
+3,0,2,3,1,33,6,1,17,Marquis,0,0,0,21,0,2,Marquis Teague,3,2,Teague,N/A,2,Memphis,1
+0,0,3,0,0,0,8,4,50,Deyonta,0,0,0,22,3,1,Deyonta Davis,8,6,Davis,N/A,1,Memphis,2
+0,0,4,0,0,0,13,6,46,Ivan,4,4,100,27,3,1,Ivan Rabb,16,7,Rabb,N/A,0,Memphis,3
+1,0,4,4,0,0,7,1,14,Myke,0,0,0,23,1,2,Myke Henry,2,5,Henry,N/A,1,Memphis,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mario,N/A,N/A,N/A,N/A,N/A,N/A,Mario Chalmers,N/A,N/A,Chalmers,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaMychal,N/A,N/A,N/A,N/A,N/A,N/A,JaMychal Green,N/A,N/A,Green,N/A,N/A,Memphis,N/A
+4,1,1,10,7,70,16,11,69,E'Twaun,1,1,100,29,0,3,E'Twaun Moore,30,1,Moore,F,3,New Orleans,1
+0,1,6,5,3,60,12,10,83,Nikola,2,2,100,27,1,4,Nikola Mirotic,25,7,Mirotic,F,0,New Orleans,1
+2,3,8,1,1,100,13,8,62,Anthony,13,11,85,31,4,2,Anthony Davis,28,12,Davis,C,2,New Orleans,2
+6,1,3,4,2,50,12,5,42,Jrue,3,3,100,29,0,1,Jrue Holiday,15,3,Holiday,G,3,New Orleans,2
+13,0,6,2,0,0,4,1,25,Rajon,0,0,0,28,1,1,Rajon Rondo,2,7,Rondo,G,0,New Orleans,2
+1,1,3,4,0,0,6,0,0,Solomon,0,0,0,23,3,3,Solomon Hill,0,6,Hill,N/A,1,New Orleans,3
+2,0,1,7,2,29,9,3,33,Darius,0,0,0,24,0,1,Darius Miller,8,1,Miller,N/A,1,New Orleans,1
+0,0,1,1,1,100,4,2,50,Ian,0,0,0,11,0,1,Ian Clark,5,1,Clark,N/A,3,New Orleans,0
+2,0,3,0,0,0,6,4,67,Cheick,0,0,0,23,2,3,Cheick Diallo,8,5,Diallo,N/A,0,New Orleans,2
+2,0,0,1,0,0,2,0,0,Larry,0,0,0,5,0,0,Larry Drew II,0,0,Drew,N/A,0,New Orleans,0
+0,0,0,1,0,0,1,0,0,DeAndre,0,0,0,4,0,0,DeAndre Liggins,0,0,Liggins,N/A,0,New Orleans,0
+0,0,5,0,0,0,1,1,100,Emeka,0,0,0,4,0,0,Emeka Okafor,2,5,Okafor,N/A,1,New Orleans,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charles,N/A,N/A,N/A,N/A,N/A,N/A,Charles Cooke,N/A,N/A,Cooke,N/A,N/A,New Orleans,N/A

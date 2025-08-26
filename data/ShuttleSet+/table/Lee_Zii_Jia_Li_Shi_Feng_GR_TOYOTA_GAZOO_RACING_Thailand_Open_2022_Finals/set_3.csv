@@ -1,0 +1,41 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,3,00:49:08,0,1,LI Shi Feng,net shot,hits the net,opponent hits the net
+3,13,00:49:56,1,2,LI Shi Feng,drop,hits the net,opponent hits the net
+4,30,00:50:42,1,3,LI Shi Feng,return net,fails to clear the net,opponent fails to clear the net
+5,18,00:51:34,1,4,LI Shi Feng,return net,hits the net,opponent hits the net
+6,6,00:52:12,1,5,LI Shi Feng,rush,hits the net,opponent hits the net
+7,4,00:53:27,2,5,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+8,27,00:54:19,2,6,LI Shi Feng,smash,goes out of bounds,opponent goes out of bounds
+9,3,00:54:54,3,6,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+10,9,00:55:31,3,7,LI Shi Feng,wrist smash,goes out of bounds,opponent goes out of bounds
+11,7,00:55:57,3,8,LI Shi Feng,rush,opponent wins by landing,wins by landing
+12,21,00:56:35,4,8,LEE Zii Jia,net shot,hits the net,opponent hits the net
+13,3,00:57:36,4,9,LI Shi Feng,net shot,hits the net,opponent hits the net
+14,12,00:58:03,4,10,LI Shi Feng,return net,fails to clear the net,opponent fails to clear the net
+16,7,01:00:01,5,11,LEE Zii Jia,return net,hits the net,opponent hits the net
+17,6,01:00:30,6,11,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+18,7,01:00:51,7,11,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+19,6,01:01:14,7,12,LI Shi Feng,smash,opponent wins by landing,wins by landing
+20,3,01:01:38,8,12,LEE Zii Jia,lob,goes out of bounds,opponent goes out of bounds
+21,4,01:01:54,8,13,LI Shi Feng,rush,opponent wins by landing,wins by landing
+22,17,01:02:35,9,13,LEE Zii Jia,return net,fails to clear the net,opponent fails to clear the net
+23,6,01:03:06,9,14,LI Shi Feng,rush,opponent wins by landing,wins by landing
+24,17,01:03:42,10,14,LEE Zii Jia,back-court drive,goes out of bounds,opponent goes out of bounds
+25,8,01:04:12,11,14,LEE Zii Jia,smash,hits the net,opponent hits the net
+26,11,01:04:56,11,15,LI Shi Feng,lob,goes out of bounds,opponent goes out of bounds
+28,9,01:05:55,12,16,LEE Zii Jia,net shot,hits the net,opponent hits the net
+29,11,01:06:33,13,16,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+30,7,01:07:01,13,17,LI Shi Feng,lob,goes out of bounds,opponent goes out of bounds
+31,14,01:07:51,14,17,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+33,13,01:08:58,16,17,LEE Zii Jia,push,opponent wins by landing,wins by landing
+34,7,01:09:37,16,18,LI Shi Feng,return net,fails to clear the net,opponent fails to clear the net
+35,6,01:10:07,16,19,LI Shi Feng,push,goes out of bounds,opponent goes out of bounds
+36,9,01:11:24,17,19,LEE Zii Jia,return net,hits the net,opponent hits the net
+37,3,01:11:52,18,19,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+38,6,01:12:14,19,19,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+39,13,01:12:44,19,20,LI Shi Feng,lob,goes out of bounds,opponent goes out of bounds
+40,35,01:14:13,20,20,LEE Zii Jia,wrist smash,goes out of bounds,opponent goes out of bounds
+41,9,01:15:11,21,20,LEE Zii Jia,lob,landing judgment error,opponent landing judgment error
+42,9,01:15:47,21,21,LI Shi Feng,return net,hits the net,opponent hits the net
+43,7,01:16:29,22,21,LEE Zii Jia,back-court drive,goes out of bounds,opponent goes out of bounds
+44,7,01:16:57,23,21,LEE Zii Jia,push,landing judgment error,opponent landing judgment error

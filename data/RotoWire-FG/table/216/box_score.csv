@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,2,6,3,50,12,6,50,Bojan,3,2,67,33,0,0,Bojan Bogdanovic,17,2,Bogdanovic,F,0,Brooklyn,3
+2,1,4,0,0,0,16,8,50,Thaddeus,2,0,0,39,1,4,Thaddeus Young,16,5,Young,F,2,Brooklyn,1
+5,0,2,0,0,0,13,6,46,Brook,10,8,80,38,2,4,Brook Lopez,20,4,Lopez,C,2,Brooklyn,3
+1,0,1,2,2,100,4,3,75,Wayne,0,0,0,20,0,3,Wayne Ellington,8,1,Ellington,G,1,Brooklyn,2
+6,1,2,2,1,50,5,3,60,Donald,0,0,0,18,0,0,Donald Sloan,7,2,Sloan,G,0,Brooklyn,1
+1,0,5,1,0,0,6,1,17,Thomas,0,0,0,16,1,2,Thomas Robinson,2,6,Robinson,N/A,0,Brooklyn,1
+7,0,6,4,3,75,12,8,67,Markel,2,2,100,33,2,1,Markel Brown,21,8,Brown,N/A,0,Brooklyn,1
+0,2,1,0,0,0,3,3,100,Chris,0,0,0,12,0,2,Chris McCullough,6,1,McCullough,N/A,0,Brooklyn,0
+0,0,2,5,2,40,11,4,36,Sean,2,2,100,20,0,1,Sean Kilpatrick,12,2,Kilpatrick,N/A,0,Brooklyn,0
+8,0,1,2,2,100,9,4,44,Shane,2,2,100,35,2,4,Shane Larkin,12,3,Larkin,N/A,0,Brooklyn,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sergey,N/A,N/A,N/A,N/A,N/A,N/A,Sergey Karasev,N/A,N/A,Karasev,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willie,N/A,N/A,N/A,N/A,N/A,N/A,Willie Reed,N/A,N/A,Reed,N/A,N/A,Brooklyn,N/A
+3,0,1,2,0,0,6,3,50,JaKarr,2,1,50,26,4,1,JaKarr Sampson,7,5,Sampson,F,0,Denver,2
+1,1,6,0,0,0,9,6,67,Kenneth,6,5,83,28,4,1,Kenneth Faried,17,10,Faried,F,0,Denver,2
+4,1,10,2,0,0,14,6,43,Nikola,3,3,100,34,2,5,Nikola Jokic,15,12,Jokic,C,1,Denver,2
+3,1,2,7,1,14,15,8,53,Gary,4,4,100,41,0,0,Gary Harris,21,2,Harris,G,3,Denver,2
+7,1,3,3,1,33,16,9,56,Emmanuel,7,6,86,33,3,4,Emmanuel Mudiay,25,6,Mudiay,G,2,Denver,3
+3,1,2,6,1,17,17,4,24,Will,0,0,0,34,0,1,Will Barton,9,2,Barton,N/A,1,Denver,1
+1,0,3,1,0,0,10,6,60,Joffrey,2,2,100,19,2,2,Joffrey Lauvergne,14,5,Lauvergne,N/A,0,Denver,2
+2,0,2,4,3,75,8,4,50,D.J.,1,1,100,20,1,0,D.J. Augustin,12,3,Augustin,N/A,0,Denver,0
+4,1,3,1,0,0,1,0,0,Darrell,0,0,0,25,1,4,Darrell Arthur,0,4,Arthur,N/A,1,Denver,1
+0,0,1,0,0,0,0,0,0,Axel,0,0,0,5,0,2,Axel Toupane,0,1,Toupane,N/A,0,Denver,0
+0,0,0,0,0,0,0,0,0,Mike,0,0,0,0,0,0,Mike Miller,0,0,Miller,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jameer,N/A,N/A,N/A,N/A,N/A,N/A,Jameer Nelson,N/A,N/A,Nelson,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jusuf,N/A,N/A,N/A,N/A,N/A,N/A,Jusuf Nurkic,N/A,N/A,Nurkic,N/A,N/A,Denver,N/A

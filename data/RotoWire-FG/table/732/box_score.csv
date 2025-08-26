@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,2,2,0,0,5,2,40,Wayne,2,1,50,27,0,5,Wayne Selden,5,2,Selden,F,1,Memphis,2
+4,1,7,4,2,50,10,5,50,James,2,2,100,37,1,0,James Ennis III,14,8,Ennis,F,1,Memphis,2
+2,1,2,0,0,0,10,7,70,Brandan,3,2,67,32,1,3,Brandan Wright,16,3,Wright,C,0,Memphis,3
+3,1,8,1,1,100,8,6,75,Tony,0,0,0,33,1,3,Tony Allen,13,9,Allen,G,2,Memphis,1
+12,1,3,11,4,36,17,6,35,Mike,4,4,100,36,0,3,Mike Conley,20,3,Conley,G,1,Memphis,0
+1,1,0,0,0,0,1,1,100,Wade,0,0,0,15,0,0,Wade Baldwin IV,2,0,Baldwin,N/A,1,Memphis,2
+3,0,2,11,6,55,13,7,54,Troy,0,0,0,31,0,2,Troy Daniels,20,2,Daniels,N/A,1,Memphis,1
+1,0,4,1,0,0,16,6,38,Zach,3,1,33,30,2,3,Zach Randolph,13,6,Randolph,N/A,1,Memphis,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Vince,N/A,N/A,N/A,N/A,N/A,N/A,Vince Carter,N/A,N/A,Carter,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Deyonta,N/A,N/A,N/A,N/A,N/A,N/A,Deyonta Davis,N/A,N/A,Davis,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marc,N/A,N/A,N/A,N/A,N/A,N/A,Marc Gasol,N/A,N/A,Gasol,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaMychal,N/A,N/A,N/A,N/A,N/A,N/A,JaMychal Green,N/A,N/A,Green,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarell,N/A,N/A,N/A,N/A,N/A,N/A,Jarell Martin,N/A,N/A,Martin,N/A,N/A,Memphis,N/A
+1,0,3,2,0,0,11,6,55,Brandon,1,1,100,23,0,1,Brandon Ingram,13,3,Ingram,F,1,Los Angeles,1
+0,1,8,4,1,25,12,6,50,Julius,6,5,83,36,3,0,Julius Randle,18,11,Randle,F,1,Los Angeles,1
+1,1,8,1,1,100,8,4,50,Larry,4,3,75,40,6,5,Larry Nance Jr.,12,14,Nance,C,3,Los Angeles,1
+5,0,6,6,3,50,17,9,53,D'Angelo,7,7,100,36,0,2,D'Angelo Russell,28,6,Russell,G,0,Los Angeles,5
+4,0,2,5,1,20,12,3,25,Jordan,0,0,0,35,1,1,Jordan Clarkson,7,3,Clarkson,G,0,Los Angeles,2
+1,0,5,0,0,0,9,5,56,Thomas,5,2,40,20,5,2,Thomas Robinson,12,10,Robinson,N/A,1,Los Angeles,2
+0,0,0,0,0,0,3,1,33,David,2,1,50,15,1,0,David Nwaba,3,1,Nwaba,N/A,1,Los Angeles,1
+1,0,2,1,1,100,9,4,44,Tyler,2,2,100,22,0,1,Tyler Ennis,11,2,Ennis,N/A,1,Los Angeles,0
+1,0,0,0,0,0,4,2,50,Corey,0,0,0,13,1,0,Corey Brewer,4,1,Brewer,N/A,3,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luol,N/A,N/A,N/A,N/A,N/A,N/A,Luol Deng,N/A,N/A,Deng,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timofey,N/A,N/A,N/A,N/A,N/A,N/A,Timofey Mozgov,N/A,N/A,Mozgov,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Metta,N/A,N/A,N/A,N/A,N/A,N/A,Metta World Peace,N/A,N/A,World,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Los Angeles,N/A

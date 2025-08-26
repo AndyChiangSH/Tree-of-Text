@@ -1,0 +1,23 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,2,00:05:52,0,1,WANG Zhi Yi,smash,opponent wins by landing,wins by landing
+2,27,00:06:32,1,1,Ratchanok INTANON,clear,goes out of bounds,opponent goes out of bounds
+3,13,00:07:05,2,1,Ratchanok INTANON,wrist smash,opponent wins by landing,wins by landing
+4,5,00:07:43,2,2,WANG Zhi Yi,drop,hits the net,opponent hits the net
+5,7,00:08:05,3,2,Ratchanok INTANON,back-court drive,hits the net,opponent hits the net
+6,11,00:08:32,4,2,Ratchanok INTANON,smash,opponent wins by landing,wins by landing
+7,7,00:08:57,4,3,WANG Zhi Yi,defensive return drive,goes out of bounds,opponent goes out of bounds
+9,14,00:10:00,6,3,Ratchanok INTANON,smash,hits the net,opponent hits the net
+10,3,00:10:22,6,4,WANG Zhi Yi,lob,goes out of bounds,opponent goes out of bounds
+11,4,00:10:41,7,4,Ratchanok INTANON,rush,opponent wins by landing,wins by landing
+14,6,00:11:59,10,4,Ratchanok INTANON,rush,hits the net,opponent hits the net
+16,2,00:13:38,12,4,Ratchanok INTANON,net shot,hits the net,opponent hits the net
+17,8,00:13:56,13,4,Ratchanok INTANON,net shot,hits the net,opponent hits the net
+18,7,00:14:16,14,4,Ratchanok INTANON,drop,opponent wins by landing,wins by landing
+20,23,00:15:09,16,4,Ratchanok INTANON,drop,opponent wins by landing,wins by landing
+21,8,00:15:49,17,4,Ratchanok INTANON,smash,hits the net,opponent hits the net
+22,7,00:16:15,17,5,WANG Zhi Yi,drop,goes out of bounds,opponent goes out of bounds
+24,6,00:16:54,18,6,Ratchanok INTANON,wrist smash,opponent wins by landing,wins by landing
+25,4,00:17:27,19,6,Ratchanok INTANON,drop,hits the net,opponent hits the net
+26,4,00:17:46,19,7,WANG Zhi Yi,drop,opponent wins by landing,wins by landing
+28,17,00:18:25,20,8,Ratchanok INTANON,net shot,hits the net,opponent hits the net
+29,8,00:18:55,21,8,Ratchanok INTANON,wrist smash,hits the net,opponent hits the net

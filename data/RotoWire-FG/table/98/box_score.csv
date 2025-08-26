@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,5,3,2,67,9,5,56,Wesley,5,3,60,36,0,4,Wesley Matthews,15,5,Matthews,F,1,Dallas,2
+2,0,5,1,1,100,15,8,53,Harrison,2,2,100,36,1,3,Harrison Barnes,19,6,Barnes,F,0,Dallas,2
+0,0,9,6,3,50,17,9,53,Dirk,3,2,67,27,0,4,Dirk Nowitzki,23,9,Nowitzki,C,0,Dallas,0
+1,0,1,5,0,0,9,3,33,Seth,2,2,100,31,0,0,Seth Curry,8,1,Curry,G,0,Dallas,1
+5,1,2,1,0,0,5,2,40,Yogi,4,4,100,22,0,3,Yogi Ferrell,8,2,Ferrell,G,3,Dallas,1
+1,1,4,0,0,0,0,0,0,Nerlens,0,0,0,21,0,4,Nerlens Noel,0,4,Noel,N/A,1,Dallas,1
+7,0,1,4,1,25,12,8,67,J.J.,5,3,60,27,0,2,J.J. Barea,20,1,Barea,N/A,2,Dallas,2
+1,0,2,2,1,50,6,4,67,Devin,2,2,100,17,0,1,Devin Harris,11,2,Harris,N/A,1,Dallas,1
+0,1,1,3,2,67,3,2,67,Dorian,0,0,0,12,0,1,Dorian Finney-Smith,6,1,Finney-Smith,N/A,0,Dallas,0
+0,0,1,0,0,0,0,0,0,Dwight,2,1,50,12,1,2,Dwight Powell,1,2,Powell,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas Brussino,N/A,N/A,Brussino,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Manny,N/A,N/A,N/A,N/A,N/A,N/A,Manny Harris,N/A,N/A,Harris,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Salah,N/A,N/A,N/A,N/A,N/A,N/A,Salah Mejri,N/A,N/A,Mejri,N/A,N/A,Dallas,N/A
+1,0,5,3,1,33,6,2,33,Caris,0,0,0,25,0,2,Caris LeVert,5,5,LeVert,F,0,Brooklyn,1
+0,1,8,0,0,0,6,2,33,Rondae,2,2,100,30,1,2,Rondae Hollis-Jefferson,6,9,Hollis-Jefferson,F,0,Brooklyn,0
+0,0,3,6,3,50,18,8,44,Brook,10,8,80,33,4,4,Brook Lopez,27,7,Lopez,C,0,Brooklyn,4
+2,0,6,3,1,33,7,3,43,Randy,4,4,100,28,0,3,Randy Foye,11,6,Foye,G,1,Brooklyn,4
+0,0,0,1,0,0,4,2,50,Jeremy,0,0,0,7,0,0,Jeremy Lin,4,0,Lin,G,0,Brooklyn,1
+1,0,1,4,2,50,6,3,50,KJ,0,0,0,15,0,2,KJ McDaniels,8,1,McDaniels,N/A,0,Brooklyn,1
+0,0,2,3,2,67,5,2,40,Quincy,7,5,71,21,1,2,Quincy Acy,11,3,Acy,N/A,0,Brooklyn,1
+2,0,1,4,1,25,7,3,43,Isaiah,6,3,50,23,1,0,Isaiah Whitehead,10,2,Whitehead,N/A,0,Brooklyn,0
+7,0,1,6,2,33,9,5,56,Spencer,7,6,86,30,1,5,Spencer Dinwiddie,18,2,Dinwiddie,N/A,1,Brooklyn,1
+1,0,4,0,0,0,1,0,0,Andrew,0,0,0,12,0,2,Andrew Nicholson,0,4,Nicholson,N/A,0,Brooklyn,2
+2,0,1,1,1,100,3,1,33,Archie,2,1,50,14,1,0,Archie Goodwin,4,2,Goodwin,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trevor,N/A,N/A,N/A,N/A,N/A,N/A,Trevor Booker,N/A,N/A,Booker,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Hamilton,N/A,N/A,Hamilton,N/A,N/A,Brooklyn,N/A

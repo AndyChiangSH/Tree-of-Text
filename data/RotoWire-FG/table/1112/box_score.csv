@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,9,4,2,50,23,15,65,LeBron,5,4,80,33,1,2,LeBron James,36,10,James,F,2,Los Angeles,5
+4,0,5,5,2,40,17,9,53,Kyle,3,1,33,34,0,2,Kyle Kuzma,21,5,Kuzma,F,1,Los Angeles,0
+0,3,9,0,0,0,8,4,50,JaVale,2,2,100,33,2,2,JaVale McGee,10,11,McGee,C,1,Los Angeles,1
+0,0,2,6,1,17,9,3,33,Reggie,2,2,100,22,0,0,Reggie Bullock,9,2,Bullock,G,2,Los Angeles,0
+10,0,3,4,2,50,9,6,67,Rajon,0,0,0,31,1,2,Rajon Rondo,14,4,Rondo,G,2,Los Angeles,2
+2,2,2,2,0,0,2,0,0,Josh,0,0,0,24,0,1,Josh Hart,0,2,Hart,N/A,0,Los Angeles,1
+0,0,0,0,0,0,1,0,0,Johnathan,2,1,50,4,0,1,Johnathan Williams,1,0,Williams,N/A,0,Los Angeles,1
+1,0,1,3,1,33,4,2,50,Moritz,0,0,0,10,0,1,Moritz Wagner,5,1,Wagner,N/A,0,Los Angeles,0
+1,0,5,8,4,50,11,7,64,Kentavious,6,6,100,31,1,2,Kentavious Caldwell-Pope,24,6,Caldwell-Pope,N/A,2,Los Angeles,1
+1,0,0,1,1,100,1,1,100,Alex,0,0,0,11,0,1,Alex Caruso,3,0,Caruso,N/A,1,Los Angeles,2
+0,0,0,0,0,0,1,0,0,Andre,0,0,0,2,0,0,Andre Ingram,0,0,Ingram,N/A,0,Los Angeles,0
+0,0,0,0,0,0,0,0,0,Mike,0,0,0,4,0,0,Mike Muscala,0,0,Muscala,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaac,N/A,N/A,N/A,N/A,N/A,N/A,Isaac Bonga,N/A,N/A,Bonga,N/A,N/A,Los Angeles,N/A
+2,0,9,8,4,50,14,5,36,Otto,5,5,100,33,0,1,Otto Porter Jr.,19,9,Porter,F,0,Chicago,2
+0,0,2,8,0,0,17,4,24,Lauri,3,3,100,35,3,4,Lauri Markkanen,11,5,Markkanen,F,0,Chicago,2
+3,0,4,0,0,0,14,9,64,Robin,2,2,100,35,3,1,Robin Lopez,20,7,Lopez,C,0,Chicago,1
+6,0,4,3,2,67,8,5,62,Ryan,2,2,100,32,0,2,Ryan Arcidiacono,14,4,Arcidiacono,G,2,Chicago,1
+9,0,5,3,2,67,16,8,50,Kris,0,0,0,33,2,4,Kris Dunn,18,7,Dunn,G,2,Chicago,4
+3,0,2,0,0,0,7,3,43,Shaquille,0,0,0,25,0,2,Shaquille Harrison,6,2,Harrison,N/A,1,Chicago,2
+0,0,2,3,3,100,5,3,60,Wayne,0,0,0,14,0,2,Wayne Selden,9,2,Selden,N/A,0,Chicago,2
+0,0,0,0,0,0,1,0,0,Timothe,0,0,0,12,0,1,Timothe Luwawu-Cabarrot,0,0,Luwawu-Cabarrot,N/A,1,Chicago,0
+0,0,2,0,0,0,5,3,60,Cristiano,0,0,0,9,3,2,Cristiano Felicio,6,5,Felicio,N/A,0,Chicago,1
+0,0,3,1,0,0,3,2,67,Antonio,0,0,0,11,0,3,Antonio Blakeney,4,3,Blakeney,N/A,0,Chicago,1
+0,0,0,1,0,0,1,0,0,Brandon,0,0,0,2,0,0,Brandon Sampson,0,0,Sampson,N/A,0,Chicago,0

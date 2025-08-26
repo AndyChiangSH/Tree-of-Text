@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,4,3,0,0,4,0,0,Solomon,0,0,0,20,1,1,Solomon Hill,0,5,Hill,F,2,New Orleans,1
+1,0,7,3,1,33,17,7,41,Anthony,6,5,83,37,5,2,Anthony Davis,20,12,Davis,F,2,New Orleans,5
+3,0,8,4,1,25,15,5,33,DeMarcus,4,4,100,38,0,2,DeMarcus Cousins,15,8,Cousins,C,1,New Orleans,4
+1,0,2,4,1,25,4,1,25,Hollis,0,0,0,8,0,2,Hollis Thompson,3,2,Thompson,G,1,New Orleans,0
+3,3,3,2,1,50,9,1,11,Jrue,2,1,50,23,2,2,Jrue Holiday,4,5,Holiday,G,1,New Orleans,4
+1,0,1,4,2,50,8,4,50,E'Twaun,0,0,0,18,0,1,E'Twaun Moore,10,1,Moore,N/A,0,New Orleans,2
+1,0,2,0,0,0,2,0,0,Alexis,2,1,50,17,2,2,Alexis Ajinca,1,4,Ajinca,N/A,1,New Orleans,2
+0,0,3,4,0,0,6,2,33,Dante,0,0,0,26,2,0,Dante Cunningham,4,5,Cunningham,N/A,1,New Orleans,1
+3,0,3,2,1,50,4,2,50,Tim,4,2,50,29,1,2,Tim Frazier,7,4,Frazier,N/A,0,New Orleans,1
+0,0,0,0,0,0,0,0,0,Donatas,0,0,0,4,0,0,Donatas Motiejunas,0,0,Motiejunas,N/A,0,New Orleans,0
+3,0,1,7,3,43,15,8,53,Jordan,0,0,0,20,0,1,Jordan Crawford,19,1,Crawford,N/A,2,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cheick,N/A,N/A,N/A,N/A,N/A,N/A,Cheick Diallo,N/A,N/A,Diallo,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Reggie,N/A,N/A,N/A,N/A,N/A,N/A,Reggie Williams,N/A,N/A,Williams,N/A,N/A,New Orleans,N/A
+2,0,7,5,2,40,20,10,50,Gordon,2,1,50,36,0,2,Gordon Hayward,23,7,Hayward,F,1,Utah,3
+1,0,3,0,0,0,10,3,30,Derrick,2,1,50,32,1,0,Derrick Favors,7,4,Favors,F,1,Utah,1
+3,2,8,0,0,0,10,6,60,Rudy,3,3,100,36,8,4,Rudy Gobert,15,16,Gobert,C,2,Utah,2
+4,0,4,5,4,80,6,4,67,Joe,0,0,0,32,1,0,Joe Ingles,12,5,Ingles,G,2,Utah,2
+2,0,3,5,1,20,11,3,27,Dante,2,1,50,25,1,1,Dante Exum,8,4,Exum,G,0,Utah,3
+0,0,7,5,2,40,9,3,33,Alec,2,2,100,16,1,1,Alec Burks,10,8,Burks,N/A,0,Utah,0
+4,0,1,2,0,0,4,1,25,Boris,0,0,0,24,0,2,Boris Diaw,2,1,Diaw,N/A,0,Utah,4
+0,0,0,1,0,0,3,1,33,Raul,0,0,0,14,0,4,Raul Neto,2,0,Neto,N/A,2,Utah,2
+0,0,1,4,1,25,7,2,29,Rodney,4,4,100,20,0,2,Rodney Hood,9,1,Hood,N/A,2,Utah,2
+0,0,0,0,0,0,1,0,0,Trey,0,0,0,4,0,1,Trey Lyles,0,0,Lyles,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Bolomboy,N/A,N/A,Bolomboy,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Johnson,N/A,N/A,Johnson,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Withey,N/A,N/A,Withey,N/A,N/A,Utah,N/A

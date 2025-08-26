@@ -1,0 +1,37 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,15,00:25:25,1,0,Akane YAMAGUCHI,net shot,opponent wins by landing,wins by landing
+2,9,00:25:52,2,0,Akane YAMAGUCHI,smash,opponent wins by landing,wins by landing
+3,6,00:26:23,2,1,An Se Young,drive,opponent wins by landing,wins by landing
+4,8,00:26:46,3,1,Akane YAMAGUCHI,wrist smash,opponent wins by landing,wins by landing
+5,15,00:27:17,4,1,Akane YAMAGUCHI,rush,opponent wins by landing,wins by landing
+6,4,00:27:40,4,2,An Se Young,drive,landing judgment error,opponent landing judgment error
+7,19,00:28:24,5,2,Akane YAMAGUCHI,drop,goes out of bounds,opponent goes out of bounds
+8,14,00:28:57,5,3,An Se Young,rush,opponent wins by landing,wins by landing
+9,11,00:29:39,5,4,An Se Young,rush,opponent wins by landing,wins by landing
+10,8,00:30:05,5,5,An Se Young,return net,fails to clear the net,opponent fails to clear the net
+11,5,00:30:24,6,5,Akane YAMAGUCHI,net shot,hits the net,opponent hits the net
+12,5,00:30:44,7,5,Akane YAMAGUCHI,wrist smash,opponent wins by landing,wins by landing
+13,15,00:31:34,8,5,Akane YAMAGUCHI,smash,opponent wins by landing,wins by landing
+14,14,00:32:06,9,5,Akane YAMAGUCHI,lob,goes out of bounds,opponent goes out of bounds
+15,11,00:32:38,10,5,Akane YAMAGUCHI,lob,opponent wins by landing,wins by landing
+16,17,00:33:26,11,5,Akane YAMAGUCHI,smash,opponent wins by landing,wins by landing
+17,26,00:35:05,12,5,Akane YAMAGUCHI,return net,fails to clear the net,opponent fails to clear the net
+18,14,00:35:44,12,6,An Se Young,return net,opponent wins by landing,wins by landing
+19,4,00:36:06,13,6,Akane YAMAGUCHI,rush,opponent wins by landing,wins by landing
+20,7,00:36:58,13,7,An Se Young,return net,hits the net,opponent hits the net
+21,11,00:37:25,13,8,An Se Young,rush,opponent wins by landing,wins by landing
+22,6,00:37:50,13,9,An Se Young,drop,hits the net,opponent hits the net
+23,8,00:38:17,13,10,An Se Young,return net,hits the net,opponent hits the net
+24,24,00:39:22,13,11,An Se Young,clear,goes out of bounds,opponent goes out of bounds
+25,11,00:39:59,14,11,Akane YAMAGUCHI,return net,goes out of bounds,opponent goes out of bounds
+26,7,00:40:30,15,11,Akane YAMAGUCHI,rush,opponent wins by landing,wins by landing
+27,5,00:40:56,15,12,An Se Young,net shot,fails to clear the net,opponent fails to clear the net
+28,10,00:41:23,15,13,An Se Young,lob,goes out of bounds,opponent goes out of bounds
+29,3,00:41:42,16,13,Akane YAMAGUCHI,defensive return lob,goes out of bounds,opponent goes out of bounds
+30,11,00:42:06,16,14,An Se Young,return net,goes out of bounds,opponent goes out of bounds
+31,14,00:42:43,17,14,Akane YAMAGUCHI,rush,opponent wins by landing,wins by landing
+32,18,00:43:23,18,14,Akane YAMAGUCHI,clear,goes out of bounds,opponent goes out of bounds
+33,11,00:44:12,19,14,Akane YAMAGUCHI,drop,landing judgment error,opponent landing judgment error
+34,18,00:44:50,20,14,Akane YAMAGUCHI,net shot,hits the net,opponent hits the net
+35,5,00:45:27,20,15,An Se Young,net shot,hits the net,opponent hits the net
+36,8,00:45:56,21,15,Akane YAMAGUCHI,rush,opponent wins by landing,wins by landing

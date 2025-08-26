@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,2,2,1,50,4,2,50,Stanley,0,0,0,14,1,2,Stanley Johnson,5,3,Johnson,F,1,Detroit,1
+10,0,8,7,1,14,22,9,41,Blake,3,2,67,42,2,4,Blake Griffin,21,10,Griffin,F,2,Detroit,4
+1,1,13,0,0,0,13,6,46,Andre,10,5,50,43,7,3,Andre Drummond,17,20,Drummond,C,1,Detroit,3
+4,1,8,7,2,29,10,5,50,Reggie,0,0,0,39,0,1,Reggie Bullock,12,8,Bullock,G,2,Detroit,3
+0,0,1,6,0,0,13,2,15,Reggie,0,0,0,20,2,0,Reggie Jackson,4,3,Jackson,G,1,Detroit,0
+1,1,4,3,0,0,6,2,33,James,3,1,33,20,1,0,James Ennis III,5,5,Ennis,N/A,0,Detroit,0
+3,1,6,6,2,33,14,8,57,Ish,0,0,0,33,2,1,Ish Smith,18,8,Smith,N/A,0,Detroit,2
+1,0,4,2,0,0,2,0,0,Anthony,1,0,0,21,1,0,Anthony Tolliver,0,5,Tolliver,N/A,0,Detroit,0
+2,0,4,5,0,0,11,6,55,Luke,2,2,100,33,0,6,Luke Kennard,14,4,Kennard,N/A,2,Detroit,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwight,N/A,N/A,N/A,N/A,N/A,N/A,Dwight Buycks,N/A,N/A,Buycks,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Henry,N/A,N/A,N/A,N/A,N/A,N/A,Henry Ellenson,N/A,N/A,Ellenson,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Langston,N/A,N/A,N/A,N/A,N/A,N/A,Langston Galloway,N/A,N/A,Galloway,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Moreland,N/A,N/A,Moreland,N/A,N/A,Detroit,N/A
+2,0,5,8,3,38,11,3,27,Trevor,0,0,0,38,0,4,Trevor Ariza,9,5,Ariza,F,1,Houston,0
+1,0,4,7,2,29,11,4,36,PJ,0,0,0,37,4,0,PJ Tucker,10,8,Tucker,F,0,Houston,2
+3,0,9,0,0,0,8,5,62,Clint,2,0,0,29,5,2,Clint Capela,10,14,Capela,C,0,Houston,3
+5,2,8,8,0,0,20,4,20,James,18,13,72,40,0,2,James Harden,21,8,Harden,G,2,Houston,3
+5,0,3,9,3,33,19,8,42,Eric,4,3,75,42,0,1,Eric Gordon,22,3,Gordon,G,2,Houston,4
+0,0,1,2,1,50,4,3,75,Luc,0,0,0,7,0,1,Luc Mbah a Moute,7,1,Mbah,N/A,0,Houston,0
+0,0,3,7,2,29,11,4,36,Joe,1,1,100,30,0,3,Joe Johnson,11,3,Johnson,N/A,2,Houston,0
+1,1,4,2,0,0,6,3,50,Ryan,3,1,33,20,3,2,Ryan Anderson,7,7,Anderson,N/A,0,Houston,0
+2,0,3,8,1,12,9,1,11,Gerald,0,0,0,22,0,4,Gerald Green,3,3,Green,N/A,2,Houston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tarik,N/A,N/A,N/A,N/A,N/A,N/A,Tarik Black,N/A,N/A,Black,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,N/A,Nene,N/A,N/A,N/A,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Paul,N/A,N/A,Paul,N/A,N/A,Houston,N/A

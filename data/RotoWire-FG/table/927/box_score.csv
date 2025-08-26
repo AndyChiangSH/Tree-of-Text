@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,9,7,4,57,16,11,69,Wilson,1,0,0,41,1,3,Wilson Chandler,26,10,Chandler,F,2,Denver,2
+2,2,5,1,0,0,5,2,40,Paul,3,1,33,26,0,2,Paul Millsap,5,5,Millsap,F,1,Denver,3
+5,0,8,5,2,40,8,5,62,Nikola,3,3,100,27,1,3,Nikola Jokic,15,9,Jokic,C,1,Denver,4
+2,0,1,7,2,29,17,6,35,Gary,0,0,0,35,0,5,Gary Harris,14,1,Harris,G,3,Denver,1
+4,0,6,7,3,43,11,5,46,Jamal,6,5,83,34,0,3,Jamal Murray,18,6,Murray,G,2,Denver,4
+3,0,3,4,0,0,14,3,21,Will,2,2,100,25,1,2,Will Barton,8,4,Barton,N/A,0,Denver,2
+5,2,6,0,0,0,3,2,67,Mason,2,1,50,21,2,5,Mason Plumlee,5,8,Plumlee,N/A,1,Denver,3
+1,0,1,5,1,20,7,2,29,Trey,2,2,100,16,0,1,Trey Lyles,7,1,Lyles,N/A,0,Denver,0
+0,0,0,4,1,25,5,2,40,Devin,0,0,0,14,0,2,Devin Harris,5,0,Harris,N/A,2,Denver,0
+0,0,0,0,0,0,0,0,0,Darrell,0,0,0,0,0,0,Darrell Arthur,0,0,Arthur,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malik,N/A,N/A,N/A,N/A,N/A,N/A,Malik Beasley,N/A,N/A,Beasley,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth Faried,N/A,N/A,Faried,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richard,N/A,N/A,N/A,N/A,N/A,N/A,Richard Jefferson,N/A,N/A,Jefferson,N/A,N/A,Denver,N/A
+2,0,13,11,5,46,20,10,50,Kyle,1,1,100,39,0,2,Kyle Kuzma,26,13,Kuzma,F,1,Los Angeles,1
+2,0,6,0,0,0,17,11,65,Julius,7,4,57,39,7,4,Julius Randle,26,13,Randle,F,0,Los Angeles,4
+0,1,2,6,3,50,13,6,46,Brook,3,2,67,26,1,4,Brook Lopez,17,3,Lopez,C,0,Los Angeles,1
+5,0,7,4,1,25,6,3,50,Kentavious,4,3,75,36,1,3,Kentavious Caldwell-Pope,10,8,Caldwell-Pope,G,2,Los Angeles,0
+8,2,9,7,1,14,11,2,18,Lonzo,2,0,0,41,0,1,Lonzo Ball,5,9,Ball,G,3,Los Angeles,4
+2,0,1,9,4,44,19,7,37,Isaiah,6,5,83,31,3,2,Isaiah Thomas,23,4,Thomas,N/A,0,Los Angeles,3
+1,0,1,0,0,0,0,0,0,Alex,2,2,100,10,0,0,Alex Caruso,2,1,Caruso,N/A,0,Los Angeles,0
+0,0,1,3,1,33,3,1,33,Travis,0,0,0,13,0,4,Travis Wear,3,1,Wear,N/A,0,Los Angeles,1
+0,0,0,0,0,0,1,0,0,Ivica,0,0,0,5,0,3,Ivica Zubac,0,0,Zubac,N/A,0,Los Angeles,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thomas,N/A,N/A,N/A,N/A,N/A,N/A,Thomas Bryant,N/A,N/A,Bryant,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ennis,N/A,N/A,Ennis,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Williams,N/A,N/A,Williams,N/A,N/A,Los Angeles,N/A

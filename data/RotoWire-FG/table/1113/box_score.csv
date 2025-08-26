@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,0,0,0,0,1,0,0,Bruce,0,0,0,10,1,1,Bruce Brown,0,1,Brown,F,1,Detroit,0
+3,1,4,6,2,33,9,4,44,Blake,4,3,75,30,0,2,Blake Griffin,13,4,Griffin,F,1,Detroit,3
+0,2,5,0,0,0,3,1,33,Andre,4,3,75,24,4,6,Andre Drummond,5,9,Drummond,C,0,Detroit,5
+1,0,1,7,3,43,7,3,43,Wayne,2,2,100,25,0,2,Wayne Ellington,11,1,Ellington,G,2,Detroit,2
+3,0,1,6,0,0,15,3,20,Reggie,2,2,100,24,0,4,Reggie Jackson,8,1,Jackson,G,0,Detroit,3
+0,2,5,1,0,0,7,3,43,Thon,6,2,33,18,1,0,Thon Maker,8,6,Maker,N/A,0,Detroit,0
+4,0,3,6,2,33,9,4,44,Luke,0,0,0,29,0,2,Luke Kennard,10,3,Kennard,N/A,0,Detroit,1
+2,0,0,4,1,25,5,1,20,Langston,0,0,0,21,0,2,Langston Galloway,3,0,Galloway,N/A,1,Detroit,0
+1,0,2,3,0,0,6,2,33,Ish,0,0,0,19,0,1,Ish Smith,4,2,Smith,N/A,0,Detroit,1
+1,0,1,1,0,0,4,3,75,Glenn,0,0,0,16,1,2,Glenn Robinson III,6,2,Robinson,N/A,1,Detroit,1
+3,0,4,0,0,0,4,2,50,Zaza,0,0,0,14,2,1,Zaza Pachulia,4,6,Pachulia,N/A,0,Detroit,1
+1,1,1,2,0,0,5,1,20,Khyri,0,0,0,6,0,0,Khyri Thomas,2,1,Thomas,N/A,0,Detroit,0
+0,0,0,1,0,0,2,0,0,Svi,0,0,0,6,1,0,Svi Mykhailiuk,0,1,Mykhailiuk,N/A,1,Detroit,0
+5,1,6,3,2,67,10,5,50,Josh,2,1,50,31,2,1,Josh Richardson,13,8,Richardson,F,2,Miami,2
+1,1,3,1,0,0,4,2,50,Kelly,5,5,100,21,0,4,Kelly Olynyk,9,3,Olynyk,F,0,Miami,0
+1,0,4,0,0,0,3,3,100,Bam,4,4,100,17,1,4,Bam Adebayo,10,5,Adebayo,C,0,Miami,1
+3,1,4,8,4,50,12,5,42,Dion,2,0,0,28,0,0,Dion Waiters,14,4,Waiters,G,2,Miami,1
+2,0,5,4,2,50,11,7,64,Justise,0,0,0,26,0,1,Justise Winslow,16,5,Winslow,G,2,Miami,0
+3,0,1,3,1,33,7,3,43,Derrick,2,1,50,31,3,2,Derrick Jones Jr.,8,4,Jones,N/A,2,Miami,1
+1,1,3,1,0,0,9,2,22,Dwyane,8,7,88,22,0,2,Dwyane Wade,11,3,Wade,N/A,0,Miami,1
+4,0,2,4,2,50,9,4,44,Goran,0,0,0,19,0,1,Goran Dragic,10,2,Dragic,N/A,2,Miami,1
+1,1,5,0,0,0,12,6,50,Hassan,1,1,100,20,6,3,Hassan Whiteside,13,11,Whiteside,N/A,0,Miami,1
+1,0,1,2,0,0,4,1,25,Rodney,0,0,0,13,1,0,Rodney McGruder,2,2,McGruder,N/A,0,Miami,2
+0,0,4,1,0,0,2,1,50,Udonis,0,0,0,6,0,0,Udonis Haslem,2,4,Haslem,N/A,0,Miami,0
+0,0,0,1,0,0,1,0,0,Ryan,0,0,0,6,0,0,Ryan Anderson,0,0,Anderson,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Johnson,N/A,N/A,Johnson,N/A,N/A,Miami,N/A

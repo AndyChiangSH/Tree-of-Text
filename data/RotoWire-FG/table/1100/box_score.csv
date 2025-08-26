@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,4,7,2,29,9,4,44,Jeff,6,5,83,33,0,0,Jeff Green,15,4,Green,F,1,Washington,0
+2,1,4,5,0,0,10,2,20,Trevor,2,2,100,35,2,2,Trevor Ariza,6,6,Ariza,F,0,Washington,5
+0,0,8,1,0,0,8,2,25,Bobby,4,3,75,28,3,5,Bobby Portis,7,11,Portis,C,0,Washington,3
+6,1,10,10,4,40,23,12,52,Bradley,2,1,50,38,1,2,Bradley Beal,29,11,Beal,G,2,Washington,3
+5,0,4,5,2,40,12,6,50,Tomas,1,1,100,36,1,3,Tomas Satoransky,15,5,Satoransky,G,1,Washington,2
+4,0,3,3,1,33,10,5,50,Jabari,3,1,33,22,2,2,Jabari Parker,12,5,Parker,N/A,0,Washington,4
+1,2,5,1,0,0,3,1,33,Thomas,0,0,0,16,2,0,Thomas Bryant,2,7,Bryant,N/A,1,Washington,0
+0,0,0,1,0,0,2,0,0,Chasson,0,0,0,9,0,0,Chasson Randle,0,0,Randle,N/A,1,Washington,0
+1,1,4,1,0,0,7,3,43,Troy,1,1,100,13,0,0,Troy Brown Jr.,7,4,Brown,N/A,1,Washington,0
+1,0,0,4,1,25,5,1,20,Wesley,0,0,0,9,0,2,Wesley Johnson,3,0,Johnson,N/A,0,Washington,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sam,N/A,N/A,N/A,N/A,N/A,N/A,Sam Dekker,N/A,N/A,Dekker,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ian,N/A,N/A,N/A,N/A,N/A,N/A,Ian Mahinmi,N/A,N/A,Mahinmi,N/A,N/A,Washington,N/A
+3,0,6,5,0,0,13,4,31,Jayson,2,2,100,31,2,2,Jayson Tatum,10,8,Tatum,F,5,Boston,4
+0,1,7,11,3,27,17,7,41,Marcus,2,0,0,27,2,1,Marcus Morris,17,9,Morris,F,0,Boston,1
+3,1,5,0,0,0,11,7,64,Al,5,4,80,29,1,1,Al Horford,18,6,Horford,C,1,Boston,0
+0,0,1,4,4,100,7,6,86,Marcus,0,0,0,30,1,2,Marcus Smart,16,2,Smart,G,2,Boston,1
+12,0,6,3,1,33,15,6,40,Kyrie,0,0,0,33,0,5,Kyrie Irving,13,6,Irving,G,0,Boston,1
+1,0,3,6,1,17,13,4,31,Jaylen,4,4,100,27,0,0,Jaylen Brown,13,3,Brown,N/A,0,Boston,1
+4,1,3,1,0,0,2,0,0,Gordon,4,3,75,24,1,2,Gordon Hayward,3,4,Hayward,N/A,0,Boston,3
+1,0,2,3,1,33,9,5,56,Daniel,0,0,0,18,3,3,Daniel Theis,11,5,Theis,N/A,2,Boston,0
+2,0,2,2,0,0,7,3,43,Terry,0,0,0,18,1,2,Terry Rozier,6,3,Rozier,N/A,2,Boston,1
+0,0,0,0,0,0,0,0,0,Robert,0,0,0,1,0,0,Robert Williams III,0,0,Williams,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Semi,N/A,N/A,N/A,N/A,N/A,N/A,Semi Ojeleye,N/A,N/A,Ojeleye,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brad,N/A,N/A,N/A,N/A,N/A,N/A,Brad Wanamaker,N/A,N/A,Wanamaker,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Guerschon,N/A,N/A,N/A,N/A,N/A,N/A,Guerschon Yabusele,N/A,N/A,Yabusele,N/A,N/A,Boston,N/A

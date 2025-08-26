@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,4,6,2,33,9,4,44,Doug,2,1,50,40,1,2,Doug McDermott,11,5,McDermott,F,0,Oklahoma City,0
+0,1,4,0,0,0,10,6,60,Taj,0,0,0,16,0,1,Taj Gibson,12,4,Gibson,F,0,Oklahoma City,0
+2,0,3,0,0,0,10,4,40,Steven,6,4,67,33,8,2,Steven Adams,12,11,Adams,C,0,Oklahoma City,0
+3,0,2,2,0,0,8,3,38,Victor,5,1,20,27,1,4,Victor Oladipo,7,3,Oladipo,G,0,Oklahoma City,1
+8,1,6,12,2,17,25,6,24,Russell,9,9,100,36,6,5,Russell Westbrook,23,12,Westbrook,G,0,Oklahoma City,8
+0,0,1,1,0,0,14,5,36,Enes,7,7,100,20,3,3,Enes Kanter,17,4,Kanter,N/A,0,Oklahoma City,0
+0,0,2,1,0,0,4,1,25,Semaj,0,0,0,18,0,2,Semaj Christon,2,2,Christon,N/A,0,Oklahoma City,0
+0,0,1,2,1,50,2,1,50,Norris,0,0,0,10,0,4,Norris Cole,3,1,Cole,N/A,1,Oklahoma City,0
+0,0,0,2,1,50,3,2,67,Domantas,2,1,50,9,0,1,Domantas Sabonis,6,0,Sabonis,N/A,0,Oklahoma City,0
+0,1,3,3,1,33,5,1,20,Jerami,2,1,50,19,1,1,Jerami Grant,4,4,Grant,N/A,0,Oklahoma City,0
+0,0,0,1,0,0,2,1,50,Kyle,0,0,0,12,2,1,Kyle Singler,2,2,Singler,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andre,N/A,N/A,N/A,N/A,N/A,N/A,Andre Roberson,N/A,N/A,Roberson,N/A,N/A,Oklahoma City,N/A
+0,1,12,1,0,0,15,10,67,T.J.,3,3,100,33,4,3,T.J. Warren,23,16,Warren,F,0,Phoenix,0
+0,1,0,0,0,0,2,1,50,Marquese,2,2,100,14,1,1,Marquese Chriss,4,1,Chriss,F,2,Phoenix,0
+1,1,7,0,0,0,9,3,33,Alex,4,3,75,21,3,6,Alex Len,9,10,Len,C,1,Phoenix,1
+4,0,5,9,5,56,29,13,45,Devin,8,6,75,38,0,3,Devin Booker,37,5,Booker,G,1,Phoenix,1
+5,0,0,1,0,0,7,4,57,Tyler,4,4,100,39,0,3,Tyler Ulis,12,0,Ulis,G,2,Phoenix,3
+2,1,3,0,0,0,5,3,60,Alan,6,5,83,27,1,5,Alan Williams,11,4,Williams,N/A,0,Phoenix,1
+3,0,4,5,3,60,8,4,50,Jared,0,0,0,34,0,2,Jared Dudley,11,4,Dudley,N/A,0,Phoenix,1
+0,1,1,0,0,0,4,4,100,Derrick,4,3,75,21,3,2,Derrick Jones Jr.,11,4,Jones,N/A,0,Phoenix,0
+0,0,0,0,0,0,0,0,0,Ronnie,0,0,0,2,0,0,Ronnie Price,0,0,Price,N/A,0,Phoenix,0
+1,1,1,2,0,0,4,1,25,Dragan,0,0,0,10,0,1,Dragan Bender,2,1,Bender,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Bledsoe,N/A,N/A,Bledsoe,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarell,N/A,N/A,N/A,N/A,N/A,N/A,Jarell Eddie,N/A,N/A,Eddie,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Knight,N/A,N/A,Knight,N/A,N/A,Phoenix,N/A

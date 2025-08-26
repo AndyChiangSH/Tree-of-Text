@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,6,3,1,33,16,8,50,Carmelo,3,3,100,43,0,4,Carmelo Anthony,20,6,Anthony,F,1,New York,3
+2,1,4,4,1,25,17,6,35,Kristaps,11,10,91,31,0,3,Kristaps Porzingis,23,4,Porzingis,F,1,New York,1
+2,1,9,0,0,0,15,9,60,Robin,2,2,100,44,10,1,Robin Lopez,20,19,Lopez,C,1,New York,5
+3,0,2,5,1,20,7,3,43,Sasha,2,2,100,28,0,2,Sasha Vujacic,9,2,Vujacic,G,0,New York,0
+7,0,4,5,0,0,7,1,14,Jose,0,0,0,38,0,6,Jose Calderon,2,4,Calderon,G,1,New York,1
+1,0,1,0,0,0,1,0,0,Kyle,0,0,0,6,0,0,Kyle O'Quinn,0,1,O'Quinn,N/A,0,New York,1
+2,1,3,2,1,50,7,1,14,Langston,0,0,0,21,2,3,Langston Galloway,3,5,Galloway,N/A,2,New York,2
+1,0,1,0,0,0,4,2,50,Jerian,0,0,0,12,0,1,Jerian Grant,4,1,Grant,N/A,1,New York,1
+1,0,4,1,0,0,9,4,44,Derrick,7,5,71,16,2,0,Derrick Williams,13,6,Williams,N/A,0,New York,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Arron,N/A,N/A,N/A,N/A,N/A,N/A,Arron Afflalo,N/A,N/A,Afflalo,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lou,N/A,N/A,N/A,N/A,N/A,N/A,Lou Amundson,N/A,N/A,Amundson,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kevin,N/A,N/A,N/A,N/A,N/A,N/A,Kevin Seraphin,N/A,N/A,Seraphin,N/A,N/A,New York,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lance,N/A,N/A,N/A,N/A,N/A,N/A,Lance Thomas,N/A,N/A,Thomas,N/A,N/A,New York,N/A
+4,1,5,2,1,50,11,6,55,Jeff,5,4,80,45,1,2,Jeff Green,17,6,Green,F,0,LA,0
+0,0,4,6,2,33,12,4,33,Wesley,1,0,0,23,0,4,Wesley Johnson,10,4,Johnson,F,1,LA,1
+0,6,15,0,0,0,7,4,57,DeAndre,2,2,100,38,4,4,DeAndre Jordan,10,19,Jordan,C,1,LA,2
+1,0,2,10,4,40,15,6,40,JJ,4,4,100,31,0,1,JJ Redick,20,2,Redick,G,0,LA,1
+15,0,4,7,4,57,17,9,53,Chris,4,2,50,34,0,1,Chris Paul,24,4,Paul,G,2,LA,4
+0,1,2,0,0,0,3,1,33,Cole,0,0,0,23,4,6,Cole Aldrich,2,6,Aldrich,N/A,1,LA,3
+1,0,1,3,2,67,13,4,31,Jamal,0,0,0,19,0,2,Jamal Crawford,10,1,Crawford,N/A,0,LA,1
+2,0,1,1,0,0,7,4,57,Austin,0,0,0,19,1,2,Austin Rivers,8,2,Rivers,N/A,2,LA,1
+0,1,0,0,0,0,0,0,0,Pablo,0,0,0,7,0,0,Pablo Prigioni,0,0,Prigioni,N/A,1,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luc,N/A,N/A,N/A,N/A,N/A,N/A,Luc Mbah a Moute,N/A,N/A,Mbah,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Pierce,N/A,N/A,Pierce,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alex,N/A,N/A,N/A,N/A,N/A,N/A,Alex Stepheson,N/A,N/A,Stepheson,N/A,N/A,LA,N/A

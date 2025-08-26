@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,4,5,1,20,12,5,42,Rodney,8,6,75,35,2,4,Rodney Hood,17,6,Hood,F,2,Cleveland,0
+1,0,6,6,1,17,14,6,43,Cedi,0,0,0,40,1,1,Cedi Osman,13,7,Osman,F,0,Cleveland,1
+6,1,11,3,1,33,14,7,50,Larry,0,0,0,33,5,3,Larry Nance Jr.,15,16,Nance,C,3,Cleveland,2
+2,0,3,4,0,0,4,0,0,David,0,0,0,14,0,1,David Nwaba,0,3,Nwaba,G,1,Cleveland,0
+0,0,0,1,0,0,13,6,46,Collin,0,0,0,32,1,1,Collin Sexton,12,1,Sexton,G,0,Cleveland,2
+1,2,5,3,1,33,16,5,31,Alec,3,3,100,26,0,0,Alec Burks,14,5,Burks,N/A,0,Cleveland,0
+4,0,1,4,2,50,6,4,67,Matthew,0,0,0,16,0,1,Matthew Dellavedova,10,1,Dellavedova,N/A,0,Cleveland,3
+1,1,6,3,0,0,6,3,50,Jaron,2,1,50,23,2,2,Jaron Blossomgame,7,8,Blossomgame,N/A,1,Cleveland,0
+2,1,3,0,0,0,3,1,33,Ante,0,0,0,14,1,0,Ante Zizic,2,4,Zizic,N/A,0,Cleveland,1
+0,0,0,2,0,0,3,1,33,Channing,0,0,0,6,0,3,Channing Frye,2,0,Frye,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Clarkson,N/A,N/A,Clarkson,N/A,N/A,Cleveland,N/A
+1,0,1,4,0,0,14,5,36,Bojan,4,4,100,34,2,0,Bojan Bogdanovic,14,3,Bogdanovic,F,0,Indiana,0
+3,1,5,0,0,0,13,6,46,Thaddeus,4,1,25,32,4,0,Thaddeus Young,13,9,Young,F,2,Indiana,1
+2,4,10,2,0,0,12,6,50,Myles,1,0,0,31,0,2,Myles Turner,12,10,Turner,C,0,Indiana,1
+5,2,5,6,1,17,15,4,27,Victor,6,3,50,34,0,2,Victor Oladipo,12,5,Oladipo,G,1,Indiana,3
+4,1,6,2,1,50,6,2,33,Darren,0,0,0,29,0,3,Darren Collison,5,6,Collison,G,1,Indiana,1
+2,1,9,3,0,0,6,1,17,Cory,0,0,0,21,0,0,Cory Joseph,2,9,Joseph,N/A,0,Indiana,1
+3,0,1,0,0,0,9,7,78,Domantas,3,3,100,24,7,2,Domantas Sabonis,17,8,Sabonis,N/A,2,Indiana,1
+0,0,0,4,2,50,9,4,44,Doug,3,2,67,21,0,1,Doug McDermott,12,0,McDermott,N/A,1,Indiana,1
+1,0,1,1,0,0,9,2,22,Tyreke,0,0,0,14,1,2,Tyreke Evans,4,2,Evans,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Holiday,N/A,N/A,Holiday,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,TJ,N/A,N/A,N/A,N/A,N/A,N/A,TJ Leaf,N/A,N/A,Leaf,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle O'Quinn,N/A,N/A,O'Quinn,N/A,N/A,Indiana,N/A

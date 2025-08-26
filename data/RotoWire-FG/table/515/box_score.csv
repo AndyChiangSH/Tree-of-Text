@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,3,4,2,50,7,4,57,Richard,9,7,78,27,0,2,Richard Jefferson,17,3,Jefferson,F,1,Dallas,0
+1,0,4,4,2,50,10,5,50,Dirk,4,4,100,29,0,2,Dirk Nowitzki,16,4,Nowitzki,F,1,Dallas,2
+1,2,7,0,0,0,10,9,90,Tyson,4,2,50,27,2,2,Tyson Chandler,20,9,Chandler,C,0,Dallas,0
+5,1,1,1,0,0,8,2,25,Monta,0,0,0,30,0,2,Monta Ellis,4,1,Ellis,G,1,Dallas,2
+11,0,7,1,1,100,11,4,36,Rajon,2,2,100,30,1,3,Rajon Rondo,11,8,Rondo,G,1,Dallas,3
+1,0,8,2,1,50,7,4,57,Al-Farouq,1,1,100,26,2,2,Al-Farouq Aminu,10,10,Aminu,N/A,1,Dallas,2
+6,0,0,1,0,0,6,4,67,J.J.,2,1,50,18,0,1,J.J. Barea,9,0,Barea,N/A,0,Dallas,1
+0,4,0,0,0,0,3,1,33,Bernard,2,2,100,12,1,1,Bernard James,4,1,James,N/A,0,Dallas,0
+1,1,3,6,3,50,11,5,46,Charlie,2,1,50,20,1,3,Charlie Villanueva,14,4,Villanueva,N/A,2,Dallas,0
+3,0,2,2,1,50,10,7,70,Raymond,0,0,0,18,0,2,Raymond Felton,15,2,Felton,N/A,0,Dallas,1
+0,1,0,0,0,0,0,0,0,Dwight,0,0,0,2,0,0,Dwight Powell,0,0,Powell,N/A,0,Dallas,1
+0,0,0,0,0,0,0,0,0,Greg,0,0,0,1,0,0,Greg Smith,0,0,Smith,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Amar'e,N/A,N/A,N/A,N/A,N/A,N/A,Amar'e Stoudemire,N/A,N/A,Stoudemire,N/A,N/A,Dallas,N/A
+2,0,1,5,4,80,9,6,67,Wesley,0,0,0,20,0,0,Wesley Johnson,16,1,Johnson,F,0,Los Angeles,1
+6,1,2,5,0,0,10,2,20,Ryan,7,6,86,39,0,5,Ryan Kelly,10,2,Kelly,F,1,Los Angeles,1
+0,1,16,0,0,0,5,3,60,Tarik,6,4,67,33,3,3,Tarik Black,10,19,Black,C,1,Los Angeles,3
+2,0,2,6,2,33,13,4,31,Jabari,9,8,89,42,0,2,Jabari Brown,18,2,Brown,G,0,Los Angeles,1
+6,1,1,6,3,50,19,9,47,Jordan,5,5,100,39,0,4,Jordan Clarkson,26,1,Clarkson,G,2,Los Angeles,4
+2,0,1,2,0,0,11,4,36,Dwight,2,2,100,24,0,2,Dwight Buycks,10,1,Buycks,N/A,0,Los Angeles,1
+2,1,3,0,0,0,7,4,57,Ed,5,3,60,23,2,4,Ed Davis,11,5,Davis,N/A,0,Los Angeles,1
+0,0,5,0,0,0,4,2,50,Robert,2,1,50,19,1,0,Robert Sacre,5,6,Sacre,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Carlos,N/A,N/A,N/A,N/A,N/A,N/A,Carlos Boozer,N/A,N/A,Boozer,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wayne,N/A,N/A,N/A,N/A,N/A,N/A,Wayne Ellington,N/A,N/A,Ellington,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Lin,N/A,N/A,Lin,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Young,N/A,N/A,Young,N/A,N/A,Los Angeles,N/A

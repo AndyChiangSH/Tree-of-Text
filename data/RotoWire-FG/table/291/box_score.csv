@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,2,0,0,0,4,1,25,Landry,0,0,0,16,2,1,Landry Fields,2,4,Fields,F,3,Toronto,2
+1,1,0,0,0,0,4,2,50,Amir,2,1,50,17,0,1,Amir Johnson,5,0,Johnson,F,0,Toronto,1
+1,0,7,0,0,0,14,9,64,Jonas,4,3,75,33,3,1,Jonas Valanciunas,21,10,Valanciunas,C,0,Toronto,3
+0,0,5,3,2,67,10,5,50,Terrence,0,0,0,27,1,1,Terrence Ross,12,6,Ross,G,0,Toronto,2
+7,0,3,8,3,38,17,6,35,Kyle,4,4,100,34,0,4,Kyle Lowry,19,3,Lowry,G,2,Toronto,3
+4,0,2,4,0,0,6,0,0,Greivis,2,2,100,22,0,4,Greivis Vasquez,2,2,Vasquez,N/A,0,Toronto,3
+3,0,3,6,2,33,10,4,40,Lou,7,7,100,28,0,3,Lou Williams,17,3,Williams,N/A,1,Toronto,1
+0,2,1,5,2,40,6,2,33,Patrick,0,0,0,22,0,1,Patrick Patterson,6,1,Patterson,N/A,0,Toronto,2
+2,1,6,0,0,0,9,7,78,James,4,3,75,26,1,3,James Johnson,17,7,Johnson,N/A,2,Toronto,2
+1,0,2,0,0,0,2,1,50,Tyler,4,2,50,9,2,2,Tyler Hansbrough,4,4,Hansbrough,N/A,0,Toronto,1
+1,0,3,0,0,0,1,1,100,Lucas,2,2,100,6,0,3,Lucas Nogueira,4,3,Nogueira,N/A,1,Toronto,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charles,N/A,N/A,N/A,N/A,N/A,N/A,Charles Hayes,N/A,N/A,Hayes,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Stiemsma,N/A,N/A,Stiemsma,N/A,N/A,Toronto,N/A
+1,0,4,5,1,20,8,4,50,PJ,0,0,0,24,0,3,PJ Tucker,9,4,Tucker,F,3,Phoenix,0
+4,0,6,1,0,0,8,3,38,Markieff,2,0,0,29,0,2,Markieff Morris,6,6,Morris,F,2,Phoenix,4
+0,0,2,0,0,0,6,5,83,Alex,0,0,0,15,2,4,Alex Len,10,4,Len,C,0,Phoenix,1
+3,0,5,3,2,67,11,8,73,Goran,1,0,0,29,1,3,Goran Dragic,18,6,Dragic,G,0,Phoenix,1
+8,0,2,2,1,50,12,7,58,Eric,7,5,71,30,0,2,Eric Bledsoe,20,2,Bledsoe,G,3,Phoenix,1
+3,0,0,5,3,60,10,6,60,Isaiah,4,3,75,23,0,4,Isaiah Thomas,18,0,Thomas,N/A,5,Phoenix,6
+1,0,0,4,0,0,10,5,50,Marcus,0,0,0,21,0,3,Marcus Morris,10,0,Morris,N/A,0,Phoenix,0
+2,1,4,2,1,50,10,4,40,Gerald,2,2,100,22,2,4,Gerald Green,11,6,Green,N/A,0,Phoenix,0
+2,0,5,0,0,0,6,3,50,Miles,3,3,100,23,2,0,Miles Plumlee,9,7,Plumlee,N/A,2,Phoenix,2
+1,1,1,1,0,0,4,3,75,Archie,7,6,86,9,0,2,Archie Goodwin,12,1,Goodwin,N/A,0,Phoenix,1
+0,0,3,0,0,0,1,0,0,Shavlik,0,0,0,7,1,1,Shavlik Randolph,0,4,Randolph,N/A,0,Phoenix,0
+1,0,0,0,0,0,2,0,0,Tyler,0,0,0,4,0,1,Tyler Ennis,0,0,Ennis,N/A,0,Phoenix,0
+0,0,1,0,0,0,1,0,0,TJ,2,2,100,4,0,0,TJ Warren,2,1,Warren,N/A,0,Phoenix,0

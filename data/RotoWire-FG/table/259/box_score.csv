@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,5,2,0,0,17,8,47,Giannis,5,2,40,36,2,3,Giannis Antetokounmpo,18,7,Antetokounmpo,F,4,Milwaukee,0
+0,0,6,0,0,0,12,5,42,Jabari,2,1,50,34,1,1,Jabari Parker,11,7,Parker,F,0,Milwaukee,1
+3,0,4,0,0,0,18,5,28,Greg,4,3,75,29,8,2,Greg Monroe,13,12,Monroe,C,1,Milwaukee,4
+7,0,4,10,5,50,21,10,48,Khris,1,1,100,38,0,4,Khris Middleton,26,4,Middleton,G,1,Milwaukee,2
+12,0,3,1,1,100,14,9,64,Michael,1,1,100,37,0,1,Michael Carter-Williams,20,3,Carter-Williams,G,2,Milwaukee,2
+0,0,2,0,0,0,6,3,50,Johnny,0,0,0,19,2,3,Johnny O'Bryant III,6,4,O'Bryant,N/A,1,Milwaukee,0
+1,2,0,0,0,0,5,3,60,John,0,0,0,19,4,3,John Henson,6,4,Henson,N/A,0,Milwaukee,1
+3,0,1,3,0,0,9,3,33,O.J.,1,0,0,20,0,1,O.J. Mayo,6,1,Mayo,N/A,0,Milwaukee,0
+0,0,1,0,0,0,0,0,0,Rashad,0,0,0,6,0,1,Rashad Vaughn,0,1,Vaughn,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Copeland,N/A,N/A,Copeland,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ennis,N/A,N/A,Ennis,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damien,N/A,N/A,N/A,N/A,N/A,N/A,Damien Inglis,N/A,N/A,Inglis,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Miles,N/A,N/A,N/A,N/A,N/A,N/A,Miles Plumlee,N/A,N/A,Plumlee,N/A,N/A,Milwaukee,N/A
+1,6,10,0,0,0,6,5,83,Taj,1,1,100,38,4,1,Taj Gibson,11,14,Gibson,F,1,Chicago,1
+0,1,6,4,1,25,10,5,50,Nikola,3,3,100,29,0,1,Nikola Mirotic,14,6,Mirotic,F,1,Chicago,1
+5,3,10,2,2,100,14,10,71,Pau,4,4,100,35,1,3,Pau Gasol,26,11,Gasol,C,1,Chicago,4
+10,0,2,5,2,40,21,11,52,Jimmy,8,8,100,39,0,1,Jimmy Butler,32,2,Butler,G,1,Chicago,2
+6,0,1,4,0,0,17,8,47,Derrick,0,0,0,35,0,1,Derrick Rose,16,1,Rose,G,0,Chicago,5
+0,0,6,1,0,0,4,2,50,Bobby,4,4,100,21,2,1,Bobby Portis,8,8,Portis,N/A,1,Chicago,1
+4,0,1,1,0,0,2,1,50,Kirk,0,0,0,13,0,1,Kirk Hinrich,2,1,Hinrich,N/A,0,Chicago,1
+1,0,1,1,0,0,7,4,57,Tony,0,0,0,19,0,2,Tony Snell,8,1,Snell,N/A,0,Chicago,0
+0,0,1,1,0,0,2,0,0,Doug,0,0,0,11,0,0,Doug McDermott,0,1,McDermott,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Aaron,N/A,N/A,N/A,N/A,N/A,N/A,Aaron Brooks,N/A,N/A,Brooks,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun Moore,N/A,N/A,Moore,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joakim,N/A,N/A,N/A,N/A,N/A,N/A,Joakim Noah,N/A,N/A,Noah,N/A,N/A,Chicago,N/A

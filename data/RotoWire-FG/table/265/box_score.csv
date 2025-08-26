@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,3,2,67,6,5,83,Caris,5,2,40,25,1,2,Caris LeVert,14,3,LeVert,F,0,Brooklyn,2
+2,1,4,2,0,0,10,5,50,Rondae,4,2,50,23,0,2,Rondae Hollis-Jefferson,12,4,Hollis-Jefferson,F,3,Brooklyn,0
+2,0,4,1,0,0,6,3,50,Brook,2,2,100,32,0,2,Brook Lopez,8,4,Lopez,C,1,Brooklyn,3
+1,0,3,4,4,100,7,5,71,Randy,0,0,0,16,0,1,Randy Foye,14,3,Foye,G,2,Brooklyn,0
+1,0,4,7,3,43,10,5,50,Jeremy,6,5,83,24,0,5,Jeremy Lin,18,4,Lin,G,0,Brooklyn,2
+1,1,6,0,0,0,6,4,67,Trevor,1,0,0,26,3,2,Trevor Booker,8,9,Booker,N/A,1,Brooklyn,3
+3,0,3,3,1,33,5,1,20,Spencer,0,0,0,24,0,3,Spencer Dinwiddie,3,3,Dinwiddie,N/A,2,Brooklyn,3
+3,1,5,1,1,100,6,3,50,Sean,17,16,94,28,0,2,Sean Kilpatrick,23,5,Kilpatrick,N/A,1,Brooklyn,0
+0,1,2,4,1,25,5,2,40,Quincy,0,0,0,15,0,6,Quincy Acy,5,2,Acy,N/A,0,Brooklyn,1
+1,1,1,4,2,50,8,5,63,Isaiah,3,3,100,23,1,1,Isaiah Whitehead,15,2,Whitehead,N/A,2,Brooklyn,2
+1,0,0,1,0,0,4,1,25,KJ,0,0,0,5,2,1,KJ McDaniels,2,2,McDaniels,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Hamilton,N/A,N/A,Hamilton,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Nicholson,N/A,N/A,Nicholson,N/A,N/A,Brooklyn,N/A
+3,0,1,3,2,67,6,3,50,Chandler,4,4,100,22,0,1,Chandler Parsons,12,1,Parsons,F,1,Memphis,1
+1,0,4,0,0,0,6,4,67,Brandan,1,1,100,18,0,3,Brandan Wright,9,4,Wright,F,0,Memphis,0
+4,2,5,4,2,50,11,4,36,Marc,10,8,80,34,1,3,Marc Gasol,18,6,Gasol,C,0,Memphis,2
+1,0,2,3,1,33,4,1,25,Andrew,2,2,100,22,0,1,Andrew Harrison,5,2,Harrison,G,1,Memphis,2
+6,0,3,5,3,60,15,9,60,Mike,14,11,79,39,0,5,Mike Conley,32,3,Conley,G,1,Memphis,2
+0,0,7,1,1,100,5,3,60,JaMychal,2,2,100,26,2,3,JaMychal Green,9,9,Green,N/A,0,Memphis,1
+4,0,0,3,0,0,7,3,43,Toney,0,0,0,23,0,5,Toney Douglas,6,0,Douglas,N/A,1,Memphis,2
+3,0,5,0,0,0,12,4,33,Zach,4,2,50,16,2,1,Zach Randolph,10,7,Randolph,N/A,0,Memphis,2
+0,0,1,3,1,33,5,1,20,Vince,0,0,0,21,1,5,Vince Carter,3,2,Carter,N/A,1,Memphis,1
+1,0,1,1,0,0,4,2,50,Tony,2,1,50,17,2,2,Tony Allen,5,3,Allen,N/A,2,Memphis,2
+0,0,0,2,0,0,2,0,0,Troy,0,0,0,2,0,0,Troy Daniels,0,0,Daniels,N/A,0,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Deyonta,N/A,N/A,N/A,N/A,N/A,N/A,Deyonta Davis,N/A,N/A,Davis,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Ennis III,N/A,N/A,Ennis,N/A,N/A,Memphis,N/A

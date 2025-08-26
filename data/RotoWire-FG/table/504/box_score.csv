@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,1,0,0,0,13,3,23,Andrew,0,0,0,34,0,2,Andrew Wiggins,6,1,Wiggins,F,0,Minnesota,2
+4,1,1,0,0,0,8,5,63,Thaddeus,6,4,67,25,0,2,Thaddeus Young,14,1,Young,F,4,Minnesota,1
+1,1,3,0,0,0,4,1,25,Gorgui,6,6,100,26,4,4,Gorgui Dieng,8,7,Dieng,C,1,Minnesota,1
+3,0,2,4,1,25,10,3,30,Corey,0,0,0,24,0,3,Corey Brewer,7,2,Brewer,G,1,Minnesota,1
+10,0,3,4,2,50,15,8,53,Zach,5,4,80,42,0,4,Zach LaVine,22,3,LaVine,G,2,Minnesota,2
+0,0,1,3,1,33,5,1,20,Chase,0,0,0,7,0,1,Chase Budinger,3,1,Budinger,N/A,0,Minnesota,1
+0,0,0,2,1,50,12,7,58,Shabazz,9,5,56,21,3,1,Shabazz Muhammad,20,3,Muhammad,N/A,0,Minnesota,0
+2,0,10,1,0,0,11,6,55,Anthony,2,2,100,27,0,2,Anthony Bennett,14,10,Bennett,N/A,1,Minnesota,0
+0,0,1,0,0,0,0,0,0,Jeff,0,0,0,6,1,1,Jeff Adrien,0,2,Adrien,N/A,0,Minnesota,0
+0,0,2,0,0,0,1,0,0,Robbie,0,0,0,16,0,1,Robbie Hummel,0,2,Hummel,N/A,0,Minnesota,0
+0,0,1,2,1,50,4,1,25,Glenn,4,4,100,12,0,1,Glenn Robinson,7,1,Robinson,N/A,1,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nikola,N/A,N/A,N/A,N/A,N/A,N/A,Nikola Pekovic,N/A,N/A,Pekovic,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo,N/A,N/A,N/A,N/A,N/A,N/A,Mo Williams,N/A,N/A,Williams,N/A,N/A,Minnesota,N/A
+4,0,3,2,0,0,12,7,58,Kawhi,5,4,80,27,0,2,Kawhi Leonard,18,3,Leonard,F,1,San Antonio,3
+5,2,6,0,0,0,11,5,46,Tim,3,3,100,19,4,4,Tim Duncan,13,10,Duncan,F,0,San Antonio,3
+1,0,1,3,2,67,6,4,67,Matt,0,0,0,25,0,1,Matt Bonner,10,1,Bonner,C,0,San Antonio,0
+3,1,6,4,1,25,9,4,44,Danny,2,2,100,28,2,3,Danny Green,11,8,Green,G,2,San Antonio,4
+5,0,3,0,0,0,10,7,70,Cory,4,4,100,33,1,0,Cory Joseph,18,4,Joseph,G,1,San Antonio,0
+6,0,2,6,4,67,12,7,58,Marco,2,2,100,28,0,1,Marco Belinelli,20,2,Belinelli,N/A,0,San Antonio,1
+0,2,5,0,0,0,2,2,100,Aron,1,1,100,20,0,3,Aron Baynes,5,5,Baynes,N/A,0,San Antonio,1
+4,0,3,2,0,0,10,6,60,Boris,6,5,83,23,0,5,Boris Diaw,17,3,Diaw,N/A,1,San Antonio,1
+1,1,5,0,0,0,3,1,33,Kyle,2,1,50,18,0,2,Kyle Anderson,3,5,Anderson,N/A,0,San Antonio,1
+1,0,0,0,0,0,4,3,75,Jeff,0,0,0,9,1,1,Jeff Ayres,6,1,Ayres,N/A,0,San Antonio,1
+0,0,1,1,0,0,3,1,33,Austin,0,0,0,9,0,2,Austin Daye,2,1,Daye,N/A,0,San Antonio,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Manu,N/A,N/A,N/A,N/A,N/A,N/A,Manu Ginobili,N/A,N/A,Ginobili,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tony,N/A,N/A,N/A,N/A,N/A,N/A,Tony Parker,N/A,N/A,Parker,N/A,N/A,San Antonio,N/A

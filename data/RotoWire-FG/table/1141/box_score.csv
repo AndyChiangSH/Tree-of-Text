@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,2,1,0,0,5,3,60,Maurice,1,0,0,17,3,5,Maurice Harkless,6,5,Harkless,F,1,Portland,0
+0,0,3,2,0,0,4,1,25,Al-Farouq,2,1,50,7,0,1,Al-Farouq Aminu,3,3,Aminu,F,0,Portland,1
+1,0,8,1,0,0,13,6,46,Enes,0,0,0,40,4,3,Enes Kanter,12,12,Kanter,C,0,Portland,1
+1,1,8,3,1,33,29,17,59,CJ,2,2,100,45,1,1,CJ McCollum,37,9,McCollum,G,1,Portland,0
+8,0,10,9,2,22,17,3,18,Damian,6,5,83,45,0,3,Damian Lillard,13,10,Lillard,G,3,Portland,1
+1,4,4,3,1,33,6,2,33,Zach,2,2,100,23,2,5,Zach Collins,7,6,Collins,N/A,0,Portland,1
+0,0,3,3,0,0,6,2,33,Rodney,2,2,100,20,0,1,Rodney Hood,6,3,Hood,N/A,0,Portland,0
+0,0,0,2,0,0,2,0,0,Seth,0,0,0,16,0,5,Seth Curry,0,0,Curry,N/A,0,Portland,0
+2,1,5,0,0,0,7,3,43,Evan,9,8,89,19,2,4,Evan Turner,14,7,Turner,N/A,0,Portland,0
+0,0,0,2,0,0,4,1,25,Meyers,0,0,0,7,0,3,Meyers Leonard,2,0,Leonard,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Skal,N/A,N/A,N/A,N/A,N/A,N/A,Skal Labissiere,N/A,N/A,Labissiere,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jake,N/A,N/A,N/A,N/A,N/A,N/A,Jake Layman,N/A,N/A,Layman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anfernee,N/A,N/A,N/A,N/A,N/A,N/A,Anfernee Simons,N/A,N/A,Simons,N/A,N/A,Portland,N/A
+2,0,4,2,0,0,5,2,40,Torrey,5,4,80,33,4,2,Torrey Craig,8,8,Craig,F,0,Denver,1
+1,3,6,2,0,0,13,3,23,Paul,6,4,67,32,1,6,Paul Millsap,10,7,Millsap,F,0,Denver,0
+2,4,9,6,2,33,26,11,42,Nikola,7,5,71,42,4,3,Nikola Jokic,29,13,Jokic,C,0,Denver,2
+3,0,6,1,0,0,11,7,64,Gary,2,1,50,39,0,3,Gary Harris,15,6,Harris,G,0,Denver,1
+5,0,4,4,0,0,18,4,22,Jamal,9,9,100,38,2,1,Jamal Murray,17,6,Murray,G,0,Denver,1
+0,2,5,0,0,0,3,1,33,Mason,5,2,40,19,1,3,Mason Plumlee,4,6,Plumlee,N/A,0,Denver,0
+1,0,2,2,0,0,9,4,44,Will,0,0,0,20,1,3,Will Barton,8,3,Barton,N/A,0,Denver,0
+0,0,0,1,0,0,1,0,0,Malik,0,0,0,7,0,1,Malik Beasley,0,0,Beasley,N/A,0,Denver,0
+1,0,2,1,0,0,3,1,33,Monte,5,3,60,10,0,1,Monte Morris,5,2,Morris,N/A,1,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Juancho,N/A,N/A,N/A,N/A,N/A,N/A,Juancho Hernangomez,N/A,N/A,Hernangomez,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Lyles,N/A,N/A,Lyles,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah Thomas,N/A,N/A,Thomas,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarred,N/A,N/A,N/A,N/A,N/A,N/A,Jarred Vanderbilt,N/A,N/A,Vanderbilt,N/A,N/A,Denver,N/A

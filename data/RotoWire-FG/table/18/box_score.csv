@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,3,2,2,100,8,5,63,Solomon,1,1,100,30,0,2,Solomon Hill,13,3,Hill,F,0,New Orleans,0
+0,0,4,3,2,67,9,7,78,Terrence,4,2,50,26,1,4,Terrence Jones,18,5,Jones,F,0,New Orleans,3
+0,0,4,1,0,0,7,3,43,Alexis,0,0,0,19,2,0,Alexis Ajinca,6,6,Ajinca,C,0,New Orleans,3
+5,0,3,5,2,40,13,6,46,Buddy,1,1,100,36,0,0,Buddy Hield,15,3,Hield,G,0,New Orleans,2
+11,0,1,2,1,50,13,6,46,Tim,8,7,88,35,0,5,Tim Frazier,20,1,Frazier,G,0,New Orleans,3
+1,1,2,0,0,0,1,0,0,Omer,1,0,0,18,2,0,Omer Asik,0,4,Asik,N/A,0,New Orleans,1
+3,0,0,5,1,20,13,4,31,Langston,5,3,60,30,0,1,Langston Galloway,12,0,Galloway,N/A,1,New Orleans,3
+0,0,2,1,0,0,4,1,25,Reggie,0,0,0,16,0,0,Reggie Williams,2,2,Williams,N/A,0,New Orleans,0
+1,0,7,0,0,0,15,8,53,Cheick,6,3,50,31,3,3,Cheick Diallo,19,10,Diallo,N/A,2,New Orleans,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dante,N/A,N/A,N/A,N/A,N/A,N/A,Dante Cunningham,N/A,N/A,Cunningham,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Davis,N/A,N/A,Davis,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jrue,N/A,N/A,N/A,N/A,N/A,N/A,Jrue Holiday,N/A,N/A,Holiday,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun Moore,N/A,N/A,Moore,N/A,N/A,New Orleans,N/A
+4,0,1,6,4,67,9,6,67,Austin,2,2,100,28,1,1,Austin Rivers,18,2,Rivers,F,1,LA,1
+1,1,1,1,0,0,5,1,20,Luc,2,2,100,19,0,1,Luc Mbah a Moute,4,1,Mbah,F,1,LA,0
+0,0,4,0,0,0,11,9,82,DeAndre,1,1,100,23,5,4,DeAndre Jordan,19,9,Jordan,C,1,LA,2
+0,0,1,7,2,29,14,6,43,JJ,2,2,100,34,0,0,JJ Redick,16,1,Redick,G,0,LA,1
+20,0,5,6,3,50,16,8,50,Chris,2,1,50,30,0,3,Chris Paul,20,5,Paul,G,3,LA,0
+2,0,0,4,2,50,13,10,77,Jamal,0,0,0,26,0,1,Jamal Crawford,22,0,Crawford,N/A,1,LA,2
+4,0,10,6,3,50,12,7,58,Marreese,0,0,0,25,2,4,Marreese Speights,17,12,Speights,N/A,0,LA,1
+0,0,6,4,2,50,6,4,67,Wesley,0,0,0,22,0,4,Wesley Johnson,10,6,Johnson,N/A,1,LA,0
+1,0,1,2,1,50,6,3,50,Alan,0,0,0,19,0,1,Alan Anderson,7,1,Anderson,N/A,1,LA,2
+2,1,2,0,0,0,2,0,0,Brandon,0,0,0,11,1,3,Brandon Bass,0,3,Bass,N/A,0,LA,1
+0,0,0,0,0,0,0,0,0,Paul,0,0,0,4,0,0,Paul Pierce,0,0,Pierce,N/A,1,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Raymond,N/A,N/A,N/A,N/A,N/A,N/A,Raymond Felton,N/A,N/A,Felton,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Blake,N/A,N/A,N/A,N/A,N/A,N/A,Blake Griffin,N/A,N/A,Griffin,N/A,N/A,LA,N/A

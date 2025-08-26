@@ -1,0 +1,27 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,17,00:08:41,0,1,CHEN Yufei,return net,fails to clear the net,opponent fails to clear the net
+2,18,00:09:13,0,2,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+3,15,00:09:47,1,2,Akane YAMAGUCHI,net shot,fails to clear the net,opponent fails to clear the net
+4,8,00:10:14,1,3,CHEN Yufei,clear,landing judgment error,opponent landing judgment error
+5,11,00:10:47,1,4,CHEN Yufei,smash,opponent wins by landing,wins by landing
+7,10,00:11:53,2,5,Akane YAMAGUCHI,return net,opponent wins by landing,wins by landing
+9,4,00:12:41,4,5,Akane YAMAGUCHI,drop,hits the net,opponent hits the net
+10,8,00:13:05,5,5,Akane YAMAGUCHI,return net,fails to clear the net,opponent fails to clear the net
+11,9,00:13:29,5,6,CHEN Yufei,rush,goes out of bounds,opponent goes out of bounds
+14,25,00:15:21,7,7,CHEN Yufei,cross-court net shot,hits the net,opponent hits the net
+15,3,00:15:49,8,7,Akane YAMAGUCHI,return net,hits the net,opponent hits the net
+16,3,00:16:09,9,7,Akane YAMAGUCHI,lob,landing judgment error,opponent landing judgment error
+17,4,00:16:39,10,7,Akane YAMAGUCHI,lob,goes out of bounds,opponent goes out of bounds
+18,11,00:17:04,11,7,Akane YAMAGUCHI,smash,opponent wins by landing,wins by landing
+19,8,00:18:24,12,7,Akane YAMAGUCHI,return net,fails to clear the net,opponent fails to clear the net
+20,17,00:18:57,12,8,CHEN Yufei,clear,goes out of bounds,opponent goes out of bounds
+22,6,00:20:04,14,8,Akane YAMAGUCHI,return net,hits the net,opponent hits the net
+23,6,00:20:36,15,8,Akane YAMAGUCHI,return net,fails to clear the net,opponent fails to clear the net
+24,22,00:21:17,16,8,Akane YAMAGUCHI,drop,goes out of bounds,opponent goes out of bounds
+25,2,00:21:41,16,9,CHEN Yufei,drop,opponent wins by landing,wins by landing
+26,12,00:22:15,16,10,CHEN Yufei,clear,goes out of bounds,opponent goes out of bounds
+27,10,00:22:46,17,10,Akane YAMAGUCHI,lob,landing judgment error,opponent landing judgment error
+28,12,00:23:40,18,10,Akane YAMAGUCHI,lob,goes out of bounds,opponent goes out of bounds
+30,13,00:24:31,19,11,Akane YAMAGUCHI,clear,goes out of bounds,opponent goes out of bounds
+31,14,00:25:02,20,11,Akane YAMAGUCHI,lob,goes out of bounds,opponent goes out of bounds
+32,15,00:25:52,21,11,Akane YAMAGUCHI,clear,goes out of bounds,opponent goes out of bounds

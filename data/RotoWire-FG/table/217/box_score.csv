@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,5,1,0,0,11,3,27,Harrison,4,4,100,38,0,2,Harrison Barnes,10,5,Barnes,F,0,Dallas,0
+3,0,3,15,3,20,25,9,36,Wesley,4,4,100,41,1,6,Wesley Matthews,25,4,Matthews,F,2,Dallas,1
+3,0,10,0,0,0,7,3,43,Andrew,2,0,0,28,5,3,Andrew Bogut,6,15,Bogut,C,0,Dallas,2
+2,0,3,2,0,0,4,0,0,Seth,0,0,0,24,0,0,Seth Curry,0,3,Curry,G,0,Dallas,2
+3,1,1,5,3,60,11,4,36,Deron,2,1,50,31,0,1,Deron Williams,12,1,Williams,G,1,Dallas,2
+5,0,2,4,3,75,10,4,40,J.J.,7,7,100,31,1,0,J.J. Barea,18,3,Barea,N/A,2,Dallas,1
+0,2,2,0,0,0,3,3,100,Salah,0,0,0,17,5,3,Salah Mejri,6,7,Mejri,N/A,0,Dallas,1
+0,0,2,2,1,50,8,3,38,Justin,1,1,100,17,1,2,Justin Anderson,8,3,Anderson,N/A,2,Dallas,0
+1,0,2,2,1,50,7,3,43,Dwight,0,0,0,12,0,0,Dwight Powell,7,2,Powell,N/A,1,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quincy,N/A,N/A,N/A,N/A,N/A,N/A,Quincy Acy,N/A,N/A,Acy,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas,N/A,N/A,N/A,N/A,N/A,N/A,Nicolas Brussino,N/A,N/A,Brussino,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dorian,N/A,N/A,N/A,N/A,N/A,N/A,Dorian Finney-Smith,N/A,N/A,Finney-Smith,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dirk,N/A,N/A,N/A,N/A,N/A,N/A,Dirk Nowitzki,N/A,N/A,Nowitzki,N/A,N/A,Dallas,N/A
+3,1,5,4,2,50,4,2,50,Trevor,0,0,0,33,2,1,Trevor Ariza,6,7,Ariza,F,2,Houston,3
+0,0,8,2,0,0,10,6,60,Ryan,2,2,100,32,4,2,Ryan Anderson,14,12,Anderson,F,0,Houston,1
+1,2,9,0,0,0,7,2,29,Clint,4,0,0,26,1,2,Clint Capela,4,10,Capela,C,1,Houston,0
+1,0,3,8,2,25,16,5,31,Eric,2,2,100,33,0,1,Eric Gordon,14,3,Gordon,G,1,Houston,3
+8,0,6,9,3,33,23,8,35,James,12,9,75,39,1,4,James Harden,28,7,Harden,G,1,Houston,8
+1,1,1,1,0,0,4,1,25,KJ,0,0,0,16,1,2,KJ McDaniels,2,2,McDaniels,N/A,0,Houston,0
+1,0,3,0,0,0,6,5,83,Nene,1,1,100,22,0,3,Nene,11,3,N/A,N/A,0,Houston,1
+0,0,2,2,1,50,2,1,50,Corey,0,0,0,15,0,3,Corey Brewer,3,2,Brewer,N/A,0,Houston,0
+0,0,1,3,3,100,5,3,60,Sam,0,0,0,15,0,1,Sam Dekker,9,1,Dekker,N/A,0,Houston,0
+1,0,0,2,0,0,4,1,25,Tyler,0,0,0,9,0,2,Tyler Ennis,2,0,Ennis,N/A,0,Houston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Brown,N/A,N/A,Brown,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl,N/A,N/A,N/A,N/A,N/A,N/A,Montrezl Harrell,N/A,N/A,Harrell,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Wiltjer,N/A,N/A,Wiltjer,N/A,N/A,Houston,N/A

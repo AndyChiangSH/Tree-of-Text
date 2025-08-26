@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,0,1,0,0,1,0,0,Caron,0,0,0,17,0,2,Caron Butler,0,0,Butler,F,0,Detroit,0
+4,0,2,4,1,25,6,3,50,Anthony,0,0,0,28,0,2,Anthony Tolliver,7,2,Tolliver,F,1,Detroit,1
+2,2,9,0,0,0,17,14,82,Andre,7,4,57,39,5,3,Andre Drummond,32,14,Drummond,C,1,Detroit,0
+1,0,4,6,0,0,15,4,27,Kentavious,2,1,50,41,0,4,Kentavious Caldwell-Pope,9,4,Caldwell-Pope,G,2,Detroit,4
+9,0,3,4,3,75,17,12,71,Reggie,8,4,50,36,3,4,Reggie Jackson,31,6,Jackson,G,0,Detroit,4
+2,0,3,3,1,33,8,2,25,Tayshaun,1,1,100,24,1,3,Tayshaun Prince,6,4,Prince,N/A,0,Detroit,1
+0,3,1,0,0,0,3,1,33,Joel,0,0,0,9,3,0,Joel Anthony,2,4,Anthony,N/A,0,Detroit,0
+3,0,0,5,3,60,8,4,50,Jodie,0,0,0,28,0,1,Jodie Meeks,11,0,Meeks,N/A,1,Detroit,0
+1,0,1,1,0,0,5,0,0,Spencer,2,2,100,12,0,1,Spencer Dinwiddie,2,1,Dinwiddie,N/A,0,Detroit,1
+0,0,1,1,0,0,3,0,0,Shawne,2,2,100,7,1,0,Shawne Williams,2,2,Williams,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Lucas III,N/A,N/A,Lucas,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,N/A,Cartier Martin,N/A,N/A,Martin,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quincy,N/A,N/A,N/A,N/A,N/A,N/A,Quincy Miller,N/A,N/A,Miller,N/A,N/A,Detroit,N/A
+1,0,2,1,0,0,5,1,20,Luol,2,2,100,18,0,0,Luol Deng,4,2,Deng,F,1,Miami,1
+1,0,5,4,2,50,5,2,40,Henry,0,0,0,34,0,3,Henry Walker,6,5,Walker,F,1,Miami,1
+2,0,6,1,0,0,13,8,62,Udonis,2,2,100,35,7,4,Udonis Haslem,18,13,Haslem,C,1,Miami,2
+4,0,3,1,0,0,27,14,52,Dwyane,13,12,92,36,3,0,Dwyane Wade,40,6,Wade,G,1,Miami,1
+5,1,2,3,1,33,10,4,40,Goran,2,1,50,35,0,3,Goran Dragic,10,2,Dragic,G,0,Miami,3
+4,0,8,6,2,33,7,3,43,Mario,4,3,75,30,1,2,Mario Chalmers,11,9,Chalmers,N/A,0,Miami,1
+1,0,3,2,2,100,7,5,71,James,6,4,67,24,3,3,James Ennis III,16,6,Ennis,N/A,0,Miami,1
+1,0,2,0,0,0,2,0,0,Tyler,0,0,0,20,0,0,Tyler Johnson,0,2,Johnson,N/A,0,Miami,0
+1,0,1,0,0,0,6,2,33,Michael,0,0,0,7,0,1,Michael Beasley,4,1,Beasley,N/A,0,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Andersen,N/A,N/A,Andersen,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Zoran,N/A,N/A,N/A,N/A,N/A,N/A,Zoran Dragic,N/A,N/A,Dragic,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Miami,N/A

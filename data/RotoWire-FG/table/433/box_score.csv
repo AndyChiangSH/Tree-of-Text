@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,4,4,1,25,10,6,60,CJ,4,4,100,29,1,4,CJ Miles,17,5,Miles,F,2,Indiana,4
+3,0,9,5,2,40,22,10,46,Paul,5,4,80,37,1,4,Paul George,26,10,George,F,1,Indiana,6
+0,3,1,0,0,0,7,4,57,Ian,8,3,38,25,1,4,Ian Mahinmi,11,2,Mahinmi,C,1,Indiana,3
+6,0,1,3,1,33,9,4,44,Monta,6,4,67,35,1,3,Monta Ellis,13,2,Ellis,G,4,Indiana,2
+5,0,4,3,1,33,8,3,38,George,0,0,0,37,0,5,George Hill,7,4,Hill,G,0,Indiana,1
+2,2,2,2,1,50,7,4,57,Chase,2,1,50,22,1,2,Chase Budinger,10,3,Budinger,N/A,0,Indiana,2
+0,0,0,0,0,0,0,0,0,Myles,0,0,0,1,0,0,Myles Turner,0,0,Turner,N/A,0,Indiana,0
+3,0,5,0,0,0,10,5,50,Jordan,4,2,50,23,3,2,Jordan Hill,12,8,Hill,N/A,0,Indiana,0
+0,0,3,0,0,0,5,2,40,Lavoy,2,2,100,18,1,4,Lavoy Allen,6,4,Allen,N/A,0,Indiana,0
+0,1,2,0,0,0,1,0,0,Glenn,0,0,0,14,1,0,Glenn Robinson,0,3,Robinson,N/A,1,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Solomon,N/A,N/A,N/A,N/A,N/A,N/A,Solomon Hill,N/A,N/A,Hill,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rodney,N/A,N/A,N/A,N/A,N/A,N/A,Rodney Stuckey,N/A,N/A,Stuckey,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+2,0,5,3,1,33,5,1,20,Jae,2,2,100,26,0,5,Jae Crowder,5,5,Crowder,F,5,Boston,4
+1,1,2,1,0,0,5,3,60,Amir,4,1,25,14,0,1,Amir Johnson,7,2,Johnson,F,1,Boston,2
+2,0,8,3,1,33,10,5,50,Jared,0,0,0,33,3,3,Jared Sullinger,11,11,Sullinger,C,1,Boston,4
+3,2,3,0,0,0,13,9,69,Evan,2,2,100,33,0,2,Evan Turner,20,3,Turner,G,1,Boston,2
+4,0,3,4,1,25,13,4,31,Isaiah,7,5,71,30,0,2,Isaiah Thomas,14,3,Thomas,G,0,Boston,2
+2,0,0,4,0,0,6,1,17,Marcus,8,6,75,21,1,4,Marcus Smart,8,1,Smart,N/A,1,Boston,1
+1,0,1,0,0,0,1,0,0,Jonas,0,0,0,16,1,3,Jonas Jerebko,0,2,Jerebko,N/A,0,Boston,0
+1,0,0,2,0,0,5,1,20,Kelly,2,2,100,15,0,2,Kelly Olynyk,4,0,Olynyk,N/A,1,Boston,2
+1,0,2,3,1,33,5,2,40,RJ,0,0,0,20,0,0,RJ Hunter,5,2,Hunter,N/A,0,Boston,0
+0,0,4,0,0,0,5,4,80,David,7,5,71,16,2,2,David Lee,13,6,Lee,N/A,0,Boston,1
+1,0,0,4,0,0,9,2,22,Terry,0,0,0,16,1,2,Terry Rozier,4,1,Rozier,N/A,0,Boston,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Young,N/A,N/A,Young,N/A,N/A,Boston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Zeller,N/A,N/A,Zeller,N/A,N/A,Boston,N/A

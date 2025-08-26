@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,2,0,0,0,14,6,43,TJ,1,0,0,31,3,2,TJ Warren,12,5,Warren,F,1,Phoenix,0
+0,0,6,2,2,100,9,7,78,Marquese,10,8,80,38,1,5,Marquese Chriss,24,7,Chriss,F,2,Phoenix,6
+0,4,8,2,0,0,13,5,39,Alex,2,2,100,36,3,3,Alex Len,12,11,Len,C,0,Phoenix,3
+5,0,2,4,0,0,16,4,25,Devin,4,3,75,34,2,3,Devin Booker,11,4,Booker,G,1,Phoenix,7
+6,0,3,1,0,0,11,4,36,Tyler,3,1,33,42,0,2,Tyler Ulis,9,3,Ulis,G,1,Phoenix,5
+0,0,1,0,0,0,4,2,50,Derrick,2,2,100,18,0,3,"Derrick Jones, Jr.",6,1,"Jones,",N/A,0,Phoenix,0
+2,0,8,4,1,25,6,3,50,Jared,3,1,33,19,0,3,Jared Dudley,8,8,Dudley,N/A,0,Phoenix,2
+1,0,1,2,1,50,7,4,57,Leandro,4,4,100,18,0,2,Leandro Barbosa,13,1,Barbosa,N/A,0,Phoenix,1
+0,0,0,1,0,0,2,1,50,Jarell,0,0,0,4,1,0,Jarell Eddie,2,1,Eddie,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Bledsoe,N/A,N/A,Bledsoe,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyson,N/A,N/A,N/A,N/A,N/A,N/A,Tyson Chandler,N/A,N/A,Chandler,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Knight,N/A,N/A,Knight,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Williams,N/A,N/A,Williams,N/A,N/A,Phoenix,N/A
+4,1,4,2,0,0,4,1,25,Rodney,0,0,0,24,1,2,Rodney McGruder,2,5,McGruder,F,0,Miami,1
+0,0,5,4,1,25,4,1,25,Luke,0,0,0,16,0,2,Luke Babbitt,3,5,Babbitt,F,1,Miami,1
+1,2,10,0,0,0,18,9,50,Hassan,6,5,83,31,4,4,Hassan Whiteside,23,14,Whiteside,C,3,Miami,2
+2,1,1,5,2,40,13,6,46,Josh,0,0,0,36,1,3,Josh Richardson,14,2,Richardson,G,0,Miami,1
+2,0,3,5,2,40,15,6,40,Goran,3,2,67,28,1,3,Goran Dragic,16,4,Dragic,G,2,Miami,3
+4,0,5,3,2,67,17,7,41,Tyler,2,1,50,29,1,3,Tyler Johnson,17,6,Johnson,N/A,5,Miami,2
+2,0,1,6,3,50,8,4,50,Wayne,0,0,0,27,0,0,Wayne Ellington,11,1,Ellington,N/A,1,Miami,0
+1,1,1,2,1,50,9,3,33,James,6,3,50,23,0,3,James Johnson,10,1,Johnson,N/A,1,Miami,2
+0,0,1,0,0,0,5,4,80,Willie,4,4,100,17,6,5,Willie Reed,12,7,Reed,N/A,0,Miami,0
+1,0,1,0,0,0,3,1,33,Okaro,2,2,100,9,3,0,Okaro White,4,4,White,N/A,0,Miami,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dion,N/A,N/A,N/A,N/A,N/A,N/A,Dion Waiters,N/A,N/A,Waiters,N/A,N/A,Miami,N/A

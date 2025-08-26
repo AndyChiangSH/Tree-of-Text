@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,4,12,4,33,12,4,33,Al-Farouq,0,0,0,35,1,2,Al-Farouq Aminu,12,5,Aminu,F,0,Portland,1
+0,0,1,0,0,0,1,0,0,Noah,0,0,0,14,2,2,Noah Vonleh,0,3,Vonleh,F,0,Portland,0
+2,1,9,0,0,0,9,5,56,Mason,9,4,44,32,10,5,Mason Plumlee,14,19,Plumlee,C,1,Portland,1
+8,1,1,8,3,38,22,9,41,CJ,2,1,50,43,0,2,CJ McCollum,22,1,McCollum,G,2,Portland,4
+8,0,2,10,4,40,26,8,31,Damian,6,6,100,44,2,2,Damian Lillard,26,4,Lillard,G,1,Portland,5
+0,1,2,5,1,20,11,3,27,Gerald,2,1,50,25,2,0,Gerald Henderson,8,4,Henderson,N/A,2,Portland,1
+0,0,3,1,0,0,6,4,67,Maurice,0,0,0,15,0,3,Maurice Harkless,8,3,Harkless,N/A,1,Portland,0
+2,1,4,0,0,0,3,2,67,Ed,4,2,50,20,3,2,Ed Davis,6,7,Davis,N/A,2,Portland,1
+0,0,4,10,6,60,13,7,54,Allen,5,4,80,36,1,4,Allen Crabbe,24,5,Crabbe,N/A,0,Portland,1
+0,0,0,0,0,0,1,0,0,Brian,0,0,0,1,1,0,Brian Roberts,0,1,Roberts,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Pat,N/A,N/A,N/A,N/A,N/A,N/A,Pat Connaughton,N/A,N/A,Connaughton,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Kaman,N/A,N/A,Kaman,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Meyers,N/A,N/A,N/A,N/A,N/A,N/A,Meyers Leonard,N/A,N/A,Leonard,N/A,N/A,Portland,N/A
+3,0,5,7,5,71,10,5,50,Wesley,0,0,0,42,0,4,Wesley Matthews,15,5,Matthews,F,0,Dallas,1
+4,0,8,5,3,60,26,16,62,Dirk,5,5,100,39,0,5,Dirk Nowitzki,40,8,Nowitzki,F,2,Dallas,2
+0,0,1,0,0,0,2,0,0,Zaza,0,0,0,5,1,0,Zaza Pachulia,0,2,Pachulia,C,0,Dallas,0
+16,0,3,6,4,67,18,11,61,Deron,5,5,100,43,0,0,Deron Williams,31,3,Williams,G,3,Dallas,5
+1,0,2,1,1,100,7,4,57,Raymond,2,2,100,25,0,2,Raymond Felton,11,2,Felton,G,1,Dallas,1
+0,0,0,0,0,0,1,0,0,Justin,0,0,0,6,0,0,Justin Anderson,0,0,Anderson,N/A,0,Dallas,0
+2,1,5,0,0,0,2,1,50,David,0,0,0,16,3,2,David Lee,2,8,Lee,N/A,0,Dallas,2
+2,0,3,1,1,100,2,2,100,Devin,0,0,0,21,0,1,Devin Harris,5,3,Harris,N/A,0,Dallas,1
+0,1,1,2,0,0,6,2,33,Charlie,2,2,100,13,1,2,Charlie Villanueva,6,2,Villanueva,N/A,0,Dallas,0
+2,0,3,3,1,33,9,4,44,J.J.,0,0,0,24,0,0,J.J. Barea,9,3,Barea,N/A,0,Dallas,2
+1,6,11,0,0,0,6,4,67,Salah,9,5,56,33,3,5,Salah Mejri,13,14,Mejri,N/A,1,Dallas,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaVale,N/A,N/A,N/A,N/A,N/A,N/A,JaVale McGee,N/A,N/A,McGee,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwight,N/A,N/A,N/A,N/A,N/A,N/A,Dwight Powell,N/A,N/A,Powell,N/A,N/A,Dallas,N/A

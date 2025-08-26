@@ -1,0 +1,41 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,9,00:33:58,0,1,Supanida KATETHONG,net shot,fails to clear the net,opponent fails to clear the net
+2,2,00:34:19,0,2,Supanida KATETHONG,net shot,hits the net,opponent hits the net
+3,9,00:34:55,1,2,Busanan ONGBAMRUNGPHAN,return net,hits the net,opponent hits the net
+4,14,00:35:27,2,2,Busanan ONGBAMRUNGPHAN,net shot,hits the net,opponent hits the net
+5,2,00:35:54,3,2,Busanan ONGBAMRUNGPHAN,smash,goes out of bounds,opponent goes out of bounds
+6,5,00:36:14,4,2,Busanan ONGBAMRUNGPHAN,smash,opponent wins by landing,wins by landing
+7,5,00:36:36,4,3,Supanida KATETHONG,net shot,hits the net,opponent hits the net
+8,10,00:37:07,4,4,Supanida KATETHONG,net shot,hits the net,opponent hits the net
+9,7,00:37:36,5,4,Busanan ONGBAMRUNGPHAN,net shot,hits the net,opponent hits the net
+10,3,00:38:00,5,5,Supanida KATETHONG,wrist smash,goes out of bounds,opponent goes out of bounds
+11,7,00:38:53,6,5,Busanan ONGBAMRUNGPHAN,net shot,hits the net,opponent hits the net
+12,14,00:39:23,6,6,Supanida KATETHONG,return net,opponent wins by landing,wins by landing
+13,5,00:40:04,7,6,Busanan ONGBAMRUNGPHAN,return net,hits the net,opponent hits the net
+14,17,00:40:39,8,6,Busanan ONGBAMRUNGPHAN,smash,opponent wins by landing,wins by landing
+15,4,00:41:21,8,7,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+16,21,00:42:22,8,8,Supanida KATETHONG,drop,opponent wins by landing,wins by landing
+17,19,00:43:24,9,8,Busanan ONGBAMRUNGPHAN,smash,goes out of bounds,opponent goes out of bounds
+18,4,00:43:59,10,8,Busanan ONGBAMRUNGPHAN,drop,goes out of bounds,opponent goes out of bounds
+19,26,00:44:48,11,8,Busanan ONGBAMRUNGPHAN,wrist smash,hits the net,opponent hits the net
+20,3,00:46:17,11,9,Supanida KATETHONG,return net,hits the net,opponent hits the net
+21,7,00:46:42,11,10,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+22,22,00:47:32,12,10,Busanan ONGBAMRUNGPHAN,push,opponent wins by landing,wins by landing
+23,11,00:48:14,13,10,Busanan ONGBAMRUNGPHAN,smash,opponent wins by landing,wins by landing
+24,2,00:48:49,14,10,Busanan ONGBAMRUNGPHAN,push,goes out of bounds,opponent goes out of bounds
+25,14,00:49:17,14,11,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+26,11,00:50:09,14,12,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+27,13,00:51:07,14,13,Supanida KATETHONG,net shot,opponent wins by landing,wins by landing
+28,3,00:51:47,15,13,Busanan ONGBAMRUNGPHAN,net shot,hits the net,opponent hits the net
+29,16,00:52:23,15,14,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+30,10,00:53:06,16,14,Busanan ONGBAMRUNGPHAN,defensive return drive,opponent wins by landing,wins by landing
+31,2,00:53:42,17,14,Busanan ONGBAMRUNGPHAN,net shot,hits the net,opponent hits the net
+32,2,00:54:00,18,14,Busanan ONGBAMRUNGPHAN,push,goes out of bounds,opponent goes out of bounds
+33,7,00:54:20,18,15,Supanida KATETHONG,net shot,goes out of bounds,opponent goes out of bounds
+34,5,00:54:48,18,16,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+35,10,00:55:27,18,17,Supanida KATETHONG,net shot,hits the net,opponent hits the net
+36,4,00:55:57,18,18,Supanida KATETHONG,return net,fails to clear the net,opponent fails to clear the net
+37,11,00:56:32,19,18,Busanan ONGBAMRUNGPHAN,smash,goes out of bounds,opponent goes out of bounds
+38,9,00:57:26,19,19,Supanida KATETHONG,unknown,goes out of bounds,opponent goes out of bounds
+39,20,00:58:12,19,20,Supanida KATETHONG,smash,goes out of bounds,opponent goes out of bounds
+40,14,00:59:20,19,21,Supanida KATETHONG,clear,goes out of bounds,opponent goes out of bounds

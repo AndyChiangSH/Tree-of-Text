@@ -1,0 +1,37 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,2,00:22:12,1,0,Anthony Sinisuka GINTING,net shot,hits the net,opponent hits the net
+2,6,00:22:27,2,0,Anthony Sinisuka GINTING,smash,goes out of bounds,opponent goes out of bounds
+3,3,00:22:50,2,1,LEE Zii Jia,smash,hits the net,opponent hits the net
+4,16,00:23:22,2,2,LEE Zii Jia,net shot,hits the net,opponent hits the net
+5,5,00:23:41,2,3,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+6,10,00:24:07,3,3,Anthony Sinisuka GINTING,clear,opponent wins by landing,wins by landing
+7,3,00:24:25,3,4,LEE Zii Jia,wrist smash,goes out of bounds,opponent goes out of bounds
+8,3,00:24:43,4,4,Anthony Sinisuka GINTING,net shot,fails to clear the net,opponent fails to clear the net
+9,12,00:25:05,4,5,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+10,7,00:25:32,4,6,LEE Zii Jia,wrist smash,opponent wins by landing,wins by landing
+11,13,00:26:01,5,6,Anthony Sinisuka GINTING,net shot,fails to clear the net,opponent fails to clear the net
+12,9,00:26:24,5,7,LEE Zii Jia,back-court drive,goes out of bounds,opponent goes out of bounds
+13,8,00:26:57,5,8,LEE Zii Jia,wrist smash,fails to clear the net,opponent fails to clear the net
+14,13,00:27:30,5,9,LEE Zii Jia,clear,landing judgment error,opponent landing judgment error
+15,3,00:28:14,6,9,Anthony Sinisuka GINTING,clear,goes out of bounds,opponent goes out of bounds
+16,4,00:28:31,7,9,Anthony Sinisuka GINTING,net shot,hits the net,opponent hits the net
+17,8,00:28:50,8,9,Anthony Sinisuka GINTING,net shot,hits the net,opponent hits the net
+18,10,00:29:13,8,10,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+19,4,00:29:40,8,11,LEE Zii Jia,smash,goes out of bounds,opponent goes out of bounds
+20,5,00:30:58,8,12,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+21,41,00:31:49,9,12,Anthony Sinisuka GINTING,net shot,fails to clear the net,opponent fails to clear the net
+22,5,00:32:19,9,13,LEE Zii Jia,return net,fails to clear the net,opponent fails to clear the net
+23,22,00:32:57,9,14,LEE Zii Jia,clear,goes out of bounds,opponent goes out of bounds
+24,4,00:33:21,9,15,LEE Zii Jia,unknown,hits the net,opponent hits the net
+25,28,00:34:07,10,15,Anthony Sinisuka GINTING,wrist smash,opponent wins by landing,wins by landing
+26,7,00:34:42,11,15,Anthony Sinisuka GINTING,wrist smash,opponent wins by landing,wins by landing
+27,1,00:35:00,11,16,LEE Zii Jia,unknown,goes out of bounds,opponent goes out of bounds
+28,5,00:36:03,11,17,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+29,3,00:36:19,11,18,LEE Zii Jia,push,opponent wins by landing,wins by landing
+30,3,00:36:32,12,18,Anthony Sinisuka GINTING,push,goes out of bounds,opponent goes out of bounds
+31,6,00:36:50,13,18,Anthony Sinisuka GINTING,unknown,hits the net,opponent hits the net
+32,8,00:37:09,14,18,Anthony Sinisuka GINTING,return net,hits the net,opponent hits the net
+33,17,00:37:43,14,19,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+34,9,00:38:21,15,19,Anthony Sinisuka GINTING,smash,hits the net,opponent hits the net
+35,4,00:38:43,15,20,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+36,2,00:38:59,15,21,LEE Zii Jia,net shot,hits the net,opponent hits the net

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,8,4,2,50,17,11,65,Tobias,4,3,75,37,0,4,Tobias Harris,27,8,Harris,F,0,LA,3
+2,0,3,7,5,71,14,9,64,Danilo,5,5,100,33,0,0,Danilo Gallinari,28,3,Gallinari,F,1,LA,1
+0,0,4,0,0,0,6,5,83,Marcin,0,0,0,16,4,3,Marcin Gortat,10,8,Gortat,C,0,LA,1
+8,0,0,4,2,50,6,2,33,Patrick,0,0,0,33,0,3,Patrick Beverley,6,0,Beverley,G,1,LA,0
+2,0,2,1,0,0,9,2,22,Shai,0,0,0,20,0,5,Shai Gilgeous-Alexander,4,2,Gilgeous-Alexander,G,0,LA,1
+1,1,6,0,0,0,10,7,70,Montrezl,4,2,50,27,4,1,Montrezl Harrell,16,10,Harrell,N/A,0,LA,0
+2,0,4,1,1,100,6,3,50,Mike,2,2,100,20,0,2,Mike Scott,9,4,Scott,N/A,0,LA,0
+0,0,0,2,0,0,9,3,33,Tyrone,0,0,0,10,1,1,Tyrone Wallace,6,1,Wallace,N/A,1,LA,0
+5,0,1,3,0,0,15,4,27,Lou,9,8,89,28,0,2,Lou Williams,16,1,Williams,N/A,1,LA,2
+0,0,1,0,0,0,2,1,50,Sindarius,0,0,0,11,0,3,Sindarius Thornwell,2,1,Thornwell,N/A,0,LA,0
+0,0,0,1,1,100,1,1,100,Jerome,0,0,0,5,0,1,Jerome Robinson,3,0,Robinson,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Milos,N/A,N/A,N/A,N/A,N/A,N/A,Milos Teodosic,N/A,N/A,Teodosic,N/A,N/A,LA,N/A
+4,0,1,3,2,67,11,7,64,Joe,5,3,60,30,0,3,Joe Harris,19,1,Harris,F,1,Brooklyn,0
+1,0,2,1,1,100,2,2,100,Jared,0,0,0,26,0,1,Jared Dudley,5,2,Dudley,F,0,Brooklyn,0
+2,1,6,1,0,0,13,8,62,Jarrett,9,8,89,28,5,3,Jarrett Allen,24,11,Allen,C,0,Brooklyn,1
+1,0,4,6,3,50,11,5,46,Allen,2,2,100,30,0,3,Allen Crabbe,15,4,Crabbe,G,0,Brooklyn,0
+10,1,3,7,5,71,16,9,56,D'Angelo,0,0,0,35,0,0,D'Angelo Russell,23,3,Russell,G,2,Brooklyn,1
+7,0,2,6,1,17,16,3,19,Spencer,6,4,67,28,2,6,Spencer Dinwiddie,11,4,Dinwiddie,N/A,0,Brooklyn,4
+0,0,5,2,1,50,6,2,33,DeMarre,4,4,100,20,2,1,DeMarre Carroll,9,7,Carroll,N/A,0,Brooklyn,1
+0,1,0,1,0,0,4,0,0,Shabazz,2,1,50,13,0,1,Shabazz Napier,1,0,Napier,N/A,0,Brooklyn,3
+0,2,7,0,0,0,3,2,67,Ed,0,0,0,19,4,3,Ed Davis,4,11,Davis,N/A,0,Brooklyn,0
+0,0,2,1,0,0,6,2,33,Rondae,6,4,67,12,2,1,Rondae Hollis-Jefferson,8,4,Hollis-Jefferson,N/A,1,Brooklyn,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth Faried,N/A,N/A,Faried,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rodions,N/A,N/A,N/A,N/A,N/A,N/A,Rodions Kurucs,N/A,N/A,Kurucs,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dzanan,N/A,N/A,N/A,N/A,N/A,N/A,Dzanan Musa,N/A,N/A,Musa,N/A,N/A,Brooklyn,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,2,10,4,1,25,14,5,36,Josh,4,1,25,34,1,2,Josh Smith,12,11,Smith,F,2,Detroit,4
+0,0,6,0,0,0,9,3,33,Greg,7,6,86,25,2,0,Greg Monroe,12,8,Monroe,F,0,Detroit,2
+1,1,7,0,0,0,14,10,71,Andre,4,3,75,30,7,3,Andre Drummond,23,14,Drummond,C,1,Detroit,1
+1,0,4,4,2,50,9,5,56,Kentavious,2,2,100,30,1,4,Kentavious Caldwell-Pope,14,5,Caldwell-Pope,G,3,Detroit,3
+4,0,1,2,0,0,13,4,31,Brandon,0,0,0,29,0,0,Brandon Jennings,8,1,Jennings,G,1,Detroit,3
+1,0,0,0,0,0,10,4,40,Jodie,4,4,100,22,1,1,Jodie Meeks,12,1,Meeks,N/A,1,Detroit,1
+1,0,2,3,0,0,6,2,33,Caron,0,0,0,21,1,4,Caron Butler,4,3,Butler,N/A,0,Detroit,1
+6,0,1,1,0,0,5,4,80,D.J.,4,3,75,24,0,2,D.J. Augustin,11,1,Augustin,N/A,2,Detroit,2
+0,0,1,0,0,0,2,2,100,Jonas,0,0,0,14,0,1,Jonas Jerebko,4,1,Jerebko,N/A,0,Detroit,1
+0,0,2,1,1,100,2,1,50,Kyle,2,2,100,12,0,1,Kyle Singler,5,2,Singler,N/A,1,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joel,N/A,N/A,N/A,N/A,N/A,N/A,Joel Anthony,N/A,N/A,Anthony,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Spencer,N/A,N/A,N/A,N/A,N/A,N/A,Spencer Dinwiddie,N/A,N/A,Dinwiddie,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,N/A,Cartier Martin,N/A,N/A,Martin,N/A,N/A,Detroit,N/A
+3,0,6,4,2,50,11,5,46,PJ,5,4,80,33,3,2,PJ Tucker,16,9,Tucker,F,3,Phoenix,1
+2,0,6,2,1,50,13,7,54,Markieff,2,2,100,32,2,1,Markieff Morris,17,8,Morris,F,2,Phoenix,3
+0,2,3,0,0,0,8,5,63,Miles,1,0,0,27,3,2,Miles Plumlee,10,6,Plumlee,C,2,Phoenix,1
+5,0,4,3,1,33,12,8,67,Goran,2,1,50,32,1,4,Goran Dragic,18,5,Dragic,G,2,Phoenix,6
+2,1,4,3,2,67,9,6,67,Eric,2,2,100,31,1,2,Eric Bledsoe,16,5,Bledsoe,G,1,Phoenix,2
+0,1,0,1,0,0,1,0,0,Alex,0,0,0,12,0,3,Alex Len,0,0,Len,N/A,1,Phoenix,2
+1,1,1,6,1,17,7,1,14,Gerald,0,0,0,21,0,4,Gerald Green,3,1,Green,N/A,0,Phoenix,1
+0,0,0,2,1,50,2,1,50,Anthony,0,0,0,4,0,0,Anthony Tolliver,3,0,Tolliver,N/A,0,Phoenix,0
+2,0,2,6,1,17,11,3,27,Isaiah,4,3,75,28,0,4,Isaiah Thomas,10,2,Thomas,N/A,0,Phoenix,1
+1,0,1,4,1,25,9,3,33,Marcus,3,3,100,21,0,2,Marcus Morris,10,1,Morris,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Archie,N/A,N/A,N/A,N/A,N/A,N/A,Archie Goodwin,N/A,N/A,Goodwin,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shavlik,N/A,N/A,N/A,N/A,N/A,N/A,Shavlik Randolph,N/A,N/A,Randolph,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,TJ,N/A,N/A,N/A,N/A,N/A,N/A,TJ Warren,N/A,N/A,Warren,N/A,N/A,Phoenix,N/A

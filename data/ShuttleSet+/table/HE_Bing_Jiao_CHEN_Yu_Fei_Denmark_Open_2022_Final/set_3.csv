@@ -1,0 +1,32 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,10,00:53:28,1,0,HE Bingjiao,lob,landing judgment error,opponent landing judgment error
+2,19,00:54:05,2,0,HE Bingjiao,rush,opponent wins by landing,wins by landing
+3,12,00:54:47,3,0,HE Bingjiao,drop,hits the net,opponent hits the net
+4,18,00:55:29,3,1,CHEN Yufei,smash,opponent wins by landing,wins by landing
+5,12,00:56:23,3,2,CHEN Yufei,return net,hits the net,opponent hits the net
+6,8,00:57:05,4,2,HE Bingjiao,smash,opponent wins by landing,wins by landing
+7,5,00:57:50,5,2,HE Bingjiao,rush,opponent wins by landing,wins by landing
+8,6,00:58:15,6,2,HE Bingjiao,lob,goes out of bounds,opponent goes out of bounds
+9,16,00:58:48,7,2,HE Bingjiao,return net,hits the net,opponent hits the net
+10,2,00:59:17,8,2,HE Bingjiao,lob,goes out of bounds,opponent goes out of bounds
+11,4,00:59:39,9,2,HE Bingjiao,clear,goes out of bounds,opponent goes out of bounds
+12,4,01:00:01,10,2,HE Bingjiao,smash,hits the net,opponent hits the net
+13,15,01:00:33,10,3,CHEN Yufei,net shot,fails to clear the net,opponent fails to clear the net
+14,22,01:01:17,10,4,CHEN Yufei,smash,goes out of bounds,opponent goes out of bounds
+15,9,01:01:50,11,4,HE Bingjiao,rush,hits the net,opponent hits the net
+16,13,01:03:26,12,4,HE Bingjiao,smash,opponent wins by landing,wins by landing
+17,21,01:04:13,12,5,CHEN Yufei,push,hits the net,opponent hits the net
+18,32,01:05:08,13,5,HE Bingjiao,drop,opponent wins by landing,wins by landing
+19,11,01:05:52,14,5,HE Bingjiao,smash,opponent wins by landing,wins by landing
+20,6,01:06:24,15,5,HE Bingjiao,return net,hits the net,opponent hits the net
+21,8,01:06:51,16,5,HE Bingjiao,return net,hits the net,opponent hits the net
+22,3,01:07:17,16,6,CHEN Yufei,lob,goes out of bounds,opponent goes out of bounds
+23,30,01:07:58,17,6,HE Bingjiao,rush,opponent wins by landing,wins by landing
+24,7,01:08:43,17,7,CHEN Yufei,net shot,fails to clear the net,opponent fails to clear the net
+25,20,01:09:22,18,7,HE Bingjiao,net shot,opponent wins by landing,wins by landing
+26,19,01:10:17,18,8,CHEN Yufei,lob,hits the net,opponent hits the net
+27,9,01:11:23,19,8,HE Bingjiao,clear,goes out of bounds,opponent goes out of bounds
+28,4,01:11:56,19,9,CHEN Yufei,smash,opponent wins by landing,wins by landing
+29,12,01:12:37,19,10,CHEN Yufei,smash,goes out of bounds,opponent goes out of bounds
+30,3,01:12:58,20,10,HE Bingjiao,smash,goes out of bounds,opponent goes out of bounds
+31,2,01:13:28,21,10,HE Bingjiao,lob,goes out of bounds,opponent goes out of bounds

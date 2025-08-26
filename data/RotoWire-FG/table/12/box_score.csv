@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,2,1,50,4,1,25,Paul,0,0,0,20,0,0,Paul Pierce,3,4,Pierce,F,0,Washington,1
+2,0,1,0,0,0,9,3,33,Nene,0,0,0,19,1,1,Nene,6,2,N/A,F,0,Washington,0
+0,1,10,0,0,0,11,9,82,Marcin,3,3,100,26,6,3,Marcin Gortat,21,16,Gortat,C,0,Washington,1
+1,1,3,4,3,75,19,10,53,Bradley,2,1,50,32,0,2,Bradley Beal,24,3,Beal,G,1,Washington,3
+10,0,4,1,0,0,7,1,14,Ramon,2,0,0,34,3,1,Ramon Sessions,2,7,Sessions,G,0,Washington,1
+1,0,5,1,0,0,8,0,0,Drew,2,1,50,16,2,2,Drew Gooden,1,7,Gooden,N/A,0,Washington,0
+2,0,1,4,1,25,7,4,57,Otto,0,0,0,28,1,0,Otto Porter,9,2,Porter,N/A,0,Washington,2
+0,0,1,0,0,0,1,0,0,Rasual,0,0,0,5,0,0,Rasual Butler,0,1,Butler,N/A,0,Washington,0
+2,0,0,1,0,0,3,0,0,Will,2,1,50,18,0,3,Will Bynum,1,0,Bynum,N/A,0,Washington,4
+0,2,1,0,0,0,4,1,25,Kevin,2,2,100,15,1,3,Kevin Seraphin,4,2,Seraphin,N/A,0,Washington,3
+1,0,3,0,0,0,6,3,50,Kris,0,0,0,14,2,3,Kris Humphries,6,5,Humphries,N/A,1,Washington,1
+1,0,0,2,0,0,2,0,0,Martell,4,3,75,7,0,0,Martell Webster,3,0,Webster,N/A,0,Washington,1
+0,0,0,0,0,0,1,0,0,DeJuan,0,0,0,5,1,3,DeJuan Blair,0,1,Blair,N/A,1,Washington,0
+9,0,3,2,1,50,5,3,60,Joe,0,0,0,28,0,0,Joe Johnson,7,3,Johnson,F,2,Brooklyn,1
+0,0,3,1,0,0,8,5,63,Thaddeus,2,0,0,29,1,1,Thaddeus Young,10,4,Young,F,1,Brooklyn,0
+0,1,6,0,0,0,22,12,55,Brook,3,2,67,32,3,2,Brook Lopez,26,9,Lopez,C,1,Brooklyn,0
+2,0,0,3,0,0,10,3,30,Markel,1,1,100,29,0,3,Markel Brown,7,0,Brown,G,1,Brooklyn,0
+9,0,5,4,2,50,11,3,27,Deron,2,1,50,31,2,1,Deron Williams,9,7,Williams,G,1,Brooklyn,3
+2,0,3,6,6,100,12,7,58,Bojan,2,2,100,30,0,1,Bojan Bogdanovic,22,3,Bogdanovic,N/A,1,Brooklyn,0
+3,0,5,2,2,100,6,5,83,Jarrett,2,2,100,19,0,2,Jarrett Jack,14,5,Jack,N/A,0,Brooklyn,0
+0,0,2,1,0,0,4,2,50,Cory,4,3,75,12,3,5,Cory Jefferson,7,5,Jefferson,N/A,0,Brooklyn,0
+2,0,3,0,0,0,7,3,43,Mason,5,2,40,18,2,4,Mason Plumlee,8,5,Plumlee,N/A,2,Brooklyn,1
+1,0,1,0,0,0,2,1,50,Darius,0,0,0,5,0,1,Darius Morris,2,1,Morris,N/A,1,Brooklyn,1
+0,0,0,0,0,0,1,0,0,Jerome,2,2,100,4,1,0,Jerome Jordan,2,1,Jordan,N/A,0,Brooklyn,0
+1,0,1,1,1,100,1,1,100,Earl,0,0,0,3,0,0,Earl Clark,3,1,Clark,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Anderson,N/A,N/A,Anderson,N/A,N/A,Brooklyn,N/A

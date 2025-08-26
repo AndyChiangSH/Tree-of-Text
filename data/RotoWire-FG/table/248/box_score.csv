@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,3,2,6,2,33,20,9,45,Rudy,2,2,100,41,2,3,Rudy Gay,22,4,Gay,F,1,Sacramento,4
+5,0,8,2,0,0,18,8,44,DeMarcus,17,12,71,36,4,5,DeMarcus Cousins,28,12,Cousins,F,2,Sacramento,4
+1,0,1,0,0,0,3,1,33,Willie,2,1,50,17,2,0,Willie Cauley-Stein,3,3,Cauley-Stein,C,0,Sacramento,0
+1,0,2,4,0,0,9,3,33,Marco,0,0,0,23,0,0,Marco Belinelli,6,2,Belinelli,G,0,Sacramento,1
+15,0,6,0,0,0,13,7,54,Rajon,0,0,0,36,2,0,Rajon Rondo,14,8,Rondo,G,3,Sacramento,2
+2,0,4,0,0,0,3,1,33,Omri,0,0,0,20,1,2,Omri Casspi,2,5,Casspi,N/A,0,Sacramento,0
+3,0,3,2,2,100,12,9,75,Darren,6,5,83,32,0,1,Darren Collison,25,3,Collison,N/A,0,Sacramento,1
+1,1,1,0,0,0,5,4,80,Kosta,0,0,0,15,1,2,Kosta Koufos,8,2,Koufos,N/A,0,Sacramento,0
+0,0,1,1,0,0,1,0,0,James,0,0,0,5,0,0,James Anderson,0,1,Anderson,N/A,1,Sacramento,0
+0,2,1,1,0,0,3,2,67,Quincy,2,2,100,15,3,3,Quincy Acy,6,4,Acy,N/A,0,Sacramento,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caron,N/A,N/A,N/A,N/A,N/A,N/A,Caron Butler,N/A,N/A,Butler,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Seth,N/A,N/A,N/A,N/A,N/A,N/A,Seth Curry,N/A,N/A,Curry,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ben,N/A,N/A,N/A,N/A,N/A,N/A,Ben McLemore,N/A,N/A,McLemore,N/A,N/A,Sacramento,N/A
+1,0,3,11,7,64,16,9,56,Robert,6,4,67,32,2,5,Robert Covington,29,5,Covington,F,6,Philadelphia,7
+6,4,4,3,1,33,8,2,25,Jerami,2,2,100,29,2,0,Jerami Grant,7,6,Grant,F,0,Philadelphia,1
+5,2,7,0,0,0,18,11,61,Jahlil,5,4,80,39,3,5,Jahlil Okafor,26,10,Okafor,C,0,Philadelphia,6
+3,0,2,5,4,80,10,6,60,Nik,0,0,0,31,0,0,Nik Stauskas,16,2,Stauskas,G,1,Philadelphia,0
+10,0,3,1,0,0,6,2,33,Ish,2,1,50,31,0,2,Ish Smith,5,3,Smith,G,0,Philadelphia,1
+0,4,0,1,0,0,7,4,57,Richaun,2,0,0,15,2,3,Richaun Holmes,8,2,Holmes,N/A,1,Philadelphia,2
+0,0,5,7,1,14,11,3,27,Hollis,0,0,0,23,3,0,Hollis Thompson,7,8,Thompson,N/A,0,Philadelphia,0
+3,0,1,1,0,0,5,2,40,TJ,0,0,0,17,4,1,TJ McConnell,4,5,McConnell,N/A,1,Philadelphia,1
+0,0,0,6,2,33,7,2,29,Isaiah,0,0,0,16,0,4,Isaiah Canaan,6,0,Canaan,N/A,0,Philadelphia,0
+1,0,1,0,0,0,3,1,33,Carl,0,0,0,6,2,1,Carl Landry,2,3,Landry,N/A,0,Philadelphia,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kendall,N/A,N/A,N/A,N/A,N/A,N/A,Kendall Marshall,N/A,N/A,Marshall,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens,N/A,N/A,N/A,N/A,N/A,N/A,Nerlens Noel,N/A,N/A,Noel,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaKarr,N/A,N/A,N/A,N/A,N/A,N/A,JaKarr Sampson,N/A,N/A,Sampson,N/A,N/A,Philadelphia,N/A

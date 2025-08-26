@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,3,4,1,25,20,9,45,Andrew,7,5,71,30,1,2,Andrew Wiggins,24,4,Wiggins,F,3,Minnesota,4
+4,0,7,1,0,0,5,2,40,Gorgui,2,2,100,28,2,0,Gorgui Dieng,6,9,Dieng,F,0,Minnesota,0
+4,2,4,1,1,100,10,8,80,Karl-Anthony,5,4,80,28,2,2,Karl-Anthony Towns,21,6,Towns,C,2,Minnesota,3
+0,0,2,1,0,0,1,0,0,Brandon,0,0,0,16,0,1,Brandon Rush,0,2,Rush,G,0,Minnesota,0
+5,0,3,6,0,0,17,6,35,Ricky,3,3,100,30,2,3,Ricky Rubio,15,5,Rubio,G,1,Minnesota,2
+1,0,2,0,0,0,3,3,100,Omri,0,0,0,14,1,1,Omri Casspi,6,3,Casspi,N/A,0,Minnesota,1
+1,0,3,2,1,50,18,8,44,Shabazz,9,7,78,32,8,1,Shabazz Muhammad,24,11,Muhammad,N/A,0,Minnesota,0
+1,0,1,0,0,0,4,0,0,Kris,0,0,0,20,0,5,Kris Dunn,0,1,Dunn,N/A,2,Minnesota,2
+3,0,2,1,0,0,4,0,0,Tyus,0,0,0,16,0,2,Tyus Jones,0,2,Jones,N/A,0,Minnesota,0
+1,1,4,3,1,33,8,3,38,Adreian,0,0,0,14,1,2,Adreian Payne,7,5,Payne,N/A,1,Minnesota,0
+0,0,0,0,0,0,4,1,25,Cole,0,0,0,6,1,0,Cole Aldrich,2,1,Aldrich,N/A,0,Minnesota,0
+0,0,0,0,0,0,2,1,50,Jordan,0,0,0,6,1,0,Jordan Hill,2,1,Hill,N/A,0,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nemanja,N/A,N/A,N/A,N/A,N/A,N/A,Nemanja Bjelica,N/A,N/A,Bjelica,N/A,N/A,Minnesota,N/A
+4,0,6,3,2,67,6,5,83,Matt,0,0,0,26,0,3,Matt Barnes,12,6,Barnes,F,1,Golden State,0
+5,1,1,2,0,0,6,2,33,Draymond,2,2,100,28,0,1,Draymond Green,6,1,Green,F,1,Golden State,2
+0,0,6,0,0,0,5,3,60,Zaza,0,0,0,19,1,1,Zaza Pachulia,6,7,Pachulia,C,0,Golden State,0
+3,1,2,14,7,50,24,13,54,Klay,9,8,89,33,0,2,Klay Thompson,41,2,Thompson,G,2,Golden State,1
+9,2,3,8,3,38,18,7,39,Stephen,4,2,50,30,0,2,Stephen Curry,19,3,Curry,G,3,Golden State,3
+3,0,2,1,1,100,4,4,100,Andre,2,2,100,23,0,3,Andre Iguodala,11,2,Iguodala,N/A,0,Golden State,1
+0,1,1,0,0,0,3,3,100,JaVale,0,0,0,8,1,2,JaVale McGee,6,2,McGee,N/A,0,Golden State,0
+2,1,2,0,0,0,0,0,0,Shaun,4,4,100,19,0,3,Shaun Livingston,4,2,Livingston,N/A,0,Golden State,1
+6,1,3,0,0,0,4,3,75,David,1,1,100,15,1,0,David West,7,4,West,N/A,0,Golden State,2
+1,0,2,3,1,33,8,2,25,Ian,0,0,0,18,1,1,Ian Clark,5,3,Clark,N/A,1,Golden State,1
+0,0,1,0,0,0,1,1,100,Patrick,0,0,0,9,0,1,Patrick McCaw,2,1,McCaw,N/A,1,Golden State,1
+0,0,2,1,0,0,3,0,0,James,2,0,0,7,2,0,James Michael McAdoo,0,4,Michael,N/A,0,Golden State,0
+0,0,1,0,0,0,2,1,50,Kevon,0,0,0,4,2,0,Kevon Looney,2,3,Looney,N/A,0,Golden State,1

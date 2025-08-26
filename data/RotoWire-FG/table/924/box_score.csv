@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,3,5,4,80,7,4,57,Bojan,2,2,100,29,0,2,Bojan Bogdanovic,14,3,Bogdanovic,F,0,Indiana,1
+2,0,2,2,0,0,7,2,29,Thaddeus,0,0,0,23,2,4,Thaddeus Young,4,4,Young,F,0,Indiana,5
+0,3,8,4,3,75,13,8,62,Myles,0,0,0,36,2,4,Myles Turner,19,10,Turner,C,1,Indiana,0
+4,1,2,5,2,40,20,10,50,Victor,5,5,100,36,1,1,Victor Oladipo,27,3,Oladipo,G,3,Indiana,4
+3,0,5,2,2,100,7,3,43,Cory,0,0,0,29,1,1,Cory Joseph,8,6,Joseph,G,1,Indiana,3
+0,0,6,0,0,0,9,5,56,Domantas,0,0,0,19,0,1,Domantas Sabonis,10,6,Sabonis,N/A,2,Indiana,1
+1,0,0,2,1,50,4,3,75,Glenn,0,0,0,13,0,2,Glenn Robinson III,7,0,Robinson,N/A,1,Indiana,0
+10,0,2,0,0,0,2,0,0,Darren,2,2,100,24,0,1,Darren Collison,2,2,Collison,N/A,1,Indiana,3
+2,2,2,1,0,0,7,2,29,Trevor,0,0,0,19,0,2,Trevor Booker,4,2,Booker,N/A,0,Indiana,1
+1,0,3,1,0,0,5,2,40,Lance,1,0,0,14,0,2,Lance Stephenson,4,3,Stephenson,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Al,N/A,N/A,N/A,N/A,N/A,N/A,Al Jefferson,N/A,N/A,Jefferson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,TJ,N/A,N/A,N/A,N/A,N/A,N/A,TJ Leaf,N/A,N/A,Leaf,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+3,2,5,4,2,50,11,5,46,Jayson,8,7,88,34,0,3,Jayson Tatum,19,5,Tatum,F,1,Boston,2
+2,0,4,6,0,0,13,5,38,Marcus,0,0,0,32,0,1,Marcus Morris,10,4,Morris,F,1,Boston,1
+2,0,1,1,0,0,9,3,33,Aron,0,0,0,19,4,0,Aron Baynes,6,5,Baynes,C,1,Boston,1
+8,0,5,12,6,50,13,6,46,Marcus,2,2,100,36,2,0,Marcus Smart,20,7,Smart,G,4,Boston,4
+1,0,3,3,1,33,6,3,50,Kyrie,0,0,0,16,1,0,Kyrie Irving,7,4,Irving,G,1,Boston,3
+2,0,6,8,3,38,13,5,38,Terry,5,3,60,34,0,2,Terry Rozier,16,6,Rozier,N/A,0,Boston,2
+2,1,2,1,0,0,4,2,50,Daniel,1,1,100,19,1,2,Daniel Theis,5,3,Theis,N/A,0,Boston,0
+2,2,3,0,0,0,7,4,57,Greg,0,0,0,17,1,3,Greg Monroe,8,4,Monroe,N/A,0,Boston,1
+3,0,1,2,0,0,4,0,0,Shane,2,2,100,17,0,1,Shane Larkin,2,1,Larkin,N/A,2,Boston,1
+1,0,2,0,0,0,0,0,0,Abdel,2,2,100,8,0,0,Abdel Nader,2,2,Nader,N/A,0,Boston,1
+0,0,0,0,0,0,1,1,100,Semi,1,0,0,9,1,1,Semi Ojeleye,2,1,Ojeleye,N/A,0,Boston,0
+0,0,0,0,0,0,0,0,0,Kadeem,0,0,0,0,0,0,Kadeem Allen,0,0,Allen,N/A,0,Boston,0

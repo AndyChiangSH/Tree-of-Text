@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,5,3,0,0,8,0,0,PJ,0,0,0,32,3,2,PJ Tucker,0,8,Tucker,F,1,Phoenix,4
+2,1,6,0,0,0,8,3,38,Alex,4,4,100,35,1,4,Alex Len,10,7,Len,F,1,Phoenix,4
+1,1,10,0,0,0,5,3,60,Tyson,6,4,67,36,3,4,Tyson Chandler,10,13,Chandler,C,1,Phoenix,2
+2,0,5,9,4,44,25,12,48,Devin,10,6,60,39,0,4,Devin Booker,34,5,Booker,G,2,Phoenix,2
+4,0,1,7,4,57,9,4,44,Ronnie,2,2,100,31,2,2,Ronnie Price,14,3,Price,G,4,Phoenix,7
+1,2,2,2,1,50,6,2,33,Archie,2,0,0,16,0,0,Archie Goodwin,5,2,Goodwin,N/A,1,Phoenix,4
+1,0,2,0,0,0,1,0,0,Alan,2,1,50,7,1,1,Alan Williams,1,3,Williams,N/A,0,Phoenix,0
+3,0,6,8,3,38,13,4,31,Mirza,2,1,50,28,1,0,Mirza Teletovic,12,7,Teletovic,N/A,2,Phoenix,1
+1,0,2,2,0,0,5,1,20,John,0,0,0,11,0,1,John Jenkins,2,2,Jenkins,N/A,1,Phoenix,0
+2,0,1,0,0,0,1,1,100,Chase,2,0,0,7,0,1,Chase Budinger,2,1,Budinger,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Knight,N/A,N/A,Knight,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jon,N/A,N/A,N/A,N/A,N/A,N/A,Jon Leuer,N/A,N/A,Leuer,N/A,N/A,Phoenix,N/A
+5,0,7,5,2,40,13,7,54,Kent,4,1,25,34,2,4,Kent Bazemore,17,9,Bazemore,F,5,Atlanta,1
+8,3,13,3,1,33,8,3,38,Paul,8,6,75,36,4,3,Paul Millsap,13,17,Millsap,F,3,Atlanta,1
+3,0,5,4,2,50,18,7,39,Al,0,0,0,34,5,4,Al Horford,16,10,Horford,C,2,Atlanta,4
+1,0,1,6,2,33,9,4,44,Kyle,1,1,100,29,0,4,Kyle Korver,11,1,Korver,G,0,Atlanta,0
+2,0,2,7,3,43,18,8,44,Jeff,1,1,100,30,0,1,Jeff Teague,20,2,Teague,G,2,Atlanta,4
+1,0,1,2,1,50,4,2,50,Kris,0,0,0,11,0,0,Kris Humphries,5,1,Humphries,N/A,0,Atlanta,2
+2,0,1,3,0,0,5,2,40,Tim,4,4,100,14,0,2,Tim Hardaway Jr.,8,1,Hardaway,N/A,0,Atlanta,0
+3,0,2,3,0,0,13,2,15,Dennis,0,0,0,18,1,1,Dennis Schroder,4,3,Schroder,N/A,2,Atlanta,3
+1,0,3,0,0,0,3,3,100,Thabo,1,1,100,20,1,1,Thabo Sefolosha,7,4,Sefolosha,N/A,1,Atlanta,0
+0,0,2,1,0,0,4,1,25,Mike,0,0,0,16,0,1,Mike Scott,2,2,Scott,N/A,1,Atlanta,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kirk,N/A,N/A,N/A,N/A,N/A,N/A,Kirk Hinrich,N/A,N/A,Hinrich,N/A,N/A,Atlanta,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Muscala,N/A,N/A,Muscala,N/A,N/A,Atlanta,N/A

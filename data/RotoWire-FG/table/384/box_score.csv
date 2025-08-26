@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+7,0,4,7,1,14,16,6,38,Gordon,10,6,60,37,0,3,Gordon Hayward,19,4,Hayward,F,4,Utah,2
+0,2,5,0,0,0,6,3,50,Derrick,4,3,75,26,1,5,Derrick Favors,9,6,Favors,F,0,Utah,1
+1,2,5,2,1,50,11,5,46,Enes,2,2,100,32,1,6,Enes Kanter,13,6,Kanter,C,0,Utah,3
+3,0,2,1,0,0,11,5,46,Alec,9,6,67,31,2,3,Alec Burks,16,4,Burks,G,2,Utah,1
+5,0,2,4,1,25,13,4,31,Trey,4,4,100,32,0,1,Trey Burke,13,2,Burke,G,0,Utah,1
+1,1,2,0,0,0,6,2,33,Trevor,4,2,50,15,1,1,Trevor Booker,6,3,Booker,N/A,1,Utah,2
+1,0,0,2,0,0,3,0,0,Rodney,0,0,0,22,0,2,Rodney Hood,0,0,Hood,N/A,0,Utah,0
+0,0,0,1,0,0,3,1,33,Dante,0,0,0,16,0,2,Dante Exum,2,0,Exum,N/A,0,Utah,1
+1,1,3,0,0,0,8,5,63,Rudy,4,2,50,21,6,3,Rudy Gobert,12,9,Gobert,N/A,0,Utah,1
+1,1,1,0,0,0,2,1,50,Joe,0,0,0,7,0,0,Joe Ingles,2,1,Ingles,N/A,0,Utah,1
+0,0,0,0,0,0,0,0,0,Jeremy,0,0,0,2,0,0,Jeremy Evans,0,0,Evans,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ian,N/A,N/A,N/A,N/A,N/A,N/A,Ian Clark,N/A,N/A,Clark,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Steve,N/A,N/A,N/A,N/A,N/A,N/A,Steve Novak,N/A,N/A,Novak,N/A,N/A,Utah,N/A
+1,1,3,1,0,0,19,10,53,Rudy,10,9,90,33,3,5,Rudy Gay,29,6,Gay,F,3,Sacramento,4
+3,0,7,0,0,0,8,3,38,Jason,6,4,67,36,2,2,Jason Thompson,10,9,Thompson,F,0,Sacramento,2
+1,0,13,0,0,0,4,2,50,Reggie,4,2,50,34,0,4,Reggie Evans,6,13,Evans,C,1,Sacramento,0
+1,1,0,0,0,0,5,2,40,Ben,2,2,100,18,0,3,Ben McLemore,6,0,McLemore,G,0,Sacramento,0
+6,0,2,2,0,0,12,6,50,Darren,4,4,100,32,0,3,Darren Collison,16,2,Collison,G,1,Sacramento,2
+1,0,6,4,2,50,12,6,50,Nik,1,1,100,30,2,0,Nik Stauskas,15,8,Stauskas,N/A,1,Sacramento,2
+1,0,0,0,0,0,2,1,50,Carl,4,4,100,15,1,4,Carl Landry,6,1,Landry,N/A,0,Sacramento,2
+0,0,0,1,1,100,7,3,43,Derrick,0,0,0,15,1,0,Derrick Williams,7,1,Williams,N/A,0,Sacramento,1
+0,0,2,0,0,0,0,0,0,Ryan,0,0,0,11,0,2,Ryan Hollins,0,2,Hollins,N/A,1,Sacramento,1
+4,0,2,0,0,0,5,2,40,Ramon,5,2,40,16,1,1,Ramon Sessions,6,3,Sessions,N/A,1,Sacramento,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omri,N/A,N/A,N/A,N/A,N/A,N/A,Omri Casspi,N/A,N/A,Casspi,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ray,N/A,N/A,N/A,N/A,N/A,N/A,Ray McCallum,N/A,N/A,McCallum,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eric,N/A,N/A,N/A,N/A,N/A,N/A,Eric Moreland,N/A,N/A,Moreland,N/A,N/A,Sacramento,N/A

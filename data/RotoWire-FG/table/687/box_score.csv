@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,1,1,100,8,5,63,Carmelo,1,1,100,12,0,2,Carmelo Anthony,12,2,Anthony,F,0,New York,1
+1,2,4,2,0,0,15,5,33,Kristaps,4,4,100,23,2,4,Kristaps Porzingis,14,6,Porzingis,F,1,New York,1
+2,3,7,0,0,0,5,4,80,Joakim,1,1,100,22,3,0,Joakim Noah,9,10,Noah,C,1,New York,3
+1,1,0,1,0,0,4,0,0,Courtney,1,1,100,22,1,3,Courtney Lee,1,1,Lee,G,0,New York,1
+6,0,4,3,1,33,10,3,30,Derrick,4,4,100,27,0,4,Derrick Rose,11,4,Rose,G,0,New York,7
+0,2,1,5,2,40,11,4,36,Justin,0,0,0,26,4,2,Justin Holiday,10,5,Holiday,N/A,1,New York,1
+1,1,4,3,1,33,7,3,43,Lance,0,0,0,20,1,1,Lance Thomas,7,5,Thomas,N/A,1,New York,1
+3,1,6,0,0,0,13,4,31,Willy,0,0,0,24,6,5,Willy Hernangomez,8,12,Hernangomez,N/A,2,New York,5
+2,0,4,4,1,25,7,1,14,Brandon,4,3,75,27,2,3,Brandon Jennings,6,6,Jennings,N/A,0,New York,3
+2,0,1,1,0,0,5,2,40,Mindaugas,2,1,50,16,1,0,Mindaugas Kuzminskas,5,2,Kuzminskas,N/A,0,New York,2
+0,0,1,2,0,0,3,0,0,Sasha,0,0,0,9,0,1,Sasha Vujacic,0,1,Vujacic,N/A,0,New York,0
+0,1,0,1,0,0,3,1,33,Ron,0,0,0,8,0,0,Ron Baker,2,0,Baker,N/A,1,New York,0
+0,0,2,0,0,0,3,1,33,Kyle,0,0,0,3,1,1,Kyle O'Quinn,2,3,O'Quinn,N/A,0,New York,0
+10,0,5,7,2,29,13,5,39,Marcus,0,0,0,34,1,1,Marcus Smart,12,6,Smart,F,3,Boston,1
+1,0,1,0,0,0,1,0,0,Amir,2,2,100,21,2,2,Amir Johnson,2,3,Johnson,F,1,Boston,2
+3,0,5,5,3,60,11,6,55,Kelly,4,4,100,30,2,3,Kelly Olynyk,19,7,Olynyk,C,2,Boston,3
+2,0,7,4,1,25,17,5,29,Avery,4,4,100,32,3,2,Avery Bradley,15,10,Bradley,G,3,Boston,2
+4,0,1,5,3,60,17,9,53,Isaiah,8,8,100,28,2,1,Isaiah Thomas,29,3,Thomas,G,1,Boston,2
+1,1,2,1,0,0,4,2,50,Jonas,2,1,50,21,3,1,Jonas Jerebko,5,5,Jerebko,N/A,1,Boston,0
+1,0,3,1,1,100,8,1,13,Terry,8,7,88,27,2,2,Terry Rozier,10,5,Rozier,N/A,2,Boston,0
+0,1,4,3,1,33,9,3,33,Jaylen,8,3,38,17,0,2,Jaylen Brown,10,4,Brown,N/A,0,Boston,0
+0,1,3,0,0,0,6,3,50,Tyler,7,5,71,21,1,4,Tyler Zeller,11,4,Zeller,N/A,2,Boston,3
+1,0,0,0,0,0,1,0,0,Gerald,0,0,0,3,1,0,Gerald Green,0,1,Green,N/A,0,Boston,2
+0,0,2,1,0,0,1,0,0,James,0,0,0,3,0,0,James Young,0,2,Young,N/A,1,Boston,0
+0,0,1,0,0,0,2,1,50,Jordan,0,0,0,3,2,0,Jordan Mickey,2,3,Mickey,N/A,0,Boston,0

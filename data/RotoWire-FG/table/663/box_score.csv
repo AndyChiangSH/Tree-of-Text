@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,8,8,4,50,14,7,50,Trevor,0,0,0,35,0,4,Trevor Ariza,18,8,Ariza,F,3,Houston,3
+0,0,2,1,0,0,12,5,42,Terrence,2,0,0,25,4,3,Terrence Jones,10,6,Jones,F,0,Houston,1
+1,0,4,0,0,0,7,3,43,Dwight,6,1,17,18,2,6,Dwight Howard,7,6,Howard,C,0,Houston,2
+6,0,8,4,2,50,12,5,42,James,10,9,90,32,0,3,James Harden,21,8,Harden,G,0,Houston,1
+2,0,0,8,4,50,12,6,50,Jason,0,0,0,27,0,3,Jason Terry,16,0,Terry,G,1,Houston,1
+2,1,4,0,0,0,2,0,0,Josh,4,1,25,14,0,3,Josh Smith,1,4,Smith,N/A,1,Houston,2
+0,0,4,0,0,0,3,1,33,Clint,2,0,0,12,3,4,Clint Capela,2,7,Capela,N/A,0,Houston,0
+1,0,2,0,0,0,1,0,0,Joey,2,1,50,6,0,1,Joey Dorsey,1,2,Dorsey,N/A,0,Houston,0
+1,0,2,2,1,50,3,1,33,Pablo,0,0,0,19,0,2,Pablo Prigioni,3,2,Prigioni,N/A,1,Houston,2
+2,0,2,2,0,0,8,2,25,Corey,1,0,0,25,0,5,Corey Brewer,4,2,Brewer,N/A,0,Houston,0
+0,0,1,1,0,0,2,1,50,Kostas,0,0,0,10,0,4,Kostas Papanikolaou,2,1,Papanikolaou,N/A,0,Houston,4
+2,0,0,2,1,50,7,3,43,Nick,3,3,100,16,1,2,Nick Johnson,10,1,Johnson,N/A,0,Houston,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,KJ,N/A,N/A,N/A,N/A,N/A,N/A,KJ McDaniels,N/A,N/A,McDaniels,N/A,N/A,Houston,N/A
+2,0,7,4,0,0,8,2,25,Matt,4,3,75,30,1,3,Matt Barnes,7,8,Barnes,F,0,Los Angeles,1
+3,1,8,0,0,0,11,7,64,Blake,9,7,78,33,0,2,Blake Griffin,21,8,Griffin,F,0,Los Angeles,2
+2,1,13,0,0,0,7,6,86,DeAndre,34,14,41,30,4,3,DeAndre Jordan,26,17,Jordan,C,2,Los Angeles,0
+2,0,1,7,4,57,10,5,50,JJ,4,4,100,29,0,2,JJ Redick,18,1,Redick,G,0,Los Angeles,2
+12,0,2,4,3,75,9,4,44,Chris,5,4,80,26,2,3,Chris Paul,15,4,Paul,G,1,Los Angeles,1
+1,1,2,6,2,33,10,4,40,Jamal,5,3,60,27,2,1,Jamal Crawford,13,4,Crawford,N/A,0,Los Angeles,1
+0,2,4,3,2,67,9,5,56,Austin,0,0,0,24,1,3,Austin Rivers,12,5,Rivers,N/A,1,Los Angeles,2
+2,0,1,2,2,100,2,2,100,Spencer,2,2,100,9,0,2,Spencer Hawes,8,1,Hawes,N/A,1,Los Angeles,0
+0,0,0,0,0,0,2,0,0,Glen,0,0,0,7,0,0,Glen Davis,0,0,Davis,N/A,1,Los Angeles,0
+0,0,0,0,0,0,1,1,100,Dahntay,0,0,0,6,0,0,Dahntay Jones,2,0,Jones,N/A,1,Los Angeles,0
+3,0,1,4,0,0,4,0,0,Hedo,0,0,0,9,0,0,Hedo Turkoglu,0,1,Turkoglu,N/A,1,Los Angeles,0
+0,0,0,1,0,0,3,2,67,Lester,0,0,0,5,0,2,Lester Hudson,4,0,Hudson,N/A,1,Los Angeles,1
+0,0,2,0,0,0,3,1,33,Ekpe,0,0,0,5,0,1,Ekpe Udoh,2,2,Udoh,N/A,0,Los Angeles,0

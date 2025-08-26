@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,6,5,3,60,15,7,47,Andrew,2,1,50,38,3,2,Andrew Wiggins,18,9,Wiggins,F,0,Minnesota,1
+3,0,5,5,1,20,11,2,18,Dario,2,2,100,30,3,0,Dario Saric,7,8,Saric,F,1,Minnesota,0
+1,0,3,0,0,0,17,7,41,Taj,7,6,86,25,3,3,Taj Gibson,20,6,Gibson,C,0,Minnesota,1
+0,0,1,2,2,100,9,6,67,Josh,0,0,0,18,1,2,Josh Okogie,14,2,Okogie,G,1,Minnesota,2
+4,0,0,1,0,0,7,1,14,Jeff,0,0,0,19,0,2,Jeff Teague,2,0,Teague,G,1,Minnesota,2
+4,0,2,2,0,0,15,10,67,Derrick,3,3,100,23,0,0,Derrick Rose,23,2,Rose,N/A,0,Minnesota,2
+1,1,5,7,5,71,8,6,75,Anthony,0,0,0,25,0,1,Anthony Tolliver,17,5,Tolliver,N/A,0,Minnesota,0
+9,0,3,1,0,0,10,4,40,Tyus,2,1,50,28,0,3,Tyus Jones,9,3,Jones,N/A,4,Minnesota,1
+2,0,0,3,1,33,7,4,57,Luol,1,1,100,20,0,2,Luol Deng,10,0,Deng,N/A,0,Minnesota,1
+1,1,4,0,0,0,3,3,100,Keita,3,2,67,15,2,1,Keita Bates-Diop,8,6,Bates-Diop,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd Bayless,N/A,N/A,Bayless,N/A,N/A,Minnesota,N/A
+3,0,6,10,4,40,18,10,56,Khris,4,4,100,33,1,1,Khris Middleton,28,7,Middleton,F,0,Milwaukee,1
+7,2,9,4,3,75,16,9,56,Giannis,6,6,100,33,1,2,Giannis Antetokounmpo,27,10,Antetokounmpo,F,1,Milwaukee,3
+1,4,7,8,3,38,13,7,54,Brook,2,2,100,32,0,3,Brook Lopez,19,7,Lopez,C,1,Milwaukee,1
+4,0,4,4,2,50,11,5,46,Malcolm,5,4,80,31,1,1,Malcolm Brogdon,16,5,Brogdon,G,1,Milwaukee,2
+7,0,4,4,1,25,11,6,55,Eric,3,3,100,30,1,3,Eric Bledsoe,16,5,Bledsoe,G,2,Milwaukee,3
+1,2,5,6,3,50,11,7,64,Nikola,0,0,0,18,1,1,Nikola Mirotic,17,6,Mirotic,N/A,1,Milwaukee,0
+2,0,1,0,0,0,2,2,100,Sterling,0,0,0,16,0,2,Sterling Brown,4,1,Brown,N/A,0,Milwaukee,1
+0,0,1,0,0,0,1,0,0,Tony,0,0,0,9,0,2,Tony Snell,0,1,Snell,N/A,0,Milwaukee,0
+0,0,2,4,3,75,8,4,50,Ersan,2,2,100,20,5,2,Ersan Ilyasova,13,7,Ilyasova,N/A,0,Milwaukee,0
+3,0,0,2,0,0,2,0,0,George,0,0,0,4,0,0,George Hill,0,0,Hill,N/A,0,Milwaukee,0
+0,0,0,1,0,0,2,0,0,Pat,0,0,0,16,0,0,Pat Connaughton,0,0,Connaughton,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,D.J.,N/A,N/A,N/A,N/A,N/A,N/A,D.J. Wilson,N/A,N/A,Wilson,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Christian,N/A,N/A,N/A,N/A,N/A,N/A,Christian Wood,N/A,N/A,Wood,N/A,N/A,Milwaukee,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,1,3,6,2,33,11,3,27,Jae,4,4,100,37,1,3,Jae Crowder,12,4,Crowder,F,4,Boston,2
+1,0,6,1,0,0,17,8,47,Jared,2,1,50,31,7,4,Jared Sullinger,17,13,Sullinger,F,1,Boston,0
+1,0,1,0,0,0,4,3,75,Amir,5,2,40,17,0,3,Amir Johnson,8,1,Johnson,C,0,Boston,1
+5,0,4,6,2,33,12,4,33,Avery,2,2,100,37,0,2,Avery Bradley,12,4,Bradley,G,1,Boston,5
+4,0,2,6,4,67,15,9,60,Isaiah,8,5,63,34,1,0,Isaiah Thomas,27,3,Thomas,G,1,Boston,0
+3,0,4,0,0,0,9,5,56,Evan,2,1,50,27,0,1,Evan Turner,11,4,Turner,N/A,0,Boston,2
+0,0,2,2,1,50,4,1,25,Marcus,0,0,0,21,1,5,Marcus Smart,3,3,Smart,N/A,0,Boston,2
+2,0,2,2,1,50,3,2,67,Jonas,0,0,0,15,0,3,Jonas Jerebko,5,2,Jerebko,N/A,0,Boston,1
+0,0,3,0,0,0,4,2,50,Tyler,4,4,100,17,0,1,Tyler Zeller,8,3,Zeller,N/A,1,Boston,1
+0,0,0,0,0,0,0,0,0,James,0,0,0,1,0,0,James Young,0,0,Young,N/A,0,Boston,0
+0,0,0,0,0,0,1,0,0,Terry,0,0,0,1,0,0,Terry Rozier,0,0,Rozier,N/A,0,Boston,0
+0,0,0,0,0,0,0,0,0,Jordan,0,0,0,1,0,0,Jordan Mickey,0,0,Mickey,N/A,0,Boston,0
+8,1,7,4,1,25,20,11,55,LeBron,9,5,56,36,4,2,LeBron James,28,11,James,F,2,Cleveland,4
+3,0,3,3,0,0,6,1,17,Kevin,9,8,89,30,1,1,Kevin Love,10,4,Love,F,1,Cleveland,1
+0,0,3,0,0,0,4,4,100,Timofey,2,2,100,11,0,1,Timofey Mozgov,10,3,Mozgov,C,0,Cleveland,1
+3,0,3,10,4,40,15,5,33,JR,0,0,0,34,0,1,JR Smith,14,3,Smith,G,0,Cleveland,0
+4,2,3,6,3,50,13,7,54,Kyrie,4,3,75,30,0,5,Kyrie Irving,20,3,Irving,G,0,Cleveland,3
+0,0,1,0,0,0,6,4,67,Tristan,5,4,80,28,4,3,Tristan Thompson,12,5,Thompson,N/A,1,Cleveland,3
+4,0,10,4,2,50,8,4,50,Iman,2,2,100,35,6,5,Iman Shumpert,12,16,Shumpert,N/A,2,Cleveland,2
+4,1,0,2,0,0,6,4,67,Matthew,3,2,67,28,0,3,Matthew Dellavedova,10,0,Dellavedova,N/A,2,Cleveland,0
+1,0,2,1,0,0,3,1,33,Richard,0,0,0,6,0,0,Richard Jefferson,2,2,Jefferson,N/A,0,Cleveland,1
+0,0,0,0,0,0,1,1,100,Sasha,0,0,0,1,0,0,Sasha Kaun,2,0,Kaun,N/A,0,Cleveland,0
+0,0,0,0,0,0,0,0,0,Jordan,0,0,0,1,0,0,Jordan McRae,0,0,McRae,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Channing,N/A,N/A,N/A,N/A,N/A,N/A,Channing Frye,N/A,N/A,Frye,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Jones,N/A,N/A,Jones,N/A,N/A,Cleveland,N/A

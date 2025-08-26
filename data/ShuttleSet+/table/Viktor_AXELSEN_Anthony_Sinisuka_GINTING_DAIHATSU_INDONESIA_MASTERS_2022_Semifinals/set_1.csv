@@ -1,0 +1,37 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,4,00:08:08,0,1,Anthony Sinisuka GINTING,return net,hits the net,opponent hits the net
+2,18,00:08:34,0,2,Anthony Sinisuka GINTING,net shot,fails to clear the net,opponent fails to clear the net
+3,3,00:08:53,1,2,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+4,7,00:09:12,2,2,Viktor AXELSEN,lob,landing judgment error,opponent landing judgment error
+5,18,00:09:41,3,2,Viktor AXELSEN,cross-court net shot,hits the net,opponent hits the net
+6,26,00:10:29,4,2,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+7,2,00:10:57,5,2,Viktor AXELSEN,wrist smash,hits the net,opponent hits the net
+8,22,00:11:38,6,2,Viktor AXELSEN,rush,goes out of bounds,opponent goes out of bounds
+9,8,00:12:12,7,2,Viktor AXELSEN,net shot,hits the net,opponent hits the net
+10,7,00:12:39,8,2,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+11,5,00:13:30,8,3,Anthony Sinisuka GINTING,push,goes out of bounds,opponent goes out of bounds
+12,39,00:14:28,9,3,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+13,6,00:14:57,10,3,Viktor AXELSEN,push,goes out of bounds,opponent goes out of bounds
+14,14,00:15:46,10,4,Anthony Sinisuka GINTING,smash,opponent wins by landing,wins by landing
+15,27,00:16:35,10,5,Anthony Sinisuka GINTING,net shot,opponent wins by landing,wins by landing
+16,2,00:17:11,10,6,Anthony Sinisuka GINTING,lob,goes out of bounds,opponent goes out of bounds
+17,14,00:18:01,10,7,Anthony Sinisuka GINTING,net shot,hits the net,opponent hits the net
+18,7,00:18:27,11,7,Viktor AXELSEN,lob,hits the net,opponent hits the net
+19,7,00:19:41,11,8,Anthony Sinisuka GINTING,rush,hits the net,opponent hits the net
+20,9,00:20:13,11,9,Anthony Sinisuka GINTING,rush,opponent wins by landing,wins by landing
+21,2,00:20:32,12,9,Viktor AXELSEN,lob,landing judgment error,opponent landing judgment error
+22,47,00:22:04,12,10,Anthony Sinisuka GINTING,smash,hits the net,opponent hits the net
+23,5,00:22:41,13,10,Viktor AXELSEN,drive,goes out of bounds,opponent goes out of bounds
+24,20,00:23:14,13,11,Anthony Sinisuka GINTING,rush,opponent wins by landing,wins by landing
+25,5,00:24:28,14,11,Viktor AXELSEN,drop,hits the net,opponent hits the net
+26,7,00:24:54,14,12,Anthony Sinisuka GINTING,return net,hits the net,opponent hits the net
+27,15,00:25:27,15,12,Viktor AXELSEN,unknown,goes out of bounds,opponent goes out of bounds
+28,12,00:26:01,16,12,Viktor AXELSEN,lob,goes out of bounds,opponent goes out of bounds
+29,1,00:26:32,16,13,Anthony Sinisuka GINTING,short service,fails to clear the net,opponent fails to clear the net
+30,19,00:27:06,17,13,Viktor AXELSEN,drop,goes out of bounds,opponent goes out of bounds
+31,5,00:27:33,18,13,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing
+32,10,00:28:07,18,14,Anthony Sinisuka GINTING,clear,landing judgment error,opponent landing judgment error
+33,6,00:29:01,19,14,Viktor AXELSEN,wrist smash,opponent wins by landing,wins by landing
+34,13,00:29:32,19,15,Anthony Sinisuka GINTING,net shot,hits the net,opponent hits the net
+35,17,00:30:36,20,15,Viktor AXELSEN,unknown,goes out of bounds,opponent goes out of bounds
+36,19,00:31:13,21,15,Viktor AXELSEN,return net,landing judgment error,opponent landing judgment error

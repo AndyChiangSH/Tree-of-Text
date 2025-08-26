@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,5,3,60,13,6,46,Will,0,0,0,24,2,3,Will Barton,15,3,Barton,F,0,Denver,4
+1,0,2,2,1,50,8,2,25,Paul,2,1,50,27,3,3,Paul Millsap,6,5,Millsap,F,1,Denver,1
+8,4,8,3,1,33,16,8,50,Nikola,2,2,100,30,3,2,Nikola Jokic,19,11,Jokic,C,1,Denver,1
+1,1,1,1,1,100,6,5,83,Gary,0,0,0,26,0,1,Gary Harris,11,1,Harris,G,0,Denver,0
+5,0,3,3,0,0,12,2,17,Jamal,0,0,0,28,2,1,Jamal Murray,4,5,Murray,G,1,Denver,4
+1,0,0,3,0,0,13,6,46,Monte,0,0,0,23,1,1,Monte Morris,12,1,Morris,N/A,0,Denver,0
+2,1,3,0,0,0,2,0,0,Mason,4,4,100,17,0,1,Mason Plumlee,4,3,Plumlee,N/A,0,Denver,3
+0,0,1,3,0,0,6,1,17,Malik,2,2,100,14,0,0,Malik Beasley,4,1,Beasley,N/A,1,Denver,1
+0,1,3,3,1,33,4,1,25,Torrey,2,2,100,21,1,2,Torrey Craig,5,4,Craig,N/A,0,Denver,1
+0,0,1,5,0,0,5,0,0,Juancho,2,2,100,12,1,1,Juancho Hernangomez,2,2,Hernangomez,N/A,0,Denver,0
+2,0,3,1,0,0,5,0,0,Trey,2,2,100,9,0,1,Trey Lyles,2,3,Lyles,N/A,0,Denver,0
+0,0,0,0,0,0,3,2,67,Jarred,0,0,0,9,2,1,Jarred Vanderbilt,4,2,Vanderbilt,N/A,1,Denver,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah,N/A,N/A,N/A,N/A,N/A,N/A,Isaiah Thomas,N/A,N/A,Thomas,N/A,N/A,Denver,N/A
+3,0,6,6,5,83,16,13,81,Bojan,4,4,100,26,0,0,Bojan Bogdanovic,35,6,Bogdanovic,F,1,Indiana,0
+5,0,4,1,0,0,6,3,50,Thaddeus,2,2,100,32,2,3,Thaddeus Young,8,6,Young,F,2,Indiana,3
+2,2,7,1,0,0,15,7,47,Myles,3,3,100,31,4,1,Myles Turner,17,11,Turner,C,1,Indiana,1
+5,0,0,4,2,50,7,3,43,Wesley,0,0,0,29,0,1,Wesley Matthews,8,0,Matthews,G,0,Indiana,0
+3,0,0,0,0,0,4,1,25,Cory,0,0,0,24,0,1,Cory Joseph,2,0,Joseph,G,4,Indiana,0
+4,0,10,0,0,0,13,7,54,Domantas,2,1,50,23,3,4,Domantas Sabonis,15,13,Sabonis,N/A,0,Indiana,3
+3,1,5,1,0,0,9,5,56,Tyreke,2,1,50,20,0,0,Tyreke Evans,11,5,Evans,N/A,0,Indiana,3
+0,0,2,2,0,0,8,4,50,Doug,0,0,0,18,1,2,Doug McDermott,8,3,McDermott,N/A,1,Indiana,0
+5,0,2,3,1,33,8,4,50,Aaron,2,2,100,19,0,2,Aaron Holiday,11,2,Holiday,N/A,0,Indiana,0
+1,1,1,0,0,0,3,2,67,TJ,2,1,50,6,0,0,TJ Leaf,5,1,Leaf,N/A,0,Indiana,0
+2,1,1,0,0,0,2,2,100,Kyle,0,0,0,4,0,2,Kyle O'Quinn,4,1,O'Quinn,N/A,0,Indiana,1
+1,0,1,0,0,0,0,0,0,Edmond,0,0,0,4,0,0,Edmond Sumner,0,1,Sumner,N/A,0,Indiana,0
+0,0,0,0,0,0,0,0,0,Alize,0,0,0,4,0,1,Alize Johnson,0,0,Johnson,N/A,0,Indiana,0

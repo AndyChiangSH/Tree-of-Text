@@ -1,0 +1,23 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,3,10,6,60,12,7,58,Ryan,4,4,100,29,1,1,Ryan Anderson,24,4,Anderson,F,0,Houston,1
+2,0,5,5,3,60,8,4,50,Trevor,0,0,0,35,1,0,Trevor Ariza,11,6,Ariza,F,1,Houston,2
+2,2,7,0,0,0,11,6,55,Clint,3,0,0,21,3,1,Clint Capela,12,10,Capela,C,0,Houston,0
+10,0,4,4,2,50,7,3,43,Chris,3,3,100,21,0,4,Chris Paul,11,4,Paul,G,2,Houston,1
+7,1,2,11,6,55,22,12,55,James,18,18,100,35,0,3,James Harden,48,2,Harden,G,2,Houston,5
+3,2,2,7,1,14,10,4,40,Eric,4,4,100,26,0,1,Eric Gordon,13,2,Gordon,N/A,0,Houston,2
+0,0,7,4,2,50,4,2,50,PJ,2,2,100,33,2,2,PJ Tucker,8,9,Tucker,N/A,3,Houston,2
+1,0,1,0,0,0,4,3,75,Nene,4,4,100,15,0,3,Nene,10,1,N/A,N/A,1,Houston,0
+1,1,5,1,0,0,6,1,17,Tarik,0,0,0,12,5,1,Tarik Black,2,10,Black,N/A,0,Houston,0
+0,2,1,0,0,0,3,0,0,Zhou,0,0,0,8,0,3,Zhou Qi,0,1,Qi,N/A,0,Houston,1
+1,0,2,2,1,50,3,1,33,Bobby,0,0,0,5,0,1,Bobby Brown,3,2,Brown,N/A,0,Houston,0
+3,0,2,1,0,0,11,7,64,T.J.,0,0,0,27,1,1,T.J. Warren,14,3,Warren,F,1,Phoenix,1
+0,3,1,3,0,0,7,2,29,Marquese,3,1,33,16,0,4,Marquese Chriss,5,1,Chriss,F,1,Phoenix,1
+1,1,8,0,0,0,14,10,71,Greg,0,0,0,26,3,2,Greg Monroe,20,11,Monroe,C,2,Phoenix,0
+10,0,2,5,2,40,16,7,44,Devin,4,2,50,30,0,4,Devin Booker,18,2,Booker,G,0,Phoenix,5
+4,0,2,0,0,0,5,3,60,Tyler,2,2,100,22,0,3,Tyler Ulis,8,2,Ulis,G,2,Phoenix,2
+3,0,2,2,0,0,4,0,0,Dragan,0,0,0,22,1,3,Dragan Bender,0,3,Bender,N/A,0,Phoenix,1
+0,0,7,0,0,0,8,3,38,Alex,5,3,60,22,6,1,Alex Len,9,13,Len,N/A,0,Phoenix,0
+3,1,1,3,1,33,11,6,55,Josh,4,3,75,29,2,3,Josh Jackson,16,3,Jackson,N/A,2,Phoenix,3
+3,0,4,3,0,0,13,1,8,Mike,3,1,33,20,2,0,Mike James,3,6,James,N/A,1,Phoenix,1
+1,0,2,13,7,54,15,8,53,Troy,0,0,0,26,1,1,Troy Daniels,23,3,Daniels,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jared,N/A,N/A,N/A,N/A,N/A,N/A,Jared Dudley,N/A,N/A,Dudley,N/A,N/A,Phoenix,N/A

@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,0,1,0,0,3,1,33,Trevor,0,0,0,4,0,0,Trevor Ariza,2,0,Ariza,F,0,Houston,0
+0,0,6,0,0,0,8,3,38,Clint,2,0,0,27,3,2,Clint Capela,6,9,Capela,F,0,Houston,3
+0,2,7,0,0,0,5,4,80,Dwight,4,2,50,29,2,1,Dwight Howard,10,9,Howard,C,2,Houston,4
+9,0,3,5,1,20,9,2,22,James,6,5,83,35,0,2,James Harden,10,3,Harden,G,3,Houston,7
+3,0,0,7,2,29,10,4,40,Patrick,0,0,0,28,0,4,Patrick Beverley,10,0,Beverley,G,5,Houston,2
+1,0,1,0,0,0,0,0,0,Donatas,0,0,0,7,0,0,Donatas Motiejunas,0,1,Motiejunas,N/A,0,Houston,2
+2,0,0,8,4,50,16,9,56,Corey,0,0,0,34,3,3,Corey Brewer,22,3,Brewer,N/A,3,Houston,4
+5,1,0,0,0,0,3,0,0,Ty,0,0,0,19,0,0,Ty Lawson,0,0,Lawson,N/A,1,Houston,0
+2,0,2,2,1,50,5,2,40,Terrence,0,0,0,16,1,2,Terrence Jones,5,3,Jones,N/A,1,Houston,0
+3,0,6,8,5,63,18,12,67,Marcus,3,3,100,26,0,0,Marcus Thornton,32,6,Thornton,N/A,3,Houston,1
+1,0,1,4,2,50,5,2,40,Jason,2,2,100,15,1,1,Jason Terry,8,2,Terry,N/A,2,Houston,0
+8,0,2,5,2,40,15,9,60,Joe,3,2,67,43,3,3,Joe Johnson,22,5,Johnson,F,3,Brooklyn,2
+5,0,10,0,0,0,13,10,77,Thaddeus,0,0,0,34,2,2,Thaddeus Young,20,12,Young,F,3,Brooklyn,5
+0,5,4,0,0,0,14,9,64,Brook,6,6,100,39,4,3,Brook Lopez,24,8,Lopez,C,1,Brooklyn,6
+1,0,4,7,3,43,16,8,50,Bojan,2,0,0,38,1,1,Bojan Bogdanovic,19,5,Bogdanovic,G,2,Brooklyn,0
+9,0,4,1,0,0,8,4,50,Jarrett,2,2,100,37,1,2,Jarrett Jack,10,5,Jack,G,3,Brooklyn,5
+0,2,4,0,0,0,3,1,33,Thomas,1,1,100,11,0,4,Thomas Robinson,3,4,Robinson,N/A,0,Brooklyn,1
+3,0,0,0,0,0,2,0,0,Shane,2,2,100,16,0,0,Shane Larkin,2,0,Larkin,N/A,2,Brooklyn,4
+0,0,1,3,1,33,8,3,38,Wayne,0,0,0,16,1,1,Wayne Ellington,7,2,Ellington,N/A,0,Brooklyn,1
+1,0,1,2,1,50,2,1,50,Markel,0,0,0,6,0,1,Markel Brown,3,1,Brown,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrea,N/A,N/A,N/A,N/A,N/A,N/A,Andrea Bargnani,N/A,N/A,Bargnani,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sergey,N/A,N/A,N/A,N/A,N/A,N/A,Sergey Karasev,N/A,N/A,Karasev,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Willie,N/A,N/A,N/A,N/A,N/A,N/A,Willie Reed,N/A,N/A,Reed,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Donald,N/A,N/A,N/A,N/A,N/A,N/A,Donald Sloan,N/A,N/A,Sloan,N/A,N/A,Brooklyn,N/A

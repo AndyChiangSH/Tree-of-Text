@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,0,0,0,6,5,83,Luc,3,2,67,30,1,1,Luc Mbah a Moute,12,3,Mbah,F,1,LA,1
+7,0,5,3,0,0,15,5,33,Blake,6,6,100,34,1,1,Blake Griffin,16,6,Griffin,F,0,LA,3
+3,1,10,0,0,0,5,3,60,DeAndre,0,0,0,31,4,3,DeAndre Jordan,6,14,Jordan,C,0,LA,3
+0,0,1,5,1,20,12,6,50,JJ,0,0,0,24,0,2,JJ Redick,13,1,Redick,G,0,LA,0
+4,1,2,4,2,50,14,7,50,Chris,2,1,50,33,0,2,Chris Paul,17,2,Paul,G,2,LA,1
+3,0,1,4,1,25,5,1,20,Austin,2,1,50,19,1,2,Austin Rivers,4,2,Rivers,N/A,1,LA,2
+0,2,3,3,0,0,8,2,25,Marreese,0,0,0,17,3,1,Marreese Speights,4,6,Speights,N/A,1,LA,0
+2,0,1,5,2,40,17,10,59,Jamal,3,3,100,26,1,2,Jamal Crawford,25,2,Crawford,N/A,2,LA,2
+0,0,0,0,0,0,1,1,100,Raymond,0,0,0,13,0,2,Raymond Felton,2,0,Felton,N/A,0,LA,2
+0,1,1,1,0,0,2,1,50,Wesley,0,0,0,14,0,1,Wesley Johnson,2,1,Johnson,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Anderson,N/A,N/A,Anderson,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Bass,N/A,N/A,Bass,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Pierce,N/A,N/A,Pierce,N/A,N/A,LA,N/A
+6,0,2,1,1,100,7,4,57,Jimmy,8,7,88,36,2,1,Jimmy Butler,16,4,Butler,F,3,Chicago,2
+0,0,6,2,0,0,11,5,46,Bobby,2,1,50,21,1,3,Bobby Portis,11,7,Portis,F,0,Chicago,0
+2,0,2,0,0,0,14,6,43,Robin,0,0,0,27,4,3,Robin Lopez,12,6,Lopez,C,0,Chicago,2
+3,0,5,1,1,100,11,2,18,Dwyane,6,5,83,33,1,3,Dwyane Wade,10,6,Wade,G,1,Chicago,2
+1,0,0,0,0,0,3,1,33,Jerian,0,0,0,10,0,3,Jerian Grant,2,0,Grant,G,0,Chicago,1
+9,0,3,1,1,100,7,2,29,Rajon,0,0,0,29,1,2,Rajon Rondo,5,4,Rondo,N/A,3,Chicago,4
+0,0,3,4,2,50,5,3,60,Denzel,0,0,0,14,0,0,Denzel Valentine,8,3,Valentine,N/A,0,Chicago,1
+2,0,6,4,0,0,9,4,44,Nikola,0,0,0,27,1,2,Nikola Mirotic,8,7,Mirotic,N/A,3,Chicago,1
+2,0,1,0,0,0,5,3,60,Cristiano,2,1,50,15,4,3,Cristiano Felicio,7,5,Felicio,N/A,1,Chicago,3
+0,0,2,2,1,50,6,4,67,Paul,2,1,50,18,0,2,Paul Zipser,10,2,Zipser,N/A,0,Chicago,2
+1,0,1,2,0,0,5,1,20,Cameron,0,0,0,11,0,2,Cameron Payne,2,1,Payne,N/A,0,Chicago,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Carter-Williams,N/A,N/A,Carter-Williams,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey,N/A,N/A,N/A,N/A,N/A,N/A,Joffrey Lauvergne,N/A,N/A,Lauvergne,N/A,N/A,Chicago,N/A

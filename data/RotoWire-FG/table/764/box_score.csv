@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,4,0,0,0,4,3,75,Rondae,8,8,100,28,0,3,Rondae Hollis-Jefferson,14,4,Hollis-Jefferson,F,1,Brooklyn,1
+2,0,7,5,1,20,12,4,33,DeMarre,2,1,50,28,2,2,DeMarre Carroll,10,9,Carroll,F,1,Brooklyn,2
+0,0,2,1,0,0,4,2,50,Timofey,0,0,0,14,1,1,Timofey Mozgov,4,3,Mozgov,C,0,Brooklyn,2
+5,0,2,8,4,50,22,12,55,D'Angelo,2,2,100,30,1,4,D'Angelo Russell,30,3,Russell,G,1,Brooklyn,2
+4,0,0,2,1,50,12,5,42,Jeremy,7,7,100,25,0,3,Jeremy Lin,18,0,Lin,G,0,Brooklyn,3
+0,0,2,5,3,60,5,3,60,Quincy,0,0,0,16,0,3,Quincy Acy,9,2,Acy,N/A,0,Brooklyn,3
+1,1,7,3,2,67,5,3,60,Allen,5,4,80,27,0,2,Allen Crabbe,12,7,Crabbe,N/A,2,Brooklyn,2
+0,0,4,1,0,0,10,7,70,Trevor,7,6,86,28,6,2,Trevor Booker,20,10,Booker,N/A,0,Brooklyn,2
+4,1,2,4,1,25,15,5,33,Caris,1,1,100,28,0,3,Caris LeVert,12,2,LeVert,N/A,2,Brooklyn,1
+4,0,2,1,0,0,5,1,20,Spencer,0,0,0,17,1,2,Spencer Dinwiddie,2,3,Dinwiddie,N/A,0,Brooklyn,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett,N/A,N/A,N/A,N/A,N/A,N/A,Jarrett Allen,N/A,N/A,Allen,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Harris,N/A,N/A,Harris,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sean,N/A,N/A,N/A,N/A,N/A,N/A,Sean Kilpatrick,N/A,N/A,Kilpatrick,N/A,N/A,Brooklyn,N/A
+0,0,0,3,1,33,9,5,56,Bojan,3,3,100,29,0,2,Bojan Bogdanovic,14,0,Bogdanovic,F,0,Indiana,3
+3,2,6,5,1,20,16,7,44,Thaddeus,2,2,100,33,5,3,Thaddeus Young,17,11,Young,F,2,Indiana,2
+2,4,11,3,1,33,13,8,62,Myles,4,4,100,34,3,3,Myles Turner,21,14,Turner,C,0,Indiana,1
+4,0,5,6,2,33,12,6,50,Victor,10,8,80,25,0,5,Victor Oladipo,22,5,Oladipo,G,4,Indiana,3
+11,0,2,3,1,33,12,9,75,Darren,3,2,67,30,1,1,Darren Collison,21,3,Collison,G,2,Indiana,2
+3,1,1,9,2,22,19,6,32,Lance,5,2,40,24,0,3,Lance Stephenson,16,1,Stephenson,N/A,1,Indiana,1
+4,1,2,2,1,50,10,4,40,Cory,2,2,100,25,1,1,Cory Joseph,11,3,Joseph,N/A,2,Indiana,1
+1,0,3,0,0,0,7,7,100,Domantas,3,2,67,19,4,3,Domantas Sabonis,16,7,Sabonis,N/A,0,Indiana,1
+0,0,1,2,0,0,3,1,33,Damien,0,0,0,11,0,1,Damien Wilkins,2,1,Wilkins,N/A,1,Indiana,0
+1,1,2,1,0,0,1,0,0,TJ,0,0,0,10,0,3,TJ Leaf,0,2,Leaf,N/A,0,Indiana,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ike,N/A,N/A,N/A,N/A,N/A,N/A,Ike Anigbogu,N/A,N/A,Anigbogu,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Al,N/A,N/A,N/A,N/A,N/A,N/A,Al Jefferson,N/A,N/A,Jefferson,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A

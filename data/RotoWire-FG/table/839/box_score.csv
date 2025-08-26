@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,1,2,2,0,0,2,0,0,OG,0,0,0,20,1,2,OG Anunoby,0,3,Anunoby,F,1,Toronto,1
+0,3,8,4,0,0,13,4,31,Serge,5,3,60,31,4,3,Serge Ibaka,11,12,Ibaka,F,0,Toronto,2
+1,0,7,0,0,0,11,5,46,Jonas,9,7,78,25,4,5,Jonas Valanciunas,17,11,Valanciunas,C,1,Toronto,1
+5,0,3,2,0,0,16,3,19,DeMar,3,2,67,35,0,1,DeMar DeRozan,8,3,DeRozan,G,2,Toronto,0
+6,0,8,8,4,50,17,6,35,Kyle,8,7,88,34,0,3,Kyle Lowry,23,8,Lowry,G,1,Toronto,1
+0,0,1,3,1,33,3,1,33,CJ,0,0,0,10,0,1,CJ Miles,3,1,Miles,N/A,0,Toronto,0
+0,1,1,0,0,0,4,3,75,Jakob,5,3,60,18,3,1,Jakob Poeltl,9,4,Poeltl,N/A,1,Toronto,1
+1,0,1,1,0,0,6,2,33,Pascal,2,2,100,20,2,1,Pascal Siakam,6,3,Siakam,N/A,1,Toronto,0
+0,2,1,2,1,50,5,3,60,Delon,0,0,0,16,0,3,Delon Wright,7,1,Wright,N/A,1,Toronto,1
+1,0,1,4,1,25,6,1,17,Norman,0,0,0,11,1,3,Norman Powell,3,2,Powell,N/A,0,Toronto,2
+2,0,4,5,2,40,6,2,33,Fred,0,0,0,20,1,1,Fred VanVleet,6,5,VanVleet,N/A,2,Toronto,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,N/A,Lucas Nogueira,N/A,N/A,Nogueira,N/A,N/A,Toronto,N/A
+2,0,6,2,1,50,13,6,46,Harrison,4,3,75,36,4,1,Harrison Barnes,16,10,Barnes,F,0,Dallas,4
+2,5,6,4,2,50,9,6,67,Maxi,1,1,100,25,2,3,Maxi Kleber,15,8,Kleber,F,2,Dallas,0
+1,3,5,2,1,50,13,8,62,Dirk,1,1,100,27,2,3,Dirk Nowitzki,18,7,Nowitzki,C,1,Dallas,2
+3,1,3,5,0,0,9,2,22,Wesley,1,1,100,36,1,2,Wesley Matthews,5,4,Matthews,G,0,Dallas,2
+4,0,3,2,0,0,14,3,21,Dennis,4,2,50,27,2,4,Dennis Smith Jr.,8,5,Smith,G,0,Dallas,1
+1,1,3,0,0,0,4,2,50,Salah,2,2,100,15,2,4,Salah Mejri,6,5,Mejri,N/A,0,Dallas,1
+2,0,4,3,0,0,5,0,0,Yogi,0,0,0,20,0,2,Yogi Ferrell,0,4,Ferrell,N/A,0,Dallas,0
+4,0,3,6,2,33,18,9,50,J.J.,1,0,0,23,0,2,J.J. Barea,20,3,Barea,N/A,0,Dallas,2
+1,1,3,0,0,0,2,2,100,Devin,0,0,0,14,0,1,Devin Harris,4,3,Harris,N/A,1,Dallas,1
+0,0,4,0,0,0,7,2,29,Dwight,2,2,100,18,3,2,Dwight Powell,6,7,Powell,N/A,1,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Collinsworth,N/A,N/A,Collinsworth,N/A,N/A,Dallas,N/A

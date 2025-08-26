@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,3,7,2,29,9,3,33,Tony,0,0,0,37,0,2,Tony Snell,8,3,Snell,F,0,Chicago,3
+4,1,12,0,0,0,16,10,63,Pau,6,5,83,37,3,3,Pau Gasol,25,15,Gasol,F,1,Chicago,1
+2,0,7,0,0,0,10,7,70,Joakim,4,4,100,37,2,1,Joakim Noah,18,9,Noah,C,2,Chicago,2
+5,0,2,4,3,75,16,9,56,Jimmy,6,6,100,40,0,2,Jimmy Butler,27,2,Butler,G,6,Chicago,3
+11,0,1,4,1,25,14,4,29,Derrick,2,1,50,35,0,0,Derrick Rose,10,1,Rose,G,2,Chicago,3
+0,0,1,4,1,25,5,1,20,Aaron,0,0,0,13,0,0,Aaron Brooks,3,1,Brooks,N/A,0,Chicago,1
+1,0,1,0,0,0,3,1,33,Taj,0,0,0,22,2,1,Taj Gibson,2,3,Gibson,N/A,0,Chicago,1
+1,0,0,3,1,33,4,2,50,E'Twaun,0,0,0,16,0,2,E'Twaun Moore,5,0,Moore,N/A,0,Chicago,1
+1,0,1,0,0,0,0,0,0,Nikola,0,0,0,3,0,0,Nikola Mirotic,0,1,Mirotic,N/A,0,Chicago,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Doug,N/A,N/A,N/A,N/A,N/A,N/A,Doug McDermott,N/A,N/A,McDermott,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nazr,N/A,N/A,N/A,N/A,N/A,N/A,Nazr Mohammed,N/A,N/A,Mohammed,N/A,N/A,Chicago,N/A
+1,0,6,5,2,40,17,6,35,Tobias,1,1,100,39,2,1,Tobias Harris,15,8,Harris,F,3,Orlando,1
+2,0,1,8,4,50,8,4,50,Channing,0,0,0,23,0,0,Channing Frye,12,1,Frye,F,1,Orlando,0
+1,0,4,0,0,0,14,5,36,Nikola,5,4,80,32,3,1,Nikola Vucevic,14,7,Vucevic,C,0,Orlando,1
+6,1,3,3,1,33,16,8,50,Victor,1,1,100,35,1,2,Victor Oladipo,18,4,Oladipo,G,2,Orlando,4
+3,0,6,0,0,0,6,5,83,Elfrid,0,0,0,24,3,4,Elfrid Payton,10,9,Payton,G,2,Orlando,2
+1,0,1,0,0,0,2,0,0,Willie,0,0,0,17,0,3,Willie Green,0,1,Green,N/A,0,Orlando,2
+1,1,5,2,1,50,2,1,50,Aaron,0,0,0,12,0,1,Aaron Gordon,3,5,Gordon,N/A,0,Orlando,3
+3,1,4,4,0,0,7,1,14,Kyle,2,1,50,23,1,3,Kyle O'Quinn,3,5,O'Quinn,N/A,0,Orlando,2
+0,0,0,0,0,0,0,0,0,Maurice,0,0,0,1,0,0,Maurice Harkless,0,0,Harkless,N/A,0,Orlando,0
+0,1,1,0,0,0,4,4,100,Dewayne,0,0,0,15,1,5,Dewayne Dedmon,8,2,Dedmon,N/A,0,Orlando,0
+3,0,1,3,1,33,7,5,71,Evan,4,3,75,18,2,1,Evan Fournier,14,3,Fournier,N/A,1,Orlando,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ben,N/A,N/A,N/A,N/A,N/A,N/A,Ben Gordon,N/A,N/A,Gordon,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Andrew,N/A,N/A,N/A,N/A,N/A,N/A,Andrew Nicholson,N/A,N/A,Nicholson,N/A,N/A,Orlando,N/A

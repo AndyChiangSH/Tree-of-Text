@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,8,3,38,10,3,30,Vince,0,0,0,25,1,3,Vince Carter,9,2,Carter,F,1,Memphis,0
+1,0,4,1,1,100,3,3,100,JaMychal,0,0,0,21,2,2,JaMychal Green,7,6,Green,F,0,Memphis,0
+3,1,7,2,1,50,15,6,40,Marc,0,0,0,39,3,1,Marc Gasol,13,10,Gasol,C,0,Memphis,6
+2,1,3,2,0,0,9,4,44,Tony,0,0,0,29,1,3,Tony Allen,8,4,Allen,G,2,Memphis,0
+6,0,2,8,1,13,18,7,39,Mike,7,7,100,36,0,2,Mike Conley,22,2,Conley,G,0,Memphis,3
+2,0,6,1,0,0,7,2,29,Zach,6,4,67,28,1,2,Zach Randolph,8,7,Randolph,N/A,0,Memphis,1
+0,0,0,4,2,50,4,2,50,Troy,0,0,0,20,0,2,Troy Daniels,6,0,Daniels,N/A,0,Memphis,2
+3,0,3,2,1,50,7,3,43,Andrew,2,1,50,16,0,2,Andrew Harrison,8,3,Harrison,N/A,1,Memphis,1
+0,0,5,1,1,100,3,3,100,James,0,0,0,18,0,1,James Ennis III,7,5,Ennis,N/A,0,Memphis,0
+0,2,1,0,0,0,2,1,50,Brandan,0,0,0,7,2,0,Brandan Wright,2,3,Wright,N/A,0,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chandler,N/A,N/A,N/A,N/A,N/A,N/A,Chandler Parsons,N/A,N/A,Parsons,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Wayne,N/A,N/A,N/A,N/A,N/A,N/A,Wayne Selden,N/A,N/A,Selden,N/A,N/A,Memphis,N/A
+4,0,4,5,1,20,15,7,47,Kawhi,7,4,57,38,3,2,Kawhi Leonard,19,7,Leonard,F,1,San Antonio,2
+1,3,7,2,1,50,16,10,63,LaMarcus,2,2,100,36,0,3,LaMarcus Aldridge,23,7,Aldridge,F,0,San Antonio,0
+0,0,4,0,0,0,2,2,100,Dewayne,0,0,0,12,0,3,Dewayne Dedmon,4,4,Dedmon,C,0,San Antonio,0
+2,0,0,2,0,0,3,1,33,Danny,3,2,67,22,0,1,Danny Green,4,0,Green,G,0,San Antonio,1
+7,0,2,3,1,33,12,5,42,Tony,4,2,50,30,0,2,Tony Parker,13,2,Parker,G,0,San Antonio,0
+0,1,3,2,1,50,10,4,40,Pau,0,0,0,26,1,2,Pau Gasol,9,4,Gasol,N/A,1,San Antonio,2
+5,1,1,6,3,50,8,5,63,Patty,2,2,100,23,0,0,Patty Mills,15,1,Mills,N/A,1,San Antonio,1
+3,0,2,5,1,20,7,1,14,Manu,3,3,100,19,0,4,Manu Ginobili,6,2,Ginobili,N/A,2,San Antonio,0
+3,0,2,1,0,0,2,0,0,Jonathon,2,0,0,13,0,0,Jonathon Simmons,0,2,Simmons,N/A,0,San Antonio,0
+1,0,4,0,0,0,2,2,100,David,0,0,0,22,2,2,David Lee,4,6,Lee,N/A,1,San Antonio,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Anderson,N/A,N/A,Anderson,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Davis,N/A,N/A,N/A,N/A,N/A,N/A,Davis Bertans,N/A,N/A,Bertans,N/A,N/A,San Antonio,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bryn,N/A,N/A,N/A,N/A,N/A,N/A,Bryn Forbes,N/A,N/A,Forbes,N/A,N/A,San Antonio,N/A

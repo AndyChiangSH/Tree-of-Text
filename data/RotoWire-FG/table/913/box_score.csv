@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+7,0,5,6,3,50,8,3,38,Dragan,0,0,0,25,1,6,Dragan Bender,9,6,Bender,F,0,Phoenix,1
+0,2,4,0,0,0,21,9,43,T.J.,5,5,100,42,2,3,T.J. Warren,23,6,Warren,F,2,Phoenix,1
+2,0,2,0,0,0,1,0,0,Alex,2,1,50,21,0,6,Alex Len,1,2,Len,C,1,Phoenix,1
+7,0,10,10,3,30,28,14,50,Devin,11,9,82,41,0,4,Devin Booker,40,10,Booker,G,1,Phoenix,3
+5,0,3,1,0,0,17,7,41,Elfrid,2,2,100,36,4,3,Elfrid Payton,16,7,Payton,G,2,Phoenix,5
+0,3,4,2,1,50,5,3,60,Marquese,1,0,0,18,1,6,Marquese Chriss,7,5,Chriss,N/A,0,Phoenix,3
+1,0,6,3,0,0,15,6,40,Josh,11,8,73,30,6,3,Josh Jackson,20,12,Jackson,N/A,1,Phoenix,0
+1,0,2,2,0,0,2,0,0,Troy,0,0,0,26,0,1,Troy Daniels,0,2,Daniels,N/A,2,Phoenix,0
+0,0,1,0,0,0,0,0,0,Shaquille,0,0,0,2,0,1,Shaquille Harrison,0,1,Harrison,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jared,N/A,N/A,N/A,N/A,N/A,N/A,Jared Dudley,N/A,N/A,Dudley,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ulis,N/A,N/A,Ulis,N/A,N/A,Phoenix,N/A
+3,0,4,3,1,33,6,2,33,E'Twaun,2,1,50,29,0,2,E'Twaun Moore,6,4,Moore,F,1,New Orleans,1
+3,5,10,1,0,0,29,16,55,Anthony,26,21,81,39,8,3,Anthony Davis,53,18,Davis,F,1,New Orleans,1
+0,1,4,0,0,0,5,5,100,Emeka,5,4,80,19,0,2,Emeka Okafor,14,4,Okafor,C,1,New Orleans,0
+7,1,2,2,1,50,13,8,62,Jrue,4,3,75,33,0,4,Jrue Holiday,20,2,Holiday,G,2,New Orleans,3
+12,0,5,2,0,0,9,2,22,Rajon,2,2,100,36,0,3,Rajon Rondo,6,5,Rondo,G,0,New Orleans,5
+1,0,1,1,1,100,1,1,100,DeAndre,0,0,0,7,0,0,DeAndre Liggins,3,1,Liggins,N/A,0,New Orleans,0
+1,1,8,9,2,22,13,4,31,Nikola,0,0,0,25,0,1,Nikola Mirotic,10,8,Mirotic,N/A,1,New Orleans,0
+3,0,2,5,1,20,6,2,33,Darius,1,0,0,26,1,5,Darius Miller,5,3,Miller,N/A,1,New Orleans,1
+0,0,0,0,0,0,1,1,100,Walter,0,0,0,5,0,1,Walter Lemon Jr.,2,0,Lemon,N/A,0,New Orleans,1
+0,0,1,5,2,40,8,2,25,Ian,0,0,0,21,0,1,Ian Clark,6,1,Clark,N/A,0,New Orleans,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charles,N/A,N/A,N/A,N/A,N/A,N/A,Charles Cooke,N/A,N/A,Cooke,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cheick,N/A,N/A,N/A,N/A,N/A,N/A,Cheick Diallo,N/A,N/A,Diallo,N/A,N/A,New Orleans,N/A

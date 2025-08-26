@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,2,1,50,8,6,75,Andre,0,0,0,31,1,3,Andre Roberson,13,4,Roberson,F,2,Oklahoma City,0
+1,0,1,0,0,0,8,4,50,Taj,3,2,67,24,3,1,Taj Gibson,10,4,Gibson,F,2,Oklahoma City,0
+2,1,3,0,0,0,8,5,63,Steven,0,0,0,25,2,3,Steven Adams,10,5,Adams,C,1,Oklahoma City,1
+2,0,3,3,3,100,15,9,60,Victor,3,2,67,28,2,0,Victor Oladipo,23,5,Oladipo,G,0,Oklahoma City,2
+16,0,10,8,4,50,17,8,47,Russell,4,4,100,28,0,2,Russell Westbrook,24,10,Westbrook,G,1,Oklahoma City,2
+1,0,5,0,0,0,9,5,56,Enes,5,4,80,19,2,2,Enes Kanter,14,7,Kanter,N/A,1,Oklahoma City,4
+2,0,2,6,2,33,7,3,43,Alex,2,2,100,20,0,1,Alex Abrines,10,2,Abrines,N/A,2,Oklahoma City,1
+2,0,6,1,1,100,7,3,43,Domantas,2,1,50,19,0,6,Domantas Sabonis,8,6,Sabonis,N/A,0,Oklahoma City,1
+1,0,2,0,0,0,1,0,0,Semaj,0,0,0,21,0,1,Semaj Christon,0,2,Christon,N/A,1,Oklahoma City,2
+1,0,2,4,2,50,5,2,40,Doug,0,0,0,16,0,2,Doug McDermott,6,2,McDermott,N/A,0,Oklahoma City,1
+0,0,0,1,1,100,2,2,100,Jerami,0,0,0,7,0,1,Jerami Grant,5,0,Grant,N/A,0,Oklahoma City,2
+2,0,0,0,0,0,1,0,0,Norris,0,0,0,3,0,0,Norris Cole,0,0,Cole,N/A,0,Oklahoma City,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+0,1,2,2,0,0,3,1,33,DeMarre,0,0,0,15,1,1,DeMarre Carroll,2,3,Carroll,F,1,Toronto,1
+1,1,3,4,0,0,11,5,46,Serge,0,0,0,27,0,3,Serge Ibaka,10,3,Ibaka,F,0,Toronto,3
+0,2,3,0,0,0,7,3,43,Jonas,1,1,100,17,2,3,Jonas Valanciunas,7,5,Valanciunas,C,0,Toronto,1
+3,0,3,1,0,0,14,8,57,DeMar,7,6,86,29,0,1,DeMar DeRozan,22,3,DeRozan,G,0,Toronto,3
+6,0,2,1,1,100,8,5,63,Cory,2,0,0,30,0,2,Cory Joseph,11,2,Joseph,G,2,Toronto,2
+0,2,1,0,0,0,3,2,67,Jakob,2,2,100,17,1,2,Jakob Poeltl,6,2,Poeltl,N/A,0,Toronto,0
+1,1,3,3,1,33,6,2,33,PJ,2,1,50,18,0,0,PJ Tucker,6,3,Tucker,N/A,0,Toronto,1
+1,0,3,3,0,0,4,0,0,Patrick,4,3,75,22,1,3,Patrick Patterson,3,4,Patterson,N/A,2,Toronto,1
+1,0,2,1,0,0,6,2,33,Delon,7,6,86,20,0,2,Delon Wright,10,2,Wright,N/A,2,Toronto,1
+0,0,3,3,1,33,12,4,33,Norman,5,4,80,22,1,3,Norman Powell,13,4,Powell,N/A,0,Toronto,0
+2,1,1,1,1,100,4,2,50,Fred,0,0,0,12,0,0,Fred VanVleet,5,1,VanVleet,N/A,2,Toronto,1
+0,1,0,1,1,100,3,3,100,Pascal,0,0,0,6,0,0,Pascal Siakam,7,0,Siakam,N/A,0,Toronto,0
+0,1,0,0,0,0,0,0,0,Lucas,0,0,0,6,0,0,Lucas Nogueira,0,0,Nogueira,N/A,1,Toronto,0

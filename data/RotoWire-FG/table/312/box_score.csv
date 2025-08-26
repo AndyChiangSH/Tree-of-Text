@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,5,6,3,50,20,10,50,LeBron,7,6,86,37,1,0,LeBron James,29,6,James,F,4,Cleveland,4
+3,0,9,6,2,33,14,4,29,Kevin,2,2,100,37,0,4,Kevin Love,12,9,Love,F,0,Cleveland,2
+1,0,6,0,0,0,8,5,63,Tristan,5,2,40,35,6,3,Tristan Thompson,12,12,Thompson,C,0,Cleveland,1
+1,1,1,3,2,67,4,2,50,DeAndre,0,0,0,19,1,2,DeAndre Liggins,6,2,Liggins,G,1,Cleveland,2
+4,0,2,8,2,25,18,5,28,Kyrie,8,8,100,39,2,3,Kyrie Irving,20,4,Irving,G,1,Cleveland,3
+0,0,1,2,0,0,5,1,20,Iman,0,0,0,21,1,3,Iman Shumpert,2,2,Shumpert,N/A,0,Cleveland,0
+0,1,2,3,0,0,6,1,17,Channing,3,3,100,19,1,2,Channing Frye,5,3,Frye,N/A,0,Cleveland,1
+0,0,3,2,0,0,5,1,20,Kyle,0,0,0,18,0,1,Kyle Korver,2,3,Korver,N/A,0,Cleveland,1
+1,0,0,0,0,0,3,2,67,Kay,0,0,0,5,0,0,Kay Felder,4,0,Felder,N/A,0,Cleveland,0
+0,0,0,1,0,0,2,0,0,Richard,0,0,0,10,1,1,Richard Jefferson,0,1,Jefferson,N/A,0,Cleveland,2
+0,0,0,0,0,0,0,0,0,Jordan,0,0,0,0,0,0,Jordan McRae,0,0,McRae,N/A,0,Cleveland,0
+0,0,0,0,0,0,0,0,0,James,0,0,0,0,0,0,James Jones,0,0,Jones,N/A,0,Cleveland,0
+2,1,9,5,4,80,12,10,83,Gordon,5,4,80,37,0,1,Gordon Hayward,28,9,Hayward,F,1,Utah,1
+2,1,4,0,0,0,10,5,50,Derrick,4,2,50,25,1,4,Derrick Favors,12,5,Favors,F,1,Utah,1
+1,1,10,0,0,0,7,5,71,Rudy,1,1,100,36,4,3,Rudy Gobert,11,14,Gobert,C,3,Utah,5
+3,0,4,10,4,40,15,7,47,Rodney,0,0,0,35,1,4,Rodney Hood,18,5,Hood,G,2,Utah,3
+7,0,2,3,2,67,11,5,46,George,4,1,25,37,1,3,George Hill,13,3,Hill,G,0,Utah,2
+0,0,1,1,0,0,2,0,0,Shelvin,0,0,0,9,0,2,Shelvin Mack,0,1,Mack,N/A,0,Utah,1
+5,0,2,4,1,25,5,2,40,Joe,0,0,0,27,0,1,Joe Ingles,5,2,Ingles,N/A,1,Utah,2
+1,1,2,7,2,29,11,4,36,Trey,3,2,67,17,3,1,Trey Lyles,12,5,Lyles,N/A,0,Utah,0
+1,0,1,4,0,0,5,0,0,Joe,2,1,50,13,1,1,Joe Johnson,1,2,Johnson,N/A,0,Utah,1
+0,0,0,0,0,0,1,0,0,Boris,0,0,0,2,0,1,Boris Diaw,0,0,Diaw,N/A,0,Utah,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alec,N/A,N/A,N/A,N/A,N/A,N/A,Alec Burks,N/A,N/A,Burks,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dante,N/A,N/A,N/A,N/A,N/A,N/A,Dante Exum,N/A,N/A,Exum,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Withey,N/A,N/A,Withey,N/A,N/A,Utah,N/A

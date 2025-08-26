@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,3,2,67,20,9,45,TJ,3,2,67,39,2,4,TJ Warren,22,6,Warren,F,2,Phoenix,1
+3,0,1,3,1,33,6,3,50,Jared,5,3,60,25,2,5,Jared Dudley,10,3,Dudley,F,0,Phoenix,1
+0,0,10,0,0,0,4,4,100,Tyson,2,1,50,30,2,2,Tyson Chandler,9,12,Chandler,C,3,Phoenix,3
+7,0,2,7,3,43,29,13,45,Devin,10,10,100,45,1,3,Devin Booker,39,3,Booker,G,0,Phoenix,2
+2,0,1,4,0,0,14,7,50,Eric,6,5,83,30,1,5,Eric Bledsoe,19,2,Bledsoe,G,2,Phoenix,6
+4,0,0,2,0,0,8,1,13,Brandon,0,0,0,17,0,3,Brandon Knight,2,0,Knight,N/A,0,Phoenix,1
+0,1,1,0,0,0,1,0,0,PJ,0,0,0,20,0,2,PJ Tucker,0,1,Tucker,N/A,0,Phoenix,1
+0,1,9,0,0,0,4,2,50,Alex,2,1,50,18,2,4,Alex Len,5,11,Len,N/A,1,Phoenix,2
+0,0,0,0,0,0,0,0,0,Marquese,0,0,0,1,0,0,Marquese Chriss,0,0,Chriss,N/A,0,Phoenix,0
+1,0,1,1,0,0,5,1,20,Leandro,0,0,0,14,1,2,Leandro Barbosa,2,2,Barbosa,N/A,0,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dragan,N/A,N/A,N/A,N/A,N/A,N/A,Dragan Bender,N/A,N/A,Bender,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ulis,N/A,N/A,Ulis,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Williams,N/A,N/A,Williams,N/A,N/A,Phoenix,N/A
+0,0,7,4,2,50,5,2,40,Luol,2,1,50,21,0,2,Luol Deng,7,7,Deng,F,1,Los Angeles,0
+4,0,5,0,0,0,9,6,67,Julius,6,6,100,28,0,4,Julius Randle,18,5,Randle,F,1,Los Angeles,1
+2,0,4,0,0,0,9,6,67,Timofey,3,2,67,22,4,1,Timofey Mozgov,14,8,Mozgov,C,0,Los Angeles,3
+1,1,6,7,3,43,14,8,57,Nick,3,3,100,36,1,4,Nick Young,22,7,Young,G,1,Los Angeles,1
+6,0,3,6,2,33,11,2,18,D'Angelo,6,5,83,28,2,3,D'Angelo Russell,11,5,Russell,G,1,Los Angeles,4
+1,0,4,2,1,50,16,8,50,Jordan,2,1,50,30,2,5,Jordan Clarkson,18,6,Clarkson,N/A,0,Los Angeles,3
+1,1,2,2,1,50,7,2,29,Brandon,6,4,67,25,0,1,Brandon Ingram,9,2,Ingram,N/A,1,Los Angeles,0
+1,2,4,0,0,0,6,2,33,Tarik,0,0,0,17,3,1,Tarik Black,4,7,Black,N/A,0,Los Angeles,3
+0,0,0,0,0,0,0,0,0,Larry,2,2,100,3,1,0,Larry Nance Jr.,2,1,Nance,N/A,1,Los Angeles,0
+6,0,3,2,1,50,12,5,42,Lou,5,3,60,26,1,1,Lou Williams,14,4,Williams,N/A,2,Los Angeles,4
+0,1,0,0,0,0,1,0,0,Thomas,0,0,0,5,1,0,Thomas Robinson,0,1,Robinson,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jose,N/A,N/A,N/A,N/A,N/A,N/A,Jose Calderon,N/A,N/A,Calderon,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo,N/A,N/A,N/A,N/A,N/A,N/A,Marcelo Huertas,N/A,N/A,Huertas,N/A,N/A,Los Angeles,N/A

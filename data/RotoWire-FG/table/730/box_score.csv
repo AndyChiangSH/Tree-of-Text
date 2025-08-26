@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,4,5,1,20,13,5,38,Marcus,3,2,67,36,0,5,Marcus Morris,13,4,Morris,F,0,Detroit,2
+0,0,6,0,0,0,9,3,33,Jon,5,3,60,31,4,3,Jon Leuer,9,10,Leuer,F,0,Detroit,1
+2,2,11,0,0,0,6,3,50,Andre,4,1,25,31,2,5,Andre Drummond,7,13,Drummond,C,2,Detroit,2
+2,0,6,11,2,18,19,7,37,Kentavious,1,1,100,38,2,1,Kentavious Caldwell-Pope,17,8,Caldwell-Pope,G,2,Detroit,1
+5,0,4,6,2,33,20,7,35,Ish,0,0,0,32,0,5,Ish Smith,16,4,Smith,G,0,Detroit,2
+0,1,3,0,0,0,3,2,67,Aron,0,0,0,22,2,4,Aron Baynes,4,5,Baynes,N/A,0,Detroit,1
+3,0,4,4,2,50,14,10,71,Tobias,1,1,100,35,3,2,Tobias Harris,23,7,Harris,N/A,1,Detroit,1
+8,0,1,2,0,0,10,7,70,Beno,2,2,100,21,0,1,Beno Udrih,16,1,Udrih,N/A,2,Detroit,1
+2,1,2,2,0,0,3,0,0,Stanley,0,0,0,18,0,1,Stanley Johnson,0,2,Johnson,N/A,1,Detroit,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Henry,N/A,N/A,N/A,N/A,N/A,N/A,Henry Ellenson,N/A,N/A,Ellenson,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Gbinije,N/A,N/A,Gbinije,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrun,N/A,N/A,N/A,N/A,N/A,N/A,Darrun Hilliard,N/A,N/A,Hilliard,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Boban,N/A,N/A,N/A,N/A,N/A,N/A,Boban Marjanovic,N/A,N/A,Marjanovic,N/A,N/A,Detroit,N/A
+1,0,8,7,4,57,16,9,56,Khris,3,3,100,43,1,2,Khris Middleton,25,9,Middleton,F,1,Milwaukee,3
+9,2,12,1,0,0,16,7,44,Giannis,21,14,67,45,2,3,Giannis Antetokounmpo,28,14,Antetokounmpo,F,1,Milwaukee,4
+0,0,1,7,4,57,12,9,75,Thon,3,1,33,25,2,1,Thon Maker,23,3,Maker,C,1,Milwaukee,1
+1,0,4,4,0,0,6,0,0,Tony,2,2,100,35,0,3,Tony Snell,2,4,Snell,G,1,Milwaukee,0
+7,0,3,5,2,40,8,2,25,Matthew,0,0,0,35,0,3,Matthew Dellavedova,6,3,Dellavedova,G,0,Milwaukee,1
+1,0,1,2,0,0,3,0,0,Jason,0,0,0,22,0,0,Jason Terry,0,1,Terry,N/A,0,Milwaukee,1
+4,0,5,0,0,0,6,1,17,Greg,2,1,50,22,1,1,Greg Monroe,3,6,Monroe,N/A,0,Milwaukee,2
+1,0,0,4,2,50,6,2,33,Rashad,0,0,0,17,0,3,Rashad Vaughn,6,0,Vaughn,N/A,1,Milwaukee,0
+0,0,0,3,1,33,3,1,33,Mirza,0,0,0,9,0,1,Mirza Teletovic,3,0,Teletovic,N/A,0,Milwaukee,0
+1,1,3,3,1,33,4,1,25,Spencer,2,2,100,6,1,0,Spencer Hawes,5,4,Hawes,N/A,0,Milwaukee,0
+0,0,2,0,0,0,4,3,75,Michael,1,1,100,7,2,1,Michael Beasley,7,4,Beasley,N/A,1,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm Brogdon,N/A,N/A,Brogdon,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terrence,N/A,N/A,N/A,N/A,N/A,N/A,Terrence Jones,N/A,N/A,Jones,N/A,N/A,Milwaukee,N/A

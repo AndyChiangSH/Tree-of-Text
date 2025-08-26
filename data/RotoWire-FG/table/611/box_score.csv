@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,10,5,1,20,22,12,55,LeBron,3,0,0,36,0,3,LeBron James,25,10,James,F,1,Cleveland,1
+4,2,4,7,3,43,17,6,35,Kevin,3,3,100,35,4,0,Kevin Love,18,8,Love,F,0,Cleveland,2
+2,2,3,0,0,0,6,2,33,Timofey,2,1,50,21,2,2,Timofey Mozgov,5,5,Mozgov,C,0,Cleveland,3
+3,0,4,2,0,0,10,3,30,JR,4,2,50,30,1,4,JR Smith,8,5,Smith,G,1,Cleveland,0
+7,1,4,7,3,43,15,7,47,Mo,3,2,67,37,0,2,Mo Williams,19,4,Williams,G,1,Cleveland,1
+1,0,0,4,2,50,7,4,57,Richard,0,0,0,17,0,3,Richard Jefferson,10,0,Jefferson,N/A,1,Cleveland,1
+0,0,10,0,0,0,4,1,25,Tristan,0,0,0,25,2,4,Tristan Thompson,2,12,Thompson,N/A,1,Cleveland,1
+4,0,3,2,0,0,8,3,38,Matthew,0,0,0,20,1,1,Matthew Dellavedova,6,4,Dellavedova,N/A,0,Cleveland,1
+0,1,0,2,0,0,2,0,0,James,0,0,0,4,0,1,James Jones,0,0,Jones,N/A,0,Cleveland,0
+0,0,0,0,0,0,2,0,0,Jared,0,0,0,3,0,0,Jared Cunningham,0,0,Cunningham,N/A,0,Cleveland,0
+0,1,1,0,0,0,1,0,0,Anderson,2,2,100,12,1,1,Anderson Varejao,2,2,Varejao,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Harris,N/A,N/A,Harris,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sasha,N/A,N/A,N/A,N/A,N/A,N/A,Sasha Kaun,N/A,N/A,Kaun,N/A,N/A,Cleveland,N/A
+0,0,2,5,2,40,9,4,44,Tony,2,1,50,29,0,4,Tony Snell,11,2,Snell,F,0,Chicago,1
+1,0,7,4,3,75,11,6,55,Nikola,4,4,100,25,2,5,Nikola Mirotic,19,9,Mirotic,F,1,Chicago,4
+0,6,2,1,0,0,7,1,14,Pau,0,0,0,32,0,1,Pau Gasol,2,2,Gasol,C,1,Chicago,0
+2,1,4,2,0,0,14,6,43,Jimmy,5,5,100,37,1,1,Jimmy Butler,17,5,Butler,G,2,Chicago,0
+5,0,1,2,0,0,22,8,36,Derrick,4,2,50,32,0,0,Derrick Rose,18,1,Rose,G,1,Chicago,2
+0,0,2,1,0,0,9,3,33,Aaron,0,0,0,16,0,1,Aaron Brooks,6,2,Brooks,N/A,0,Chicago,2
+0,0,4,2,1,50,4,3,75,Doug,2,1,50,16,0,0,Doug McDermott,8,4,McDermott,N/A,0,Chicago,0
+4,0,7,0,0,0,0,0,0,Joakim,2,0,0,17,2,1,Joakim Noah,0,9,Noah,N/A,1,Chicago,1
+1,0,3,2,1,50,8,5,63,E'Twaun,0,0,0,14,0,3,E'Twaun Moore,11,3,Moore,N/A,0,Chicago,0
+0,3,8,0,0,0,3,1,33,Taj,4,3,75,22,2,6,Taj Gibson,5,10,Gibson,N/A,0,Chicago,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Bairstow,N/A,N/A,Bairstow,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kirk,N/A,N/A,N/A,N/A,N/A,N/A,Kirk Hinrich,N/A,N/A,Hinrich,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bobby,N/A,N/A,N/A,N/A,N/A,N/A,Bobby Portis,N/A,N/A,Portis,N/A,N/A,Chicago,N/A

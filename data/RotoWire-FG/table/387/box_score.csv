@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,2,0,0,17,8,47,Jabari,2,1,50,37,1,1,Jabari Parker,17,3,Parker,F,0,Milwaukee,3
+3,3,7,2,1,50,7,5,71,Giannis,2,0,0,37,2,5,Giannis Antetokounmpo,11,9,Antetokounmpo,F,1,Milwaukee,5
+2,1,3,0,0,0,15,9,60,Greg,6,5,83,27,4,2,Greg Monroe,23,7,Monroe,C,3,Milwaukee,2
+7,0,5,2,0,0,11,6,55,Khris,5,5,100,35,0,2,Khris Middleton,17,5,Middleton,G,2,Milwaukee,6
+0,1,0,4,0,0,6,1,17,Rashad,2,1,50,28,0,2,Rashad Vaughn,3,0,Vaughn,G,0,Milwaukee,0
+2,0,2,0,0,0,6,5,83,Tyler,0,0,0,24,0,3,Tyler Ennis,10,2,Ennis,N/A,0,Milwaukee,3
+3,0,2,5,2,40,7,3,43,Greivis,0,0,0,17,1,3,Greivis Vasquez,8,3,Vasquez,N/A,0,Milwaukee,2
+0,2,9,0,0,0,4,2,50,Miles,0,0,0,21,4,0,Miles Plumlee,4,13,Plumlee,N/A,0,Milwaukee,0
+0,0,2,0,0,0,5,2,40,John,2,1,50,15,1,2,John Henson,5,3,Henson,N/A,0,Milwaukee,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd,N/A,N/A,N/A,N/A,N/A,N/A,Jerryd Bayless,N/A,N/A,Bayless,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damien,N/A,N/A,N/A,N/A,N/A,N/A,Damien Inglis,N/A,N/A,Inglis,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnny,N/A,N/A,N/A,N/A,N/A,N/A,Johnny O'Bryant III,N/A,N/A,O'Bryant,N/A,N/A,Milwaukee,N/A
+4,0,4,6,1,17,13,5,39,Evan,2,2,100,38,1,0,Evan Fournier,13,5,Fournier,F,1,Orlando,2
+1,3,3,2,2,100,13,10,77,Ersan,0,0,0,37,3,3,Ersan Ilyasova,22,6,Ilyasova,F,1,Orlando,0
+0,3,5,0,0,0,11,6,55,Dewayne,6,5,83,19,3,4,Dewayne Dedmon,17,8,Dedmon,C,3,Orlando,0
+7,0,2,6,3,50,11,7,64,Mario,2,2,100,39,1,2,Mario Hezonja,19,3,Hezonja,G,5,Orlando,2
+11,0,3,2,0,0,8,3,38,Elfrid,10,5,50,31,0,1,Elfrid Payton,11,3,Payton,G,3,Orlando,4
+1,4,5,1,0,0,11,4,36,Jason,2,2,100,29,1,1,Jason Smith,10,6,Smith,N/A,4,Orlando,0
+3,0,1,0,0,0,4,3,75,CJ,0,0,0,17,1,1,CJ Watson,6,2,Watson,N/A,1,Orlando,1
+1,0,0,3,1,33,8,3,38,Devyn,6,2,33,19,1,1,Devyn Marble,9,1,Marble,N/A,1,Orlando,0
+0,0,1,3,0,0,5,0,0,Andrew,0,0,0,11,1,2,Andrew Nicholson,0,2,Nicholson,N/A,0,Orlando,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Jennings,N/A,N/A,Jennings,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz,N/A,N/A,N/A,N/A,N/A,N/A,Shabazz Napier,N/A,N/A,Napier,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Victor,N/A,N/A,N/A,N/A,N/A,N/A,Victor Oladipo,N/A,N/A,Oladipo,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nikola,N/A,N/A,N/A,N/A,N/A,N/A,Nikola Vucevic,N/A,N/A,Vucevic,N/A,N/A,Orlando,N/A

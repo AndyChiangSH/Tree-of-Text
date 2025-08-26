@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,1,1,1,100,9,5,56,Aaron,0,0,0,19,2,4,Aaron Gordon,11,3,Gordon,F,0,Orlando,0
+2,1,6,4,2,50,11,7,64,Serge,2,2,100,34,1,2,Serge Ibaka,18,7,Ibaka,F,2,Orlando,0
+1,1,6,0,0,0,11,3,27,Bismack,4,3,75,34,0,2,Bismack Biyombo,9,6,Biyombo,C,1,Orlando,1
+7,0,3,2,1,50,9,4,44,Evan,4,4,100,33,0,3,Evan Fournier,13,3,Fournier,G,2,Orlando,6
+5,0,3,3,1,33,6,2,33,D.J.,2,2,100,25,1,0,D.J. Augustin,7,4,Augustin,G,2,Orlando,1
+0,1,7,1,0,0,16,6,38,Nikola,0,0,0,25,3,3,Nikola Vucevic,12,10,Vucevic,N/A,2,Orlando,2
+4,1,2,0,0,0,9,5,56,Elfrid,0,0,0,23,1,2,Elfrid Payton,10,3,Payton,N/A,3,Orlando,1
+2,0,2,2,0,0,10,3,30,Jeff,0,0,0,25,1,2,Jeff Green,6,3,Green,N/A,0,Orlando,0
+3,0,1,1,1,100,3,3,100,C.J.,0,0,0,17,0,2,C.J. Watson,7,1,Watson,N/A,0,Orlando,1
+0,0,0,0,0,0,1,1,100,Arinze,0,0,0,2,0,1,Arinze Onuaku,2,0,Onuaku,N/A,0,Orlando,0
+1,0,0,0,0,0,0,0,0,CJ,0,0,0,2,0,0,CJ Wilcox,0,0,Wilcox,N/A,0,Orlando,1
+0,0,0,1,0,0,1,0,0,Damjan,0,0,0,2,0,0,Damjan Rudez,0,0,Rudez,N/A,0,Orlando,0
+0,0,0,0,0,0,0,0,0,Mario,0,0,0,1,0,0,Mario Hezonja,0,0,Hezonja,N/A,0,Orlando,0
+0,0,1,4,1,25,16,6,38,Kawhi,9,8,89,32,1,1,Kawhi Leonard,21,2,Leonard,F,2,San Antonio,2
+3,1,5,1,1,100,12,7,58,LaMarcus,2,1,50,31,1,1,LaMarcus Aldridge,16,6,Aldridge,F,0,San Antonio,1
+3,0,4,1,0,0,6,2,33,Pau,2,2,100,22,2,0,Pau Gasol,6,6,Gasol,C,0,San Antonio,0
+2,0,5,3,0,0,4,1,25,Danny,0,0,0,24,0,2,Danny Green,2,5,Green,G,0,San Antonio,1
+3,0,2,0,0,0,6,0,0,Tony,2,2,100,29,0,3,Tony Parker,2,2,Parker,G,1,San Antonio,4
+1,0,2,0,0,0,4,0,0,David,2,2,100,12,1,0,David Lee,2,3,Lee,N/A,0,San Antonio,1
+3,0,2,5,2,40,9,4,44,Manu,4,3,75,23,4,3,Manu Ginobili,13,6,Ginobili,N/A,2,San Antonio,2
+2,0,2,3,1,33,5,2,40,Patty,2,2,100,19,0,2,Patty Mills,7,2,Mills,N/A,1,San Antonio,2
+0,2,7,0,0,0,4,3,75,Dewayne,1,0,0,17,1,2,Dewayne Dedmon,6,8,Dedmon,N/A,1,San Antonio,1
+1,0,3,2,0,0,8,3,38,Jonathon,0,0,0,18,0,2,Jonathon Simmons,6,3,Simmons,N/A,2,San Antonio,2
+0,1,0,0,0,0,1,0,0,Davis,0,0,0,6,0,1,Davis Bertans,0,0,Bertans,N/A,0,San Antonio,0
+1,0,1,1,0,0,1,0,0,Dejounte,2,2,100,4,0,0,Dejounte Murray,2,1,Murray,N/A,0,San Antonio,1
+0,0,1,0,0,0,0,0,0,Kyle,0,0,0,3,0,0,Kyle Anderson,0,1,Anderson,N/A,0,San Antonio,1

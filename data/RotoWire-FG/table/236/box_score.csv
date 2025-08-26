@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,2,0,0,13,3,23,Andrew,6,5,83,37,2,2,Andrew Wiggins,11,4,Wiggins,F,1,Minnesota,2
+0,1,4,0,0,0,4,2,50,Gorgui,3,3,100,24,2,1,Gorgui Dieng,7,6,Dieng,F,0,Minnesota,0
+1,2,10,5,3,60,21,14,67,Karl-Anthony,6,4,67,40,4,4,Karl-Anthony Towns,35,14,Towns,C,1,Minnesota,4
+2,0,3,0,0,0,6,2,33,Brandon,0,0,0,30,0,0,Brandon Rush,4,3,Rush,G,0,Minnesota,1
+8,0,0,3,2,67,14,9,64,Ricky,3,2,67,28,0,5,Ricky Rubio,22,0,Rubio,G,0,Minnesota,1
+3,0,3,2,0,0,6,1,17,Kris,2,2,100,20,0,4,Kris Dunn,4,3,Dunn,N/A,1,Minnesota,2
+3,1,2,0,0,0,8,4,50,Nemanja,0,0,0,32,3,4,Nemanja Bjelica,8,5,Bjelica,N/A,0,Minnesota,1
+1,0,2,1,0,0,7,2,29,Shabazz,1,0,0,16,0,2,Shabazz Muhammad,4,2,Muhammad,N/A,0,Minnesota,1
+2,0,1,0,0,0,2,0,0,Tyus,0,0,0,12,0,0,Tyus Jones,0,1,Jones,N/A,1,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lance,N/A,N/A,N/A,N/A,N/A,N/A,Lance Stephenson,N/A,N/A,Stephenson,N/A,N/A,Minnesota,N/A
+4,0,8,3,0,0,9,3,33,Khris,5,5,100,33,1,3,Khris Middleton,11,9,Middleton,F,1,Milwaukee,2
+7,2,4,1,0,0,15,6,40,Giannis,7,6,86,40,0,5,Giannis Antetokounmpo,18,4,Antetokounmpo,F,0,Milwaukee,2
+0,1,1,0,0,0,1,0,0,Thon,0,0,0,5,1,0,Thon Maker,0,2,Maker,C,0,Milwaukee,0
+0,0,5,7,4,57,9,6,67,Tony,4,3,75,28,1,2,Tony Snell,19,6,Snell,G,2,Milwaukee,1
+2,0,1,7,4,57,12,5,42,Matthew,2,2,100,28,0,2,Matthew Dellavedova,16,1,Dellavedova,G,0,Milwaukee,1
+2,0,2,0,0,0,3,1,33,Jason,3,3,100,26,1,0,Jason Terry,5,3,Terry,N/A,0,Milwaukee,0
+2,0,2,0,0,0,14,6,43,Greg,0,0,0,33,4,3,Greg Monroe,12,6,Monroe,N/A,1,Milwaukee,2
+0,2,3,0,0,0,8,5,63,John,2,1,50,19,3,5,John Henson,11,6,Henson,N/A,0,Milwaukee,0
+2,1,1,2,0,0,9,5,56,Rashad,0,0,0,23,0,3,Rashad Vaughn,10,1,Vaughn,N/A,1,Milwaukee,0
+0,0,2,0,0,0,0,0,0,Spencer,0,0,0,4,0,0,Spencer Hawes,0,2,Hawes,N/A,0,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm,N/A,N/A,N/A,N/A,N/A,N/A,Malcolm Brogdon,N/A,N/A,Brogdon,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terrence,N/A,N/A,N/A,N/A,N/A,N/A,Terrence Jones,N/A,N/A,Jones,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mirza,N/A,N/A,N/A,N/A,N/A,N/A,Mirza Teletovic,N/A,N/A,Teletovic,N/A,N/A,Milwaukee,N/A

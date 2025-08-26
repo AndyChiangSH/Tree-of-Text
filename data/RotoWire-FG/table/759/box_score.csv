@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+7,3,4,6,4,67,18,12,67,LeBron,4,2,50,33,0,1,LeBron James,30,4,James,F,4,Cleveland,1
+2,0,9,9,4,44,14,7,50,Kevin,4,3,75,27,3,2,Kevin Love,21,12,Love,F,1,Cleveland,1
+1,0,1,0,0,0,5,3,60,Tristan,2,1,50,25,1,2,Tristan Thompson,7,2,Thompson,C,0,Cleveland,2
+0,0,6,1,1,100,5,4,80,JR,0,0,0,26,1,0,JR Smith,9,7,Smith,G,0,Cleveland,0
+3,1,1,6,3,50,11,8,73,Kyrie,5,4,80,30,0,2,Kyrie Irving,23,1,Irving,G,1,Cleveland,4
+0,0,1,5,2,40,5,2,40,Kyle,2,2,100,12,0,1,Kyle Korver,8,1,Korver,N/A,0,Cleveland,0
+1,2,3,4,2,50,7,3,43,Richard,4,2,50,19,2,0,Richard Jefferson,10,5,Jefferson,N/A,0,Cleveland,1
+3,0,4,2,2,100,2,2,100,Iman,2,1,50,12,1,2,Iman Shumpert,7,5,Shumpert,N/A,2,Cleveland,1
+6,0,3,2,0,0,4,2,50,Deron,0,0,0,17,0,2,Deron Williams,4,3,Williams,N/A,2,Cleveland,0
+3,0,1,2,1,50,6,3,50,Channing,0,0,0,14,0,2,Channing Frye,7,1,Frye,N/A,0,Cleveland,1
+0,0,1,1,0,0,2,0,0,James,0,0,0,10,0,3,James Jones,0,1,Jones,N/A,0,Cleveland,1
+1,0,0,1,0,0,4,2,50,Derrick,0,0,0,10,1,0,Derrick Williams,4,1,Williams,N/A,0,Cleveland,0
+1,0,2,0,0,0,2,0,0,Dahntay,0,0,0,6,0,0,Dahntay Jones,0,2,Jones,N/A,0,Cleveland,0
+0,0,0,3,2,67,4,2,50,Gerald,0,0,0,14,0,1,Gerald Green,6,0,Green,F,0,Boston,1
+1,0,4,4,1,25,9,3,33,Jae,2,2,100,23,0,1,Jae Crowder,9,4,Crowder,F,1,Boston,1
+2,2,4,4,2,50,9,4,44,Al,2,1,50,27,1,1,Al Horford,11,5,Horford,C,0,Boston,3
+0,0,1,5,1,20,17,6,35,Avery,0,0,0,32,2,3,Avery Bradley,13,3,Bradley,G,0,Boston,0
+6,0,3,2,0,0,6,0,0,Isaiah,2,2,100,18,0,0,Isaiah Thomas,2,3,Thomas,G,0,Boston,1
+7,1,3,1,0,0,6,0,0,Marcus,4,4,100,25,2,4,Marcus Smart,4,5,Smart,N/A,1,Boston,3
+1,0,3,2,0,0,11,7,64,Jaylen,5,5,100,24,1,5,Jaylen Brown,19,4,Brown,N/A,2,Boston,3
+0,0,0,1,0,0,2,0,0,Kelly,0,0,0,8,0,1,Kelly Olynyk,0,0,Olynyk,N/A,1,Boston,1
+3,0,1,4,2,50,5,2,40,Terry,0,0,0,18,0,0,Terry Rozier,6,1,Rozier,N/A,0,Boston,3
+2,0,1,1,0,0,4,2,50,Jonas,0,0,0,16,1,0,Jonas Jerebko,4,2,Jerebko,N/A,0,Boston,0
+1,0,2,0,0,0,4,1,25,Amir,0,0,0,12,1,1,Amir Johnson,2,3,Johnson,N/A,2,Boston,1
+0,1,2,0,0,0,6,4,67,Tyler,0,0,0,14,2,1,Tyler Zeller,8,4,Zeller,N/A,0,Boston,2
+0,0,5,0,0,0,3,1,33,Jordan,0,0,0,10,0,1,Jordan Mickey,2,5,Mickey,N/A,0,Boston,1

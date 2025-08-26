@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,5,3,2,67,6,3,50,Nicolas,0,0,0,24,0,1,Nicolas Batum,8,5,Batum,F,0,Charlotte,3
+2,1,4,4,2,50,6,2,33,Marvin,0,0,0,23,1,2,Marvin Williams,6,5,Williams,F,0,Charlotte,0
+2,0,7,0,0,0,9,3,33,Bismack,0,0,0,22,1,1,Bismack Biyombo,6,8,Biyombo,C,0,Charlotte,0
+1,0,4,1,0,0,14,7,50,Jeremy,2,1,50,27,1,1,Jeremy Lamb,15,5,Lamb,G,1,Charlotte,2
+3,0,1,9,4,44,19,5,26,Kemba,5,4,80,32,2,1,Kemba Walker,18,3,Walker,G,1,Charlotte,4
+1,0,6,0,0,0,4,3,75,Willy,2,1,50,13,2,2,Willy Hernangomez,7,8,Hernangomez,N/A,0,Charlotte,0
+2,1,1,3,0,0,8,2,25,Miles,0,0,0,23,0,1,Miles Bridges,4,1,Bridges,N/A,0,Charlotte,0
+4,0,1,4,1,25,7,2,29,Malik,2,2,100,23,0,0,Malik Monk,7,1,Monk,N/A,0,Charlotte,0
+1,0,1,1,0,0,4,2,50,Michael,2,1,50,18,2,1,Michael Kidd-Gilchrist,5,3,Kidd-Gilchrist,N/A,0,Charlotte,0
+3,0,0,1,0,0,4,1,25,Tony,1,1,100,12,0,0,Tony Parker,3,0,Parker,N/A,0,Charlotte,2
+1,0,2,1,1,100,3,2,67,Dwayne,0,0,0,8,0,0,Dwayne Bacon,5,2,Bacon,N/A,0,Charlotte,0
+1,0,1,1,1,100,3,2,67,Frank,0,0,0,8,1,0,Frank Kaminsky,5,2,Kaminsky,N/A,0,Charlotte,1
+0,0,0,2,2,100,3,2,67,Devonte',2,1,50,7,0,0,Devonte' Graham,7,0,Graham,N/A,1,Charlotte,1
+2,0,4,4,1,25,10,4,40,Jake,0,0,0,27,1,2,Jake Layman,9,5,Layman,F,0,Portland,0
+2,0,5,3,1,33,8,4,50,Al-Farouq,0,0,0,29,0,0,Al-Farouq Aminu,9,5,Aminu,F,2,Portland,0
+8,6,8,0,0,0,6,5,83,Jusuf,1,1,100,30,3,2,Jusuf Nurkic,11,11,Nurkic,C,1,Portland,1
+2,0,5,11,5,46,20,12,60,CJ,1,1,100,29,1,3,CJ McCollum,30,6,McCollum,G,1,Portland,1
+5,4,2,7,2,29,16,8,50,Damian,2,2,100,29,2,2,Damian Lillard,20,4,Lillard,G,3,Portland,2
+3,0,5,2,1,50,9,6,67,Evan,2,2,100,21,0,2,Evan Turner,15,5,Turner,N/A,1,Portland,0
+1,2,4,3,1,33,5,3,60,Zach,0,0,0,19,0,3,Zach Collins,7,4,Collins,N/A,1,Portland,1
+1,0,1,4,2,50,5,2,40,Seth,0,0,0,12,0,1,Seth Curry,6,1,Curry,N/A,0,Portland,2
+1,3,1,0,0,0,3,2,67,Meyers,0,0,0,11,0,4,Meyers Leonard,4,1,Leonard,N/A,0,Portland,0
+3,0,5,3,1,33,7,5,71,Nik,3,2,67,19,0,1,Nik Stauskas,13,5,Stauskas,N/A,1,Portland,1
+1,1,0,3,1,33,4,1,25,Gary,0,0,0,7,0,0,Gary Trent Jr.,3,0,Trent,N/A,0,Portland,0
+2,0,0,0,0,0,0,0,0,Anfernee,0,0,0,7,0,0,Anfernee Simons,0,0,Simons,N/A,0,Portland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Maurice,N/A,N/A,N/A,N/A,N/A,N/A,Maurice Harkless,N/A,N/A,Harkless,N/A,N/A,Portland,N/A

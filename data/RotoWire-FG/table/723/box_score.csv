@@ -1,0 +1,25 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,4,3,0,0,5,2,40,PJ,2,2,100,28,2,5,PJ Tucker,6,6,Tucker,F,0,Phoenix,1
+1,0,10,0,0,0,12,7,58,Alex,0,0,0,37,3,5,Alex Len,14,13,Len,F,3,Phoenix,5
+4,0,3,0,0,0,1,1,100,Tyson,0,0,0,19,0,5,Tyson Chandler,2,3,Chandler,C,0,Phoenix,2
+5,1,3,4,2,50,22,10,46,Devin,9,8,89,43,0,4,Devin Booker,30,3,Booker,G,0,Phoenix,4
+5,1,2,11,7,64,16,10,63,Brandon,4,3,75,32,0,4,Brandon Knight,30,2,Knight,G,0,Phoenix,5
+2,0,4,9,3,33,17,7,41,Mirza,4,2,50,26,0,4,Mirza Teletovic,19,4,Teletovic,N/A,0,Phoenix,1
+0,0,1,2,1,50,2,1,50,Chase,0,0,0,20,0,0,Chase Budinger,3,1,Budinger,N/A,0,Phoenix,0
+0,0,1,0,0,0,1,0,0,Jon,0,0,0,11,0,1,Jon Leuer,0,1,Leuer,N/A,2,Phoenix,1
+3,0,1,4,2,50,7,3,43,Ronnie,4,4,100,21,0,4,Ronnie Price,12,1,Price,N/A,4,Phoenix,0
+0,0,0,0,0,0,1,0,0,Alan,0,0,0,3,2,2,Alan Williams,0,2,Williams,N/A,0,Phoenix,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Archie,N/A,N/A,N/A,N/A,N/A,N/A,Archie Goodwin,N/A,N/A,Goodwin,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Jenkins,N/A,N/A,Jenkins,N/A,N/A,Phoenix,N/A
+2,3,4,5,3,60,13,6,46,Andrew,21,17,81,36,1,0,Andrew Wiggins,32,5,Wiggins,F,1,Minnesota,1
+0,0,5,0,0,0,7,5,71,Gorgui,1,1,100,30,4,3,Gorgui Dieng,11,9,Dieng,F,2,Minnesota,3
+5,0,8,3,1,33,18,10,56,Karl-Anthony,6,6,100,38,2,3,Karl-Anthony Towns,27,10,Towns,C,2,Minnesota,1
+1,0,1,5,1,20,10,6,60,Zach,2,2,100,34,0,5,Zach LaVine,15,1,LaVine,G,0,Minnesota,3
+11,0,6,6,2,33,15,6,40,Ricky,4,3,75,34,1,2,Ricky Rubio,17,7,Rubio,G,3,Minnesota,6
+0,0,1,0,0,0,0,0,0,Greg,2,1,50,10,0,1,Greg Smith,1,1,Smith,N/A,0,Minnesota,1
+0,0,3,3,0,0,10,5,50,Shabazz,0,0,0,14,2,0,Shabazz Muhammad,10,5,Muhammad,N/A,0,Minnesota,0
+2,0,0,2,0,0,3,1,33,Tyus,2,1,50,14,0,0,Tyus Jones,3,0,Jones,N/A,2,Minnesota,2
+0,0,1,0,0,0,1,1,100,Tayshaun,2,1,50,16,0,1,Tayshaun Prince,3,1,Prince,N/A,0,Minnesota,0
+1,0,1,2,0,0,4,1,25,Nemanja,0,0,0,13,1,3,Nemanja Bjelica,2,2,Bjelica,N/A,0,Minnesota,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Adreian,N/A,N/A,N/A,N/A,N/A,N/A,Adreian Payne,N/A,N/A,Payne,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damjan,N/A,N/A,N/A,N/A,N/A,N/A,Damjan Rudez,N/A,N/A,Rudez,N/A,N/A,Minnesota,N/A

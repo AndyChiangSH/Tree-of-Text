@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,1,4,2,0,0,7,3,43,Cedi,3,3,100,32,0,1,Cedi Osman,9,4,Osman,F,1,Cleveland,1
+0,0,1,3,1,33,9,5,56,Sam,0,0,0,24,0,1,Sam Dekker,11,1,Dekker,F,0,Cleveland,0
+1,0,5,0,0,0,9,4,44,Tristan,0,0,0,27,2,1,Tristan Thompson,8,7,Thompson,C,2,Cleveland,2
+3,0,3,1,1,100,8,3,38,Rodney,0,0,0,23,0,3,Rodney Hood,7,3,Hood,G,0,Cleveland,2
+4,0,1,4,0,0,6,1,17,George,1,1,100,28,0,3,George Hill,3,1,Hill,G,0,Cleveland,3
+0,1,0,4,1,25,13,6,46,Jordan,0,0,0,21,0,1,Jordan Clarkson,13,0,Clarkson,N/A,3,Cleveland,0
+2,0,1,1,0,0,5,1,20,Collin,2,2,100,19,0,4,Collin Sexton,4,1,Sexton,N/A,1,Cleveland,1
+0,0,3,0,0,0,7,4,57,Larry,1,1,100,16,1,1,Larry Nance Jr.,9,4,Nance,N/A,0,Cleveland,3
+4,0,1,6,4,67,8,4,50,JR,2,2,100,24,0,2,JR Smith,14,1,Smith,N/A,3,Cleveland,0
+4,0,1,5,3,60,6,3,50,Kyle,2,2,100,14,0,1,Kyle Korver,11,1,Korver,N/A,0,Cleveland,1
+1,0,1,0,0,0,1,0,0,David,4,3,75,5,0,1,David Nwaba,3,1,Nwaba,N/A,0,Cleveland,0
+0,0,2,0,0,0,2,1,50,Ante,0,0,0,4,0,1,Ante Zizic,2,2,Zizic,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Channing,N/A,N/A,N/A,N/A,N/A,N/A,Channing Frye,N/A,N/A,Frye,N/A,N/A,Cleveland,N/A
+7,0,5,3,1,33,9,4,44,Nicolas,0,0,0,26,3,1,Nicolas Batum,9,8,Batum,F,1,Charlotte,2
+1,0,3,4,1,25,6,3,50,Marvin,0,0,0,22,0,0,Marvin Williams,7,3,Williams,F,0,Charlotte,0
+1,2,3,0,0,0,5,3,60,Cody,0,0,0,18,1,4,Cody Zeller,6,4,Zeller,C,0,Charlotte,1
+2,0,6,2,0,0,15,8,53,Jeremy,3,3,100,24,2,1,Jeremy Lamb,19,8,Lamb,G,1,Charlotte,2
+5,0,4,9,4,44,12,6,50,Kemba,2,2,100,30,1,1,Kemba Walker,18,5,Walker,G,0,Charlotte,3
+3,2,5,0,0,0,4,4,100,Willy,3,3,100,20,2,1,Willy Hernangomez,11,7,Hernangomez,N/A,0,Charlotte,0
+0,2,3,0,0,0,7,5,71,Michael,0,0,0,18,1,0,Michael Kidd-Gilchrist,10,4,Kidd-Gilchrist,N/A,0,Charlotte,0
+5,0,1,6,2,33,14,7,50,Malik,0,0,0,21,0,3,Malik Monk,16,1,Monk,N/A,0,Charlotte,2
+0,0,2,4,2,50,7,5,71,Miles,0,0,0,23,1,3,Miles Bridges,12,3,Bridges,N/A,1,Charlotte,1
+4,0,3,2,0,0,10,5,50,Tony,3,2,67,18,1,1,Tony Parker,12,4,Parker,N/A,0,Charlotte,3
+1,0,1,0,0,0,0,0,0,Dwayne,2,2,100,7,0,0,Dwayne Bacon,2,1,Bacon,N/A,0,Charlotte,0
+0,1,1,0,0,0,2,2,100,Bismack,0,0,0,7,0,1,Bismack Biyombo,4,1,Biyombo,N/A,0,Charlotte,0
+0,0,1,0,0,0,0,0,0,Frank,0,0,0,5,0,1,Frank Kaminsky,0,1,Kaminsky,N/A,0,Charlotte,1

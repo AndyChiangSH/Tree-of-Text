@@ -1,0 +1,33 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,13,00:05:36,0,1,KIDAMBI Srikanth,net shot,opponent wins by landing,wins by landing
+2,5,00:05:56,1,1,NG Ka Long Angus,clear,goes out of bounds,opponent goes out of bounds
+3,2,00:06:07,1,2,KIDAMBI Srikanth,net shot,opponent wins by landing,wins by landing
+4,2,00:06:19,2,2,NG Ka Long Angus,net shot,opponent wins by landing,wins by landing
+5,11,00:06:39,2,3,KIDAMBI Srikanth,return net,goes out of bounds,opponent goes out of bounds
+6,9,00:07:11,2,4,KIDAMBI Srikanth,cross-court net shot,opponent wins by landing,wins by landing
+7,18,00:07:41,3,4,NG Ka Long Angus,smash,opponent wins by landing,wins by landing
+8,30,00:08:25,4,4,NG Ka Long Angus,clear,goes out of bounds,opponent goes out of bounds
+9,4,00:08:58,5,4,NG Ka Long Angus,smash,goes out of bounds,opponent goes out of bounds
+10,9,00:09:24,6,4,NG Ka Long Angus,unknown,opponent wins by landing,wins by landing
+12,3,00:09:52,7,5,NG Ka Long Angus,net shot,fails to clear the net,opponent fails to clear the net
+13,17,00:10:20,7,6,KIDAMBI Srikanth,unknown,hits the net,opponent hits the net
+14,15,00:10:51,7,7,KIDAMBI Srikanth,drop,opponent wins by landing,wins by landing
+15,3,00:11:11,7,8,KIDAMBI Srikanth,wrist smash,opponent wins by landing,wins by landing
+16,3,00:11:31,7,9,KIDAMBI Srikanth,wrist smash,opponent wins by landing,wins by landing
+17,8,00:11:53,7,10,KIDAMBI Srikanth,clear,goes out of bounds,opponent goes out of bounds
+18,25,00:12:36,8,10,NG Ka Long Angus,net shot,fails to clear the net,opponent fails to clear the net
+19,10,00:13:12,8,11,KIDAMBI Srikanth,clear,opponent wins by landing,wins by landing
+20,10,00:14:37,8,12,KIDAMBI Srikanth,cross-court net shot,fails to clear the net,opponent fails to clear the net
+21,10,00:15:02,9,12,NG Ka Long Angus,drop,opponent wins by landing,wins by landing
+22,4,00:15:23,9,13,KIDAMBI Srikanth,wrist smash,opponent wins by landing,wins by landing
+23,7,00:15:45,9,14,KIDAMBI Srikanth,smash,opponent wins by landing,wins by landing
+24,7,00:16:19,9,15,KIDAMBI Srikanth,smash,opponent wins by landing,wins by landing
+25,3,00:16:38,10,15,NG Ka Long Angus,unknown,hits the net,opponent hits the net
+26,10,00:17:06,10,16,KIDAMBI Srikanth,return net,opponent wins by landing,wins by landing
+27,13,00:17:34,11,16,NG Ka Long Angus,smash,goes out of bounds,opponent goes out of bounds
+28,3,00:17:54,11,17,KIDAMBI Srikanth,unknown,hits the net,opponent hits the net
+29,5,00:18:14,12,17,NG Ka Long Angus,net shot,fails to clear the net,opponent fails to clear the net
+30,4,00:18:35,12,18,KIDAMBI Srikanth,smash,opponent wins by landing,wins by landing
+31,6,00:19:01,12,19,KIDAMBI Srikanth,return net,fails to clear the net,opponent fails to clear the net
+32,8,00:19:25,12,20,KIDAMBI Srikanth,drop,hits the net,opponent hits the net
+33,8,00:19:47,12,21,KIDAMBI Srikanth,wrist smash,hits the net,opponent hits the net

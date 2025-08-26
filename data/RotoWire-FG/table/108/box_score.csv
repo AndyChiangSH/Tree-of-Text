@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,8,3,0,0,13,3,23,Tobias,4,4,100,27,2,2,Tobias Harris,10,10,Harris,F,1,Orlando,1
+0,0,0,3,1,33,3,1,33,Channing,0,0,0,17,1,1,Channing Frye,3,1,Frye,F,0,Orlando,1
+3,0,4,0,0,0,10,4,40,Nikola,2,2,100,30,6,2,Nikola Vucevic,10,10,Vucevic,C,0,Orlando,2
+0,1,0,3,1,33,5,2,40,Evan,2,2,100,17,0,4,Evan Fournier,7,0,Fournier,G,1,Orlando,2
+8,0,2,3,1,33,18,9,50,Elfrid,4,2,50,37,2,4,Elfrid Payton,21,4,Payton,G,4,Orlando,1
+5,3,6,3,1,33,20,10,50,Victor,4,3,75,34,1,3,Victor Oladipo,24,7,Oladipo,N/A,0,Orlando,4
+2,2,3,0,0,0,6,4,67,Jason,0,0,0,23,2,3,Jason Smith,8,5,Smith,N/A,1,Orlando,0
+1,0,7,3,2,67,5,2,40,Andrew,0,0,0,23,0,0,Andrew Nicholson,6,7,Nicholson,N/A,0,Orlando,1
+1,0,6,1,0,0,8,5,63,Aaron,0,0,0,21,1,1,Aaron Gordon,10,7,Gordon,N/A,1,Orlando,1
+2,0,0,1,0,0,2,0,0,Shabazz,2,2,100,11,0,1,Shabazz Napier,2,0,Napier,N/A,0,Orlando,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dewayne,N/A,N/A,N/A,N/A,N/A,N/A,Dewayne Dedmon,N/A,N/A,Dedmon,N/A,N/A,Orlando,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mario,N/A,N/A,N/A,N/A,N/A,N/A,Mario Hezonja,N/A,N/A,Hezonja,N/A,N/A,Orlando,N/A
+0,0,0,2,0,0,2,0,0,Luc,0,0,0,11,0,1,Luc Mbah a Moute,0,0,Mbah,F,0,LA,1
+7,0,11,0,0,0,22,11,50,Blake,8,6,75,39,2,0,Blake Griffin,28,13,Griffin,F,0,LA,4
+0,1,9,0,0,0,10,7,70,DeAndre,3,1,33,37,5,0,DeAndre Jordan,15,14,Jordan,C,0,LA,0
+5,0,1,9,6,67,19,10,53,Jamal,7,6,86,31,0,3,Jamal Crawford,32,1,Crawford,G,0,LA,1
+4,0,3,2,0,0,7,2,29,Austin,2,1,50,29,1,2,Austin Rivers,5,4,Rivers,G,0,LA,4
+1,0,2,1,0,0,2,0,0,Lance,0,0,0,18,0,2,Lance Stephenson,0,2,Stephenson,N/A,2,LA,0
+2,1,6,12,6,50,12,6,50,Wesley,5,3,60,36,1,2,Wesley Johnson,21,7,Johnson,N/A,2,LA,1
+4,0,1,1,0,0,1,0,0,Pablo,0,0,0,19,1,1,Pablo Prigioni,0,2,Prigioni,N/A,0,LA,0
+2,0,1,2,0,0,4,1,25,Josh,0,0,0,11,0,2,Josh Smith,2,1,Smith,N/A,0,LA,1
+0,0,1,2,0,0,3,0,0,Paul,0,0,0,9,0,2,Paul Pierce,0,1,Pierce,N/A,1,LA,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cole,N/A,N/A,N/A,N/A,N/A,N/A,Cole Aldrich,N/A,N/A,Aldrich,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JJ,N/A,N/A,N/A,N/A,N/A,N/A,JJ Redick,N/A,N/A,Redick,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CJ,N/A,N/A,N/A,N/A,N/A,N/A,CJ Wilcox,N/A,N/A,Wilcox,N/A,N/A,LA,N/A

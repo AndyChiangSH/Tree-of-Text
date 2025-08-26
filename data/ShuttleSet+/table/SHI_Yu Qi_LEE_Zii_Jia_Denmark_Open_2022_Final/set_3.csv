@@ -1,0 +1,30 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,7,00:52:08,1,0,SHI Yuqi,return net,fails to clear the net,opponent fails to clear the net
+2,8,00:52:29,2,0,SHI Yuqi,return net,fails to clear the net,opponent fails to clear the net
+3,24,00:53:28,3,0,SHI Yuqi,return net,goes out of bounds,opponent goes out of bounds
+4,8,00:54:10,3,1,LEE Zii Jia,push,opponent wins by landing,wins by landing
+6,15,00:55:04,4,2,SHI Yuqi,defensive return drive,goes out of bounds,opponent goes out of bounds
+7,13,00:55:41,5,2,SHI Yuqi,smash,opponent wins by landing,wins by landing
+8,4,00:56:07,6,2,SHI Yuqi,drop,hits the net,opponent hits the net
+9,19,00:56:37,6,3,LEE Zii Jia,net shot,hits the net,opponent hits the net
+11,9,00:58:22,7,4,LEE Zii Jia,return net,hits the net,opponent hits the net
+12,5,00:58:42,7,5,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+13,1,00:58:59,8,5,SHI Yuqi,short service,unknown,unknown
+14,10,00:59:28,9,5,SHI Yuqi,smash,goes out of bounds,opponent goes out of bounds
+15,22,01:00:06,10,5,SHI Yuqi,return net,hits the net,opponent hits the net
+16,7,01:01:25,11,5,SHI Yuqi,rush,opponent wins by landing,wins by landing
+17,3,01:02:53,12,5,SHI Yuqi,rush,opponent wins by landing,wins by landing
+18,4,01:03:16,13,5,SHI Yuqi,return net,fails to clear the net,opponent fails to clear the net
+19,4,01:03:37,14,5,SHI Yuqi,lob,goes out of bounds,opponent goes out of bounds
+20,4,01:03:54,14,6,LEE Zii Jia,smash,opponent wins by landing,wins by landing
+21,6,01:04:20,15,6,SHI Yuqi,return net,opponent wins by landing,wins by landing
+22,6,01:04:40,16,6,SHI Yuqi,rush,hits the net,opponent hits the net
+23,3,01:04:57,16,7,LEE Zii Jia,net shot,fails to clear the net,opponent fails to clear the net
+24,16,01:05:24,16,8,LEE Zii Jia,return net,hits the net,opponent hits the net
+25,5,01:05:44,17,8,SHI Yuqi,return net,hits the net,opponent hits the net
+26,2,01:06:11,17,9,LEE Zii Jia,net shot,opponent wins by landing,wins by landing
+28,5,01:06:45,18,10,SHI Yuqi,clear,goes out of bounds,opponent goes out of bounds
+29,4,01:07:03,19,10,SHI Yuqi,smash,goes out of bounds,opponent goes out of bounds
+30,10,01:07:24,19,11,LEE Zii Jia,rush,opponent wins by landing,wins by landing
+32,13,01:08:27,20,12,SHI Yuqi,clear,goes out of bounds,opponent goes out of bounds
+33,4,01:08:54,21,12,SHI Yuqi,defensive return drive,goes out of bounds,opponent goes out of bounds

@@ -1,0 +1,31 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,11,00:30:49,1,0,HE Bingjiao,clear,goes out of bounds,opponent goes out of bounds
+2,4,00:31:08,2,0,HE Bingjiao,drop,fails to clear the net,opponent fails to clear the net
+3,2,00:31:23,3,0,HE Bingjiao,push,goes out of bounds,opponent goes out of bounds
+4,6,00:31:40,4,0,HE Bingjiao,smash,goes out of bounds,opponent goes out of bounds
+5,8,00:32:05,5,0,HE Bingjiao,clear,goes out of bounds,opponent goes out of bounds
+6,2,00:32:28,6,0,HE Bingjiao,net shot,fails to clear the net,opponent fails to clear the net
+7,3,00:32:44,7,0,HE Bingjiao,smash,opponent wins by landing,wins by landing
+8,5,00:33:10,7,1,Carolina MARIN,return net,hits the net,opponent hits the net
+9,13,00:33:37,8,1,HE Bingjiao,cross-court net shot,fails to clear the net,opponent fails to clear the net
+10,4,00:34:36,9,1,HE Bingjiao,smash,hits the net,opponent hits the net
+11,8,00:34:57,9,2,Carolina MARIN,unknown,opponent wins by landing,wins by landing
+12,7,00:35:23,10,2,HE Bingjiao,net shot,fails to clear the net,opponent fails to clear the net
+13,10,00:35:50,11,2,HE Bingjiao,smash,hits the net,opponent hits the net
+14,4,00:37:04,12,2,HE Bingjiao,smash,hits the net,opponent hits the net
+15,5,00:37:22,12,3,Carolina MARIN,net shot,fails to clear the net,opponent fails to clear the net
+16,8,00:37:45,12,4,Carolina MARIN,lob,goes out of bounds,opponent goes out of bounds
+17,11,00:38:19,12,5,Carolina MARIN,rush,opponent wins by landing,wins by landing
+18,3,00:38:53,12,6,Carolina MARIN,push,landing judgment error,opponent landing judgment error
+19,9,00:39:57,13,6,HE Bingjiao,clear,goes out of bounds,opponent goes out of bounds
+20,8,00:40:21,13,7,Carolina MARIN,lob,landing judgment error,opponent landing judgment error
+21,13,00:41:05,13,8,Carolina MARIN,net shot,opponent wins by landing,wins by landing
+22,5,00:41:48,14,8,HE Bingjiao,net shot,fails to clear the net,opponent fails to clear the net
+23,21,00:42:22,15,8,HE Bingjiao,rush,opponent wins by landing,wins by landing
+24,8,00:42:57,16,8,HE Bingjiao,unknown,fails to clear the net,opponent fails to clear the net
+25,2,00:43:19,17,8,HE Bingjiao,cross-court net shot,hits the net,opponent hits the net
+26,4,00:43:44,18,8,HE Bingjiao,lob,goes out of bounds,opponent goes out of bounds
+27,9,00:44:05,19,8,HE Bingjiao,cross-court net shot,opponent wins by landing,wins by landing
+28,4,00:44:24,20,8,HE Bingjiao,rush,goes out of bounds,opponent goes out of bounds
+29,5,00:44:58,20,9,Carolina MARIN,return net,fails to clear the net,opponent fails to clear the net
+30,8,00:45:25,21,9,HE Bingjiao,rush,opponent wins by landing,wins by landing

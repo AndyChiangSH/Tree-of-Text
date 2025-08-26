@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+9,0,13,6,1,17,22,9,41,LeBron,7,5,71,40,1,0,LeBron James,24,14,James,F,1,Los Angeles,4
+2,0,0,3,2,67,8,4,50,Kyle,0,0,0,23,0,2,Kyle Kuzma,10,0,Kuzma,F,2,Los Angeles,3
+1,0,3,0,0,0,6,1,17,Ivica,6,5,83,18,0,1,Ivica Zubac,7,3,Zubac,C,0,Los Angeles,1
+4,0,4,2,0,0,12,7,58,Brandon,5,5,100,44,0,4,Brandon Ingram,19,4,Ingram,G,0,Los Angeles,2
+7,0,12,3,1,33,14,6,43,Rajon,2,1,50,36,1,5,Rajon Rondo,14,13,Rondo,G,1,Los Angeles,1
+0,0,3,0,0,0,2,1,50,Michael,2,2,100,6,0,0,Michael Beasley,4,3,Beasley,N/A,0,Los Angeles,0
+1,2,4,0,0,0,5,3,60,JaVale,6,5,83,17,1,3,JaVale McGee,11,5,McGee,N/A,1,Los Angeles,1
+1,0,2,8,5,62,10,6,60,Lance,3,3,100,30,1,4,Lance Stephenson,20,3,Stephenson,N/A,1,Los Angeles,1
+2,0,3,1,0,0,4,1,25,Josh,0,0,0,21,0,1,Josh Hart,2,3,Hart,N/A,0,Los Angeles,1
+1,2,2,0,0,0,2,1,50,Tyson,4,2,50,18,3,3,Tyson Chandler,4,5,Chandler,N/A,1,Los Angeles,1
+0,0,3,3,2,67,7,3,43,Kentavious,0,0,0,11,0,1,Kentavious Caldwell-Pope,8,3,Caldwell-Pope,N/A,0,Los Angeles,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Svi,N/A,N/A,N/A,N/A,N/A,N/A,Svi Mykhailiuk,N/A,N/A,Mykhailiuk,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Moritz,N/A,N/A,N/A,N/A,N/A,N/A,Moritz Wagner,N/A,N/A,Wagner,N/A,N/A,Los Angeles,N/A
+1,1,6,9,2,22,15,5,33,Avery,2,1,50,35,2,1,Avery Bradley,13,8,Bradley,F,2,LA,1
+8,1,7,4,1,25,13,5,38,Tobias,6,4,67,43,1,5,Tobias Harris,15,8,Harris,F,0,LA,0
+2,2,3,0,0,0,3,1,33,Marcin,0,0,0,16,1,2,Marcin Gortat,2,4,Gortat,C,0,LA,2
+4,1,6,8,5,62,11,6,55,Patrick,0,0,0,37,2,3,Patrick Beverley,17,8,Beverley,G,2,LA,2
+3,0,2,4,1,25,12,4,33,Shai,2,1,50,21,0,3,Shai Gilgeous-Alexander,10,2,Gilgeous-Alexander,G,2,LA,0
+0,2,5,0,0,0,11,7,64,Montrezl,5,1,20,23,3,5,Montrezl Harrell,15,8,Harrell,N/A,1,LA,1
+1,0,4,5,2,40,7,2,29,Mike,0,0,0,16,0,2,Mike Scott,6,4,Scott,N/A,0,LA,0
+6,0,3,6,2,33,18,10,56,Lou,5,2,40,38,0,0,Lou Williams,24,3,Williams,N/A,3,LA,1
+0,1,0,6,1,17,8,3,38,Jerome,1,0,0,18,1,3,Jerome Robinson,7,1,Robinson,N/A,0,LA,0
+1,0,3,0,0,0,4,3,75,Boban,5,5,100,13,2,2,Boban Marjanovic,11,5,Marjanovic,N/A,0,LA,0
+0,0,0,1,0,0,2,0,0,Sindarius,0,0,0,4,0,1,Sindarius Thornwell,0,0,Thornwell,N/A,1,LA,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan Motley,N/A,N/A,Motley,N/A,N/A,LA,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyrone,N/A,N/A,N/A,N/A,N/A,N/A,Tyrone Wallace,N/A,N/A,Wallace,N/A,N/A,LA,N/A

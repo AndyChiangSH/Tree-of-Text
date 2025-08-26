@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+7,1,5,6,1,17,8,2,25,Solomon,2,2,100,37,1,2,Solomon Hill,7,6,Hill,F,1,New Orleans,2
+1,1,4,5,3,60,8,4,50,Dante,2,1,50,38,0,2,Dante Cunningham,12,4,Cunningham,F,0,New Orleans,1
+2,1,11,3,2,67,22,16,73,Anthony,11,8,73,36,2,3,Anthony Davis,42,13,Davis,C,1,New Orleans,2
+1,0,4,4,2,50,10,7,70,Buddy,1,1,100,22,0,3,Buddy Hield,17,4,Hield,G,0,New Orleans,1
+12,0,4,2,1,50,14,10,71,Jrue,4,4,100,38,2,3,Jrue Holiday,25,6,Holiday,G,5,New Orleans,9
+2,0,4,4,3,75,4,3,75,Langston,0,0,0,25,0,1,Langston Galloway,9,4,Galloway,N/A,0,New Orleans,0
+1,0,1,1,0,0,3,1,33,Donatas,0,0,0,19,3,4,Donatas Motiejunas,2,4,Motiejunas,N/A,1,New Orleans,3
+1,0,1,0,0,0,6,2,33,Tim,7,4,57,20,0,1,Tim Frazier,8,1,Frazier,N/A,0,New Orleans,2
+0,0,1,0,0,0,0,0,0,Omer,0,0,0,5,0,4,Omer Asik,0,1,Asik,N/A,0,New Orleans,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alexis,N/A,N/A,N/A,N/A,N/A,N/A,Alexis Ajinca,N/A,N/A,Ajinca,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyreke,N/A,N/A,N/A,N/A,N/A,N/A,Tyreke Evans,N/A,N/A,Evans,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Terrence,N/A,N/A,N/A,N/A,N/A,N/A,Terrence Jones,N/A,N/A,Jones,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun Moore,N/A,N/A,Moore,N/A,N/A,New Orleans,N/A
+2,0,2,3,1,33,17,11,65,Andrew,7,6,86,37,2,0,Andrew Wiggins,29,4,Wiggins,F,3,Minnesota,3
+1,0,5,1,1,100,8,3,38,Gorgui,2,1,50,34,3,4,Gorgui Dieng,8,8,Dieng,F,3,Minnesota,1
+1,0,4,5,1,20,22,13,59,Karl-Anthony,9,9,100,38,4,5,Karl-Anthony Towns,36,8,Towns,C,0,Minnesota,4
+1,0,3,5,2,40,7,3,43,Brandon,2,1,50,25,0,2,Brandon Rush,9,3,Rush,G,0,Minnesota,0
+12,0,1,3,1,33,10,5,50,Ricky,6,4,67,39,0,2,Ricky Rubio,15,1,Rubio,G,4,Minnesota,4
+0,0,1,3,0,0,8,2,25,Shabazz,2,1,50,22,1,0,Shabazz Muhammad,5,2,Muhammad,N/A,0,Minnesota,0
+1,0,2,2,0,0,2,0,0,Nemanja,0,0,0,12,1,2,Nemanja Bjelica,0,3,Bjelica,N/A,0,Minnesota,1
+1,0,0,2,0,0,2,0,0,Kris,0,0,0,9,0,4,Kris Dunn,0,0,Dunn,N/A,1,Minnesota,0
+1,0,3,1,0,0,3,0,0,Lance,2,1,50,12,0,1,Lance Stephenson,1,3,Stephenson,N/A,0,Minnesota,0
+0,0,1,0,0,0,1,1,100,Cole,0,0,0,3,1,1,Cole Aldrich,2,2,Aldrich,N/A,0,Minnesota,0
+2,0,0,2,0,0,2,0,0,Tyus,2,1,50,10,0,0,Tyus Jones,1,0,Jones,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hill,N/A,N/A,Hill,N/A,N/A,Minnesota,N/A

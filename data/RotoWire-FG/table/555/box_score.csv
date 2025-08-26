@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+5,0,6,5,0,0,7,2,29,Matt,2,2,100,34,0,6,Matt Barnes,6,6,Barnes,F,2,Los Angeles,1
+4,1,15,1,0,0,23,13,56,Blake,11,8,73,41,0,4,Blake Griffin,34,15,Griffin,F,1,Los Angeles,3
+0,2,8,0,0,0,6,6,100,DeAndre,6,4,67,25,4,4,DeAndre Jordan,16,12,Jordan,C,2,Los Angeles,1
+2,0,0,6,2,33,10,3,30,JJ,4,4,100,46,0,5,JJ Redick,12,0,Redick,G,0,Los Angeles,2
+2,0,0,3,1,33,9,4,44,Austin,2,1,50,25,0,5,Austin Rivers,10,0,Rivers,G,0,Los Angeles,1
+0,0,2,0,0,0,4,2,50,Glen,0,0,0,14,0,3,Glen Davis,4,2,Davis,N/A,1,Los Angeles,0
+5,0,3,8,1,13,22,6,27,Jamal,7,6,86,36,2,3,Jamal Crawford,19,5,Crawford,N/A,1,Los Angeles,0
+0,0,0,1,1,100,2,1,50,Hedo,0,0,0,7,0,4,Hedo Turkoglu,3,0,Turkoglu,N/A,1,Los Angeles,1
+2,1,0,1,1,100,3,2,67,Lester,0,0,0,11,0,4,Lester Hudson,5,0,Hudson,N/A,1,Los Angeles,2
+0,0,0,0,0,0,0,0,0,Dahntay,0,0,0,0,0,0,Dahntay Jones,0,0,Jones,N/A,0,Los Angeles,0
+0,0,0,0,0,0,0,0,0,Ekpe,0,0,0,0,0,2,Ekpe Udoh,0,0,Udoh,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Hamilton,N/A,N/A,Hamilton,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Spencer,N/A,N/A,N/A,N/A,N/A,N/A,Spencer Hawes,N/A,N/A,Hawes,N/A,N/A,Los Angeles,N/A
+2,0,10,5,1,20,12,4,33,Trevor,7,6,86,45,3,4,Trevor Ariza,15,13,Ariza,F,1,Houston,1
+1,3,5,0,0,0,10,4,40,Terrence,2,2,100,27,3,4,Terrence Jones,10,8,Jones,F,1,Houston,2
+3,4,12,0,0,0,11,8,73,Dwight,21,8,38,35,4,4,Dwight Howard,24,16,Howard,C,1,Houston,1
+7,1,2,10,3,30,17,7,41,James,15,15,100,35,1,4,James Harden,32,3,Harden,G,1,Houston,7
+1,0,3,3,0,0,6,3,50,Jason,5,4,80,28,0,1,Jason Terry,10,3,Terry,G,1,Houston,1
+1,2,4,1,0,0,9,3,33,Josh,6,2,33,17,2,2,Josh Smith,8,6,Smith,N/A,0,Houston,0
+4,0,0,4,1,25,4,1,25,Pablo,2,2,100,20,0,4,Pablo Prigioni,5,0,Prigioni,N/A,0,Houston,1
+0,0,2,0,0,0,0,0,0,Clint,0,0,0,3,1,1,Clint Capela,0,3,Capela,N/A,0,Houston,0
+1,0,1,3,0,0,11,4,36,Corey,6,3,50,30,1,3,Corey Brewer,11,2,Brewer,N/A,1,Houston,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joey,N/A,N/A,N/A,N/A,N/A,N/A,Joey Dorsey,N/A,N/A,Dorsey,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Johnson,N/A,N/A,Johnson,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,KJ,N/A,N/A,N/A,N/A,N/A,N/A,KJ McDaniels,N/A,N/A,McDaniels,N/A,N/A,Houston,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kostas,N/A,N/A,N/A,N/A,N/A,N/A,Kostas Papanikolaou,N/A,N/A,Papanikolaou,N/A,N/A,Houston,N/A

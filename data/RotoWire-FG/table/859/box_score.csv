@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,5,5,1,20,6,1,17,Wilson,4,4,100,27,1,2,Wilson Chandler,7,6,Chandler,F,0,Denver,5
+10,0,6,4,0,0,10,3,30,Nikola,2,2,100,34,1,3,Nikola Jokic,8,7,Jokic,F,0,Denver,5
+0,3,6,0,0,0,5,3,60,Mason,5,3,60,17,2,4,Mason Plumlee,9,8,Plumlee,C,0,Denver,1
+3,0,3,5,3,60,11,6,55,Gary,2,2,100,36,1,0,Gary Harris,17,4,Harris,G,1,Denver,1
+0,2,4,8,3,38,16,7,44,Jamal,1,1,100,37,1,5,Jamal Murray,18,5,Murray,G,0,Denver,5
+0,1,7,3,2,67,11,8,73,Trey,4,1,25,31,2,2,Trey Lyles,19,9,Lyles,N/A,0,Denver,3
+6,0,3,5,3,60,13,6,46,Will,3,2,67,30,0,1,Will Barton,17,3,Barton,N/A,1,Denver,4
+1,0,3,2,1,50,2,1,50,Malik,0,0,0,17,0,0,Malik Beasley,3,3,Beasley,N/A,0,Denver,1
+0,0,1,2,0,0,2,0,0,Torrey,0,0,0,10,0,0,Torrey Craig,0,1,Craig,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth,N/A,N/A,N/A,N/A,N/A,N/A,Kenneth Faried,N/A,N/A,Faried,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richard,N/A,N/A,N/A,N/A,N/A,N/A,Richard Jefferson,N/A,N/A,Jefferson,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Emmanuel,N/A,N/A,N/A,N/A,N/A,N/A,Emmanuel Mudiay,N/A,N/A,Mudiay,N/A,N/A,Denver,N/A
+1,0,2,4,2,50,7,3,43,Malachi,0,0,0,19,0,2,Malachi Richardson,8,2,Richardson,F,1,Sacramento,0
+0,3,2,1,0,0,12,6,50,Skal,0,0,0,16,2,0,Skal Labissiere,12,4,Labissiere,F,1,Sacramento,0
+2,0,3,0,0,0,12,8,67,Willie,3,1,33,25,1,4,Willie Cauley-Stein,17,4,Cauley-Stein,C,7,Sacramento,0
+2,0,5,9,4,44,14,5,36,Buddy,0,0,0,35,0,1,Buddy Hield,14,5,Hield,G,0,Sacramento,0
+7,0,2,0,0,0,11,6,55,De'Aaron,8,6,75,35,1,5,De'Aaron Fox,18,3,Fox,G,1,Sacramento,4
+1,0,3,0,0,0,8,5,62,Kosta,2,2,100,23,4,2,Kosta Koufos,12,7,Koufos,N/A,2,Sacramento,0
+5,0,1,1,1,100,9,3,33,Bogdan,4,4,100,33,1,2,Bogdan Bogdanovic,11,2,Bogdanovic,N/A,1,Sacramento,1
+2,1,8,7,2,29,12,5,42,Vince,0,0,0,31,0,3,Vince Carter,12,8,Carter,N/A,2,Sacramento,0
+1,0,3,3,0,0,9,1,11,Garrett,0,0,0,22,1,3,Garrett Temple,2,4,Temple,N/A,1,Sacramento,4
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jack,N/A,N/A,N/A,N/A,N/A,N/A,Jack Cooley,N/A,N/A,Cooley,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Jackson,N/A,N/A,Jackson,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Georgios,N/A,N/A,N/A,N/A,N/A,N/A,Georgios Papagiannis,N/A,N/A,Papagiannis,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JaKarr,N/A,N/A,N/A,N/A,N/A,N/A,JaKarr Sampson,N/A,N/A,Sampson,N/A,N/A,Sacramento,N/A

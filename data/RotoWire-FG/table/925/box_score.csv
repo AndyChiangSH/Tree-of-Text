@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,1,1,0,0,6,2,33,Josh,0,0,0,16,1,4,Josh Richardson,4,2,Richardson,F,0,Miami,0
+4,0,6,1,0,0,5,3,60,James,4,2,50,24,0,2,James Johnson,8,6,Johnson,F,0,Miami,2
+3,1,5,0,0,0,10,1,10,Bam,2,2,100,25,4,4,Bam Adebayo,4,9,Adebayo,C,1,Miami,3
+2,0,3,7,4,57,15,6,40,Tyler,2,1,50,35,0,2,Tyler Johnson,17,3,Johnson,G,0,Miami,0
+2,0,2,3,0,0,17,10,59,Goran,3,3,100,31,0,4,Goran Dragic,23,2,Dragic,G,1,Miami,2
+0,0,3,10,3,30,12,4,33,Wayne,0,0,0,30,0,3,Wayne Ellington,11,3,Ellington,N/A,2,Miami,1
+1,1,2,2,0,0,8,4,50,Rodney,0,0,0,26,1,1,Rodney McGruder,8,3,McGruder,N/A,1,Miami,0
+7,0,4,4,1,25,7,3,43,Kelly,2,2,100,24,1,4,Kelly Olynyk,9,5,Olynyk,N/A,1,Miami,2
+4,2,10,3,2,67,11,6,55,Justise,3,1,33,30,3,0,Justise Winslow,15,13,Winslow,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luke,N/A,N/A,N/A,N/A,N/A,N/A,Luke Babbitt,N/A,N/A,Babbitt,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan Mickey,N/A,N/A,Mickey,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Hassan,N/A,N/A,N/A,N/A,N/A,N/A,Hassan Whiteside,N/A,N/A,Whiteside,N/A,N/A,Miami,N/A
+1,1,0,1,0,0,2,0,0,Maurice,4,3,75,17,1,0,Maurice Harkless,3,1,Harkless,F,1,Portland,0
+1,0,8,6,1,17,9,2,22,Al-Farouq,0,0,0,32,1,2,Al-Farouq Aminu,5,9,Aminu,F,1,Portland,1
+3,3,11,0,0,0,18,12,67,Jusuf,5,3,60,30,5,5,Jusuf Nurkic,27,16,Nurkic,C,0,Portland,3
+5,1,2,5,2,40,11,5,46,CJ,6,5,83,32,0,3,CJ McCollum,17,2,McCollum,G,1,Portland,1
+10,0,4,14,7,50,19,8,42,Damian,10,9,90,37,1,0,Damian Lillard,32,5,Lillard,G,0,Portland,3
+3,0,3,3,1,33,11,5,46,Evan,2,2,100,31,1,2,Evan Turner,13,4,Turner,N/A,2,Portland,2
+0,0,7,0,0,0,1,1,100,Ed,1,1,100,17,0,2,Ed Davis,3,7,Davis,N/A,0,Portland,0
+0,1,4,3,2,67,5,3,60,Zach,2,2,100,16,0,1,Zach Collins,10,4,Collins,N/A,0,Portland,1
+0,0,0,1,1,100,1,1,100,Pat,0,0,0,13,0,0,Pat Connaughton,3,0,Connaughton,N/A,0,Portland,0
+0,0,2,3,0,0,6,1,17,Shabazz,0,0,0,14,0,0,Shabazz Napier,2,2,Napier,N/A,0,Portland,1
+0,0,0,0,0,0,0,0,0,Jake,0,0,0,0,0,0,Jake Layman,0,0,Layman,N/A,0,Portland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Meyers,N/A,N/A,N/A,N/A,N/A,N/A,Meyers Leonard,N/A,N/A,Leonard,N/A,N/A,Portland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caleb,N/A,N/A,N/A,N/A,N/A,N/A,Caleb Swanigan,N/A,N/A,Swanigan,N/A,N/A,Portland,N/A

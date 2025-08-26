@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,5,4,2,50,17,11,65,LeBron,6,4,67,40,3,3,LeBron James,28,8,James,F,1,Cleveland,7
+1,1,5,10,3,30,17,8,47,Kevin,6,6,100,36,5,1,Kevin Love,25,10,Love,F,0,Cleveland,1
+1,0,6,0,0,0,4,2,50,Tristan,4,4,100,28,4,3,Tristan Thompson,8,10,Thompson,C,0,Cleveland,1
+1,2,1,1,1,100,4,3,75,DeAndre,0,0,0,25,0,1,DeAndre Liggins,7,1,Liggins,G,4,Cleveland,2
+7,0,1,7,4,57,20,10,50,Kyrie,3,3,100,40,1,0,Kyrie Irving,27,2,Irving,G,1,Cleveland,7
+1,2,3,4,2,50,7,4,57,Iman,0,0,0,26,0,0,Iman Shumpert,10,3,Shumpert,N/A,1,Cleveland,0
+0,0,0,0,0,0,2,1,50,Kay,0,0,0,8,0,1,Kay Felder,2,0,Felder,N/A,0,Cleveland,0
+0,0,0,2,1,50,3,1,33,Richard,0,0,0,19,0,2,Richard Jefferson,3,0,Jefferson,N/A,1,Cleveland,2
+0,0,4,6,2,33,8,4,50,Channing,0,0,0,18,0,1,Channing Frye,10,4,Frye,N/A,0,Cleveland,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Jones,N/A,N/A,Jones,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jordan,N/A,N/A,N/A,N/A,N/A,N/A,Jordan McRae,N/A,N/A,McRae,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JR,N/A,N/A,N/A,N/A,N/A,N/A,JR Smith,N/A,N/A,Smith,N/A,N/A,Cleveland,N/A
+2,0,2,2,1,50,9,7,78,TJ,0,0,0,27,1,2,TJ Warren,15,3,Warren,F,3,Phoenix,1
+4,3,2,2,1,50,11,4,36,Marquese,4,3,75,33,1,3,Marquese Chriss,12,3,Chriss,F,1,Phoenix,1
+0,1,11,0,0,0,7,4,57,Tyson,2,2,100,32,4,4,Tyson Chandler,10,15,Chandler,C,0,Phoenix,1
+4,0,2,7,2,29,24,12,50,Devin,4,2,50,45,3,2,Devin Booker,28,5,Booker,G,2,Phoenix,2
+8,1,2,8,4,50,18,12,67,Eric,3,3,100,39,0,3,Eric Bledsoe,31,2,Bledsoe,G,2,Phoenix,3
+0,1,0,0,0,0,3,1,33,Alex,0,0,0,6,0,0,Alex Len,2,0,Len,N/A,0,Phoenix,0
+2,0,4,2,0,0,6,4,67,PJ,2,2,100,28,0,3,PJ Tucker,10,4,Tucker,N/A,2,Phoenix,2
+1,0,0,3,0,0,4,0,0,Brandon,4,3,75,14,1,0,Brandon Knight,3,1,Knight,N/A,1,Phoenix,1
+1,1,0,3,1,33,5,2,40,Dragan,0,0,0,12,3,1,Dragan Bender,5,3,Bender,N/A,1,Phoenix,1
+1,0,0,0,0,0,0,0,0,Leandro,0,0,0,4,0,1,Leandro Barbosa,0,0,Barbosa,N/A,0,Phoenix,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jared,N/A,N/A,N/A,N/A,N/A,N/A,Jared Dudley,N/A,N/A,Dudley,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Ulis,N/A,N/A,Ulis,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alan,N/A,N/A,N/A,N/A,N/A,N/A,Alan Williams,N/A,N/A,Williams,N/A,N/A,Phoenix,N/A

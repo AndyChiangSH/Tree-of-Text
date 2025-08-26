@@ -1,0 +1,37 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,11,00:09:26,1,0,Anders ANTONSEN,lob,goes out of bounds,opponent goes out of bounds
+2,9,00:09:53,2,0,Anders ANTONSEN,smash,opponent wins by landing,wins by landing
+3,7,00:10:19,2,1,Viktor AXELSEN,lob,fails to clear the net,opponent fails to clear the net
+4,3,00:10:37,3,1,Anders ANTONSEN,wrist smash,hits the net,opponent hits the net
+5,22,00:11:16,3,2,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+6,6,00:11:45,4,2,Anders ANTONSEN,net shot,opponent wins by landing,wins by landing
+7,12,00:12:18,4,3,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+9,5,00:13:03,5,4,Viktor AXELSEN,smash,goes out of bounds,opponent goes out of bounds
+10,2,00:13:21,5,5,Viktor AXELSEN,net shot,hits the net,opponent hits the net
+11,5,00:13:53,6,5,Anders ANTONSEN,net shot,hits the net,opponent hits the net
+12,19,00:14:36,6,6,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+13,5,00:15:16,6,7,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+14,7,00:16:00,7,7,Anders ANTONSEN,lob,goes out of bounds,opponent goes out of bounds
+15,16,00:16:31,7,8,Viktor AXELSEN,smash,opponent wins by landing,wins by landing
+16,22,00:17:12,7,9,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+17,3,00:17:42,8,9,Anders ANTONSEN,defensive return drive,goes out of bounds,opponent goes out of bounds
+18,6,00:18:10,9,9,Anders ANTONSEN,back-court drive,goes out of bounds,opponent goes out of bounds
+19,9,00:18:36,10,9,Anders ANTONSEN,smash,opponent wins by landing,wins by landing
+20,2,00:19:13,11,9,Anders ANTONSEN,lob,goes out of bounds,opponent goes out of bounds
+21,9,00:20:25,12,9,Anders ANTONSEN,lob,opponent wins by landing,wins by landing
+22,7,00:21:20,13,9,Anders ANTONSEN,smash,opponent wins by landing,wins by landing
+23,13,00:22:07,13,10,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds
+24,3,00:22:33,14,10,Anders ANTONSEN,lob,goes out of bounds,opponent goes out of bounds
+25,4,00:22:56,14,11,Viktor AXELSEN,rush,opponent wins by landing,wins by landing
+26,10,00:23:20,14,12,Viktor AXELSEN,clear,goes out of bounds,opponent goes out of bounds
+27,10,00:23:59,14,13,Viktor AXELSEN,cross-court net shot,hits the net,opponent hits the net
+28,8,00:24:22,14,14,Viktor AXELSEN,return net,fails to clear the net,opponent fails to clear the net
+29,7,00:24:52,15,14,Anders ANTONSEN,push,goes out of bounds,opponent goes out of bounds
+30,4,00:25:36,16,14,Anders ANTONSEN,push,goes out of bounds,opponent goes out of bounds
+31,14,00:26:08,17,14,Anders ANTONSEN,lob,goes out of bounds,opponent goes out of bounds
+32,33,00:27:23,17,15,Viktor AXELSEN,net shot,hits the net,opponent hits the net
+33,4,00:27:48,18,15,Anders ANTONSEN,smash,opponent wins by landing,wins by landing
+34,32,00:28:44,19,15,Anders ANTONSEN,net shot,goes out of bounds,opponent goes out of bounds
+35,4,00:29:16,20,15,Anders ANTONSEN,smash,hits the net,opponent hits the net
+36,7,00:29:46,20,16,Viktor AXELSEN,drop,goes out of bounds,opponent goes out of bounds
+37,24,00:30:52,21,16,Anders ANTONSEN,wrist smash,opponent wins by landing,wins by landing

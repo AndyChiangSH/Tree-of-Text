@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,2,10,3,30,16,6,38,Gordon,3,3,100,36,2,2,Gordon Hayward,18,4,Hayward,F,2,Utah,2
+0,1,4,0,0,0,13,5,39,Derrick,2,2,100,32,5,3,Derrick Favors,12,9,Favors,F,1,Utah,1
+2,2,8,0,0,0,7,4,57,Rudy,4,4,100,34,6,2,Rudy Gobert,12,14,Gobert,C,2,Utah,3
+2,1,3,10,2,20,13,4,31,Rodney,0,0,0,36,2,2,Rodney Hood,10,5,Hood,G,2,Utah,3
+12,0,4,3,1,33,11,5,46,Shelvin,3,2,67,38,0,2,Shelvin Mack,13,4,Mack,G,1,Utah,6
+0,0,1,0,0,0,1,0,0,Trevor,0,0,0,8,0,1,Trevor Booker,0,1,Booker,N/A,0,Utah,0
+1,0,3,4,4,100,4,4,100,Joe,0,0,0,19,0,1,Joe Ingles,12,3,Ingles,N/A,0,Utah,1
+0,0,0,5,1,20,5,1,20,Raul,0,0,0,10,0,0,Raul Neto,3,0,Neto,N/A,0,Utah,1
+4,0,3,4,2,50,11,5,46,Trey,2,2,100,23,1,0,Trey Lyles,14,4,Lyles,N/A,0,Utah,0
+1,0,0,2,0,0,2,0,0,Chris,0,0,0,4,0,0,Chris Johnson,0,0,Johnson,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Burke,N/A,N/A,Burke,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Withey,N/A,N/A,Withey,N/A,N/A,Utah,N/A
+7,2,3,1,0,0,10,5,50,Giannis,2,2,100,29,0,1,Giannis Antetokounmpo,12,3,Antetokounmpo,F,2,Milwaukee,2
+2,1,8,0,0,0,14,8,57,Jabari,3,3,100,35,0,3,Jabari Parker,19,8,Parker,F,1,Milwaukee,2
+2,1,3,0,0,0,8,3,38,Greg,2,2,100,22,1,0,Greg Monroe,8,4,Monroe,C,0,Milwaukee,1
+0,0,0,2,1,50,10,6,60,Khris,0,0,0,30,0,2,Khris Middleton,13,0,Middleton,G,3,Milwaukee,3
+3,0,1,3,1,33,5,3,60,Jerryd,0,0,0,28,0,1,Jerryd Bayless,7,1,Bayless,G,1,Milwaukee,1
+0,3,2,0,0,0,6,3,50,John,2,2,100,26,0,2,John Henson,8,2,Henson,N/A,0,Milwaukee,0
+0,3,2,0,0,0,4,3,75,Miles,4,1,25,23,1,0,Miles Plumlee,7,3,Plumlee,N/A,0,Milwaukee,0
+6,0,2,1,1,100,4,2,50,Tyler,0,0,0,20,0,2,Tyler Ennis,5,2,Ennis,N/A,2,Milwaukee,2
+1,0,1,1,0,0,1,0,0,Jared,4,4,100,16,0,0,Jared Cunningham,4,1,Cunningham,N/A,1,Milwaukee,1
+0,0,2,0,0,0,3,1,33,Damien,0,0,0,8,0,0,Damien Inglis,2,2,Inglis,N/A,0,Milwaukee,1
+0,0,1,0,0,0,0,0,0,Johnny,0,0,0,3,0,0,Johnny O'Bryant III,0,1,O'Bryant,N/A,0,Milwaukee,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Carter-Williams,N/A,N/A,Carter-Williams,N/A,N/A,Milwaukee,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rashad,N/A,N/A,N/A,N/A,N/A,N/A,Rashad Vaughn,N/A,N/A,Vaughn,N/A,N/A,Milwaukee,N/A

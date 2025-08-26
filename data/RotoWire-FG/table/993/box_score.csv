@@ -1,0 +1,24 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,3,1,0,0,4,1,25,JR,0,0,0,23,0,4,JR Smith,2,3,Smith,F,1,Cleveland,1
+1,4,11,2,0,0,8,1,12,Larry,2,0,0,31,3,4,Larry Nance Jr.,2,14,Nance,F,1,Cleveland,1
+1,0,5,0,0,0,14,10,71,Tristan,4,2,50,34,7,0,Tristan Thompson,22,12,Thompson,C,2,Cleveland,1
+2,0,2,4,2,50,15,7,47,Rodney,4,4,100,29,0,1,Rodney Hood,20,2,Hood,G,0,Cleveland,0
+3,0,3,3,2,67,16,8,50,Collin,2,2,100,34,1,2,Collin Sexton,20,4,Sexton,G,0,Cleveland,1
+4,0,3,4,2,50,16,6,38,Jordan,2,1,50,25,2,3,Jordan Clarkson,15,5,Clarkson,N/A,0,Cleveland,1
+0,1,2,0,0,0,4,2,50,Ante,0,0,0,14,2,1,Ante Zizic,4,4,Zizic,N/A,0,Cleveland,4
+0,1,2,3,0,0,5,1,20,David,4,3,75,17,0,0,David Nwaba,5,2,Nwaba,N/A,1,Cleveland,0
+1,0,4,3,2,67,5,3,60,Kyle,0,0,0,20,0,2,Kyle Korver,8,4,Korver,N/A,0,Cleveland,0
+0,0,3,1,0,0,4,0,0,Andrew,0,0,0,14,0,0,Andrew Harrison,0,3,Harrison,N/A,0,Cleveland,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Channing,N/A,N/A,N/A,N/A,N/A,N/A,Channing Frye,N/A,N/A,Frye,N/A,N/A,Cleveland,N/A
+1,1,7,4,1,25,8,3,38,Justin,0,0,0,37,0,5,Justin Holiday,7,7,Holiday,F,2,Chicago,1
+3,1,4,2,0,0,13,5,38,Jabari,4,3,75,30,1,3,Jabari Parker,13,5,Parker,F,0,Chicago,2
+1,3,4,0,0,0,6,5,83,Wendell,8,5,62,25,1,1,Wendell Carter Jr.,15,5,Carter,C,0,Chicago,2
+5,0,7,4,1,25,22,9,41,Zach,5,5,100,39,1,0,Zach LaVine,24,8,LaVine,G,2,Chicago,1
+2,0,4,4,3,75,8,6,75,Ryan,1,0,0,30,0,5,Ryan Arcidiacono,15,4,Arcidiacono,G,0,Chicago,1
+2,0,2,1,1,100,12,4,33,Antonio,0,0,0,19,1,0,Antonio Blakeney,9,3,Blakeney,N/A,0,Chicago,1
+1,0,0,0,0,0,3,2,67,Robin,0,0,0,22,1,3,Robin Lopez,4,1,Lopez,N/A,0,Chicago,1
+2,0,2,2,1,50,5,2,40,Chandler,2,1,50,18,0,2,Chandler Hutchison,6,2,Hutchison,N/A,0,Chicago,0
+3,0,3,1,0,0,5,3,60,Shaquille,1,0,0,18,0,0,Shaquille Harrison,6,3,Harrison,N/A,3,Chicago,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano,N/A,N/A,N/A,N/A,N/A,N/A,Cristiano Felicio,N/A,N/A,Felicio,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lauri,N/A,N/A,N/A,N/A,N/A,N/A,Lauri Markkanen,N/A,N/A,Markkanen,N/A,N/A,Chicago,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cameron,N/A,N/A,N/A,N/A,N/A,N/A,Cameron Payne,N/A,N/A,Payne,N/A,N/A,Chicago,N/A

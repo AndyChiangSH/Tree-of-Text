@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,2,5,4,0,0,4,0,0,Andre,2,1,50,24,2,4,Andre Roberson,1,7,Roberson,F,1,Oklahoma City,1
+0,1,9,4,2,50,11,5,46,Domantas,2,1,50,35,1,5,Domantas Sabonis,13,10,Sabonis,F,2,Oklahoma City,6
+2,1,6,0,0,0,13,7,54,Steven,4,2,50,34,5,4,Steven Adams,16,11,Adams,C,1,Oklahoma City,2
+1,1,3,3,1,33,12,5,42,Victor,4,4,100,32,1,0,Victor Oladipo,15,4,Oladipo,G,4,Oklahoma City,1
+14,0,5,7,3,43,17,7,41,Russell,10,10,100,34,1,4,Russell Westbrook,27,6,Westbrook,G,1,Oklahoma City,6
+0,0,0,6,1,17,12,3,25,Anthony,4,4,100,30,1,3,Anthony Morrow,11,1,Morrow,N/A,2,Oklahoma City,1
+0,0,4,1,0,0,8,2,25,Joffrey,0,0,0,16,1,4,Joffrey Lauvergne,4,5,Lauvergne,N/A,0,Oklahoma City,1
+3,1,2,3,0,0,4,0,0,Cameron,2,2,100,19,0,3,Cameron Payne,2,2,Payne,N/A,1,Oklahoma City,1
+0,0,3,0,0,0,2,1,50,Jerami,2,1,50,11,0,3,Jerami Grant,3,3,Grant,N/A,0,Oklahoma City,1
+1,1,1,0,0,0,2,0,0,Semaj,2,2,100,5,0,0,Semaj Christon,2,1,Christon,N/A,0,Oklahoma City,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alex,N/A,N/A,N/A,N/A,N/A,N/A,Alex Abrines,N/A,N/A,Abrines,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nick,N/A,N/A,N/A,N/A,N/A,N/A,Nick Collison,N/A,N/A,Collison,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kyle,N/A,N/A,N/A,N/A,N/A,N/A,Kyle Singler,N/A,N/A,Singler,N/A,N/A,Oklahoma City,N/A
+4,2,7,4,1,25,26,13,50,Kawhi,11,9,82,36,1,0,Kawhi Leonard,36,8,Leonard,F,0,San Antonio,3
+0,3,5,2,1,50,15,8,53,LaMarcus,9,8,89,28,1,4,LaMarcus Aldridge,25,6,Aldridge,F,0,San Antonio,3
+0,1,6,0,0,0,3,2,67,Dewayne,2,2,100,17,2,4,Dewayne Dedmon,6,8,Dedmon,C,3,San Antonio,1
+1,3,1,5,2,40,6,2,33,Danny,0,0,0,24,0,4,Danny Green,6,1,Green,G,2,San Antonio,1
+4,0,6,1,0,0,3,0,0,Tony,4,3,75,25,0,4,Tony Parker,3,6,Parker,G,1,San Antonio,2
+0,1,5,0,0,0,7,3,43,David,2,1,50,26,2,2,David Lee,7,7,Lee,N/A,0,San Antonio,2
+1,0,0,2,2,100,4,2,50,Patty,2,2,100,16,0,2,Patty Mills,8,0,Mills,N/A,1,San Antonio,1
+4,1,2,3,1,33,6,3,50,Manu,3,1,33,21,0,2,Manu Ginobili,8,2,Ginobili,N/A,1,San Antonio,1
+0,0,0,0,0,0,0,0,0,Joel,0,0,0,3,0,0,Joel Anthony,0,0,Anthony,N/A,0,San Antonio,0
+1,1,3,4,0,0,6,1,17,Davis,1,0,0,23,2,0,Davis Bertans,2,5,Bertans,N/A,1,San Antonio,1
+1,1,4,0,0,0,9,3,33,Jonathon,4,1,25,19,2,2,Jonathon Simmons,7,6,Simmons,N/A,3,San Antonio,1
+0,0,0,0,0,0,1,0,0,Dejounte,0,0,0,1,0,1,Dejounte Murray,0,0,Murray,N/A,0,San Antonio,0
+0,0,1,0,0,0,0,0,0,Kyle,0,0,0,2,0,0,Kyle Anderson,0,1,Anderson,N/A,0,San Antonio,1

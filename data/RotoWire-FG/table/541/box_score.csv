@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,4,5,2,40,7,2,29,Troy,0,0,0,23,0,0,Troy Daniels,6,4,Daniels,F,1,Memphis,0
+1,1,8,1,1,100,6,4,67,JaMychal,2,1,50,34,3,3,JaMychal Green,10,11,Green,F,0,Memphis,1
+4,3,1,5,2,40,20,10,50,Marc,6,5,83,45,3,4,Marc Gasol,27,4,Gasol,C,3,Memphis,5
+2,0,2,0,0,0,10,4,40,Tony,1,1,100,23,1,4,Tony Allen,9,3,Allen,G,0,Memphis,1
+9,0,9,7,3,43,20,7,35,Mike,10,8,80,45,0,2,Mike Conley,25,9,Conley,G,2,Memphis,4
+0,1,2,6,1,17,11,3,27,Vince,1,0,0,39,0,3,Vince Carter,7,2,Carter,N/A,0,Memphis,1
+6,1,4,4,1,25,6,2,33,Andrew,2,2,100,42,0,5,Andrew Harrison,7,4,Harrison,N/A,4,Memphis,2
+0,1,2,0,0,0,5,1,20,Jarell,0,0,0,12,1,2,Jarell Martin,2,3,Martin,N/A,2,Memphis,1
+1,2,5,1,0,0,14,5,36,Zach,2,1,50,27,1,5,Zach Randolph,11,6,Randolph,N/A,1,Memphis,0
+0,0,0,0,0,0,0,0,0,Deyonta,0,0,0,0,0,0,Deyonta Davis,0,0,Davis,N/A,0,Memphis,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Ennis III,N/A,N/A,Ennis,N/A,N/A,Memphis,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Troy,N/A,N/A,N/A,N/A,N/A,N/A,Troy Williams,N/A,N/A,Williams,N/A,N/A,Memphis,N/A
+2,3,9,7,4,57,10,6,60,Robert,5,3,60,46,1,5,Robert Covington,19,10,Covington,F,3,Philadelphia,6
+0,0,10,5,2,40,15,8,53,Ersan,5,4,80,40,2,6,Ersan Ilyasova,22,12,Ilyasova,F,0,Philadelphia,1
+3,3,10,4,1,25,10,4,40,Joel,4,3,75,27,1,5,Joel Embiid,12,11,Embiid,C,1,Philadelphia,7
+1,1,3,3,0,0,10,3,30,Hollis,0,0,0,27,0,3,Hollis Thompson,6,3,Thompson,G,2,Philadelphia,0
+5,0,0,3,1,33,9,3,33,Sergio,0,0,0,21,0,0,Sergio Rodriguez,7,0,Rodriguez,G,0,Philadelphia,1
+0,3,0,0,0,0,6,1,17,Jahlil,1,0,0,26,1,4,Jahlil Okafor,2,1,Okafor,N/A,1,Philadelphia,3
+4,0,5,7,2,29,12,3,25,Nik,2,2,100,43,0,2,Nik Stauskas,10,5,Stauskas,N/A,1,Philadelphia,2
+6,0,5,2,1,50,15,6,40,Jerryd,6,5,83,30,1,3,Jerryd Bayless,18,6,Bayless,N/A,0,Philadelphia,5
+2,0,3,5,1,20,6,1,17,Dario,0,0,0,22,2,3,Dario Saric,3,5,Saric,N/A,0,Philadelphia,1
+1,0,3,0,0,0,0,0,0,T.J.,0,0,0,8,0,1,T.J. McConnell,0,3,McConnell,N/A,1,Philadelphia,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gerald,N/A,N/A,N/A,N/A,N/A,N/A,Gerald Henderson,N/A,N/A,Henderson,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Richaun,N/A,N/A,N/A,N/A,N/A,N/A,Richaun Holmes,N/A,N/A,Holmes,N/A,N/A,Philadelphia,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timothe,N/A,N/A,N/A,N/A,N/A,N/A,Timothe Luwawu-Cabarrot,N/A,N/A,Luwawu-Cabarrot,N/A,N/A,Philadelphia,N/A

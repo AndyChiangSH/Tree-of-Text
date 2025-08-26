@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,2,3,2,67,15,10,67,Otto,0,0,0,34,1,4,Otto Porter Jr.,22,3,Porter,F,4,Washington,0
+2,0,5,1,1,100,3,3,100,Markieff,4,4,100,26,1,4,Markieff Morris,11,6,Morris,F,0,Washington,2
+2,0,12,0,0,0,10,5,50,Marcin,4,1,25,33,3,2,Marcin Gortat,11,15,Gortat,C,0,Washington,3
+5,0,2,7,5,71,15,9,60,Bradley,0,0,0,34,1,0,Bradley Beal,23,3,Beal,G,0,Washington,1
+10,0,2,6,2,33,19,12,63,John,5,4,80,35,1,1,John Wall,30,3,Wall,G,1,Washington,4
+1,0,2,2,0,0,10,4,40,Bojan,2,2,100,22,0,3,Bojan Bogdanovic,10,2,Bogdanovic,N/A,1,Washington,0
+6,0,2,4,0,0,7,2,29,Brandon,2,0,0,18,0,0,Brandon Jennings,4,2,Jennings,N/A,2,Washington,0
+2,0,5,2,0,0,4,1,25,Kelly,0,0,0,20,0,1,Kelly Oubre Jr.,2,5,Oubre,N/A,0,Washington,0
+2,0,3,0,0,0,3,3,100,Ian,2,1,50,15,1,0,Ian Mahinmi,7,4,Mahinmi,N/A,1,Washington,1
+0,0,0,1,1,100,2,1,50,Tomas,0,0,0,5,0,1,Tomas Satoransky,3,0,Satoransky,N/A,1,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trey,N/A,N/A,N/A,N/A,N/A,N/A,Trey Burke,N/A,N/A,Burke,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Daniel,N/A,N/A,N/A,N/A,N/A,N/A,Daniel Ochefu,N/A,N/A,Ochefu,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Smith,N/A,N/A,Smith,N/A,N/A,Washington,N/A
+1,1,9,0,0,0,4,3,75,Juan,3,1,33,29,1,2,Juan Hernangomez,7,10,Hernangomez,F,2,Denver,2
+3,0,3,5,1,20,16,10,63,Wilson,1,0,0,34,0,3,Wilson Chandler,21,3,Chandler,F,2,Denver,1
+5,0,4,0,0,0,13,7,54,Mason,7,5,71,31,6,2,Mason Plumlee,19,10,Plumlee,C,1,Denver,4
+4,0,1,9,6,67,15,10,67,Gary,0,0,0,37,1,0,Gary Harris,26,2,Harris,G,0,Denver,0
+6,0,2,2,0,0,6,2,33,Jameer,2,1,50,24,1,2,Jameer Nelson,5,3,Nelson,G,0,Denver,4
+5,0,1,4,1,25,9,3,33,Will,3,1,33,26,1,0,Will Barton,8,2,Barton,N/A,1,Denver,1
+1,1,5,3,2,67,4,2,50,Darrell,1,0,0,28,0,3,Darrell Arthur,6,5,Arthur,N/A,0,Denver,2
+5,0,3,5,3,60,15,7,47,Jamal,0,0,0,24,0,3,Jamal Murray,17,3,Murray,N/A,0,Denver,1
+1,0,1,0,0,0,5,2,40,Emmanuel,0,0,0,8,0,1,Emmanuel Mudiay,4,1,Mudiay,N/A,0,Denver,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Malik,N/A,N/A,N/A,N/A,N/A,N/A,Malik Beasley,N/A,N/A,Beasley,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Danilo,N/A,N/A,N/A,N/A,N/A,N/A,Danilo Gallinari,N/A,N/A,Gallinari,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Roy,N/A,N/A,N/A,N/A,N/A,N/A,Roy Hibbert,N/A,N/A,Hibbert,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mike,N/A,N/A,N/A,N/A,N/A,N/A,Mike Miller,N/A,N/A,Miller,N/A,N/A,Denver,N/A

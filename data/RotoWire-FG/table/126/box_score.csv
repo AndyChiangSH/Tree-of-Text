@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,0,2,1,50,6,4,67,Matt,0,0,0,25,0,2,Matt Barnes,9,0,Barnes,F,0,Los Angeles,1
+4,0,5,2,1,50,18,12,67,Blake,3,1,33,30,2,3,Blake Griffin,26,7,Griffin,F,3,Los Angeles,0
+1,0,11,0,0,0,6,6,100,DeAndre,2,0,0,31,0,2,DeAndre Jordan,12,11,Jordan,C,0,Los Angeles,0
+2,0,1,8,4,50,11,5,46,JJ,0,0,0,23,1,3,JJ Redick,14,2,Redick,G,0,Los Angeles,1
+12,0,2,5,3,60,13,8,62,Chris,8,7,88,33,0,0,Chris Paul,26,2,Paul,G,1,Los Angeles,1
+9,0,3,5,1,20,6,1,17,Jamal,2,2,100,25,0,2,Jamal Crawford,5,3,Crawford,N/A,1,Los Angeles,2
+0,0,1,1,1,100,1,1,100,Hedo,0,0,0,15,0,1,Hedo Turkoglu,3,1,Turkoglu,N/A,0,Los Angeles,0
+2,0,5,3,1,33,5,2,40,Spencer,2,1,50,20,0,3,Spencer Hawes,6,5,Hawes,N/A,0,Los Angeles,0
+0,0,2,0,0,0,3,2,67,Glen,0,0,0,15,0,3,Glen Davis,4,2,Davis,N/A,0,Los Angeles,1
+1,0,1,2,1,50,2,1,50,Jordan,0,0,0,15,1,1,Jordan Farmar,3,2,Farmar,N/A,1,Los Angeles,5
+0,0,0,1,0,0,1,0,0,Reggie,0,0,0,4,0,0,Reggie Bullock,0,0,Bullock,N/A,0,Los Angeles,1
+0,0,0,2,0,0,5,1,20,Jared,0,0,0,4,0,1,Jared Cunningham,2,0,Cunningham,N/A,0,Los Angeles,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe,N/A,N/A,N/A,N/A,N/A,N/A,Ekpe Udoh,N/A,N/A,Udoh,N/A,N/A,Los Angeles,N/A
+0,0,3,4,0,0,10,5,50,Luol,4,3,75,28,2,0,Luol Deng,13,5,Deng,F,0,Miami,0
+2,0,3,2,1,50,5,1,20,Shawne,4,4,100,25,0,2,Shawne Williams,7,3,Williams,F,0,Miami,1
+1,0,4,2,1,50,17,9,53,Chris,9,9,100,31,3,2,Chris Bosh,28,7,Bosh,C,0,Miami,0
+3,0,1,3,1,33,6,4,67,Mario,4,4,100,34,0,3,Mario Chalmers,13,1,Chalmers,G,3,Miami,3
+1,0,0,1,0,0,3,0,0,Norris,0,0,0,10,0,0,Norris Cole,0,0,Cole,G,0,Miami,0
+0,1,3,0,0,0,1,0,0,Chris,2,0,0,21,0,3,Chris Andersen,0,3,Andersen,N/A,0,Miami,2
+0,2,1,2,0,0,3,0,0,James,2,2,100,12,0,2,James Ennis III,2,1,Ennis,N/A,1,Miami,0
+3,0,5,6,2,33,9,5,56,Shabazz,6,5,83,32,0,1,Shabazz Napier,17,5,Napier,N/A,1,Miami,2
+1,0,2,2,0,0,3,1,33,Josh,0,0,0,14,0,1,Josh McRoberts,2,2,McRoberts,N/A,1,Miami,3
+0,0,0,2,1,50,7,4,57,Shannon,0,0,0,21,0,1,Shannon Brown,9,0,Brown,N/A,2,Miami,1
+0,0,1,2,0,0,3,1,33,Danny,0,0,0,6,1,0,Danny Granger,2,2,Granger,N/A,1,Miami,0
+0,0,1,0,0,0,0,0,0,Justin,0,0,0,4,0,0,Justin Hamilton,0,1,Hamilton,N/A,1,Miami,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,4,8,4,50,15,8,53,Richard,4,4,100,31,0,4,Richard Jefferson,24,4,Jefferson,F,0,Dallas,2
+4,3,9,3,0,0,19,10,53,Dirk,5,5,100,38,0,2,Dirk Nowitzki,25,9,Nowitzki,F,1,Dallas,2
+1,1,8,0,0,0,3,2,67,Tyson,2,2,100,31,3,4,Tyson Chandler,6,11,Chandler,C,0,Dallas,3
+5,0,0,1,0,0,17,9,53,Monta,2,1,50,37,0,2,Monta Ellis,19,0,Ellis,G,0,Dallas,5
+5,1,4,3,1,33,12,6,50,Raymond,1,0,0,30,0,1,Raymond Felton,13,4,Felton,G,2,Dallas,1
+1,1,2,0,0,0,11,5,46,Al-Farouq,0,0,0,29,7,2,Al-Farouq Aminu,10,9,Aminu,N/A,0,Dallas,1
+9,0,2,3,3,100,9,7,78,Devin,6,4,67,29,0,0,Devin Harris,21,2,Harris,N/A,3,Dallas,2
+3,0,2,8,2,25,10,2,20,Charlie,0,0,0,18,1,2,Charlie Villanueva,6,3,Villanueva,N/A,0,Dallas,0
+0,0,4,0,0,0,8,6,75,Amar'e,4,3,75,22,0,2,Amar'e Stoudemire,15,4,Stoudemire,N/A,1,Dallas,0
+9,0,2,3,1,33,5,2,40,J.J.,0,0,0,20,0,2,J.J. Barea,5,2,Barea,N/A,0,Dallas,1
+0,0,1,0,0,0,0,0,0,Bernard,0,0,0,5,0,2,Bernard James,0,1,James,N/A,1,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dwight,N/A,N/A,N/A,N/A,N/A,N/A,Dwight Powell,N/A,N/A,Powell,N/A,N/A,Dallas,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Greg,N/A,N/A,N/A,N/A,N/A,N/A,Greg Smith,N/A,N/A,Smith,N/A,N/A,Dallas,N/A
+2,0,5,9,2,22,22,9,41,Wilson,0,0,0,49,6,3,Wilson Chandler,20,11,Chandler,F,1,Denver,3
+2,1,7,12,7,58,23,15,65,Danilo,10,10,100,46,2,4,Danilo Gallinari,47,9,Gallinari,F,1,Denver,0
+1,0,4,0,0,0,12,6,50,Kenneth,3,2,67,32,5,5,Kenneth Faried,14,9,Faried,C,1,Denver,3
+4,0,4,13,5,39,18,6,33,Randy,0,0,0,47,1,2,Randy Foye,17,5,Foye,G,5,Denver,3
+18,0,5,3,1,33,21,8,38,Ty,2,2,100,52,0,0,Ty Lawson,19,5,Lawson,G,0,Denver,2
+0,0,5,0,0,0,10,5,50,JJ,6,4,67,20,7,2,JJ Hickson,14,12,Hickson,N/A,0,Denver,2
+1,0,1,2,0,0,4,1,25,Will,0,0,0,10,1,2,Will Barton,2,2,Barton,N/A,1,Denver,0
+0,0,1,1,0,0,2,0,0,Gary,0,0,0,10,0,2,Gary Harris,0,1,Harris,N/A,0,Denver,0
+1,0,2,0,0,0,8,2,25,Jusuf,4,4,100,14,5,5,Jusuf Nurkic,8,7,Nurkic,N/A,1,Denver,2
+0,0,0,3,0,0,5,1,20,Erick,0,0,0,9,0,1,Erick Green,2,0,Green,N/A,0,Denver,0
+0,0,0,0,0,0,0,0,0,Joffrey,0,0,0,0,0,0,Joffrey Lauvergne,0,0,Lauvergne,N/A,0,Denver,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Darrell,N/A,N/A,N/A,N/A,N/A,N/A,Darrell Arthur,N/A,N/A,Arthur,N/A,N/A,Denver,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ian,N/A,N/A,N/A,N/A,N/A,N/A,Ian Clark,N/A,N/A,Clark,N/A,N/A,Denver,N/A

@@ -1,0 +1,40 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,5,00:07:21,1,0,LI Shi Feng,smash,hits the net,opponent hits the net
+2,7,00:07:39,2,0,LI Shi Feng,smash,opponent wins by landing,wins by landing
+3,3,00:07:56,3,0,LI Shi Feng,smash,opponent wins by landing,wins by landing
+4,26,00:08:36,3,1,Kodai NARAOKA,drop,opponent wins by landing,wins by landing
+5,25,00:09:25,4,1,LI Shi Feng,clear,goes out of bounds,opponent goes out of bounds
+6,3,00:09:57,4,2,Kodai NARAOKA,rush,goes out of bounds,opponent goes out of bounds
+7,3,00:10:21,5,2,LI Shi Feng,return net,hits the net,opponent hits the net
+8,7,00:10:52,5,3,Kodai NARAOKA,return net,fails to clear the net,opponent fails to clear the net
+9,16,00:11:22,6,3,LI Shi Feng,return net,opponent wins by landing,wins by landing
+10,21,00:12:03,7,3,LI Shi Feng,smash,opponent wins by landing,wins by landing
+11,12,00:12:45,7,4,Kodai NARAOKA,smash,opponent wins by landing,wins by landing
+12,10,00:13:43,7,5,Kodai NARAOKA,rush,hits the net,opponent hits the net
+13,5,00:14:05,7,6,Kodai NARAOKA,smash,opponent wins by landing,wins by landing
+14,9,00:14:31,7,7,Kodai NARAOKA,smash,opponent wins by landing,wins by landing
+16,6,00:15:22,8,8,Kodai NARAOKA,smash,opponent wins by landing,wins by landing
+17,8,00:15:47,8,9,Kodai NARAOKA,rush,goes out of bounds,opponent goes out of bounds
+18,20,00:16:24,8,10,Kodai NARAOKA,wrist smash,goes out of bounds,opponent goes out of bounds
+19,7,00:16:58,8,11,Kodai NARAOKA,clear,landing judgment error,opponent landing judgment error
+20,10,00:18:20,8,12,Kodai NARAOKA,cross-court net shot,hits the net,opponent hits the net
+21,13,00:18:50,9,12,LI Shi Feng,return net,hits the net,opponent hits the net
+22,2,00:19:46,10,12,LI Shi Feng,push,hits the net,opponent hits the net
+23,11,00:20:10,11,12,LI Shi Feng,lob,landing judgment error,opponent landing judgment error
+24,15,00:20:48,12,12,LI Shi Feng,lob,landing judgment error,opponent landing judgment error
+25,19,00:21:59,13,12,LI Shi Feng,smash,opponent wins by landing,wins by landing
+26,16,00:22:46,13,13,Kodai NARAOKA,smash,opponent wins by landing,wins by landing
+27,6,00:23:27,13,14,Kodai NARAOKA,clear,goes out of bounds,opponent goes out of bounds
+28,25,00:24:12,14,14,LI Shi Feng,drop,hits the net,opponent hits the net
+29,8,00:25:37,15,14,LI Shi Feng,push,hits the net,opponent hits the net
+30,15,00:26:11,16,14,LI Shi Feng,smash,opponent wins by landing,wins by landing
+31,10,00:26:50,17,14,LI Shi Feng,return net,fails to clear the net,opponent fails to clear the net
+32,4,00:27:15,18,14,LI Shi Feng,smash,goes out of bounds,opponent goes out of bounds
+33,4,00:28:17,18,15,Kodai NARAOKA,rush,opponent wins by landing,wins by landing
+34,16,00:28:47,18,16,Kodai NARAOKA,smash,hits the net,opponent hits the net
+35,16,00:29:59,19,16,LI Shi Feng,smash,opponent wins by landing,wins by landing
+36,2,00:30:26,19,17,Kodai NARAOKA,push,opponent wins by landing,wins by landing
+37,5,00:30:48,19,18,Kodai NARAOKA,drop,opponent wins by landing,wins by landing
+38,4,00:31:14,20,18,LI Shi Feng,smash,opponent wins by landing,wins by landing
+39,9,00:31:46,20,19,Kodai NARAOKA,return net,hits the net,opponent hits the net
+40,29,00:32:33,21,19,LI Shi Feng,cross-court net shot,hits the net,opponent hits the net

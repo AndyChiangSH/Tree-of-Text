@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,4,10,5,50,12,6,50,Landry,3,3,100,33,0,2,Landry Shamet,20,4,Shamet,F,0,LA,0
+3,0,8,5,1,20,12,5,42,Danilo,9,8,89,30,1,3,Danilo Gallinari,19,9,Gallinari,F,0,LA,1
+2,2,6,0,0,0,9,4,44,Ivica,4,2,50,18,4,0,Ivica Zubac,10,10,Zubac,C,0,LA,0
+3,1,5,3,2,67,8,5,62,Patrick,0,0,0,31,2,5,Patrick Beverley,12,7,Beverley,G,0,LA,2
+1,0,4,3,3,100,13,6,46,Shai,0,0,0,32,2,4,Shai Gilgeous-Alexander,15,6,Gilgeous-Alexander,G,1,LA,1
+4,0,2,5,0,0,17,6,35,Lou,9,5,56,28,1,1,Lou Williams,17,3,Williams,N/A,1,LA,2
+1,1,4,1,0,0,13,5,38,Montrezl,6,5,83,30,4,3,Montrezl Harrell,15,8,Harrell,N/A,1,LA,3
+0,1,8,3,1,33,7,3,43,JaMychal,2,1,50,20,2,2,JaMychal Green,8,10,Green,N/A,1,LA,1
+3,0,1,1,0,0,1,0,0,Garrett,0,0,0,15,0,2,Garrett Temple,0,1,Temple,N/A,0,LA,0
+0,0,0,0,0,0,0,0,0,Tyrone,0,0,0,3,0,1,Tyrone Wallace,0,0,Wallace,N/A,0,LA,1
+0,0,0,0,0,0,0,0,0,Sindarius,0,0,0,0,0,0,Sindarius Thornwell,0,0,Thornwell,N/A,0,LA,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan,N/A,N/A,N/A,N/A,N/A,N/A,Johnathan Motley,N/A,N/A,Motley,N/A,N/A,LA,N/A
+2,0,5,4,1,25,15,3,20,Bogdan,2,2,100,35,1,1,Bogdan Bogdanovic,9,6,Bogdanovic,F,1,Sacramento,1
+4,0,2,2,1,50,10,5,50,Harrison,4,4,100,38,0,4,Harrison Barnes,15,2,Barnes,F,0,Sacramento,2
+1,4,10,0,0,0,11,7,64,Willie,4,2,50,31,2,2,Willie Cauley-Stein,16,12,Cauley-Stein,C,0,Sacramento,1
+3,0,3,8,3,38,19,6,32,Buddy,8,8,100,36,3,6,Buddy Hield,23,6,Hield,G,1,Sacramento,1
+12,0,5,1,0,0,9,5,56,De'Aaron,3,2,67,29,0,3,De'Aaron Fox,12,5,Fox,G,1,Sacramento,1
+0,0,2,0,0,0,3,0,0,Yogi,2,2,100,9,0,1,Yogi Ferrell,2,2,Ferrell,N/A,0,Sacramento,1
+3,0,1,1,0,0,5,4,80,Corey,0,0,0,19,1,3,Corey Brewer,8,2,Brewer,N/A,1,Sacramento,0
+0,3,3,3,1,33,4,2,50,Nemanja,0,0,0,13,0,2,Nemanja Bjelica,5,3,Bjelica,N/A,0,Sacramento,0
+2,0,4,0,0,0,13,7,54,Harry,2,1,50,17,1,1,Harry Giles III,15,5,Giles,N/A,1,Sacramento,1
+0,1,3,2,0,0,4,2,50,Alec,0,0,0,14,0,2,Alec Burks,4,3,Burks,N/A,1,Sacramento,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kosta,N/A,N/A,N/A,N/A,N/A,N/A,Kosta Koufos,N/A,N/A,Koufos,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Frank,N/A,N/A,N/A,N/A,N/A,N/A,Frank Mason,N/A,N/A,Mason,N/A,N/A,Sacramento,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Caleb,N/A,N/A,N/A,N/A,N/A,N/A,Caleb Swanigan,N/A,N/A,Swanigan,N/A,N/A,Sacramento,N/A

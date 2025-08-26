@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,2,1,1,100,2,1,50,Brandon,0,0,0,12,0,1,Brandon Rush,3,2,Rush,F,0,Golden State,1
+8,0,5,4,0,0,21,8,38,Draymond,7,4,57,38,7,2,Draymond Green,20,12,Green,F,0,Golden State,5
+3,1,2,0,0,0,2,2,100,Andrew,0,0,0,22,2,6,Andrew Bogut,4,4,Bogut,C,0,Golden State,2
+2,2,4,7,4,57,15,8,53,Klay,0,0,0,36,1,1,Klay Thompson,20,5,Thompson,G,0,Golden State,0
+5,0,4,8,4,50,20,9,45,Stephen,4,4,100,37,2,2,Stephen Curry,26,6,Curry,G,2,Golden State,2
+2,1,2,0,0,0,0,0,0,Andre,0,0,0,27,0,2,Andre Iguodala,0,2,Iguodala,N/A,0,Golden State,1
+0,0,3,1,1,100,7,3,43,Shaun,2,2,100,19,0,1,Shaun Livingston,9,3,Livingston,N/A,0,Golden State,2
+0,0,5,0,0,0,3,3,100,Festus,2,2,100,24,1,3,Festus Ezeli,8,6,Ezeli,N/A,0,Golden State,0
+1,0,2,3,0,0,6,1,17,Leandro,0,0,0,11,1,0,Leandro Barbosa,2,3,Barbosa,N/A,0,Golden State,1
+0,0,0,0,0,0,0,0,0,James,0,0,0,3,0,0,James Michael McAdoo,0,0,Michael,N/A,0,Golden State,0
+0,1,1,5,4,80,5,4,80,Ian,0,0,0,6,0,1,Ian Clark,12,1,Clark,N/A,0,Golden State,0
+0,0,1,0,0,0,1,1,100,Marreese,0,0,0,4,0,0,Marreese Speights,2,1,Speights,N/A,0,Golden State,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jason,N/A,N/A,N/A,N/A,N/A,N/A,Jason Thompson,N/A,N/A,Thompson,N/A,N/A,Golden State,N/A
+4,0,6,5,2,40,19,9,47,Gordon,4,4,100,38,0,1,Gordon Hayward,24,6,Hayward,F,0,Utah,1
+2,0,5,0,0,0,15,9,60,Derrick,5,5,100,34,5,3,Derrick Favors,23,10,Favors,F,2,Utah,0
+3,1,8,0,0,0,8,4,50,Rudy,8,5,63,37,3,2,Rudy Gobert,13,11,Gobert,C,1,Utah,0
+3,0,0,7,2,29,12,4,33,Rodney,2,2,100,34,0,2,Rodney Hood,12,0,Hood,G,1,Utah,1
+2,0,1,1,0,0,6,0,0,Raul,0,0,0,15,0,1,Raul Neto,0,1,Neto,G,0,Utah,1
+2,0,2,5,2,40,15,8,53,Alec,1,1,100,29,0,2,Alec Burks,19,2,Burks,N/A,0,Utah,3
+0,1,1,0,0,0,5,3,60,Trevor,0,0,0,19,2,2,Trevor Booker,6,3,Booker,N/A,2,Utah,0
+0,0,1,0,0,0,3,1,33,Joe,0,0,0,11,0,1,Joe Ingles,2,1,Ingles,N/A,1,Utah,0
+2,0,0,1,0,0,6,2,33,Trey,2,0,0,22,0,2,Trey Burke,4,0,Burke,N/A,2,Utah,2
+0,0,1,0,0,0,0,0,0,Trey,0,0,0,1,0,0,Trey Lyles,0,1,Lyles,N/A,0,Utah,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chris,N/A,N/A,N/A,N/A,N/A,N/A,Chris Johnson,N/A,N/A,Johnson,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elijah,N/A,N/A,N/A,N/A,N/A,N/A,Elijah Millsap,N/A,N/A,Millsap,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeff,N/A,N/A,N/A,N/A,N/A,N/A,Jeff Withey,N/A,N/A,Withey,N/A,N/A,Utah,N/A

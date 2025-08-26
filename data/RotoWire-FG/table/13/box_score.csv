@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,4,4,2,50,9,6,67,Otto,0,0,0,32,2,3,Otto Porter,14,6,Porter,F,1,Washington,2
+2,0,3,1,0,0,8,4,50,Nene,2,2,100,30,0,2,Nene,10,3,N/A,F,2,Washington,2
+0,2,9,0,0,0,10,6,60,Marcin,4,4,100,34,1,0,Marcin Gortat,16,10,Gortat,C,1,Washington,0
+3,0,6,3,1,33,5,1,20,Bradley,4,1,25,29,0,0,Bradley Beal,4,6,Beal,G,1,Washington,1
+13,0,5,5,2,40,16,9,56,John,2,2,100,33,0,2,John Wall,22,5,Wall,G,1,Washington,7
+0,0,0,0,0,0,2,2,100,Garrett,0,0,0,16,0,3,Garrett Temple,4,0,Temple,N/A,1,Washington,0
+2,0,1,0,0,0,1,0,0,Jared,0,0,0,11,0,2,Jared Dudley,0,1,Dudley,N/A,0,Washington,0
+2,0,3,2,1,50,9,4,44,Ramon,3,2,67,22,1,1,Ramon Sessions,11,4,Sessions,N/A,0,Washington,2
+1,0,1,3,1,33,6,1,17,Marcus,2,1,50,10,1,1,Marcus Thornton,4,2,Thornton,N/A,3,Washington,2
+0,0,4,0,0,0,5,5,100,JJ,12,4,33,20,1,3,JJ Hickson,14,5,Hickson,N/A,2,Washington,2
+0,0,0,0,0,0,0,0,0,Kelly,0,0,0,1,0,0,Kelly Oubre Jr.,0,0,Oubre,N/A,0,Washington,0
+0,0,0,0,0,0,1,1,100,Jarell,0,0,0,1,0,0,Jarell Eddie,2,0,Eddie,N/A,0,Washington,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Drew,N/A,N/A,N/A,N/A,N/A,N/A,Drew Gooden,N/A,N/A,Gooden,N/A,N/A,Washington,N/A
+2,0,1,7,3,43,15,6,40,Kobe,2,2,100,23,0,0,Kobe Bryant,17,1,Bryant,F,1,Los Angeles,2
+1,0,5,1,0,0,11,7,64,Julius,0,0,0,30,2,4,Julius Randle,14,7,Randle,F,2,Los Angeles,1
+0,0,5,0,0,0,3,1,33,Roy,0,0,0,21,0,5,Roy Hibbert,2,5,Hibbert,C,1,Los Angeles,0
+3,0,4,4,0,0,7,1,14,Jordan,0,0,0,30,1,2,Jordan Clarkson,2,5,Clarkson,G,0,Los Angeles,3
+2,0,1,7,3,43,20,8,40,D'Angelo,3,3,100,32,2,0,D'Angelo Russell,22,3,Russell,G,3,Los Angeles,2
+0,0,1,6,0,0,7,1,14,Lou,10,9,90,20,0,3,Lou Williams,11,1,Williams,N/A,0,Los Angeles,3
+1,0,4,0,0,0,8,4,50,Larry,2,1,50,27,3,2,Larry Nance Jr.,9,7,Nance,N/A,4,Los Angeles,0
+0,0,4,2,0,0,4,0,0,Ryan,0,0,0,17,1,4,Ryan Kelly,0,5,Kelly,N/A,0,Los Angeles,2
+3,0,4,0,0,0,1,0,0,Brandon,0,0,0,17,3,1,Brandon Bass,0,7,Bass,N/A,0,Los Angeles,1
+3,0,0,1,1,100,8,4,50,Marcelo,0,0,0,14,0,4,Marcelo Huertas,9,0,Huertas,N/A,1,Los Angeles,4
+0,0,1,0,0,0,3,1,33,Tarik,0,0,0,9,0,1,Tarik Black,2,1,Black,N/A,0,Los Angeles,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Robert,N/A,N/A,N/A,N/A,N/A,N/A,Robert Sacre,N/A,N/A,Sacre,N/A,N/A,Los Angeles,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Metta,N/A,N/A,N/A,N/A,N/A,N/A,Metta World Peace,N/A,N/A,World,N/A,N/A,Los Angeles,N/A

@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,8,5,1,20,12,5,42,DeMarre,4,3,75,33,3,4,DeMarre Carroll,14,11,Carroll,F,0,Brooklyn,2
+0,0,2,0,0,0,3,1,33,Rondae,2,2,100,17,0,0,Rondae Hollis-Jefferson,4,2,Hollis-Jefferson,F,0,Brooklyn,0
+0,0,1,0,0,0,3,1,33,Timofey,0,0,0,16,1,6,Timofey Mozgov,2,2,Mozgov,C,1,Brooklyn,2
+0,1,3,4,3,75,9,5,56,Allen,3,2,67,23,1,4,Allen Crabbe,15,4,Crabbe,G,1,Brooklyn,0
+8,1,6,2,0,0,13,8,62,D'Angelo,12,7,58,30,0,3,D'Angelo Russell,23,6,Russell,G,2,Brooklyn,5
+0,0,3,2,0,0,8,2,25,Caris,0,0,0,23,1,4,Caris LeVert,4,4,LeVert,N/A,5,Brooklyn,3
+1,1,3,7,3,43,13,7,54,Joe,1,1,100,25,0,3,Joe Harris,18,3,Harris,N/A,1,Brooklyn,2
+7,0,2,3,1,33,8,1,12,Spencer,1,1,100,27,2,3,Spencer Dinwiddie,4,4,Dinwiddie,N/A,0,Brooklyn,0
+0,1,0,0,0,0,7,5,71,Tyler,4,2,50,17,3,0,Tyler Zeller,12,3,Zeller,N/A,0,Brooklyn,1
+3,0,7,7,0,0,8,0,0,Quincy,2,2,100,21,0,3,Quincy Acy,2,7,Acy,N/A,0,Brooklyn,0
+1,0,2,2,0,0,3,0,0,Sean,0,0,0,8,0,0,Sean Kilpatrick,0,2,Kilpatrick,N/A,0,Brooklyn,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trevor,N/A,N/A,N/A,N/A,N/A,N/A,Trevor Booker,N/A,N/A,Booker,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jacob,N/A,N/A,N/A,N/A,N/A,N/A,Jacob Wiley,N/A,N/A,Wiley,N/A,N/A,Brooklyn,N/A
+2,3,8,2,0,0,19,8,42,T.J.,6,4,67,36,1,2,T.J. Warren,20,9,Warren,F,2,Phoenix,1
+2,0,4,1,0,0,4,1,25,Marquese,2,2,100,15,0,2,Marquese Chriss,4,4,Chriss,F,0,Phoenix,1
+0,0,5,0,0,0,2,1,50,Tyson,2,1,50,23,2,1,Tyson Chandler,3,7,Chandler,C,0,Phoenix,3
+1,0,1,4,1,25,15,6,40,Devin,5,5,100,35,1,6,Devin Booker,18,2,Booker,G,2,Phoenix,4
+2,0,3,6,2,33,13,5,38,Mike,5,4,80,26,0,3,Mike James,16,3,James,G,2,Phoenix,1
+1,2,8,0,0,0,6,1,17,Alex,7,5,71,25,6,4,Alex Len,7,14,Len,N/A,1,Phoenix,2
+0,0,3,1,0,0,2,0,0,Dragan,0,0,0,10,1,0,Dragan Bender,0,4,Bender,N/A,0,Phoenix,0
+3,0,1,5,1,20,11,4,36,Tyler,2,2,100,25,0,3,Tyler Ulis,11,1,Ulis,N/A,0,Phoenix,2
+0,1,2,1,0,0,6,1,17,Josh,4,2,50,13,1,3,Josh Jackson,4,3,Jackson,N/A,1,Phoenix,2
+1,0,0,4,1,25,5,1,20,Troy,0,0,0,11,0,1,Troy Daniels,3,0,Daniels,N/A,0,Phoenix,0
+1,1,3,1,1,100,3,2,67,Jared,2,1,50,21,2,4,Jared Dudley,6,5,Dudley,N/A,0,Phoenix,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Jones Jr.,N/A,N/A,Jones,N/A,N/A,Phoenix,N/A

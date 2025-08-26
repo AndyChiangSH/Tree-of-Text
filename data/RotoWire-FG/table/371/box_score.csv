@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,2,2,0,0,8,1,13,Quincy,1,1,100,32,1,2,Quincy Pondexter,3,3,Pondexter,F,4,New Orleans,1
+3,2,10,0,0,0,22,9,41,Anthony,8,8,100,45,1,3,Anthony Davis,26,11,Davis,F,2,New Orleans,3
+2,0,7,0,0,0,3,1,33,Omer,0,0,0,24,6,5,Omer Asik,2,13,Asik,C,2,New Orleans,3
+2,0,0,10,5,50,18,9,50,Eric,0,0,0,39,0,2,Eric Gordon,23,0,Gordon,G,0,New Orleans,4
+7,1,9,3,1,33,13,4,31,Tyreke,12,7,58,41,1,1,Tyreke Evans,16,10,Evans,G,0,New Orleans,0
+2,0,1,2,0,0,5,1,20,Ryan,2,2,100,9,0,2,Ryan Anderson,4,1,Anderson,N/A,0,New Orleans,0
+1,0,2,3,1,33,11,5,46,Norris,1,0,0,28,1,3,Norris Cole,11,3,Cole,N/A,0,New Orleans,2
+0,1,0,0,0,0,1,1,100,Dante,0,0,0,18,0,1,Dante Cunningham,2,0,Cunningham,N/A,2,New Orleans,0
+0,0,0,0,0,0,0,0,0,Alexis,0,0,0,4,0,1,Alexis Ajinca,0,0,Ajinca,N/A,0,New Orleans,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luke,N/A,N/A,N/A,N/A,N/A,N/A,Luke Babbitt,N/A,N/A,Babbitt,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Toney,N/A,N/A,N/A,N/A,N/A,N/A,Toney Douglas,N/A,N/A,Douglas,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jimmer,N/A,N/A,N/A,N/A,N/A,N/A,Jimmer Fredette,N/A,N/A,Fredette,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jrue,N/A,N/A,N/A,N/A,N/A,N/A,Jrue Holiday,N/A,N/A,Holiday,N/A,N/A,New Orleans,N/A
+3,0,1,2,0,0,6,2,33,Harrison,2,1,50,22,1,2,Harrison Barnes,5,2,Barnes,F,1,Golden State,1
+5,1,11,6,2,33,12,4,33,Draymond,6,4,67,42,1,2,Draymond Green,14,12,Green,F,3,Golden State,4
+2,3,10,0,0,0,5,2,40,Andrew,2,1,50,33,4,4,Andrew Bogut,5,14,Bogut,C,1,Golden State,2
+3,0,2,8,3,38,17,11,65,Klay,1,1,100,33,1,3,Klay Thompson,26,3,Thompson,G,1,Golden State,0
+6,0,4,9,3,33,21,9,43,Stephen,1,1,100,37,0,1,Stephen Curry,22,4,Curry,G,1,Golden State,5
+2,0,4,4,1,25,7,2,29,Andre,0,0,0,30,2,2,Andre Iguodala,5,6,Iguodala,N/A,0,Golden State,0
+1,0,0,1,0,0,8,5,63,Leandro,3,2,67,15,1,1,Leandro Barbosa,12,1,Barbosa,N/A,0,Golden State,1
+0,0,0,0,0,0,1,0,0,Festus,0,0,0,3,2,1,Festus Ezeli,0,2,Ezeli,N/A,0,Golden State,0
+4,0,1,0,0,0,2,1,50,Shaun,2,1,50,13,0,1,Shaun Livingston,3,1,Livingston,N/A,0,Golden State,0
+1,2,2,0,0,0,7,2,29,Marreese,2,1,50,13,2,1,Marreese Speights,5,4,Speights,N/A,1,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Justin,N/A,N/A,N/A,N/A,N/A,N/A,Justin Holiday,N/A,N/A,Holiday,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Michael McAdoo,N/A,N/A,Michael,N/A,N/A,Golden State,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Brandon,N/A,N/A,N/A,N/A,N/A,N/A,Brandon Rush,N/A,N/A,Rush,N/A,N/A,Golden State,N/A

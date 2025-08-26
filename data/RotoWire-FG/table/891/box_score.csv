@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,3,3,2,67,11,7,64,Khris,2,0,0,31,1,4,Khris Middleton,16,4,Middleton,F,0,Milwaukee,2
+4,1,7,2,1,50,13,7,54,Giannis,1,1,100,28,1,0,Giannis Antetokounmpo,16,8,Antetokounmpo,F,0,Milwaukee,2
+3,2,11,0,0,0,14,8,57,John,5,3,60,30,7,4,John Henson,19,18,Henson,C,0,Milwaukee,0
+0,1,3,1,0,0,4,0,0,Tony,0,0,0,31,0,0,Tony Snell,0,3,Snell,G,0,Milwaukee,0
+6,0,3,8,3,38,20,12,60,Eric,1,1,100,32,1,1,Eric Bledsoe,28,4,Bledsoe,G,1,Milwaukee,4
+2,2,1,1,1,100,4,2,50,Jabari,6,6,100,17,0,2,Jabari Parker,11,1,Parker,N/A,1,Milwaukee,1
+0,1,7,1,0,0,4,0,0,Sterling,4,4,100,26,1,2,Sterling Brown,4,8,Brown,N/A,1,Milwaukee,1
+0,0,3,1,0,0,8,4,50,Thon,0,0,0,18,3,1,Thon Maker,8,6,Maker,N/A,0,Milwaukee,0
+2,0,1,1,0,0,1,0,0,Matthew,2,2,100,14,0,1,Matthew Dellavedova,2,1,Dellavedova,N/A,0,Milwaukee,1
+1,0,1,1,1,100,2,2,100,Sean,0,0,0,8,0,1,Sean Kilpatrick,5,1,Kilpatrick,N/A,0,Milwaukee,0
+0,0,0,0,0,0,0,0,0,Jason,0,0,0,2,0,0,Jason Terry,0,0,Terry,N/A,0,Milwaukee,0
+0,0,0,0,0,0,0,0,0,Rashad,0,0,0,2,0,0,Rashad Vaughn,0,0,Vaughn,N/A,0,Milwaukee,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Marshall,N/A,N/A,N/A,N/A,N/A,N/A,Marshall Plumlee,N/A,N/A,Plumlee,N/A,N/A,Milwaukee,N/A
+0,1,3,5,3,60,11,5,46,DeMarre,3,2,67,32,0,0,DeMarre Carroll,15,3,Carroll,F,0,Brooklyn,0
+2,0,3,4,1,25,6,2,33,Quincy,2,2,100,21,1,0,Quincy Acy,7,4,Acy,F,1,Brooklyn,0
+0,0,6,0,0,0,11,7,64,Jarrett,0,0,0,27,1,2,Jarrett Allen,14,7,Allen,C,0,Brooklyn,1
+0,0,4,4,1,25,14,5,36,Allen,0,0,0,29,1,2,Allen Crabbe,11,5,Crabbe,G,0,Brooklyn,1
+10,0,0,6,1,17,11,3,27,Spencer,2,2,100,29,0,2,Spencer Dinwiddie,9,0,Dinwiddie,G,3,Brooklyn,1
+7,0,0,1,1,100,8,1,12,D'Angelo,0,0,0,18,1,6,D'Angelo Russell,3,1,Russell,N/A,0,Brooklyn,2
+3,0,4,6,1,17,11,3,27,Joe,1,1,100,26,1,1,Joe Harris,8,5,Harris,N/A,0,Brooklyn,1
+1,0,1,0,0,0,5,3,60,Jahlil,2,1,50,11,3,1,Jahlil Okafor,7,4,Okafor,N/A,1,Brooklyn,1
+1,0,0,0,0,0,7,6,86,Caris,4,3,75,23,0,4,Caris LeVert,15,0,LeVert,N/A,0,Brooklyn,1
+0,0,2,2,0,0,4,1,25,James,0,0,0,15,3,0,James Webb III,2,5,Webb,N/A,0,Brooklyn,1
+1,0,2,1,1,100,2,1,50,Nik,0,0,0,9,0,1,Nik Stauskas,3,2,Stauskas,N/A,0,Brooklyn,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Timofey,N/A,N/A,N/A,N/A,N/A,N/A,Timofey Mozgov,N/A,N/A,Mozgov,N/A,N/A,Brooklyn,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tyler,N/A,N/A,N/A,N/A,N/A,N/A,Tyler Zeller,N/A,N/A,Zeller,N/A,N/A,Brooklyn,N/A

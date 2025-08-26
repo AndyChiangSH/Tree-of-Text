@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+1,0,7,4,1,25,11,6,55,Kelly,4,3,75,26,1,0,Kelly Oubre Jr.,16,8,Oubre,F,1,Phoenix,1
+1,0,2,4,1,25,14,5,36,Josh,0,0,0,25,0,2,Josh Jackson,11,2,Jackson,F,0,Phoenix,2
+0,0,7,0,0,0,11,6,55,Deandre,4,2,50,25,3,5,Deandre Ayton,14,10,Ayton,C,2,Phoenix,1
+9,0,3,9,3,33,16,6,38,Devin,5,5,100,33,1,5,Devin Booker,20,4,Booker,G,0,Phoenix,4
+5,0,1,5,3,60,12,6,50,Tyler,3,3,100,32,0,1,Tyler Johnson,18,1,Johnson,G,1,Phoenix,1
+1,1,5,0,0,0,5,4,80,Richaun,0,0,0,23,1,3,Richaun Holmes,8,6,Holmes,N/A,1,Phoenix,0
+8,0,2,2,0,0,4,2,50,Mikal,4,3,75,34,0,3,Mikal Bridges,7,2,Bridges,N/A,2,Phoenix,2
+1,0,0,0,0,0,1,0,0,De'Anthony,0,0,0,5,1,0,De'Anthony Melton,0,1,Melton,N/A,0,Phoenix,0
+2,0,4,5,2,40,9,5,56,Jamal,4,4,100,21,0,1,Jamal Crawford,16,4,Crawford,N/A,1,Phoenix,3
+2,0,1,3,3,100,6,5,83,Troy,1,1,100,17,0,0,Troy Daniels,14,1,Daniels,N/A,1,Phoenix,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dragan,N/A,N/A,N/A,N/A,N/A,N/A,Dragan Bender,N/A,N/A,Bender,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elie,N/A,N/A,N/A,N/A,N/A,N/A,Elie Okobo,N/A,N/A,Okobo,N/A,N/A,Phoenix,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ray,N/A,N/A,N/A,N/A,N/A,N/A,Ray Spalding,N/A,N/A,Spalding,N/A,N/A,Phoenix,N/A
+9,0,5,4,0,0,10,2,20,Josh,3,3,100,37,1,2,Josh Richardson,7,6,Richardson,F,1,Miami,2
+3,0,8,6,4,67,17,11,65,Kelly,2,2,100,41,2,3,Kelly Olynyk,28,10,Olynyk,F,1,Miami,3
+1,0,5,0,0,0,19,14,74,Hassan,2,1,50,27,6,5,Hassan Whiteside,29,11,Whiteside,C,2,Miami,1
+1,0,1,5,1,20,6,2,33,Duncan,0,0,0,22,0,3,Duncan Robinson,5,1,Robinson,G,1,Miami,1
+7,1,3,7,3,43,11,4,36,Dion,1,1,100,32,1,4,Dion Waiters,12,4,Waiters,G,0,Miami,1
+5,2,2,3,0,0,14,5,36,Dwyane,5,3,60,30,1,0,Dwyane Wade,13,3,Wade,N/A,3,Miami,4
+1,1,6,0,0,0,7,4,57,Bam,7,6,86,21,3,1,Bam Adebayo,14,9,Adebayo,N/A,2,Miami,0
+4,0,0,3,0,0,12,5,42,Goran,0,0,0,23,0,1,Goran Dragic,10,0,Dragic,N/A,0,Miami,1
+0,0,0,1,1,100,1,1,100,Ryan,0,0,0,7,0,1,Ryan Anderson,3,0,Anderson,N/A,0,Miami,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Udonis,N/A,N/A,N/A,N/A,N/A,N/A,Udonis Haslem,N/A,N/A,Haslem,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Derrick,N/A,N/A,N/A,N/A,N/A,N/A,Derrick Jones Jr.,N/A,N/A,Jones,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rodney,N/A,N/A,N/A,N/A,N/A,N/A,Rodney McGruder,N/A,N/A,McGruder,N/A,N/A,Miami,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Emanuel,N/A,N/A,N/A,N/A,N/A,N/A,Emanuel Terry,N/A,N/A,Terry,N/A,N/A,Miami,N/A

@@ -1,0 +1,32 @@
+rally,ball_round,time,winner_score,loser_score,getpoint_player,ball_type,lose_reason,win_reason
+1,20,00:47:36,0,1,PUSARLA V. Sindhu,drop,hits the net,opponent hits the net
+2,22,00:48:26,0,2,PUSARLA V. Sindhu,smash,goes out of bounds,opponent goes out of bounds
+3,16,00:49:15,1,2,Supanida KATETHONG,cross-court net shot,opponent wins by landing,wins by landing
+4,4,00:49:52,2,2,Supanida KATETHONG,return net,hits the net,opponent hits the net
+5,12,00:50:27,3,2,Supanida KATETHONG,push,hits the net,opponent hits the net
+6,16,00:51:05,3,3,PUSARLA V. Sindhu,smash,opponent wins by landing,wins by landing
+7,10,00:51:52,3,4,PUSARLA V. Sindhu,lob,hits the net,opponent hits the net
+8,8,00:52:25,4,4,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+9,5,00:52:56,4,5,PUSARLA V. Sindhu,push,goes out of bounds,opponent goes out of bounds
+10,7,00:53:23,5,5,Supanida KATETHONG,return net,hits the net,opponent hits the net
+11,4,00:53:58,6,5,Supanida KATETHONG,drop,hits the net,opponent hits the net
+12,7,00:54:22,7,5,Supanida KATETHONG,wrist smash,opponent wins by landing,wins by landing
+13,7,00:54:49,7,6,PUSARLA V. Sindhu,cross-court net shot,fails to clear the net,opponent fails to clear the net
+14,11,00:55:22,8,6,Supanida KATETHONG,return net,hits the net,opponent hits the net
+15,3,00:55:53,8,7,PUSARLA V. Sindhu,return net,goes out of bounds,opponent goes out of bounds
+16,4,00:56:18,9,7,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+17,8,00:56:45,10,7,Supanida KATETHONG,clear,goes out of bounds,opponent goes out of bounds
+18,23,00:57:28,11,7,Supanida KATETHONG,push,opponent wins by landing,wins by landing
+19,5,00:59:03,11,8,PUSARLA V. Sindhu,lob,goes out of bounds,opponent goes out of bounds
+20,1,00:59:20,12,8,Supanida KATETHONG,short service,hits the net,opponent hits the net
+21,10,00:59:45,13,8,Supanida KATETHONG,return net,hits the net,opponent hits the net
+22,9,01:00:20,13,9,PUSARLA V. Sindhu,return net,fails to clear the net,opponent fails to clear the net
+23,16,01:01:01,14,9,Supanida KATETHONG,wrist smash,opponent wins by landing,wins by landing
+24,13,01:01:42,15,9,Supanida KATETHONG,rush,opponent wins by landing,wins by landing
+25,4,01:02:20,16,9,Supanida KATETHONG,lob,goes out of bounds,opponent goes out of bounds
+26,13,01:03:12,17,9,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+27,15,01:03:49,18,9,Supanida KATETHONG,smash,opponent wins by landing,wins by landing
+28,4,01:04:15,18,10,PUSARLA V. Sindhu,rush,opponent wins by landing,wins by landing
+29,3,01:04:36,19,10,Supanida KATETHONG,return net,goes out of bounds,opponent goes out of bounds
+30,8,01:05:01,20,10,Supanida KATETHONG,smash,goes out of bounds,opponent goes out of bounds
+31,8,01:05:40,21,10,Supanida KATETHONG,lob,goes out of bounds,opponent goes out of bounds

@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,1,6,8,3,38,19,7,37,Rasual,0,0,0,45,1,0,Rasual Butler,17,7,Butler,F,2,Washington,0
+2,0,2,1,0,0,7,4,57,Kris,4,4,100,29,3,1,Kris Humphries,12,5,Humphries,F,0,Washington,0
+4,0,5,0,0,0,11,4,36,Marcin,0,0,0,14,1,1,Marcin Gortat,8,6,Gortat,C,1,Washington,0
+0,1,3,1,0,0,5,2,40,Otto,0,0,0,20,1,1,Otto Porter,4,4,Porter,G,0,Washington,2
+6,0,2,2,2,100,8,4,50,Ramon,6,4,67,37,0,1,Ramon Sessions,14,2,Sessions,G,0,Washington,1
+2,3,9,0,0,0,13,6,46,Kevin,1,0,0,39,3,3,Kevin Seraphin,12,12,Seraphin,N/A,1,Washington,5
+2,0,2,5,3,60,9,5,56,Martell,8,7,88,36,1,0,Martell Webster,20,3,Webster,N/A,1,Washington,2
+8,0,2,5,0,0,15,5,33,Will,2,1,50,21,2,1,Will Bynum,11,4,Bynum,N/A,0,Washington,1
+0,0,4,0,0,0,10,5,50,DeJuan,0,0,0,24,3,5,DeJuan Blair,10,7,Blair,N/A,3,Washington,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bradley,N/A,N/A,N/A,N/A,N/A,N/A,Bradley Beal,N/A,N/A,Beal,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Drew,N/A,N/A,N/A,N/A,N/A,N/A,Drew Gooden,N/A,N/A,Gooden,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Paul,N/A,N/A,N/A,N/A,N/A,N/A,Paul Pierce,N/A,N/A,Pierce,N/A,N/A,Washington,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,John,N/A,N/A,N/A,N/A,N/A,N/A,John Wall,N/A,N/A,Wall,N/A,N/A,Washington,N/A
+0,0,2,2,1,50,2,1,50,Mike,0,0,0,18,0,3,Mike Miller,3,2,Miller,F,0,Cleveland,0
+0,0,3,6,5,83,12,6,50,Kevin,2,2,100,18,0,0,Kevin Love,19,3,Love,F,0,Cleveland,1
+0,0,2,0,0,0,5,4,80,Timofey,2,0,0,14,1,1,Timofey Mozgov,8,3,Mozgov,C,0,Cleveland,0
+3,0,0,3,0,0,5,0,0,JR,0,0,0,9,0,0,JR Smith,0,0,Smith,G,0,Cleveland,1
+7,0,2,3,1,33,9,4,44,Kyrie,0,0,0,18,0,0,Kyrie Irving,9,2,Irving,G,1,Cleveland,2
+1,0,5,1,0,0,10,4,40,Shawn,0,0,0,33,4,0,Shawn Marion,8,9,Marion,N/A,1,Cleveland,0
+2,0,5,5,3,60,12,7,58,Iman,2,1,50,29,1,1,Iman Shumpert,18,6,Shumpert,N/A,2,Cleveland,0
+12,0,3,5,4,80,11,6,55,Matthew,2,2,100,33,0,2,Matthew Dellavedova,18,3,Dellavedova,N/A,2,Cleveland,3
+2,1,5,0,0,0,7,4,57,Tristan,4,4,100,22,3,1,Tristan Thompson,12,8,Thompson,N/A,0,Cleveland,1
+0,0,0,2,1,50,4,1,25,James,0,0,0,12,1,3,James Jones,3,1,Jones,N/A,0,Cleveland,0
+1,1,4,0,0,0,6,3,50,Kendrick,2,1,50,28,1,2,Kendrick Perkins,7,5,Perkins,N/A,1,Cleveland,3
+1,0,1,3,1,33,5,1,20,Joe,0,0,0,17,0,3,Joe Harris,3,1,Harris,N/A,0,Cleveland,5
+0,2,1,0,0,0,3,2,67,Brendan,3,1,33,15,0,1,Brendan Haywood,5,1,Haywood,N/A,0,Cleveland,0

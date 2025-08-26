@@ -1,0 +1,26 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+2,0,0,2,1,50,10,5,50,James,0,0,0,24,2,3,James Johnson,11,2,Johnson,F,0,Toronto,0
+2,0,6,2,1,50,7,3,43,Luis,0,0,0,25,1,3,Luis Scola,7,7,Scola,F,0,Toronto,1
+1,2,11,0,0,0,7,6,86,Bismack,0,0,0,25,2,2,Bismack Biyombo,12,13,Biyombo,C,0,Toronto,0
+2,2,3,7,3,43,15,6,40,Norman,2,2,100,35,0,3,Norman Powell,17,3,Powell,G,1,Toronto,0
+11,0,3,6,4,67,9,5,56,Kyle,13,11,85,28,1,1,Kyle Lowry,25,4,Lowry,G,0,Toronto,2
+1,1,2,8,3,38,12,4,33,Terrence,0,0,0,30,1,2,Terrence Ross,11,3,Ross,N/A,0,Toronto,1
+2,2,4,4,2,50,11,6,55,Patrick,0,0,0,20,2,3,Patrick Patterson,14,6,Patterson,N/A,1,Toronto,1
+6,0,1,0,0,0,8,3,38,Cory,0,0,0,25,2,1,Cory Joseph,6,3,Joseph,N/A,1,Toronto,1
+0,1,4,0,0,0,3,1,33,Jason,0,0,0,23,2,5,Jason Thompson,2,6,Thompson,N/A,1,Toronto,1
+0,0,0,0,0,0,0,0,0,Lucas,0,0,0,4,0,0,Lucas Nogueira,0,0,Nogueira,N/A,0,Toronto,1
+0,0,1,0,0,0,1,0,0,Delon,2,2,100,3,0,0,Delon Wright,2,1,Wright,N/A,0,Toronto,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeMar,N/A,N/A,N/A,N/A,N/A,N/A,DeMar DeRozan,N/A,N/A,DeRozan,N/A,N/A,Toronto,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jonas,N/A,N/A,N/A,N/A,N/A,N/A,Jonas Valanciunas,N/A,N/A,Valanciunas,N/A,N/A,Toronto,N/A
+9,3,10,1,0,0,12,6,50,Giannis,11,6,55,35,2,4,Giannis Antetokounmpo,18,12,Antetokounmpo,F,0,Milwaukee,1
+2,0,4,2,1,50,16,7,44,Jabari,3,3,100,37,0,2,Jabari Parker,18,4,Parker,F,0,Milwaukee,0
+0,0,7,0,0,0,8,4,50,Greg,1,0,0,29,2,1,Greg Monroe,8,9,Monroe,C,0,Milwaukee,0
+3,0,0,2,0,0,10,5,50,Khris,2,2,100,31,1,2,Khris Middleton,12,1,Middleton,G,3,Milwaukee,1
+0,0,0,3,1,33,9,3,33,Jerryd,4,4,100,28,0,4,Jerryd Bayless,11,0,Bayless,G,1,Milwaukee,0
+0,0,1,0,0,0,5,2,40,Miles,2,2,100,14,2,0,Miles Plumlee,6,3,Plumlee,N/A,0,Milwaukee,1
+3,0,3,2,0,0,8,4,50,Tyler,3,2,67,28,1,2,Tyler Ennis,10,4,Ennis,N/A,0,Milwaukee,1
+0,0,1,0,0,0,3,1,33,Johnny,0,0,0,15,1,0,Johnny O'Bryant III,2,2,O'Bryant,N/A,1,Milwaukee,0
+1,0,1,2,0,0,2,0,0,Rashad,0,0,0,13,0,1,Rashad Vaughn,0,1,Vaughn,N/A,1,Milwaukee,1
+0,0,0,0,0,0,3,2,67,John,0,0,0,6,1,0,John Henson,4,1,Henson,N/A,1,Milwaukee,1
+0,0,0,1,0,0,1,0,0,Damien,0,0,0,4,0,0,Damien Inglis,0,0,Inglis,N/A,1,Milwaukee,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Michael,N/A,N/A,N/A,N/A,N/A,N/A,Michael Carter-Williams,N/A,N/A,Carter-Williams,N/A,N/A,Milwaukee,N/A

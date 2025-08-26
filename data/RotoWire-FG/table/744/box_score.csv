@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+3,0,2,3,0,0,6,0,0,Solomon,2,2,100,26,1,1,Solomon Hill,2,3,Hill,F,2,New Orleans,1
+0,0,4,2,0,0,6,3,50,Dante,0,0,0,27,1,0,Dante Cunningham,6,5,Cunningham,F,0,New Orleans,0
+1,0,5,0,0,0,14,8,57,Alexis,1,1,100,29,1,5,Alexis Ajinca,17,6,Ajinca,C,0,New Orleans,0
+10,0,5,4,0,0,15,5,33,Jrue,0,0,0,32,1,2,Jrue Holiday,10,6,Holiday,G,0,New Orleans,1
+3,0,2,2,1,50,3,2,67,Tim,6,3,50,23,0,4,Tim Frazier,8,2,Frazier,G,0,New Orleans,2
+3,0,1,3,2,67,13,10,77,Quinn,1,0,0,28,0,1,Quinn Cook,22,1,Cook,N/A,0,New Orleans,0
+2,1,1,2,1,50,7,3,43,Donatas,2,1,50,19,0,1,Donatas Motiejunas,8,1,Motiejunas,N/A,0,New Orleans,0
+2,0,1,5,1,20,16,8,50,Jordan,5,4,80,30,0,1,Jordan Crawford,21,1,Crawford,N/A,1,New Orleans,2
+0,0,7,0,0,0,6,3,50,Cheick,2,1,50,26,2,0,Cheick Diallo,7,9,Diallo,N/A,0,New Orleans,2
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Omer,N/A,N/A,N/A,N/A,N/A,N/A,Omer Asik,N/A,N/A,Asik,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DeMarcus,N/A,N/A,N/A,N/A,N/A,N/A,DeMarcus Cousins,N/A,N/A,Cousins,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Anthony,N/A,N/A,N/A,N/A,N/A,N/A,Anthony Davis,N/A,N/A,Davis,N/A,N/A,New Orleans,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun,N/A,N/A,N/A,N/A,N/A,N/A,E'Twaun Moore,N/A,N/A,Moore,N/A,N/A,New Orleans,N/A
+6,0,9,4,0,0,15,6,40,Kevin,4,4,100,31,1,3,Kevin Durant,16,10,Durant,F,0,Golden State,1
+3,2,6,6,3,50,8,4,50,Draymond,2,2,100,21,2,2,Draymond Green,13,8,Green,F,0,Golden State,1
+3,0,8,0,0,0,2,1,50,Zaza,0,0,0,22,1,3,Zaza Pachulia,2,9,Pachulia,C,0,Golden State,1
+2,1,2,9,3,33,16,5,31,Klay,7,7,100,27,1,0,Klay Thompson,20,3,Thompson,G,0,Golden State,0
+6,0,0,0,0,0,10,7,70,Shaun,0,0,0,24,1,1,Shaun Livingston,14,1,Livingston,G,0,Golden State,1
+5,0,5,4,1,25,10,7,70,Andre,0,0,0,21,0,0,Andre Iguodala,15,5,Iguodala,N/A,0,Golden State,0
+0,1,3,0,0,0,10,8,80,JaVale,1,0,0,16,4,1,JaVale McGee,16,7,McGee,N/A,0,Golden State,1
+2,0,0,3,0,0,4,0,0,Patrick,2,2,100,21,0,1,Patrick McCaw,2,0,McCaw,N/A,2,Golden State,2
+2,0,2,1,1,100,1,1,100,Matt,0,0,0,7,1,0,Matt Barnes,3,3,Barnes,N/A,0,Golden State,1
+4,0,2,4,1,25,13,8,62,Ian,0,0,0,28,1,2,Ian Clark,17,3,Clark,N/A,0,Golden State,1
+4,0,2,0,0,0,4,1,25,David,0,0,0,16,2,2,David West,2,4,West,N/A,0,Golden State,0
+0,0,0,2,1,50,3,1,33,James,0,0,0,6,0,0,James Michael McAdoo,3,0,Michael,N/A,0,Golden State,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Stephen,N/A,N/A,N/A,N/A,N/A,N/A,Stephen Curry,N/A,N/A,Curry,N/A,N/A,Golden State,N/A

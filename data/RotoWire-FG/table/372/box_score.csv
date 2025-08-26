@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+4,0,4,5,1,20,18,11,61,Gordon,6,4,67,37,0,1,Gordon Hayward,27,4,Hayward,F,3,Utah,5
+1,3,7,0,0,0,17,9,53,Derrick,6,4,67,37,4,2,Derrick Favors,22,11,Favors,F,0,Utah,4
+3,7,5,0,0,0,2,1,50,Rudy,2,2,100,38,2,2,Rudy Gobert,4,7,Gobert,C,3,Utah,3
+5,0,3,4,0,0,5,0,0,Joe,2,1,50,24,0,2,Joe Ingles,1,3,Ingles,G,0,Utah,0
+5,0,4,4,2,50,15,8,53,Trey,2,2,100,38,1,0,Trey Burke,20,5,Burke,G,2,Utah,2
+4,0,1,3,1,33,3,1,33,Dante,0,0,0,16,0,1,Dante Exum,3,1,Exum,N/A,1,Utah,2
+0,0,7,1,0,0,8,3,38,Trevor,4,2,50,21,2,2,Trevor Booker,8,9,Booker,N/A,1,Utah,1
+0,1,4,4,3,75,6,3,50,Elijah,0,0,0,30,0,4,Elijah Millsap,9,4,Millsap,N/A,2,Utah,3
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ian,N/A,N/A,N/A,N/A,N/A,N/A,Ian Clark,N/A,N/A,Clark,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Evans,N/A,N/A,Evans,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enes,N/A,N/A,N/A,N/A,N/A,N/A,Enes Kanter,N/A,N/A,Kanter,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Steve,N/A,N/A,N/A,N/A,N/A,N/A,Steve Novak,N/A,N/A,Novak,N/A,N/A,Utah,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Elliot,N/A,N/A,N/A,N/A,N/A,N/A,Elliot Williams,N/A,N/A,Williams,N/A,N/A,Utah,N/A
+6,1,4,7,2,29,21,14,67,Kevin,2,2,100,36,1,2,Kevin Durant,32,5,Durant,F,1,Oklahoma City,2
+0,1,6,3,2,67,14,5,36,Serge,0,0,0,32,1,3,Serge Ibaka,12,7,Ibaka,F,2,Oklahoma City,0
+0,1,2,0,0,0,3,1,33,Steven,0,0,0,22,2,2,Steven Adams,2,4,Adams,C,0,Oklahoma City,2
+1,0,1,1,0,0,4,1,25,Andre,0,0,0,14,1,1,Andre Roberson,2,2,Roberson,G,2,Oklahoma City,0
+12,0,3,1,1,100,17,9,53,Russell,6,6,100,38,1,3,Russell Westbrook,25,4,Westbrook,G,3,Oklahoma City,3
+1,1,6,0,0,0,4,2,50,Kendrick,0,0,0,25,1,2,Kendrick Perkins,4,7,Perkins,N/A,0,Oklahoma City,3
+1,0,1,4,1,25,14,7,50,Dion,1,0,0,27,2,2,Dion Waiters,15,3,Waiters,N/A,4,Oklahoma City,2
+2,0,1,3,0,0,6,1,17,Anthony,0,0,0,16,0,1,Anthony Morrow,2,1,Morrow,N/A,0,Oklahoma City,1
+2,1,2,1,0,0,2,0,0,Nick,0,0,0,14,0,2,Nick Collison,0,2,Collison,N/A,0,Oklahoma City,0
+0,0,3,1,1,100,6,2,33,Reggie,0,0,0,15,0,0,Reggie Jackson,5,3,Jackson,N/A,0,Oklahoma City,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Perry,N/A,N/A,N/A,N/A,N/A,N/A,Perry Jones III,N/A,N/A,Jones,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy,N/A,N/A,N/A,N/A,N/A,N/A,Jeremy Lamb,N/A,N/A,Lamb,N/A,N/A,Oklahoma City,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ish,N/A,N/A,N/A,N/A,N/A,N/A,Ish Smith,N/A,N/A,Smith,N/A,N/A,Oklahoma City,N/A

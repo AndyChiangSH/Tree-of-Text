@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,0,7,5,1,20,10,4,40,Bojan,4,3,75,31,0,2,Bojan Bogdanovic,12,7,Bogdanovic,F,0,Indiana,1
+4,0,3,5,2,40,16,7,44,Thaddeus,0,0,0,35,3,4,Thaddeus Young,16,6,Young,F,1,Indiana,2
+1,1,5,1,0,0,8,4,50,Myles,0,0,0,26,1,4,Myles Turner,8,6,Turner,C,2,Indiana,0
+2,1,2,5,3,60,21,8,38,Victor,4,2,50,38,1,5,Victor Oladipo,21,3,Oladipo,G,1,Indiana,6
+3,0,2,3,0,0,10,3,30,Darren,1,1,100,29,0,2,Darren Collison,7,2,Collison,G,1,Indiana,0
+2,0,5,0,0,0,10,7,70,Al,5,5,100,22,1,4,Al Jefferson,19,6,Jefferson,N/A,1,Indiana,1
+4,0,3,1,0,0,4,1,25,Lance,2,1,50,23,1,0,Lance Stephenson,3,4,Stephenson,N/A,2,Indiana,2
+6,1,3,3,1,33,8,4,50,Cory,2,2,100,29,0,3,Cory Joseph,11,3,Joseph,N/A,0,Indiana,2
+0,0,1,1,0,0,1,0,0,TJ,0,0,0,7,0,0,TJ Leaf,0,1,Leaf,N/A,0,Indiana,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ike,N/A,N/A,N/A,N/A,N/A,N/A,Ike Anigbogu,N/A,N/A,Anigbogu,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Alex,N/A,N/A,N/A,N/A,N/A,N/A,Alex Poythress,N/A,N/A,Poythress,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Damien,N/A,N/A,N/A,N/A,N/A,N/A,Damien Wilkins,N/A,N/A,Wilkins,N/A,N/A,Indiana,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Joe,N/A,N/A,N/A,N/A,N/A,N/A,Joe Young,N/A,N/A,Young,N/A,N/A,Indiana,N/A
+3,0,1,4,1,25,7,3,43,Reggie,0,0,0,33,0,0,Reggie Bullock,7,1,Bullock,F,1,Detroit,0
+1,0,8,9,5,56,19,8,42,Tobias,2,2,100,34,0,4,Tobias Harris,23,8,Harris,F,1,Detroit,1
+4,1,17,0,0,0,9,7,78,Andre,7,0,0,34,4,4,Andre Drummond,14,21,Drummond,C,0,Detroit,4
+0,1,3,5,2,40,11,4,36,Avery,4,4,100,29,0,4,Avery Bradley,14,3,Bradley,G,1,Detroit,4
+6,0,3,3,2,67,10,6,60,Reggie,5,4,80,27,0,1,Reggie Jackson,18,3,Jackson,G,0,Detroit,3
+0,0,0,0,0,0,3,1,33,Luke,0,0,0,12,0,1,Luke Kennard,2,0,Kennard,N/A,0,Detroit,0
+1,1,1,0,0,0,2,1,50,Eric,0,0,0,6,1,1,Eric Moreland,2,2,Moreland,N/A,0,Detroit,0
+5,1,2,2,0,0,10,5,50,Ish,0,0,0,21,1,0,Ish Smith,10,3,Smith,N/A,0,Detroit,1
+1,1,2,0,0,0,4,3,75,Boban,3,3,100,9,2,3,Boban Marjanovic,9,4,Marjanovic,N/A,0,Detroit,2
+0,0,3,1,1,100,5,4,80,Langston,4,3,75,22,0,2,Langston Galloway,12,3,Galloway,N/A,0,Detroit,0
+4,0,2,3,1,33,3,1,33,Anthony,0,0,0,14,0,2,Anthony Tolliver,3,2,Tolliver,N/A,0,Detroit,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Henry,N/A,N/A,N/A,N/A,N/A,N/A,Henry Ellenson,N/A,N/A,Ellenson,N/A,N/A,Detroit,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luis,N/A,N/A,N/A,N/A,N/A,N/A,Luis Montero,N/A,N/A,Montero,N/A,N/A,Detroit,N/A

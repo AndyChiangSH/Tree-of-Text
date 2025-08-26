@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+8,0,0,7,4,57,17,9,53,Cedi,2,0,0,35,3,4,Cedi Osman,22,3,Osman,F,1,Cleveland,3
+7,0,17,7,3,43,19,6,32,Kevin,10,10,100,39,2,4,Kevin Love,25,19,Love,F,0,Cleveland,3
+2,1,6,0,0,0,9,7,78,Tristan,0,0,0,36,4,4,Tristan Thompson,14,10,Thompson,C,0,Cleveland,1
+2,0,1,2,0,0,10,3,30,Rodney,4,4,100,29,0,3,Rodney Hood,10,1,Hood,G,1,Cleveland,1
+2,0,0,2,0,0,7,3,43,George,2,1,50,25,1,3,George Hill,7,1,Hill,G,0,Cleveland,1
+1,0,2,0,0,0,9,6,67,Collin,2,2,100,23,0,1,Collin Sexton,14,2,Sexton,N/A,0,Cleveland,0
+0,0,0,1,0,0,1,0,0,JR,0,0,0,4,0,0,JR Smith,0,0,Smith,N/A,0,Cleveland,1
+0,0,1,0,0,0,1,0,0,Kyle,0,0,0,5,0,0,Kyle Korver,0,1,Korver,N/A,0,Cleveland,0
+1,1,3,2,0,0,14,8,57,Jordan,3,3,100,24,1,1,Jordan Clarkson,19,4,Clarkson,N/A,1,Cleveland,3
+2,0,0,0,0,0,3,2,67,Ante,4,3,75,11,1,1,Ante Zizic,7,1,Zizic,N/A,1,Cleveland,0
+1,0,0,2,1,50,3,1,33,Sam,2,2,100,9,1,3,Sam Dekker,5,1,Dekker,N/A,1,Cleveland,1
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Channing,N/A,N/A,N/A,N/A,N/A,N/A,Channing Frye,N/A,N/A,Frye,N/A,N/A,Cleveland,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,David,N/A,N/A,N/A,N/A,N/A,N/A,David Nwaba,N/A,N/A,Nwaba,N/A,N/A,Cleveland,N/A
+2,0,1,5,1,20,21,8,38,Andrew,5,5,100,37,2,2,Andrew Wiggins,22,3,Wiggins,F,3,Minnesota,1
+2,0,5,1,0,0,10,5,50,Taj,4,3,75,28,3,4,Taj Gibson,13,8,Gibson,F,0,Minnesota,2
+2,4,8,2,2,100,10,4,40,Karl-Anthony,2,2,100,35,1,4,Karl-Anthony Towns,12,9,Towns,C,0,Minnesota,4
+3,2,5,1,1,100,12,10,83,Jimmy,12,12,100,36,2,0,Jimmy Butler,33,7,Butler,G,4,Minnesota,2
+7,0,3,2,0,0,9,3,33,Jeff,3,3,100,31,0,2,Jeff Teague,9,3,Teague,G,0,Minnesota,1
+8,0,3,1,0,0,6,3,50,Derrick,6,6,100,23,1,2,Derrick Rose,12,4,Rose,N/A,0,Minnesota,0
+0,0,2,7,3,43,7,3,43,Anthony,3,2,67,20,0,2,Anthony Tolliver,11,2,Tolliver,N/A,2,Minnesota,1
+1,1,4,2,1,50,6,5,83,Gorgui,0,0,0,13,0,5,Gorgui Dieng,11,4,Dieng,N/A,0,Minnesota,2
+3,0,0,4,2,50,6,3,50,Tyus,0,0,0,17,0,0,Tyus Jones,8,0,Jones,N/A,0,Minnesota,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Keita,N/A,N/A,N/A,N/A,N/A,N/A,Keita Bates-Diop,N/A,N/A,Bates-Diop,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Luol,N/A,N/A,N/A,N/A,N/A,N/A,Luol Deng,N/A,N/A,Deng,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,James,N/A,N/A,N/A,N/A,N/A,N/A,James Nunnally,N/A,N/A,Nunnally,N/A,N/A,Minnesota,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Josh,N/A,N/A,N/A,N/A,N/A,N/A,Josh Okogie,N/A,N/A,Okogie,N/A,N/A,Minnesota,N/A

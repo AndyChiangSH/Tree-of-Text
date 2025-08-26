@@ -1,0 +1,27 @@
+AST,BLK,DREB,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FIRST_NAME,FTA,FTM,FT_PCT,MIN,OREB,PF,PLAYER_NAME,PTS,REB,SECOND_NAME,START_POSITION,STL,TEAM_CITY,TO
+0,2,2,3,1,33,7,4,57,Luol,0,0,0,19,0,0,Luol Deng,9,2,Deng,F,0,Los Angeles,0
+4,0,6,0,0,0,4,4,100,Julius,2,1,50,23,0,3,Julius Randle,9,6,Randle,F,1,Los Angeles,3
+1,0,5,0,0,0,5,1,20,Timofey,2,2,100,20,3,3,Timofey Mozgov,4,8,Mozgov,C,0,Los Angeles,2
+1,0,2,5,1,20,9,3,33,Nick,2,2,100,27,0,0,Nick Young,9,2,Young,G,0,Los Angeles,0
+0,0,1,3,0,0,12,2,17,Brandon,3,2,67,36,0,5,Brandon Ingram,6,1,Ingram,G,1,Los Angeles,3
+2,0,2,2,0,0,4,1,25,Jose,0,0,0,18,0,0,Jose Calderon,2,2,Calderon,N/A,0,Los Angeles,0
+0,0,0,0,0,0,2,0,0,Tarik,0,0,0,10,0,2,Tarik Black,0,0,Black,N/A,0,Los Angeles,0
+0,0,3,2,0,0,13,5,39,Jordan,0,0,0,25,0,0,Jordan Clarkson,10,3,Clarkson,N/A,0,Los Angeles,2
+1,1,3,0,0,0,2,1,50,Ivica,0,0,0,19,1,1,Ivica Zubac,2,4,Zubac,N/A,0,Los Angeles,1
+1,0,0,6,1,17,11,4,36,Lou,6,6,100,20,0,2,Lou Williams,15,0,Williams,N/A,1,Los Angeles,2
+0,1,0,0,0,0,2,2,100,Larry,0,0,0,10,1,2,Larry Nance Jr.,4,1,Nance,N/A,0,Los Angeles,1
+0,0,2,0,0,0,1,0,0,Marcelo,2,1,50,8,0,0,Marcelo Huertas,1,2,Huertas,N/A,0,Los Angeles,1
+1,0,1,0,0,0,1,1,100,Thomas,0,0,0,6,0,2,Thomas Robinson,2,1,Robinson,N/A,0,Los Angeles,2
+2,0,1,5,3,60,9,5,56,Wesley,0,0,0,14,1,0,Wesley Matthews,13,2,Matthews,F,1,Dallas,1
+2,0,3,2,0,0,12,3,25,Harrison,0,0,0,27,2,0,Harrison Barnes,6,5,Barnes,F,0,Dallas,1
+1,1,4,3,1,33,11,5,46,Dirk,2,2,100,20,1,2,Dirk Nowitzki,13,5,Nowitzki,C,1,Dallas,1
+3,0,1,4,2,50,8,6,75,Seth,0,0,0,27,1,1,Seth Curry,14,2,Curry,G,1,Dallas,1
+8,0,5,3,1,33,9,6,67,Deron,0,0,0,26,0,1,Deron Williams,13,5,Williams,G,0,Dallas,0
+0,2,4,0,0,0,1,0,0,Salah,2,2,100,15,1,3,Salah Mejri,2,5,Mejri,N/A,0,Dallas,2
+1,0,2,4,2,50,5,3,60,Devin,2,2,100,12,0,1,Devin Harris,10,2,Harris,N/A,0,Dallas,0
+0,0,4,4,1,25,4,1,25,Dorian,4,4,100,34,3,1,Dorian Finney-Smith,7,7,Finney-Smith,N/A,1,Dallas,1
+5,0,2,3,1,33,9,4,44,Pierre,1,1,100,18,0,1,Pierre Jackson,10,2,Jackson,N/A,1,Dallas,0
+3,1,4,2,1,50,4,2,50,Dwight,2,2,100,19,3,4,Dwight Powell,7,7,Powell,N/A,3,Dallas,0
+2,0,4,6,3,50,11,5,46,Justin,6,6,100,16,1,1,Justin Anderson,19,5,Anderson,N/A,1,Dallas,3
+0,0,2,3,2,67,4,3,75,Nicolas,0,0,0,12,0,0,Nicolas Brussino,8,2,Brussino,N/A,0,Dallas,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,J.J.,N/A,N/A,N/A,N/A,N/A,N/A,J.J. Barea,N/A,N/A,Barea,N/A,N/A,Dallas,N/A
