@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tree-of-Text Demo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="hero-badge">ACL 2024 · Sports NLG</div>
+    <h1 class="hero-title">Tree-of-Text</h1>
+    <p class="hero-subtitle">A Tree-based Prompting Framework for<br>Table-to-Text Generation in the Sports Domain</p>
+    <nav class="toc">
+      <a href="#tables-section">① Input Tables</a>
+      <a href="#config-section">② Config</a>
+      <a href="#tree-section">③ Operation Tree</a>
+      <a href="#merge-section">④ Text Merge</a>
+      <a href="#compare-section">⑤ Comparison</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- SECTION 1: INPUT TABLES -->
+    <section id="tables-section" class="section">
+      <div class="section-header">
+        <span class="section-num">01</span>
+        <div>
+          <h2 class="section-title">Input Tables</h2>
+          <p class="section-desc">ShuttleSet+ dataset · YONEX All England Open 2022 Semi-finals</p>
+        </div>
+      </div>
+
+      <div class="tab-nav" id="tableTabs">
+        <button class="tab-btn active" data-tab="match">match.csv</button>
+        <button class="tab-btn" data-tab="set1">set_1.csv</button>
+        <button class="tab-btn" data-tab="set2">set_2.csv</button>
+      </div>
+
+      <div class="table-container" id="tableContainer">
+        <!-- Rendered by JS -->
+      </div>
+    </section>
+
+    <!-- SECTION 2: CONFIG -->
+    <section id="config-section" class="section">
+      <div class="section-header">
+        <span class="section-num">02</span>
+        <div>
+          <h2 class="section-title">Configuration</h2>
+          <p class="section-desc">Framework hyperparameters & model settings</p>
+        </div>
+      </div>
+      <div class="config-grid" id="configGrid">
+        <!-- Rendered by JS -->
+      </div>
+    </section>
+
+    <!-- SECTION 3: OPERATION TREE -->
+    <section id="tree-section" class="section">
+      <div class="section-header">
+        <span class="section-num">03</span>
+        <div>
+          <h2 class="section-title">Operation Tree</h2>
+          <p class="section-desc">Click nodes to expand/collapse · Filter by operation type</p>
+        </div>
+      </div>
+
+      <div class="tree-controls">
+        <span class="filter-label">Filter operations:</span>
+        <div class="filter-chips" id="filterChips">
+          <!-- Rendered by JS -->
+        </div>
+        <button class="ctrl-btn" id="expandAll">Expand All</button>
+        <button class="ctrl-btn" id="collapseAll">Collapse All</button>
+      </div>
+
+      <div class="tree-scroll">
+        <div class="tree-wrapper" id="treeWrapper">
+          <!-- Rendered by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 4: TEXT MERGE TREE -->
+    <section id="merge-section" class="section">
+      <div class="section-header">
+        <span class="section-num">04</span>
+        <div>
+          <h2 class="section-title">Text Merge Tree</h2>
+          <p class="section-desc">Bottom-up aggregation of leaf reports into the final output</p>
+        </div>
+      </div>
+      <div class="merge-wrapper" id="mergeWrapper">
+        <!-- Rendered by JS -->
+      </div>
+    </section>
+
+    <!-- SECTION 5: COMPARISON -->
+    <section id="compare-section" class="section">
+      <div class="section-header">
+        <span class="section-num">05</span>
+        <div>
+          <h2 class="section-title">Text Comparison</h2>
+          <p class="section-desc">Human-written article vs. Tree-of-Text generated report</p>
+        </div>
+      </div>
+      <div class="compare-grid">
+        <div class="compare-card">
+          <div class="compare-label reference">Reference Article <span class="source-tag">text.txt</span></div>
+          <div class="compare-body" id="referenceText"></div>
+        </div>
+        <div class="compare-card">
+          <div class="compare-label generated">Generated Report <span class="source-tag">report.txt</span></div>
+          <div class="compare-body" id="generatedText"></div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Tree-of-Text · Table-to-Text Generation Demo · ShuttleSet+ Dataset</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
