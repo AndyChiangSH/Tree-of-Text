@@ -78,14 +78,16 @@
       </div>
 
       <!-- Node Detail Panel -->
-      <div class="detail-panel" id="detailPanel">
-        <div class="detail-header">
-          <span class="detail-op-badge" id="detailOpBadge"></span>
-          <span class="detail-title" id="detailTitle"></span>
-          <button class="detail-close" id="detailClose">✕</button>
+      <!-- <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-container" id="detailPanel">
+          <div class="detail-header">
+            <div id="detailTitle"></div>
+            <button class="detail-close" id="detailClose">✕</button>
+          </div>
+          <div class="detail-body" id="detailBody">
+          </div>
         </div>
-        <div class="detail-body" id="detailBody"></div>
-      </div>
+      </div> -->
     </section>
 
     <!-- SECTION 4: COMPARISON -->
@@ -93,8 +95,8 @@
       <div class="section-header">
         <span class="section-num">04</span>
         <div>
-          <h2 class="section-title">Output Text</h2>
-          <p class="section-desc">Matching content between reference and generated text is highlighted in green</p>
+          <h2 class="section-title">Output Texts</h2>
+          <p class="section-desc">Reference Text vs. Generated Text</p>
         </div>
       </div>
       <div class="compare-grid">
@@ -112,8 +114,18 @@
   </main>
 
   <footer class="site-footer">
-    <p>Tree-of-Text · Table-to-Text Generation Demo · ShuttleSet+ Dataset</p>
+    <p>Tree-of-Text · ShuttleSet+ Dataset</p>
   </footer>
+
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-container" id="detailPanel">
+      <div class="detail-header">
+        <div id="detailTitle"></div>
+        <button class="detail-close" id="detailClose">✕</button>
+      </div>
+      <div class="detail-body" id="detailBody"></div>
+    </div>
+  </div>
 
   <script src="script.js"></script>
 </body>

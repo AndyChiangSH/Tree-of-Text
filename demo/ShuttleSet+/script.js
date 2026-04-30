@@ -1,27 +1,27 @@
 /* ================================================================
-   Tree-of-Text Demo — script.js
-   All data loaded dynamically from user-specified file paths.
+   Tree-of-Text Demo — Full Integrated Script
    ================================================================ */
 
-/* ===== OPERATION COLORS ===== */
+/* ===== 1. 全域變數與配置 ===== */
 const OP_COLORS = {
-  root:         '#6366f1',
+  root: '#6366f1',
   select_table: '#06b6d4',
-  select_row:   '#10b981',
-  select_col:   '#3b82f6',
-  count:        '#f59e0b',
-  sort:         '#ec4899',
-  filter:       '#8b5cf6',
-  write:        '#ef4444',
+  select_row: '#10b981',
+  select_col: '#3b82f6',
+  count: '#f59e0b',
+  sort: '#ec4899',
+  filter: '#b000e0ff',
+  write: '#ef4444',
 };
 
-/* ===== TREE LAYOUT CONSTANTS ===== */
-const NODE_W    = 200;
-const NODE_H    = 42;
-const GAP_X     = 64;   // horizontal spacing between levels
-const GAP_Y     = 24;   // vertical spacing between sibling nodes
+const NODE_W = 200, NODE_H = 42, GAP_X = 64, GAP_Y = 24, PAD = 20;
 
-/* ===== HELPERS ===== */
+let csvData = {}, logData = {}, refText = '', genText = {}, configData = {};
+let nodeRegistry = {};
+let activeFilters = new Set(Object.keys(OP_COLORS));
+
+/* ===== 2. 輔助工具 (Helpers) ===== */
+
 function opFromHistory(op_hist) {
   if (!op_hist || !op_hist.length) return 'root';
   const last = op_hist[op_hist.length - 1];
@@ -29,8 +29,14 @@ function opFromHistory(op_hist) {
   return m ? m[1] : 'root';
 }
 
-function colorForOp(op) {
-  return OP_COLORS[op] || '#888';
+function colorForOp(op) { return OP_COLORS[op] || '#888'; }
+
+function createBadgeHTML(opString, customStyle = "") {
+  if (!opString) return '';
+  const opType = opString.match(/^([a-z_]+)/)?.[1] || 'root';
+  const color = colorForOp(opType);
+  const defaultStyle = `background:${color}; color:white; padding:2px 8px; border-radius:4px; font-size:11px; margin-right:4px; display:inline-block; font-family:var(--font-mono);`;
+  return `<span class="op-badge" style="${defaultStyle} ${customStyle}">${opString}</span>`;
 }
 
 function parseCSV(text) {
@@ -41,9 +47,9 @@ function parseCSV(text) {
     const vals = [];
     let cur = '', inQ = false;
     for (let i = 0; i < line.length; i++) {
-      if (line[i] === '"') { inQ = !inQ; }
+      if (line[i] === '"') inQ = !inQ;
       else if (line[i] === ',' && !inQ) { vals.push(cur); cur = ''; }
-      else { cur += line[i]; }
+      else cur += line[i];
     }
     vals.push(cur);
     return vals;
@@ -52,530 +58,268 @@ function parseCSV(text) {
 }
 
 function renderCSVTable(csvText) {
-  if (!csvText) return '<em style="color:var(--muted)">No data</em>';
+  if (!csvText) return '<em style="color:var(--muted)">No data available</em>';
   const { headers, rows } = parseCSV(csvText);
-  const numericCols = new Set(['id','rally','ball_round','year','month','day','set','duration',
-    'winner_score','loser_score','set_1_winner_score','set_1_loser_score',
-    'set_2_winner_score','set_2_loser_score','set_3_winner_score','set_3_loser_score','count']);
   let html = '<table class="data-table"><thead><tr>';
-  headers.forEach(h => { html += `<th>${h}</th>`; });
+  headers.forEach(h => html += `<th>${h}</th>`);
   html += '</tr></thead><tbody>';
   rows.forEach(row => {
     html += '<tr>';
-    headers.forEach((h, i) => {
-      const val = (row[i] || '').trim();
-      let cls = numericCols.has(h) ? 'num' : '';
-      if (h === 'winner' || h === 'getpoint_player') {
-        cls = val.includes('YAMAGUCHI') ? 'player-winner' : 'player-loser';
-      }
-      html += `<td class="${cls}">${val || '—'}</td>`;
+    row.forEach(val => {
+      const cleanVal = (val || '').trim();
+      const isNum = !isNaN(cleanVal) && cleanVal !== '';
+      html += `<td class="${isNum ? 'num' : ''}">${cleanVal || '—'}</td>`;
     });
     html += '</tr>';
   });
   return html + '</tbody></table>';
 }
 
-/* ===== FETCH HELPERS ===== */
-async function fetchText(path) {
-  const r = await fetch(path);
-  if (!r.ok) throw new Error(`Failed to load ${path} (${r.status})`);
-  return r.text();
-}
-async function fetchJSON(path) {
-  const r = await fetch(path);
-  if (!r.ok) throw new Error(`Failed to load ${path} (${r.status})`);
-  return r.json();
-}
-
-/* ===== GLOBAL STATE ===== */
-let csvData = {};
-let configData = {};
-let logData = {};
-let refText = '';
-let genText = '';
-let activeFilters = new Set(Object.keys(OP_COLORS));
-let selectedNodeId = null;
-
-/* ================================================================
-   LOAD FILES
-   ================================================================ */
+/* ===== 3. 資料載入 (Data Loading) ===== */
 async function loadAll() {
-  // const status = document.getElementById('loadStatus');
-  // const btn    = document.getElementById('loadBtn');
-  // status.className = '';
-  // status.textContent = 'Loading…';
-  // btn.disabled = true;
-
-  const paths = {
-    config: "config/config.json",
-    log:    "log/log.json",
-    match:  "table/match.csv",
-    set1:   "table/set_1.csv",
-    set2:   "table/set_2.csv",
-    text:   "text/text.txt",
-    report: "report/report.txt",
-  };
-
   try {
     const [log, match, set1, set2, config, text, report] = await Promise.all([
-      fetchJSON(paths.log),
-      fetchText(paths.match),
-      fetchText(paths.set1),
-      fetchText(paths.set2),
-      fetchJSON(paths.config),
-      fetchText(paths.text),
-      fetchText(paths.report),
+      fetch("log/log.json").then(r => r.json()),
+      fetch("table/match.csv").then(r => r.text()),
+      fetch("table/set_1.csv").then(r => r.text()),
+      fetch("table/set_2.csv").then(r => r.text()),
+      fetch("config/config.json").then(r => r.json()),
+      fetch("text/text.txt").then(r => r.text()),
+      fetch("report/report.txt").then(r => r.text())
     ]);
 
-    logData    = log;
-    csvData    = { match, set1, set2 };
+    logData = log;
+    csvData = { match, set1, set2 };
     configData = config;
-    refText    = text;
-    genText    = report;
+    refText = text;
+    genText = report;
 
-    // status.className = 'ok';
-    // status.textContent = '✓ All files loaded successfully';
-
-    document.getElementById('mainContent').style.display = '';
-    renderAll();
-  } catch (err) {
-    // status.className = 'err';
-    // status.textContent = '✗ ' + err.message;
-    console.error(err);
-  } finally {
-    btn.disabled = false;
-  }
+    document.getElementById('mainContent').style.display = 'block';
+    renderConfig();
+    initTables();
+    initTree();
+    initComparison();
+  } catch (err) { console.error("Initialization Error:", err); }
 }
 
-function renderAll() {
-  renderConfig();
-  initTables();
-  initTree();
-  initComparison();
-}
-
-/* ================================================================
-   CONFIG
-   ================================================================ */
 function renderConfig() {
   const grid = document.getElementById('configGrid');
-  grid.innerHTML = Object.entries(configData).map(([k, v]) => {
-    const isArr = Array.isArray(v);
-    const display = isArr ? v.join(', ') : String(v);
-    return `<div class="config-item">
+  grid.innerHTML = Object.entries(configData).map(([k, v]) => `
+    <div class="config-item">
       <div class="config-key">${k}</div>
-      <div class="config-value">${display}</div>
-    </div>`;
-  }).join('');
+      <div class="config-value">${Array.isArray(v) ? v.join(', ') : v}</div>
+    </div>`).join('');
 }
 
-/* ================================================================
-   TABLES
-   ================================================================ */
 function initTables() {
   const container = document.getElementById('tableContainer');
   const tabs = document.querySelectorAll('.tab-btn');
-
-  function showTab(key) {
+  const showTab = (key) => {
     container.innerHTML = renderCSVTable(csvData[key]);
     tabs.forEach(t => t.classList.toggle('active', t.dataset.tab === key));
-  }
-
-  tabs.forEach(t => {
-    // Remove old listeners by cloning
-    const clone = t.cloneNode(true);
-    t.parentNode.replaceChild(clone, t);
-  });
-
-  document.querySelectorAll('.tab-btn').forEach(t =>
-    t.addEventListener('click', () => showTab(t.dataset.tab))
-  );
-
+  };
+  tabs.forEach(t => t.onclick = () => showTab(t.dataset.tab));
   showTab('match');
 }
 
-/* ================================================================
-   TREE — layout engine
-   ================================================================ */
-
-/* Assign a unique id to every node and collect them */
-let nodeRegistry = {};  // id -> node data
-
-function assignIds(node, parent, indexAmongSiblings) {
-  const id = node._id || (node._id = Math.random().toString(36).slice(2));
-  node._id = id;
-  nodeRegistry[id] = node;
-  (node.children || []).forEach((c, i) => assignIds(c, node, i));
+/* ===== 4. 樹狀圖引擎 (Tree Engine) ===== */
+function assignIds(node) {
+  node._id = Math.random().toString(36).slice(2);
+  nodeRegistry[node._id] = node;
+  if (node.children) node.children.forEach(assignIds);
 }
 
-/* Compute subtree height (number of leaf slots) */
 function subtreeLeafCount(node) {
-  if (!node.children || node.children.length === 0) return 1;
+  if (!node.children || !node.children.length) return 1;
   return node.children.reduce((s, c) => s + subtreeLeafCount(c), 0);
 }
 
-/* Lay out tree: assign (col, row) — col = depth, row = vertical position in leaf slots */
 function layoutTree(node, depth, rowStart) {
   node._col = depth;
   const leaves = subtreeLeafCount(node);
-  node._row = rowStart + (leaves - 1) / 2;   // centre of subtree
-
-  if (node.children && node.children.length > 0) {
-    let cursor = rowStart;
-    node.children.forEach(c => {
-      const cl = subtreeLeafCount(c);
-      layoutTree(c, depth + 1, cursor);
-      cursor += cl;
-    });
-  }
+  node._row = rowStart + (leaves - 1) / 2;
+  let cursor = rowStart;
+  (node.children || []).forEach(c => {
+    layoutTree(c, depth + 1, cursor);
+    cursor += subtreeLeafCount(c);
+  });
 }
 
-/* Convert (col, row) → pixel (cx, cy) — cx = centre of node */
-function nodePos(node) {
-  const cx = node._col * (NODE_W + GAP_X) + NODE_W / 2;
-  const cy = node._row * (NODE_H + GAP_Y) + NODE_H / 2;
-  return { cx, cy, x: cx - NODE_W / 2, y: cy - NODE_H / 2 };
-}
-
-/* Count max col and total leaf rows to determine canvas size */
-function treeExtent(node, maxCol = { v: 0 }, totalLeaves = { v: 0 }) {
-  if (node._col > maxCol.v) maxCol.v = node._col;
-  if (!node.children || !node.children.length) totalLeaves.v += 1;
-  (node.children || []).forEach(c => treeExtent(c, maxCol, totalLeaves));
-  return { maxCol: maxCol.v, totalLeaves: totalLeaves.v };
-}
-
-/* Walk tree and collect all nodes flat */
-function flatNodes(node, acc = []) {
-  acc.push(node);
-  (node.children || []).forEach(c => flatNodes(c, acc));
-  return acc;
-}
-
-/* ================================================================
-   TREE — RENDER
-   ================================================================ */
 function initTree() {
   nodeRegistry = {};
-
-  // Clone tree to avoid mutating logData
   const tree = JSON.parse(JSON.stringify(logData));
-  assignIds(tree, null, 0);
+  assignIds(tree);
   layoutTree(tree, 0, 0);
 
-  const { maxCol, totalLeaves } = treeExtent(tree);
-  const canvasW = (maxCol + 1) * (NODE_W + GAP_X) - GAP_X + 40;
-  const canvasH = totalLeaves * (NODE_H + GAP_Y) - GAP_Y + 40;
-
-  const canvas  = document.getElementById('treeCanvas');
-  const svg     = document.getElementById('treeSvg');
+  const canvas = document.getElementById('treeCanvas');
   const nodesEl = document.getElementById('treeNodes');
+  const svg = document.getElementById('treeSvg');
 
-  canvas.style.width  = canvasW + 'px';
+  const flat = (n, acc = []) => { acc.push(n); (n.children || []).forEach(c => flat(c, acc)); return acc; };
+  const allNodes = flat(tree);
+  const maxCol = Math.max(...allNodes.map(n => n._col));
+  const totalLeaves = subtreeLeafCount(tree);
+
+  const canvasW = (maxCol + 1) * (NODE_W + GAP_X) + PAD * 2;
+  const canvasH = totalLeaves * (NODE_H + GAP_Y) + PAD * 2;
+
+  canvas.style.width = canvasW + 'px';
   canvas.style.height = canvasH + 'px';
-  svg.setAttribute('width',  canvasW);
+  svg.setAttribute('width', canvasW);
   svg.setAttribute('height', canvasH);
-  svg.innerHTML = '';
+
   nodesEl.innerHTML = '';
+  svg.innerHTML = '';
 
-  const allNodes = flatNodes(tree);
-
-  // Offset so nodes start with padding
-  const PAD = 20;
-
-  // Draw edges first (SVG)
-  allNodes.forEach(node => {
-    if (!node.children || !node.children.length) return;
-    const { cx: px, cy: py } = nodePos(node);
-    node.children.forEach(child => {
-      const { cx: cx2, cy: cy2 } = nodePos(child);
-      // Elbow connector: right edge of parent → left edge of child
-      const x1 = px + NODE_W / 2 + PAD;
-      const y1 = py + PAD;
-      const x2 = cx2 - NODE_W / 2 + PAD;
-      const y2 = cy2 + PAD;
-      const mx = (x1 + x2) / 2;
-
-      const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-      path.setAttribute('d', `M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}`);
-      path.setAttribute('fill', 'none');
-      path.setAttribute('stroke', '#2e3440');
-      path.setAttribute('stroke-width', '1.5');
-      path.dataset.parentId = node._id;
-      path.dataset.childId  = child._id;
-      svg.appendChild(path);
-    });
-  });
-
-  // Draw nodes (DOM)
   allNodes.forEach(node => {
     const op = opFromHistory(node.operation_history);
-    const color = colorForOp(op);
-    const { x, y } = nodePos(node);
+    const x = node._col * (NODE_W + GAP_X) + PAD;
+    const y = node._row * (NODE_H + GAP_Y) + PAD;
 
     const el = document.createElement('div');
     el.className = 't-node';
     el.dataset.id = node._id;
     el.dataset.op = op;
-    el.style.left = (x + PAD) + 'px';
-    el.style.top  = (y + PAD) + 'px';
-    el.style.background = color;
-    el.style.boxShadow  = `0 2px 10px ${color}55`;
+    el.style.left = x + 'px'; el.style.top = y + 'px';
+    el.style.background = colorForOp(op);
 
-    // Label = last item in operation_history
-    const hist = node.operation_history || [];
-    const label = hist.length ? hist[hist.length - 1] : 'root()';
-    el.title = label;
-
-    // Truncate for display
-    const shortLabel = label.length > 28 ? label.slice(0, 26) + '…' : label;
-    el.textContent = shortLabel;
-
-    el.addEventListener('click', () => showNodeDetail(node._id, tree));
+    const label = (node.operation_history || ['root()']).at(-1);
+    el.textContent = label.length > 25 ? label.slice(0, 23) + '...' : label;
+    el.onclick = () => showNodeDetail(node._id);
     nodesEl.appendChild(el);
+
+    (node.children || []).forEach(child => {
+      const cx = (child._col * (NODE_W + GAP_X)) + PAD;
+      const cy = (child._row * (NODE_H + GAP_Y)) + PAD + NODE_H / 2;
+      const x1 = x + NODE_W, y1 = y + NODE_H / 2;
+      const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      path.setAttribute('d', `M${x1},${y1} C${(x1 + cx) / 2},${y1} ${(x1 + cx) / 2},${cy} ${cx},${cy}`);
+      path.setAttribute('stroke', '#2e3440');
+      path.setAttribute('fill', 'none');
+      path.dataset.parentId = node._id;
+      path.dataset.childId = child._id;
+      svg.appendChild(path);
+    });
   });
 
-  // Filter chips
-  buildFilterChips(allNodes);
+  buildFilterChips();
   applyFilter();
 }
 
-function buildFilterChips(allNodes) {
+function buildFilterChips() {
   const chipsEl = document.getElementById('filterChips');
+  if (!chipsEl) return;
   chipsEl.innerHTML = '';
-  const opsPresent = [...new Set(allNodes.map(n => opFromHistory(n.operation_history)))];
-  // Always show all op types
   Object.entries(OP_COLORS).forEach(([op, color]) => {
     const chip = document.createElement('div');
-    chip.className = 'chip' + (activeFilters.has(op) ? ' active' : '');
-    chip.dataset.op = op;
-    chip.textContent = op;
+    chip.className = `chip ${activeFilters.has(op) ? 'active' : ''}`;
     chip.style.background = color;
-    chip.style.borderColor = color;
-    chip.addEventListener('click', () => {
+    chip.textContent = op;
+    chip.onclick = () => {
       if (activeFilters.has(op)) activeFilters.delete(op);
       else activeFilters.add(op);
-      chip.classList.toggle('active', activeFilters.has(op));
+      chip.classList.toggle('active');
       applyFilter();
-    });
+    };
     chipsEl.appendChild(chip);
   });
 }
 
 function applyFilter() {
   document.querySelectorAll('.t-node').forEach(el => {
-    const op = el.dataset.op;
-    el.classList.toggle('dimmed', !activeFilters.has(op));
+    el.classList.toggle('dimmed', !activeFilters.has(el.dataset.op));
   });
-
-  // Also dim edges whose parent or child node is dimmed
   document.querySelectorAll('#treeSvg path').forEach(path => {
-    const pEl = document.querySelector(`.t-node[data-id="${path.dataset.parentId}"]`);
-    const cEl = document.querySelector(`.t-node[data-id="${path.dataset.childId}"]`);
-    const dimmed = (pEl && pEl.classList.contains('dimmed')) ||
-                   (cEl && cEl.classList.contains('dimmed'));
-    path.style.opacity = dimmed ? '0.1' : '1';
+    const pNode = document.querySelector(`.t-node[data-id="${path.dataset.parentId}"]`);
+    const cNode = document.querySelector(`.t-node[data-id="${path.dataset.childId}"]`);
+    const isDimmed = pNode?.classList.contains('dimmed') || cNode?.classList.contains('dimmed');
+    path.style.opacity = isDimmed ? '0.1' : '1';
   });
 }
 
-/* ================================================================
-   NODE DETAIL PANEL
-   ================================================================ */
-function showNodeDetail(id, tree) {
+/* ===== 5. 節點詳情 (Node Detail Modal) ===== */
+function showNodeDetail(id) {
   const node = nodeRegistry[id];
-  if (!node) return;
-
-  const op    = opFromHistory(node.operation_history);
-  const color = colorForOp(op);
-  const hist  = node.operation_history || [];
-  const label = hist.length ? hist[hist.length - 1] : 'root()';
-
-  // Highlight selected node
-  document.querySelectorAll('.t-node').forEach(el => el.classList.remove('selected'));
-  const selEl = document.querySelector(`.t-node[data-id="${id}"]`);
-  if (selEl) selEl.classList.add('selected');
-
-  // Header
-  document.getElementById('detailOpBadge').textContent = op;
-  document.getElementById('detailOpBadge').style.background = color;
-  document.getElementById('detailTitle').textContent = label;
-
-  // Body
   const body = document.getElementById('detailBody');
+  const titleEl = document.getElementById('detailTitle');
+  const overlay = document.getElementById('modalOverlay');
+
   body.innerHTML = '';
+  const currentOp = (node.operation_history || ['root()']).at(-1);
+  titleEl.innerHTML = createBadgeHTML(currentOp, "font-size:14px; padding:4px 12px; margin-bottom:0;");
 
-  // Level
-  appendDetailBlock(body, 'Level', `<code>${node.level || '—'}</code>`, false);
+  overlay.classList.add('visible');
+  document.body.classList.add('modal-open');
 
-  // Operation History
-  const histHtml = (node.operation_history || [])
-    .map(h => `<code>${escHtml(h)}</code>`)
-    .join(' → ');
-  appendDetailBlock(body, 'Operation History', histHtml || '—', false);
+  const levelDiv = document.createElement('div');
+  levelDiv.className = 'detail-block full-width';
+  levelDiv.innerHTML = `<div class="detail-block-label">level</div><div class="detail-block-content">${node._col}</div>`;
+  body.appendChild(levelDiv);
 
-  // Operation Pool
-  const poolHtml = (node.operation_pool || [])
-    .map(p => `<span class="pill" style="background:${colorForOp(p)}">${p}</span>`)
-    .join('');
-  appendDetailBlock(body, 'Operation Pool', poolHtml || '—', false);
+  const histDiv = document.createElement('div');
+  histDiv.className = 'detail-block full-width';
+  const histBadges = (node.operation_history || []).map(op => createBadgeHTML(op)).join(' <span style="color:var(--muted); margin: 0 4px;">→</span> ');
+  histDiv.innerHTML = `<div class="detail-block-label">operation_history</div><div class="detail-block-content" style="line-height:2.2;">${histBadges}</div>`;
+  body.appendChild(histDiv);
 
-  // Tables
-  const tables = node.tables || {};
-  const tableNames = Object.keys(tables);
-  if (tableNames.length) {
-    tableNames.forEach(tname => {
-      const b = document.createElement('div');
-      b.className = 'detail-block';
-      b.innerHTML = `<div class="detail-block-label">Table: ${escHtml(tname)}</div>
-        <div class="detail-table-wrap">${renderCSVTable(tables[tname])}</div>`;
-      body.appendChild(b);
-    });
-  } else {
-    appendDetailBlock(body, 'Tables', '—', false);
+  const poolDiv = document.createElement('div');
+  poolDiv.className = 'detail-block full-width';
+  const poolBadges = (node.operation_pool || []).map(op => createBadgeHTML(op)).join(' ');
+  poolDiv.innerHTML = `<div class="detail-block-label">operation_pool</div><div class="detail-block-content" style="line-height:2.2;">${poolBadges || 'N/A'}</div>`;
+  body.appendChild(poolDiv);
+
+  const tables = node.tables || (node.table ? { "Current": node.table } : {});
+  Object.entries(tables).forEach(([name, data]) => {
+    const div = document.createElement('div');
+    div.className = 'detail-block full-width';
+    div.innerHTML = `<div class="detail-block-label">table: ${name}</div><div class="detail-table-wrap">${renderCSVTable(data)}</div>`;
+    body.appendChild(div);
+  });
+
+  if (node.report || (node.reports && node.reports.length)) {
+    const content = node.report || node.reports.join('<br><br>');
+    const div = document.createElement('div');
+    div.className = 'detail-block full-width';
+    div.innerHTML = `<div class="detail-block-label">report</div><div class="detail-block-content">${content}</div>`;
+    body.appendChild(div);
   }
-
-  // Reports (intermediate)
-  const reports = node.reports || [];
-  if (reports.length > 0) {
-    const rHtml = reports.map((r, i) =>
-      `<div style="margin-bottom:10px"><span style="color:var(--accent2);font-size:10px">Report ${i+1}</span><br>${escHtml(r)}</div>`
-    ).join('');
-    appendDetailBlock(body, `Reports (${reports.length})`, rHtml, true);
-  }
-
-  // Final report
-  if (node.report) {
-    appendDetailBlock(body, 'Report (Final / Merged)', escHtml(node.report), true);
-  }
-
-  const panel = document.getElementById('detailPanel');
-  panel.classList.add('visible');
-  panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
-function appendDetailBlock(parent, label, contentHtml, fullWidth) {
-  const b = document.createElement('div');
-  b.className = 'detail-block' + (fullWidth ? ' full-width' : '');
-  b.innerHTML = `<div class="detail-block-label">${label}</div>
-    <div class="detail-block-content">${contentHtml}</div>`;
-  parent.appendChild(b);
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('visible');
+  document.body.classList.remove('modal-open');
 }
 
-function escHtml(str) {
-  if (!str) return '';
-  return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
-}
-
-/* ================================================================
-   TEXT COMPARISON — n-gram overlap highlighting
-   ================================================================ */
+/* ===== 6. 文本比對 (Comparison - 改為單字匹配) ===== */
 function initComparison() {
-  const refEl = document.getElementById('referenceText');
-  const genEl = document.getElementById('generatedText');
-  refEl.innerHTML = '';
-  genEl.innerHTML = '';
+  // 取得所有出現在 Reference 中的單字 (不分大小寫)
+  const refWords = new Set(refText.toLowerCase().match(/\w+/g) || []);
+  // 取得所有出現在 Generated 中的單字 (不分大小寫)
+  const genWords = new Set(genText.toLowerCase().match(/\w+/g) || []);
 
-  // Split into paragraphs
-  const refParas = refText.trim().split(/\n+/).filter(Boolean);
-  const genParas = genText.trim().split(/\n+/).filter(Boolean);
+  // 找出交集：兩個文本都擁有的單字
+  const sharedWords = new Set([...refWords].filter(w => genWords.has(w)));
 
-  // Build a set of shared n-grams (n=5) for overlap detection
-  const sharedNgrams = buildSharedNgrams(refText, genText, 5);
-
-  refParas.forEach(para => {
-    const p = document.createElement('p');
-    p.innerHTML = highlightText(para, sharedNgrams, 5);
-    refEl.appendChild(p);
-  });
-
-  genParas.forEach(para => {
-    const p = document.createElement('p');
-    p.innerHTML = highlightText(para, sharedNgrams, 5);
-    genEl.appendChild(p);
-  });
+  document.getElementById('referenceText').innerHTML = highlightText(refText, sharedWords);
+  document.getElementById('generatedText').innerHTML = highlightText(genText, sharedWords);
 }
 
-function tokenize(text) {
-  // Simple word + punctuation tokenizer; lowercase for matching
-  return text.toLowerCase().match(/\b\w+\b/g) || [];
-}
+function highlightText(text, sharedWords) {
+  // 根據非單字字元切割，保留分隔符號以便重組
+  const parts = text.split(/(\W+)/);
 
-function buildSharedNgrams(textA, textB, n) {
-  const tokA = tokenize(textA);
-  const tokB = tokenize(textB);
-
-  function ngrams(tokens, n) {
-    const set = new Set();
-    for (let i = 0; i <= tokens.length - n; i++) {
-      set.add(tokens.slice(i, i + n).join(' '));
+  return parts.map(p => {
+    // 檢查是否為單字，且該單字（小寫）是否存在於交集集合中
+    if (/\w+/.test(p) && sharedWords.has(p.toLowerCase())) {
+      return `<span class="match-hl">${p}</span>`;
     }
-    return set;
-  }
-
-  const setA = ngrams(tokA, n);
-  const setB = ngrams(tokB, n);
-  const shared = new Set();
-  setA.forEach(g => { if (setB.has(g)) shared.add(g); });
-  return shared;
+    return p;
+  }).join('').replace(/\n/g, '<br>');
 }
 
-function highlightText(para, sharedNgrams, n) {
-  // Tokenize the paragraph preserving original case and whitespace
-  // We'll work at word level, marking positions that belong to a matching n-gram
-
-  const words = [];
-  // Split on word boundaries, keep whitespace and punctuation as separate tokens
-  const re = /(\w+|\W+)/g;
-  let m;
-  while ((m = re.exec(para)) !== null) {
-    words.push({ text: m[1], isWord: /\w+/.test(m[1]) });
-  }
-
-  // Build array of just the "word" tokens (lowercase) to check n-grams
-  const wordIdxMap = [];  // maps wordToken index → words[] index
-  words.forEach((w, i) => { if (w.isWord) wordIdxMap.push(i); });
-  const wordLower = wordIdxMap.map(i => words[i].text.toLowerCase());
-
-  // Mark which word positions are in a shared n-gram
-  const marked = new Array(wordIdxMap.length).fill(false);
-  for (let i = 0; i <= wordLower.length - n; i++) {
-    const gram = wordLower.slice(i, i + n).join(' ');
-    if (sharedNgrams.has(gram)) {
-      for (let j = i; j < i + n; j++) marked[j] = true;
-    }
-  }
-
-  // Reconstruct HTML with highlights
-  let html = '';
-  let wIdx = 0; // index into wordIdxMap
-  words.forEach((w, i) => {
-    if (!w.isWord) {
-      html += escHtml(w.text);
-    } else {
-      const isMarked = marked[wIdx] === true;
-      if (isMarked) {
-        html += `<span class="match-hl">${escHtml(w.text)}</span>`;
-      } else {
-        html += escHtml(w.text);
-      }
-      wIdx++;
-    }
-  });
-  return html;
-}
-
-/* ================================================================
-   INIT
-   ================================================================ */
-document.addEventListener('DOMContentLoaded', () => {
-  // document.getElementById('loadBtn').addEventListener('click', loadAll);
-  loadAll();
-  document.getElementById('detailClose').addEventListener('click', () => {
-    document.getElementById('detailPanel').classList.remove('visible');
-    document.querySelectorAll('.t-node').forEach(el => el.classList.remove('selected'));
-  });
-});
+/* ===== 7. 事件綁定 (Event Listeners) ===== */
+document.addEventListener('DOMContentLoaded', loadAll);
+document.getElementById('detailClose').onclick = closeModal;
+document.getElementById('modalOverlay').onclick = (e) => {
+  if (e.target.id === 'modalOverlay') closeModal();
+};
