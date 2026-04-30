@@ -1,0 +1,27 @@
+## write
+
+### Function
+
+Write the report based on the tables. Represent the leaf node of the tree.
+
+### Argument
+
+None.
+
+### Return
+
+Report based on the tables.
+
+### Example
+
+#### Tables
+
+{TABLES}
+
+#### Operations & Arguments
+
+{OPERATIONS_ARGUMENTS}
+
+#### Report
+
+{REPORT}

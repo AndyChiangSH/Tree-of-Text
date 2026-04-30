@@ -1,0 +1,27 @@
+## count
+
+### Function
+
+Count the number of unique values by the column names of tables.
+
+### Argument
+
+Column names. Multiple arguments are allowed.
+
+### Return
+
+New tables with the column names and count.
+
+### Example
+
+#### Tables
+
+{TABLES}
+
+#### Operations & Arguments
+
+{OPERATIONS_ARGUMENTS}
+
+#### New Tables
+
+{NEW_TABLES}

@@ -1,0 +1,76 @@
+You are a content planner for the basketball game report.
+
+Please select candidate Operations and corresponding Arguments from the Operation Pool based on the input Tables and Operation History. These candidate Operations will be the next Operation in the Operation History.
+
+# Requirements
+
+1. Strictly adhere to the requirements.
+2. The output must be in English.
+3. The output must be based on the input data; do not hallucinate.
+4. The table format is {TABLE_FORMAT}.
+5. The length of Operation History must be less than or equal to {MAX_DEPTH}.
+6. The number of Operations must be less than or equal to {MAX_DEGREE}.
+7. Only select Operations from the Operation Pool.
+8. Arguments must match the format required by the corresponding Operations.
+9. Operations & Arguments must follow this format: [operation_1(argument_1, ...), operation_2(argument_2, ...), operation_3(argument_3, ...), ...]
+10. Only output Operations & Arguments!
+11. The number of tokens in the Operations & Arguments must be within {PLANNING_TOKENS}.
+
+# Table Description
+
+## game
+
+- home_name: Name of home team (unicode)
+- home_city: City of home team (unicode)
+- vis_name: Name of visiting team (unicode)
+- vis_city: City of visiting team (unicode)
+- day: Date of game in %MM_%DD_%YY format (unicode)
+
+## home_line & vis_line
+
+- TEAM-NAME: Team name (unicode)
+- TEAM-CITY: Team city (unicode)
+- TEAM-AST: Number of team assists (integer as unicode)
+- TEAM-FG3_PCT: Percentage of 3 pointers made by team (integer as unicode)
+- TEAM-FG_PCT: Percentage of field goals made by team (integer as unicode)
+- TEAM-FT_PCT: Percentage of free throws made by team (integer as unicode)
+- TEAM_LOSSES: Team losses (integer as unicode)
+- TEAM-PTS: Total team points (integer as unicode)
+- TEAM-PTS_QTR1: Team points in first quarter (integer as unicode)
+- TEAM-PTS_QTR2: Team points in second quarter (integer as unicode)
+- TEAM-PTS_QTR3: Team points in third quarter (integer as unicode)
+- TEAM-PTS_QTR4: Team points in fourth quarter (integer as unicode)
+- TEAM-REB: Total team rebounds (integer as unicode)
+- TEAM-TOV: Total team turnovers (integer as unicode)
+- TEAM-WINS: Team wins (integer as unicode)
+
+## box_score
+
+- AST: Player assists (row_number -> integer as unicode)
+- BLK: Player blocks (row_number -> integer as unicode)
+- DREB: Player defensive rebounds (row_number -> integer as unicode)
+- FG3A: Player 3-pointers attempted (row_number -> integer as unicode)
+- FG3M: Player 3-pointers made (row_number -> integer as unicode)
+- FG3_PCT: Player 3-pointer percentage (row_number -> integer as unicode)
+- FGA: Player field goals attempted (row_number -> integer as unicode)
+- FGM: Player field goals made (row_number -> integer as unicode)
+- FG_PCT: Player field goal percentage (row_number -> integer as unicode)
+- FIRST_NAME: Player first name (row_number -> unicode)
+- FTA: Player free throws attempted (row_number -> integer as unicode)
+- FTM: Player free throws made (row_number -> integer as unicode)
+- FT_PCT: Player free throw percentage (row_number -> integer as unicode)
+- MIN: Player minutes played (row_number -> integer as unicode)
+- OREB: Player offensive rebounds (row_number -> integer as unicode)
+- PF: Player personal fouls (row_number -> integer as unicode)
+- PLAYER_NAME: Player full name (row_number -> integer as unicode)
+- PTS: Player points (row_number -> integer as unicode)
+- REB: Player total rebounds (row_number -> integer as unicode)
+- SECOND_NAME: Player second name (row_number -> integer as unicode)
+- START_POSITION: Player position (row_number -> unicode)
+- STL: Player steals (row_number -> integer as unicode)
+- TEAM_CITY: Player team city (row_number -> unicode)
+- TO: Player turnovers (row_number -> integer as unicode)
+
+# Operation Description
+
+{OPERATION_DESCRIPTION}

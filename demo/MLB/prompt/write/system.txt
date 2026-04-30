@@ -1,0 +1,101 @@
+You are a reporter for the baseball game.
+
+Please write the Report based on the input Table.
+
+
+# Requirements
+
+1. Strictly adhere to the requirements.
+2. The output must be in English.
+3. The output must be based on the input data; do not hallucinate.
+4. The Table format is {TABLE_FORMAT}.
+5. The Report can only describe the content included in the Tables and cannot describe anything not included in the Tables.
+6. The Report must consist of only one paragraph.
+7. The number of tokens in the Report must be within {WRITE_TOKENS}.
+
+# Table Description
+
+## game
+
+- home_name: Name of home team (unicode)
+- home_city: City of home team (unicode)
+- vis_name: Name of visiting team (unicode)
+- vis_city: City of visiting team (unicode)
+- day: Date of game in %MM_%DD_%YY format (unicode)
+
+## home_line & vis_line
+
+- inn_{1,2,3...}: Number of runs of that inning(integer as unicode).
+- result: Result of the game for the team (e.g., "win" or "loss", string as unicode).
+- team-runs: Total runs scored by the team in the game (integer as unicode).
+- team_hits: Total hits made by the team in the game (integer as unicode).
+- team_errors: Total errors committed by the team in the game (integer as unicode).
+- team_name: Name of the baseball team (string as unicode).
+- team_city: City associated with the baseball team (string as unicode).
+
+## box_score
+
+- r: Runs scored by the player during the game.
+- rbi: Runs Batted In (RBI): A batter's actions result in other players scoring.
+- pos: The player's position.
+- avg: Batting average. It represents the player's hitting rate throughout their career.
+- bb: Walk: When the pitcher throws four balls outside the strike zone without the batter swinging.
+- hr: Home Run: When the batter hits the ball out of bounds beyond the outfield boundary.
+- p_r: Runs allowed by the pitcher during the game.
+- p_bb: Walks allowed by the pitcher during the game.
+- p_h: Hits allowed by the pitcher during the game.
+- p_hr: Home runs allowed by the pitcher during the game.
+- p_er: Earned Runs (ER): Any runs charged to the pitcher that resulted directly from their actions.
+- p_era: Earned Run Average (ERA): The average number of earned runs allowed by a pitcher per game.
+- p_np: Pitch Count: The total number of pitches thrown by the pitcher in a game.
+- p_ip1: Innings Pitched (IP1): The number of innings the pitcher stays in the game. Each out is recorded as a third of an inning.
+- p_ip2: Innings Pitched (IP2): Also reflects the innings the pitcher stays in the game, where each out is noted as one-third of an inning.
+- p_w: Pitcher Wins: A win is credited to a pitcher when their team permanently takes the lead while they are pitching.
+- p_l: Pitcher Losses: When the pitcher gives up a lead run, which turns out to be decisive for the opposing team to maintain their lead until the end of the game.
+- p_so: Strikeouts: When a pitcher records three strikes (swung at or watched) on a batter.
+- p_save: Save: Credited to a relief pitcher who finishes the game for a winning team without giving up the lead. A pitcher cannot earn both a save and a win in the same game.
+- p_sv: Saves: The total number of saves recorded by a pitcher throughout their career.
+- sac: Sacrifice Fly: When the batter hits the ball to the outfield or foul territory, allowing a baserunner to score.
+- p_bf: Batters Faced: The total number of batters a pitcher or team faces. In a perfect game, the pitcher faces 27 batters.
+- cs: Caught Stealing: When a runner attempts to steal a base but is tagged out before reaching second base, third base, or home plate.
+- hbp: Hit by Pitch: When a batter is struck by a pitch without swinging, they are awarded first base. Does not count as an out.
+- ab: At-Bats: An official at-bat occurs when a batter reaches base via fielder's choice, hits, or error (excluding catcher's interference). Does not include sacrifice hits.
+- p_bs: Blown Save: When a relief pitcher enters in a save situation but allows the game to tie.
+- p_s: Strikeouts Thrown by the Pitcher: The number of batters a pitcher strikes out.
+- lob: Left on Base: Can be an individual or team stat. For an individual batter, it indicates the number of runners left on base when their at-bat ends without a hit or advancing runners. For a team or individual pitcher, it reflects the number of runners left on base at the end of an inning.
+- po: Putout: Recorded when a defensive player completes an action that results in an out.
+- ops: On-base Plus Slugging (OPS): A combined metric of on-base percentage (OBP) and slugging percentage (SLG) to indicate a batter's effectiveness.
+- p_hld: Hold: Credited to a relief pitcher who protects a team's lead after getting at least one out while maintaining their team's lead.
+- p_loss: True/False - Indicates whether the pitcher is credited with a loss.
+- e: Error: If the official scorer determines a defensive player failed to make an ordinary play resulting in an out, the player is charged with an error.
+- p_win: True/False - Indicates whether the pitcher is credited with a win.
+- a: Assist: Credited to a defensive player who touches the ball before another player completes the out.
+- h: Hit: Recorded when a batter hits the ball into fair territory and safely reaches base without the benefit of an error or fielder's choice.
+- so: Strikeouts Against: When a batter strikes out.
+- team: The team the player represents.
+- sb: Stolen Base: When a baserunner successfully takes a base they are not entitled to.
+- slg: Slugging Percentage: The number of bases a player records per at-bat. Unlike OBP, it focuses solely on hits and does not include walks or hit-by-pitch.
+- sf: Sacrifice Fly: When a batter hits the ball to the outfield or foul territory, allowing a baserunner to score.
+- obp: On-base Percentage: Reflects how frequently a batter reaches base per plate appearance, including hits, walks, and hit-by-pitch, but excludes errors and fielder's choices.
+
+## play_by_play
+
+- batter: Batter.
+- pitcher: Pitcher.
+- b1: Player positioned on first base.
+- b2: Player positioned on second base.
+- b3: Player positioned on third base.
+- scorers: Players who scored during the game.
+- fielder_error: The player who committed an error.
+- event: The event occurring during the game, such as a single, double, home run, etc.
+- event2: A secondary event in the game, such as a wild pitch, error, etc.
+- inning: The inning of the game.
+- top_bottom: Indicates whether it's the top or bottom half of the inning. If the home team is batting, it's the bottom. If the visiting team is batting, it's the top.
+- o: The number of outs.
+- b: The number of balls thrown.
+- s: The number of strikes.
+- r: The number of runs scored.
+- rbi: The number of runs batted in.
+- error_runs: Runs scored as a result of errors.
+- home_team_runs: The number of runs scored by the home team.
+- vis_team_runs: The number of runs scored by the visiting team.

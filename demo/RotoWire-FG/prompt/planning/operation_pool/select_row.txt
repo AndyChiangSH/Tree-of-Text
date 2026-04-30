@@ -1,0 +1,27 @@
+## select_row
+
+### Function
+
+Select the rows by the row indices.
+
+### Argument
+
+Row indices. i represents the i-th row, -i represents the i-th row from the bottom, i:j represents from the i-th row to the j-th row. Multiple arguments are allowed.
+
+### Return
+
+New tables with selected rows.
+
+### Example
+
+#### Tables
+
+{TABLES}
+
+#### Operations & Arguments
+
+{OPERATIONS_ARGUMENTS}
+
+#### New Tables
+
+{NEW_TABLES}
