@@ -78,12 +78,13 @@ function renderCSVTable(csvText) {
 /* ===== 3. 資料載入 (更新為 4 個 CSV) ===== */
 async function loadAll() {
   try {
-    const [log, box, game, home, vis, config, text, report] = await Promise.all([
+    const [log, box, game, home, vis, play, config, text, report] = await Promise.all([
       fetch("log/log.json").then(r => r.json()),
       fetch("table/box_score.csv").then(r => r.text()),
       fetch("table/game.csv").then(r => r.text()),
       fetch("table/home_line.csv").then(r => r.text()),
       fetch("table/vis_line.csv").then(r => r.text()),
+      fetch("table/play_by_play.csv").then(r => r.text()),
       fetch("config/config.json").then(r => r.json()),
       fetch("text/text.txt").then(r => r.text()),
       fetch("report/report.txt").then(r => r.text())
@@ -95,7 +96,8 @@ async function loadAll() {
       box_score: box,
       game: game,
       home_line: home,
-      vis_line: vis
+      vis_line: vis,
+      play_by_play: play
     };
     configData = config;
     refText = text;

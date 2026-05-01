@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tree-of-Text | RotoWire-FG</title>
+  <title>Tree-of-Text | MLB</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
@@ -21,8 +21,8 @@
     <p class="hero-subtitle">A Tree-based Prompting Framework for<br>Table-to-Text Generation in the Sports Domain</p>
     <nav class="toc">
       <a href="../ShuttleSet+/">🏸 ShuttleSet+</a>
-      <a class="active" href="../RotoWire-FG/">🏀 RotoWire-FG</a>
-      <a href="../MLB/">⚾ MLB</a>
+      <a href="../RotoWire-FG/">🏀 RotoWire-FG</a>
+      <a class="active" href="../MLB/">⚾ MLB</a>
     </nav>
   </header>
 
@@ -44,14 +44,15 @@
         <span class="section-num">02</span>
         <div>
           <h2 class="section-title">Input Tables</h2>
-          <p class="section-desc">RotoWire-FG dataset · Four tables</p>
+          <p class="section-desc">MLB dataset · Five tables</p>
         </div>
       </div>
-      <div class="tab-nav" id="tableTabs">
-        <button class="tab-btn" data-tab="game">game.csv</button>
+      <div class="tab-nav">
+        <button class="tab-btn active" data-tab="game">game.csv</button>
         <button class="tab-btn" data-tab="home_line">home_line.csv</button>
         <button class="tab-btn" data-tab="vis_line">vis_line.csv</button>
-        <button class="tab-btn active" data-tab="box_score">box_score.csv</button>
+        <button class="tab-btn" data-tab="box_score">box_score.csv</button>
+        <button class="tab-btn" data-tab="play_by_play">play_by_play.csv</button>
       </div>
       <div class="table-container" id="tableContainer"></div>
     </section>
@@ -64,13 +65,9 @@
           <p class="section-desc">Click a node to view its details · Filter by operation type</p>
         </div>
       </div>
-      <div class="tree-controls">
-        <span class="filter-label">Filter:</span>
-        <div class="filter-chips" id="filterChips"></div>
-      </div>
-      <div class="tree-scroll">
+      <div class="tree-viewport">
         <div class="tree-canvas" id="treeCanvas">
-          <svg id="treeSvg" xmlns="http://www.w3.org/2000/svg"></svg>
+          <svg id="treeSvg"></svg>
           <div id="treeNodes"></div>
         </div>
       </div>
