@@ -105,7 +105,16 @@ body {
   border-radius: 4px;
   transition: all 0.2s;
 }
-.toc a:hover { color: var(--accent); border-color: var(--accent); background: rgba(240,192,64,0.06); }
+.toc a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: rgba(240, 192, 64, 0.06);
+}
+.toc a.active {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: rgba(240, 192, 64, 0.06);
+}
 
 /* ===== FILE PATH PANEL ===== */
 .filepath-panel {
