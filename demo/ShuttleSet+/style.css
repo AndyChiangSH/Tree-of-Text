@@ -97,7 +97,7 @@ body {
   flex-wrap: wrap;
 }
 .toc a {
-  font-size: 12px;
+  font-size: 14px;
   color: var(--muted);
   text-decoration: none;
   border: 1px solid var(--border2);
