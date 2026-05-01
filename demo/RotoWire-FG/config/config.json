@@ -1,5 +1,5 @@
 {
-    "dataset": "RotoWire",
+    "dataset": "RotoWire-FG",
     "mode": "test",
     "prompt": "Zero-shot",
     "shot": 0,
