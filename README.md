@@ -1,6 +1,8 @@
-# Tree-of-Text
+# 🌲Tree-of-Text
 
-"Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in Sports Game Reports"
+"Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in the Sports Domain", ACL SRW 2025 Long Paper (Oral)
+
+[Paper](https://arxiv.org/abs/2604.26501) | [Slides](https://andychiangsh.github.io/Tree-of-Text/slides/slides.pdf) | [Demo](https://andychiangsh.github.io/Tree-of-Text/demo/)
 
 ## Setup
 
@@ -75,3 +77,26 @@
     - **planning:** prompt for Content Planning
     - **write:** prompt for `write()` operation
     - **generating:** prompt for Content Generating
+
+## Demo
+
+### [ShuttleSet+](https://andychiangsh.github.io/Tree-of-Text/demo/ShuttleSet+/)
+
+1. **Configuration:** Framework hyperparameters · Model settings
+2. **Input Tables:** ShuttleSet+ dataset · Three tables
+3. **Tree-of-Text:** Click a node to view its details · Filter by operation type
+4. **Output Texts:** Reference Text vs. Generated Text
+
+### [RotoWire-FG](https://andychiangsh.github.io/Tree-of-Text/demo/RotoWire-FG/)
+
+1. **Configuration:** Framework hyperparameters · Model settings
+2. **Input Tables:** RotoWire-FG dataset · Four tables
+3. **Tree-of-Text:** Click a node to view its details · Filter by operation type
+4. **Output Texts:** Reference Text vs. Generated Text
+
+### [MLB](https://andychiangsh.github.io/Tree-of-Text/demo/MLB/)
+
+1. **Configuration:** Framework hyperparameters · Model settings
+2. **Input Tables:** MLB dataset · Five tables
+3. **Tree-of-Text:** Click a node to view its details · Filter by operation type
+4. **Output Texts:** Reference Text vs. Generated Text
